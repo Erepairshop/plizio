@@ -3,7 +3,628 @@ import { POI } from './poi';
 export const italyCitiesV2: POI[] = [
 
   {
-    id: "italy-brescia-cities-v2",
+    id: "italy-brescia-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Scavi archeologici di palazzo Martinengo Cesaresco Novarino",
+                  "text": "Unterirdische Ausgrabungen unter dem Palast zeigen römische und mittelalterliche Funde in Brescia.",
+                  "category": "museum",
+                  "coords": [
+                        10.225456,
+                        45.539376
+                  ]
+            },
+            {
+                  "name": "Museo delle armi Luigi Marzoli",
+                  "text": "Das Museum im Schloss von Brescia beherbergt eine bedeutende Sammlung historischer Waffen und Rüstungen.",
+                  "category": "museum",
+                  "coords": [
+                        10.225222,
+                        45.5429
+                  ]
+            },
+            {
+                  "name": "Teatro Grande",
+                  "text": "Das prachtvolle Haupttheater von Brescia ist bekannt für seine beeindruckende Architektur und Akustik.",
+                  "category": "cultural",
+                  "coords": [
+                        10.220761,
+                        45.536787
+                  ]
+            },
+            {
+                  "name": "Museo nazionale della fotografia",
+                  "text": "Ein Museum in Brescia, das der Geschichte der Fotografie und technischen Apparaten gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        10.219116,
+                        45.542691
+                  ]
+            },
+            {
+                  "name": "Pinacoteca Tosio Martinengo",
+                  "text": "Diese bedeutende Kunstgalerie in Brescia zeigt Meisterwerke der Renaissance und des Barock.",
+                  "category": "museum",
+                  "coords": [
+                        10.226154,
+                        45.534604
+                  ]
+            },
+            {
+                  "name": "Ken Damy",
+                  "text": "Das Museum Ken Damy in Brescia widmet sich der zeitgenössischen Fotografie und präsentiert wechselnde Ausstellungen. Es ist ein wichtiger Treffpunkt für Fotokunst in der Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        10.218373,
+                        45.539254
+                  ]
+            },
+            {
+                  "name": "Museo di Santa Giulia",
+                  "text": "Das Museo di Santa Giulia ist in einem ehemaligen Klosterkomplex untergebracht und gehört zum UNESCO-Welterbe. Es zeigt die Geschichte Brescias von der Urzeit bis heute.",
+                  "category": "museum",
+                  "coords": [
+                        10.229105,
+                        45.539261
+                  ]
+            },
+            {
+                  "name": "Teatro Romano",
+                  "text": "Das römische Theater von Brescia wurde im 1. Jahrhundert erbaut und ist eines der größten seiner Art in Norditalien. Es liegt direkt neben dem Kapitolinischen Tempel.",
+                  "category": "historical",
+                  "coords": [
+                        10.226605,
+                        45.539938
+                  ]
+            },
+            {
+                  "name": "Museo di Scienze Naturali",
+                  "text": "Das Naturwissenschaftliche Museum in Brescia zeigt umfangreiche Sammlungen zur Geologie, Zoologie und Botanik der Region. Es bietet Bildungsprogramme für alle Altersgruppen an.",
+                  "category": "museum",
+                  "coords": [
+                        10.226872,
+                        45.552822
+                  ]
+            },
+            {
+                  "name": "Museo Internazionale del Tappeto Antico - MITA",
+                  "text": "Das MITA Museum in Brescia ist antiken Teppichen gewidmet und zeigt seltene Textilkunstwerke aus verschiedenen Kulturen. Es bietet Einblicke in die Webtraditionen vergangener Jahrhunderte.",
+                  "category": "museum",
+                  "coords": [
+                        10.211927,
+                        45.531258
+                  ]
+            },
+            {
+                  "name": "Cavallerizza - Centro della Fotografia Italiana",
+                  "text": "Die Cavallerizza ist ein Zentrum für italienische Fotografie in Brescia, das in einem historischen Gebäude untergebracht ist. Es fördert zeitgenössische Fotokunst durch Ausstellungen und Veranstaltungen.",
+                  "category": "museum",
+                  "coords": [
+                        10.213894,
+                        45.539251
+                  ]
+            },
+            {
+                  "name": "C.AR.ME. Centro Arti Multiculturali Etnosociali",
+                  "text": "C.AR.ME. ist ein multikulturelles Kunstzentrum in Brescia, das sich in der ehemaligen Kirche der Heiligen Philipp und Jakob befindet. Es bietet Raum für innovative künstlerische Projekte und sozialen Austausch.",
+                  "category": "museum",
+                  "coords": [
+                        10.217376,
+                        45.543518
+                  ]
+            },
+            {
+                  "name": "Museo Diocesano Brescia",
+                  "text": "Ein Diözesanmuseum in Brescia, das religiöse Kunst und historische Artefakte der Region ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        10.220595,
+                        45.54123
+                  ]
+            },
+            {
+                  "name": "Museo Musicale Bresciano",
+                  "text": "Ein Museum in Brescia, das sich der Musikgeschichte und den Musikinstrumenten der Stadt widmet.",
+                  "category": "museum",
+                  "coords": [
+                        10.224097,
+                        45.537467
+                  ]
+            },
+            {
+                  "name": "Cattedrale estiva di Santa Maria Assunta",
+                  "text": "Die neue Kathedrale von Brescia, bekannt für ihre beeindruckende Kuppel und ihre barocke Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        10.221958,
+                        45.538616
+                  ]
+            },
+            {
+                  "name": "Torre della Pallata",
+                  "text": "Ein massiver mittelalterlicher Turm in Brescia, der einst als Teil der Stadtbefestigung diente.",
+                  "category": "tower",
+                  "coords": [
+                        10.215933,
+                        45.540638
+                  ]
+            },
+            {
+                  "name": "Torre dell'Orologio",
+                  "text": "Der prächtige Uhrturm an der Piazza della Loggia in Brescia mit seiner astronomischen Uhr.",
+                  "category": "tower",
+                  "coords": [
+                        10.220635,
+                        45.539716
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Scavi archeologici di palazzo Martinengo Cesaresco Novarino",
+                  "text": "A palota alatti régészeti ásatások római és középkori maradványokat mutatnak be Bresciában.",
+                  "category": "museum",
+                  "coords": [
+                        10.225456,
+                        45.539376
+                  ]
+            },
+            {
+                  "name": "Museo delle armi Luigi Marzoli",
+                  "text": "A bresciai várban található múzeum jelentős történelmi fegyver- és páncélgyűjteménynek ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        10.225222,
+                        45.5429
+                  ]
+            },
+            {
+                  "name": "Teatro Grande",
+                  "text": "Brescia pompás főszínháza, amely lenyűgöző belső teréről és akusztikájáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        10.220761,
+                        45.536787
+                  ]
+            },
+            {
+                  "name": "Museo nazionale della fotografia",
+                  "text": "A fotózás történetének és technikai eszközeinek szentelt múzeum Bresciában.",
+                  "category": "museum",
+                  "coords": [
+                        10.219116,
+                        45.542691
+                  ]
+            },
+            {
+                  "name": "Pinacoteca Tosio Martinengo",
+                  "text": "Brescia jelentős művészeti galériája, amely reneszánsz és barokk mesterműveket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        10.226154,
+                        45.534604
+                  ]
+            },
+            {
+                  "name": "Ken Damy",
+                  "text": "A bresciai Ken Damy múzeum a kortárs fotóművészetre összpontosít, időszaki kiállításoknak adva otthont. A galéria fontos központja a helyi művészeti életnek.",
+                  "category": "museum",
+                  "coords": [
+                        10.218373,
+                        45.539254
+                  ]
+            },
+            {
+                  "name": "Museo di Santa Giulia",
+                  "text": "A Museo di Santa Giulia egy egykori kolostoregyüttesben található, és az UNESCO Világörökség része. Brescia történelmét mutatja be az őskortól napjainkig.",
+                  "category": "museum",
+                  "coords": [
+                        10.229105,
+                        45.539261
+                  ]
+            },
+            {
+                  "name": "Teatro Romano",
+                  "text": "Brescia római színháza az 1. században épült, és Észak-Olaszország egyik legnagyobb ilyen jellegű építménye. Közvetlenül a Capitoliumi templom mellett található.",
+                  "category": "historical",
+                  "coords": [
+                        10.226605,
+                        45.539938
+                  ]
+            },
+            {
+                  "name": "Museo di Scienze Naturali",
+                  "text": "A bresciai Természettudományi Múzeum a régió geológiájával, zoológiájával és botanikájával kapcsolatos gazdag gyűjteményeket mutat be. Oktatási programokat is kínál minden korosztálynak.",
+                  "category": "museum",
+                  "coords": [
+                        10.226872,
+                        45.552822
+                  ]
+            },
+            {
+                  "name": "Museo Internazionale del Tappeto Antico - MITA",
+                  "text": "A bresciai MITA múzeum antik szőnyegeknek szentelt intézmény, amely különböző kultúrák ritka textilalkotásait mutatja be. Betekintést nyújt az elmúlt évszázadok szövési hagyományaiba.",
+                  "category": "museum",
+                  "coords": [
+                        10.211927,
+                        45.531258
+                  ]
+            },
+            {
+                  "name": "Cavallerizza - Centro della Fotografia Italiana",
+                  "text": "A Cavallerizza az olasz fotóművészet központja Bresciában, amely egy történelmi épületben kapott helyet. Kiállításokon és rendezvényeken keresztül népszerűsíti a kortárs fotográfiát.",
+                  "category": "museum",
+                  "coords": [
+                        10.213894,
+                        45.539251
+                  ]
+            },
+            {
+                  "name": "C.AR.ME. Centro Arti Multiculturali Etnosociali",
+                  "text": "A C.AR.ME. egy bresciai multikulturális művészeti központ, amely a Szent Fülöp és Jakab egykori templomában található. Innovatív művészeti projekteknek és társadalmi párbeszédnek ad helyet.",
+                  "category": "museum",
+                  "coords": [
+                        10.217376,
+                        45.543518
+                  ]
+            },
+            {
+                  "name": "Museo Diocesano Brescia",
+                  "text": "Vallási művészeti gyűjtemény és egyházi kincstár Brescia szívében.",
+                  "category": "museum",
+                  "coords": [
+                        10.220595,
+                        45.54123
+                  ]
+            },
+            {
+                  "name": "Museo Musicale Bresciano",
+                  "text": "Brescia zenei hagyományait és hangszereit bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        10.224097,
+                        45.537467
+                  ]
+            },
+            {
+                  "name": "Cattedrale estiva di Santa Maria Assunta",
+                  "text": "Brescia \"új dómja\", amely monumentális kupolájáról és fehér márvány homlokzatáról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        10.221958,
+                        45.538616
+                  ]
+            },
+            {
+                  "name": "Torre della Pallata",
+                  "text": "Brescia egyik jellegzetes középkori tornya, amely eredetileg védelmi célokat szolgált.",
+                  "category": "tower",
+                  "coords": [
+                        10.215933,
+                        45.540638
+                  ]
+            },
+            {
+                  "name": "Torre dell'Orologio",
+                  "text": "Brescia csillagászati órával díszített tornya a Piazza della Loggia téren.",
+                  "category": "tower",
+                  "coords": [
+                        10.220635,
+                        45.539716
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Scavi archeologici di palazzo Martinengo Cesaresco Novarino",
+                  "text": "Săpăturile arheologice de sub palat scot la iveală vestigii romane și medievale în Brescia.",
+                  "category": "museum",
+                  "coords": [
+                        10.225456,
+                        45.539376
+                  ]
+            },
+            {
+                  "name": "Museo delle armi Luigi Marzoli",
+                  "text": "Muzeul situat în castelul din Brescia găzduiește o colecție importantă de arme și armuri istorice.",
+                  "category": "museum",
+                  "coords": [
+                        10.225222,
+                        45.5429
+                  ]
+            },
+            {
+                  "name": "Teatro Grande",
+                  "text": "Teatrul principal somptuos din Brescia este renumit pentru interiorul său impresionant și acustică.",
+                  "category": "cultural",
+                  "coords": [
+                        10.220761,
+                        45.536787
+                  ]
+            },
+            {
+                  "name": "Museo nazionale della fotografia",
+                  "text": "Un muzeu din Brescia dedicat istoriei fotografiei și aparatelor tehnice.",
+                  "category": "museum",
+                  "coords": [
+                        10.219116,
+                        45.542691
+                  ]
+            },
+            {
+                  "name": "Pinacoteca Tosio Martinengo",
+                  "text": "Această galerie de artă importantă din Brescia expune capodopere din perioada Renașterii și a Barocului.",
+                  "category": "museum",
+                  "coords": [
+                        10.226154,
+                        45.534604
+                  ]
+            },
+            {
+                  "name": "Ken Damy",
+                  "text": "Muzeul Ken Damy din Brescia este dedicat fotografiei contemporane și găzduiește diverse expoziții temporare. Este un punct de referință pentru arta fotografică din oraș.",
+                  "category": "museum",
+                  "coords": [
+                        10.218373,
+                        45.539254
+                  ]
+            },
+            {
+                  "name": "Museo di Santa Giulia",
+                  "text": "Museo di Santa Giulia este situat într-un fost complex monahal și face parte din Patrimoniul Mondial UNESCO. Acesta prezintă istoria orașului Brescia din preistorie până în prezent.",
+                  "category": "museum",
+                  "coords": [
+                        10.229105,
+                        45.539261
+                  ]
+            },
+            {
+                  "name": "Teatro Romano",
+                  "text": "Teatrul roman din Brescia a fost construit în secolul I și este unul dintre cele mai mari de acest tip din nordul Italiei. Se află chiar lângă Templul Capitolin.",
+                  "category": "historical",
+                  "coords": [
+                        10.226605,
+                        45.539938
+                  ]
+            },
+            {
+                  "name": "Museo di Scienze Naturali",
+                  "text": "Muzeul de Științe Naturale din Brescia prezintă colecții bogate despre geologia, zoologia și botanica regiunii. Oferă programe educaționale pentru toate vârstele.",
+                  "category": "museum",
+                  "coords": [
+                        10.226872,
+                        45.552822
+                  ]
+            },
+            {
+                  "name": "Museo Internazionale del Tappeto Antico - MITA",
+                  "text": "Muzeul MITA din Brescia este dedicat covoarelor antice și expune opere de artă textilă rare din diverse culturi. Oferă o privire asupra tradițiilor de țesut din secolele trecute.",
+                  "category": "museum",
+                  "coords": [
+                        10.211927,
+                        45.531258
+                  ]
+            },
+            {
+                  "name": "Cavallerizza - Centro della Fotografia Italiana",
+                  "text": "Cavallerizza este un centru pentru fotografia italiană din Brescia, găzduit într-o clădire istorică. Acesta promovează arta fotografică contemporană prin expoziții și evenimente.",
+                  "category": "museum",
+                  "coords": [
+                        10.213894,
+                        45.539251
+                  ]
+            },
+            {
+                  "name": "C.AR.ME. Centro Arti Multiculturali Etnosociali",
+                  "text": "C.AR.ME. este un centru de artă multicultural din Brescia, situat în fosta biserică a Sfinților Filip și Iacob. Acesta oferă spațiu pentru proiecte artistice inovatoare și schimburi sociale.",
+                  "category": "museum",
+                  "coords": [
+                        10.217376,
+                        45.543518
+                  ]
+            },
+            {
+                  "name": "Museo Diocesano Brescia",
+                  "text": "Un muzeu diecezan din Brescia care expune artă religioasă și obiecte de cult istorice.",
+                  "category": "museum",
+                  "coords": [
+                        10.220595,
+                        45.54123
+                  ]
+            },
+            {
+                  "name": "Museo Musicale Bresciano",
+                  "text": "Muzeul muzical din Brescia dedicat istoriei instrumentelor și tradiției muzicale locale.",
+                  "category": "museum",
+                  "coords": [
+                        10.224097,
+                        45.537467
+                  ]
+            },
+            {
+                  "name": "Cattedrale estiva di Santa Maria Assunta",
+                  "text": "Catedrala nouă din Brescia, remarcabilă prin cupola sa impunătoare și arhitectura barocă.",
+                  "category": "religious",
+                  "coords": [
+                        10.221958,
+                        45.538616
+                  ]
+            },
+            {
+                  "name": "Torre della Pallata",
+                  "text": "Un turn medieval masiv din Brescia care a făcut parte din vechile fortificații ale orașului.",
+                  "category": "tower",
+                  "coords": [
+                        10.215933,
+                        45.540638
+                  ]
+            },
+            {
+                  "name": "Torre dell'Orologio",
+                  "text": "Turnul cu ceas din Brescia situat în Piazza della Loggia, echipat cu un mecanism astronomic.",
+                  "category": "tower",
+                  "coords": [
+                        10.220635,
+                        45.539716
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Scavi archeologici di palazzo Martinengo Cesaresco Novarino",
+                  "text": "Underground archaeological excavations beneath the palace reveal Roman and medieval remains in Brescia.",
+                  "category": "museum",
+                  "coords": [
+                        10.225456,
+                        45.539376
+                  ]
+            },
+            {
+                  "name": "Museo delle armi Luigi Marzoli",
+                  "text": "Located in the Brescia Castle, this museum houses a significant collection of historic arms and armor.",
+                  "category": "museum",
+                  "coords": [
+                        10.225222,
+                        45.5429
+                  ]
+            },
+            {
+                  "name": "Teatro Grande",
+                  "text": "The grand main theater of Brescia is famous for its impressive interior and acoustics.",
+                  "category": "cultural",
+                  "coords": [
+                        10.220761,
+                        45.536787
+                  ]
+            },
+            {
+                  "name": "Museo nazionale della fotografia",
+                  "text": "A museum in Brescia dedicated to the history of photography and technical equipment.",
+                  "category": "museum",
+                  "coords": [
+                        10.219116,
+                        45.542691
+                  ]
+            },
+            {
+                  "name": "Pinacoteca Tosio Martinengo",
+                  "text": "This major art gallery in Brescia displays masterpieces from the Renaissance and Baroque periods.",
+                  "category": "museum",
+                  "coords": [
+                        10.226154,
+                        45.534604
+                  ]
+            },
+            {
+                  "name": "Ken Damy",
+                  "text": "The Ken Damy Museum in Brescia focuses on contemporary photography and hosts various temporary exhibitions. It is an important center for photographic art in the city.",
+                  "category": "museum",
+                  "coords": [
+                        10.218373,
+                        45.539254
+                  ]
+            },
+            {
+                  "name": "Museo di Santa Giulia",
+                  "text": "The Museo di Santa Giulia is housed in a former monastic complex and is a UNESCO World Heritage site. It showcases the history of Brescia from prehistory to the present day.",
+                  "category": "museum",
+                  "coords": [
+                        10.229105,
+                        45.539261
+                  ]
+            },
+            {
+                  "name": "Teatro Romano",
+                  "text": "The Roman Theater of Brescia was built in the 1st century and is one of the largest of its kind in northern Italy. It is located right next to the Capitoline Temple.",
+                  "category": "historical",
+                  "coords": [
+                        10.226605,
+                        45.539938
+                  ]
+            },
+            {
+                  "name": "Museo di Scienze Naturali",
+                  "text": "The Museum of Natural Sciences in Brescia displays extensive collections on the geology, zoology, and botany of the region. It offers educational programs for all ages.",
+                  "category": "museum",
+                  "coords": [
+                        10.226872,
+                        45.552822
+                  ]
+            },
+            {
+                  "name": "Museo Internazionale del Tappeto Antico - MITA",
+                  "text": "The MITA Museum in Brescia is dedicated to ancient carpets and displays rare textile artworks from various cultures. It offers insights into the weaving traditions of past centuries.",
+                  "category": "museum",
+                  "coords": [
+                        10.211927,
+                        45.531258
+                  ]
+            },
+            {
+                  "name": "Cavallerizza - Centro della Fotografia Italiana",
+                  "text": "Cavallerizza is a center for Italian photography in Brescia, housed in a historical building. It promotes contemporary photographic art through exhibitions and events.",
+                  "category": "museum",
+                  "coords": [
+                        10.213894,
+                        45.539251
+                  ]
+            },
+            {
+                  "name": "C.AR.ME. Centro Arti Multiculturali Etnosociali",
+                  "text": "C.AR.ME. is a multicultural art center in Brescia, located in the former church of Saints Philip and James. It provides space for innovative artistic projects and social exchange.",
+                  "category": "museum",
+                  "coords": [
+                        10.217376,
+                        45.543518
+                  ]
+            },
+            {
+                  "name": "Museo Diocesano Brescia",
+                  "text": "A diocesan museum in Brescia showcasing religious art and historical artifacts from the region.",
+                  "category": "museum",
+                  "coords": [
+                        10.220595,
+                        45.54123
+                  ]
+            },
+            {
+                  "name": "Museo Musicale Bresciano",
+                  "text": "A museum in Brescia dedicated to the musical history and instruments of the city.",
+                  "category": "museum",
+                  "coords": [
+                        10.224097,
+                        45.537467
+                  ]
+            },
+            {
+                  "name": "Cattedrale estiva di Santa Maria Assunta",
+                  "text": "The New Cathedral of Brescia, famous for its massive dome and impressive Baroque architecture.",
+                  "category": "religious",
+                  "coords": [
+                        10.221958,
+                        45.538616
+                  ]
+            },
+            {
+                  "name": "Torre della Pallata",
+                  "text": "A massive medieval tower in Brescia that was originally part of the city's fortifications.",
+                  "category": "tower",
+                  "coords": [
+                        10.215933,
+                        45.540638
+                  ]
+            },
+            {
+                  "name": "Torre dell'Orologio",
+                  "text": "The ornate clock tower in Brescia's Piazza della Loggia, featuring an astronomical clock.",
+                  "category": "tower",
+                  "coords": [
+                        10.220635,
+                        45.539716
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IT",
     name: { de: "Brescia", hu: "Brescia", ro: "Brescia", en: "Brescia" },
@@ -1182,7 +1803,520 @@ export const italyCitiesV2: POI[] = [
     image: "/poi-images/italy-parma-cities-v2.webp",
   },
   {
-    id: "italy-modena-cities-v2",
+    id: "italy-modena-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Muratoriano",
+                  "text": "Das Museum befindet sich im ehemaligen Wohnhaus des Gelehrten Ludovico Antonio Muratori in Modena.",
+                  "category": "museum",
+                  "coords": [
+                        10.924708,
+                        44.649142
+                  ]
+            },
+            {
+                  "name": "Museo della Figurina",
+                  "text": "Ein einzigartiges Museum in Modena, das der Geschichte von Sammelbildern und Aufklebern gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        10.930706,
+                        44.647535
+                  ]
+            },
+            {
+                  "name": "Palazzo Ducale",
+                  "text": "Der beeindruckende Barockpalast der Familie Este dient heute als Sitz der italienischen Militärakademie.",
+                  "category": "castle",
+                  "coords": [
+                        10.930083,
+                        44.648597
+                  ]
+            },
+            {
+                  "name": "Lapidario Romano dei Musei Civici",
+                  "text": "Dieses Museum zeigt eine bedeutende Sammlung römischer Grabsteine und antiker Monumente aus Modena.",
+                  "category": "museum",
+                  "coords": [
+                        10.920475,
+                        44.6479
+                  ]
+            },
+            {
+                  "name": "Museo Enzo Ferrari",
+                  "text": "Ein modernes Museum, das dem Leben von Enzo Ferrari gewidmet ist und sich an seinem Geburtsort befindet.",
+                  "category": "museum",
+                  "coords": [
+                        10.936526,
+                        44.652111
+                  ]
+            },
+            {
+                  "name": "Parco archeologico di Mutina",
+                  "text": "Der archäologische Park bewahrt die Überreste der antiken römischen Stadt Mutina im heutigen Modena.",
+                  "category": "historical",
+                  "coords": [
+                        10.922722,
+                        44.651116
+                  ]
+            },
+            {
+                  "name": "MaTa",
+                  "text": "Ein Ausstellungszentrum in einer ehemaligen Tabakfabrik, das sich auf zeitgenössische Kunstprojekte konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        10.928978,
+                        44.652604
+                  ]
+            },
+            {
+                  "name": "Archivio di Stato",
+                  "text": "Das Staatsarchiv im ehemaligen Kloster San Domenico bewahrt historische Dokumente und Urkunden der Stadt Modena auf.",
+                  "category": "museum",
+                  "coords": [
+                        10.928078,
+                        44.64992
+                  ]
+            },
+            {
+                  "name": "Museo Universitario Gemma",
+                  "text": "Dieses Museum der Universität Modena zeigt eine bedeutende Sammlung von Mineralien, Gesteinen und Edelsteinen.",
+                  "category": "museum",
+                  "coords": [
+                        10.92406,
+                        44.646796
+                  ]
+            },
+            {
+                  "name": "Musei del Duomo",
+                  "text": "Die Museen beherbergen wertvolle sakrale Kunstwerke, Teppiche und archäologische Funde aus der Kathedrale von Modena.",
+                  "category": "museum",
+                  "coords": [
+                        10.925686,
+                        44.646565
+                  ]
+            },
+            {
+                  "name": "Bonvi Parken",
+                  "text": "Diese Grünanlage ist dem berühmten Modeneser Comiczeichner Franco Bonvicini, bekannt als Bonvi, gewidmet.",
+                  "category": "park",
+                  "coords": [
+                        10.914174,
+                        44.63526
+                  ]
+            },
+            {
+                  "name": "Parco Enzo Ferrari",
+                  "text": "Ein weitläufiger Stadtpark in Modena, der nach dem legendären Gründer der Automarke Ferrari benannt wurde.",
+                  "category": "park",
+                  "coords": [
+                        10.907162,
+                        44.649871
+                  ]
+            },
+            {
+                  "name": "Tempio monumentale San Giuseppe ai caduti in guerra",
+                  "text": "Diese monumentale Kirche wurde zu Ehren der im Ersten Weltkrieg gefallenen Soldaten erbaut.",
+                  "category": "historical",
+                  "coords": [
+                        10.933637,
+                        44.651494
+                  ]
+            },
+            {
+                  "name": "Chiesa delle Terziarie di San Domenico",
+                  "text": "Ein religiöses Gebäude im historischen Zentrum von Modena, das zum Komplex der Dominikaner gehört.",
+                  "category": "religious",
+                  "coords": [
+                        10.926888,
+                        44.649428
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Muratoriano",
+                  "text": "A múzeum Ludovico Antonio Muratori tudós egykori modenai lakóházában kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        10.924708,
+                        44.649142
+                  ]
+            },
+            {
+                  "name": "Museo della Figurina",
+                  "text": "Egyedülálló modenai múzeum, amely a gyűjthető matricák és kártyák történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        10.930706,
+                        44.647535
+                  ]
+            },
+            {
+                  "name": "Palazzo Ducale",
+                  "text": "Az Este-család impozáns barokk palotája, amely ma az olasz katonai akadémia székhelye.",
+                  "category": "castle",
+                  "coords": [
+                        10.930083,
+                        44.648597
+                  ]
+            },
+            {
+                  "name": "Lapidario Romano dei Musei Civici",
+                  "text": "A múzeum Modena római kori síremlékeinek és ókori monumentumainak jelentős gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        10.920475,
+                        44.6479
+                  ]
+            },
+            {
+                  "name": "Museo Enzo Ferrari",
+                  "text": "Modern múzeum, amelyet Enzo Ferrari életének szenteltek az alapító szülőháza mellett.",
+                  "category": "museum",
+                  "coords": [
+                        10.936526,
+                        44.652111
+                  ]
+            },
+            {
+                  "name": "Parco archeologico di Mutina",
+                  "text": "A régészeti park az ókori római város, Mutina maradványait őrzi a mai Modena területén.",
+                  "category": "historical",
+                  "coords": [
+                        10.922722,
+                        44.651116
+                  ]
+            },
+            {
+                  "name": "MaTa",
+                  "text": "Egy egykori dohánygyár épületében kialakított kiállítótér, amely kortárs művészeti projekteknek ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        10.928978,
+                        44.652604
+                  ]
+            },
+            {
+                  "name": "Archivio di Stato",
+                  "text": "A korábbi San Domenico kolostorban működő állami levéltár Modena városának történelmi dokumentumait és okiratait őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        10.928078,
+                        44.64992
+                  ]
+            },
+            {
+                  "name": "Museo Universitario Gemma",
+                  "text": "A Modenai Egyetem múzeuma ásványok, kőzetek és drágakövek jelentős gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        10.92406,
+                        44.646796
+                  ]
+            },
+            {
+                  "name": "Musei del Duomo",
+                  "text": "A múzeum a modenai dóm értékes szakrális műalkotásait, faliszőnyegeit és régészeti leleteit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        10.925686,
+                        44.646565
+                  ]
+            },
+            {
+                  "name": "Bonvi Parken",
+                  "text": "Ez a zöldterület a híres modenai képregényrajzolónak, Franco Bonvicininek, azaz Bonvinak állít emléket.",
+                  "category": "park",
+                  "coords": [
+                        10.914174,
+                        44.63526
+                  ]
+            },
+            {
+                  "name": "Parco Enzo Ferrari",
+                  "text": "Modena tágas városi parkja, amelyet a Ferrari autógyár legendás alapítójáról neveztek el.",
+                  "category": "park",
+                  "coords": [
+                        10.907162,
+                        44.649871
+                  ]
+            },
+            {
+                  "name": "Tempio monumentale San Giuseppe ai caduti in guerra",
+                  "text": "Ez a monumentális templom az első világháborúban elesett katonák emlékére épült.",
+                  "category": "historical",
+                  "coords": [
+                        10.933637,
+                        44.651494
+                  ]
+            },
+            {
+                  "name": "Chiesa delle Terziarie di San Domenico",
+                  "text": "Modena történelmi központjában található vallási épület, amely a domonkos rendi komplexumhoz tartozik.",
+                  "category": "religious",
+                  "coords": [
+                        10.926888,
+                        44.649428
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Muratoriano",
+                  "text": "Muzeul este situat în fosta reședință a eruditului Ludovico Antonio Muratori din Modena.",
+                  "category": "museum",
+                  "coords": [
+                        10.924708,
+                        44.649142
+                  ]
+            },
+            {
+                  "name": "Museo della Figurina",
+                  "text": "Un muzeu unic în Modena, dedicat istoriei cartonașelor și abțibildurilor de colecție.",
+                  "category": "museum",
+                  "coords": [
+                        10.930706,
+                        44.647535
+                  ]
+            },
+            {
+                  "name": "Palazzo Ducale",
+                  "text": "Impresionantul palat baroc al familiei Este servește astăzi drept sediu al Academiei Militare Italiene.",
+                  "category": "castle",
+                  "coords": [
+                        10.930083,
+                        44.648597
+                  ]
+            },
+            {
+                  "name": "Lapidario Romano dei Musei Civici",
+                  "text": "Acest muzeu prezintă o colecție importantă de pietre funerare romane și monumente antice din Modena.",
+                  "category": "museum",
+                  "coords": [
+                        10.920475,
+                        44.6479
+                  ]
+            },
+            {
+                  "name": "Museo Enzo Ferrari",
+                  "text": "Un muzeu modern dedicat vieții lui Enzo Ferrari, situat chiar lângă locul său de naștere.",
+                  "category": "museum",
+                  "coords": [
+                        10.936526,
+                        44.652111
+                  ]
+            },
+            {
+                  "name": "Parco archeologico di Mutina",
+                  "text": "Parcul arheologic păstrează vestigiile vechiului oraș roman Mutina din actuala Modena.",
+                  "category": "historical",
+                  "coords": [
+                        10.922722,
+                        44.651116
+                  ]
+            },
+            {
+                  "name": "MaTa",
+                  "text": "Un centru expozițional situat într-o fostă fabrică de tutun, axat pe proiecte de artă contemporană.",
+                  "category": "museum",
+                  "coords": [
+                        10.928978,
+                        44.652604
+                  ]
+            },
+            {
+                  "name": "Archivio di Stato",
+                  "text": "Arhiva de Stat, situată în fosta mănăstire San Domenico, păstrează documente istorice și înscrisuri oficiale ale orașului Modena.",
+                  "category": "museum",
+                  "coords": [
+                        10.928078,
+                        44.64992
+                  ]
+            },
+            {
+                  "name": "Museo Universitario Gemma",
+                  "text": "Acest muzeu al Universității din Modena expune o colecție importantă de minerale, roci și pietre prețioase.",
+                  "category": "museum",
+                  "coords": [
+                        10.92406,
+                        44.646796
+                  ]
+            },
+            {
+                  "name": "Musei del Duomo",
+                  "text": "Muzeele adăpostesc opere de artă sacră valoroase, tapiserii și descoperiri arheologice provenite de la Catedrala din Modena.",
+                  "category": "museum",
+                  "coords": [
+                        10.925686,
+                        44.646565
+                  ]
+            },
+            {
+                  "name": "Bonvi Parken",
+                  "text": "Această zonă verde este dedicată celebrului desenator de benzi desenate din Modena, Franco Bonvicini, cunoscut sub numele de Bonvi.",
+                  "category": "park",
+                  "coords": [
+                        10.914174,
+                        44.63526
+                  ]
+            },
+            {
+                  "name": "Parco Enzo Ferrari",
+                  "text": "Un parc urban spațios din Modena, numit după legendarul fondator al mărcii de automobile Ferrari.",
+                  "category": "park",
+                  "coords": [
+                        10.907162,
+                        44.649871
+                  ]
+            },
+            {
+                  "name": "Tempio monumentale San Giuseppe ai caduti in guerra",
+                  "text": "Această biserică monumentală a fost construită în onoarea soldaților căzuți în Primul Război Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        10.933637,
+                        44.651494
+                  ]
+            },
+            {
+                  "name": "Chiesa delle Terziarie di San Domenico",
+                  "text": "O clădire religioasă din centrul istoric al Modenei, care face parte din complexul dominican.",
+                  "category": "religious",
+                  "coords": [
+                        10.926888,
+                        44.649428
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Muratoriano",
+                  "text": "The museum is located in the former residence of the scholar Ludovico Antonio Muratori in Modena.",
+                  "category": "museum",
+                  "coords": [
+                        10.924708,
+                        44.649142
+                  ]
+            },
+            {
+                  "name": "Museo della Figurina",
+                  "text": "A unique museum in Modena dedicated to the history of collectible cards and stickers.",
+                  "category": "museum",
+                  "coords": [
+                        10.930706,
+                        44.647535
+                  ]
+            },
+            {
+                  "name": "Palazzo Ducale",
+                  "text": "The impressive Baroque palace of the Este family now serves as the seat of the Italian Military Academy.",
+                  "category": "castle",
+                  "coords": [
+                        10.930083,
+                        44.648597
+                  ]
+            },
+            {
+                  "name": "Lapidario Romano dei Musei Civici",
+                  "text": "This museum displays a significant collection of Roman tombstones and ancient monuments from Modena.",
+                  "category": "museum",
+                  "coords": [
+                        10.920475,
+                        44.6479
+                  ]
+            },
+            {
+                  "name": "Museo Enzo Ferrari",
+                  "text": "A modern museum dedicated to the life of Enzo Ferrari, located right next to his birthplace.",
+                  "category": "museum",
+                  "coords": [
+                        10.936526,
+                        44.652111
+                  ]
+            },
+            {
+                  "name": "Parco archeologico di Mutina",
+                  "text": "The archaeological park preserves the remains of the ancient Roman city of Mutina in present-day Modena.",
+                  "category": "historical",
+                  "coords": [
+                        10.922722,
+                        44.651116
+                  ]
+            },
+            {
+                  "name": "MaTa",
+                  "text": "An exhibition center located in a former tobacco factory, focusing on contemporary art projects.",
+                  "category": "museum",
+                  "coords": [
+                        10.928978,
+                        44.652604
+                  ]
+            },
+            {
+                  "name": "Archivio di Stato",
+                  "text": "The State Archive, located in the former San Domenico monastery, preserves historical documents and official records of the city of Modena.",
+                  "category": "museum",
+                  "coords": [
+                        10.928078,
+                        44.64992
+                  ]
+            },
+            {
+                  "name": "Museo Universitario Gemma",
+                  "text": "This museum of the University of Modena displays a significant collection of minerals, rocks, and gemstones.",
+                  "category": "museum",
+                  "coords": [
+                        10.92406,
+                        44.646796
+                  ]
+            },
+            {
+                  "name": "Musei del Duomo",
+                  "text": "The museums house valuable sacred artworks, tapestries, and archaeological finds from the Modena Cathedral.",
+                  "category": "museum",
+                  "coords": [
+                        10.925686,
+                        44.646565
+                  ]
+            },
+            {
+                  "name": "Bonvi Parken",
+                  "text": "This green area is dedicated to the famous Modenese cartoonist Franco Bonvicini, known as Bonvi.",
+                  "category": "park",
+                  "coords": [
+                        10.914174,
+                        44.63526
+                  ]
+            },
+            {
+                  "name": "Parco Enzo Ferrari",
+                  "text": "A spacious urban park in Modena named after the legendary founder of the Ferrari automobile company.",
+                  "category": "park",
+                  "coords": [
+                        10.907162,
+                        44.649871
+                  ]
+            },
+            {
+                  "name": "Tempio monumentale San Giuseppe ai caduti in guerra",
+                  "text": "This monumental church was built to honor the soldiers who fell during the First World War.",
+                  "category": "historical",
+                  "coords": [
+                        10.933637,
+                        44.651494
+                  ]
+            },
+            {
+                  "name": "Chiesa delle Terziarie di San Domenico",
+                  "text": "A religious building in the historic center of Modena that belongs to the Dominican complex.",
+                  "category": "religious",
+                  "coords": [
+                        10.926888,
+                        44.649428
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IT",
     name: { de: "Modena", hu: "Modena", ro: "Modena", en: "Modena" },
@@ -2190,7 +3324,628 @@ export const italyCitiesV2: POI[] = [
     image: "/poi-images/italy-taranto-cities-v2.webp",
   },
   {
-    id: "italy-prato-cities-v2",
+    id: "italy-prato-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Teatro Fabbricone",
+                  "text": "Ein zeitgenössisches Theater in Prato, das in einer ehemaligen Textilfabrik untergebracht ist.",
+                  "category": "cultural",
+                  "coords": [
+                        11.099853,
+                        43.890863
+                  ]
+            },
+            {
+                  "name": "Museo dell'Opera del Duomo",
+                  "text": "Das Dommuseum in Prato, das wertvolle Kunstwerke und Reliquien aus der Kathedrale beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        11.097892,
+                        43.882101
+                  ]
+            },
+            {
+                  "name": "Museo del Tessuto",
+                  "text": "Ein bedeutendes Textilmuseum in Prato, das die lange Tradition der Stoffherstellung dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        11.098248,
+                        43.876521
+                  ]
+            },
+            {
+                  "name": "Museo di Palazzo Pretorio",
+                  "text": "Ein Kunstmuseum im historischen Palazzo Pretorio von Prato mit Werken toskanischer Meister.",
+                  "category": "museum",
+                  "coords": [
+                        11.096514,
+                        43.880558
+                  ]
+            },
+            {
+                  "name": "Museo di pittura murale",
+                  "text": "Dieses Museum zeigt bedeutende Fresken und Wandmalereien im San Domenico-Komplex.",
+                  "category": "museum",
+                  "coords": [
+                        11.093832,
+                        43.881421
+                  ]
+            },
+            {
+                  "name": "Magnolfi Nuovo",
+                  "text": "Ein ehemaliges Waisenhaus, das heute als modernes Kulturzentrum und Theater dient.",
+                  "category": "cultural",
+                  "coords": [
+                        11.10536,
+                        43.882972
+                  ]
+            },
+            {
+                  "name": "Museo Casa Francesco Datini",
+                  "text": "Das Wohnhaus des berühmten Kaufmanns Francesco Datini aus dem 14. Jahrhundert.",
+                  "category": "museum",
+                  "coords": [
+                        11.095329,
+                        43.880018
+                  ]
+            },
+            {
+                  "name": "Teatro Metastasio",
+                  "text": "Ein bedeutendes historisches Theater in Prato, das im Jahr 1830 eröffnet wurde.",
+                  "category": "cultural",
+                  "coords": [
+                        11.099424,
+                        43.87975
+                  ]
+            },
+            {
+                  "name": "Teatro Borsi d'Essai",
+                  "text": "Ein kleines Programmkino und Theater in Prato für experimentelle Kunstaufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        11.094166,
+                        43.884265
+                  ]
+            },
+            {
+                  "name": "Museo di Scienze Planetarie",
+                  "text": "Dieses Museum widmet sich der Planetenforschung und besitzt eine Meteoritensammlung.",
+                  "category": "museum",
+                  "coords": [
+                        11.081845,
+                        43.878672
+                  ]
+            },
+            {
+                  "name": "Tombe etrusche",
+                  "text": "Archäologische Stätte mit Überresten etruskischer Gräber in der Nähe von Prato.",
+                  "category": "historical",
+                  "coords": [
+                        11.124935,
+                        43.894122
+                  ]
+            },
+            {
+                  "name": "Il Cassero Medievale",
+                  "text": "Eine befestigte mittelalterliche Passage, die zum Castello dell'Imperatore führt.",
+                  "category": "fortress",
+                  "coords": [
+                        11.100361,
+                        43.877556
+                  ]
+            },
+            {
+                  "name": "Villa Gherardi del Turco",
+                  "text": "Ein herrschaftliches Anwesen in Prato mit charakteristischer historischer Architektur.",
+                  "category": "historical",
+                  "coords": [
+                        11.116859,
+                        43.895016
+                  ]
+            },
+            {
+                  "name": "Villa Rospigliosi",
+                  "text": "Eine elegante Villa aus dem 17. Jahrhundert, die für die Familie Rospigliosi erbaut wurde.",
+                  "category": "historical",
+                  "coords": [
+                        11.120906,
+                        43.874232
+                  ]
+            },
+            {
+                  "name": "Villa Inghirami",
+                  "text": "Ein historisches Herrenhaus der Familie Inghirami in der Umgebung von Prato.",
+                  "category": "historical",
+                  "coords": [
+                        11.080079,
+                        43.856588
+                  ]
+            },
+            {
+                  "name": "Basilica di Santa Maria delle Carceri",
+                  "text": "Diese prachtvolle Renaissance-Basilika wurde Ende des 15. Jahrhunderts von Giuliano da Sangallo entworfen.",
+                  "category": "religious",
+                  "coords": [
+                        11.098436,
+                        43.879446
+                  ]
+            },
+            {
+                  "name": "Torri di Borgo al Cornio",
+                  "text": "Mittelalterliche Zwillingstürme in der Via Garibaldi, die als Überreste des alten befestigten Borgo al Cornio gelten.",
+                  "category": "tower",
+                  "coords": [
+                        11.099044,
+                        43.880981
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teatro Fabbricone",
+                  "text": "Prato kortárs színháza, amely egy egykori textilgyár épületében kapott helyet.",
+                  "category": "cultural",
+                  "coords": [
+                        11.099853,
+                        43.890863
+                  ]
+            },
+            {
+                  "name": "Museo dell'Opera del Duomo",
+                  "text": "Prato székesegyházának múzeuma, ahol vallási kincseket és műalkotásokat őriznek.",
+                  "category": "museum",
+                  "coords": [
+                        11.097892,
+                        43.882101
+                  ]
+            },
+            {
+                  "name": "Museo del Tessuto",
+                  "text": "Prato textilipari múzeuma, amely a város nagy múltú szövetgyártását mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        11.098248,
+                        43.876521
+                  ]
+            },
+            {
+                  "name": "Museo di Palazzo Pretorio",
+                  "text": "Prato művészeti múzeuma a történelmi Palazzo Pretorio épületében, toszkán mesterművekkel.",
+                  "category": "museum",
+                  "coords": [
+                        11.096514,
+                        43.880558
+                  ]
+            },
+            {
+                  "name": "Museo di pittura murale",
+                  "text": "Ez a múzeum jelentős freskókat és falfestményeket mutat be a San Domenico-kolostorban.",
+                  "category": "museum",
+                  "coords": [
+                        11.093832,
+                        43.881421
+                  ]
+            },
+            {
+                  "name": "Magnolfi Nuovo",
+                  "text": "Egykori árvaház, amely ma modern kulturális központként és színházként működik.",
+                  "category": "cultural",
+                  "coords": [
+                        11.10536,
+                        43.882972
+                  ]
+            },
+            {
+                  "name": "Museo Casa Francesco Datini",
+                  "text": "Francesco Datini híres kereskedő 14. századi lakóháza.",
+                  "category": "museum",
+                  "coords": [
+                        11.095329,
+                        43.880018
+                  ]
+            },
+            {
+                  "name": "Teatro Metastasio",
+                  "text": "Prato jelentős történelmi színháza, amelyet 1830-ban nyitottak meg.",
+                  "category": "cultural",
+                  "coords": [
+                        11.099424,
+                        43.87975
+                  ]
+            },
+            {
+                  "name": "Teatro Borsi d'Essai",
+                  "text": "Pratóban található kisméretű színház és mozi kísérleti művészeti előadásokhoz.",
+                  "category": "cultural",
+                  "coords": [
+                        11.094166,
+                        43.884265
+                  ]
+            },
+            {
+                  "name": "Museo di Scienze Planetarie",
+                  "text": "Ez a múzeum a bolygókutatásnak szentelt, és meteoritgyűjteménnyel rendelkezik.",
+                  "category": "museum",
+                  "coords": [
+                        11.081845,
+                        43.878672
+                  ]
+            },
+            {
+                  "name": "Tombe etrusche",
+                  "text": "Régészeti lelőhely etruszk sírok maradványaival Prato közelében.",
+                  "category": "historical",
+                  "coords": [
+                        11.124935,
+                        43.894122
+                  ]
+            },
+            {
+                  "name": "Il Cassero Medievale",
+                  "text": "Megerődített középkori folyosó, amely a Császári várhoz (Castello dell'Imperatore) vezet.",
+                  "category": "fortress",
+                  "coords": [
+                        11.100361,
+                        43.877556
+                  ]
+            },
+            {
+                  "name": "Villa Gherardi del Turco",
+                  "text": "Történelmi udvarház Pratóban, jellegzetes patinás építészeti stílusban.",
+                  "category": "historical",
+                  "coords": [
+                        11.116859,
+                        43.895016
+                  ]
+            },
+            {
+                  "name": "Villa Rospigliosi",
+                  "text": "Elegáns 17. századi villa, amely a Rospigliosi család számára épült.",
+                  "category": "historical",
+                  "coords": [
+                        11.120906,
+                        43.874232
+                  ]
+            },
+            {
+                  "name": "Villa Inghirami",
+                  "text": "Az Inghirami család történelmi lakhelye Prato környékén.",
+                  "category": "historical",
+                  "coords": [
+                        11.080079,
+                        43.856588
+                  ]
+            },
+            {
+                  "name": "Basilica di Santa Maria delle Carceri",
+                  "text": "Pompás reneszánsz bazilika, amelyet a 15. század végén Giuliano da Sangallo tervezett.",
+                  "category": "religious",
+                  "coords": [
+                        11.098436,
+                        43.879446
+                  ]
+            },
+            {
+                  "name": "Torri di Borgo al Cornio",
+                  "text": "Középkori ikertornyok a Via Garibaldin, amelyek a régi erődített Borgo al Cornio maradványai.",
+                  "category": "tower",
+                  "coords": [
+                        11.099044,
+                        43.880981
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teatro Fabbricone",
+                  "text": "Un teatru contemporan din Prato, amenajat într-o fostă fabrică de textile.",
+                  "category": "cultural",
+                  "coords": [
+                        11.099853,
+                        43.890863
+                  ]
+            },
+            {
+                  "name": "Museo dell'Opera del Duomo",
+                  "text": "Muzeul catedralei din Prato, care adăpostește opere de artă și relicve prețioase.",
+                  "category": "museum",
+                  "coords": [
+                        11.097892,
+                        43.882101
+                  ]
+            },
+            {
+                  "name": "Museo del Tessuto",
+                  "text": "Un important muzeu al textilelor din Prato, dedicat tradiției locale în fabricarea țesăturilor.",
+                  "category": "museum",
+                  "coords": [
+                        11.098248,
+                        43.876521
+                  ]
+            },
+            {
+                  "name": "Museo di Palazzo Pretorio",
+                  "text": "Muzeul de artă din Palazzo Pretorio, Prato, care expune capodopere ale maeștrilor toscani.",
+                  "category": "museum",
+                  "coords": [
+                        11.096514,
+                        43.880558
+                  ]
+            },
+            {
+                  "name": "Museo di pittura murale",
+                  "text": "Acest muzeu expune fresce și picturi murale importante în complexul San Domenico.",
+                  "category": "museum",
+                  "coords": [
+                        11.093832,
+                        43.881421
+                  ]
+            },
+            {
+                  "name": "Magnolfi Nuovo",
+                  "text": "Un fost orfelinat care funcționează astăzi ca centru cultural și teatru modern.",
+                  "category": "cultural",
+                  "coords": [
+                        11.10536,
+                        43.882972
+                  ]
+            },
+            {
+                  "name": "Museo Casa Francesco Datini",
+                  "text": "Casa din secolul al XIV-lea a celebrului negustor Francesco Datini.",
+                  "category": "museum",
+                  "coords": [
+                        11.095329,
+                        43.880018
+                  ]
+            },
+            {
+                  "name": "Teatro Metastasio",
+                  "text": "Un teatru istoric important din Prato, inaugurat în anul 1830.",
+                  "category": "cultural",
+                  "coords": [
+                        11.099424,
+                        43.87975
+                  ]
+            },
+            {
+                  "name": "Teatro Borsi d'Essai",
+                  "text": "Un teatru și cinematograf mic din Prato pentru spectacole de artă experimentală.",
+                  "category": "cultural",
+                  "coords": [
+                        11.094166,
+                        43.884265
+                  ]
+            },
+            {
+                  "name": "Museo di Scienze Planetarie",
+                  "text": "Acest muzeu este dedicat cercetării planetare și deține o colecție de meteoriți.",
+                  "category": "museum",
+                  "coords": [
+                        11.081845,
+                        43.878672
+                  ]
+            },
+            {
+                  "name": "Tombe etrusche",
+                  "text": "Sit arheologic cu vestigii ale mormintelor etrusce din apropiere de Prato.",
+                  "category": "historical",
+                  "coords": [
+                        11.124935,
+                        43.894122
+                  ]
+            },
+            {
+                  "name": "Il Cassero Medievale",
+                  "text": "Un pasaj medieval fortificat care duce la Castello dell'Imperatore.",
+                  "category": "fortress",
+                  "coords": [
+                        11.100361,
+                        43.877556
+                  ]
+            },
+            {
+                  "name": "Villa Gherardi del Turco",
+                  "text": "O proprietate nobiliară din Prato, cu o arhitectură istorică caracteristică.",
+                  "category": "historical",
+                  "coords": [
+                        11.116859,
+                        43.895016
+                  ]
+            },
+            {
+                  "name": "Villa Rospigliosi",
+                  "text": "O vilă elegantă din secolul al XVII-lea, construită pentru familia Rospigliosi.",
+                  "category": "historical",
+                  "coords": [
+                        11.120906,
+                        43.874232
+                  ]
+            },
+            {
+                  "name": "Villa Inghirami",
+                  "text": "Un conac istoric al familiei Inghirami din regiunea orașului Prato.",
+                  "category": "historical",
+                  "coords": [
+                        11.080079,
+                        43.856588
+                  ]
+            },
+            {
+                  "name": "Basilica di Santa Maria delle Carceri",
+                  "text": "O bazilică renascentistă splendidă, proiectată la sfârșitul secolului al XV-lea de Giuliano da Sangallo.",
+                  "category": "religious",
+                  "coords": [
+                        11.098436,
+                        43.879446
+                  ]
+            },
+            {
+                  "name": "Torri di Borgo al Cornio",
+                  "text": "Turnuri gemene medievale pe Via Garibaldi, care reprezintă vestigii ale vechiului burg fortificat Borgo al Cornio.",
+                  "category": "tower",
+                  "coords": [
+                        11.099044,
+                        43.880981
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teatro Fabbricone",
+                  "text": "A contemporary theatre in Prato housed in a former textile factory building.",
+                  "category": "cultural",
+                  "coords": [
+                        11.099853,
+                        43.890863
+                  ]
+            },
+            {
+                  "name": "Museo dell'Opera del Duomo",
+                  "text": "The cathedral museum in Prato, housing valuable artworks and relics from the Duomo.",
+                  "category": "museum",
+                  "coords": [
+                        11.097892,
+                        43.882101
+                  ]
+            },
+            {
+                  "name": "Museo del Tessuto",
+                  "text": "A major textile museum in Prato, documenting the city's long tradition of fabric production.",
+                  "category": "museum",
+                  "coords": [
+                        11.098248,
+                        43.876521
+                  ]
+            },
+            {
+                  "name": "Museo di Palazzo Pretorio",
+                  "text": "An art museum in Prato's historic Palazzo Pretorio, featuring masterpieces by Tuscan artists.",
+                  "category": "museum",
+                  "coords": [
+                        11.096514,
+                        43.880558
+                  ]
+            },
+            {
+                  "name": "Museo di pittura murale",
+                  "text": "This museum displays significant frescoes and mural paintings in the San Domenico complex.",
+                  "category": "museum",
+                  "coords": [
+                        11.093832,
+                        43.881421
+                  ]
+            },
+            {
+                  "name": "Magnolfi Nuovo",
+                  "text": "A former orphanage that now serves as a modern cultural center and theatre.",
+                  "category": "cultural",
+                  "coords": [
+                        11.10536,
+                        43.882972
+                  ]
+            },
+            {
+                  "name": "Museo Casa Francesco Datini",
+                  "text": "The 14th-century residence of the famous merchant Francesco Datini.",
+                  "category": "museum",
+                  "coords": [
+                        11.095329,
+                        43.880018
+                  ]
+            },
+            {
+                  "name": "Teatro Metastasio",
+                  "text": "An important historical theatre in Prato, opened in 1830.",
+                  "category": "cultural",
+                  "coords": [
+                        11.099424,
+                        43.87975
+                  ]
+            },
+            {
+                  "name": "Teatro Borsi d'Essai",
+                  "text": "A small art-house cinema and theatre in Prato for experimental art performances.",
+                  "category": "cultural",
+                  "coords": [
+                        11.094166,
+                        43.884265
+                  ]
+            },
+            {
+                  "name": "Museo di Scienze Planetarie",
+                  "text": "This museum is dedicated to planetary research and features a meteorite collection.",
+                  "category": "museum",
+                  "coords": [
+                        11.081845,
+                        43.878672
+                  ]
+            },
+            {
+                  "name": "Tombe etrusche",
+                  "text": "Archaeological site containing remains of Etruscan tombs near Prato.",
+                  "category": "historical",
+                  "coords": [
+                        11.124935,
+                        43.894122
+                  ]
+            },
+            {
+                  "name": "Il Cassero Medievale",
+                  "text": "A fortified medieval passage leading to the Castello dell'Imperatore.",
+                  "category": "fortress",
+                  "coords": [
+                        11.100361,
+                        43.877556
+                  ]
+            },
+            {
+                  "name": "Villa Gherardi del Turco",
+                  "text": "A historic manor house in Prato with characteristic historic architecture.",
+                  "category": "historical",
+                  "coords": [
+                        11.116859,
+                        43.895016
+                  ]
+            },
+            {
+                  "name": "Villa Rospigliosi",
+                  "text": "An elegant 17th-century villa built for the prominent Rospigliosi family.",
+                  "category": "historical",
+                  "coords": [
+                        11.120906,
+                        43.874232
+                  ]
+            },
+            {
+                  "name": "Villa Inghirami",
+                  "text": "A historic residence of the Inghirami family in the Prato area.",
+                  "category": "historical",
+                  "coords": [
+                        11.080079,
+                        43.856588
+                  ]
+            },
+            {
+                  "name": "Basilica di Santa Maria delle Carceri",
+                  "text": "A splendid Renaissance basilica designed by Giuliano da Sangallo in the late 15th century.",
+                  "category": "religious",
+                  "coords": [
+                        11.098436,
+                        43.879446
+                  ]
+            },
+            {
+                  "name": "Torri di Borgo al Cornio",
+                  "text": "Medieval twin towers on Via Garibaldi, serving as remains of the old fortified Borgo al Cornio.",
+                  "category": "tower",
+                  "coords": [
+                        11.099044,
+                        43.880981
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IT",
     name: { de: "Prato", hu: "Prato", ro: "Prato", en: "Prato" },
@@ -3306,7 +5061,952 @@ export const italyCitiesV2: POI[] = [
     image: "/poi-images/italy-vicenza-cities-v2.webp",
   },
   {
-    id: "italy-bolzano-cities-v2",
+    id: "italy-bolzano-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Theater Rainerum",
+                  "text": "Ein modernes Theater in Bozen, das für verschiedene kulturelle Aufführungen und Gemeinschaftsveranstaltungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        11.351554,
+                        46.4969
+                  ]
+            },
+            {
+                  "name": "Merkantilmuseum",
+                  "text": "Das Museum im ehemaligen Gebäude des Merkantilmagistrats zeigt die Handelsgeschichte von Bozen.",
+                  "category": "museum",
+                  "coords": [
+                        11.354186,
+                        46.499468
+                  ]
+            },
+            {
+                  "name": "Domschatzkammer Bozen",
+                  "text": "Die Domschatzkammer beherbergt eine bedeutende Sammlung sakraler Kunstgegenstände und barocker Goldschmiedearbeiten.",
+                  "category": "museum",
+                  "coords": [
+                        11.354544,
+                        46.49744
+                  ]
+            },
+            {
+                  "name": "Naturmuseum Südtirol",
+                  "text": "Das Museum im ehemaligen Ämtergebäude der Landeshauptstadt widmet sich der Naturgeschichte Südtirols.",
+                  "category": "museum",
+                  "coords": [
+                        11.357096,
+                        46.501118
+                  ]
+            },
+            {
+                  "name": "Ruine Weineck",
+                  "text": "Die Ruinen der im 12. Jahrhundert erbauten Burg Weineck liegen auf einem Hügel über dem Stadtteil Haslach.",
+                  "category": "castle",
+                  "coords": [
+                        11.349534,
+                        46.490216
+                  ]
+            },
+            {
+                  "name": "Stadttheater",
+                  "text": "Das 1999 nach Plänen von Marco Zanuso fertiggestellte Theater ist die wichtigste Bühne der Landeshauptstadt.",
+                  "category": "cultural",
+                  "coords": [
+                        11.353832,
+                        46.495603
+                  ]
+            },
+            {
+                  "name": "Stadtmuseum Bozen",
+                  "text": "Das Stadtmuseum von Bozen zeigt archäologische Funde sowie eine umfangreiche kunstgeschichtliche Sammlung der Region.",
+                  "category": "museum",
+                  "coords": [
+                        11.349031,
+                        46.499801
+                  ]
+            },
+            {
+                  "name": "Museion",
+                  "text": "Das Museum für moderne und zeitgenössische Kunst ist in einem futuristischen Glaskubus an der Talfer untergebracht.",
+                  "category": "museum",
+                  "coords": [
+                        11.348355,
+                        46.497333
+                  ]
+            },
+            {
+                  "name": "Schloss Klebenstein",
+                  "text": "Die am Eingang zum Sarntal gelegene Schlossanlage besteht aus einem mittelalterlichen Wohnturm und barocken Anbauten.",
+                  "category": "castle",
+                  "coords": [
+                        11.352347,
+                        46.511683
+                  ]
+            },
+            {
+                  "name": "Compil",
+                  "text": "Der Ansitz Campill ist ein wehrhafter Herrensitz aus dem 16. Jahrhundert im östlichen Teil von Bozen.",
+                  "category": "castle",
+                  "coords": [
+                        11.352566,
+                        46.50927
+                  ]
+            },
+            {
+                  "name": "Schloss Ried",
+                  "text": "Die gut erhaltene Burganlage am Eingang des Sarntals ist vor allem für ihre wertvollen gotischen Wandmalereien bekannt.",
+                  "category": "castle",
+                  "coords": [
+                        11.361299,
+                        46.520551
+                  ]
+            },
+            {
+                  "name": "Castel Campegno - Burg Kampenn",
+                  "text": "Die auf einem Felsen thronende Burg Kampenn bewacht den östlichen Zugang zur Stadt Bozen.",
+                  "category": "castle",
+                  "coords": [
+                        11.390202,
+                        46.487234
+                  ]
+            },
+            {
+                  "name": "Haselburg",
+                  "text": "Die mittelalterliche Burg Flavon bietet einen weiten Blick über das Etschtal und beherbergt heute gastronomische Betriebe.",
+                  "category": "castle",
+                  "coords": [
+                        11.343522,
+                        46.476888
+                  ]
+            },
+            {
+                  "name": "Ansitz Hörtenberg",
+                  "text": "Ein historischer Renaissance-Ansitz in Bozen, der heute als exklusives Hotel dient.",
+                  "category": "castle",
+                  "coords": [
+                        11.360975,
+                        46.502201
+                  ]
+            },
+            {
+                  "name": "Schloss Runkelstein",
+                  "text": "Diese mittelalterliche Burg ist bekannt für ihre umfangreichen profanen Freskenzyklen aus dem Mittelalter.",
+                  "category": "castle",
+                  "coords": [
+                        11.35889,
+                        46.517531
+                  ]
+            },
+            {
+                  "name": "Schloss Maretsch",
+                  "text": "Ein von Weinbergen umgebenes Schloss nahe dem Stadtzentrum, das heute als Veranstaltungszentrum genutzt wird.",
+                  "category": "castle",
+                  "coords": [
+                        11.350473,
+                        46.503454
+                  ]
+            },
+            {
+                  "name": "Gscheibter Turm",
+                  "text": "Die Ruine eines markanten runden Turms in Bozen, der einst zu einer Burganlage gehörte.",
+                  "category": "castle",
+                  "coords": [
+                        11.346598,
+                        46.511436
+                  ]
+            },
+            {
+                  "name": "ehem. Kloster Maria in der Au",
+                  "text": "Eine archäologische Ausgrabungsstätte in Bozen, die Reste eines mittelalterlichen Klosters zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        11.326192,
+                        46.486257
+                  ]
+            },
+            {
+                  "name": "BZ '18-'45",
+                  "text": "Eine Dokumentations-Ausstellung im Siegesdenkmal, die die Bozner Zeitgeschichte thematisiert.",
+                  "category": "museum",
+                  "coords": [
+                        11.344872,
+                        46.500493
+                  ]
+            },
+            {
+                  "name": "Francis-Turbine (1925 Marling)",
+                  "text": "Ein technisches Denkmal in Bozen, das eine historische Francis-Turbine aus dem Jahr 1925 ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        11.338803,
+                        46.477988
+                  ]
+            },
+            {
+                  "name": "Bozner Lido",
+                  "text": "Ein großes öffentliches Freibad und Freizeitzentrum in Bozen mit verschiedenen Schwimmbecken.",
+                  "category": "recreational",
+                  "coords": [
+                        11.344255,
+                        46.490674
+                  ]
+            },
+            {
+                  "name": "Laurinbrunnen",
+                  "text": "Ein kunstvoller Brunnen in Bozen, der die Sagengestalt König Laurin darstellt.",
+                  "category": "historical",
+                  "coords": [
+                        11.357757,
+                        46.497561
+                  ]
+            },
+            {
+                  "name": "ar/ge kunst",
+                  "text": "Eine Galerie für zeitgenössische Kunst in Bozen, die wechselnde Ausstellungen moderner Künstler zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        11.350688,
+                        46.499759
+                  ]
+            },
+            {
+                  "name": "Grieser Platz",
+                  "text": "Der zentrale Platz im Bozner Stadtteil Gries, bekannt für sein mildes Klima und historische Villen.",
+                  "category": "park",
+                  "coords": [
+                        11.335408,
+                        46.502311
+                  ]
+            },
+            {
+                  "name": "Ehemalige Kirche St. Oswald",
+                  "text": "Die malerischen Ruinen einer ehemaligen Kirche in Bozen, die nach Zerstörungen im Zweiten Weltkrieg als Mahnmal dienen.",
+                  "category": "historical",
+                  "coords": [
+                        11.35943,
+                        46.503915
+                  ]
+            },
+            {
+                  "name": "Corpus Domini",
+                  "text": "Eine religiöse Gebetsstätte in Bozen, die der Verehrung des Leibes Christi gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        11.320945,
+                        46.491011
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teatro Rainerum",
+                  "text": "Modern színház Bolzanóban, amely különféle kulturális előadásoknak és közösségi eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        11.351554,
+                        46.4969
+                  ]
+            },
+            {
+                  "name": "Museo Mercantile - Merkantilmuseum",
+                  "text": "A múzeum a Kereskedelmi Hatóság egykori épületében mutatja be Bozen kereskedelmi múltját.",
+                  "category": "museum",
+                  "coords": [
+                        11.354186,
+                        46.499468
+                  ]
+            },
+            {
+                  "name": "Tesoro del Duomo di Bolzano - Domschatzkammer Bozen",
+                  "text": "A dóm kincstára szakrális műtárgyak és barokk ötvösmunkák jelentős gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        11.354544,
+                        46.49744
+                  ]
+            },
+            {
+                  "name": "Museo Scienze Naturali - Naturmuseum",
+                  "text": "A tartományi székhely egykori hivatali épületében található múzeum Dél-Tirol természetrajzát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        11.357096,
+                        46.501118
+                  ]
+            },
+            {
+                  "name": "Ruine Weineck - Rovine Castel Weinegg",
+                  "text": "A 12. században épült Weineck-vár romjai a Haslach városrész feletti dombon találhatók.",
+                  "category": "castle",
+                  "coords": [
+                        11.349534,
+                        46.490216
+                  ]
+            },
+            {
+                  "name": "Teatro Comunale - Stadttheater",
+                  "text": "A Marco Zanuso tervei alapján 1999-ben elkészült színház a tartományi székhely legfontosabb színpada.",
+                  "category": "cultural",
+                  "coords": [
+                        11.353832,
+                        46.495603
+                  ]
+            },
+            {
+                  "name": "Municipal Museum - Stadtmuseum",
+                  "text": "Bozen városi múzeuma régészeti leleteket és a régió gazdag művészettörténeti gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        11.349031,
+                        46.499801
+                  ]
+            },
+            {
+                  "name": "Museion",
+                  "text": "A modern és kortárs művészeti múzeum a Talfer-folyó partján, egy futurisztikus üvegkockában található.",
+                  "category": "museum",
+                  "coords": [
+                        11.348355,
+                        46.497333
+                  ]
+            },
+            {
+                  "name": "Castel Sant'Antonio - Schloss Klebenstein",
+                  "text": "A Sarntal-völgy bejáratánál fekvő várkastély egy középkori lakótoronyból és barokk bővítményekből áll.",
+                  "category": "castle",
+                  "coords": [
+                        11.352347,
+                        46.511683
+                  ]
+            },
+            {
+                  "name": "Compil",
+                  "text": "A Campill-udvarház egy 16. századi erődített nemesi lakóhely Bozen keleti részén.",
+                  "category": "castle",
+                  "coords": [
+                        11.352566,
+                        46.50927
+                  ]
+            },
+            {
+                  "name": "Schloss Ried - Castel Novale",
+                  "text": "A Sarntal-völgy bejáratánál álló, jó állapotú vár elsősorban értékes gótikus falfestményeiről ismert.",
+                  "category": "castle",
+                  "coords": [
+                        11.361299,
+                        46.520551
+                  ]
+            },
+            {
+                  "name": "Castel Campegno - Burg Kampenn",
+                  "text": "A sziklán trónoló Kampenn vára Bozen városának keleti bejáratát őrzi.",
+                  "category": "castle",
+                  "coords": [
+                        11.390202,
+                        46.487234
+                  ]
+            },
+            {
+                  "name": "Castel Flavon - Haselburg",
+                  "text": "A középkori Flavon-vár széles kilátást nyújt az Etsch-völgyre, és ma vendéglátóhelyeknek ad otthont.",
+                  "category": "castle",
+                  "coords": [
+                        11.343522,
+                        46.476888
+                  ]
+            },
+            {
+                  "name": "Castel Hörtenberg - Ansitz Hörtenberg",
+                  "text": "Történelmi reneszánsz kastély Bozenben, amely ma exkluzív szállodaként működik.",
+                  "category": "castle",
+                  "coords": [
+                        11.360975,
+                        46.502201
+                  ]
+            },
+            {
+                  "name": "Castel Roncolo - Schloss Runkelstein",
+                  "text": "Ez a középkori vár a középkorból származó, kiterjedt világi freskóciklusairól ismert.",
+                  "category": "castle",
+                  "coords": [
+                        11.35889,
+                        46.517531
+                  ]
+            },
+            {
+                  "name": "Schloss Maretsch - Castel Mareccio",
+                  "text": "Szőlőültetvényekkel körülvett kastély a városközpont közelében, amely ma rendezvényközpontként működik.",
+                  "category": "castle",
+                  "coords": [
+                        11.350473,
+                        46.503454
+                  ]
+            },
+            {
+                  "name": "Torre Druso - Gscheibter Turm",
+                  "text": "Egy jellegzetes kerek torony romja Bozenben, amely egykor egy várkastélyhoz tartozott.",
+                  "category": "castle",
+                  "coords": [
+                        11.346598,
+                        46.511436
+                  ]
+            },
+            {
+                  "name": "Maria in Augia - Maria in der Au",
+                  "text": "Régészeti lelőhely Bozenben, amely egy középkori kolostor maradványait mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        11.326192,
+                        46.486257
+                  ]
+            },
+            {
+                  "name": "BZ '18-'45",
+                  "text": "A Győzelmi Emlékműben található dokumentációs kiállítás, amely Bozen újkori történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        11.344872,
+                        46.500493
+                  ]
+            },
+            {
+                  "name": "Turbina Francis Turbine (1925 Marlengo - Marling)",
+                  "text": "Ipari műemlék Bozenben, amely egy 1925-ben készült történelmi Francis-turbinát mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        11.338803,
+                        46.477988
+                  ]
+            },
+            {
+                  "name": "Lido Bolzano- Bozner Lido",
+                  "text": "Bozen nagy nyilvános strandja és szabadidőközpontja, amely több úszómedencével várja a látogatókat.",
+                  "category": "recreational",
+                  "coords": [
+                        11.344255,
+                        46.490674
+                  ]
+            },
+            {
+                  "name": "Fontana di re Laurino - Laurinbrunnen",
+                  "text": "Művészi kút Bozenben, amely a legendás Laurin király alakját ábrázolja.",
+                  "category": "historical",
+                  "coords": [
+                        11.357757,
+                        46.497561
+                  ]
+            },
+            {
+                  "name": "ar/ge kunst",
+                  "text": "Kortárs művészeti galéria Bozenben, amely modern művészek időszaki kiállításainak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        11.350688,
+                        46.499759
+                  ]
+            },
+            {
+                  "name": "Grieser Platz",
+                  "text": "Bozen Gries negyedének központi tere, amely enyhe klímájáról és történelmi villáiról ismert.",
+                  "category": "park",
+                  "coords": [
+                        11.335408,
+                        46.502311
+                  ]
+            },
+            {
+                  "name": "Ehemalige Kirche St. Oswald - Ex chiesa S. Osvaldo",
+                  "text": "Egy egykori templom romjai Bolzanóban, amelyek a második világháborús pusztítás után maradtak fenn.",
+                  "category": "historical",
+                  "coords": [
+                        11.35943,
+                        46.503915
+                  ]
+            },
+            {
+                  "name": "Corpus Domini",
+                  "text": "Vallási kegyhely Bolzanóban, amelyet az Úrnapja tiszteletére szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        11.320945,
+                        46.491011
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teatro Rainerum",
+                  "text": "Un teatru modern din Bolzano, utilizat pentru diverse spectacole culturale și evenimente comunitare.",
+                  "category": "cultural",
+                  "coords": [
+                        11.351554,
+                        46.4969
+                  ]
+            },
+            {
+                  "name": "Museo Mercantile - Merkantilmuseum",
+                  "text": "Muzeul din fosta clădire a Magistratului Mercantil prezintă istoria comercială a orașului Bolzano.",
+                  "category": "museum",
+                  "coords": [
+                        11.354186,
+                        46.499468
+                  ]
+            },
+            {
+                  "name": "Tesoro del Duomo di Bolzano - Domschatzkammer Bozen",
+                  "text": "Tezaurul catedralei adăpostește o colecție importantă de obiecte de artă sacră și piese de aurărie barocă.",
+                  "category": "museum",
+                  "coords": [
+                        11.354544,
+                        46.49744
+                  ]
+            },
+            {
+                  "name": "Museo Scienze Naturali - Naturmuseum",
+                  "text": "Muzeul situat în fosta clădire administrativă a provinciei este dedicat istoriei naturale a Tirolului de Sud.",
+                  "category": "museum",
+                  "coords": [
+                        11.357096,
+                        46.501118
+                  ]
+            },
+            {
+                  "name": "Ruine Weineck - Rovine Castel Weinegg",
+                  "text": "Ruinele castelului Weineck, construit în secolul al XII-lea, sunt situate pe o colină deasupra cartierului Haslach.",
+                  "category": "castle",
+                  "coords": [
+                        11.349534,
+                        46.490216
+                  ]
+            },
+            {
+                  "name": "Teatro Comunale - Stadttheater",
+                  "text": "Teatrul finalizat în 1999 după planurile lui Marco Zanuso este cea mai importantă scenă a capitalei provinciale.",
+                  "category": "cultural",
+                  "coords": [
+                        11.353832,
+                        46.495603
+                  ]
+            },
+            {
+                  "name": "Municipal Museum - Stadtmuseum",
+                  "text": "Muzeul Civic din Bolzano prezintă descoperiri arheologice și o vastă colecție de istorie a artei din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        11.349031,
+                        46.499801
+                  ]
+            },
+            {
+                  "name": "Museion",
+                  "text": "Muzeul de artă modernă și contemporană este găzduit într-un cub de sticlă futurist pe malul râului Talfer.",
+                  "category": "museum",
+                  "coords": [
+                        11.348355,
+                        46.497333
+                  ]
+            },
+            {
+                  "name": "Castel Sant'Antonio - Schloss Klebenstein",
+                  "text": "Complexul castelului situat la intrarea în valea Sarntal constă dintr-un turn de locuit medieval și anexe baroce.",
+                  "category": "castle",
+                  "coords": [
+                        11.352347,
+                        46.511683
+                  ]
+            },
+            {
+                  "name": "Compil",
+                  "text": "Reședința Campill este un sediu nobiliar fortificat din secolul al XVI-lea în partea de est a orașului Bolzano.",
+                  "category": "castle",
+                  "coords": [
+                        11.352566,
+                        46.50927
+                  ]
+            },
+            {
+                  "name": "Schloss Ried - Castel Novale",
+                  "text": "Fortăreața bine conservată de la intrarea în valea Sarntal este cunoscută în special pentru picturile sale murale gotice valoroase.",
+                  "category": "castle",
+                  "coords": [
+                        11.361299,
+                        46.520551
+                  ]
+            },
+            {
+                  "name": "Castel Campegno - Burg Kampenn",
+                  "text": "Castelul Campegno, situat pe o stâncă, păzește accesul estic către orașul Bolzano.",
+                  "category": "castle",
+                  "coords": [
+                        11.390202,
+                        46.487234
+                  ]
+            },
+            {
+                  "name": "Castel Flavon - Haselburg",
+                  "text": "Castelul medieval Flavon oferă o vedere panoramică asupra văii Etsch și găzduiește astăzi unități gastronomice.",
+                  "category": "castle",
+                  "coords": [
+                        11.343522,
+                        46.476888
+                  ]
+            },
+            {
+                  "name": "Castel Hörtenberg - Ansitz Hörtenberg",
+                  "text": "O reședință istorică renascentistă din Bolzano, care funcționează astăzi ca un hotel exclusivist.",
+                  "category": "castle",
+                  "coords": [
+                        11.360975,
+                        46.502201
+                  ]
+            },
+            {
+                  "name": "Castel Roncolo - Schloss Runkelstein",
+                  "text": "Acest castel medieval este cunoscut pentru ciclurile sale vaste de fresce profane din epoca medievală.",
+                  "category": "castle",
+                  "coords": [
+                        11.35889,
+                        46.517531
+                  ]
+            },
+            {
+                  "name": "Schloss Maretsch - Castel Mareccio",
+                  "text": "Un castel înconjurat de podgorii, situat lângă centrul orașului, folosit astăzi ca centru de evenimente.",
+                  "category": "castle",
+                  "coords": [
+                        11.350473,
+                        46.503454
+                  ]
+            },
+            {
+                  "name": "Torre Druso - Gscheibter Turm",
+                  "text": "Ruina unui turn rotund proeminent din Bolzano, care a aparținut odinioară unui castel.",
+                  "category": "castle",
+                  "coords": [
+                        11.346598,
+                        46.511436
+                  ]
+            },
+            {
+                  "name": "Maria in Augia - Maria in der Au",
+                  "text": "Un sit arheologic din Bolzano care prezintă vestigiile unei mănăstiri medievale.",
+                  "category": "historical",
+                  "coords": [
+                        11.326192,
+                        46.486257
+                  ]
+            },
+            {
+                  "name": "BZ '18-'45",
+                  "text": "O expoziție documentară situată în Monumentul Victoriei, care abordează istoria contemporană a orașului Bolzano.",
+                  "category": "museum",
+                  "coords": [
+                        11.344872,
+                        46.500493
+                  ]
+            },
+            {
+                  "name": "Turbina Francis Turbine (1925 Marlengo - Marling)",
+                  "text": "Un monument tehnic din Bolzano care expune o turbină Francis istorică din anul 1925.",
+                  "category": "museum",
+                  "coords": [
+                        11.338803,
+                        46.477988
+                  ]
+            },
+            {
+                  "name": "Lido Bolzano- Bozner Lido",
+                  "text": "Un ștrand public și centru de agrement mare din Bolzano, cu diverse bazine de înot.",
+                  "category": "recreational",
+                  "coords": [
+                        11.344255,
+                        46.490674
+                  ]
+            },
+            {
+                  "name": "Fontana di re Laurino - Laurinbrunnen",
+                  "text": "O fântână artistică din Bolzano care îl reprezintă pe legendarul rege Laurin.",
+                  "category": "historical",
+                  "coords": [
+                        11.357757,
+                        46.497561
+                  ]
+            },
+            {
+                  "name": "ar/ge kunst",
+                  "text": "O galerie de artă contemporană din Bolzano care prezintă expoziții temporare ale unor artiști moderni.",
+                  "category": "museum",
+                  "coords": [
+                        11.350688,
+                        46.499759
+                  ]
+            },
+            {
+                  "name": "Grieser Platz",
+                  "text": "Piața centrală a cartierului Gries din Bolzano, renumită pentru climatul blând și vilele istorice.",
+                  "category": "park",
+                  "coords": [
+                        11.335408,
+                        46.502311
+                  ]
+            },
+            {
+                  "name": "Ehemalige Kirche St. Oswald - Ex chiesa S. Osvaldo",
+                  "text": "Ruinele pitorești ale unei foste biserici din Bolzano, care servesc astăzi ca monument istoric.",
+                  "category": "historical",
+                  "coords": [
+                        11.35943,
+                        46.503915
+                  ]
+            },
+            {
+                  "name": "Corpus Domini",
+                  "text": "Un lăcaș de cult religios din Bolzano, dedicat venerării Trupului Domnului.",
+                  "category": "religious",
+                  "coords": [
+                        11.320945,
+                        46.491011
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teatro Rainerum",
+                  "text": "A modern theater in Bolzano used for various cultural performances and community events.",
+                  "category": "cultural",
+                  "coords": [
+                        11.351554,
+                        46.4969
+                  ]
+            },
+            {
+                  "name": "Museo Mercantile - Merkantilmuseum",
+                  "text": "The museum in the former Mercantile Magistrate building displays the commercial history of Bolzano.",
+                  "category": "museum",
+                  "coords": [
+                        11.354186,
+                        46.499468
+                  ]
+            },
+            {
+                  "name": "Tesoro del Duomo di Bolzano - Domschatzkammer Bozen",
+                  "text": "The cathedral treasury houses a significant collection of sacred art and Baroque goldsmith works.",
+                  "category": "museum",
+                  "coords": [
+                        11.354544,
+                        46.49744
+                  ]
+            },
+            {
+                  "name": "Museo Scienze Naturali - Naturmuseum",
+                  "text": "The museum in the former provincial administrative building is dedicated to the natural history of South Tyrol.",
+                  "category": "museum",
+                  "coords": [
+                        11.357096,
+                        46.501118
+                  ]
+            },
+            {
+                  "name": "Ruine Weineck - Rovine Castel Weinegg",
+                  "text": "The ruins of Weineck Castle, built in the 12th century, are located on a hill above the Haslach district.",
+                  "category": "castle",
+                  "coords": [
+                        11.349534,
+                        46.490216
+                  ]
+            },
+            {
+                  "name": "Teatro Comunale - Stadttheater",
+                  "text": "Completed in 1999 according to plans by Marco Zanuso, the theatre is the provincial capital's most important stage.",
+                  "category": "cultural",
+                  "coords": [
+                        11.353832,
+                        46.495603
+                  ]
+            },
+            {
+                  "name": "Municipal Museum",
+                  "text": "The Municipal Museum of Bolzano displays archaeological finds and an extensive art history collection of the region.",
+                  "category": "museum",
+                  "coords": [
+                        11.349031,
+                        46.499801
+                  ]
+            },
+            {
+                  "name": "Museion",
+                  "text": "The museum for modern and contemporary art is housed in a futuristic glass cube on the banks of the Talfer river.",
+                  "category": "museum",
+                  "coords": [
+                        11.348355,
+                        46.497333
+                  ]
+            },
+            {
+                  "name": "Castel Sant'Antonio - Schloss Klebenstein",
+                  "text": "The castle complex at the entrance to the Sarntal valley consists of a medieval residential tower and Baroque additions.",
+                  "category": "castle",
+                  "coords": [
+                        11.352347,
+                        46.511683
+                  ]
+            },
+            {
+                  "name": "Compil",
+                  "text": "The campill manor is a fortified noble residence from the 16th century in the eastern part of Bolzano.",
+                  "category": "castle",
+                  "coords": [
+                        11.352566,
+                        46.50927
+                  ]
+            },
+            {
+                  "name": "Schloss Ried - Castel Novale",
+                  "text": "The well-preserved castle complex at the entrance of the Sarntal valley is primarily known for its valuable Gothic frescoes.",
+                  "category": "castle",
+                  "coords": [
+                        11.361299,
+                        46.520551
+                  ]
+            },
+            {
+                  "name": "Castel Campegno - Burg Kampenn",
+                  "text": "Perched on a rock, Campegno Castle guards the eastern approach to the city of Bolzano.",
+                  "category": "castle",
+                  "coords": [
+                        11.390202,
+                        46.487234
+                  ]
+            },
+            {
+                  "name": "Castel Flavon - Haselburg",
+                  "text": "The medieval Flavon Castle offers a wide view over the Etsch valley and now houses gastronomic facilities.",
+                  "category": "castle",
+                  "coords": [
+                        11.343522,
+                        46.476888
+                  ]
+            },
+            {
+                  "name": "Castel Hörtenberg - Ansitz Hörtenberg",
+                  "text": "A historic Renaissance manor in Bolzano, now serving as an exclusive hotel.",
+                  "category": "castle",
+                  "coords": [
+                        11.360975,
+                        46.502201
+                  ]
+            },
+            {
+                  "name": "Castel Roncolo - Schloss Runkelstein",
+                  "text": "This medieval castle is known for its extensive cycles of secular frescoes dating back to the Middle Ages.",
+                  "category": "castle",
+                  "coords": [
+                        11.35889,
+                        46.517531
+                  ]
+            },
+            {
+                  "name": "Schloss Maretsch - Castel Mareccio",
+                  "text": "A castle surrounded by vineyards near the city center, currently used as an event center.",
+                  "category": "castle",
+                  "coords": [
+                        11.350473,
+                        46.503454
+                  ]
+            },
+            {
+                  "name": "Torre Druso - Gscheibter Turm",
+                  "text": "The ruin of a prominent circular tower in Bolzano, which once belonged to a castle complex.",
+                  "category": "castle",
+                  "coords": [
+                        11.346598,
+                        46.511436
+                  ]
+            },
+            {
+                  "name": "Maria in Augia - Maria in der Au",
+                  "text": "An archaeological site in Bolzano displaying the remains of a medieval monastery.",
+                  "category": "historical",
+                  "coords": [
+                        11.326192,
+                        46.486257
+                  ]
+            },
+            {
+                  "name": "BZ '18-'45",
+                  "text": "A documentation exhibition located in the Victory Monument, covering the contemporary history of Bolzano.",
+                  "category": "museum",
+                  "coords": [
+                        11.344872,
+                        46.500493
+                  ]
+            },
+            {
+                  "name": "Turbina Francis Turbine (1925 Marlengo - Marling)",
+                  "text": "An industrial monument in Bolzano displaying a historic Francis turbine from 1925.",
+                  "category": "museum",
+                  "coords": [
+                        11.338803,
+                        46.477988
+                  ]
+            },
+            {
+                  "name": "Lido Bolzano- Bozner Lido",
+                  "text": "A large public outdoor pool and leisure center in Bolzano featuring several swimming pools.",
+                  "category": "recreational",
+                  "coords": [
+                        11.344255,
+                        46.490674
+                  ]
+            },
+            {
+                  "name": "Fontana di re Laurino - Laurinbrunnen",
+                  "text": "An artistic fountain in Bolzano depicting the legendary King Laurin.",
+                  "category": "historical",
+                  "coords": [
+                        11.357757,
+                        46.497561
+                  ]
+            },
+            {
+                  "name": "ar/ge kunst",
+                  "text": "A contemporary art gallery in Bolzano hosting rotating exhibitions by modern artists.",
+                  "category": "museum",
+                  "coords": [
+                        11.350688,
+                        46.499759
+                  ]
+            },
+            {
+                  "name": "Grieser Platz",
+                  "text": "The central square of Bolzano's Gries district, known for its mild climate and historic villas.",
+                  "category": "park",
+                  "coords": [
+                        11.335408,
+                        46.502311
+                  ]
+            },
+            {
+                  "name": "Ehemalige Kirche St. Oswald - Ex chiesa S. Osvaldo",
+                  "text": "The ruins of a former church in Bolzano, preserved as a historical landmark after its destruction in World War II.",
+                  "category": "historical",
+                  "coords": [
+                        11.35943,
+                        46.503915
+                  ]
+            },
+            {
+                  "name": "Corpus Domini",
+                  "text": "A religious place of worship in Bolzano dedicated to the Corpus Domini.",
+                  "category": "religious",
+                  "coords": [
+                        11.320945,
+                        46.491011
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IT",
     name: { de: "Bozen", hu: "Bolzano", ro: "Bolzano", en: "Bolzano" },
@@ -4377,7 +7077,1132 @@ export const italyCitiesV2: POI[] = [
     image: "/poi-images/italy-trento-cities-v2.webp",
   },
   {
-    id: "italy-ferrara-cities-v2",
+    id: "italy-ferrara-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pinacoteca Nazionale",
+                  "text": "Die im Palazzo dei Diamanti untergebrachte Galerie zeigt Meisterwerke der ferraresischen Renaissance-Malerei.",
+                  "category": "museum",
+                  "coords": [
+                        11.620953,
+                        44.842334
+                  ]
+            },
+            {
+                  "name": "Palazzo Schifanoia",
+                  "text": "Ein ehemaliger Palast der Familie Este, weltberühmt für seine Renaissance-Fresken im Saal der Monate.",
+                  "category": "museum",
+                  "coords": [
+                        11.629169,
+                        44.830473
+                  ]
+            },
+            {
+                  "name": "Museo di Casa Romei",
+                  "text": "Dieses spätgotische Wohnhaus aus dem 15. Jahrhundert beherbergt heute ein Museum für antike Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        11.626089,
+                        44.833174
+                  ]
+            },
+            {
+                  "name": "Laboratorio Aperto di Ferrara (ex Teatro Verdi)",
+                  "text": "Ein modernes Innovationszentrum und Kulturraum, der im Gebäude des ehemaligen Teatro Verdi eingerichtet wurde.",
+                  "category": "cultural",
+                  "coords": [
+                        11.619402,
+                        44.831317
+                  ]
+            },
+            {
+                  "name": "Museo Boldini",
+                  "text": "Das Museum ist dem Werk des berühmten Porträtmalers Giovanni Boldini gewidmet, der in Ferrara geboren wurde.",
+                  "category": "museum",
+                  "coords": [
+                        11.625057,
+                        44.842085
+                  ]
+            },
+            {
+                  "name": "Museo Ebraico",
+                  "text": "Jüdisches Museum in Ferrara, das die Geschichte und Kultur der lokalen jüdischen Gemeinde dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        11.622194,
+                        44.833844
+                  ]
+            },
+            {
+                  "name": "Padiglione d'Arte Contemporanea",
+                  "text": "Pavillon für zeitgenössische Kunst in Ferrara mit wechselnden Ausstellungen moderner Werke.",
+                  "category": "museum",
+                  "coords": [
+                        11.624055,
+                        44.842609
+                  ]
+            },
+            {
+                  "name": "Teatro Nuovo",
+                  "text": "Historisches Theater in Ferrara, das 1926 eröffnet wurde und ein vielfältiges Programm bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        11.620471,
+                        44.834565
+                  ]
+            },
+            {
+                  "name": "Palazzo di Giulio d'Este",
+                  "text": "Ein prächtiger Renaissance-Palast in Ferrara, der einst als Residenz für Giulio d'Este diente.",
+                  "category": "historical",
+                  "coords": [
+                        11.621034,
+                        44.840697
+                  ]
+            },
+            {
+                  "name": "MEIS - Museo nazionale dell’Ebraismo Italiano e della Shoah",
+                  "text": "Nationalmuseum, das die Geschichte des italienischen Judentums und das Gedenken an die Shoah dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        11.613404,
+                        44.835465
+                  ]
+            },
+            {
+                  "name": "Museo archeologico nazionale di Ferrara",
+                  "text": "Archäologisches Nationalmuseum im Palazzo Costabili, bekannt für Funde aus der etruskischen Stadt Spina.",
+                  "category": "museum",
+                  "coords": [
+                        11.62722,
+                        44.827367
+                  ]
+            },
+            {
+                  "name": "Sala Estense",
+                  "text": "Ein historischer Saal im Herzen von Ferrara, der heute für Theateraufführungen und Konzerte genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        11.618991,
+                        44.836256
+                  ]
+            },
+            {
+                  "name": "Delizia di Belfiore",
+                  "text": "Archäologische Stätte einer ehemaligen Residenz der Familie Este in Ferrara.",
+                  "category": "historical",
+                  "coords": [
+                        11.621833,
+                        44.848437
+                  ]
+            },
+            {
+                  "name": "Palazzina di Marfisa D'Este",
+                  "text": "Ein prächtiger Renaissance-Palast in Ferrara, der heute als Museum dient.",
+                  "category": "museum",
+                  "coords": [
+                        11.629847,
+                        44.833138
+                  ]
+            },
+            {
+                  "name": "IT4060017 - ZPS - Po di Primaro e Bacini di Traghetto",
+                  "text": "Ein geschütztes Naturschutzgebiet und Feuchtgebiet in der Nähe von Ferrara.",
+                  "category": "natural",
+                  "coords": [
+                        11.715928,
+                        44.721325
+                  ]
+            },
+            {
+                  "name": "Museo Civico di Storia Naturale",
+                  "text": "Das städtische Museum zeigt Ausstellungen zur Geologie und Zoologie der Region.",
+                  "category": "museum",
+                  "coords": [
+                        11.622468,
+                        44.838058
+                  ]
+            },
+            {
+                  "name": "Museo della Radio",
+                  "text": "Ein spezialisiertes Museum in Ferrara, das der Geschichte der Radiotechnik gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        11.614971,
+                        44.846358
+                  ]
+            },
+            {
+                  "name": "Casa di Ludovico Ariosto",
+                  "text": "Das ehemalige Wohnhaus des berühmten Dichters Ludovico Ariosto in Ferrara.",
+                  "category": "museum",
+                  "coords": [
+                        11.616844,
+                        44.844334
+                  ]
+            },
+            {
+                  "name": "Rivellino",
+                  "text": "Archäologische Überreste der historischen Verteidigungsanlagen von Ferrara.",
+                  "category": "historical",
+                  "coords": [
+                        11.624484,
+                        44.849806
+                  ]
+            },
+            {
+                  "name": "Doccile di San Tommaso",
+                  "text": "Eine archäologische Stätte in Ferrara, die mit der historischen Wasserwirtschaft verbunden ist.",
+                  "category": "historical",
+                  "coords": [
+                        11.633451,
+                        44.830289
+                  ]
+            },
+            {
+                  "name": "Doccile di San Rocco",
+                  "text": "Archäologische Stätte in Ferrara, die Überreste historischer Wasserleitungen und hydraulischer Strukturen zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        11.635376,
+                        44.836241
+                  ]
+            },
+            {
+                  "name": "Parco del Montagnone",
+                  "text": "Diese öffentliche Parkanlage in Ferrara erstreckt sich entlang der historischen Stadtmauern und Erdwälle.",
+                  "category": "park",
+                  "coords": [
+                        11.632093,
+                        44.82755
+                  ]
+            },
+            {
+                  "name": "Parco Pareschi",
+                  "text": "Ein historischer Park im Zentrum von Ferrara, der ursprünglich als Garten des Palazzo Pareschi angelegt wurde.",
+                  "category": "park",
+                  "coords": [
+                        11.627074,
+                        44.834042
+                  ]
+            },
+            {
+                  "name": "Monumento a Ludovico Ariosto",
+                  "text": "Denkmal für den Dichter Ludovico Ariosto in der Mitte der Piazza Ariostea im Herzen von Ferrara.",
+                  "category": "historical",
+                  "coords": [
+                        11.626513,
+                        44.841346
+                  ]
+            },
+            {
+                  "name": "Basilica di San Francesco",
+                  "text": "Eine bedeutende Renaissance-Kirche in Ferrara, die im 15. Jahrhundert vom Architekten Biagio Rossetti entworfen wurde.",
+                  "category": "religious",
+                  "coords": [
+                        11.62506,
+                        44.834133
+                  ]
+            },
+            {
+                  "name": "Basilica di San Giorgio fuori le mura",
+                  "text": "Die ursprüngliche Kathedrale von Ferrara, die sich außerhalb der Stadtmauern am Ufer des Po di Volano befindet.",
+                  "category": "religious",
+                  "coords": [
+                        11.628069,
+                        44.821734
+                  ]
+            },
+            {
+                  "name": "Basilica di Santa Maria in Vado",
+                  "text": "Eine historische Kirche in Ferrara, die für ein eucharistisches Wunder im Jahr 1171 bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        11.62769,
+                        44.830372
+                  ]
+            },
+            {
+                  "name": "Basilica di San Benedetto",
+                  "text": "Diese Benediktinerkirche in Ferrara ist ein herausragendes Beispiel der lokalen Renaissance-Architektur des 15. Jahrhunderts.",
+                  "category": "religious",
+                  "coords": [
+                        11.614449,
+                        44.843096
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Domenico",
+                  "text": "Eine imposante Kirche in Ferrara, die im 18. Jahrhundert auf den Überresten eines viel älteren Gebäudes neu errichtet wurde.",
+                  "category": "religious",
+                  "coords": [
+                        11.616438,
+                        44.838298
+                  ]
+            },
+            {
+                  "name": "Cattedrale di San Giorgio Martire",
+                  "text": "Die Hauptkathedrale von Ferrara mit einer beeindruckenden romanisch-gotischen Fassade aus dem 12. Jahrhundert.",
+                  "category": "religious",
+                  "coords": [
+                        11.620356,
+                        44.835619
+                  ]
+            },
+            {
+                  "name": "Torre dei Leuti",
+                  "text": "Ein gut erhaltener mittelalterlicher Turm, der einst Teil der Verteidigungsanlagen im Zentrum von Ferrara war.",
+                  "category": "tower",
+                  "coords": [
+                        11.617455,
+                        44.833821
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pinacoteca Nazionale",
+                  "text": "A Palazzo dei Diamanti épületében található képtár a ferrarai reneszánsz festészet remekműveit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        11.620953,
+                        44.842334
+                  ]
+            },
+            {
+                  "name": "Palazzo Schifanoia",
+                  "text": "Az Este-család egykori palotája, amely a Hónapok termének reneszánsz freskóiról világhírű.",
+                  "category": "museum",
+                  "coords": [
+                        11.629169,
+                        44.830473
+                  ]
+            },
+            {
+                  "name": "Museo di Casa Romei",
+                  "text": "Ez a 15. századi késő gótikus lakóház ma ókori művészeti múzeumnak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        11.626089,
+                        44.833174
+                  ]
+            },
+            {
+                  "name": "Laboratorio Aperto di Ferrara (ex Teatro Verdi)",
+                  "text": "Modern innovációs központ és kulturális tér, amelyet az egykori Teatro Verdi épületében alakítottak ki.",
+                  "category": "cultural",
+                  "coords": [
+                        11.619402,
+                        44.831317
+                  ]
+            },
+            {
+                  "name": "Museo Boldini",
+                  "text": "A múzeum a Ferrarában született híres portréfestő, Giovanni Boldini életművének szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        11.625057,
+                        44.842085
+                  ]
+            },
+            {
+                  "name": "Museo Ebraico",
+                  "text": "Ferrara zsidó múzeuma, amely a helyi közösség történelmét és tárgyi emlékeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        11.622194,
+                        44.833844
+                  ]
+            },
+            {
+                  "name": "Padiglione d'Arte Contemporanea",
+                  "text": "Kortárs művészeti pavilon Ferrarában, amely rendszeresen ad otthont időszaki kiállításoknak.",
+                  "category": "museum",
+                  "coords": [
+                        11.624055,
+                        44.842609
+                  ]
+            },
+            {
+                  "name": "Teatro Nuovo",
+                  "text": "Ferrara 1926-ban megnyitott történelmi színháza, amely változatos kulturális programokat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        11.620471,
+                        44.834565
+                  ]
+            },
+            {
+                  "name": "Palazzo di Giulio d'Este",
+                  "text": "Ferrara egyik pompás reneszánsz palotája, amely egykor Giulio d'Este rezidenciája volt.",
+                  "category": "historical",
+                  "coords": [
+                        11.621034,
+                        44.840697
+                  ]
+            },
+            {
+                  "name": "MEIS - Museo nazionale dell’Ebraismo Italiano e della Shoah",
+                  "text": "Nemzeti múzeum, amely az olasz zsidóság történelmét és a soá emlékezetét dolgozza fel.",
+                  "category": "museum",
+                  "coords": [
+                        11.613404,
+                        44.835465
+                  ]
+            },
+            {
+                  "name": "Museo archeologico nazionale di Ferrara",
+                  "text": "Nemzeti Régészeti Múzeum a Palazzo Costabiliban, amely az etruszk Spina városából származó leleteiről híres.",
+                  "category": "museum",
+                  "coords": [
+                        11.62722,
+                        44.827367
+                  ]
+            },
+            {
+                  "name": "Sala Estense",
+                  "text": "Ferrara szívében található történelmi terem, amely ma színházi előadásoknak és koncerteknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        11.618991,
+                        44.836256
+                  ]
+            },
+            {
+                  "name": "Delizia di Belfiore",
+                  "text": "Az Este-család egykori rezidenciájának régészeti helyszíne Ferrarában.",
+                  "category": "historical",
+                  "coords": [
+                        11.621833,
+                        44.848437
+                  ]
+            },
+            {
+                  "name": "Palazzina di Marfisa D'Este",
+                  "text": "Ferrara egyik pompás reneszánsz palotája, amely ma múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        11.629847,
+                        44.833138
+                  ]
+            },
+            {
+                  "name": "IT4060017 - ZPS - Po di Primaro e Bacini di Traghetto",
+                  "text": "Védett természetvédelmi terület és vizes élőhely Ferrara közelében.",
+                  "category": "natural",
+                  "coords": [
+                        11.715928,
+                        44.721325
+                  ]
+            },
+            {
+                  "name": "Museo Civico di Storia Naturale",
+                  "text": "A városi múzeum a régió geológiáját és zoológiáját bemutató kiállításoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        11.622468,
+                        44.838058
+                  ]
+            },
+            {
+                  "name": "Museo della Radio",
+                  "text": "A rádiótechnika történetének szentelt specializált múzeum Ferrarában.",
+                  "category": "museum",
+                  "coords": [
+                        11.614971,
+                        44.846358
+                  ]
+            },
+            {
+                  "name": "Casa di Ludovico Ariosto",
+                  "text": "A híres költő, Ludovico Ariosto egykori lakóháza Ferrarában.",
+                  "category": "museum",
+                  "coords": [
+                        11.616844,
+                        44.844334
+                  ]
+            },
+            {
+                  "name": "Rivellino",
+                  "text": "Ferrara történelmi védműveinek régészeti maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        11.624484,
+                        44.849806
+                  ]
+            },
+            {
+                  "name": "Doccile di San Tommaso",
+                  "text": "A történelmi vízgazdálkodáshoz kapcsolódó régészeti helyszín Ferrarában.",
+                  "category": "historical",
+                  "coords": [
+                        11.633451,
+                        44.830289
+                  ]
+            },
+            {
+                  "name": "Doccile di San Rocco",
+                  "text": "Régészeti lelőhely Ferrarában, amely a város történelmi vízellátó rendszerének maradványait mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        11.635376,
+                        44.836241
+                  ]
+            },
+            {
+                  "name": "Parco del Montagnone",
+                  "text": "Nyilvános park Ferrarában, amely a történelmi városfalak és sáncok mentén húzódik.",
+                  "category": "park",
+                  "coords": [
+                        11.632093,
+                        44.82755
+                  ]
+            },
+            {
+                  "name": "Parco Pareschi",
+                  "text": "Ferrara központjában található történelmi park, amely eredetileg a Palazzo Pareschi kertje volt.",
+                  "category": "park",
+                  "coords": [
+                        11.627074,
+                        44.834042
+                  ]
+            },
+            {
+                  "name": "Monumento a Ludovico Ariosto",
+                  "text": "Ludovico Ariosto költő emlékműve a Piazza Ariostea közepén, Ferrara szívében.",
+                  "category": "historical",
+                  "coords": [
+                        11.626513,
+                        44.841346
+                  ]
+            },
+            {
+                  "name": "Basilica di San Francesco",
+                  "text": "Fontos reneszánsz templom Ferrarában, amelyet a 15. század végén Biagio Rossetti építész tervezett.",
+                  "category": "religious",
+                  "coords": [
+                        11.62506,
+                        44.834133
+                  ]
+            },
+            {
+                  "name": "Basilica di San Giorgio fuori le mura",
+                  "text": "Ferrara eredeti székesegyháza, amely a városfalakon kívül, a Po di Volano partján található.",
+                  "category": "religious",
+                  "coords": [
+                        11.628069,
+                        44.821734
+                  ]
+            },
+            {
+                  "name": "Basilica di Santa Maria in Vado",
+                  "text": "Történelmi templom Ferrarában, amely egy 1171-ben történt eucharisztikus csodáról nevezetes.",
+                  "category": "religious",
+                  "coords": [
+                        11.62769,
+                        44.830372
+                  ]
+            },
+            {
+                  "name": "Basilica di San Benedetto",
+                  "text": "Ez a ferrarai bencés templom a 15. századi helyi reneszánsz építészet egyik kiemelkedő példája.",
+                  "category": "religious",
+                  "coords": [
+                        11.614449,
+                        44.843096
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Domenico",
+                  "text": "Impozáns ferrarai templom, amelyet a 18. században építettek újjá egy sokkal régebbi épület maradványain.",
+                  "category": "religious",
+                  "coords": [
+                        11.616438,
+                        44.838298
+                  ]
+            },
+            {
+                  "name": "Cattedrale di San Giorgio Martire",
+                  "text": "Ferrara főszékesegyháza, amely lenyűgöző, 12. századi román-gótikus homlokzatáról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        11.620356,
+                        44.835619
+                  ]
+            },
+            {
+                  "name": "Torre dei Leuti",
+                  "text": "Jó állapotban fennmaradt középkori lakótorony, amely egykor a védelmi rendszer része volt Ferrara központjában.",
+                  "category": "tower",
+                  "coords": [
+                        11.617455,
+                        44.833821
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pinacoteca Nazionale",
+                  "text": "Găzduită în Palazzo dei Diamanti, această galerie expune capodopere ale picturii renascentiste din Ferrara.",
+                  "category": "museum",
+                  "coords": [
+                        11.620953,
+                        44.842334
+                  ]
+            },
+            {
+                  "name": "Palazzo Schifanoia",
+                  "text": "Un fost palat al familiei Este, faimos pentru frescele sale renascentiste din Sala Lunilor.",
+                  "category": "museum",
+                  "coords": [
+                        11.629169,
+                        44.830473
+                  ]
+            },
+            {
+                  "name": "Museo di Casa Romei",
+                  "text": "Această reședință gotică târzie din secolul al XV-lea găzduiește astăzi un muzeu de artă antică.",
+                  "category": "museum",
+                  "coords": [
+                        11.626089,
+                        44.833174
+                  ]
+            },
+            {
+                  "name": "Laboratorio Aperto di Ferrara (ex Teatro Verdi)",
+                  "text": "Un centru modern de inovare și spațiu cultural amenajat în clădirea fostului Teatru Verdi.",
+                  "category": "cultural",
+                  "coords": [
+                        11.619402,
+                        44.831317
+                  ]
+            },
+            {
+                  "name": "Museo Boldini",
+                  "text": "Muzeul este dedicat operei celebrului pictor de portrete Giovanni Boldini, născut în Ferrara.",
+                  "category": "museum",
+                  "coords": [
+                        11.625057,
+                        44.842085
+                  ]
+            },
+            {
+                  "name": "Museo Ebraico",
+                  "text": "Muzeul Ebraic din Ferrara, care documentează istoria și cultura comunității evreiești locale.",
+                  "category": "museum",
+                  "coords": [
+                        11.622194,
+                        44.833844
+                  ]
+            },
+            {
+                  "name": "Padiglione d'Arte Contemporanea",
+                  "text": "Pavilion de artă contemporană din Ferrara, care găzduiește expoziții temporare de artă modernă.",
+                  "category": "museum",
+                  "coords": [
+                        11.624055,
+                        44.842609
+                  ]
+            },
+            {
+                  "name": "Teatro Nuovo",
+                  "text": "Teatru istoric din Ferrara, inaugurat în 1926, care oferă o programă culturală variată.",
+                  "category": "cultural",
+                  "coords": [
+                        11.620471,
+                        44.834565
+                  ]
+            },
+            {
+                  "name": "Palazzo di Giulio d'Este",
+                  "text": "Un palat renascentist impunător din Ferrara, care a servit drept reședință pentru Giulio d'Este.",
+                  "category": "historical",
+                  "coords": [
+                        11.621034,
+                        44.840697
+                  ]
+            },
+            {
+                  "name": "MEIS - Museo nazionale dell’Ebraismo Italiano e della Shoah",
+                  "text": "Muzeul național dedicat istoriei iudaismului italian și comemorării Shoah-ului.",
+                  "category": "museum",
+                  "coords": [
+                        11.613404,
+                        44.835465
+                  ]
+            },
+            {
+                  "name": "Museo archeologico nazionale di Ferrara",
+                  "text": "Muzeul Național de Arheologie din Palazzo Costabili, renumit pentru vestigiile din orașul etrusc Spina.",
+                  "category": "museum",
+                  "coords": [
+                        11.62722,
+                        44.827367
+                  ]
+            },
+            {
+                  "name": "Sala Estense",
+                  "text": "O sală istorică în centrul orașului Ferrara, folosită astăzi pentru spectacole de teatru și concerte.",
+                  "category": "cultural",
+                  "coords": [
+                        11.618991,
+                        44.836256
+                  ]
+            },
+            {
+                  "name": "Delizia di Belfiore",
+                  "text": "Sit arheologic al unei foste reședințe a familiei Este din Ferrara.",
+                  "category": "historical",
+                  "coords": [
+                        11.621833,
+                        44.848437
+                  ]
+            },
+            {
+                  "name": "Palazzina di Marfisa D'Este",
+                  "text": "Un palat renascentist splendid din Ferrara, care astăzi funcționează ca muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        11.629847,
+                        44.833138
+                  ]
+            },
+            {
+                  "name": "IT4060017 - ZPS - Po di Primaro e Bacini di Traghetto",
+                  "text": "O rezervație naturală protejată și zonă umedă situată lângă Ferrara.",
+                  "category": "natural",
+                  "coords": [
+                        11.715928,
+                        44.721325
+                  ]
+            },
+            {
+                  "name": "Museo Civico di Storia Naturale",
+                  "text": "Muzeul civic găzduiește expoziții despre geologia și zoologia regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        11.622468,
+                        44.838058
+                  ]
+            },
+            {
+                  "name": "Museo della Radio",
+                  "text": "Un muzeu specializat din Ferrara dedicat istoriei tehnologiei radio.",
+                  "category": "museum",
+                  "coords": [
+                        11.614971,
+                        44.846358
+                  ]
+            },
+            {
+                  "name": "Casa di Ludovico Ariosto",
+                  "text": "Fosta reședință a celebrului poet Ludovico Ariosto din Ferrara.",
+                  "category": "museum",
+                  "coords": [
+                        11.616844,
+                        44.844334
+                  ]
+            },
+            {
+                  "name": "Rivellino",
+                  "text": "Rămășițe arheologice ale fortificațiilor istorice din Ferrara.",
+                  "category": "historical",
+                  "coords": [
+                        11.624484,
+                        44.849806
+                  ]
+            },
+            {
+                  "name": "Doccile di San Tommaso",
+                  "text": "Un sit arheologic din Ferrara legat de gestionarea istorică a apei.",
+                  "category": "historical",
+                  "coords": [
+                        11.633451,
+                        44.830289
+                  ]
+            },
+            {
+                  "name": "Doccile di San Rocco",
+                  "text": "Sit arheologic din Ferrara, unde pot fi văzute resturile unor structuri hidraulice și conducte istorice.",
+                  "category": "historical",
+                  "coords": [
+                        11.635376,
+                        44.836241
+                  ]
+            },
+            {
+                  "name": "Parco del Montagnone",
+                  "text": "Un parc public din Ferrara situat de-a lungul vechilor ziduri de apărare și a terasamentelor orașului.",
+                  "category": "park",
+                  "coords": [
+                        11.632093,
+                        44.82755
+                  ]
+            },
+            {
+                  "name": "Parco Pareschi",
+                  "text": "Un parc istoric din centrul orașului Ferrara, care a servit inițial drept grădină a Palatului Pareschi.",
+                  "category": "park",
+                  "coords": [
+                        11.627074,
+                        44.834042
+                  ]
+            },
+            {
+                  "name": "Monumento a Ludovico Ariosto",
+                  "text": "Monument dedicat poetului Ludovico Ariosto, situat în centrul pieței Piazza Ariostea din Ferrara.",
+                  "category": "historical",
+                  "coords": [
+                        11.626513,
+                        44.841346
+                  ]
+            },
+            {
+                  "name": "Basilica di San Francesco",
+                  "text": "O biserică renascentistă importantă din Ferrara, proiectată în secolul al XV-lea de arhitectul Biagio Rossetti.",
+                  "category": "religious",
+                  "coords": [
+                        11.62506,
+                        44.834133
+                  ]
+            },
+            {
+                  "name": "Basilica di San Giorgio fuori le mura",
+                  "text": "Catedrala originală a orașului Ferrara, situată în afara zidurilor cetății, pe malul brațului Po di Volano.",
+                  "category": "religious",
+                  "coords": [
+                        11.628069,
+                        44.821734
+                  ]
+            },
+            {
+                  "name": "Basilica di Santa Maria in Vado",
+                  "text": "O biserică istorică din Ferrara, renumită pentru un miracol euharistic petrecut în anul 1171.",
+                  "category": "religious",
+                  "coords": [
+                        11.62769,
+                        44.830372
+                  ]
+            },
+            {
+                  "name": "Basilica di San Benedetto",
+                  "text": "Această biserică benedictină din Ferrara este un exemplu remarcabil al arhitecturii renascentiste locale din secolul al XV-lea.",
+                  "category": "religious",
+                  "coords": [
+                        11.614449,
+                        44.843096
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Domenico",
+                  "text": "O biserică impunătoare din Ferrara, reconstruită în secolul al XVIII-lea pe locul unui edificiu mult mai vechi.",
+                  "category": "religious",
+                  "coords": [
+                        11.616438,
+                        44.838298
+                  ]
+            },
+            {
+                  "name": "Cattedrale di San Giorgio Martire",
+                  "text": "Catedrala principală din Ferrara, cunoscută pentru fațada sa impresionantă în stil romanic-gotic din secolul al XII-lea.",
+                  "category": "religious",
+                  "coords": [
+                        11.620356,
+                        44.835619
+                  ]
+            },
+            {
+                  "name": "Torre dei Leuti",
+                  "text": "Un turn medieval bine conservat, care a făcut parte din sistemul defensiv al centrului istoric din Ferrara.",
+                  "category": "tower",
+                  "coords": [
+                        11.617455,
+                        44.833821
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pinacoteca Nazionale",
+                  "text": "Housed in the Palazzo dei Diamanti, this gallery exhibits masterpieces of Ferrarese Renaissance painting.",
+                  "category": "museum",
+                  "coords": [
+                        11.620953,
+                        44.842334
+                  ]
+            },
+            {
+                  "name": "Palazzo Schifanoia",
+                  "text": "A former palace of the Este family, world-famous for its Renaissance frescoes in the Hall of the Months.",
+                  "category": "museum",
+                  "coords": [
+                        11.629169,
+                        44.830473
+                  ]
+            },
+            {
+                  "name": "Museo di Casa Romei",
+                  "text": "This 15th-century late Gothic residence now houses a museum of ancient art.",
+                  "category": "museum",
+                  "coords": [
+                        11.626089,
+                        44.833174
+                  ]
+            },
+            {
+                  "name": "Laboratorio Aperto di Ferrara (ex Teatro Verdi)",
+                  "text": "A modern innovation center and cultural space established in the building of the former Teatro Verdi.",
+                  "category": "cultural",
+                  "coords": [
+                        11.619402,
+                        44.831317
+                  ]
+            },
+            {
+                  "name": "Museo Boldini",
+                  "text": "The museum is dedicated to the work of the famous portrait painter Giovanni Boldini, who was born in Ferrara.",
+                  "category": "museum",
+                  "coords": [
+                        11.625057,
+                        44.842085
+                  ]
+            },
+            {
+                  "name": "Museo Ebraico",
+                  "text": "Jewish Museum in Ferrara, documenting the history and culture of the local Jewish community.",
+                  "category": "museum",
+                  "coords": [
+                        11.622194,
+                        44.833844
+                  ]
+            },
+            {
+                  "name": "Padiglione d'Arte Contemporanea",
+                  "text": "Contemporary Art Pavilion in Ferrara, hosting temporary exhibitions of modern works.",
+                  "category": "museum",
+                  "coords": [
+                        11.624055,
+                        44.842609
+                  ]
+            },
+            {
+                  "name": "Teatro Nuovo",
+                  "text": "Historical theatre in Ferrara, opened in 1926, offering a diverse range of cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        11.620471,
+                        44.834565
+                  ]
+            },
+            {
+                  "name": "Palazzo di Giulio d'Este",
+                  "text": "A grand Renaissance palace in Ferrara that once served as the residence for Giulio d'Este.",
+                  "category": "historical",
+                  "coords": [
+                        11.621034,
+                        44.840697
+                  ]
+            },
+            {
+                  "name": "National Museum of Italian Judaism and the Shoah",
+                  "text": "National museum documenting the history of Italian Judaism and the commemoration of the Shoah.",
+                  "category": "museum",
+                  "coords": [
+                        11.613404,
+                        44.835465
+                  ]
+            },
+            {
+                  "name": "Museo archeologico nazionale di Ferrara",
+                  "text": "National Archaeological Museum in Palazzo Costabili, famous for finds from the Etruscan city of Spina.",
+                  "category": "museum",
+                  "coords": [
+                        11.62722,
+                        44.827367
+                  ]
+            },
+            {
+                  "name": "Sala Estense",
+                  "text": "A historic hall in the heart of Ferrara, currently used for theatrical performances and concerts.",
+                  "category": "cultural",
+                  "coords": [
+                        11.618991,
+                        44.836256
+                  ]
+            },
+            {
+                  "name": "Delizia di Belfiore",
+                  "text": "Archaeological site of a former Este family residence in Ferrara.",
+                  "category": "historical",
+                  "coords": [
+                        11.621833,
+                        44.848437
+                  ]
+            },
+            {
+                  "name": "Palazzina di Marfisa D'Este",
+                  "text": "A splendid Renaissance palace in Ferrara that now serves as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        11.629847,
+                        44.833138
+                  ]
+            },
+            {
+                  "name": "IT4060017 - ZPS - Po di Primaro e Bacini di Traghetto",
+                  "text": "A protected nature reserve and wetland area near Ferrara.",
+                  "category": "natural",
+                  "coords": [
+                        11.715928,
+                        44.721325
+                  ]
+            },
+            {
+                  "name": "Museo Civico di Storia Naturale",
+                  "text": "The civic museum hosts exhibitions on the geology and zoology of the region.",
+                  "category": "museum",
+                  "coords": [
+                        11.622468,
+                        44.838058
+                  ]
+            },
+            {
+                  "name": "Museo della Radio",
+                  "text": "A specialized museum in Ferrara dedicated to the history of radio technology.",
+                  "category": "museum",
+                  "coords": [
+                        11.614971,
+                        44.846358
+                  ]
+            },
+            {
+                  "name": "Casa di Ludovico Ariosto",
+                  "text": "The former residence of the famous poet Ludovico Ariosto in Ferrara.",
+                  "category": "museum",
+                  "coords": [
+                        11.616844,
+                        44.844334
+                  ]
+            },
+            {
+                  "name": "Rivellino",
+                  "text": "Archaeological remains of Ferrara's historical fortifications.",
+                  "category": "historical",
+                  "coords": [
+                        11.624484,
+                        44.849806
+                  ]
+            },
+            {
+                  "name": "Doccile di San Tommaso",
+                  "text": "An archaeological site in Ferrara linked to historical water management.",
+                  "category": "historical",
+                  "coords": [
+                        11.633451,
+                        44.830289
+                  ]
+            },
+            {
+                  "name": "Doccile di San Rocco",
+                  "text": "Archaeological site in Ferrara showing the remains of historical water management and hydraulic structures.",
+                  "category": "historical",
+                  "coords": [
+                        11.635376,
+                        44.836241
+                  ]
+            },
+            {
+                  "name": "Parco del Montagnone",
+                  "text": "A public park in Ferrara stretching along the city's historical defensive walls and ramparts.",
+                  "category": "park",
+                  "coords": [
+                        11.632093,
+                        44.82755
+                  ]
+            },
+            {
+                  "name": "Parco Pareschi",
+                  "text": "A historical park in the center of Ferrara, originally designed as the garden of the Palazzo Pareschi.",
+                  "category": "park",
+                  "coords": [
+                        11.627074,
+                        44.834042
+                  ]
+            },
+            {
+                  "name": "Monumento a Ludovico Ariosto",
+                  "text": "Monument dedicated to the poet Ludovico Ariosto, standing in the center of Piazza Ariostea in Ferrara.",
+                  "category": "historical",
+                  "coords": [
+                        11.626513,
+                        44.841346
+                  ]
+            },
+            {
+                  "name": "Basilica di San Francesco",
+                  "text": "A significant Renaissance church in Ferrara, designed in the late 15th century by architect Biagio Rossetti.",
+                  "category": "religious",
+                  "coords": [
+                        11.62506,
+                        44.834133
+                  ]
+            },
+            {
+                  "name": "Basilica di San Giorgio fuori le mura",
+                  "text": "The original cathedral of Ferrara, located outside the city walls on the banks of the Po di Volano.",
+                  "category": "religious",
+                  "coords": [
+                        11.628069,
+                        44.821734
+                  ]
+            },
+            {
+                  "name": "Basilica of Saint Mary in Vado",
+                  "text": "A historical church in Ferrara, famous for a Eucharistic miracle that occurred in 1171.",
+                  "category": "religious",
+                  "coords": [
+                        11.62769,
+                        44.830372
+                  ]
+            },
+            {
+                  "name": "Basilica di San Benedetto",
+                  "text": "This Benedictine church in Ferrara is an outstanding example of local 15th-century Renaissance architecture.",
+                  "category": "religious",
+                  "coords": [
+                        11.614449,
+                        44.843096
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Domenico",
+                  "text": "An imposing church in Ferrara, rebuilt in the 18th century on the site of a much older building.",
+                  "category": "religious",
+                  "coords": [
+                        11.616438,
+                        44.838298
+                  ]
+            },
+            {
+                  "name": "Cattedrale di San Giorgio Martire",
+                  "text": "The main cathedral of Ferrara, known for its stunning Romanesque-Gothic facade dating back to the 12th century.",
+                  "category": "religious",
+                  "coords": [
+                        11.620356,
+                        44.835619
+                  ]
+            },
+            {
+                  "name": "Torre dei Leuti",
+                  "text": "A well-preserved medieval tower that was once part of the defensive structures in central Ferrara.",
+                  "category": "tower",
+                  "coords": [
+                        11.617455,
+                        44.833821
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IT",
     name: { de: "Ferrara", hu: "Ferrara", ro: "Ferrara", en: "Ferrara" },
@@ -5088,7 +8913,484 @@ export const italyCitiesV2: POI[] = [
     image: "/poi-images/italy-salerno-cities-v2.webp",
   },
   {
-    id: "italy-novara-cities-v2",
+    id: "italy-novara-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Galleria d'Arte Moderna Paolo ed Adele Giannoni",
+                  "text": "Ein Museum in Novara, das eine bedeutende Sammlung italienischer Kunst des 19. und 20. Jahrhunderts beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        8.619539,
+                        45.44653
+                  ]
+            },
+            {
+                  "name": "Civico Teatro Faraggiana",
+                  "text": "Ein historisches Stadttheater in Novara, das ein wichtiger Ort für kulturelle Veranstaltungen und Aufführungen ist.",
+                  "category": "cultural",
+                  "coords": [
+                        8.622371,
+                        45.450598
+                  ]
+            },
+            {
+                  "name": "Museo Storia Naturale Ferrandi Faraggiana",
+                  "text": "Ein Naturkundemuseum in Novara, das umfangreiche zoologische Sammlungen und Dioramen präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        8.620484,
+                        45.448976
+                  ]
+            },
+            {
+                  "name": "Musei della Canonica del Duomo di Novara",
+                  "text": "Ein Museum im Domkomplex von Novara, das wertvolle sakrale Kunstwerke und archäologische Funde ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        8.620676,
+                        45.445631
+                  ]
+            },
+            {
+                  "name": "ExpoRisorgimento",
+                  "text": "Ein Museum in Novara, das die Geschichte des Risorgimento und der italienischen Einigungsbewegung dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        8.617547,
+                        45.444697
+                  ]
+            },
+            {
+                  "name": "Mura romane",
+                  "text": "Reste der antiken römischen Stadtmauern, die einst das historische Zentrum von Novara schützten.",
+                  "category": "historical",
+                  "coords": [
+                        8.622967,
+                        45.444594
+                  ]
+            },
+            {
+                  "name": "Torre Romana",
+                  "text": "Ein gut erhaltener Turm der antiken römischen Befestigungsanlagen von Novara.",
+                  "category": "historical",
+                  "coords": [
+                        8.622035,
+                        45.446851
+                  ]
+            },
+            {
+                  "name": "Oasi Tech della Biodiversità",
+                  "text": "Ein Schutzgebiet in Novara, das der Erhaltung der lokalen Flora und Fauna gewidmet ist.",
+                  "category": "natural",
+                  "coords": [
+                        8.621198,
+                        45.441267
+                  ]
+            },
+            {
+                  "name": "Museo Aldo Rossini",
+                  "text": "Ein militärhistorisches Museum in Novara mit Exponaten aus dem Ersten und Zweiten Weltkrieg.",
+                  "category": "museum",
+                  "coords": [
+                        8.63357,
+                        45.440742
+                  ]
+            },
+            {
+                  "name": "Casa Bossi",
+                  "text": "Ein vom Architekten Alessandro Antonelli entworfenes Gebäude, das als Meisterwerk des Neoklassizismus gilt.",
+                  "category": "historical",
+                  "coords": [
+                        8.61803,
+                        45.449106
+                  ]
+            },
+            {
+                  "name": "Monumento a Costantino Perazzi",
+                  "text": "Ein Denkmal zu Ehren des italienischen Ingenieurs und Politikers Costantino Perazzi in Novara.",
+                  "category": "historical",
+                  "coords": [
+                        8.616843,
+                        45.4483
+                  ]
+            },
+            {
+                  "name": "Casa della Porta",
+                  "text": "Ein Adelspalast aus dem 15. Jahrhundert im gotischen Stil im Zentrum von Novara.",
+                  "category": "historical",
+                  "coords": [
+                        8.623339,
+                        45.446021
+                  ]
+            },
+            {
+                  "name": "Palazzo Tornielli",
+                  "text": "Ein neoklassizistischer Palast in Novara, der heute als Sitz der Präfektur dient.",
+                  "category": "historical",
+                  "coords": [
+                        8.619362,
+                        45.447551
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Galleria d'Arte Moderna Paolo ed Adele Giannoni",
+                  "text": "Novarai múzeum, amely jelentős 19. és 20. századi olasz művészeti gyűjteménynek ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        8.619539,
+                        45.44653
+                  ]
+            },
+            {
+                  "name": "Civico Teatro Faraggiana",
+                  "text": "Novara történelmi városi színháza, amely fontos helyszíne a helyi kulturális eseményeknek.",
+                  "category": "cultural",
+                  "coords": [
+                        8.622371,
+                        45.450598
+                  ]
+            },
+            {
+                  "name": "Museo Storia Naturale Ferrandi Faraggiana",
+                  "text": "Novarai természettudományi múzeum, amely gazdag zoológiai gyűjteményeket és diorámákat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        8.620484,
+                        45.448976
+                  ]
+            },
+            {
+                  "name": "Musei della Canonica del Duomo di Novara",
+                  "text": "A novarai dóm mellett található múzeum, amely értékes egyházi műtárgyakat és régészeti leleteket őriz.",
+                  "category": "museum",
+                  "coords": [
+                        8.620676,
+                        45.445631
+                  ]
+            },
+            {
+                  "name": "ExpoRisorgimento",
+                  "text": "Novarai múzeum, amely az olasz egységtörekvések és a Risorgimento korszakát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        8.617547,
+                        45.444697
+                  ]
+            },
+            {
+                  "name": "Mura romane",
+                  "text": "Novara ókori római városfalainak maradványai, amelyek egykor a történelmi központot védték.",
+                  "category": "historical",
+                  "coords": [
+                        8.622967,
+                        45.444594
+                  ]
+            },
+            {
+                  "name": "Torre Romana",
+                  "text": "Novara ókori római erődítményrendszerének egyik fennmaradt tornya.",
+                  "category": "historical",
+                  "coords": [
+                        8.622035,
+                        45.446851
+                  ]
+            },
+            {
+                  "name": "Oasi Tech della Biodiversità",
+                  "text": "Novarai természetvédelmi terület, amely a helyi növény- és állatvilág megőrzését szolgálja.",
+                  "category": "natural",
+                  "coords": [
+                        8.621198,
+                        45.441267
+                  ]
+            },
+            {
+                  "name": "Museo Aldo Rossini",
+                  "text": "Novarai hadtörténeti múzeum, amely az első és a második világháború emlékeit őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        8.63357,
+                        45.440742
+                  ]
+            },
+            {
+                  "name": "Casa Bossi",
+                  "text": "Az Alessandro Antonelli által tervezett épület a neoklasszicista polgári építészet egyik legszebb példája.",
+                  "category": "historical",
+                  "coords": [
+                        8.61803,
+                        45.449106
+                  ]
+            },
+            {
+                  "name": "Monumento a Costantino Perazzi",
+                  "text": "Novarai emlékmű, amelyet Costantino Perazzi olasz mérnök és politikus tiszteletére emeltek.",
+                  "category": "historical",
+                  "coords": [
+                        8.616843,
+                        45.4483
+                  ]
+            },
+            {
+                  "name": "Casa della Porta",
+                  "text": "15. századi gótikus stílusú nemesi palota Novara történelmi központjában.",
+                  "category": "historical",
+                  "coords": [
+                        8.623339,
+                        45.446021
+                  ]
+            },
+            {
+                  "name": "Palazzo Tornielli",
+                  "text": "Neoklasszicista palota Novarában, amely jelenleg a prefektúra székhelyeként működik.",
+                  "category": "historical",
+                  "coords": [
+                        8.619362,
+                        45.447551
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Galleria d'Arte Moderna Paolo ed Adele Giannoni",
+                  "text": "Un muzeu din Novara care găzduiește o colecție importantă de artă italiană din secolele XIX și XX.",
+                  "category": "museum",
+                  "coords": [
+                        8.619539,
+                        45.44653
+                  ]
+            },
+            {
+                  "name": "Civico Teatro Faraggiana",
+                  "text": "Un teatru civic istoric din Novara, care reprezintă un punct central al vieții culturale locale.",
+                  "category": "cultural",
+                  "coords": [
+                        8.622371,
+                        45.450598
+                  ]
+            },
+            {
+                  "name": "Museo Storia Naturale Ferrandi Faraggiana",
+                  "text": "Un muzeu de istorie naturală din Novara, care prezintă colecții zoologice extinse și diorame fascinante.",
+                  "category": "museum",
+                  "coords": [
+                        8.620484,
+                        45.448976
+                  ]
+            },
+            {
+                  "name": "Musei della Canonica del Duomo di Novara",
+                  "text": "Un muzeu situat în complexul catedralei din Novara, care expune artă sacră și vestigii arheologice.",
+                  "category": "museum",
+                  "coords": [
+                        8.620676,
+                        45.445631
+                  ]
+            },
+            {
+                  "name": "ExpoRisorgimento",
+                  "text": "Un muzeu din Novara care documentează istoria Risorgimento-ului și a unificării Italiei.",
+                  "category": "museum",
+                  "coords": [
+                        8.617547,
+                        45.444697
+                  ]
+            },
+            {
+                  "name": "Mura romane",
+                  "text": "Vestigii ale zidurilor romane antice care înconjurau odinioară centrul istoric al orașului Novara.",
+                  "category": "historical",
+                  "coords": [
+                        8.622967,
+                        45.444594
+                  ]
+            },
+            {
+                  "name": "Torre Romana",
+                  "text": "Un turn bine conservat aparținând vechilor fortificații romane ale orașului Novara.",
+                  "category": "historical",
+                  "coords": [
+                        8.622035,
+                        45.446851
+                  ]
+            },
+            {
+                  "name": "Oasi Tech della Biodiversità",
+                  "text": "O arie protejată din Novara dedicată conservării florei și faunei locale.",
+                  "category": "natural",
+                  "coords": [
+                        8.621198,
+                        45.441267
+                  ]
+            },
+            {
+                  "name": "Museo Aldo Rossini",
+                  "text": "Un muzeu de istorie militară din Novara cu exponate din Primul și al Doilea Război Mondial.",
+                  "category": "museum",
+                  "coords": [
+                        8.63357,
+                        45.440742
+                  ]
+            },
+            {
+                  "name": "Casa Bossi",
+                  "text": "Clădire proiectată de arhitectul Alessandro Antonelli, considerată o capodoperă a neoclasicismului.",
+                  "category": "historical",
+                  "coords": [
+                        8.61803,
+                        45.449106
+                  ]
+            },
+            {
+                  "name": "Monumento a Costantino Perazzi",
+                  "text": "Un monument ridicat în onoarea inginerului și politicianului italian Costantino Perazzi în Novara.",
+                  "category": "historical",
+                  "coords": [
+                        8.616843,
+                        45.4483
+                  ]
+            },
+            {
+                  "name": "Casa della Porta",
+                  "text": "Un palat nobiliar din secolul al XV-lea, construit în stil gotic, situat în centrul orașului Novara.",
+                  "category": "historical",
+                  "coords": [
+                        8.623339,
+                        45.446021
+                  ]
+            },
+            {
+                  "name": "Palazzo Tornielli",
+                  "text": "Un palat neoclasic din Novara care servește în prezent drept sediu al Prefecturii.",
+                  "category": "historical",
+                  "coords": [
+                        8.619362,
+                        45.447551
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Galleria d'Arte Moderna Paolo ed Adele Giannoni",
+                  "text": "A museum in Novara housing a significant collection of 19th and 20th-century Italian art.",
+                  "category": "museum",
+                  "coords": [
+                        8.619539,
+                        45.44653
+                  ]
+            },
+            {
+                  "name": "Civico Teatro Faraggiana",
+                  "text": "A historical civic theatre in Novara, serving as a key venue for local cultural events and performances.",
+                  "category": "cultural",
+                  "coords": [
+                        8.622371,
+                        45.450598
+                  ]
+            },
+            {
+                  "name": "Museo Storia Naturale Ferrandi Faraggiana",
+                  "text": "A natural history museum in Novara displaying extensive zoological collections and detailed dioramas.",
+                  "category": "museum",
+                  "coords": [
+                        8.620484,
+                        45.448976
+                  ]
+            },
+            {
+                  "name": "Musei della Canonica del Duomo di Novara",
+                  "text": "A museum in the cathedral complex of Novara, exhibiting precious sacred art and archaeological finds.",
+                  "category": "museum",
+                  "coords": [
+                        8.620676,
+                        45.445631
+                  ]
+            },
+            {
+                  "name": "ExpoRisorgimento",
+                  "text": "A museum in Novara documenting the history of the Risorgimento and the Italian unification movement.",
+                  "category": "museum",
+                  "coords": [
+                        8.617547,
+                        45.444697
+                  ]
+            },
+            {
+                  "name": "Mura romane",
+                  "text": "Remains of the ancient Roman city walls that once protected the historical center of Novara.",
+                  "category": "historical",
+                  "coords": [
+                        8.622967,
+                        45.444594
+                  ]
+            },
+            {
+                  "name": "Torre Romana",
+                  "text": "A well-preserved tower from the ancient Roman fortifications of Novara.",
+                  "category": "historical",
+                  "coords": [
+                        8.622035,
+                        45.446851
+                  ]
+            },
+            {
+                  "name": "Oasi Tech della Biodiversità",
+                  "text": "A protected area in Novara dedicated to the conservation of local flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        8.621198,
+                        45.441267
+                  ]
+            },
+            {
+                  "name": "Museo Aldo Rossini",
+                  "text": "A military history museum in Novara featuring exhibits from the First and Second World Wars.",
+                  "category": "museum",
+                  "coords": [
+                        8.63357,
+                        45.440742
+                  ]
+            },
+            {
+                  "name": "Casa Bossi",
+                  "text": "Designed by architect Alessandro Antonelli, this building is considered a masterpiece of Neoclassical architecture.",
+                  "category": "historical",
+                  "coords": [
+                        8.61803,
+                        45.449106
+                  ]
+            },
+            {
+                  "name": "Monumento a Costantino Perazzi",
+                  "text": "A monument dedicated to the Italian engineer and politician Costantino Perazzi in Novara.",
+                  "category": "historical",
+                  "coords": [
+                        8.616843,
+                        45.4483
+                  ]
+            },
+            {
+                  "name": "Casa della Porta",
+                  "text": "A 15th-century noble palace in Gothic style located in the heart of Novara.",
+                  "category": "historical",
+                  "coords": [
+                        8.623339,
+                        45.446021
+                  ]
+            },
+            {
+                  "name": "Palazzo Tornielli",
+                  "text": "A Neoclassical palace in Novara that currently serves as the headquarters of the Prefecture.",
+                  "category": "historical",
+                  "coords": [
+                        8.619362,
+                        45.447551
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IT",
     name: { de: "Novara", hu: "Novara", ro: "Novara", en: "Novara" },
@@ -5700,7 +10002,520 @@ export const italyCitiesV2: POI[] = [
     image: "/poi-images/italy-ancona-cities-v2.webp",
   },
   {
-    id: "italy-udine-cities-v2",
+    id: "italy-udine-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Diocesano e Gallerie del Tiepolo",
+                  "text": "Diözesanmuseum in Udine, das im Patriarchalpalast untergebracht und für die Fresken von Giambattista Tiepolo berühmt ist.",
+                  "category": "museum",
+                  "coords": [
+                        13.239822,
+                        46.063766
+                  ]
+            },
+            {
+                  "name": "Museo d'Arte Sacra del Duomo",
+                  "text": "Museum für religiöse Kunst in der Kathedrale von Udine mit bedeutenden sakralen Exponaten.",
+                  "category": "museum",
+                  "coords": [
+                        13.237192,
+                        46.062802
+                  ]
+            },
+            {
+                  "name": "Museo Etnografico del Friuli",
+                  "text": "Ethnographisches Museum, das die Traditionen und das Alltagsleben der Region Friaul zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        13.232811,
+                        46.059588
+                  ]
+            },
+            {
+                  "name": "Civici musei e gallerie di storia e arte",
+                  "text": "Städtische Museen und Kunstgalerien mit umfangreichen historischen Sammlungen im Schloss von Udine.",
+                  "category": "museum",
+                  "coords": [
+                        13.236097,
+                        46.064452
+                  ]
+            },
+            {
+                  "name": "Teatro Nuovo Giovanni da Udine",
+                  "text": "Modernes Theatergebäude in Udine, das ein vielfältiges Programm an Opern, Konzerten und Schauspielen bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        13.244672,
+                        46.065505
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Francesco",
+                  "text": "Ehemalige Kirche in Udine, die heute als Raum für Ausstellungen und kulturelle Veranstaltungen genutzt wird.",
+                  "category": "museum",
+                  "coords": [
+                        13.235733,
+                        46.060819
+                  ]
+            },
+            {
+                  "name": "Gallerie del Progetto",
+                  "text": "Museum für Architektur und Design im Palazzo Valvason Morpurgo in Udine.",
+                  "category": "museum",
+                  "coords": [
+                        13.235746,
+                        46.062204
+                  ]
+            },
+            {
+                  "name": "Archivio Italiano dei Giochi",
+                  "text": "Einzigartiges Archiv und Museum in Udine, das sich der Geschichte und Kultur der Spiele widmet.",
+                  "category": "museum",
+                  "coords": [
+                        13.226919,
+                        46.054488
+                  ]
+            },
+            {
+                  "name": "Porta Manin",
+                  "text": "Eines der historischen Stadttore von Udine, das Teil der ehemaligen Stadtbefestigung war.",
+                  "category": "castle",
+                  "coords": [
+                        13.238126,
+                        46.064154
+                  ]
+            },
+            {
+                  "name": "Porta Aquileia",
+                  "text": "Eines der erhaltenen Stadttore von Udine aus dem 14. Jahrhundert, das die südliche Zufahrt bewachte.",
+                  "category": "castle",
+                  "coords": [
+                        13.244822,
+                        46.05787
+                  ]
+            },
+            {
+                  "name": "Palazzo Antonini Maseri",
+                  "text": "Ein Renaissance-Palast in Udine, der als eines der ersten Projekte von Andrea Palladio gilt.",
+                  "category": "historical",
+                  "coords": [
+                        13.233718,
+                        46.066517
+                  ]
+            },
+            {
+                  "name": "Loggia del Lionello",
+                  "text": "Ein prächtiges Gebäude im venezianisch-gotischen Stil an der Piazza della Libertà aus dem 15. Jahrhundert.",
+                  "category": "historical",
+                  "coords": [
+                        13.235378,
+                        46.063271
+                  ]
+            },
+            {
+                  "name": "Parco Moretti",
+                  "text": "Eine weitläufige Grünanlage im Zentrum von Udine, die auf dem Gelände eines ehemaligen Stadions entstand.",
+                  "category": "park",
+                  "coords": [
+                        13.224608,
+                        46.060614
+                  ]
+            },
+            {
+                  "name": "Orto Botanico Friulano",
+                  "text": "Der botanische Garten präsentiert die regionale Pflanzenwelt des Friaul und dient wissenschaftlichen Zwecken.",
+                  "category": "park",
+                  "coords": [
+                        13.222288,
+                        46.067482
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Egyházmegyei Múzeum és Tiepolo-képtárak",
+                  "text": "Udine egyházmegyei múzeuma a pátriárkai palotában, amely Giambattista Tiepolo freskóiról híres.",
+                  "category": "museum",
+                  "coords": [
+                        13.239822,
+                        46.063766
+                  ]
+            },
+            {
+                  "name": "Egyházi Művészeti Múzeum",
+                  "text": "Az udinei dóm szakrális művészeti múzeuma, ahol értékes vallási tárgyakat őriznek.",
+                  "category": "museum",
+                  "coords": [
+                        13.237192,
+                        46.062802
+                  ]
+            },
+            {
+                  "name": "Friuli Néprajzi Múzeum",
+                  "text": "Néprajzi múzeum, amely Friuli régió hagyományait és mindennapi életét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        13.232811,
+                        46.059588
+                  ]
+            },
+            {
+                  "name": "Városi Múzeumok és Művészettörténeti Képtárak",
+                  "text": "Városi múzeumok és művészeti galériák Udine várában, gazdag történelmi gyűjteménnyel.",
+                  "category": "museum",
+                  "coords": [
+                        13.236097,
+                        46.064452
+                  ]
+            },
+            {
+                  "name": "Teatro Nuovo Giovanni da Udine",
+                  "text": "Modern színházépület Udinében, amely operák, koncertek és színdarabok széles választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        13.244672,
+                        46.065505
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Francesco",
+                  "text": "Egykori templom Udinében, amely ma kiállításoknak és kulturális eseményeknek ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        13.235733,
+                        46.060819
+                  ]
+            },
+            {
+                  "name": "Gallerie del Progetto",
+                  "text": "Építészeti és design múzeum az udinei Palazzo Valvason Morpurgo épületében.",
+                  "category": "museum",
+                  "coords": [
+                        13.235746,
+                        46.062204
+                  ]
+            },
+            {
+                  "name": "Archivio Italiano dei Giochi",
+                  "text": "Egyedülálló archívum és múzeum Udinében, amely a játékok történetének és kultúrájának szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        13.226919,
+                        46.054488
+                  ]
+            },
+            {
+                  "name": "Porta Manin",
+                  "text": "Udine egyik történelmi városkapuja, amely az egykori városfal részét képezte.",
+                  "category": "castle",
+                  "coords": [
+                        13.238126,
+                        46.064154
+                  ]
+            },
+            {
+                  "name": "Porta Aquileia",
+                  "text": "Udine egyik épségben maradt 14. századi városkapuja, amely a városfal déli szakaszán található.",
+                  "category": "castle",
+                  "coords": [
+                        13.244822,
+                        46.05787
+                  ]
+            },
+            {
+                  "name": "Palazzo Antonini Maseri",
+                  "text": "Reneszánsz palota Udine belvárosában, amely Andrea Palladio egyik korai építészeti munkája.",
+                  "category": "historical",
+                  "coords": [
+                        13.233718,
+                        46.066517
+                  ]
+            },
+            {
+                  "name": "Loggia del Lionello",
+                  "text": "A 15. században épült velencei gótikus stílusú palota az udinei Piazza della Libertà téren.",
+                  "category": "historical",
+                  "coords": [
+                        13.235378,
+                        46.063271
+                  ]
+            },
+            {
+                  "name": "Parco Moretti",
+                  "text": "Udine központi parkja, amely a város egykori labdarúgó-stadionjának helyén létesült.",
+                  "category": "park",
+                  "coords": [
+                        13.224608,
+                        46.060614
+                  ]
+            },
+            {
+                  "name": "Orto Botanico Friulano",
+                  "text": "Botanikus kert, amely a Friuli régió jellegzetes flóráját és tudományos gyűjteményeket mutat be.",
+                  "category": "park",
+                  "coords": [
+                        13.222288,
+                        46.067482
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Diocesano e Gallerie del Tiepolo",
+                  "text": "Muzeul diecezan din Udine, găzduit în Palatul Patriarhal, faimos pentru frescele realizate de Giambattista Tiepolo.",
+                  "category": "museum",
+                  "coords": [
+                        13.239822,
+                        46.063766
+                  ]
+            },
+            {
+                  "name": "Museo d'Arte Sacra del Duomo",
+                  "text": "Muzeul de artă sacră al catedralei din Udine, care adăpostește obiecte religioase valoroase.",
+                  "category": "museum",
+                  "coords": [
+                        13.237192,
+                        46.062802
+                  ]
+            },
+            {
+                  "name": "Museo Etnografico del Friuli",
+                  "text": "Muzeu etnografic ce prezintă tradițiile și viața cotidiană a regiunii Friuli.",
+                  "category": "museum",
+                  "coords": [
+                        13.232811,
+                        46.059588
+                  ]
+            },
+            {
+                  "name": "Civici musei e gallerie di storia e arte",
+                  "text": "Muzee și galerii municipale de istorie și artă, găzduite în castelul din Udine.",
+                  "category": "museum",
+                  "coords": [
+                        13.236097,
+                        46.064452
+                  ]
+            },
+            {
+                  "name": "Teatro Nuovo Giovanni da Udine",
+                  "text": "Teatru modern din Udine, care oferă un program variat de operă, concerte și piese de teatru.",
+                  "category": "cultural",
+                  "coords": [
+                        13.244672,
+                        46.065505
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Francesco",
+                  "text": "Fostă biserică din Udine, folosită astăzi ca spațiu pentru expoziții și evenimente culturale.",
+                  "category": "museum",
+                  "coords": [
+                        13.235733,
+                        46.060819
+                  ]
+            },
+            {
+                  "name": "Gallerie del Progetto",
+                  "text": "Muzeu dedicat arhitecturii și designului, situat în Palazzo Valvason Morpurgo din Udine.",
+                  "category": "museum",
+                  "coords": [
+                        13.235746,
+                        46.062204
+                  ]
+            },
+            {
+                  "name": "Archivio Italiano dei Giochi",
+                  "text": "Arhivă și muzeu unic în Udine, dedicat istoriei și culturii jocurilor.",
+                  "category": "museum",
+                  "coords": [
+                        13.226919,
+                        46.054488
+                  ]
+            },
+            {
+                  "name": "Porta Manin",
+                  "text": "Una dintre porțile istorice ale orașului Udine, care făcea parte din vechile fortificații.",
+                  "category": "castle",
+                  "coords": [
+                        13.238126,
+                        46.064154
+                  ]
+            },
+            {
+                  "name": "Porta Aquileia",
+                  "text": "Una dintre porțile medievale păstrate ale orașului Udine, construită în secolul al XIV-lea.",
+                  "category": "castle",
+                  "coords": [
+                        13.244822,
+                        46.05787
+                  ]
+            },
+            {
+                  "name": "Palazzo Antonini Maseri",
+                  "text": "Un palat renascentist din Udine, considerat unul dintre primele proiecte realizate de Andrea Palladio.",
+                  "category": "historical",
+                  "coords": [
+                        13.233718,
+                        46.066517
+                  ]
+            },
+            {
+                  "name": "Loggia del Lionello",
+                  "text": "O clădire publică impunătoare în stil gotic venețian, situată în Piazza della Libertà din Udine.",
+                  "category": "historical",
+                  "coords": [
+                        13.235378,
+                        46.063271
+                  ]
+            },
+            {
+                  "name": "Parco Moretti",
+                  "text": "Un parc public central din Udine, amenajat pe locul unde s-a aflat anterior stadionul orașului.",
+                  "category": "park",
+                  "coords": [
+                        13.224608,
+                        46.060614
+                  ]
+            },
+            {
+                  "name": "Orto Botanico Friulano",
+                  "text": "Grădina botanică din Udine, dedicată cercetării și prezentării florei regionale din Friuli.",
+                  "category": "park",
+                  "coords": [
+                        13.222288,
+                        46.067482
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Diocesano e Gallerie del Tiepolo",
+                  "text": "Diocesan museum in Udine, housed in the Patriarchal Palace and famous for frescoes by Giambattista Tiepolo.",
+                  "category": "museum",
+                  "coords": [
+                        13.239822,
+                        46.063766
+                  ]
+            },
+            {
+                  "name": "Museo d'Arte Sacra del Duomo",
+                  "text": "Museum of sacred art located in Udine Cathedral, featuring significant religious exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        13.237192,
+                        46.062802
+                  ]
+            },
+            {
+                  "name": "Museo Etnografico del Friuli",
+                  "text": "Ethnographic museum showcasing the traditions and daily life of the Friuli region.",
+                  "category": "museum",
+                  "coords": [
+                        13.232811,
+                        46.059588
+                  ]
+            },
+            {
+                  "name": "Civici musei e gallerie di storia e arte",
+                  "text": "Civic museums and art galleries featuring extensive historical collections in Udine Castle.",
+                  "category": "museum",
+                  "coords": [
+                        13.236097,
+                        46.064452
+                  ]
+            },
+            {
+                  "name": "Teatro Nuovo Giovanni da Udine",
+                  "text": "Modern theater in Udine offering a diverse program of operas, concerts, and plays.",
+                  "category": "cultural",
+                  "coords": [
+                        13.244672,
+                        46.065505
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Francesco",
+                  "text": "Former church in Udine, currently used as a space for exhibitions and cultural events.",
+                  "category": "museum",
+                  "coords": [
+                        13.235733,
+                        46.060819
+                  ]
+            },
+            {
+                  "name": "Gallerie del Progetto",
+                  "text": "Museum dedicated to architecture and design, located in Palazzo Valvason Morpurgo in Udine.",
+                  "category": "museum",
+                  "coords": [
+                        13.235746,
+                        46.062204
+                  ]
+            },
+            {
+                  "name": "Archivio Italiano dei Giochi",
+                  "text": "Unique archive and museum in Udine dedicated to the history and culture of games.",
+                  "category": "museum",
+                  "coords": [
+                        13.226919,
+                        46.054488
+                  ]
+            },
+            {
+                  "name": "Porta Manin",
+                  "text": "One of Udine's historic city gates, which was part of the former city fortifications.",
+                  "category": "castle",
+                  "coords": [
+                        13.238126,
+                        46.064154
+                  ]
+            },
+            {
+                  "name": "Porta Aquileia",
+                  "text": "One of the preserved 14th-century city gates of Udine, formerly part of the southern fortifications.",
+                  "category": "castle",
+                  "coords": [
+                        13.244822,
+                        46.05787
+                  ]
+            },
+            {
+                  "name": "Palazzo Antonini Maseri",
+                  "text": "A Renaissance palace in Udine, notable as one of the early architectural projects by Andrea Palladio.",
+                  "category": "historical",
+                  "coords": [
+                        13.233718,
+                        46.066517
+                  ]
+            },
+            {
+                  "name": "Loggia del Lionello",
+                  "text": "A grand 15th-century building in Venetian Gothic style located on the Piazza della Libertà.",
+                  "category": "historical",
+                  "coords": [
+                        13.235378,
+                        46.063271
+                  ]
+            },
+            {
+                  "name": "Parco Moretti",
+                  "text": "A large public park in the center of Udine, established on the site of a former stadium.",
+                  "category": "park",
+                  "coords": [
+                        13.224608,
+                        46.060614
+                  ]
+            },
+            {
+                  "name": "Orto Botanico Friulano",
+                  "text": "The botanical garden showcases the regional flora of Friuli and serves scientific research purposes.",
+                  "category": "park",
+                  "coords": [
+                        13.222288,
+                        46.067482
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IT",
     name: { de: "Udine", hu: "Udine", ro: "Udine", en: "Udine" },
@@ -6339,7 +11154,376 @@ export const italyCitiesV2: POI[] = [
     image: "/poi-images/italy-arezzo-cities-v2.webp",
   },
   {
-    id: "italy-cesena-cities-v2",
+    id: "italy-cesena-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pinacoteca Comunale",
+                  "text": "Die städtische Gemäldegalerie von Cesena zeigt Kunstwerke vom 15. Jahrhundert bis in die Moderne.",
+                  "category": "museum",
+                  "coords": [
+                        12.24808,
+                        44.137465
+                  ]
+            },
+            {
+                  "name": "Museo di scienze naturali",
+                  "text": "Das Museum präsentiert die Naturgeschichte und die Artenvielfalt der Region Emilia-Romagna.",
+                  "category": "museum",
+                  "coords": [
+                        12.24147,
+                        44.13715
+                  ]
+            },
+            {
+                  "name": "Galleria d'arte moderna ex Pescheria",
+                  "text": "In einer ehemaligen Fischmarkthalle untergebracht, zeigt die Galerie Ausstellungen moderner und zeitgenössischer Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        12.24298,
+                        44.136342
+                  ]
+            },
+            {
+                  "name": "Museo archeologico di Cesena",
+                  "text": "Das Museum stellt bedeutende Funde aus der prähistorischen, römischen und mittelalterlichen Geschichte von Cesena aus.",
+                  "category": "museum",
+                  "coords": [
+                        12.244067,
+                        44.139211
+                  ]
+            },
+            {
+                  "name": "Casa Museo Renato Serra",
+                  "text": "Das Geburtshaus des Literaturkritikers Renato Serra dient heute als Museum für sein Leben und Werk.",
+                  "category": "museum",
+                  "coords": [
+                        12.247204,
+                        44.139188
+                  ]
+            },
+            {
+                  "name": "Museo del teatro di Cesena",
+                  "text": "Das Museum bewahrt historische Kostüme, Bühnenbilder und Dokumente zur Theatergeschichte der Stadt auf.",
+                  "category": "museum",
+                  "coords": [
+                        12.248148,
+                        44.136021
+                  ]
+            },
+            {
+                  "name": "Parco archeologico del Colle Garampo",
+                  "text": "Der archäologische Park auf dem Garampo-Hügel zeigt Überreste der antiken und mittelalterlichen Siedlungen.",
+                  "category": "historical",
+                  "coords": [
+                        12.241796,
+                        44.135056
+                  ]
+            },
+            {
+                  "name": "Facoltà di Architettura, spazio espositivo",
+                  "text": "Der Ausstellungsraum der Architekturfakultät präsentiert architektonische Entwürfe und kulturelle Projekte.",
+                  "category": "museum",
+                  "coords": [
+                        12.245408,
+                        44.135911
+                  ]
+            },
+            {
+                  "name": "Museo Cattedrale",
+                  "text": "Das Museum beherbergt wertvolle liturgische Gegenstände und sakrale Kunstwerke aus der Geschichte der Diözese.",
+                  "category": "museum",
+                  "coords": [
+                        12.24538,
+                        44.137175
+                  ]
+            },
+            {
+                  "name": "San Domenico",
+                  "text": "Die im 18. Jahrhundert erbaute Kirche ist für ihre neoklassizistische Architektur und ihre Gemälde bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        12.238668,
+                        44.137338
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pinacoteca Comunale",
+                  "text": "Cesena városi képtára a 15. századtól a modern korig terjedő művészeti alkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        12.24808,
+                        44.137465
+                  ]
+            },
+            {
+                  "name": "Museo di scienze naturali",
+                  "text": "A múzeum az Emilia-Romagna régió természetrajzát és biológiai sokféleségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        12.24147,
+                        44.13715
+                  ]
+            },
+            {
+                  "name": "Galleria d'arte moderna ex Pescheria",
+                  "text": "Az egykori halpiac épületében helyet kapó galéria modern és kortárs művészeti kiállításoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        12.24298,
+                        44.136342
+                  ]
+            },
+            {
+                  "name": "Museo archeologico di Cesena",
+                  "text": "A múzeum Cesena őskori, római és középkori történelmének jelentős régészeti leleteit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        12.244067,
+                        44.139211
+                  ]
+            },
+            {
+                  "name": "Casa Museo Renato Serra",
+                  "text": "Renato Serra irodalomkritikus szülőháza ma az író életét és szellemi hagyatékát bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        12.247204,
+                        44.139188
+                  ]
+            },
+            {
+                  "name": "Museo del teatro di Cesena",
+                  "text": "A múzeum a város színházi hagyományaihoz kapcsolódó történelmi jelmezeket, díszleteket és dokumentumokat őriz.",
+                  "category": "museum",
+                  "coords": [
+                        12.248148,
+                        44.136021
+                  ]
+            },
+            {
+                  "name": "Parco archeologico del Colle Garampo",
+                  "text": "A Garampo-dombon található régészeti park Cesena ókori és középkori településeinek maradványait mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        12.241796,
+                        44.135056
+                  ]
+            },
+            {
+                  "name": "Facoltà di Architettura, spazio espositivo",
+                  "text": "Az Építészmérnöki Kar kiállítótere építészeti bemutatóknak és kulturális eseményeknek ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        12.245408,
+                        44.135911
+                  ]
+            },
+            {
+                  "name": "Museo Cattedrale",
+                  "text": "A múzeum a cesenai egyházmegye történetéből származó értékes liturgikus tárgyakat és szakrális műalkotásokat őriz.",
+                  "category": "museum",
+                  "coords": [
+                        12.24538,
+                        44.137175
+                  ]
+            },
+            {
+                  "name": "San Domenico",
+                  "text": "A 18. században épült templom neoklasszicista homlokzatáról és a kápolnáiban őrzött festményekről nevezetes.",
+                  "category": "religious",
+                  "coords": [
+                        12.238668,
+                        44.137338
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pinacoteca Comunale",
+                  "text": "Galeria municipală de artă din Cesena expune opere din secolul al XV-lea până în epoca modernă.",
+                  "category": "museum",
+                  "coords": [
+                        12.24808,
+                        44.137465
+                  ]
+            },
+            {
+                  "name": "Museo di scienze naturali",
+                  "text": "Muzeul prezintă istoria naturală și biodiversitatea regiunii Emilia-Romagna.",
+                  "category": "museum",
+                  "coords": [
+                        12.24147,
+                        44.13715
+                  ]
+            },
+            {
+                  "name": "Galleria d'arte moderna ex Pescheria",
+                  "text": "Găzduită într-o fostă piață de pește, galeria organizează expoziții de artă modernă și contemporană.",
+                  "category": "museum",
+                  "coords": [
+                        12.24298,
+                        44.136342
+                  ]
+            },
+            {
+                  "name": "Museo archeologico di Cesena",
+                  "text": "Muzeul expune descoperiri arheologice importante din perioadele preistorică, romană și medievală ale orașului.",
+                  "category": "museum",
+                  "coords": [
+                        12.244067,
+                        44.139211
+                  ]
+            },
+            {
+                  "name": "Casa Museo Renato Serra",
+                  "text": "Casa natală a criticului literar Renato Serra servește drept muzeu dedicat vieții și operei sale.",
+                  "category": "museum",
+                  "coords": [
+                        12.247204,
+                        44.139188
+                  ]
+            },
+            {
+                  "name": "Museo del teatro di Cesena",
+                  "text": "Muzeul păstrează costume istorice, decoruri și documente legate de tradiția teatrală a orașului.",
+                  "category": "museum",
+                  "coords": [
+                        12.248148,
+                        44.136021
+                  ]
+            },
+            {
+                  "name": "Parco archeologico del Colle Garampo",
+                  "text": "Parcul arheologic de pe dealul Garampo prezintă vestigii ale așezărilor antice și medievale din Cesena.",
+                  "category": "historical",
+                  "coords": [
+                        12.241796,
+                        44.135056
+                  ]
+            },
+            {
+                  "name": "Facoltà di Architettura, spazio espositivo",
+                  "text": "Spațiul expozițional al Facultății de Arhitectură găzduiește prezentări de proiecte și evenimente culturale.",
+                  "category": "museum",
+                  "coords": [
+                        12.245408,
+                        44.135911
+                  ]
+            },
+            {
+                  "name": "Museo Cattedrale",
+                  "text": "Muzeul expune obiecte liturgice prețioase și opere de artă sacră din istoria diecezei de Cesena.",
+                  "category": "museum",
+                  "coords": [
+                        12.24538,
+                        44.137175
+                  ]
+            },
+            {
+                  "name": "San Domenico",
+                  "text": "Această biserică din secolul al XVIII-lea este cunoscută pentru arhitectura sa neoclasică și picturile interioare.",
+                  "category": "religious",
+                  "coords": [
+                        12.238668,
+                        44.137338
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pinacoteca Comunale",
+                  "text": "The municipal art gallery of Cesena displays works of art ranging from the 15th century to the modern era.",
+                  "category": "museum",
+                  "coords": [
+                        12.24808,
+                        44.137465
+                  ]
+            },
+            {
+                  "name": "Museo di scienze naturali",
+                  "text": "This museum showcases the natural history and biodiversity of the Romagna region.",
+                  "category": "museum",
+                  "coords": [
+                        12.24147,
+                        44.13715
+                  ]
+            },
+            {
+                  "name": "Galleria d'arte moderna ex Pescheria",
+                  "text": "Housed in a former fish market, this gallery hosts temporary exhibitions of modern and contemporary art.",
+                  "category": "museum",
+                  "coords": [
+                        12.24298,
+                        44.136342
+                  ]
+            },
+            {
+                  "name": "Museo archeologico di Cesena",
+                  "text": "This archaeological museum displays significant findings from the prehistoric, Roman, and medieval periods of Cesena.",
+                  "category": "museum",
+                  "coords": [
+                        12.244067,
+                        44.139211
+                  ]
+            },
+            {
+                  "name": "Casa Museo Renato Serra",
+                  "text": "The birthplace of literary critic Renato Serra serves as a museum dedicated to his life and intellectual legacy.",
+                  "category": "museum",
+                  "coords": [
+                        12.247204,
+                        44.139188
+                  ]
+            },
+            {
+                  "name": "Museo del teatro di Cesena",
+                  "text": "This museum preserves the historical costumes, sets, and documents related to the city's theatrical tradition.",
+                  "category": "museum",
+                  "coords": [
+                        12.248148,
+                        44.136021
+                  ]
+            },
+            {
+                  "name": "Parco archeologico del Colle Garampo",
+                  "text": "This archaeological park on Garampo Hill features remains from the ancient and medieval settlements of Cesena.",
+                  "category": "historical",
+                  "coords": [
+                        12.241796,
+                        44.135056
+                  ]
+            },
+            {
+                  "name": "Facoltà di Architettura, spazio espositivo",
+                  "text": "An exhibition space within the Faculty of Architecture that hosts architectural displays and cultural events.",
+                  "category": "museum",
+                  "coords": [
+                        12.245408,
+                        44.135911
+                  ]
+            },
+            {
+                  "name": "Museo Cattedrale",
+                  "text": "The Cathedral Museum houses precious liturgical items and sacred artworks from the history of Cesena's diocese.",
+                  "category": "museum",
+                  "coords": [
+                        12.24538,
+                        44.137175
+                  ]
+            },
+            {
+                  "name": "San Domenico",
+                  "text": "This 18th-century church is known for its neoclassical facade and the art preserved within its chapels.",
+                  "category": "religious",
+                  "coords": [
+                        12.238668,
+                        44.137338
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IT",
     name: { de: "Cesena", hu: "Cesena", ro: "Cesena", en: "Cesena" },
@@ -6942,7 +12126,916 @@ export const italyCitiesV2: POI[] = [
     image: "/poi-images/italy-forli-cities-v2.webp",
   },
   {
-    id: "italy-grosseto-cities-v2",
+    id: "italy-grosseto-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bastione Garibaldi",
+                  "text": "Ein markanter Teil der Stadtmauer von Grosseto, der nach dem italienischen Nationalhelden benannt ist.",
+                  "category": "fortress",
+                  "coords": [
+                        11.111368,
+                        42.762387
+                  ]
+            },
+            {
+                  "name": "Bastione Mulino a Vento",
+                  "text": "Ein Verteidigungsbauwerk der Medici-Stadtmauer von Grosseto, benannt nach einer alten Windmühle.",
+                  "category": "fortress",
+                  "coords": [
+                        11.110911,
+                        42.759899
+                  ]
+            },
+            {
+                  "name": "Bastione Maiano",
+                  "text": "Ein massiver Bastion der historischen Stadtmauer, der im 16. Jahrhundert unter den Medici erbaut wurde.",
+                  "category": "fortress",
+                  "coords": [
+                        11.117397,
+                        42.759484
+                  ]
+            },
+            {
+                  "name": "Bastione Cavallerizza",
+                  "text": "Teil der Befestigungsanlagen von Grosseto, der heute als öffentlicher Park und Veranstaltungsort genutzt wird.",
+                  "category": "fortress",
+                  "coords": [
+                        11.114407,
+                        42.758206
+                  ]
+            },
+            {
+                  "name": "Bastione Rimembranza",
+                  "text": "Ein Bastion der Stadtmauer, der als Gedenkort für die Gefallenen der Weltkriege dient.",
+                  "category": "fortress",
+                  "coords": [
+                        11.114095,
+                        42.763276
+                  ]
+            },
+            {
+                  "name": "Museolab Città di Grosseto",
+                  "text": "Dieses Museum in Grosseto fungiert als archäologisches Labor und präsentiert die Siedlungsgeschichte der Region.",
+                  "category": "museum",
+                  "coords": [
+                        11.113934,
+                        42.761527
+                  ]
+            },
+            {
+                  "name": "Teatro Moderno",
+                  "text": "Ein zeitgenössisches Theatergebäude in Grosseto, das als wichtigster Veranstaltungsort für moderne Aufführungen dient.",
+                  "category": "cultural",
+                  "coords": [
+                        11.115222,
+                        42.764015
+                  ]
+            },
+            {
+                  "name": "Museo di storia naturale della Maremma",
+                  "text": "Das Museum dokumentiert die vielfältigen Ökosysteme, Mineralien und die Tierwelt der toskanischen Maremma.",
+                  "category": "museum",
+                  "coords": [
+                        11.116318,
+                        42.760433
+                  ]
+            },
+            {
+                  "name": "Monumento a Ettore Socci",
+                  "text": "Eine Bronzebüste auf dem Platz vor dem Rathaus, die an den italienischen Politiker Ettore Socci erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        11.113012,
+                        42.761487
+                  ]
+            },
+            {
+                  "name": "Monumento al pugile",
+                  "text": "Diese Skulptur in Grosseto ist dem Boxsport und den sportlichen Leistungen der lokalen Athleten gewidmet.",
+                  "category": "historical",
+                  "coords": [
+                        11.11022,
+                        42.761116
+                  ]
+            },
+            {
+                  "name": "Monumento agli aviatori di Maremma",
+                  "text": "Diese Gedenkstätte ehrt die Tapferkeit der Luftwaffenpiloten aus der Region Maremma.",
+                  "category": "historical",
+                  "coords": [
+                        11.104302,
+                        42.755534
+                  ]
+            },
+            {
+                  "name": "Monumento ai caduti nei bombardamenti",
+                  "text": "Dieses Mahnmal erinnert an die Zivilopfer der alliierten Luftangriffe auf Grosseto im Jahr 1943.",
+                  "category": "historical",
+                  "coords": [
+                        11.11245,
+                        42.759163
+                  ]
+            },
+            {
+                  "name": "Monumento al Badilante",
+                  "text": "Ein Denkmal in Grosseto, das den Arbeitern gewidmet ist, die die Trockenlegung der Maremma-Sümpfe durchführten.",
+                  "category": "historical",
+                  "coords": [
+                        11.103039,
+                        42.779327
+                  ]
+            },
+            {
+                  "name": "Cippo idraulico a Giacomo Grandoni",
+                  "text": "Ein hydraulischer Gedenkstein in Grosseto, der dem Andenken an Giacomo Grandoni gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        11.106519,
+                        42.760483
+                  ]
+            },
+            {
+                  "name": "Parco Piero Fanti",
+                  "text": "Eine öffentliche Parkanlage in Grosseto, die Raum für Erholung und Aktivitäten im Freien bietet.",
+                  "category": "park",
+                  "coords": [
+                        11.097931,
+                        42.765243
+                  ]
+            },
+            {
+                  "name": "Parco Padre Vittore Lino Parri",
+                  "text": "Ein lokaler Park in Grosseto, benannt nach Pater Vittore Lino Parri.",
+                  "category": "park",
+                  "coords": [
+                        11.098571,
+                        42.77439
+                  ]
+            },
+            {
+                  "name": "Parco Ernesto Catalano",
+                  "text": "Eine öffentliche Grünanlage in Grosseto, benannt zum Gedenken an Ernesto Catalano.",
+                  "category": "park",
+                  "coords": [
+                        11.102404,
+                        42.75297
+                  ]
+            },
+            {
+                  "name": "Villa Pizzetti",
+                  "text": "Eine Grünanlage in Grosseto, die sich in der Nähe des gleichnamigen Krankenhauskomplexes befindet.",
+                  "category": "park",
+                  "coords": [
+                        11.098447,
+                        42.756531
+                  ]
+            },
+            {
+                  "name": "Parco Ombrone",
+                  "text": "Ein Park in Grosseto, benannt nach dem nahe gelegenen Fluss Ombrone.",
+                  "category": "park",
+                  "coords": [
+                        11.124146,
+                        42.756771
+                  ]
+            },
+            {
+                  "name": "Piazza Caduti sul Lavoro",
+                  "text": "Ein öffentlicher Platz mit Gartenanlage in Grosseto, der den Opfern von Arbeitsunfällen gewidmet ist.",
+                  "category": "park",
+                  "coords": [
+                        11.109879,
+                        42.759664
+                  ]
+            },
+            {
+                  "name": "Parco Gastone Nencini",
+                  "text": "Ein öffentlicher Park in Grosseto, benannt nach dem berühmten italienischen Radrennfahrer Gastone Nencini.",
+                  "category": "park",
+                  "coords": [
+                        11.092001,
+                        42.758751
+                  ]
+            },
+            {
+                  "name": "Parco del Vignaccio",
+                  "text": "Eine lokale Grünanlage in Grosseto, die einen ruhigen Ort für Bewohner und Besucher bietet.",
+                  "category": "park",
+                  "coords": [
+                        11.09528,
+                        42.763677
+                  ]
+            },
+            {
+                  "name": "Parco Sandro Pertini",
+                  "text": "Ein großer öffentlicher Park in Grosseto, gewidmet Sandro Pertini, dem ehemaligen italienischen Präsidenten.",
+                  "category": "park",
+                  "coords": [
+                        11.102626,
+                        42.755742
+                  ]
+            },
+            {
+                  "name": "Cattedrale di San Lorenzo",
+                  "text": "Die Kathedrale von Grosseto ist ein bedeutendes religiöses Bauwerk im Stadtzentrum.",
+                  "category": "religious",
+                  "coords": [
+                        11.113946,
+                        42.75993
+                  ]
+            },
+            {
+                  "name": "Basilica del Sacro Cuore di Gesù",
+                  "text": "Die Basilica del Sacro Cuore di Gesù ist eine markante Kirche in Grosseto.",
+                  "category": "religious",
+                  "coords": [
+                        11.114373,
+                        42.768214
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bastione Garibaldi",
+                  "text": "Grosseto városfalának egyik bástyája, amely az olasz nemzeti hős, Giuseppe Garibaldi nevét viseli.",
+                  "category": "fortress",
+                  "coords": [
+                        11.111368,
+                        42.762387
+                  ]
+            },
+            {
+                  "name": "Bastione Mulino a Vento",
+                  "text": "Grosseto medici-kori városfalának része, amely nevét egy egykor itt álló szélmalomról kapta.",
+                  "category": "fortress",
+                  "coords": [
+                        11.110911,
+                        42.759899
+                  ]
+            },
+            {
+                  "name": "Bastione Maiano",
+                  "text": "A 16. századi Medici-falak egyik bástyája, amely Grosseto délkeleti védelmét biztosította.",
+                  "category": "fortress",
+                  "coords": [
+                        11.117397,
+                        42.759484
+                  ]
+            },
+            {
+                  "name": "Bastione Cavallerizza",
+                  "text": "Grosseto erődítményének északi része, amelyben ma közpark és szabadtéri színpad működik.",
+                  "category": "fortress",
+                  "coords": [
+                        11.114407,
+                        42.758206
+                  ]
+            },
+            {
+                  "name": "Bastione Rimembranza",
+                  "text": "A városfal egyik szakasza, amelyet az első és második világháború áldozatainak emlékére szenteltek.",
+                  "category": "fortress",
+                  "coords": [
+                        11.114095,
+                        42.763276
+                  ]
+            },
+            {
+                  "name": "Museolab Città di Grosseto",
+                  "text": "Ez a grossetói múzeum régészeti kutatóközpontként is működik, bemutatva a környék ókori településtörténetét.",
+                  "category": "museum",
+                  "coords": [
+                        11.113934,
+                        42.761527
+                  ]
+            },
+            {
+                  "name": "Teatro Moderno",
+                  "text": "Grosseto modern színházépülete, amely a város kortárs előadásainak és koncertjeinek fő helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        11.115222,
+                        42.764015
+                  ]
+            },
+            {
+                  "name": "Museo di storia naturale della Maremma",
+                  "text": "A múzeum a toszkán Maremma vidékének ökoszisztémáit, ásványait és gazdag állatvilágát dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        11.116318,
+                        42.760433
+                  ]
+            },
+            {
+                  "name": "Monumento a Ettore Socci",
+                  "text": "A városháza előtti téren álló bronz mellszobor, amely Ettore Socci olasz politikusnak állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        11.113012,
+                        42.761487
+                  ]
+            },
+            {
+                  "name": "Monumento al pugile",
+                  "text": "Ez a grossetói szobor az ökölvívásnak és a helyi sportolók teljesítményének állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        11.11022,
+                        42.761116
+                  ]
+            },
+            {
+                  "name": "Monumento agli aviatori di Maremma",
+                  "text": "Ez az emlékhely a Maremma vidékéről származó légierő-pilóták bátorsága előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        11.104302,
+                        42.755534
+                  ]
+            },
+            {
+                  "name": "Monumento ai caduti nei bombardamenti",
+                  "text": "Ez az emlékmű az 1943-as szövetséges légitámadások grossetói polgári áldozataira emlékeztet.",
+                  "category": "historical",
+                  "coords": [
+                        11.11245,
+                        42.759163
+                  ]
+            },
+            {
+                  "name": "Monumento al Badilante",
+                  "text": "Grosseto emlékműve, amelyet a Maremma mocsarak lecsapolását végző munkások tiszteletére emeltek.",
+                  "category": "historical",
+                  "coords": [
+                        11.103039,
+                        42.779327
+                  ]
+            },
+            {
+                  "name": "Cippo idraulico a Giacomo Grandoni",
+                  "text": "Grossetói hidraulikus emlékoszlop, amelyet Giacomo Grandoni emlékének szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        11.106519,
+                        42.760483
+                  ]
+            },
+            {
+                  "name": "Parco Piero Fanti",
+                  "text": "Nyilvános zöldpark Grossetóban, amely pihenési és kikapcsolódási lehetőséget kínál.",
+                  "category": "park",
+                  "coords": [
+                        11.097931,
+                        42.765243
+                  ]
+            },
+            {
+                  "name": "Parco Padre Vittore Lino Parri",
+                  "text": "Helyi közpark Grossetóban, amelyet Vittore Lino Parri atyáról neveztek el.",
+                  "category": "park",
+                  "coords": [
+                        11.098571,
+                        42.77439
+                  ]
+            },
+            {
+                  "name": "Parco Ernesto Catalano",
+                  "text": "Nyilvános zöldterület Grossetóban, amelyet Ernesto Catalano emlékére neveztek el.",
+                  "category": "park",
+                  "coords": [
+                        11.102404,
+                        42.75297
+                  ]
+            },
+            {
+                  "name": "Villa Pizzetti",
+                  "text": "Zöldterület Grossetóban, amely a hasonló nevű kórházegyüttes közelében található.",
+                  "category": "park",
+                  "coords": [
+                        11.098447,
+                        42.756531
+                  ]
+            },
+            {
+                  "name": "Parco Ombrone",
+                  "text": "Grossetói park, amelyet a közelben folyó Ombrone folyóról neveztek el.",
+                  "category": "park",
+                  "coords": [
+                        11.124146,
+                        42.756771
+                  ]
+            },
+            {
+                  "name": "Piazza Caduti sul Lavoro",
+                  "text": "Grossetói közterület és kert, amelyet a munkabalesetek áldozatainak emlékére szenteltek.",
+                  "category": "park",
+                  "coords": [
+                        11.109879,
+                        42.759664
+                  ]
+            },
+            {
+                  "name": "Parco Gastone Nencini",
+                  "text": "Nyilvános park Grossetóban, amelyet a híres olasz kerékpárosról, Gastone Nenciniről neveztek el.",
+                  "category": "park",
+                  "coords": [
+                        11.092001,
+                        42.758751
+                  ]
+            },
+            {
+                  "name": "Parco del Vignaccio",
+                  "text": "Helyi zöldövezet Grossetóban, amely nyugodt környezetet biztosít a lakók és látogatók számára.",
+                  "category": "park",
+                  "coords": [
+                        11.09528,
+                        42.763677
+                  ]
+            },
+            {
+                  "name": "Parco Sandro Pertini",
+                  "text": "Tágas közpark Grossetóban, amelyet Sandro Pertini egykori olasz köztársasági elnöknek szenteltek.",
+                  "category": "park",
+                  "coords": [
+                        11.102626,
+                        42.755742
+                  ]
+            },
+            {
+                  "name": "Cattedrale di San Lorenzo",
+                  "text": "A grossetói székesegyház a város központjában található jelentős vallási épület.",
+                  "category": "religious",
+                  "coords": [
+                        11.113946,
+                        42.75993
+                  ]
+            },
+            {
+                  "name": "Basilica del Sacro Cuore di Gesù",
+                  "text": "A Basilica del Sacro Cuore di Gesù Grosseto egyik jellegzetes temploma.",
+                  "category": "religious",
+                  "coords": [
+                        11.114373,
+                        42.768214
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bastione Garibaldi",
+                  "text": "Un bastion al zidurilor cetății Grosseto, numit în onoarea eroului național Giuseppe Garibaldi.",
+                  "category": "fortress",
+                  "coords": [
+                        11.111368,
+                        42.762387
+                  ]
+            },
+            {
+                  "name": "Bastione Mulino a Vento",
+                  "text": "O secțiune a zidurilor medicee din Grosseto, denumită după o fostă moară de vânt locală.",
+                  "category": "fortress",
+                  "coords": [
+                        11.110911,
+                        42.759899
+                  ]
+            },
+            {
+                  "name": "Bastione Maiano",
+                  "text": "Un bastion masiv al zidurilor istorice, construit în secolul al XVI-lea sub dominația familiei Medici.",
+                  "category": "fortress",
+                  "coords": [
+                        11.117397,
+                        42.759484
+                  ]
+            },
+            {
+                  "name": "Bastione Cavallerizza",
+                  "text": "O parte a fortificațiilor din Grosseto, transformată astăzi în parc public și spațiu pentru evenimente.",
+                  "category": "fortress",
+                  "coords": [
+                        11.114407,
+                        42.758206
+                  ]
+            },
+            {
+                  "name": "Bastione Rimembranza",
+                  "text": "Un bastion al zidurilor cetății, dedicat memoriei celor căzuți în timpul războaielor mondiale.",
+                  "category": "fortress",
+                  "coords": [
+                        11.114095,
+                        42.763276
+                  ]
+            },
+            {
+                  "name": "Museolab Città di Grosseto",
+                  "text": "Acest muzeu din Grosseto funcționează ca un laborator arheologic, prezentând istoria așezărilor din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        11.113934,
+                        42.761527
+                  ]
+            },
+            {
+                  "name": "Teatro Moderno",
+                  "text": "O clădire de teatru contemporană din Grosseto, care servește drept principal loc de desfășurare a spectacolelor moderne.",
+                  "category": "cultural",
+                  "coords": [
+                        11.115222,
+                        42.764015
+                  ]
+            },
+            {
+                  "name": "Museo di storia naturale della Maremma",
+                  "text": "Muzeul documentează diversele ecosisteme, mineralele și fauna din Maremma toscană.",
+                  "category": "museum",
+                  "coords": [
+                        11.116318,
+                        42.760433
+                  ]
+            },
+            {
+                  "name": "Monumento a Ettore Socci",
+                  "text": "Un bust de bronz situat în piața din fața primăriei, care îl comemorează pe politicianul italian Ettore Socci.",
+                  "category": "historical",
+                  "coords": [
+                        11.113012,
+                        42.761487
+                  ]
+            },
+            {
+                  "name": "Monumento al pugile",
+                  "text": "Această sculptură din Grosseto este dedicată boxului și realizărilor sportive ale atleților locali.",
+                  "category": "historical",
+                  "coords": [
+                        11.11022,
+                        42.761116
+                  ]
+            },
+            {
+                  "name": "Monumento agli aviatori di Maremma",
+                  "text": "Acest memorial onorează curajul piloților forțelor aeriene din regiunea Maremma.",
+                  "category": "historical",
+                  "coords": [
+                        11.104302,
+                        42.755534
+                  ]
+            },
+            {
+                  "name": "Monumento ai caduti nei bombardamenti",
+                  "text": "Acest memorial amintește de victimele civile ale atacurilor aeriene aliate asupra orașului Grosseto din 1943.",
+                  "category": "historical",
+                  "coords": [
+                        11.11245,
+                        42.759163
+                  ]
+            },
+            {
+                  "name": "Monumento al Badilante",
+                  "text": "Un monument din Grosseto dedicat lucrătorilor care au realizat desecarea zonelor mlăștinoase din Maremma.",
+                  "category": "historical",
+                  "coords": [
+                        11.103039,
+                        42.779327
+                  ]
+            },
+            {
+                  "name": "Cippo idraulico a Giacomo Grandoni",
+                  "text": "O bornă hidraulică memorială din Grosseto, ridicată în memoria lui Giacomo Grandoni.",
+                  "category": "historical",
+                  "coords": [
+                        11.106519,
+                        42.760483
+                  ]
+            },
+            {
+                  "name": "Parco Piero Fanti",
+                  "text": "Un parc public din Grosseto, care oferă un spațiu pentru recreere și activități în aer liber.",
+                  "category": "park",
+                  "coords": [
+                        11.097931,
+                        42.765243
+                  ]
+            },
+            {
+                  "name": "Parco Padre Vittore Lino Parri",
+                  "text": "Un parc local din Grosseto, numit după părintele Vittore Lino Parri.",
+                  "category": "park",
+                  "coords": [
+                        11.098571,
+                        42.77439
+                  ]
+            },
+            {
+                  "name": "Parco Ernesto Catalano",
+                  "text": "O zonă verde publică din Grosseto, numită în memoria lui Ernesto Catalano.",
+                  "category": "park",
+                  "coords": [
+                        11.102404,
+                        42.75297
+                  ]
+            },
+            {
+                  "name": "Villa Pizzetti",
+                  "text": "O zonă verde și parc din Grosseto, situat lângă complexul spitalicesc cu același nume.",
+                  "category": "park",
+                  "coords": [
+                        11.098447,
+                        42.756531
+                  ]
+            },
+            {
+                  "name": "Parco Ombrone",
+                  "text": "Un parc din Grosseto, numit după râul Ombrone care curge în apropiere.",
+                  "category": "park",
+                  "coords": [
+                        11.124146,
+                        42.756771
+                  ]
+            },
+            {
+                  "name": "Piazza Caduti sul Lavoro",
+                  "text": "O piață publică și grădină din Grosseto, dedicată victimelor accidentelor de muncă.",
+                  "category": "park",
+                  "coords": [
+                        11.109879,
+                        42.759664
+                  ]
+            },
+            {
+                  "name": "Parco Gastone Nencini",
+                  "text": "Un parc public din Grosseto, numit după celebrul ciclist italian Gastone Nencini.",
+                  "category": "park",
+                  "coords": [
+                        11.092001,
+                        42.758751
+                  ]
+            },
+            {
+                  "name": "Parco del Vignaccio",
+                  "text": "Un spațiu verde local din Grosseto, care oferă o zonă liniștită pentru rezidenți și vizitatori.",
+                  "category": "park",
+                  "coords": [
+                        11.09528,
+                        42.763677
+                  ]
+            },
+            {
+                  "name": "Parco Sandro Pertini",
+                  "text": "Un parc public mare din Grosseto, dedicat lui Sandro Pertini, fost președinte al Italiei.",
+                  "category": "park",
+                  "coords": [
+                        11.102626,
+                        42.755742
+                  ]
+            },
+            {
+                  "name": "Cattedrale di San Lorenzo",
+                  "text": "Catedrala din Grosseto este un edificiu religios important situat în centrul orașului.",
+                  "category": "religious",
+                  "coords": [
+                        11.113946,
+                        42.75993
+                  ]
+            },
+            {
+                  "name": "Basilica del Sacro Cuore di Gesù",
+                  "text": "Basilica del Sacro Cuore di Gesù este o biserică marcantă din Grosseto.",
+                  "category": "religious",
+                  "coords": [
+                        11.114373,
+                        42.768214
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bastione Garibaldi",
+                  "text": "A prominent bastion of the Grosseto city walls, named after the Italian national hero Giuseppe Garibaldi.",
+                  "category": "fortress",
+                  "coords": [
+                        11.111368,
+                        42.762387
+                  ]
+            },
+            {
+                  "name": "Bastione Mulino a Vento",
+                  "text": "A defensive structure of the Medici walls in Grosseto, named after an old local windmill.",
+                  "category": "fortress",
+                  "coords": [
+                        11.110911,
+                        42.759899
+                  ]
+            },
+            {
+                  "name": "Bastione Maiano",
+                  "text": "A massive bastion of the historic city walls, built in the 16th century under Medici rule.",
+                  "category": "fortress",
+                  "coords": [
+                        11.117397,
+                        42.759484
+                  ]
+            },
+            {
+                  "name": "Bastione Cavallerizza",
+                  "text": "Part of the Grosseto fortifications, now functioning as a public park and an open-air event venue.",
+                  "category": "fortress",
+                  "coords": [
+                        11.114407,
+                        42.758206
+                  ]
+            },
+            {
+                  "name": "Bastione Rimembranza",
+                  "text": "A bastion of the city walls dedicated to the memory of those who died in the World Wars.",
+                  "category": "fortress",
+                  "coords": [
+                        11.114095,
+                        42.763276
+                  ]
+            },
+            {
+                  "name": "Museolab Città di Grosseto",
+                  "text": "This museum in Grosseto serves as an archaeological lab, showcasing the settlement history of the region.",
+                  "category": "museum",
+                  "coords": [
+                        11.113934,
+                        42.761527
+                  ]
+            },
+            {
+                  "name": "Teatro Moderno",
+                  "text": "A contemporary theatre building in Grosseto that serves as the city's main venue for modern performances.",
+                  "category": "cultural",
+                  "coords": [
+                        11.115222,
+                        42.764015
+                  ]
+            },
+            {
+                  "name": "Museo di storia naturale della Maremma",
+                  "text": "The museum documents the diverse ecosystems, minerals, and wildlife of the Tuscan Maremma.",
+                  "category": "museum",
+                  "coords": [
+                        11.116318,
+                        42.760433
+                  ]
+            },
+            {
+                  "name": "Monumento a Ettore Socci",
+                  "text": "A bronze bust located in the square in front of the town hall, commemorating the Italian politician Ettore Socci.",
+                  "category": "historical",
+                  "coords": [
+                        11.113012,
+                        42.761487
+                  ]
+            },
+            {
+                  "name": "Monumento al pugile",
+                  "text": "This sculpture in Grosseto is dedicated to the sport of boxing and the athletic achievements of local athletes.",
+                  "category": "historical",
+                  "coords": [
+                        11.11022,
+                        42.761116
+                  ]
+            },
+            {
+                  "name": "Monumento agli aviatori di Maremma",
+                  "text": "This memorial honors the bravery of the air force pilots from the Maremma region.",
+                  "category": "historical",
+                  "coords": [
+                        11.104302,
+                        42.755534
+                  ]
+            },
+            {
+                  "name": "Monumento ai caduti nei bombardamenti",
+                  "text": "This memorial commemorates the civilian victims of the Allied air raids on Grosseto in 1943.",
+                  "category": "historical",
+                  "coords": [
+                        11.11245,
+                        42.759163
+                  ]
+            },
+            {
+                  "name": "Monumento al Badilante",
+                  "text": "A monument in Grosseto dedicated to the workers who carried out the land reclamation of the Maremma.",
+                  "category": "historical",
+                  "coords": [
+                        11.103039,
+                        42.779327
+                  ]
+            },
+            {
+                  "name": "Cippo idraulico a Giacomo Grandoni",
+                  "text": "A hydraulic memorial stone in Grosseto dedicated to the memory of Giacomo Grandoni.",
+                  "category": "historical",
+                  "coords": [
+                        11.106519,
+                        42.760483
+                  ]
+            },
+            {
+                  "name": "Parco Piero Fanti",
+                  "text": "A green public park in Grosseto providing a space for recreation and outdoor activities.",
+                  "category": "park",
+                  "coords": [
+                        11.097931,
+                        42.765243
+                  ]
+            },
+            {
+                  "name": "Parco Padre Vittore Lino Parri",
+                  "text": "A local community park in Grosseto named after Father Vittore Lino Parri.",
+                  "category": "park",
+                  "coords": [
+                        11.098571,
+                        42.77439
+                  ]
+            },
+            {
+                  "name": "Parco Ernesto Catalano",
+                  "text": "A public green area in Grosseto named in memory of Ernesto Catalano.",
+                  "category": "park",
+                  "coords": [
+                        11.102404,
+                        42.75297
+                  ]
+            },
+            {
+                  "name": "Villa Pizzetti",
+                  "text": "A green area and park in Grosseto located near the hospital complex of the same name.",
+                  "category": "park",
+                  "coords": [
+                        11.098447,
+                        42.756531
+                  ]
+            },
+            {
+                  "name": "Parco Ombrone",
+                  "text": "A riverside park in Grosseto named after the Ombrone river that flows nearby.",
+                  "category": "park",
+                  "coords": [
+                        11.124146,
+                        42.756771
+                  ]
+            },
+            {
+                  "name": "Piazza Caduti sul Lavoro",
+                  "text": "A public square and garden in Grosseto dedicated to victims of workplace accidents.",
+                  "category": "park",
+                  "coords": [
+                        11.109879,
+                        42.759664
+                  ]
+            },
+            {
+                  "name": "Parco Gastone Nencini",
+                  "text": "A public park in Grosseto named after the famous Italian cyclist Gastone Nencini.",
+                  "category": "park",
+                  "coords": [
+                        11.092001,
+                        42.758751
+                  ]
+            },
+            {
+                  "name": "Parco del Vignaccio",
+                  "text": "A local green space in Grosseto offering a quiet area for residents and visitors.",
+                  "category": "park",
+                  "coords": [
+                        11.09528,
+                        42.763677
+                  ]
+            },
+            {
+                  "name": "Parco Sandro Pertini",
+                  "text": "A large public park in Grosseto dedicated to Sandro Pertini, a former President of Italy.",
+                  "category": "park",
+                  "coords": [
+                        11.102626,
+                        42.755742
+                  ]
+            },
+            {
+                  "name": "Grosseto Cathedral",
+                  "text": "Grosseto Cathedral is a prominent religious building located in the city center.",
+                  "category": "religious",
+                  "coords": [
+                        11.113946,
+                        42.75993
+                  ]
+            },
+            {
+                  "name": "Basilica del Sacro Cuore di Gesù",
+                  "text": "The Basilica del Sacro Cuore di Gesù is a notable church in Grosseto.",
+                  "category": "religious",
+                  "coords": [
+                        11.114373,
+                        42.768214
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IT",
     name: { de: "Grosseto", hu: "Grosseto", ro: "Grosseto", en: "Grosseto" },
@@ -7923,7 +14016,844 @@ export const italyCitiesV2: POI[] = [
     image: "/poi-images/italy-la-spezia-cities-v2.webp",
   },
   {
-    id: "italy-pistoia-cities-v2",
+    id: "italy-pistoia-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo dello Spedale del Ceppo",
+                  "text": "Ein Museum in einem historischen Krankenhaus, das für seinen glasierten Terrakottafries bekannt ist.",
+                  "category": "museum",
+                  "coords": [
+                        10.917808,
+                        43.93508
+                  ]
+            },
+            {
+                  "name": "Ponte delle Seiarcole",
+                  "text": "Eine antike Brücke und archäologische Stätte, die den Bach Bure bei Pistoia überquert.",
+                  "category": "historical",
+                  "coords": [
+                        10.941589,
+                        43.940992
+                  ]
+            },
+            {
+                  "name": "Museo Diocesano",
+                  "text": "Dieses im Bischofspalast untergebrachte Museum zeigt religiöse Kunst und liturgische Gegenstände.",
+                  "category": "museum",
+                  "coords": [
+                        10.918474,
+                        43.933669
+                  ]
+            },
+            {
+                  "name": "Casa-Studio Fernando Melani",
+                  "text": "Das ehemalige Wohnhaus und Atelier des Künstlers Fernando Melani, das als Museum für zeitgenössische Kunst erhalten blieb.",
+                  "category": "museum",
+                  "coords": [
+                        10.912224,
+                        43.934295
+                  ]
+            },
+            {
+                  "name": "Piccolo Teatro Mauro Bolognini",
+                  "text": "Ein intimes Theater, benannt nach dem berühmten italienischen Filmregisseur, der in Pistoia geboren wurde.",
+                  "category": "cultural",
+                  "coords": [
+                        10.916775,
+                        43.934434
+                  ]
+            },
+            {
+                  "name": "Teatro Manzoni",
+                  "text": "Das 1864 eingeweihte historische Haupttheater von Pistoia ist für sein elegantes Interieur bekannt.",
+                  "category": "cultural",
+                  "coords": [
+                        10.911567,
+                        43.933316
+                  ]
+            },
+            {
+                  "name": "Ex Oratorio di San Desiderio",
+                  "text": "Ein ehemaliges Oratorium, das bedeutende Fresken aus dem 16. Jahrhundert beherbergt, darunter Werke von Sebastiano Vini.",
+                  "category": "museum",
+                  "coords": [
+                        10.921521,
+                        43.930978
+                  ]
+            },
+            {
+                  "name": "Teatrino Gatteschi",
+                  "text": "Ein Miniaturtheater aus dem 18. Jahrhundert im Palazzo Gatteschi in Pistoia.",
+                  "category": "cultural",
+                  "coords": [
+                        10.919042,
+                        43.932101
+                  ]
+            },
+            {
+                  "name": "Antico Palazzo dei Vescovi e il Museo della Cattedrale di San Zeno",
+                  "text": "Das Museum beherbergt sakrale Kunst und historische Artefakte aus dem Bischofspalast und der Kathedrale San Zeno.",
+                  "category": "museum",
+                  "coords": [
+                        10.917542,
+                        43.933044
+                  ]
+            },
+            {
+                  "name": "Pistoia Sotterranea",
+                  "text": "Ein archäologischer Rundgang durch unterirdische Tunnel, der die antike Geschichte Pistoias zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        10.920295,
+                        43.935607
+                  ]
+            },
+            {
+                  "name": "Centro di Arti Visive Contemporanee - Palazzo Fabroni",
+                  "text": "Ein Museum für zeitgenössische Kunst im historischen Palazzo Fabroni mit modernen visuellen Werken.",
+                  "category": "museum",
+                  "coords": [
+                        10.914646,
+                        43.935755
+                  ]
+            },
+            {
+                  "name": "Casa Museo Sigfrido Bartolini",
+                  "text": "Ein Hausmuseum in Pistoia, das dem Leben und Werk des Künstlers Sigfrido Bartolini gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        10.925354,
+                        43.940127
+                  ]
+            },
+            {
+                  "name": "Museo Storico Documentale dell'Agricoltura e del Vivaismo",
+                  "text": "Ein Museum, das die Geschichte der Landwirtschaft und Baumschulkultur in der Region Pistoia dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        10.948979,
+                        43.922124
+                  ]
+            },
+            {
+                  "name": "Museo della Musica e delle Percussioni",
+                  "text": "Dieses Museum in Pistoia zeigt eine Sammlung von Musikinstrumenten mit Schwerpunkt auf Schlagzeug.",
+                  "category": "museum",
+                  "coords": [
+                        10.912884,
+                        43.930906
+                  ]
+            },
+            {
+                  "name": "Museo Rotabili Storici di Pistoia",
+                  "text": "Ein Museum in Pistoia, das der Erhaltung historischer Eisenbahnwaggons und Lokomotiven gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        10.910723,
+                        43.92673
+                  ]
+            },
+            {
+                  "name": "Deposito Rotabili Storici di Pistoia",
+                  "text": "Ein historisches Eisenbahndepot in Pistoia, in dem Oldtimer-Lokomotiven und Waggons untergebracht sind.",
+                  "category": "museum",
+                  "coords": [
+                        10.907965,
+                        43.92678
+                  ]
+            },
+            {
+                  "name": "Palazzo de' Rossi",
+                  "text": "Ein Adelspalast aus dem 18. Jahrhundert in Pistoia, der heute für kulturelle Veranstaltungen genutzt wird.",
+                  "category": "museum",
+                  "coords": [
+                        10.915694,
+                        43.934958
+                  ]
+            },
+            {
+                  "name": "Monumento votivo militare brasiliano",
+                  "text": "Gedenkstätte in Pistoia für die im Zweiten Weltkrieg in Italien gefallenen brasilianischen Soldaten.",
+                  "category": "historical",
+                  "coords": [
+                        10.943327,
+                        43.945019
+                  ]
+            },
+            {
+                  "name": "Villone Puccini",
+                  "text": "Ein Herrenhaus aus dem 18. Jahrhundert, das von einem großen öffentlichen Park umgeben ist.",
+                  "category": "historical",
+                  "coords": [
+                        10.907547,
+                        43.950611
+                  ]
+            },
+            {
+                  "name": "Villa La Farnia",
+                  "text": "Ein historisches Herrenhaus in der ländlichen Umgebung von Pistoia.",
+                  "category": "historical",
+                  "coords": [
+                        10.884826,
+                        43.943586
+                  ]
+            },
+            {
+                  "name": "Villa Colonna",
+                  "text": "Eine herrschaftliche Villa in den Hügeln von Pistoia, die als historischer Wohnsitz dient.",
+                  "category": "historical",
+                  "coords": [
+                        10.883744,
+                        43.920868
+                  ]
+            },
+            {
+                  "name": "San Domenico",
+                  "text": "Kirche und Kloster aus dem 13. Jahrhundert, die bedeutende Kunstwerke und Renaissance-Fresken beherbergen.",
+                  "category": "religious",
+                  "coords": [
+                        10.916616,
+                        43.930536
+                  ]
+            },
+            {
+                  "name": "Basilica della Madonna dell'Umiltà",
+                  "text": "Diese Basilika ist für ihre monumentale Renaissance-Kuppel bekannt, eine der größten in Italien.",
+                  "category": "religious",
+                  "coords": [
+                        10.914108,
+                        43.932898
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo dello Spedale del Ceppo",
+                  "text": "Egy történelmi kórházban kialakított múzeum, amely mázas terrakotta frízéről híres.",
+                  "category": "museum",
+                  "coords": [
+                        10.917808,
+                        43.93508
+                  ]
+            },
+            {
+                  "name": "Ponte delle Seiarcole",
+                  "text": "Antik híd és régészeti lelőhely, amely a Bure-patakon ível át Pistoia közelében.",
+                  "category": "historical",
+                  "coords": [
+                        10.941589,
+                        43.940992
+                  ]
+            },
+            {
+                  "name": "Museo Diocesano",
+                  "text": "A püspöki palotában található múzeum egyházi művészeti alkotásokat és liturgikus tárgyakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        10.918474,
+                        43.933669
+                  ]
+            },
+            {
+                  "name": "Casa-Studio Fernando Melani",
+                  "text": "Fernando Melani művész egykori otthona és műhelye, amely ma kortárs művészeti múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        10.912224,
+                        43.934295
+                  ]
+            },
+            {
+                  "name": "Piccolo Teatro Mauro Bolognini",
+                  "text": "Meghitt hangulatú színház, amelyet a Pistoiában született híres olasz filmrendezőről neveztek el.",
+                  "category": "cultural",
+                  "coords": [
+                        10.916775,
+                        43.934434
+                  ]
+            },
+            {
+                  "name": "Teatro Manzoni",
+                  "text": "Pistoia legfontosabb történelmi színháza, amelyet 1864-ben avattak fel, és elegáns belső teréről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        10.911567,
+                        43.933316
+                  ]
+            },
+            {
+                  "name": "Ex Oratorio di San Desiderio",
+                  "text": "Egykori oratórium, amely jelentős 16. századi freskóknak ad otthont, köztük Sebastiano Vini alkotásainak.",
+                  "category": "museum",
+                  "coords": [
+                        10.921521,
+                        43.930978
+                  ]
+            },
+            {
+                  "name": "Teatrino Gatteschi",
+                  "text": "Egy 18. századi miniatűr színház a pistoiai Palazzo Gatteschi épületében.",
+                  "category": "cultural",
+                  "coords": [
+                        10.919042,
+                        43.932101
+                  ]
+            },
+            {
+                  "name": "Antico Palazzo dei Vescovi e il Museo della Cattedrale di San Zeno",
+                  "text": "A múzeum a Püspöki Palota és a San Zeno-székesegyház szakrális művészeti és történelmi emlékeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        10.917542,
+                        43.933044
+                  ]
+            },
+            {
+                  "name": "Pistoia Sotterranea",
+                  "text": "Régészeti útvonal a földalatti alagutakban, amely Pistoia ókori történelmét mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        10.920295,
+                        43.935607
+                  ]
+            },
+            {
+                  "name": "Centro di Arti Visive Contemporanee - Palazzo Fabroni",
+                  "text": "Kortárs művészeti múzeum a történelmi Palazzo Fabroni épületében, modern vizuális alkotásokkal.",
+                  "category": "museum",
+                  "coords": [
+                        10.914646,
+                        43.935755
+                  ]
+            },
+            {
+                  "name": "Casa Museo Sigfrido Bartolini",
+                  "text": "Sigfrido Bartolini művész életének és munkásságának szentelt házmúzeum Pistoiában.",
+                  "category": "museum",
+                  "coords": [
+                        10.925354,
+                        43.940127
+                  ]
+            },
+            {
+                  "name": "Museo Storico Documentale dell'Agricoltura e del Vivaismo",
+                  "text": "A pistoiai régió mezőgazdaságának és kertészeti kultúrájának történelmét dokumentáló múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        10.948979,
+                        43.922124
+                  ]
+            },
+            {
+                  "name": "Museo della Musica e delle Percussioni",
+                  "text": "Ez a pistoiai múzeum hangszerek gyűjteményét mutatja be, különös tekintettel az ütőhangszerekre.",
+                  "category": "museum",
+                  "coords": [
+                        10.912884,
+                        43.930906
+                  ]
+            },
+            {
+                  "name": "Museo Rotabili Storici di Pistoia",
+                  "text": "Történelmi vasúti járművek megőrzésének szentelt múzeum Pistoiában.",
+                  "category": "museum",
+                  "coords": [
+                        10.910723,
+                        43.92673
+                  ]
+            },
+            {
+                  "name": "Deposito Rotabili Storici di Pistoia",
+                  "text": "Történelmi vasúti depó Pistoiában, ahol veterán mozdonyokat és kocsikat tárolnak és tartanak karban.",
+                  "category": "museum",
+                  "coords": [
+                        10.907965,
+                        43.92678
+                  ]
+            },
+            {
+                  "name": "Palazzo de' Rossi",
+                  "text": "18. századi nemesi palota Pistoia központjában, amely ma kulturális eseményeknek ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        10.915694,
+                        43.934958
+                  ]
+            },
+            {
+                  "name": "Monumento votivo militare brasiliano",
+                  "text": "Pistoiai emlékhely a második világháború olaszországi harcaiban elesett brazil katonák tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        10.943327,
+                        43.945019
+                  ]
+            },
+            {
+                  "name": "Villone Puccini",
+                  "text": "18. századi kúria Pistoiában, amelyet egy kiterjedt nyilvános park vesz körül.",
+                  "category": "historical",
+                  "coords": [
+                        10.907547,
+                        43.950611
+                  ]
+            },
+            {
+                  "name": "Villa La Farnia",
+                  "text": "Történelmi udvarház Pistoia vidéki környezetében.",
+                  "category": "historical",
+                  "coords": [
+                        10.884826,
+                        43.943586
+                  ]
+            },
+            {
+                  "name": "Villa Colonna",
+                  "text": "Nemesi villa Pistoia dombjai között, amely történelmi lakóépületként ismert.",
+                  "category": "historical",
+                  "coords": [
+                        10.883744,
+                        43.920868
+                  ]
+            },
+            {
+                  "name": "San Domenico",
+                  "text": "13. századi templom és kolostor, amely jelentős műalkotásoknak és reneszánsz freskóknak ad otthont.",
+                  "category": "religious",
+                  "coords": [
+                        10.916616,
+                        43.930536
+                  ]
+            },
+            {
+                  "name": "Basilica della Madonna dell'Umiltà",
+                  "text": "A bazilika monumentális reneszánsz kupolájáról nevezetes, amely az egyik legnagyobb Olaszországban.",
+                  "category": "religious",
+                  "coords": [
+                        10.914108,
+                        43.932898
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo dello Spedale del Ceppo",
+                  "text": "Un muzeu într-un spital istoric, renumit pentru friza sa din teracotă smălțuită.",
+                  "category": "museum",
+                  "coords": [
+                        10.917808,
+                        43.93508
+                  ]
+            },
+            {
+                  "name": "Ponte delle Seiarcole",
+                  "text": "Un pod antic și sit arheologic care traversează pârâul Bure lângă Pistoia.",
+                  "category": "historical",
+                  "coords": [
+                        10.941589,
+                        43.940992
+                  ]
+            },
+            {
+                  "name": "Museo Diocesano",
+                  "text": "Situat în Palatul Episcopal, acest muzeu expune artă religioasă și obiecte liturgice.",
+                  "category": "museum",
+                  "coords": [
+                        10.918474,
+                        43.933669
+                  ]
+            },
+            {
+                  "name": "Casa-Studio Fernando Melani",
+                  "text": "Fosta casă și atelier al artistului Fernando Melani, păstrată ca muzeu de artă contemporană.",
+                  "category": "museum",
+                  "coords": [
+                        10.912224,
+                        43.934295
+                  ]
+            },
+            {
+                  "name": "Piccolo Teatro Mauro Bolognini",
+                  "text": "Un teatru intim numit după celebrul regizor de film italian născut în Pistoia.",
+                  "category": "cultural",
+                  "coords": [
+                        10.916775,
+                        43.934434
+                  ]
+            },
+            {
+                  "name": "Teatro Manzoni",
+                  "text": "Principalul teatru istoric din Pistoia, inaugurat în 1864 și cunoscut pentru interiorul său elegant.",
+                  "category": "cultural",
+                  "coords": [
+                        10.911567,
+                        43.933316
+                  ]
+            },
+            {
+                  "name": "Ex Oratorio di San Desiderio",
+                  "text": "Un fost oratoriu care adăpostește fresce semnificative din secolul al XVI-lea, inclusiv lucrări de Sebastiano Vini.",
+                  "category": "museum",
+                  "coords": [
+                        10.921521,
+                        43.930978
+                  ]
+            },
+            {
+                  "name": "Teatrino Gatteschi",
+                  "text": "Un teatru în miniatură din secolul al XVIII-lea situat în Palazzo Gatteschi din Pistoia.",
+                  "category": "cultural",
+                  "coords": [
+                        10.919042,
+                        43.932101
+                  ]
+            },
+            {
+                  "name": "Antico Palazzo dei Vescovi e il Museo della Cattedrale di San Zeno",
+                  "text": "Acest muzeu adăpostește artă sacră și artefacte istorice din Palatul Episcopilor și Catedrala San Zeno.",
+                  "category": "museum",
+                  "coords": [
+                        10.917542,
+                        43.933044
+                  ]
+            },
+            {
+                  "name": "Pistoia Sotterranea",
+                  "text": "Un traseu arheologic prin tuneluri subterane care dezvăluie istoria antică a orașului Pistoia.",
+                  "category": "historical",
+                  "coords": [
+                        10.920295,
+                        43.935607
+                  ]
+            },
+            {
+                  "name": "Centro di Arti Visive Contemporanee - Palazzo Fabroni",
+                  "text": "Un muzeu de artă contemporană situat în istoricul Palazzo Fabroni, prezentând lucrări vizuale moderne.",
+                  "category": "museum",
+                  "coords": [
+                        10.914646,
+                        43.935755
+                  ]
+            },
+            {
+                  "name": "Casa Museo Sigfrido Bartolini",
+                  "text": "O casă memorială dedicată vieții și operei artistului Sigfrido Bartolini din Pistoia.",
+                  "category": "museum",
+                  "coords": [
+                        10.925354,
+                        43.940127
+                  ]
+            },
+            {
+                  "name": "Museo Storico Documentale dell'Agricoltura e del Vivaismo",
+                  "text": "Un muzeu care documentează istoria agriculturii și a culturii pepinierelor din regiunea Pistoia.",
+                  "category": "museum",
+                  "coords": [
+                        10.948979,
+                        43.922124
+                  ]
+            },
+            {
+                  "name": "Museo della Musica e delle Percussioni",
+                  "text": "Acest muzeu din Pistoia prezintă o colecție de instrumente muzicale, cu accent pe percuție.",
+                  "category": "museum",
+                  "coords": [
+                        10.912884,
+                        43.930906
+                  ]
+            },
+            {
+                  "name": "Museo Rotabili Storici di Pistoia",
+                  "text": "Un muzeu dedicat conservării materialului rulant feroviar istoric din Pistoia.",
+                  "category": "museum",
+                  "coords": [
+                        10.910723,
+                        43.92673
+                  ]
+            },
+            {
+                  "name": "Deposito Rotabili Storici di Pistoia",
+                  "text": "Un depou feroviar istoric din Pistoia care adăpostește și întreține locomotive și vagoane de epocă.",
+                  "category": "museum",
+                  "coords": [
+                        10.907965,
+                        43.92678
+                  ]
+            },
+            {
+                  "name": "Palazzo de' Rossi",
+                  "text": "Un palat nobiliar din secolul al XVIII-lea în Pistoia, utilizat astăzi pentru evenimente culturale.",
+                  "category": "museum",
+                  "coords": [
+                        10.915694,
+                        43.934958
+                  ]
+            },
+            {
+                  "name": "Monumento votivo militare brasiliano",
+                  "text": "Monument în Pistoia dedicat soldaților brazilieni care au căzut în luptele din Italia în timpul celui de-al Doilea Război Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        10.943327,
+                        43.945019
+                  ]
+            },
+            {
+                  "name": "Villone Puccini",
+                  "text": "Un conac din secolul al XVIII-lea situat în Pistoia, înconjurat de un parc public vast.",
+                  "category": "historical",
+                  "coords": [
+                        10.907547,
+                        43.950611
+                  ]
+            },
+            {
+                  "name": "Villa La Farnia",
+                  "text": "Un conac istoric situat în zona rurală din jurul orașului Pistoia.",
+                  "category": "historical",
+                  "coords": [
+                        10.884826,
+                        43.943586
+                  ]
+            },
+            {
+                  "name": "Villa Colonna",
+                  "text": "O vilă nobiliară situată pe dealurile din Pistoia, cunoscută ca reședință istorică.",
+                  "category": "historical",
+                  "coords": [
+                        10.883744,
+                        43.920868
+                  ]
+            },
+            {
+                  "name": "San Domenico",
+                  "text": "Biserică și mănăstire din secolul al XIII-lea, care adăpostește opere de artă și fresce renascentiste.",
+                  "category": "religious",
+                  "coords": [
+                        10.916616,
+                        43.930536
+                  ]
+            },
+            {
+                  "name": "Basilica della Madonna dell'Umiltà",
+                  "text": "Această basilică este celebră pentru cupola sa renascentistă monumentală, una dintre cele mai mari din Italia.",
+                  "category": "religious",
+                  "coords": [
+                        10.914108,
+                        43.932898
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo dello Spedale del Ceppo",
+                  "text": "A museum in a historic hospital famous for its glazed terracotta frieze.",
+                  "category": "museum",
+                  "coords": [
+                        10.917808,
+                        43.93508
+                  ]
+            },
+            {
+                  "name": "Ponte delle Seiarcole",
+                  "text": "An ancient bridge and archaeological site crossing the Bure stream near Pistoia.",
+                  "category": "historical",
+                  "coords": [
+                        10.941589,
+                        43.940992
+                  ]
+            },
+            {
+                  "name": "Museo Diocesano",
+                  "text": "Located in the Bishop's Palace, this museum displays religious art and liturgical objects.",
+                  "category": "museum",
+                  "coords": [
+                        10.918474,
+                        43.933669
+                  ]
+            },
+            {
+                  "name": "Casa-Studio Fernando Melani",
+                  "text": "The former home and workshop of artist Fernando Melani, preserved as a contemporary art museum.",
+                  "category": "museum",
+                  "coords": [
+                        10.912224,
+                        43.934295
+                  ]
+            },
+            {
+                  "name": "Piccolo Teatro Mauro Bolognini",
+                  "text": "An intimate theatre named after the famous Italian film director born in Pistoia.",
+                  "category": "cultural",
+                  "coords": [
+                        10.916775,
+                        43.934434
+                  ]
+            },
+            {
+                  "name": "Teatro Manzoni",
+                  "text": "The main historical theatre of Pistoia, inaugurated in 1864 and known for its elegant interior.",
+                  "category": "cultural",
+                  "coords": [
+                        10.911567,
+                        43.933316
+                  ]
+            },
+            {
+                  "name": "Ex Oratorio di San Desiderio",
+                  "text": "A former oratory that houses significant 16th-century frescoes, including works by Sebastiano Vini.",
+                  "category": "museum",
+                  "coords": [
+                        10.921521,
+                        43.930978
+                  ]
+            },
+            {
+                  "name": "Teatrino Gatteschi",
+                  "text": "A miniature 18th-century theatre located within Palazzo Gatteschi in Pistoia.",
+                  "category": "cultural",
+                  "coords": [
+                        10.919042,
+                        43.932101
+                  ]
+            },
+            {
+                  "name": "Antico Palazzo dei Vescovi e il Museo della Cattedrale di San Zeno",
+                  "text": "This museum houses sacred art and historical artifacts from the Bishop's Palace and San Zeno Cathedral.",
+                  "category": "museum",
+                  "coords": [
+                        10.917542,
+                        43.933044
+                  ]
+            },
+            {
+                  "name": "Pistoia Sotterranea",
+                  "text": "An archaeological path through underground tunnels revealing Pistoia's ancient history.",
+                  "category": "historical",
+                  "coords": [
+                        10.920295,
+                        43.935607
+                  ]
+            },
+            {
+                  "name": "Centro di Arti Visive Contemporanee - Palazzo Fabroni",
+                  "text": "A contemporary art museum located in the historic Palazzo Fabroni, featuring modern visual works.",
+                  "category": "museum",
+                  "coords": [
+                        10.914646,
+                        43.935755
+                  ]
+            },
+            {
+                  "name": "Casa Museo Sigfrido Bartolini",
+                  "text": "A house museum dedicated to the life and works of the artist Sigfrido Bartolini in Pistoia.",
+                  "category": "museum",
+                  "coords": [
+                        10.925354,
+                        43.940127
+                  ]
+            },
+            {
+                  "name": "Museo Storico Documentale dell'Agricoltura e del Vivaismo",
+                  "text": "A museum documenting the history of agriculture and plant nursery culture in the Pistoia region.",
+                  "category": "museum",
+                  "coords": [
+                        10.948979,
+                        43.922124
+                  ]
+            },
+            {
+                  "name": "Museo della Musica e delle Percussioni",
+                  "text": "This Pistoia museum showcases a collection of musical instruments with a focus on percussion.",
+                  "category": "museum",
+                  "coords": [
+                        10.912884,
+                        43.930906
+                  ]
+            },
+            {
+                  "name": "Museo Rotabili Storici di Pistoia",
+                  "text": "A museum dedicated to the preservation of historic railway rolling stock in Pistoia.",
+                  "category": "museum",
+                  "coords": [
+                        10.910723,
+                        43.92673
+                  ]
+            },
+            {
+                  "name": "Deposito Rotabili Storici di Pistoia",
+                  "text": "A historic railway depot in Pistoia that houses and maintains vintage locomotives and carriages.",
+                  "category": "museum",
+                  "coords": [
+                        10.907965,
+                        43.92678
+                  ]
+            },
+            {
+                  "name": "Palazzo de' Rossi",
+                  "text": "An 18th-century noble palace in Pistoia, currently used for cultural events and exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        10.915694,
+                        43.934958
+                  ]
+            },
+            {
+                  "name": "Monumento votivo militare brasiliano",
+                  "text": "A memorial in Pistoia dedicated to the Brazilian soldiers who died in Italy during World War II.",
+                  "category": "historical",
+                  "coords": [
+                        10.943327,
+                        43.945019
+                  ]
+            },
+            {
+                  "name": "Villone Puccini",
+                  "text": "An 18th-century manor house in Pistoia surrounded by a large public park.",
+                  "category": "historical",
+                  "coords": [
+                        10.907547,
+                        43.950611
+                  ]
+            },
+            {
+                  "name": "Villa La Farnia",
+                  "text": "A historic manor house located in the rural surroundings of Pistoia.",
+                  "category": "historical",
+                  "coords": [
+                        10.884826,
+                        43.943586
+                  ]
+            },
+            {
+                  "name": "Villa Colonna",
+                  "text": "A noble villa in the hills of Pistoia, recognized as a historic residence.",
+                  "category": "historical",
+                  "coords": [
+                        10.883744,
+                        43.920868
+                  ]
+            },
+            {
+                  "name": "San Domenico",
+                  "text": "A 13th-century church and convent housing significant artworks and Renaissance frescoes.",
+                  "category": "religious",
+                  "coords": [
+                        10.916616,
+                        43.930536
+                  ]
+            },
+            {
+                  "name": "Basilica della Madonna dell'Umiltà",
+                  "text": "This basilica is famous for its monumental Renaissance dome, one of the largest in Italy.",
+                  "category": "religious",
+                  "coords": [
+                        10.914108,
+                        43.932898
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IT",
     name: { de: "Pistoia", hu: "Pistoia", ro: "Pistoia", en: "Pistoia" },
@@ -8643,7 +15573,340 @@ export const italyCitiesV2: POI[] = [
     image: "/poi-images/italy-brindisi-cities-v2.webp",
   },
   {
-    id: "italy-foggia-cities-v2",
+    id: "italy-foggia-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Teatro Umberto Giordano",
+                  "text": "Das Teatro Umberto Giordano ist das historische Opernhaus und Haupttheater von Foggia.",
+                  "category": "cultural",
+                  "coords": [
+                        15.546232,
+                        41.464031
+                  ]
+            },
+            {
+                  "name": "Museo Provinciale di Storia Naturale",
+                  "text": "Dieses Museum in Foggia zeigt Ausstellungen zur regionalen Naturgeschichte.",
+                  "category": "museum",
+                  "coords": [
+                        15.558575,
+                        41.456482
+                  ]
+            },
+            {
+                  "name": "Museo di Foggia",
+                  "text": "Das Museum von Foggia präsentiert die lokale Geschichte und Kunst der Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        15.545155,
+                        41.465103
+                  ]
+            },
+            {
+                  "name": "Palazzo Mastrolillo",
+                  "text": "Der Palazzo Mastrolillo ist ein historisches Gebäude in der Stadt Foggia.",
+                  "category": "castle",
+                  "coords": [
+                        15.543373,
+                        41.464208
+                  ]
+            },
+            {
+                  "name": "Villaggio Neolitico",
+                  "text": "Diese archäologische Stätte in Foggia bewahrt Überreste einer neolithischen Siedlung.",
+                  "category": "historical",
+                  "coords": [
+                        15.556995,
+                        41.461449
+                  ]
+            },
+            {
+                  "name": "Museo del Territorio",
+                  "text": "Das Museum widmet sich der Erforschung und Präsentation des lokalen Territoriums.",
+                  "category": "museum",
+                  "coords": [
+                        15.539723,
+                        41.462418
+                  ]
+            },
+            {
+                  "name": "Camera di Commercio Industria Artigianato e Agricoltura",
+                  "text": "Ein Museumsbereich innerhalb der Handelskammer von Foggia für lokale Kultur.",
+                  "category": "museum",
+                  "coords": [
+                        15.567101,
+                        41.457315
+                  ]
+            },
+            {
+                  "name": "Parco Karol Wojtyla",
+                  "text": "Ein weitläufiger Stadtpark in Foggia, der zur Erholung und Freizeitgestaltung einlädt.",
+                  "category": "park",
+                  "coords": [
+                        15.557905,
+                        41.461657
+                  ]
+            },
+            {
+                  "name": "Epitaffio",
+                  "text": "Der Epitaffio ist ein historisches Monument in Foggia am Ende des alten Schafswegs.",
+                  "category": "tower",
+                  "coords": [
+                        15.543992,
+                        41.465531
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teatro Umberto Giordano",
+                  "text": "A Teatro Umberto Giordano Foggia történelmi operaháza és színháza.",
+                  "category": "cultural",
+                  "coords": [
+                        15.546232,
+                        41.464031
+                  ]
+            },
+            {
+                  "name": "Museo Provinciale di Storia Naturale",
+                  "text": "Ez a foggiai múzeum a régió természetrajzát bemutató kiállításoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        15.558575,
+                        41.456482
+                  ]
+            },
+            {
+                  "name": "Museo di Foggia",
+                  "text": "Foggia múzeuma a város helytörténetét és művészetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        15.545155,
+                        41.465103
+                  ]
+            },
+            {
+                  "name": "Palazzo Mastrolillo",
+                  "text": "A Palazzo Mastrolillo egy történelmi jelentőségű épület Foggia városában.",
+                  "category": "castle",
+                  "coords": [
+                        15.543373,
+                        41.464208
+                  ]
+            },
+            {
+                  "name": "Villaggio Neolitico",
+                  "text": "Ez a foggiai régészeti lelőhely egy neolitikus település maradványait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        15.556995,
+                        41.461449
+                  ]
+            },
+            {
+                  "name": "Museo del Territorio",
+                  "text": "A múzeum a helyi terület és hagyományok bemutatásának szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        15.539723,
+                        41.462418
+                  ]
+            },
+            {
+                  "name": "Camera di Commercio Industria Artigianato e Agricoltura",
+                  "text": "Múzeumi tér a foggiai Kereskedelmi Kamara épületében a helyi kultúra számára.",
+                  "category": "museum",
+                  "coords": [
+                        15.567101,
+                        41.457315
+                  ]
+            },
+            {
+                  "name": "Parco Karol Wojtyla",
+                  "text": "Foggia tágas városi parkja, amely kikapcsolódásra és pihenésre hívja a látogatókat.",
+                  "category": "park",
+                  "coords": [
+                        15.557905,
+                        41.461657
+                  ]
+            },
+            {
+                  "name": "Epitaffio",
+                  "text": "Az Epitaffio egy történelmi emlékmű Foggiában, a régi pásztorút végén.",
+                  "category": "tower",
+                  "coords": [
+                        15.543992,
+                        41.465531
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teatro Umberto Giordano",
+                  "text": "Teatro Umberto Giordano este opera istorică și teatrul principal din Foggia.",
+                  "category": "cultural",
+                  "coords": [
+                        15.546232,
+                        41.464031
+                  ]
+            },
+            {
+                  "name": "Museo Provinciale di Storia Naturale",
+                  "text": "Acest muzeu din Foggia găzduiește expoziții despre istoria naturală regională.",
+                  "category": "museum",
+                  "coords": [
+                        15.558575,
+                        41.456482
+                  ]
+            },
+            {
+                  "name": "Museo di Foggia",
+                  "text": "Muzeul din Foggia prezintă istoria locală și arta orașului.",
+                  "category": "museum",
+                  "coords": [
+                        15.545155,
+                        41.465103
+                  ]
+            },
+            {
+                  "name": "Palazzo Mastrolillo",
+                  "text": "Palazzo Mastrolillo este o clădire istorică situată în orașul Foggia.",
+                  "category": "castle",
+                  "coords": [
+                        15.543373,
+                        41.464208
+                  ]
+            },
+            {
+                  "name": "Villaggio Neolitico",
+                  "text": "Acest sit arheologic din Foggia păstrează vestigiile unei așezări neolitice.",
+                  "category": "historical",
+                  "coords": [
+                        15.556995,
+                        41.461449
+                  ]
+            },
+            {
+                  "name": "Museo del Territorio",
+                  "text": "Muzeul este dedicat cercetării și prezentării teritoriului și tradițiilor locale.",
+                  "category": "museum",
+                  "coords": [
+                        15.539723,
+                        41.462418
+                  ]
+            },
+            {
+                  "name": "Camera di Commercio Industria Artigianato e Agricoltura",
+                  "text": "Un spațiu muzeal în cadrul Camerei de Comerț din Foggia pentru cultura locală.",
+                  "category": "museum",
+                  "coords": [
+                        15.567101,
+                        41.457315
+                  ]
+            },
+            {
+                  "name": "Parco Karol Wojtyla",
+                  "text": "Un parc urban spațios din Foggia, ideal pentru recreere și relaxare.",
+                  "category": "park",
+                  "coords": [
+                        15.557905,
+                        41.461657
+                  ]
+            },
+            {
+                  "name": "Epitaffio",
+                  "text": "Epitaffio este un monument istoric din Foggia situat la capătul vechiului drum pastoral.",
+                  "category": "tower",
+                  "coords": [
+                        15.543992,
+                        41.465531
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teatro Umberto Giordano",
+                  "text": "Teatro Umberto Giordano is the historic opera house and main theatre of Foggia.",
+                  "category": "cultural",
+                  "coords": [
+                        15.546232,
+                        41.464031
+                  ]
+            },
+            {
+                  "name": "Museo Provinciale di Storia Naturale",
+                  "text": "This museum in Foggia hosts exhibitions on regional natural history.",
+                  "category": "museum",
+                  "coords": [
+                        15.558575,
+                        41.456482
+                  ]
+            },
+            {
+                  "name": "Museo di Foggia",
+                  "text": "The Museum of Foggia presents the local history and art of the city.",
+                  "category": "museum",
+                  "coords": [
+                        15.545155,
+                        41.465103
+                  ]
+            },
+            {
+                  "name": "Palazzo Mastrolillo",
+                  "text": "Palazzo Mastrolillo is a historical building located in the city of Foggia.",
+                  "category": "castle",
+                  "coords": [
+                        15.543373,
+                        41.464208
+                  ]
+            },
+            {
+                  "name": "Villaggio Neolitico",
+                  "text": "This archaeological site in Foggia preserves the remains of a Neolithic settlement.",
+                  "category": "historical",
+                  "coords": [
+                        15.556995,
+                        41.461449
+                  ]
+            },
+            {
+                  "name": "Museo del Territorio",
+                  "text": "The museum is dedicated to the research and presentation of the local territory.",
+                  "category": "museum",
+                  "coords": [
+                        15.539723,
+                        41.462418
+                  ]
+            },
+            {
+                  "name": "Camera di Commercio Industria Artigianato e Agricoltura",
+                  "text": "A museum space within the Chamber of Commerce of Foggia for local culture.",
+                  "category": "museum",
+                  "coords": [
+                        15.567101,
+                        41.457315
+                  ]
+            },
+            {
+                  "name": "Parco Karol Wojtyla",
+                  "text": "A spacious urban park in Foggia, ideal for recreation and leisure.",
+                  "category": "park",
+                  "coords": [
+                        15.557905,
+                        41.461657
+                  ]
+            },
+            {
+                  "name": "Epitaffio",
+                  "text": "The Epitaffio is a historic monument in Foggia located at the end of the old sheep track.",
+                  "category": "tower",
+                  "coords": [
+                        15.543992,
+                        41.465531
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IT",
     name: { de: "Foggia", hu: "Foggia", ro: "Foggia", en: "Foggia" },
@@ -8958,7 +16221,376 @@ export const italyCitiesV2: POI[] = [
     image: "/poi-images/italy-potenza-cities-v2.webp",
   },
   {
-    id: "italy-catanzaro-cities-v2",
+    id: "italy-catanzaro-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo del Risorgimento",
+                  "text": "Museum in Catanzaro, das Exponate zur italienischen Einigungsbewegung des 19. Jahrhunderts zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        16.589817,
+                        38.914823
+                  ]
+            },
+            {
+                  "name": "Museo Diocesano d'Arte Sacra di Catanzaro",
+                  "text": "Diözesanmuseum für religiöse Kunst, das sich im Palast des Erzbischofs von Catanzaro befindet.",
+                  "category": "museum",
+                  "coords": [
+                        16.591715,
+                        38.905586
+                  ]
+            },
+            {
+                  "name": "Museo storico militare Brigata Catanzaro",
+                  "text": "Ein militärhistorisches Museum, das die Geschichte der Brigade Catanzaro dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        16.580998,
+                        38.91869
+                  ]
+            },
+            {
+                  "name": "Teatro Politeama",
+                  "text": "Ein modernes Theater in Catanzaro, das als wichtiges kulturelles Zentrum der Stadt gilt.",
+                  "category": "cultural",
+                  "coords": [
+                        16.594454,
+                        38.905957
+                  ]
+            },
+            {
+                  "name": "Museo delle arti di Catanzaro",
+                  "text": "Ein Museum für zeitgenössische Kunst in Catanzaro, das wechselnde Ausstellungen moderner Werke in einem historischen Gebäude beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        16.585816,
+                        38.910433
+                  ]
+            },
+            {
+                  "name": "Museo Archeologico Numismattico Provinciale di Catanzaro",
+                  "text": "Das Museum in Catanzaro präsentiert archäologische Funde sowie eine bedeutende Sammlung antiker Münzen aus der Region Kalabrien.",
+                  "category": "museum",
+                  "coords": [
+                        16.595499,
+                        38.905546
+                  ]
+            },
+            {
+                  "name": "Museo dell'arte della seta",
+                  "text": "Dieses Museum widmet sich der jahrhundertelangen Tradition der Seidenherstellung und der Textilkunst in der Stadt Catanzaro.",
+                  "category": "museum",
+                  "coords": [
+                        16.591355,
+                        38.903483
+                  ]
+            },
+            {
+                  "name": "Museo delle Carrozze",
+                  "text": "Das Museum zeigt eine Sammlung historischer Kutschen und Sättel, die die Entwicklung des Transportwesens in der Region dokumentieren.",
+                  "category": "museum",
+                  "coords": [
+                        16.596432,
+                        38.928465
+                  ]
+            },
+            {
+                  "name": "Villa Margherita",
+                  "text": "Der älteste öffentliche Park in Catanzaro bietet Gartenanlagen, Denkmäler und einen weiten Blick über das Tal.",
+                  "category": "park",
+                  "coords": [
+                        16.596438,
+                        38.905344
+                  ]
+            },
+            {
+                  "name": "Basilica dell'Immacolata",
+                  "text": "Eine bedeutende Barockkirche im Zentrum von Catanzaro, die für ihre kunstvollen Altäre und religiösen Statuen bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        16.592127,
+                        38.90769
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo del Risorgimento",
+                  "text": "Catanzaro múzeuma, amely a 19. századi olasz egységtörekvések korát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        16.589817,
+                        38.914823
+                  ]
+            },
+            {
+                  "name": "Museo Diocesano d'Arte Sacra di Catanzaro",
+                  "text": "Egyházművészeti múzeum Catanzaróban, amely az érseki palotában kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        16.591715,
+                        38.905586
+                  ]
+            },
+            {
+                  "name": "Museo storico militare Brigata Catanzaro",
+                  "text": "Hadtörténeti múzeum, amely a Catanzaro Dandár katonai emlékeit gyűjti össze.",
+                  "category": "museum",
+                  "coords": [
+                        16.580998,
+                        38.91869
+                  ]
+            },
+            {
+                  "name": "Teatro Politeama",
+                  "text": "Catanzaro modern színháza, amely a város egyik legfontosabb kulturális központja.",
+                  "category": "cultural",
+                  "coords": [
+                        16.594454,
+                        38.905957
+                  ]
+            },
+            {
+                  "name": "Museo delle arti di Catanzaro",
+                  "text": "Kortárs művészeti múzeum Catanzaróban, amely modern alkotások időszaki kiállításainak ad otthont egy történelmi épületben.",
+                  "category": "museum",
+                  "coords": [
+                        16.585816,
+                        38.910433
+                  ]
+            },
+            {
+                  "name": "Museo Archeologico Numismattico Provinciale di Catanzaro",
+                  "text": "A catanzarói múzeum régészeti leleteket és a calabriai régióból származó jelentős ókori érmegyűjteményt mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        16.595499,
+                        38.905546
+                  ]
+            },
+            {
+                  "name": "Museo dell'arte della seta",
+                  "text": "Ez a múzeum a selyemgyártás és a textilművészet évszázados hagyományait mutatja be Catanzaro városában.",
+                  "category": "museum",
+                  "coords": [
+                        16.591355,
+                        38.903483
+                  ]
+            },
+            {
+                  "name": "Museo delle Carrozze",
+                  "text": "A múzeum történelmi hintók és nyergek gyűjteményét mutatja be, dokumentálva a régió közlekedésének fejlődését.",
+                  "category": "museum",
+                  "coords": [
+                        16.596432,
+                        38.928465
+                  ]
+            },
+            {
+                  "name": "Villa Margherita",
+                  "text": "Catanzaro legrégebbi nyilvános parkja kertekkel, emlékművekkel és a völgyre nyíló kilátással várja a látogatókat.",
+                  "category": "park",
+                  "coords": [
+                        16.596438,
+                        38.905344
+                  ]
+            },
+            {
+                  "name": "Basilica dell'Immacolata",
+                  "text": "Jelentős barokk templom Catanzaro központjában, amely díszes oltárairól és vallási szobrairól ismert.",
+                  "category": "religious",
+                  "coords": [
+                        16.592127,
+                        38.90769
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo del Risorgimento",
+                  "text": "Muzeu din Catanzaro ce expune obiecte legate de mișcarea de unificare a Italiei din secolul al XIX-lea.",
+                  "category": "museum",
+                  "coords": [
+                        16.589817,
+                        38.914823
+                  ]
+            },
+            {
+                  "name": "Museo Diocesano d'Arte Sacra di Catanzaro",
+                  "text": "Muzeu diecezan de artă sacră, situat în incinta palatului arhiepiscopal din Catanzaro.",
+                  "category": "museum",
+                  "coords": [
+                        16.591715,
+                        38.905586
+                  ]
+            },
+            {
+                  "name": "Museo storico militare Brigata Catanzaro",
+                  "text": "Muzeu de istorie militară care documentează parcursul istoric al Brigăzii Catanzaro.",
+                  "category": "museum",
+                  "coords": [
+                        16.580998,
+                        38.91869
+                  ]
+            },
+            {
+                  "name": "Teatro Politeama",
+                  "text": "Un teatru modern din Catanzaro, considerat un centru cultural major al orașului.",
+                  "category": "cultural",
+                  "coords": [
+                        16.594454,
+                        38.905957
+                  ]
+            },
+            {
+                  "name": "Museo delle arti di Catanzaro",
+                  "text": "Un muzeu de artă contemporană din Catanzaro, care găzduiește expoziții temporare de lucrări moderne într-o clădire istorică.",
+                  "category": "museum",
+                  "coords": [
+                        16.585816,
+                        38.910433
+                  ]
+            },
+            {
+                  "name": "Museo Archeologico Numismattico Provinciale di Catanzaro",
+                  "text": "Muzeul din Catanzaro prezintă descoperiri arheologice și o colecție importantă de monede antice din regiunea Calabria.",
+                  "category": "museum",
+                  "coords": [
+                        16.595499,
+                        38.905546
+                  ]
+            },
+            {
+                  "name": "Museo dell'arte della seta",
+                  "text": "Acest muzeu este dedicat tradiției de secole a producției de mătase și artei textile din orașul Catanzaro.",
+                  "category": "museum",
+                  "coords": [
+                        16.591355,
+                        38.903483
+                  ]
+            },
+            {
+                  "name": "Museo delle Carrozze",
+                  "text": "Muzeul expune o colecție de trăsuri și șei istorice, documentând evoluția transportului în regiune.",
+                  "category": "museum",
+                  "coords": [
+                        16.596432,
+                        38.928465
+                  ]
+            },
+            {
+                  "name": "Villa Margherita",
+                  "text": "Cel mai vechi parc public din Catanzaro oferă grădini amenajate, monumente și o vedere panoramică asupra văii.",
+                  "category": "park",
+                  "coords": [
+                        16.596438,
+                        38.905344
+                  ]
+            },
+            {
+                  "name": "Basilica dell'Immacolata",
+                  "text": "O biserică barocă importantă din centrul orașului Catanzaro, cunoscută pentru altarele sale elaborate și statuile religioase.",
+                  "category": "religious",
+                  "coords": [
+                        16.592127,
+                        38.90769
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo del Risorgimento",
+                  "text": "A museum in Catanzaro displaying exhibits related to the 19th-century Italian unification movement.",
+                  "category": "museum",
+                  "coords": [
+                        16.589817,
+                        38.914823
+                  ]
+            },
+            {
+                  "name": "Museo Diocesano d'Arte Sacra di Catanzaro",
+                  "text": "A diocesan museum of sacred art located within the Archbishop's Palace in Catanzaro.",
+                  "category": "museum",
+                  "coords": [
+                        16.591715,
+                        38.905586
+                  ]
+            },
+            {
+                  "name": "Museo storico militare Brigata Catanzaro",
+                  "text": "A military history museum documenting the historical record of the Catanzaro Brigade.",
+                  "category": "museum",
+                  "coords": [
+                        16.580998,
+                        38.91869
+                  ]
+            },
+            {
+                  "name": "Teatro Politeama",
+                  "text": "A modern theatre in Catanzaro, serving as a primary cultural hub for the city.",
+                  "category": "cultural",
+                  "coords": [
+                        16.594454,
+                        38.905957
+                  ]
+            },
+            {
+                  "name": "Museo delle arti di Catanzaro",
+                  "text": "A contemporary art museum in Catanzaro hosting temporary exhibitions of modern works in a historical building.",
+                  "category": "museum",
+                  "coords": [
+                        16.585816,
+                        38.910433
+                  ]
+            },
+            {
+                  "name": "Museo Archeologico Numismattico Provinciale di Catanzaro",
+                  "text": "The museum in Catanzaro presents archaeological finds and a significant collection of ancient coins from the Calabria region.",
+                  "category": "museum",
+                  "coords": [
+                        16.595499,
+                        38.905546
+                  ]
+            },
+            {
+                  "name": "Museo dell'arte della seta",
+                  "text": "This museum is dedicated to the centuries-old tradition of silk production and textile art in the city of Catanzaro.",
+                  "category": "museum",
+                  "coords": [
+                        16.591355,
+                        38.903483
+                  ]
+            },
+            {
+                  "name": "Museo delle Carrozze",
+                  "text": "The museum displays a collection of historical carriages and saddles, documenting the development of transport in the region.",
+                  "category": "museum",
+                  "coords": [
+                        16.596432,
+                        38.928465
+                  ]
+            },
+            {
+                  "name": "Villa Margherita",
+                  "text": "The oldest public park in Catanzaro features landscaped gardens, monuments, and a wide view over the valley.",
+                  "category": "park",
+                  "coords": [
+                        16.596438,
+                        38.905344
+                  ]
+            },
+            {
+                  "name": "Basilica dell'Immacolata",
+                  "text": "An important Baroque church in the center of Catanzaro known for its elaborate altars and religious statues.",
+                  "category": "religious",
+                  "coords": [
+                        16.592127,
+                        38.90769
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IT",
     name: { de: "Catanzaro", hu: "Catanzaro", ro: "Catanzaro", en: "Catanzaro" },
@@ -9877,7 +17509,700 @@ export const italyCitiesV2: POI[] = [
   }
 ,
   {
-    id: "italy-savona-cities-v2",
+    id: "italy-savona-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo d'arte di Palazzo Gavotti",
+                  "text": "Das Kunstmuseum im Palazzo Gavotti beherbergt bedeutende Sammlungen von Gemälden und Keramiken aus der Region Ligurien.",
+                  "category": "museum",
+                  "coords": [
+                        8.482513,
+                        44.308688
+                  ]
+            },
+            {
+                  "name": "Pinacoteca Civica",
+                  "text": "Die Pinacoteca Civica von Savona zeigt eine umfangreiche Sammlung sakraler Kunst und Meisterwerke lokaler Maler.",
+                  "category": "museum",
+                  "coords": [
+                        8.484112,
+                        44.309033
+                  ]
+            },
+            {
+                  "name": "Museo della Ceramica Giuseppe Mazzotti",
+                  "text": "Dieses Museum ist der langen Tradition der Keramikherstellung gewidmet und zeigt Werke der berühmten Manufaktur Giuseppe Mazzotti.",
+                  "category": "museum",
+                  "coords": [
+                        8.507999,
+                        44.329039
+                  ]
+            },
+            {
+                  "name": "Centro Esposizioni del MuDA",
+                  "text": "Das Ausstellungszentrum MuDA präsentiert zeitgenössische Kunst und kulturelle Projekte in der Stadt Savona.",
+                  "category": "museum",
+                  "coords": [
+                        8.501925,
+                        44.327811
+                  ]
+            },
+            {
+                  "name": "Villa Faraggiana",
+                  "text": "Die Villa Faraggiana ist ein prächtiges Beispiel barocker Architektur mit einem eleganten Garten und reich verzierten Innenräumen.",
+                  "category": "museum",
+                  "coords": [
+                        8.502569,
+                        44.331328
+                  ]
+            },
+            {
+                  "name": "All About Apple Museum",
+                  "text": "Dieses einzigartige Museum widmet sich der Geschichte der Firma Apple und zeigt eine der weltweit größten Sammlungen ihrer Produkte.",
+                  "category": "museum",
+                  "coords": [
+                        8.487288,
+                        44.309252
+                  ]
+            },
+            {
+                  "name": "Museo Storico Archeologico di Savona",
+                  "text": "Das Museum zeigt bedeutende archäologische Funde aus der Geschichte Savonas, die in der Festung Priamar untergebracht sind.",
+                  "category": "museum",
+                  "coords": [
+                        8.484855,
+                        44.30504
+                  ]
+            },
+            {
+                  "name": "Sito archeologico del Priamar",
+                  "text": "Die archäologische Ausgrabungsstätte auf dem Priamar-Hügel dokumentiert die Besiedlung des Ortes von der Antike bis zum Mittelalter.",
+                  "category": "historical",
+                  "coords": [
+                        8.483286,
+                        44.304933
+                  ]
+            },
+            {
+                  "name": "Castello Migliardi",
+                  "text": "Das Castello Migliardi, auch als Palazzo Imperiale bekannt, ist ein markantes historisches Bauwerk in der Architektur von Savona.",
+                  "category": "castle",
+                  "coords": [
+                        8.465572,
+                        44.321017
+                  ]
+            },
+            {
+                  "name": "Teatro Comunale Gabriello Chiabrera",
+                  "text": "Dieses nach dem Dichter Gabriello Chiabrera benannte Stadttheater ist das wichtigste Opernhaus und Kulturzentrum von Savona.",
+                  "category": "cultural",
+                  "coords": [
+                        8.48148,
+                        44.310525
+                  ]
+            },
+            {
+                  "name": "Forte della Madonna degli Angeli",
+                  "text": "Das Forte della Madonna degli Angeli ist eine historische Festungsanlage, die auf einem Hügel über der Stadt Savona thront.",
+                  "category": "castle",
+                  "coords": [
+                        8.46078,
+                        44.313802
+                  ]
+            },
+            {
+                  "name": "Casa museo Asger Jorn",
+                  "text": "Das ehemalige Wohnhaus und Atelier des dänischen Künstlers Asger Jorn ist heute ein Museum für moderne Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        8.496138,
+                        44.329225
+                  ]
+            },
+            {
+                  "name": "Museo del Tesoro della Cattedrale",
+                  "text": "Das Museum bewahrt den wertvollen Domschatz und bedeutende religiöse Kunstwerke der Kathedrale von Savona auf.",
+                  "category": "museum",
+                  "coords": [
+                        8.482141,
+                        44.307334
+                  ]
+            },
+            {
+                  "name": "Spiaggia libera \"Garibaldi\"",
+                  "text": "Ein öffentlicher Strandabschnitt in Savona, der Badegästen kostenlosen Zugang zum Ligurischen Meer bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        8.483835,
+                        44.302885
+                  ]
+            },
+            {
+                  "name": "Spiaggia libera delle Fornaci",
+                  "text": "Dieser beliebte öffentliche Strand in Savona ist für seine gute Wasserqualität und Infrastruktur bekannt.",
+                  "category": "recreational",
+                  "coords": [
+                        8.469363,
+                        44.298158
+                  ]
+            },
+            {
+                  "name": "Spiaggia libera",
+                  "text": "Ein frei zugänglicher Küstenstreifen in Savona, ideal für einen entspannten Tag am Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        8.464198,
+                        44.296215
+                  ]
+            },
+            {
+                  "name": "Lega Navale Italiana - Sezione di Albisola",
+                  "text": "Ein Strandbereich bei Albisola, der von der lokalen Sektion des italienischen Marineverbandes betreut wird.",
+                  "category": "recreational",
+                  "coords": [
+                        8.509499,
+                        44.328527
+                  ]
+            },
+            {
+                  "name": "Associazione Nazionale Alpini",
+                  "text": "Eine historische Stätte auf dem Priamar-Hügel, die mit der Tradition der italienischen Gebirgstruppen verbunden ist.",
+                  "category": "historical",
+                  "coords": [
+                        8.468111,
+                        44.318933
+                  ]
+            },
+            {
+                  "name": "Tempietto Boselli",
+                  "text": "Ein kleiner neoklassizistischer Pavillon, der als Zierelement in den öffentlichen Gärten von Savona steht.",
+                  "category": "historical",
+                  "coords": [
+                        8.481535,
+                        44.304393
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo d'arte di Palazzo Gavotti",
+                  "text": "A Palazzo Gavotti művészeti múzeuma jelentős liguriai festészeti és kerámiagyűjteményeknek ad otthont Savona szívében.",
+                  "category": "museum",
+                  "coords": [
+                        8.482513,
+                        44.308688
+                  ]
+            },
+            {
+                  "name": "Pinacoteca Civica",
+                  "text": "Savona városi képtára helyi festők remekműveit és vallási művészeti alkotások gazdag gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        8.484112,
+                        44.309033
+                  ]
+            },
+            {
+                  "name": "Museo della Ceramica Giuseppe Mazzotti",
+                  "text": "Ez a múzeum a kerámiagyártás hosszú hagyományának szentelt, és a híres Giuseppe Mazzotti manufaktúra munkáit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        8.507999,
+                        44.329039
+                  ]
+            },
+            {
+                  "name": "Centro Esposizioni del MuDA",
+                  "text": "A MuDA kiállítókönypont kortárs művészeti alkotásokat és kulturális projekteket mutat be Savona városában.",
+                  "category": "museum",
+                  "coords": [
+                        8.501925,
+                        44.327811
+                  ]
+            },
+            {
+                  "name": "Villa Faraggiana",
+                  "text": "A Villa Faraggiana a barokk építészet pompás példája, elegáns kerttel és gazdagon díszített belső terekkel.",
+                  "category": "museum",
+                  "coords": [
+                        8.502569,
+                        44.331328
+                  ]
+            },
+            {
+                  "name": "All About Apple Museum",
+                  "text": "Ez az egyedülálló múzeum az Apple cég történetének szentelt, bemutatva termékeik egyik legnagyobb gyűjteményét a világon.",
+                  "category": "museum",
+                  "coords": [
+                        8.487288,
+                        44.309252
+                  ]
+            },
+            {
+                  "name": "Museo Storico Archeologico di Savona",
+                  "text": "A múzeum Savona történelmének jelentős régészeti leleteit mutatja be, amelyek a Priamar-erődben kaptak helyet.",
+                  "category": "museum",
+                  "coords": [
+                        8.484855,
+                        44.30504
+                  ]
+            },
+            {
+                  "name": "Sito archeologico del Priamar",
+                  "text": "A Priamar-dombon található régészeti lelőhely a település történetét dokumentálja az ókortól a középkorig.",
+                  "category": "historical",
+                  "coords": [
+                        8.483286,
+                        44.304933
+                  ]
+            },
+            {
+                  "name": "Castello Migliardi",
+                  "text": "A Castello Migliardi, más néven Palazzo Imperiale, Savona építészetének egyik jellegzetes történelmi épülete.",
+                  "category": "castle",
+                  "coords": [
+                        8.465572,
+                        44.321017
+                  ]
+            },
+            {
+                  "name": "Teatro Comunale Gabriello Chiabrera",
+                  "text": "Ez a Gabriello Chiabrera költőről elnevezett városi színház Savona legfontosabb operaháza és kulturális központja.",
+                  "category": "cultural",
+                  "coords": [
+                        8.48148,
+                        44.310525
+                  ]
+            },
+            {
+                  "name": "Forte della Madonna degli Angeli",
+                  "text": "A Forte della Madonna degli Angeli egy történelmi erődítmény, amely a Savona városa feletti dombon magasodik.",
+                  "category": "castle",
+                  "coords": [
+                        8.46078,
+                        44.313802
+                  ]
+            },
+            {
+                  "name": "Casa museo Asger Jorn",
+                  "text": "Asger Jorn dán művész egykori háza és műterme ma múzeumként mutatja be az alkotó munkásságát.",
+                  "category": "museum",
+                  "coords": [
+                        8.496138,
+                        44.329225
+                  ]
+            },
+            {
+                  "name": "Museo del Tesoro della Cattedrale",
+                  "text": "A múzeum a savona-i székesegyház értékes kincstárát és jelentős vallási műtárgyait őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        8.482141,
+                        44.307334
+                  ]
+            },
+            {
+                  "name": "Spiaggia libera \"Garibaldi\"",
+                  "text": "Savona egyik ingyenes strandja, amely közvetlen hozzáférést biztosít a tengerparthoz a látogatók számára.",
+                  "category": "recreational",
+                  "coords": [
+                        8.483835,
+                        44.302885
+                  ]
+            },
+            {
+                  "name": "Spiaggia libera delle Fornaci",
+                  "text": "Ez a népszerű savona-i szabadstrand kiváló vízminőségéről és jól kiépített környezetéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        8.469363,
+                        44.298158
+                  ]
+            },
+            {
+                  "name": "Spiaggia libera",
+                  "text": "Szabadon látogatható tengerparti szakasz Savonában, amely ideális egy pihentető fürdőzéshez.",
+                  "category": "recreational",
+                  "coords": [
+                        8.464198,
+                        44.296215
+                  ]
+            },
+            {
+                  "name": "Lega Navale Italiana - Sezione di Albisola",
+                  "text": "Albisola melletti partszakasz, amelyet az olasz tengerészeti szövetség helyi részlege üzemeltet.",
+                  "category": "recreational",
+                  "coords": [
+                        8.509499,
+                        44.328527
+                  ]
+            },
+            {
+                  "name": "Associazione Nazionale Alpini",
+                  "text": "A Priamar-dombon található történelmi emlékhely, amely az olasz hegyi vadászok hagyományaival kapcsolatos.",
+                  "category": "historical",
+                  "coords": [
+                        8.468111,
+                        44.318933
+                  ]
+            },
+            {
+                  "name": "Tempietto Boselli",
+                  "text": "Savona nyilvános kertjében álló kis neoklasszicista pavilon, amely a város egyik díszes műemléke.",
+                  "category": "historical",
+                  "coords": [
+                        8.481535,
+                        44.304393
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo d'arte di Palazzo Gavotti",
+                  "text": "Muzeul de artă din Palazzo Gavotti adăpostește colecții importante de pictură și ceramică din regiunea Liguria.",
+                  "category": "museum",
+                  "coords": [
+                        8.482513,
+                        44.308688
+                  ]
+            },
+            {
+                  "name": "Pinacoteca Civica",
+                  "text": "Pinacoteca Civica din Savona prezintă o colecție vastă de artă sacră și capodopere ale pictorilor locali.",
+                  "category": "museum",
+                  "coords": [
+                        8.484112,
+                        44.309033
+                  ]
+            },
+            {
+                  "name": "Museo della Ceramica Giuseppe Mazzotti",
+                  "text": "Acest muzeu este dedicat tradiției îndelungate a fabricării ceramicii, expunând lucrări ale celebrei manufacturi Giuseppe Mazzotti.",
+                  "category": "museum",
+                  "coords": [
+                        8.507999,
+                        44.329039
+                  ]
+            },
+            {
+                  "name": "Centro Esposizioni del MuDA",
+                  "text": "Centrul de expoziții MuDA prezintă artă contemporană și proiecte culturale în orașul Savona.",
+                  "category": "museum",
+                  "coords": [
+                        8.501925,
+                        44.327811
+                  ]
+            },
+            {
+                  "name": "Villa Faraggiana",
+                  "text": "Villa Faraggiana este un exemplu splendid de arhitectură barocă, cu o grădină elegantă și interioare bogat decorate.",
+                  "category": "museum",
+                  "coords": [
+                        8.502569,
+                        44.331328
+                  ]
+            },
+            {
+                  "name": "All About Apple Museum",
+                  "text": "Acest muzeu unic este dedicat istoriei companiei Apple, prezentând una dintre cele mai mari colecții de produse ale sale din lume.",
+                  "category": "museum",
+                  "coords": [
+                        8.487288,
+                        44.309252
+                  ]
+            },
+            {
+                  "name": "Museo Storico Archeologico di Savona",
+                  "text": "Muzeul prezintă descoperiri arheologice semnificative din istoria orașului Savona, fiind găzduit în fortăreața Priamar.",
+                  "category": "museum",
+                  "coords": [
+                        8.484855,
+                        44.30504
+                  ]
+            },
+            {
+                  "name": "Sito archeologico del Priamar",
+                  "text": "Situl arheologic de pe dealul Priamar documentează așezarea locului din antichitate până în Evul Mediu.",
+                  "category": "historical",
+                  "coords": [
+                        8.483286,
+                        44.304933
+                  ]
+            },
+            {
+                  "name": "Castello Migliardi",
+                  "text": "Castello Migliardi, cunoscut și sub numele de Palazzo Imperiale, este o structură istorică proeminentă în arhitectura orașului Savona.",
+                  "category": "castle",
+                  "coords": [
+                        8.465572,
+                        44.321017
+                  ]
+            },
+            {
+                  "name": "Teatro Comunale Gabriello Chiabrera",
+                  "text": "Acest teatru comunal, numit după poetul Gabriello Chiabrera, este cea mai importantă operă și centru cultural din Savona.",
+                  "category": "cultural",
+                  "coords": [
+                        8.48148,
+                        44.310525
+                  ]
+            },
+            {
+                  "name": "Forte della Madonna degli Angeli",
+                  "text": "Forte della Madonna degli Angeli este o fortificație istorică situată pe un deal care domină orașul Savona.",
+                  "category": "castle",
+                  "coords": [
+                        8.46078,
+                        44.313802
+                  ]
+            },
+            {
+                  "name": "Casa museo Asger Jorn",
+                  "text": "Fosta casă și atelierul artistului danez Asger Jorn funcționează astăzi ca muzeu de artă modernă.",
+                  "category": "museum",
+                  "coords": [
+                        8.496138,
+                        44.329225
+                  ]
+            },
+            {
+                  "name": "Museo del Tesoro della Cattedrale",
+                  "text": "Muzeul păstrează tezaurul valoros și obiecte importante de artă sacră ale catedralei din Savona.",
+                  "category": "museum",
+                  "coords": [
+                        8.482141,
+                        44.307334
+                  ]
+            },
+            {
+                  "name": "Spiaggia libera \"Garibaldi\"",
+                  "text": "O secțiune de plajă publică din Savona care oferă acces gratuit la Marea Ligurică.",
+                  "category": "recreational",
+                  "coords": [
+                        8.483835,
+                        44.302885
+                  ]
+            },
+            {
+                  "name": "Spiaggia libera delle Fornaci",
+                  "text": "Această plajă publică populară din Savona este cunoscută pentru calitatea apei și facilitățile oferite.",
+                  "category": "recreational",
+                  "coords": [
+                        8.469363,
+                        44.298158
+                  ]
+            },
+            {
+                  "name": "Spiaggia libera",
+                  "text": "O porțiune de coastă cu acces liber în Savona, ideală pentru o zi relaxantă la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        8.464198,
+                        44.296215
+                  ]
+            },
+            {
+                  "name": "Lega Navale Italiana - Sezione di Albisola",
+                  "text": "O zonă de plajă lângă Albisola, gestionată de secția locală a Ligii Navale Italiene.",
+                  "category": "recreational",
+                  "coords": [
+                        8.509499,
+                        44.328527
+                  ]
+            },
+            {
+                  "name": "Associazione Nazionale Alpini",
+                  "text": "Un sit istoric situat pe dealul Priamar, legat de tradiția trupelor montane italiene.",
+                  "category": "historical",
+                  "coords": [
+                        8.468111,
+                        44.318933
+                  ]
+            },
+            {
+                  "name": "Tempietto Boselli",
+                  "text": "Un mic pavilion neoclasic situat în grădinile publice din Savona ca element decorativ istoric.",
+                  "category": "historical",
+                  "coords": [
+                        8.481535,
+                        44.304393
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo d'arte di Palazzo Gavotti",
+                  "text": "The art museum in Palazzo Gavotti houses significant collections of paintings and ceramics from the Liguria region.",
+                  "category": "museum",
+                  "coords": [
+                        8.482513,
+                        44.308688
+                  ]
+            },
+            {
+                  "name": "Pinacoteca Civica",
+                  "text": "The Pinacoteca Civica of Savona displays an extensive collection of sacred art and masterpieces by local painters.",
+                  "category": "museum",
+                  "coords": [
+                        8.484112,
+                        44.309033
+                  ]
+            },
+            {
+                  "name": "Museo della Ceramica Giuseppe Mazzotti",
+                  "text": "This museum is dedicated to the long tradition of ceramics manufacturing, showcasing works from the famous Giuseppe Mazzotti factory.",
+                  "category": "museum",
+                  "coords": [
+                        8.507999,
+                        44.329039
+                  ]
+            },
+            {
+                  "name": "Centro Esposizioni del MuDA",
+                  "text": "The MuDA exhibition center presents contemporary art and cultural projects in the city of Savona.",
+                  "category": "museum",
+                  "coords": [
+                        8.501925,
+                        44.327811
+                  ]
+            },
+            {
+                  "name": "Villa Faraggiana",
+                  "text": "Villa Faraggiana is a magnificent example of Baroque architecture with an elegant garden and richly decorated interiors.",
+                  "category": "museum",
+                  "coords": [
+                        8.502569,
+                        44.331328
+                  ]
+            },
+            {
+                  "name": "All About Apple Museum",
+                  "text": "This unique museum is dedicated to the history of the Apple company, showcasing one of the world's largest collections of its products.",
+                  "category": "museum",
+                  "coords": [
+                        8.487288,
+                        44.309252
+                  ]
+            },
+            {
+                  "name": "Museo Storico Archeologico di Savona",
+                  "text": "The museum displays significant archaeological finds from Savona's history, housed within the Priamar fortress.",
+                  "category": "museum",
+                  "coords": [
+                        8.484855,
+                        44.30504
+                  ]
+            },
+            {
+                  "name": "Sito archeologico del Priamar",
+                  "text": "The archaeological site on the Priamar hill documents the settlement of the area from antiquity to the Middle Ages.",
+                  "category": "historical",
+                  "coords": [
+                        8.483286,
+                        44.304933
+                  ]
+            },
+            {
+                  "name": "Castello Migliardi",
+                  "text": "Castello Migliardi, also known as Palazzo Imperiale, is a prominent historical structure in Savona's architecture.",
+                  "category": "castle",
+                  "coords": [
+                        8.465572,
+                        44.321017
+                  ]
+            },
+            {
+                  "name": "Teatro Comunale Gabriello Chiabrera",
+                  "text": "This municipal theater, named after the poet Gabriello Chiabrera, is the most important opera house and cultural center of Savona.",
+                  "category": "cultural",
+                  "coords": [
+                        8.48148,
+                        44.310525
+                  ]
+            },
+            {
+                  "name": "Forte della Madonna degli Angeli",
+                  "text": "Forte della Madonna degli Angeli is a historical fortification perched on a hill overlooking the city of Savona.",
+                  "category": "castle",
+                  "coords": [
+                        8.46078,
+                        44.313802
+                  ]
+            },
+            {
+                  "name": "Casa museo Asger Jorn",
+                  "text": "The former home and studio of Danish artist Asger Jorn is now a museum dedicated to his work.",
+                  "category": "museum",
+                  "coords": [
+                        8.496138,
+                        44.329225
+                  ]
+            },
+            {
+                  "name": "Museo del Tesoro della Cattedrale",
+                  "text": "The museum preserves the valuable treasury and significant religious artworks of the Savona Cathedral.",
+                  "category": "museum",
+                  "coords": [
+                        8.482141,
+                        44.307334
+                  ]
+            },
+            {
+                  "name": "Spiaggia libera \"Garibaldi\"",
+                  "text": "A public beach section in Savona providing free access to the Ligurian Sea for visitors.",
+                  "category": "recreational",
+                  "coords": [
+                        8.483835,
+                        44.302885
+                  ]
+            },
+            {
+                  "name": "Spiaggia libera delle Fornaci",
+                  "text": "This popular public beach in Savona is known for its good water quality and seaside facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        8.469363,
+                        44.298158
+                  ]
+            },
+            {
+                  "name": "Spiaggia libera",
+                  "text": "A freely accessible coastal strip in Savona, ideal for a relaxing day by the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        8.464198,
+                        44.296215
+                  ]
+            },
+            {
+                  "name": "Lega Navale Italiana - Sezione di Albisola",
+                  "text": "A beach area near Albisola managed by the local section of the Italian Naval League.",
+                  "category": "recreational",
+                  "coords": [
+                        8.509499,
+                        44.328527
+                  ]
+            },
+            {
+                  "name": "Associazione Nazionale Alpini",
+                  "text": "A historical site on the Priamar hill linked to the traditions of the Italian Alpine troops.",
+                  "category": "historical",
+                  "coords": [
+                        8.468111,
+                        44.318933
+                  ]
+            },
+            {
+                  "name": "Tempietto Boselli",
+                  "text": "A small neoclassical pavilion standing as a decorative monument in the public gardens of Savona.",
+                  "category": "historical",
+                  "coords": [
+                        8.481535,
+                        44.304393
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IT",
     name: { de: "Savona", hu: "Savona", ro: "Savona", en: "Savona" },
@@ -10588,7 +18913,520 @@ export const italyCitiesV2: POI[] = [
     image: "/poi-images/italy-monza-cities-v2.webp",
   },
   {
-    id: "italy-pescara-cities-v2",
+    id: "italy-pescara-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Paparella Villa Urania",
+                  "text": "Das in einer Villa in Pescara untergebrachte Museum zeigt eine wertvolle Sammlung von Castelli-Keramiken aus dem 16. bis 19. Jahrhundert.",
+                  "category": "museum",
+                  "coords": [
+                        14.208275,
+                        42.472578
+                  ]
+            },
+            {
+                  "name": "Museo casa natale di Gabriele d'Annunzio",
+                  "text": "Das Museum im Geburtshaus von Gabriele d'Annunzio in Pescara dokumentiert das Leben und die Werke des berühmten italienischen Dichters.",
+                  "category": "museum",
+                  "coords": [
+                        14.211932,
+                        42.461152
+                  ]
+            },
+            {
+                  "name": "Museo delle Genti d'Abruzzo",
+                  "text": "Dieses ethnografische Museum in Pescara veranschaulicht die Geschichte, Bräuche und Traditionen der Menschen in der Region Abruzzen.",
+                  "category": "museum",
+                  "coords": [
+                        14.213127,
+                        42.462034
+                  ]
+            },
+            {
+                  "name": "Imago Museum",
+                  "text": "Ein modernes Kunstmuseum im Zentrum von Pescara, das sich der Ausstellung zeitgenössischer Malerei und Fotografie widmet.",
+                  "category": "museum",
+                  "coords": [
+                        14.206431,
+                        42.470032
+                  ]
+            },
+            {
+                  "name": "MediaMuseum",
+                  "text": "Ein Museum in Pescara, das sich der Geschichte des Kinos und der Multimedia-Kunst widmet.",
+                  "category": "museum",
+                  "coords": [
+                        14.214123,
+                        42.459807
+                  ]
+            },
+            {
+                  "name": "Teatro D'Annunzio",
+                  "text": "Ein großes Open-Air-Theater in Pescara, das nach dem Dichter Gabriele D'Annunzio benannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        14.23488,
+                        42.457345
+                  ]
+            },
+            {
+                  "name": "Museo Civico Basilio Cascella",
+                  "text": "Dieses Museum in Pescara zeigt Werke der Künstlerfamilie Cascella.",
+                  "category": "museum",
+                  "coords": [
+                        14.216841,
+                        42.461741
+                  ]
+            },
+            {
+                  "name": "Museo del Mare",
+                  "text": "Ein Meeresmuseum in Pescara, das die lokale maritime Geschichte und Meeresfauna präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        14.221309,
+                        42.466808
+                  ]
+            },
+            {
+                  "name": "CLAP Museum",
+                  "text": "Ein modernes Museum in Pescara, das sich auf Comics und grafische Kunst spezialisiert hat.",
+                  "category": "museum",
+                  "coords": [
+                        14.211927,
+                        42.470321
+                  ]
+            },
+            {
+                  "name": "Trabocchi di Pescara",
+                  "text": "Traditionelle hölzerne Fischerplattformen an der Küste von Pescara, die heute als Sehenswürdigkeit dienen.",
+                  "category": "museum",
+                  "coords": [
+                        14.227913,
+                        42.468899
+                  ]
+            },
+            {
+                  "name": "Santa Maria di Gerusalemme",
+                  "text": "Eine archäologische Stätte in Pescara mit den Überresten einer historischen religiösen Anlage.",
+                  "category": "historical",
+                  "coords": [
+                        14.212212,
+                        42.460064
+                  ]
+            },
+            {
+                  "name": "Spiaggia libera",
+                  "text": "Ein öffentlicher Strandabschnitt in Pescara, der frei zugänglich zum Baden und Entspannen ist.",
+                  "category": "recreational",
+                  "coords": [
+                        14.211958,
+                        42.474019
+                  ]
+            },
+            {
+                  "name": "Largo Monsignor Antonio Iannucci",
+                  "text": "Eine gepflegte Grünanlage und Platz in Pescara, benannt nach einem lokalen Bischof.",
+                  "category": "park",
+                  "coords": [
+                        14.20903,
+                        42.465516
+                  ]
+            },
+            {
+                  "name": "Basilica della Madonna dei Sette Dolori",
+                  "text": "Eine bedeutende Wallfahrtskirche in Pescara, die der Muttergottes der sieben Schmerzen gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        14.181932,
+                        42.468161
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Paparella Villa Urania",
+                  "text": "A pescarai villában működő múzeum értékes, 16. és 19. század közötti castelli kerámiagyűjteményt mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        14.208275,
+                        42.472578
+                  ]
+            },
+            {
+                  "name": "Museo casa natale di Gabriele d'Annunzio",
+                  "text": "Gabriele d'Annunzio pescarai szülőháza ma múzeum, amely a híres olasz költő életét és műveit dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        14.211932,
+                        42.461152
+                  ]
+            },
+            {
+                  "name": "Museo delle Genti d'Abruzzo",
+                  "text": "Ez a pescarai néprajzi múzeum az Abruzzo régió lakóinak történelmét, szokásait és hagyományait szemlélteti.",
+                  "category": "museum",
+                  "coords": [
+                        14.213127,
+                        42.462034
+                  ]
+            },
+            {
+                  "name": "Imago Museum",
+                  "text": "Modern művészeti múzeum Pescara központjában, amely kortárs festmények és fotók bemutatására szakosodott.",
+                  "category": "museum",
+                  "coords": [
+                        14.206431,
+                        42.470032
+                  ]
+            },
+            {
+                  "name": "MediaMuseum",
+                  "text": "Pescarai múzeum, amely a mozi és a multimédiás művészetek történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        14.214123,
+                        42.459807
+                  ]
+            },
+            {
+                  "name": "Teatro D'Annunzio",
+                  "text": "Pescarai szabadtéri színház, amelyet Gabriele D'Annunzio költőről neveztek el.",
+                  "category": "cultural",
+                  "coords": [
+                        14.23488,
+                        42.457345
+                  ]
+            },
+            {
+                  "name": "Museo Civico Basilio Cascella",
+                  "text": "Pescarai múzeum, amely a Cascella művészcsalád alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        14.216841,
+                        42.461741
+                  ]
+            },
+            {
+                  "name": "Museo del Mare",
+                  "text": "Pescarai tengerészeti múzeum, amely a helyi tengeri életet és halászatot mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        14.221309,
+                        42.466808
+                  ]
+            },
+            {
+                  "name": "CLAP Museum",
+                  "text": "Modern pescarai múzeum, amely a képregényekre és a grafikai művészetekre összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        14.211927,
+                        42.470321
+                  ]
+            },
+            {
+                  "name": "Trabocchi di Pescara",
+                  "text": "Hagyományos halászépítmények Pescara partjainál, amelyek ma látványosságként szolgálnak.",
+                  "category": "museum",
+                  "coords": [
+                        14.227913,
+                        42.468899
+                  ]
+            },
+            {
+                  "name": "Santa Maria di Gerusalemme",
+                  "text": "Pescarai régészeti lelőhely, amely egy történelmi vallási épületegyüttes maradványait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        14.212212,
+                        42.460064
+                  ]
+            },
+            {
+                  "name": "Spiaggia libera",
+                  "text": "Pescara szabadstrandja, amely ingyenes lehetőséget kínál a fürdésre és pihenésre.",
+                  "category": "recreational",
+                  "coords": [
+                        14.211958,
+                        42.474019
+                  ]
+            },
+            {
+                  "name": "Largo Monsignor Antonio Iannucci",
+                  "text": "Gondozott park és tér Pescarában, amelyet egy helyi püspökről neveztek el.",
+                  "category": "park",
+                  "coords": [
+                        14.20903,
+                        42.465516
+                  ]
+            },
+            {
+                  "name": "Basilica della Madonna dei Sette Dolori",
+                  "text": "Jelentős pescarai bazilika, amelyet a Hétfájdalmú Szűzanyának szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        14.181932,
+                        42.468161
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Paparella Villa Urania",
+                  "text": "Muzeul, găzduit într-o vilă din Pescara, expune o colecție valoroasă de ceramică de Castelli din secolele XVI-XIX.",
+                  "category": "museum",
+                  "coords": [
+                        14.208275,
+                        42.472578
+                  ]
+            },
+            {
+                  "name": "Museo casa natale di Gabriele d'Annunzio",
+                  "text": "Muzeul din casa natală a lui Gabriele d'Annunzio din Pescara documentează viața și operele celebrului poet italian.",
+                  "category": "museum",
+                  "coords": [
+                        14.211932,
+                        42.461152
+                  ]
+            },
+            {
+                  "name": "Museo delle Genti d'Abruzzo",
+                  "text": "Acest muzeu etnografic din Pescara ilustrează istoria, obiceiurile și tradițiile oamenilor din regiunea Abruzzo.",
+                  "category": "museum",
+                  "coords": [
+                        14.213127,
+                        42.462034
+                  ]
+            },
+            {
+                  "name": "Imago Museum",
+                  "text": "Un muzeu de artă modernă din centrul orașului Pescara, dedicat expozițiilor de pictură și fotografie contemporană.",
+                  "category": "museum",
+                  "coords": [
+                        14.206431,
+                        42.470032
+                  ]
+            },
+            {
+                  "name": "MediaMuseum",
+                  "text": "Un muzeu din Pescara dedicat istoriei cinematografiei și artelor multimedia.",
+                  "category": "museum",
+                  "coords": [
+                        14.214123,
+                        42.459807
+                  ]
+            },
+            {
+                  "name": "Teatro D'Annunzio",
+                  "text": "Un mare teatru în aer liber din Pescara, numit după poetul Gabriele D'Annunzio.",
+                  "category": "cultural",
+                  "coords": [
+                        14.23488,
+                        42.457345
+                  ]
+            },
+            {
+                  "name": "Museo Civico Basilio Cascella",
+                  "text": "Acest muzeu din Pescara expune lucrări ale familiei de artiști Cascella.",
+                  "category": "museum",
+                  "coords": [
+                        14.216841,
+                        42.461741
+                  ]
+            },
+            {
+                  "name": "Museo del Mare",
+                  "text": "Un muzeu maritim din Pescara care prezintă istoria locală și fauna marină.",
+                  "category": "museum",
+                  "coords": [
+                        14.221309,
+                        42.466808
+                  ]
+            },
+            {
+                  "name": "CLAP Museum",
+                  "text": "Un muzeu modern din Pescara specializat în benzi desenate și artă grafică.",
+                  "category": "museum",
+                  "coords": [
+                        14.211927,
+                        42.470321
+                  ]
+            },
+            {
+                  "name": "Trabocchi di Pescara",
+                  "text": "Platforme tradiționale de pescuit din lemn pe coasta Pescarei, care servesc astăzi ca obiectiv turistic.",
+                  "category": "museum",
+                  "coords": [
+                        14.227913,
+                        42.468899
+                  ]
+            },
+            {
+                  "name": "Santa Maria di Gerusalemme",
+                  "text": "Un sit arheologic din Pescara care conține resturile unui complex religios istoric.",
+                  "category": "historical",
+                  "coords": [
+                        14.212212,
+                        42.460064
+                  ]
+            },
+            {
+                  "name": "Spiaggia libera",
+                  "text": "O secțiune de plajă publică din Pescara, accesibilă gratuit pentru înot și relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        14.211958,
+                        42.474019
+                  ]
+            },
+            {
+                  "name": "Largo Monsignor Antonio Iannucci",
+                  "text": "O zonă verde îngrijită și piață din Pescara, numită după un episcop local.",
+                  "category": "park",
+                  "coords": [
+                        14.20903,
+                        42.465516
+                  ]
+            },
+            {
+                  "name": "Basilica della Madonna dei Sette Dolori",
+                  "text": "O bazilică importantă din Pescara, dedicată Maicii Domnului a celor Șapte Dureri.",
+                  "category": "religious",
+                  "coords": [
+                        14.181932,
+                        42.468161
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Paparella Villa Urania",
+                  "text": "Housed in a villa in Pescara, the museum displays a valuable collection of Castelli ceramics from the 16th to 19th centuries.",
+                  "category": "museum",
+                  "coords": [
+                        14.208275,
+                        42.472578
+                  ]
+            },
+            {
+                  "name": "Museo casa natale di Gabriele d'Annunzio",
+                  "text": "The museum in Gabriele d'Annunzio's birthplace in Pescara documents the life and works of the famous Italian poet.",
+                  "category": "museum",
+                  "coords": [
+                        14.211932,
+                        42.461152
+                  ]
+            },
+            {
+                  "name": "Museo delle Genti d'Abruzzo",
+                  "text": "This ethnographic museum in Pescara illustrates the history, customs, and traditions of the people in the Abruzzo region.",
+                  "category": "museum",
+                  "coords": [
+                        14.213127,
+                        42.462034
+                  ]
+            },
+            {
+                  "name": "Imago Museum",
+                  "text": "A modern art museum in the center of Pescara dedicated to exhibiting contemporary painting and photography.",
+                  "category": "museum",
+                  "coords": [
+                        14.206431,
+                        42.470032
+                  ]
+            },
+            {
+                  "name": "MediaMuseum",
+                  "text": "A museum in Pescara dedicated to the history of cinema and multimedia arts.",
+                  "category": "museum",
+                  "coords": [
+                        14.214123,
+                        42.459807
+                  ]
+            },
+            {
+                  "name": "Teatro D'Annunzio",
+                  "text": "A large open-air theatre in Pescara named after the poet Gabriele D'Annunzio.",
+                  "category": "cultural",
+                  "coords": [
+                        14.23488,
+                        42.457345
+                  ]
+            },
+            {
+                  "name": "Museo Civico Basilio Cascella",
+                  "text": "This museum in Pescara displays works by the Cascella family of artists.",
+                  "category": "museum",
+                  "coords": [
+                        14.216841,
+                        42.461741
+                  ]
+            },
+            {
+                  "name": "Museo del Mare",
+                  "text": "A maritime museum in Pescara showcasing local seafaring history and marine life.",
+                  "category": "museum",
+                  "coords": [
+                        14.221309,
+                        42.466808
+                  ]
+            },
+            {
+                  "name": "CLAP Museum",
+                  "text": "A modern museum in Pescara specializing in comics and graphic arts.",
+                  "category": "museum",
+                  "coords": [
+                        14.211927,
+                        42.470321
+                  ]
+            },
+            {
+                  "name": "Trabocchi di Pescara",
+                  "text": "Traditional wooden fishing platforms on the Pescara coast, now serving as a cultural sight.",
+                  "category": "museum",
+                  "coords": [
+                        14.227913,
+                        42.468899
+                  ]
+            },
+            {
+                  "name": "Santa Maria di Gerusalemme",
+                  "text": "An archaeological site in Pescara featuring the remains of a historical religious complex.",
+                  "category": "historical",
+                  "coords": [
+                        14.212212,
+                        42.460064
+                  ]
+            },
+            {
+                  "name": "Spiaggia libera",
+                  "text": "A public beach area in Pescara, freely accessible for swimming and relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        14.211958,
+                        42.474019
+                  ]
+            },
+            {
+                  "name": "Largo Monsignor Antonio Iannucci",
+                  "text": "A well-maintained green area and square in Pescara, named after a local bishop.",
+                  "category": "park",
+                  "coords": [
+                        14.20903,
+                        42.465516
+                  ]
+            },
+            {
+                  "name": "Basilica della Madonna dei Sette Dolori",
+                  "text": "An important basilica in Pescara dedicated to Our Lady of Seven Sorrows.",
+                  "category": "religious",
+                  "coords": [
+                        14.181932,
+                        42.468161
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IT",
     name: { de: "Pescara", hu: "Pescara", ro: "Pescara", en: "Pescara" },
@@ -11803,7 +20641,304 @@ export const italyCitiesV2: POI[] = [
     image: "/poi-images/italy-como-cities-v2.webp",
   },
   {
-    id: "italy-fermo-cities-v2",
+    id: "italy-fermo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cisterne Romane",
+                  "text": "Antike römische Zisternen aus dem 1. Jahrhundert v. Chr. unter der Altstadt von Fermo.",
+                  "category": "historical",
+                  "coords": [
+                        13.719307,
+                        43.160711
+                  ]
+            },
+            {
+                  "name": "Teatro dell'Aquila",
+                  "text": "Historisches Opernhaus aus dem 18. Jahrhundert, bekannt für seine prächtige Innenausstattung.",
+                  "category": "cultural",
+                  "coords": [
+                        13.717659,
+                        43.160396
+                  ]
+            },
+            {
+                  "name": "Museo ornitologico \"Tommaso Salvadori\"",
+                  "text": "Naturkundemuseum in der Villa Vitali mit einer bedeutenden Sammlung seltener Vogelarten.",
+                  "category": "museum",
+                  "coords": [
+                        13.725899,
+                        43.166334
+                  ]
+            },
+            {
+                  "name": "Teatro romano",
+                  "text": "Überreste eines antiken römischen Theaters aus der Regierungszeit von Kaiser Augustus.",
+                  "category": "historical",
+                  "coords": [
+                        13.715421,
+                        43.16132
+                  ]
+            },
+            {
+                  "name": "Museo diocesano",
+                  "text": "Diözesanmuseum neben dem Dom mit einer Sammlung religiöser Kunst und kostbarer Paramente.",
+                  "category": "museum",
+                  "coords": [
+                        13.71645,
+                        43.1613
+                  ]
+            },
+            {
+                  "name": "Pinacoteca Civica",
+                  "text": "Städtische Kunstgalerie im Palazzo dei Priori mit bedeutenden Werken, darunter ein Gemälde von Rubens.",
+                  "category": "museum",
+                  "coords": [
+                        13.718106,
+                        43.161892
+                  ]
+            },
+            {
+                  "name": "Casa di Mario Dondero",
+                  "text": "Dem berühmten Fotojournalisten Mario Dondero gewidmetes Museum und Kulturzentrum.",
+                  "category": "museum",
+                  "coords": [
+                        13.708956,
+                        43.160046
+                  ]
+            },
+            {
+                  "name": "Fonti Fallera",
+                  "text": "Historische Brunnenanlage, die auf antike römische Ursprünge zurückgeht.",
+                  "category": "historical",
+                  "coords": [
+                        13.709451,
+                        43.165516
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cisterne Romane",
+                  "text": "Kr. e. 1. századi, hatalmas föld alatti római ciszternarendszer Fermo történelmi központjában.",
+                  "category": "historical",
+                  "coords": [
+                        13.719307,
+                        43.160711
+                  ]
+            },
+            {
+                  "name": "Teatro dell'Aquila",
+                  "text": "18. századi operaház, amely lenyűgöző belső kialakításáról és kiváló akusztikájáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        13.717659,
+                        43.160396
+                  ]
+            },
+            {
+                  "name": "Museo ornitologico \"Tommaso Salvadori\"",
+                  "text": "A Villa Vitaliban található természettudományi múzeum, amely Tommaso Salvadori madárgyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        13.725899,
+                        43.166334
+                  ]
+            },
+            {
+                  "name": "Teatro romano",
+                  "text": "Augustus császár idejéből származó ókori római színház maradványai Fermo központjában.",
+                  "category": "historical",
+                  "coords": [
+                        13.715421,
+                        43.16132
+                  ]
+            },
+            {
+                  "name": "Museo diocesano",
+                  "text": "Az érsekség vallási műtárgyait és értékes liturgikus tárgyait bemutató múzeum a dóm mellett.",
+                  "category": "museum",
+                  "coords": [
+                        13.71645,
+                        43.1613
+                  ]
+            },
+            {
+                  "name": "Pinacoteca Civica",
+                  "text": "Városi képtár a Palazzo dei Priori épületében, ahol többek között Rubens egyik remekműve is látható.",
+                  "category": "museum",
+                  "coords": [
+                        13.718106,
+                        43.161892
+                  ]
+            },
+            {
+                  "name": "Casa di Mario Dondero",
+                  "text": "A híres fotóriporter, Mario Dondero emlékének szentelt múzeum és kulturális tér.",
+                  "category": "museum",
+                  "coords": [
+                        13.708956,
+                        43.160046
+                  ]
+            },
+            {
+                  "name": "Fonti Fallera",
+                  "text": "Történelmi forrás és kútrendszer, amely ókori római alapokra vezethető vissza.",
+                  "category": "historical",
+                  "coords": [
+                        13.709451,
+                        43.165516
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cisterne Romane",
+                  "text": "Un sistem impresionant de cisterne romane subterane din secolul I î.Hr., situat sub centrul orașului Fermo.",
+                  "category": "historical",
+                  "coords": [
+                        13.719307,
+                        43.160711
+                  ]
+            },
+            {
+                  "name": "Teatro dell'Aquila",
+                  "text": "Un teatru istoric din secolul al XVIII-lea, renumit pentru interiorul său fastuos și acustica excelentă.",
+                  "category": "cultural",
+                  "coords": [
+                        13.717659,
+                        43.160396
+                  ]
+            },
+            {
+                  "name": "Museo ornitologico \"Tommaso Salvadori\"",
+                  "text": "Muzeu de științe naturale situat în Villa Vitali, care adăpostește o colecție importantă de păsări.",
+                  "category": "museum",
+                  "coords": [
+                        13.725899,
+                        43.166334
+                  ]
+            },
+            {
+                  "name": "Teatro romano",
+                  "text": "Ruinele unui teatru roman antic construit în timpul domniei împăratului Augustus.",
+                  "category": "historical",
+                  "coords": [
+                        13.715421,
+                        43.16132
+                  ]
+            },
+            {
+                  "name": "Museo diocesano",
+                  "text": "Muzeu diecezan care expune artă sacră și obiecte liturgice valoroase lângă catedrala din Fermo.",
+                  "category": "museum",
+                  "coords": [
+                        13.71645,
+                        43.1613
+                  ]
+            },
+            {
+                  "name": "Pinacoteca Civica",
+                  "text": "Galeria de artă civică din Palazzo dei Priori, care găzduiește opere importante, inclusiv o pictură de Rubens.",
+                  "category": "museum",
+                  "coords": [
+                        13.718106,
+                        43.161892
+                  ]
+            },
+            {
+                  "name": "Casa di Mario Dondero",
+                  "text": "Muzeu și centru cultural dedicat renumitului fotojurnalist Mario Dondero.",
+                  "category": "museum",
+                  "coords": [
+                        13.708956,
+                        43.160046
+                  ]
+            },
+            {
+                  "name": "Fonti Fallera",
+                  "text": "Un complex istoric de cișmele cu origini antice romane.",
+                  "category": "historical",
+                  "coords": [
+                        13.709451,
+                        43.165516
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cisterne Romane",
+                  "text": "An impressive system of Roman underground cisterns from the 1st century BC, located beneath the historical center of Fermo.",
+                  "category": "historical",
+                  "coords": [
+                        13.719307,
+                        43.160711
+                  ]
+            },
+            {
+                  "name": "Teatro dell'Aquila",
+                  "text": "A historic 18th-century opera house known for its lavish interior and excellent acoustics.",
+                  "category": "cultural",
+                  "coords": [
+                        13.717659,
+                        43.160396
+                  ]
+            },
+            {
+                  "name": "Museo ornitologico \"Tommaso Salvadori\"",
+                  "text": "A natural history museum located in Villa Vitali, housing an important collection of birds.",
+                  "category": "museum",
+                  "coords": [
+                        13.725899,
+                        43.166334
+                  ]
+            },
+            {
+                  "name": "Teatro romano",
+                  "text": "The ruins of an ancient Roman theatre built during the reign of Emperor Augustus.",
+                  "category": "historical",
+                  "coords": [
+                        13.715421,
+                        43.16132
+                  ]
+            },
+            {
+                  "name": "Museo diocesano",
+                  "text": "A diocesan museum exhibiting sacred art and valuable liturgical objects next to the cathedral.",
+                  "category": "museum",
+                  "coords": [
+                        13.71645,
+                        43.1613
+                  ]
+            },
+            {
+                  "name": "Pinacoteca Civica",
+                  "text": "The civic art gallery in Palazzo dei Priori, housing important works including a painting by Rubens.",
+                  "category": "museum",
+                  "coords": [
+                        13.718106,
+                        43.161892
+                  ]
+            },
+            {
+                  "name": "Casa di Mario Dondero",
+                  "text": "A museum and cultural space dedicated to the famous photojournalist Mario Dondero.",
+                  "category": "museum",
+                  "coords": [
+                        13.708956,
+                        43.160046
+                  ]
+            },
+            {
+                  "name": "Fonti Fallera",
+                  "text": "A historical fountain complex with ancient Roman origins.",
+                  "category": "historical",
+                  "coords": [
+                        13.709451,
+                        43.165516
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IT",
     name: { de: "Fermo", hu: "Fermo", ro: "Fermo", en: "Fermo" },
@@ -12190,7 +21325,520 @@ export const italyCitiesV2: POI[] = [
     image: "/poi-images/italy-biella-cities-v2.webp",
   },
   {
-    id: "italy-teramo-cities-v2",
+    id: "italy-teramo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo archeologico Francesco Savini",
+                  "text": "Das archäologische Museum in Teramo zeigt bedeutende Funde aus der antiken Geschichte der Region.",
+                  "category": "museum",
+                  "coords": [
+                        13.70152,
+                        42.659247
+                  ]
+            },
+            {
+                  "name": "Teatro romano di Teramo",
+                  "text": "Überreste eines antiken römischen Theaters aus dem 1. Jahrhundert im historischen Stadtzentrum.",
+                  "category": "historical",
+                  "coords": [
+                        13.704244,
+                        42.657937
+                  ]
+            },
+            {
+                  "name": "Pinacoteca Civica di Teramo",
+                  "text": "Die städtische Kunstgalerie zeigt bedeutende Werke abruzzesischer Maler und historische Keramiken.",
+                  "category": "museum",
+                  "coords": [
+                        13.697657,
+                        42.661778
+                  ]
+            },
+            {
+                  "name": "Palazzo Vescovile",
+                  "text": "Ein historischer Bischofspalast, der wertvolle kirchliche Kunstgegenstände und Dokumente beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        13.703322,
+                        42.659133
+                  ]
+            },
+            {
+                  "name": "Domus della Madonna delle Grazie",
+                  "text": "Archäologische Ausgrabungsstätte eines römischen Wohnhauses mit gut erhaltenen Mosaikböden.",
+                  "category": "historical",
+                  "coords": [
+                        13.710158,
+                        42.65672
+                  ]
+            },
+            {
+                  "name": "Necropoli di Ponte Messato",
+                  "text": "Eine antike Nekropole mit Gräbern aus vorrömischer und römischer Zeit an der Via Bafile.",
+                  "category": "historical",
+                  "coords": [
+                        13.676466,
+                        42.647135
+                  ]
+            },
+            {
+                  "name": "Casa del Melatino",
+                  "text": "Ein seltenes Beispiel mittelalterlicher Civilarchitektur aus dem 13. Jahrhundert mit gotischen Portalen.",
+                  "category": "museum",
+                  "coords": [
+                        13.706456,
+                        42.658578
+                  ]
+            },
+            {
+                  "name": "Ponte degli impiccati",
+                  "text": "Überreste einer mittelalterlichen Brücke, die einst als wichtiger Übergang über den Fluss Vezzola diente.",
+                  "category": "historical",
+                  "coords": [
+                        13.706522,
+                        42.661115
+                  ]
+            },
+            {
+                  "name": "L'Arca",
+                  "text": "Ein modernes Kunstlabor und Ausstellungsraum in den renovierten Räumen eines ehemaligen Schlachthofs.",
+                  "category": "museum",
+                  "coords": [
+                        13.699836,
+                        42.660444
+                  ]
+            },
+            {
+                  "name": "Sito archeologico di Largo Sant’Anna",
+                  "text": "Archäologische Zone mit Resten einer römischen Domus und den Fundamenten der alten Kathedrale Sant'Anna.",
+                  "category": "historical",
+                  "coords": [
+                        13.705375,
+                        42.658794
+                  ]
+            },
+            {
+                  "name": "Castello Della Monica",
+                  "text": "Ein neugotisches Schloss aus dem 19. Jahrhundert, das vom Künstler Gennaro Della Monica entworfen wurde.",
+                  "category": "castle",
+                  "coords": [
+                        13.694699,
+                        42.660827
+                  ]
+            },
+            {
+                  "name": "Museo della Fisica e dell’Astrofisica \"Galileium\"",
+                  "text": "Ein wissenschaftliches Museum, das der Geschichte der Physik und der Erforschung des Weltraums gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        13.727493,
+                        42.666801
+                  ]
+            },
+            {
+                  "name": "Osservatorio astronomico di Collurania",
+                  "text": "Astronomisches Observatorium auf dem Collurania-Hügel bei Teramo.",
+                  "category": "park",
+                  "coords": [
+                        13.730772,
+                        42.654178
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Domenico",
+                  "text": "Historische Dominikanerkirche in Teramo, die für ihre Fresken bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        13.700909,
+                        42.657043
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo archeologico Francesco Savini",
+                  "text": "Teramo régészeti múzeuma a régió ókori történelmének jelentős leleteit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        13.70152,
+                        42.659247
+                  ]
+            },
+            {
+                  "name": "Teatro romano di Teramo",
+                  "text": "Az 1. századból származó ókori római színház maradványai Teramo történelmi központjában.",
+                  "category": "historical",
+                  "coords": [
+                        13.704244,
+                        42.657937
+                  ]
+            },
+            {
+                  "name": "Pinacoteca Civica di Teramo",
+                  "text": "A városi képtár jelentős abruzzói festők műveit és történelmi kerámiákat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        13.697657,
+                        42.661778
+                  ]
+            },
+            {
+                  "name": "Palazzo Vescovile",
+                  "text": "Történelmi püspöki palota, amely értékes egyházi műkincseket és dokumentumokat őriz.",
+                  "category": "museum",
+                  "coords": [
+                        13.703322,
+                        42.659133
+                  ]
+            },
+            {
+                  "name": "Domus della Madonna delle Grazie",
+                  "text": "Egy római lakóház régészeti maradványai, ahol jól megőrzött mozaikpadlók láthatók.",
+                  "category": "historical",
+                  "coords": [
+                        13.710158,
+                        42.65672
+                  ]
+            },
+            {
+                  "name": "Necropoli di Ponte Messato",
+                  "text": "Ókori nekropolisz elő-római és római kori sírokkal a Via Bafile mentén.",
+                  "category": "historical",
+                  "coords": [
+                        13.676466,
+                        42.647135
+                  ]
+            },
+            {
+                  "name": "Casa del Melatino",
+                  "text": "A 13. századi középkori polgári építészet ritka példája gótikus kapukkal.",
+                  "category": "museum",
+                  "coords": [
+                        13.706456,
+                        42.658578
+                  ]
+            },
+            {
+                  "name": "Ponte degli impiccati",
+                  "text": "Egy középkori híd maradványai, amely egykor fontos átkelőhely volt a Vezzola-folyón.",
+                  "category": "historical",
+                  "coords": [
+                        13.706522,
+                        42.661115
+                  ]
+            },
+            {
+                  "name": "L'Arca",
+                  "text": "Modern művészeti laboratórium és kiállítótér egy egykori vágóhíd felújított termeiben.",
+                  "category": "museum",
+                  "coords": [
+                        13.699836,
+                        42.660444
+                  ]
+            },
+            {
+                  "name": "Sito archeologico di Largo Sant’Anna",
+                  "text": "Régészeti terület római lakóházak maradványaival és a régi Sant'Anna-székesegyház alapjaival.",
+                  "category": "historical",
+                  "coords": [
+                        13.705375,
+                        42.658794
+                  ]
+            },
+            {
+                  "name": "Castello Della Monica",
+                  "text": "A 19. században épült neogótikus kastély, amelyet Gennaro Della Monica művész tervezett.",
+                  "category": "castle",
+                  "coords": [
+                        13.694699,
+                        42.660827
+                  ]
+            },
+            {
+                  "name": "Museo della Fisica e dell’Astrofisica \"Galileium\"",
+                  "text": "Tudományos múzeum, amelyet a fizika történetének és a világűr kutatásának szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        13.727493,
+                        42.666801
+                  ]
+            },
+            {
+                  "name": "Osservatorio astronomico di Collurania",
+                  "text": "Csillagvizsgáló a Teramo melletti Collurania-dombon.",
+                  "category": "park",
+                  "coords": [
+                        13.730772,
+                        42.654178
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Domenico",
+                  "text": "Történelmi domonkos templom Teramóban, amely jelentős freskóknak ad otthont.",
+                  "category": "religious",
+                  "coords": [
+                        13.700909,
+                        42.657043
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo archeologico Francesco Savini",
+                  "text": "Muzeul arheologic din Teramo expune descoperiri importante din istoria antică a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        13.70152,
+                        42.659247
+                  ]
+            },
+            {
+                  "name": "Teatro romano di Teramo",
+                  "text": "Rămășițele unui teatru roman antic din secolul I, situat în centrul istoric al orașului.",
+                  "category": "historical",
+                  "coords": [
+                        13.704244,
+                        42.657937
+                  ]
+            },
+            {
+                  "name": "Pinacoteca Civica di Teramo",
+                  "text": "Galeria civică de artă expune lucrări importante ale pictorilor din Abruzzo și ceramică istorică.",
+                  "category": "museum",
+                  "coords": [
+                        13.697657,
+                        42.661778
+                  ]
+            },
+            {
+                  "name": "Palazzo Vescovile",
+                  "text": "Un palat episcopal istoric care găzduiește obiecte de artă ecleziastică valoroasă și documente.",
+                  "category": "museum",
+                  "coords": [
+                        13.703322,
+                        42.659133
+                  ]
+            },
+            {
+                  "name": "Domus della Madonna delle Grazie",
+                  "text": "Sit arheologic ce cuprinde vestigiile unei domus romane cu pardoseli din mozaic bine conservate.",
+                  "category": "historical",
+                  "coords": [
+                        13.710158,
+                        42.65672
+                  ]
+            },
+            {
+                  "name": "Necropoli di Ponte Messato",
+                  "text": "O necropolă antică cu morminte din epoca preromană și romană, situată lângă Via Bafile.",
+                  "category": "historical",
+                  "coords": [
+                        13.676466,
+                        42.647135
+                  ]
+            },
+            {
+                  "name": "Casa del Melatino",
+                  "text": "Un exemplu rar de arhitectură civilă medievală din secolul al XIII-lea, cu portaluri gotice.",
+                  "category": "museum",
+                  "coords": [
+                        13.706456,
+                        42.658578
+                  ]
+            },
+            {
+                  "name": "Ponte degli impiccati",
+                  "text": "Rămășițele unui pod medieval care a servit odinioară ca punct important de trecere peste râul Vezzola.",
+                  "category": "historical",
+                  "coords": [
+                        13.706522,
+                        42.661115
+                  ]
+            },
+            {
+                  "name": "L'Arca",
+                  "text": "Un laborator de artă modernă și spațiu expozițional amenajat în spațiile renovate ale unui fost abator.",
+                  "category": "museum",
+                  "coords": [
+                        13.699836,
+                        42.660444
+                  ]
+            },
+            {
+                  "name": "Sito archeologico di Largo Sant’Anna",
+                  "text": "Zonă arheologică cu resturi ale unei domus romane și fundațiile vechii catedrale Sant'Anna.",
+                  "category": "historical",
+                  "coords": [
+                        13.705375,
+                        42.658794
+                  ]
+            },
+            {
+                  "name": "Castello Della Monica",
+                  "text": "Un castel neogotic din secolul al XIX-lea, proiectat și construit de artistul Gennaro Della Monica.",
+                  "category": "castle",
+                  "coords": [
+                        13.694699,
+                        42.660827
+                  ]
+            },
+            {
+                  "name": "Museo della Fisica e dell’Astrofisica \"Galileium\"",
+                  "text": "Un muzeu științific dedicat istoriei fizicii și explorării spațiului cosmic.",
+                  "category": "museum",
+                  "coords": [
+                        13.727493,
+                        42.666801
+                  ]
+            },
+            {
+                  "name": "Osservatorio astronomico di Collurania",
+                  "text": "Observator astronomic situat pe dealul Collurania, lângă Teramo.",
+                  "category": "park",
+                  "coords": [
+                        13.730772,
+                        42.654178
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Domenico",
+                  "text": "Biserică dominicană istorică în Teramo, cunoscută pentru frescele sale.",
+                  "category": "religious",
+                  "coords": [
+                        13.700909,
+                        42.657043
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo archeologico Francesco Savini",
+                  "text": "The archaeological museum in Teramo displays significant finds from the ancient history of the region.",
+                  "category": "museum",
+                  "coords": [
+                        13.70152,
+                        42.659247
+                  ]
+            },
+            {
+                  "name": "Teatro romano di Teramo",
+                  "text": "Remains of an ancient Roman theatre dating back to the 1st century in the historic city center.",
+                  "category": "historical",
+                  "coords": [
+                        13.704244,
+                        42.657937
+                  ]
+            },
+            {
+                  "name": "Pinacoteca Civica di Teramo",
+                  "text": "The civic art gallery displays significant works by Abruzzese painters and historical ceramics.",
+                  "category": "museum",
+                  "coords": [
+                        13.697657,
+                        42.661778
+                  ]
+            },
+            {
+                  "name": "Palazzo Vescovile",
+                  "text": "A historical bishop's palace housing valuable ecclesiastical art objects and documents.",
+                  "category": "museum",
+                  "coords": [
+                        13.703322,
+                        42.659133
+                  ]
+            },
+            {
+                  "name": "Domus della Madonna delle Grazie",
+                  "text": "Archaeological site featuring the remains of a Roman house with well-preserved mosaic floors.",
+                  "category": "historical",
+                  "coords": [
+                        13.710158,
+                        42.65672
+                  ]
+            },
+            {
+                  "name": "Necropoli di Ponte Messato",
+                  "text": "An ancient necropolis with tombs from the pre-Roman and Roman eras located near Via Bafile.",
+                  "category": "historical",
+                  "coords": [
+                        13.676466,
+                        42.647135
+                  ]
+            },
+            {
+                  "name": "Casa del Melatino",
+                  "text": "A rare example of 13th-century medieval civil architecture featuring Gothic portals.",
+                  "category": "museum",
+                  "coords": [
+                        13.706456,
+                        42.658578
+                  ]
+            },
+            {
+                  "name": "Ponte degli impiccati",
+                  "text": "Remains of a medieval bridge that once served as an important crossing over the Vezzola River.",
+                  "category": "historical",
+                  "coords": [
+                        13.706522,
+                        42.661115
+                  ]
+            },
+            {
+                  "name": "L'Arca",
+                  "text": "A modern art laboratory and exhibition space housed in the renovated rooms of a former slaughterhouse.",
+                  "category": "museum",
+                  "coords": [
+                        13.699836,
+                        42.660444
+                  ]
+            },
+            {
+                  "name": "Sito archeologico di Largo Sant’Anna",
+                  "text": "Archaeological area with remains of a Roman domus and foundations of the ancient Sant'Anna Cathedral.",
+                  "category": "historical",
+                  "coords": [
+                        13.705375,
+                        42.658794
+                  ]
+            },
+            {
+                  "name": "Castello Della Monica",
+                  "text": "A 19th-century neo-Gothic castle designed and built by the artist Gennaro Della Monica.",
+                  "category": "castle",
+                  "coords": [
+                        13.694699,
+                        42.660827
+                  ]
+            },
+            {
+                  "name": "Museo della Fisica e dell’Astrofisica \"Galileium\"",
+                  "text": "A scientific museum dedicated to the history of physics and the exploration of outer space.",
+                  "category": "museum",
+                  "coords": [
+                        13.727493,
+                        42.666801
+                  ]
+            },
+            {
+                  "name": "Osservatorio astronomico di Collurania",
+                  "text": "Astronomical observatory located on the Collurania hill near Teramo.",
+                  "category": "park",
+                  "coords": [
+                        13.730772,
+                        42.654178
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Domenico",
+                  "text": "Historic Dominican church in Teramo known for its frescoes.",
+                  "category": "religious",
+                  "coords": [
+                        13.700909,
+                        42.657043
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IT",
     name: { de: "Teramo", hu: "Teramo", ro: "Teramo", en: "Teramo" },
@@ -12280,7 +21928,124 @@ export const italyCitiesV2: POI[] = [
     image: "/poi-images/italy-asti-cities-v2.webp",
   },
   {
-    id: "italy-savigliano-cities-v2",
+    id: "italy-savigliano-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo civico Olmo",
+                  "text": "Das Stadtmuseum Olmo in Savigliano präsentiert lokale Kunstwerke und historische Sammlungen in einem ehemaligen Klostergebäude.",
+                  "category": "museum",
+                  "coords": [
+                        7.660917,
+                        44.646274
+                  ]
+            },
+            {
+                  "name": "Museo Ferroviario Piemontese",
+                  "text": "Das Piemontesische Eisenbahnmuseum in Savigliano zeigt historische Lokomotiven und Waggons aus der Region.",
+                  "category": "museum",
+                  "coords": [
+                        7.663693,
+                        44.641825
+                  ]
+            },
+            {
+                  "name": "Accademia Europea delle Essenze",
+                  "text": "Dieses Museum in Savigliano widmet sich der Geschichte und Herstellung von Düften und ätherischen Ölen.",
+                  "category": "museum",
+                  "coords": [
+                        7.656159,
+                        44.644408
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo civico Olmo",
+                  "text": "A saviglianói Olmo városi múzeum helyi művészeti alkotásokat és történelmi gyűjteményeket mutat be egy egykori kolostorépületben.",
+                  "category": "museum",
+                  "coords": [
+                        7.660917,
+                        44.646274
+                  ]
+            },
+            {
+                  "name": "Museo Ferroviario Piemontese",
+                  "text": "A saviglianói Piemonti Vasúttörténeti Múzeum a régió történelmi mozdonyait és vasúti kocsijait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        7.663693,
+                        44.641825
+                  ]
+            },
+            {
+                  "name": "Accademia Europea delle Essenze",
+                  "text": "Ez a saviglianói múzeum az illatok és illóolajok történetével és készítésével foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        7.656159,
+                        44.644408
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo civico Olmo",
+                  "text": "Muzeul civic Olmo din Savigliano prezintă opere de artă locale și colecții istorice într-o fostă clădire mănăstirească.",
+                  "category": "museum",
+                  "coords": [
+                        7.660917,
+                        44.646274
+                  ]
+            },
+            {
+                  "name": "Museo Ferroviario Piemontese",
+                  "text": "Muzeul Feroviar Piemontez din Savigliano expune locomotive și vagoane istorice din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        7.663693,
+                        44.641825
+                  ]
+            },
+            {
+                  "name": "Accademia Europea delle Essenze",
+                  "text": "Acest muzeu din Savigliano este dedicat istoriei și producției de esențe și uleiuri esențiale.",
+                  "category": "museum",
+                  "coords": [
+                        7.656159,
+                        44.644408
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo civico Olmo",
+                  "text": "The Olmo Civic Museum in Savigliano displays local artworks and historical collections in a former monastery building.",
+                  "category": "museum",
+                  "coords": [
+                        7.660917,
+                        44.646274
+                  ]
+            },
+            {
+                  "name": "Museo Ferroviario Piemontese",
+                  "text": "The Piedmontese Railway Museum in Savigliano exhibits historical locomotives and carriages from the region.",
+                  "category": "museum",
+                  "coords": [
+                        7.663693,
+                        44.641825
+                  ]
+            },
+            {
+                  "name": "Accademia Europea delle Essenze",
+                  "text": "This museum in Savigliano is dedicated to the history and production of scents and essential oils.",
+                  "category": "museum",
+                  "coords": [
+                        7.656159,
+                        44.644408
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IT",
     name: { de: "Savigliano", hu: "Savigliano", ro: "Savigliano", en: "Savigliano" },
@@ -12775,7 +22540,340 @@ export const italyCitiesV2: POI[] = [
     image: "/poi-images/italy-treviso-cities-v2.webp",
   },
   {
-    id: "italy-cuneo-cities-v2",
+    id: "italy-cuneo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Diocesano San Sebastiano",
+                  "text": "Diözesanmuseum in Cuneo mit einer Sammlung sakraler Kunstgegenstände.",
+                  "category": "museum",
+                  "coords": [
+                        7.552801,
+                        44.392287
+                  ]
+            },
+            {
+                  "name": "Casa Galimberti",
+                  "text": "Historisches Hausmuseum in Cuneo, das der Familie Galimberti gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        7.547443,
+                        44.389987
+                  ]
+            },
+            {
+                  "name": "Teatro Civico Toselli",
+                  "text": "Das wichtigste städtische Theater von Cuneo, benannt nach Giovanni Toselli.",
+                  "category": "cultural",
+                  "coords": [
+                        7.553463,
+                        44.393703
+                  ]
+            },
+            {
+                  "name": "Palazzo Della Chiesa - Chiodo",
+                  "text": "Historischer Adelspalast im Zentrum von Cuneo mit eleganter Architektur.",
+                  "category": "castle",
+                  "coords": [
+                        7.551155,
+                        44.391767
+                  ]
+            },
+            {
+                  "name": "Parco della Resistenza",
+                  "text": "Ein Stadtpark in Cuneo, der an die italienische Widerstandsbewegung erinnert.",
+                  "category": "park",
+                  "coords": [
+                        7.548697,
+                        44.383406
+                  ]
+            },
+            {
+                  "name": "Parco Ferruccio Parri",
+                  "text": "Großer Stadtpark in Cuneo, benannt nach dem Staatsmann Ferruccio Parri.",
+                  "category": "park",
+                  "coords": [
+                        7.536293,
+                        44.375775
+                  ]
+            },
+            {
+                  "name": "Parco della Gioventù",
+                  "text": "Erholungspark am Flussufer von Cuneo mit verschiedenen Sportanlagen.",
+                  "category": "park",
+                  "coords": [
+                        7.554547,
+                        44.38902
+                  ]
+            },
+            {
+                  "name": "Cattedrale di Santa Maria del Bosco",
+                  "text": "Die Hauptkathedrale von Cuneo, ein bedeutendes barockes Bauwerk.",
+                  "category": "religious",
+                  "coords": [
+                        7.548591,
+                        44.39081
+                  ]
+            },
+            {
+                  "name": "Torre Civica",
+                  "text": "Der historische Stadtturm bietet einen weiten Panoramablick über das Zentrum von Cuneo und die Alpen.",
+                  "category": "tower",
+                  "coords": [
+                        7.551713,
+                        44.39306
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Diocesano San Sebastiano",
+                  "text": "Egyházmegyei múzeum Cuneóban, amely szakrális művészeti tárgyakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        7.552801,
+                        44.392287
+                  ]
+            },
+            {
+                  "name": "Casa Galimberti",
+                  "text": "Cuneo történelmi házmúzeuma, amely a Galimberti család emlékét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        7.547443,
+                        44.389987
+                  ]
+            },
+            {
+                  "name": "Teatro Civico Toselli",
+                  "text": "Cuneo fő városi színháza, amely Giovanni Toselli nevét viseli.",
+                  "category": "cultural",
+                  "coords": [
+                        7.553463,
+                        44.393703
+                  ]
+            },
+            {
+                  "name": "Palazzo Della Chiesa - Chiodo",
+                  "text": "Elegáns nemesi palota Cuneo központjában, történelmi építészeti stílussal.",
+                  "category": "castle",
+                  "coords": [
+                        7.551155,
+                        44.391767
+                  ]
+            },
+            {
+                  "name": "Parco della Resistenza",
+                  "text": "Városi park Cuneóban, amelyet az olasz ellenállási mozgalom emlékére alapítottak.",
+                  "category": "park",
+                  "coords": [
+                        7.548697,
+                        44.383406
+                  ]
+            },
+            {
+                  "name": "Parco Ferruccio Parri",
+                  "text": "Cuneo nagy kiterjedésű városi parkja, amely Ferruccio Parri nevét viseli.",
+                  "category": "park",
+                  "coords": [
+                        7.536293,
+                        44.375775
+                  ]
+            },
+            {
+                  "name": "Parco della Gioventù",
+                  "text": "Pihenőpark Cuneo folyópartján, különféle sportolási lehetőségekkel.",
+                  "category": "park",
+                  "coords": [
+                        7.554547,
+                        44.38902
+                  ]
+            },
+            {
+                  "name": "Cattedrale di Santa Maria del Bosco",
+                  "text": "Cuneo főszékesegyháza, amely a város egyik legfontosabb barokk épülete.",
+                  "category": "religious",
+                  "coords": [
+                        7.548591,
+                        44.39081
+                  ]
+            },
+            {
+                  "name": "Torre Civica",
+                  "text": "A történelmi várostoronyból széles panoráma nyílik Cuneo központjára és az Alpok vonulataira.",
+                  "category": "tower",
+                  "coords": [
+                        7.551713,
+                        44.39306
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Diocesano San Sebastiano",
+                  "text": "Muzeu diecezan în Cuneo care expune o colecție de obiecte de artă sacră.",
+                  "category": "museum",
+                  "coords": [
+                        7.552801,
+                        44.392287
+                  ]
+            },
+            {
+                  "name": "Casa Galimberti",
+                  "text": "Muzeu memorial în Cuneo, dedicat istoriei familiei Galimberti.",
+                  "category": "museum",
+                  "coords": [
+                        7.547443,
+                        44.389987
+                  ]
+            },
+            {
+                  "name": "Teatro Civico Toselli",
+                  "text": "Principalul teatru civic din Cuneo, numit după Giovanni Toselli.",
+                  "category": "cultural",
+                  "coords": [
+                        7.553463,
+                        44.393703
+                  ]
+            },
+            {
+                  "name": "Palazzo Della Chiesa - Chiodo",
+                  "text": "Palat nobiliar istoric în centrul orașului Cuneo, cu o arhitectură elegantă.",
+                  "category": "castle",
+                  "coords": [
+                        7.551155,
+                        44.391767
+                  ]
+            },
+            {
+                  "name": "Parco della Resistenza",
+                  "text": "Un parc urban în Cuneo, dedicat memoriei mișcării italiene de rezistență.",
+                  "category": "park",
+                  "coords": [
+                        7.548697,
+                        44.383406
+                  ]
+            },
+            {
+                  "name": "Parco Ferruccio Parri",
+                  "text": "Parcul urban mare din Cuneo, numit în onoarea omului de stat Ferruccio Parri.",
+                  "category": "park",
+                  "coords": [
+                        7.536293,
+                        44.375775
+                  ]
+            },
+            {
+                  "name": "Parco della Gioventù",
+                  "text": "Parc recreativ pe malul râului în Cuneo, cu diverse facilități sportive.",
+                  "category": "park",
+                  "coords": [
+                        7.554547,
+                        44.38902
+                  ]
+            },
+            {
+                  "name": "Cattedrale di Santa Maria del Bosco",
+                  "text": "Catedrala principală din Cuneo, un edificiu baroc de o mare importanță.",
+                  "category": "religious",
+                  "coords": [
+                        7.548591,
+                        44.39081
+                  ]
+            },
+            {
+                  "name": "Torre Civica",
+                  "text": "Turnul civic istoric oferă o vedere panoramică asupra centrului orașului Cuneo și a Alpilor.",
+                  "category": "tower",
+                  "coords": [
+                        7.551713,
+                        44.39306
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Diocesano San Sebastiano",
+                  "text": "Diocesan museum in Cuneo displaying a collection of sacred art objects.",
+                  "category": "museum",
+                  "coords": [
+                        7.552801,
+                        44.392287
+                  ]
+            },
+            {
+                  "name": "Casa Galimberti",
+                  "text": "Historic house museum in Cuneo dedicated to the Galimberti family.",
+                  "category": "museum",
+                  "coords": [
+                        7.547443,
+                        44.389987
+                  ]
+            },
+            {
+                  "name": "Teatro Civico Toselli",
+                  "text": "The main civic theatre of Cuneo, named after Giovanni Toselli.",
+                  "category": "cultural",
+                  "coords": [
+                        7.553463,
+                        44.393703
+                  ]
+            },
+            {
+                  "name": "Palazzo Della Chiesa - Chiodo",
+                  "text": "Historic noble palace in the center of Cuneo with elegant architecture.",
+                  "category": "castle",
+                  "coords": [
+                        7.551155,
+                        44.391767
+                  ]
+            },
+            {
+                  "name": "Parco della Resistenza",
+                  "text": "An urban park in Cuneo dedicated to the memory of the Italian resistance movement.",
+                  "category": "park",
+                  "coords": [
+                        7.548697,
+                        44.383406
+                  ]
+            },
+            {
+                  "name": "Parco Ferruccio Parri",
+                  "text": "Large urban park in Cuneo named after the statesman Ferruccio Parri.",
+                  "category": "park",
+                  "coords": [
+                        7.536293,
+                        44.375775
+                  ]
+            },
+            {
+                  "name": "Parco della Gioventù",
+                  "text": "Recreational riverside park in Cuneo with various sports facilities.",
+                  "category": "park",
+                  "coords": [
+                        7.554547,
+                        44.38902
+                  ]
+            },
+            {
+                  "name": "Cattedrale di Santa Maria del Bosco",
+                  "text": "The main cathedral of Cuneo, a significant Baroque building.",
+                  "category": "religious",
+                  "coords": [
+                        7.548591,
+                        44.39081
+                  ]
+            },
+            {
+                  "name": "Torre Civica",
+                  "text": "The historic civic tower offers wide panoramic views over the center of Cuneo and the Alps.",
+                  "category": "tower",
+                  "coords": [
+                        7.551713,
+                        44.39306
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IT",
     name: { de: "Cuneo", hu: "Cuneo", ro: "Cuneo", en: "Cuneo" },
@@ -13594,7 +23692,952 @@ export const italyCitiesV2: POI[] = [
     image: "/poi-images/italy-pavia-cities-v2.webp",
   },
   {
-    id: "italy-pesaro-cities-v2",
+    id: "italy-pesaro-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo della marineria Washington Patrignani",
+                  "text": "Das Schifffahrtsmuseum in Pesaro dokumentiert die maritime Geschichte und Fischereitradition der Region Marken.",
+                  "category": "museum",
+                  "coords": [
+                        12.908936,
+                        43.916237
+                  ]
+            },
+            {
+                  "name": "Lucus Pisaurensis",
+                  "text": "Diese antike Ausgrabungsstätte bei Pesaro war ein heiliger Hain, der verschiedenen römischen Gottheiten gewidmet war.",
+                  "category": "historical",
+                  "coords": [
+                        12.897431,
+                        43.885137
+                  ]
+            },
+            {
+                  "name": "Auditorium Pedrotti",
+                  "text": "Dieses Auditorium in Pesaro ist Teil des Konservatoriums Rossini und dient als Veranstaltungsort für klassische Konzerte.",
+                  "category": "cultural",
+                  "coords": [
+                        12.910303,
+                        43.909256
+                  ]
+            },
+            {
+                  "name": "Casa Rossini",
+                  "text": "Das Geburtshaus des Komponisten Gioachino Rossini in Pesaro zeigt persönliche Erinnerungsstücke und Dokumente seines Lebens.",
+                  "category": "museum",
+                  "coords": [
+                        12.913878,
+                        43.910733
+                  ]
+            },
+            {
+                  "name": "Associazione 'Morbidelli Museo'",
+                  "text": "Dieses Museum in Pesaro präsentiert eine beeindruckende Sammlung historischer Motorräder der Marke Morbidelli.",
+                  "category": "museum",
+                  "coords": [
+                        12.886792,
+                        43.901992
+                  ]
+            },
+            {
+                  "name": "Teatro Rossini",
+                  "text": "Das nach dem Komponisten Gioachino Rossini benannte Opernhaus ist das kulturelle Herz von Pesaro.",
+                  "category": "cultural",
+                  "coords": [
+                        12.908747,
+                        43.907882
+                  ]
+            },
+            {
+                  "name": "Chiesa della Santissima Annunziata",
+                  "text": "Diese ehemalige Kirche dient heute als stimmungsvoller Ort für kulturelle Veranstaltungen und Konzerte in Pesaro.",
+                  "category": "cultural",
+                  "coords": [
+                        12.912539,
+                        43.91152
+                  ]
+            },
+            {
+                  "name": "Museo Scientifico Luigi Guidi",
+                  "text": "Dieses naturwissenschaftliche Museum präsentiert Sammlungen zur Geologie und Paläontologie der Region.",
+                  "category": "museum",
+                  "coords": [
+                        12.904273,
+                        43.911747
+                  ]
+            },
+            {
+                  "name": "Museo Nazionale della motocicletta",
+                  "text": "Dieses Museum widmet sich der Geschichte des Motorradbaus mit einer beeindruckenden Sammlung historischer Maschinen.",
+                  "category": "museum",
+                  "coords": [
+                        12.913815,
+                        43.909636
+                  ]
+            },
+            {
+                  "name": "Bagni tina 22",
+                  "text": "Ein gepflegter Strandabschnitt in Pesaro mit modernen Annehmlichkeiten für einen entspannten Tag an der Adria.",
+                  "category": "recreational",
+                  "coords": [
+                        12.916855,
+                        43.915739
+                  ]
+            },
+            {
+                  "name": "Bagni Lallo 21",
+                  "text": "Dieser Strand in Pesaro bietet Besuchern Serviceeinrichtungen und einen komfortablen Zugang zum Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        12.915938,
+                        43.916146
+                  ]
+            },
+            {
+                  "name": "bagni enrico 19",
+                  "text": "Strandbad in Pesaro mit typisch italienischem Service und Liegestuhlverleih direkt am Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        12.914983,
+                        43.916736
+                  ]
+            },
+            {
+                  "name": "ditta bagni gino di guidi gino 15",
+                  "text": "Ein gut ausgestatteter Strandabschnitt in Pesaro für entspannte Urlaubstage an der Adria.",
+                  "category": "recreational",
+                  "coords": [
+                        12.91375,
+                        43.917591
+                  ]
+            },
+            {
+                  "name": "Bagni Ridolfi N.13",
+                  "text": "Klassischer italienischer Strand mit Liegestühlen und Service in zentraler Lage von Pesaro.",
+                  "category": "recreational",
+                  "coords": [
+                        12.912755,
+                        43.918301
+                  ]
+            },
+            {
+                  "name": "Bagni gastone e marta n 11",
+                  "text": "Dieser Strand bietet Erholung und modernen Komfort am blauen Wasser von Pesaro.",
+                  "category": "recreational",
+                  "coords": [
+                        12.911806,
+                        43.91898
+                  ]
+            },
+            {
+                  "name": "Spiaggia di levante",
+                  "text": "Ein weitläufiger Sandstrand im östlichen Teil des Küstengebiets von Pesaro.",
+                  "category": "recreational",
+                  "coords": [
+                        12.926108,
+                        43.90905
+                  ]
+            },
+            {
+                  "name": "Lido Luciano Pavarotti",
+                  "text": "Dieser Strandabschnitt wurde zu Ehren des berühmten Tenors Luciano Pavarotti benannt.",
+                  "category": "recreational",
+                  "coords": [
+                        12.89652,
+                        43.9227
+                  ]
+            },
+            {
+                  "name": "Selva di S. Nicola",
+                  "text": "Ein geschütztes Naturgebiet bei Pesaro, das zur Wanderung im Grünen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        12.929285,
+                        43.880502
+                  ]
+            },
+            {
+                  "name": "Area floristica 106",
+                  "text": "Ein botanisch wertvolles Schutzgebiet an der Küste mit typischer lokaler Flora.",
+                  "category": "natural",
+                  "coords": [
+                        12.942706,
+                        43.896366
+                  ]
+            },
+            {
+                  "name": "Villa Meucci Severi",
+                  "text": "Eine historische Villa in Pesaro, die heute als Museum interessante kulturelle Einblicke bietet.",
+                  "category": "museum",
+                  "coords": [
+                        12.924828,
+                        43.903285
+                  ]
+            },
+            {
+                  "name": "Sabbia libera",
+                  "text": "Ein öffentlicher, kostenfrei zugänglicher Strandabschnitt für Besucher der Stadt Pesaro.",
+                  "category": "recreational",
+                  "coords": [
+                        12.939787,
+                        43.898848
+                  ]
+            },
+            {
+                  "name": "zona 27",
+                  "text": "Ein gepflegter Strandabschnitt an der Adriaküste von Pesaro mit touristischer Infrastruktur.",
+                  "category": "recreational",
+                  "coords": [
+                        12.921916,
+                        43.91224
+                  ]
+            },
+            {
+                  "name": "Luna Parck Pesaro",
+                  "text": "Ein lokaler Vergnügungspark in Pesaro, der verschiedene Fahrgeschäfte für Familien bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        12.909729,
+                        43.919194
+                  ]
+            },
+            {
+                  "name": "Villa Caprile",
+                  "text": "Eine Villa aus dem 17. Jahrhundert, die für ihre terrassierten Gärten und historischen Wasserspiele bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        12.881531,
+                        43.912852
+                  ]
+            },
+            {
+                  "name": "Villino Ruggeri",
+                  "text": "Ein herausragendes Beispiel der Liberty-Architektur, das direkt an der Küste von Pesaro liegt.",
+                  "category": "historical",
+                  "coords": [
+                        12.917856,
+                        43.914117
+                  ]
+            },
+            {
+                  "name": "Parco Miralfiore",
+                  "text": "Der größte öffentliche Stadtpark in Pesaro mit weitläufigen Grünflächen und Spazierwegen.",
+                  "category": "park",
+                  "coords": [
+                        12.89997,
+                        43.904262
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo della marineria Washington Patrignani",
+                  "text": "A pesarói tengerészeti múzeum Marche régió tengeri történelmét és halászati hagyományait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        12.908936,
+                        43.916237
+                  ]
+            },
+            {
+                  "name": "Lucus Pisaurensis",
+                  "text": "Ez a Pesaro melletti ókori régészeti lelőhely egy szent liget volt, amelyet különböző római istenségeknek szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        12.897431,
+                        43.885137
+                  ]
+            },
+            {
+                  "name": "Auditorium Pedrotti",
+                  "text": "Ez a pesarói auditórium a Rossini Konzervatórium része, és klasszikus zenei koncertek helyszíneként szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        12.910303,
+                        43.909256
+                  ]
+            },
+            {
+                  "name": "Casa Rossini",
+                  "text": "Gioachino Rossini zeneszerző szülőháza Pesaróban személyes emléktárgyakat és életútját bemutató dokumentumokat őriz.",
+                  "category": "museum",
+                  "coords": [
+                        12.913878,
+                        43.910733
+                  ]
+            },
+            {
+                  "name": "Associazione 'Morbidelli Museo'",
+                  "text": "Ez a pesarói múzeum a Morbidelli márka történelmi motorkerékpárjainak gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        12.886792,
+                        43.901992
+                  ]
+            },
+            {
+                  "name": "Teatro Rossini",
+                  "text": "A híres zeneszerzőről elnevezett operaház Pesaro kulturális életének központja és a Rossini-fesztivál helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        12.908747,
+                        43.907882
+                  ]
+            },
+            {
+                  "name": "Chiesa della Santissima Annunziata",
+                  "text": "Ez az egykori templom ma különleges helyszínként szolgál koncertek és kulturális események számára.",
+                  "category": "cultural",
+                  "coords": [
+                        12.912539,
+                        43.91152
+                  ]
+            },
+            {
+                  "name": "Museo Scientifico Luigi Guidi",
+                  "text": "A múzeum Pesaro és környékének geológiai és paleontológiai gyűjteményeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        12.904273,
+                        43.911747
+                  ]
+            },
+            {
+                  "name": "Museo Nazionale della motocicletta",
+                  "text": "A múzeum a motorkerékpárok történetének szentelt látványos gyűjteményt mutat be klasszikus modellekből.",
+                  "category": "museum",
+                  "coords": [
+                        12.913815,
+                        43.909636
+                  ]
+            },
+            {
+                  "name": "Bagni tina 22",
+                  "text": "Rendezett strandszakasz Pesaróban, amely modern szolgáltatásokat kínál a tengerparti kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        12.916855,
+                        43.915739
+                  ]
+            },
+            {
+                  "name": "Bagni Lallo 21",
+                  "text": "Ez a pesarói strand szolgáltatásokkal és kényelmes hozzáféréssel várja a látogatókat az Adriai-tengerhez.",
+                  "category": "recreational",
+                  "coords": [
+                        12.915938,
+                        43.916146
+                  ]
+            },
+            {
+                  "name": "bagni enrico 19",
+                  "text": "Pesarói strandfürdő tipikus olasz szolgáltatásokkal és napágybérlési lehetőséggel közvetlenül a víznél.",
+                  "category": "recreational",
+                  "coords": [
+                        12.914983,
+                        43.916736
+                  ]
+            },
+            {
+                  "name": "ditta bagni gino di guidi gino 15",
+                  "text": "Jól felszerelt strand Pesaro partjainál, amely ideális a pihentető tengerparti pihenéshez.",
+                  "category": "recreational",
+                  "coords": [
+                        12.91375,
+                        43.917591
+                  ]
+            },
+            {
+                  "name": "Bagni Ridolfi N.13",
+                  "text": "Klasszikus olasz strand nyugágyakkal és szolgáltatásokkal Pesaro központi részén.",
+                  "category": "recreational",
+                  "coords": [
+                        12.912755,
+                        43.918301
+                  ]
+            },
+            {
+                  "name": "Bagni gastone e marta n 11",
+                  "text": "Ez a strand kikapcsolódást és modern kényelmet kínál Pesaro kék vizeinél.",
+                  "category": "recreational",
+                  "coords": [
+                        12.911806,
+                        43.91898
+                  ]
+            },
+            {
+                  "name": "Spiaggia di levante",
+                  "text": "Tágas homokos strand Pesaro tengerparti övezetének keleti részén.",
+                  "category": "recreational",
+                  "coords": [
+                        12.926108,
+                        43.90905
+                  ]
+            },
+            {
+                  "name": "Lido Luciano Pavarotti",
+                  "text": "Ezt a strandot a híres tenor, Luciano Pavarotti tiszteletére nevezték el.",
+                  "category": "recreational",
+                  "coords": [
+                        12.89652,
+                        43.9227
+                  ]
+            },
+            {
+                  "name": "Selva di S. Nicola",
+                  "text": "Pesaro melletti védett természeti terület, amely zöld környezetben várja a túrázókat.",
+                  "category": "natural",
+                  "coords": [
+                        12.929285,
+                        43.880502
+                  ]
+            },
+            {
+                  "name": "Area floristica 106",
+                  "text": "Botanikailag értékes védett terület a tengerparton, jellegzetes helyi flórával.",
+                  "category": "natural",
+                  "coords": [
+                        12.942706,
+                        43.896366
+                  ]
+            },
+            {
+                  "name": "Villa Meucci Severi",
+                  "text": "Történelmi villa Pesaróban, amely ma múzeumként érdekes kulturális betekintést nyújt.",
+                  "category": "museum",
+                  "coords": [
+                        12.924828,
+                        43.903285
+                  ]
+            },
+            {
+                  "name": "Sabbia libera",
+                  "text": "Nyilvános, ingyenesen látogatható tengerparti szakasz Pesaro városának látogatói számára.",
+                  "category": "recreational",
+                  "coords": [
+                        12.939787,
+                        43.898848
+                  ]
+            },
+            {
+                  "name": "zona 27",
+                  "text": "Gondozott tengerparti szakasz Pesaro adriai partján, kiépített szolgáltatásokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        12.921916,
+                        43.91224
+                  ]
+            },
+            {
+                  "name": "Luna Parck Pesaro",
+                  "text": "Helyi vidámpark Pesaróban, amely különféle játékkal és attrakcióval várja a családokat.",
+                  "category": "recreational",
+                  "coords": [
+                        12.909729,
+                        43.919194
+                  ]
+            },
+            {
+                  "name": "Villa Caprile",
+                  "text": "17. századi nemesi villa, amely teraszos kertjeiről és barokk vízi játékairól nevezetes.",
+                  "category": "historical",
+                  "coords": [
+                        12.881531,
+                        43.912852
+                  ]
+            },
+            {
+                  "name": "Villino Ruggeri",
+                  "text": "A szecessziós építészet egyik kiemelkedő példája Pesaro tengerparti sétányán.",
+                  "category": "historical",
+                  "coords": [
+                        12.917856,
+                        43.914117
+                  ]
+            },
+            {
+                  "name": "Parco Miralfiore",
+                  "text": "Pesaro legnagyobb városi parkja tágas zöldterületekkel és sétat utakkal.",
+                  "category": "park",
+                  "coords": [
+                        12.89997,
+                        43.904262
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo della marineria Washington Patrignani",
+                  "text": "Muzeul maritim din Pesaro documentează istoria navală și tradiția pescuitului din regiunea Marche.",
+                  "category": "museum",
+                  "coords": [
+                        12.908936,
+                        43.916237
+                  ]
+            },
+            {
+                  "name": "Lucus Pisaurensis",
+                  "text": "Acest sit arheologic antic de lângă Pesaro a fost un crâng sacru dedicat diverselor divinități romane.",
+                  "category": "historical",
+                  "coords": [
+                        12.897431,
+                        43.885137
+                  ]
+            },
+            {
+                  "name": "Auditorium Pedrotti",
+                  "text": "Acest auditorium din Pesaro face parte din Conservatorul Rossini și servește drept loc de desfășurare a concertelor de muzică clasică.",
+                  "category": "cultural",
+                  "coords": [
+                        12.910303,
+                        43.909256
+                  ]
+            },
+            {
+                  "name": "Casa Rossini",
+                  "text": "Casa natală a compozitorului Gioachino Rossini din Pesaro expune obiecte personale și documente despre viața sa.",
+                  "category": "museum",
+                  "coords": [
+                        12.913878,
+                        43.910733
+                  ]
+            },
+            {
+                  "name": "Associazione 'Morbidelli Museo'",
+                  "text": "Acest muzeu din Pesaro prezintă o colecție impresionantă de motociclete istorice ale mărcii Morbidelli.",
+                  "category": "museum",
+                  "coords": [
+                        12.886792,
+                        43.901992
+                  ]
+            },
+            {
+                  "name": "Teatro Rossini",
+                  "text": "Teatrul de operă numit după compozitorul Gioachino Rossini este centrul cultural al orașului Pesaro.",
+                  "category": "cultural",
+                  "coords": [
+                        12.908747,
+                        43.907882
+                  ]
+            },
+            {
+                  "name": "Chiesa della Santissima Annunziata",
+                  "text": "Această fostă biserică servește astăzi ca loc de desfășurare pentru evenimente culturale și concerte în Pesaro.",
+                  "category": "cultural",
+                  "coords": [
+                        12.912539,
+                        43.91152
+                  ]
+            },
+            {
+                  "name": "Museo Scientifico Luigi Guidi",
+                  "text": "Acest muzeu științific prezintă colecții de geologie și paleontologie din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        12.904273,
+                        43.911747
+                  ]
+            },
+            {
+                  "name": "Museo Nazionale della motocicletta",
+                  "text": "Acest muzeu este dedicat istoriei motocicletelor, având o colecție impresionantă de mașini istorice.",
+                  "category": "museum",
+                  "coords": [
+                        12.913815,
+                        43.909636
+                  ]
+            },
+            {
+                  "name": "Bagni tina 22",
+                  "text": "O secțiune de plajă bine întreținută din Pesaro, cu facilități moderne pentru o zi relaxantă la Adriatica.",
+                  "category": "recreational",
+                  "coords": [
+                        12.916855,
+                        43.915739
+                  ]
+            },
+            {
+                  "name": "Bagni Lallo 21",
+                  "text": "Această plajă din Pesaro oferă vizitatorilor facilități de servicii și un acces confortabil la mare.",
+                  "category": "recreational",
+                  "coords": [
+                        12.915938,
+                        43.916146
+                  ]
+            },
+            {
+                  "name": "bagni enrico 19",
+                  "text": "Stabiliment balnear în Pesaro, cu servicii tipic italiene și închiriere de șezlonguri direct pe malul apei.",
+                  "category": "recreational",
+                  "coords": [
+                        12.914983,
+                        43.916736
+                  ]
+            },
+            {
+                  "name": "ditta bagni gino di guidi gino 15",
+                  "text": "O secțiune de plajă bine echipată în Pesaro pentru zile de vacanță relaxante la Marea Adriatică.",
+                  "category": "recreational",
+                  "coords": [
+                        12.91375,
+                        43.917591
+                  ]
+            },
+            {
+                  "name": "Bagni Ridolfi N.13",
+                  "text": "Plajă italiană clasică cu șezlonguri și servicii, situată central în Pesaro.",
+                  "category": "recreational",
+                  "coords": [
+                        12.912755,
+                        43.918301
+                  ]
+            },
+            {
+                  "name": "Bagni gastone e marta n 11",
+                  "text": "Această plajă oferă relaxare și confort modern la apele albastre din Pesaro.",
+                  "category": "recreational",
+                  "coords": [
+                        12.911806,
+                        43.91898
+                  ]
+            },
+            {
+                  "name": "Spiaggia di levante",
+                  "text": "O plajă spațioasă de nisip în partea de est a zonei de coastă din Pesaro.",
+                  "category": "recreational",
+                  "coords": [
+                        12.926108,
+                        43.90905
+                  ]
+            },
+            {
+                  "name": "Lido Luciano Pavarotti",
+                  "text": "Această secțiune de plajă a fost numită în onoarea celebrului tenor Luciano Pavarotti.",
+                  "category": "recreational",
+                  "coords": [
+                        12.89652,
+                        43.9227
+                  ]
+            },
+            {
+                  "name": "Selva di S. Nicola",
+                  "text": "O arie naturală protejată lângă Pesaro, care invită la drumeții în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        12.929285,
+                        43.880502
+                  ]
+            },
+            {
+                  "name": "Area floristica 106",
+                  "text": "O zonă protejată valoroasă din punct de vedere botanic pe coastă, cu floră locală tipică.",
+                  "category": "natural",
+                  "coords": [
+                        12.942706,
+                        43.896366
+                  ]
+            },
+            {
+                  "name": "Villa Meucci Severi",
+                  "text": "O vilă istorică în Pesaro care astăzi oferă perspective culturale interesante ca muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        12.924828,
+                        43.903285
+                  ]
+            },
+            {
+                  "name": "Sabbia libera",
+                  "text": "O secțiune de plajă publică, accesibilă gratuit pentru vizitatorii orașului Pesaro.",
+                  "category": "recreational",
+                  "coords": [
+                        12.939787,
+                        43.898848
+                  ]
+            },
+            {
+                  "name": "zona 27",
+                  "text": "O secțiune de plajă amenajată pe coasta adriatică din Pesaro, cu facilități turistice.",
+                  "category": "recreational",
+                  "coords": [
+                        12.921916,
+                        43.91224
+                  ]
+            },
+            {
+                  "name": "Luna Parck Pesaro",
+                  "text": "Un parc de distracții local în Pesaro, care oferă diverse atracții pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        12.909729,
+                        43.919194
+                  ]
+            },
+            {
+                  "name": "Villa Caprile",
+                  "text": "O vilă din secolul al XVII-lea, renumită pentru grădinile sale terasate și jocurile de apă istorice.",
+                  "category": "historical",
+                  "coords": [
+                        12.881531,
+                        43.912852
+                  ]
+            },
+            {
+                  "name": "Villino Ruggeri",
+                  "text": "Un exemplu remarcabil de arhitectură Liberty situat chiar pe faleza orașului Pesaro.",
+                  "category": "historical",
+                  "coords": [
+                        12.917856,
+                        43.914117
+                  ]
+            },
+            {
+                  "name": "Parco Miralfiore",
+                  "text": "Cel mai mare parc public din Pesaro, oferind spații verzi vaste și alei de promenadă.",
+                  "category": "park",
+                  "coords": [
+                        12.89997,
+                        43.904262
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo della marineria Washington Patrignani",
+                  "text": "The maritime museum in Pesaro documents the naval history and fishing traditions of the Marche region.",
+                  "category": "museum",
+                  "coords": [
+                        12.908936,
+                        43.916237
+                  ]
+            },
+            {
+                  "name": "Lucus Pisaurensis",
+                  "text": "This ancient archaeological site near Pesaro was a sacred grove dedicated to various Roman deities.",
+                  "category": "historical",
+                  "coords": [
+                        12.897431,
+                        43.885137
+                  ]
+            },
+            {
+                  "name": "Auditorium Pedrotti",
+                  "text": "This auditorium in Pesaro is part of the Rossini Conservatory and serves as a venue for classical music concerts.",
+                  "category": "cultural",
+                  "coords": [
+                        12.910303,
+                        43.909256
+                  ]
+            },
+            {
+                  "name": "Casa Rossini",
+                  "text": "The birthplace of composer Gioachino Rossini in Pesaro displays personal memorabilia and documents from his life.",
+                  "category": "museum",
+                  "coords": [
+                        12.913878,
+                        43.910733
+                  ]
+            },
+            {
+                  "name": "Associazione 'Morbidelli Museo'",
+                  "text": "This museum in Pesaro presents an impressive collection of historical motorcycles of the Morbidelli brand.",
+                  "category": "museum",
+                  "coords": [
+                        12.886792,
+                        43.901992
+                  ]
+            },
+            {
+                  "name": "Teatro Rossini",
+                  "text": "Named after the composer Gioachino Rossini, this opera house is the cultural heart of Pesaro.",
+                  "category": "cultural",
+                  "coords": [
+                        12.908747,
+                        43.907882
+                  ]
+            },
+            {
+                  "name": "Chiesa della Santissima Annunziata",
+                  "text": "This former church now serves as an atmospheric venue for cultural events and concerts in Pesaro.",
+                  "category": "cultural",
+                  "coords": [
+                        12.912539,
+                        43.91152
+                  ]
+            },
+            {
+                  "name": "Museo Scientifico Luigi Guidi",
+                  "text": "This scientific museum presents collections related to the geology and paleontology of the region.",
+                  "category": "museum",
+                  "coords": [
+                        12.904273,
+                        43.911747
+                  ]
+            },
+            {
+                  "name": "Museo Nazionale della motocicletta",
+                  "text": "This museum is dedicated to the history of motorcycle manufacturing with an impressive collection of machines.",
+                  "category": "museum",
+                  "coords": [
+                        12.913815,
+                        43.909636
+                  ]
+            },
+            {
+                  "name": "Bagni tina 22",
+                  "text": "A well-maintained beach section in Pesaro offering modern amenities for a relaxing day by the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        12.916855,
+                        43.915739
+                  ]
+            },
+            {
+                  "name": "Bagni Lallo 21",
+                  "text": "This beach in Pesaro provides visitors with service facilities and comfortable access to the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        12.915938,
+                        43.916146
+                  ]
+            },
+            {
+                  "name": "bagni enrico 19",
+                  "text": "A beach club in Pesaro offering typical Italian services and sunbed rentals right by the water.",
+                  "category": "recreational",
+                  "coords": [
+                        12.914983,
+                        43.916736
+                  ]
+            },
+            {
+                  "name": "ditta bagni gino di guidi gino 15",
+                  "text": "A well-equipped beach section in Pesaro for relaxing holiday days by the Adriatic Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        12.91375,
+                        43.917591
+                  ]
+            },
+            {
+                  "name": "Bagni Ridolfi N.13",
+                  "text": "Classic Italian beach with sun loungers and services in a central location of Pesaro.",
+                  "category": "recreational",
+                  "coords": [
+                        12.912755,
+                        43.918301
+                  ]
+            },
+            {
+                  "name": "Bagni gastone e marta n 11",
+                  "text": "This beach offers relaxation and modern comfort by the blue waters of Pesaro.",
+                  "category": "recreational",
+                  "coords": [
+                        12.911806,
+                        43.91898
+                  ]
+            },
+            {
+                  "name": "Spiaggia di levante",
+                  "text": "A spacious sandy beach in the eastern part of the Pesaro coastal area.",
+                  "category": "recreational",
+                  "coords": [
+                        12.926108,
+                        43.90905
+                  ]
+            },
+            {
+                  "name": "Lido Luciano Pavarotti",
+                  "text": "This beach section was named in honor of the famous tenor Luciano Pavarotti.",
+                  "category": "recreational",
+                  "coords": [
+                        12.89652,
+                        43.9227
+                  ]
+            },
+            {
+                  "name": "Selva di S. Nicola",
+                  "text": "A protected natural area near Pesaro that invites hiking in the heart of nature.",
+                  "category": "natural",
+                  "coords": [
+                        12.929285,
+                        43.880502
+                  ]
+            },
+            {
+                  "name": "Area floristica 106",
+                  "text": "A botanically valuable protected area on the coast featuring typical local flora.",
+                  "category": "natural",
+                  "coords": [
+                        12.942706,
+                        43.896366
+                  ]
+            },
+            {
+                  "name": "Villa Meucci Severi",
+                  "text": "A historical villa in Pesaro that today offers interesting cultural insights as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        12.924828,
+                        43.903285
+                  ]
+            },
+            {
+                  "name": "Sabbia libera",
+                  "text": "A public beach section with free access for visitors to the city of Pesaro.",
+                  "category": "recreational",
+                  "coords": [
+                        12.939787,
+                        43.898848
+                  ]
+            },
+            {
+                  "name": "zona 27",
+                  "text": "A well-maintained beach section on the Adriatic coast of Pesaro with tourist facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        12.921916,
+                        43.91224
+                  ]
+            },
+            {
+                  "name": "Luna Parck Pesaro",
+                  "text": "A local amusement park in Pesaro featuring various rides and attractions for families.",
+                  "category": "recreational",
+                  "coords": [
+                        12.909729,
+                        43.919194
+                  ]
+            },
+            {
+                  "name": "Villa Caprile",
+                  "text": "A 17th-century manor famous for its terraced Italian gardens and historical water features.",
+                  "category": "historical",
+                  "coords": [
+                        12.881531,
+                        43.912852
+                  ]
+            },
+            {
+                  "name": "Ruggeri House",
+                  "text": "A prominent example of Liberty-style architecture located on the seafront of Pesaro.",
+                  "category": "historical",
+                  "coords": [
+                        12.917856,
+                        43.914117
+                  ]
+            },
+            {
+                  "name": "Parco Miralfiore",
+                  "text": "The largest public urban park in Pesaro, featuring extensive green areas and walking paths.",
+                  "category": "park",
+                  "coords": [
+                        12.89997,
+                        43.904262
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IT",
     name: { de: "Pesaro", hu: "Pesaro", ro: "Pesaro", en: "Pesaro" },
@@ -14305,7 +25348,268 @@ export const italyCitiesV2: POI[] = [
     image: "/poi-images/italy-reggio-calabria-cities-v2.webp",
   },
   {
-    id: "italy-latina-cities-v2",
+    id: "italy-latina-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Mario Valeriani",
+                  "text": "Das Museum in Latina widmet sich der Bewahrung regionaler Kunstwerke und der lokalen Geschichte.",
+                  "category": "museum",
+                  "coords": [
+                        12.905858,
+                        41.463547
+                  ]
+            },
+            {
+                  "name": "Museo civico Duilio Cambellotti",
+                  "text": "Das Museum zeigt Werke des Künstlers Duilio Cambellotti im historischen Gebäude der ehemaligen Opera Nazionale Combattenti.",
+                  "category": "museum",
+                  "coords": [
+                        12.903581,
+                        41.464999
+                  ]
+            },
+            {
+                  "name": "Planetario Livio Gratton",
+                  "text": "Das Planetarium bietet Bildungsprogramme zur Astronomie und ermöglicht die Beobachtung des Sternenhimmels.",
+                  "category": "museum",
+                  "coords": [
+                        12.894407,
+                        41.458847
+                  ]
+            },
+            {
+                  "name": "Museo di Arte e Giacimenti Minerari",
+                  "text": "Diese Sammlung in Latina verbindet zeitgenössische Kunst mit geologischen und mineralogischen Exponaten.",
+                  "category": "museum",
+                  "coords": [
+                        12.907503,
+                        41.471095
+                  ]
+            },
+            {
+                  "name": "Museo della Terra Pontina",
+                  "text": "Das Museum dokumentiert die Geschichte der Urbarmachung und Besiedlung der Pontinischen Ebene.",
+                  "category": "museum",
+                  "coords": [
+                        12.898309,
+                        41.466726
+                  ]
+            },
+            {
+                  "name": "Acquapark ScivoSplash",
+                  "text": "Ein beliebter Wasserpark mit Rutschen und Schwimmbecken, der Freizeitspaß für die ganze Familie bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        12.874688,
+                        41.469909
+                  ]
+            },
+            {
+                  "name": "Cattedrale di San Marco",
+                  "text": "Die im rationalistischen Stil erbaute Kathedrale ist der wichtigste katholische Sakralbau der Stadt Latina.",
+                  "category": "religious",
+                  "coords": [
+                        12.902674,
+                        41.46441
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Mario Valeriani",
+                  "text": "A latinai múzeum a regionális művészeti alkotások és a helyi történelem megőrzésének szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        12.905858,
+                        41.463547
+                  ]
+            },
+            {
+                  "name": "Museo civico Duilio Cambellotti",
+                  "text": "A múzeum Duilio Cambellotti művész munkáit mutatja be az egykori Opera Nazionale Combattenti épületében.",
+                  "category": "museum",
+                  "coords": [
+                        12.903581,
+                        41.464999
+                  ]
+            },
+            {
+                  "name": "Planetario Livio Gratton",
+                  "text": "A planetárium csillagászati oktatási programokat kínál, és lehetővé teszi a csillagos égbolt megfigyelését.",
+                  "category": "museum",
+                  "coords": [
+                        12.894407,
+                        41.458847
+                  ]
+            },
+            {
+                  "name": "Museo di Arte e Giacimenti Minerari",
+                  "text": "Ez a latinai gyűjtemény a kortárs művészetet ötvözi geológiai és ásványtani kiállítási tárgyakkal.",
+                  "category": "museum",
+                  "coords": [
+                        12.907503,
+                        41.471095
+                  ]
+            },
+            {
+                  "name": "Museo della Terra Pontina",
+                  "text": "A múzeum a Ponti-síkság lecsapolásának és betelepítésének történetét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        12.898309,
+                        41.466726
+                  ]
+            },
+            {
+                  "name": "Acquapark ScivoSplash",
+                  "text": "Népszerű vízipark csúszdákkal és medencékkel, amely kikapcsolódást nyújt az egész családnak.",
+                  "category": "recreational",
+                  "coords": [
+                        12.874688,
+                        41.469909
+                  ]
+            },
+            {
+                  "name": "Cattedrale di San Marco",
+                  "text": "A racionalista stílusban épült székesegyház Latina városának legfontosabb katolikus szakrális épülete.",
+                  "category": "religious",
+                  "coords": [
+                        12.902674,
+                        41.46441
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Mario Valeriani",
+                  "text": "Muzeul din Latina este dedicat conservării operelor de artă regionale și istoriei locale.",
+                  "category": "museum",
+                  "coords": [
+                        12.905858,
+                        41.463547
+                  ]
+            },
+            {
+                  "name": "Museo civico Duilio Cambellotti",
+                  "text": "Muzeul expune lucrările artistului Duilio Cambellotti în clădirea istorică a fostei Opera Nazionale Combattenti.",
+                  "category": "museum",
+                  "coords": [
+                        12.903581,
+                        41.464999
+                  ]
+            },
+            {
+                  "name": "Planetario Livio Gratton",
+                  "text": "Planetariul oferă programe educaționale de astronomie și permite observarea cerului înstelat.",
+                  "category": "museum",
+                  "coords": [
+                        12.894407,
+                        41.458847
+                  ]
+            },
+            {
+                  "name": "Museo di Arte e Giacimenti Minerari",
+                  "text": "Această colecție din Latina îmbină arta contemporană cu exponate geologice și mineralogice.",
+                  "category": "museum",
+                  "coords": [
+                        12.907503,
+                        41.471095
+                  ]
+            },
+            {
+                  "name": "Museo della Terra Pontina",
+                  "text": "Muzeul documentează istoria desecării și colonizării Câmpiei Pontine.",
+                  "category": "museum",
+                  "coords": [
+                        12.898309,
+                        41.466726
+                  ]
+            },
+            {
+                  "name": "Acquapark ScivoSplash",
+                  "text": "Un parc acvatic popular cu tobogane și piscine, care oferă distracție pentru întreaga familie.",
+                  "category": "recreational",
+                  "coords": [
+                        12.874688,
+                        41.469909
+                  ]
+            },
+            {
+                  "name": "Cattedrale di San Marco",
+                  "text": "Catedrala construită în stil raționalist este cel mai important lăcaș de cult catolic din orașul Latina.",
+                  "category": "religious",
+                  "coords": [
+                        12.902674,
+                        41.46441
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Mario Valeriani",
+                  "text": "The museum in Latina is dedicated to the preservation of regional artworks and local history.",
+                  "category": "museum",
+                  "coords": [
+                        12.905858,
+                        41.463547
+                  ]
+            },
+            {
+                  "name": "Museo civico Duilio Cambellotti",
+                  "text": "The museum displays works by artist Duilio Cambellotti in the former Opera Nazionale Combattenti building.",
+                  "category": "museum",
+                  "coords": [
+                        12.903581,
+                        41.464999
+                  ]
+            },
+            {
+                  "name": "Planetario Livio Gratton",
+                  "text": "The planetarium offers astronomy educational programs and allows for the observation of the starry sky.",
+                  "category": "museum",
+                  "coords": [
+                        12.894407,
+                        41.458847
+                  ]
+            },
+            {
+                  "name": "Museo di Arte e Giacimenti Minerari",
+                  "text": "This collection in Latina combines contemporary art with geological and mineralogical exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        12.907503,
+                        41.471095
+                  ]
+            },
+            {
+                  "name": "Museo della Terra Pontina",
+                  "text": "The museum documents the history of the reclamation and settlement of the Pontine Plain.",
+                  "category": "museum",
+                  "coords": [
+                        12.898309,
+                        41.466726
+                  ]
+            },
+            {
+                  "name": "Acquapark ScivoSplash",
+                  "text": "A popular water park with slides and pools, offering leisure and fun for the whole family.",
+                  "category": "recreational",
+                  "coords": [
+                        12.874688,
+                        41.469909
+                  ]
+            },
+            {
+                  "name": "Cattedrale di San Marco",
+                  "text": "Built in the Rationalist style, the cathedral is the most important Catholic religious building in Latina.",
+                  "category": "religious",
+                  "coords": [
+                        12.902674,
+                        41.46441
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IT",
     name: { de: "Latina", hu: "Latina", ro: "Latina", en: "Latina" },
@@ -14548,7 +25852,340 @@ export const italyCitiesV2: POI[] = [
     image: "/poi-images/italy-andria-cities-v2.webp",
   },
   {
-    id: "italy-pordenone-cities-v2",
+    id: "italy-pordenone-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Diocesano d'Arte Sacra",
+                  "text": "Das Diözesanmuseum von Pordenone stellt sakrale Kunstwerke und religiöse Gegenstände der Region aus.",
+                  "category": "museum",
+                  "coords": [
+                        12.669917,
+                        45.957328
+                  ]
+            },
+            {
+                  "name": "Museo Civico di Storia Naturale \"Silvia Zenari\"",
+                  "text": "Ein Naturkundemuseum in Pordenone, das sich der lokalen Geologie, Flora und Fauna widmet.",
+                  "category": "museum",
+                  "coords": [
+                        12.661221,
+                        45.955356
+                  ]
+            },
+            {
+                  "name": "Villa Romana di Torre di Pordenone",
+                  "text": "Die archäologische Ausgrabungsstätte zeigt die Überreste einer bedeutenden römischen Villa in Pordenone.",
+                  "category": "historical",
+                  "coords": [
+                        12.681709,
+                        45.966817
+                  ]
+            },
+            {
+                  "name": "Archivio di Stato di Pordenone",
+                  "text": "Das Staatsarchiv in Pordenone bewahrt wertvolle historische Dokumente und Urkunden der Stadt auf.",
+                  "category": "museum",
+                  "coords": [
+                        12.654302,
+                        45.963597
+                  ]
+            },
+            {
+                  "name": "Palazzo del fumetto",
+                  "text": "Ein Kulturzentrum und Museum in Pordenone, das sich der Welt der Comics und Illustrationen widmet.",
+                  "category": "museum",
+                  "coords": [
+                        12.666112,
+                        45.956952
+                  ]
+            },
+            {
+                  "name": "Galleria Harry Bertoia",
+                  "text": "Diese Kunstgalerie in Pordenone ist dem Designer Harry Bertoia gewidmet und zeigt wechselnde Ausstellungen.",
+                  "category": "museum",
+                  "coords": [
+                        12.659777,
+                        45.954499
+                  ]
+            },
+            {
+                  "name": "Museo Archelogico del Friuli Occidentale",
+                  "text": "Das Museum für Archäologie befindet sich in der Burg von Torre und bewahrt Funde aus der westlichen Friaul-Region.",
+                  "category": "castle",
+                  "coords": [
+                        12.682558,
+                        45.968313
+                  ]
+            },
+            {
+                  "name": "IS Science Center Immaginario Scientifico Pordenone",
+                  "text": "Ein interaktives Wissenschaftszentrum in Pordenone, das Besuchern physikalische und naturwissenschaftliche Phänomene näherbringt.",
+                  "category": "museum",
+                  "coords": [
+                        12.685182,
+                        45.967067
+                  ]
+            },
+            {
+                  "name": "Duomo Concattedrale di San Marco",
+                  "text": "Die romanisch-gotische Konkathedrale San Marco aus dem 13. Jahrhundert ist das wichtigste religiöse Bauwerk in Pordenone.",
+                  "category": "religious",
+                  "coords": [
+                        12.660932,
+                        45.954312
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Diocesano d'Arte Sacra",
+                  "text": "A pordenonei egyházmegyei múzeum a régió szakrális művészeti alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        12.669917,
+                        45.957328
+                  ]
+            },
+            {
+                  "name": "Museo Civico di Storia Naturale \"Silvia Zenari\"",
+                  "text": "Természettudományi múzeum Pordenonéban, amely a helyi geológiát és élővilágot mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        12.661221,
+                        45.955356
+                  ]
+            },
+            {
+                  "name": "Villa Romana di Torre di Pordenone",
+                  "text": "Régészeti lelőhely, amely egy jelentős római kori villa maradványait őrzi Pordenonéban.",
+                  "category": "historical",
+                  "coords": [
+                        12.681709,
+                        45.966817
+                  ]
+            },
+            {
+                  "name": "Archivio di Stato di Pordenone",
+                  "text": "Pordenone állami levéltára, amely a város értékes történelmi iratait és dokumentumait őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        12.654302,
+                        45.963597
+                  ]
+            },
+            {
+                  "name": "Palazzo del fumetto",
+                  "text": "Kulturális központ és múzeum Pordenonéban, amely a képregények és illusztrációk világát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        12.666112,
+                        45.956952
+                  ]
+            },
+            {
+                  "name": "Galleria Harry Bertoia",
+                  "text": "Harry Bertoia pordenonei születésű tervezőnek szentelt művészeti galéria és kiállítótér.",
+                  "category": "museum",
+                  "coords": [
+                        12.659777,
+                        45.954499
+                  ]
+            },
+            {
+                  "name": "Museo Archelogico del Friuli Occidentale",
+                  "text": "A Nyugat-Friuli régészeti múzeuma a torre-i kastély épületében kapott helyet, és a környék ókori leleteit őrzi.",
+                  "category": "castle",
+                  "coords": [
+                        12.682558,
+                        45.968313
+                  ]
+            },
+            {
+                  "name": "IS Science Center Immaginario Scientifico Pordenone",
+                  "text": "Interaktív tudományos központ Pordenonéban, amely fizikai és természeti jelenségeket mutat be kísérleti állomásokon.",
+                  "category": "museum",
+                  "coords": [
+                        12.685182,
+                        45.967067
+                  ]
+            },
+            {
+                  "name": "Duomo Concattedrale di San Marco",
+                  "text": "A 13. századi, román-gótikus stílusú Szent Márk-székesegyház Pordenone legfontosabb egyházi műemléke.",
+                  "category": "religious",
+                  "coords": [
+                        12.660932,
+                        45.954312
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Diocesano d'Arte Sacra",
+                  "text": "Muzeul Diecezan din Pordenone expune opere de artă sacră și obiecte religioase din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        12.669917,
+                        45.957328
+                  ]
+            },
+            {
+                  "name": "Museo Civico di Storia Naturale \"Silvia Zenari\"",
+                  "text": "Un muzeu de istorie naturală din Pordenone dedicat geologiei, florei și faunei locale.",
+                  "category": "museum",
+                  "coords": [
+                        12.661221,
+                        45.955356
+                  ]
+            },
+            {
+                  "name": "Villa Romana di Torre di Pordenone",
+                  "text": "Sit arheologic ce prezintă vestigiile unei vile romane importante din Pordenone.",
+                  "category": "historical",
+                  "coords": [
+                        12.681709,
+                        45.966817
+                  ]
+            },
+            {
+                  "name": "Archivio di Stato di Pordenone",
+                  "text": "Arhiva de Stat din Pordenone păstrează documente și hrisoave istorice valoroase ale orașului.",
+                  "category": "museum",
+                  "coords": [
+                        12.654302,
+                        45.963597
+                  ]
+            },
+            {
+                  "name": "Palazzo del fumetto",
+                  "text": "Un centru cultural și muzeu din Pordenone dedicat lumii benzilor desenate și ilustrațiilor.",
+                  "category": "museum",
+                  "coords": [
+                        12.666112,
+                        45.956952
+                  ]
+            },
+            {
+                  "name": "Galleria Harry Bertoia",
+                  "text": "Această galerie de artă din Pordenone este dedicată designerului Harry Bertoia și găzduiește expoziții temporare.",
+                  "category": "museum",
+                  "coords": [
+                        12.659777,
+                        45.954499
+                  ]
+            },
+            {
+                  "name": "Museo Archelogico del Friuli Occidentale",
+                  "text": "Muzeul de arheologie este situat în castelul din Torre și păstrează descoperiri din regiunea Friuli de Vest.",
+                  "category": "castle",
+                  "coords": [
+                        12.682558,
+                        45.968313
+                  ]
+            },
+            {
+                  "name": "IS Science Center Immaginario Scientifico Pordenone",
+                  "text": "Un centru de științe interactiv din Pordenone care apropie vizitatorii de fenomenele fizice și naturale.",
+                  "category": "museum",
+                  "coords": [
+                        12.685182,
+                        45.967067
+                  ]
+            },
+            {
+                  "name": "Duomo Concattedrale di San Marco",
+                  "text": "Concatedrala San Marco, construită în stil romanic-gotic în secolul al XIII-lea, este cel mai important lăcaș de cult din Pordenone.",
+                  "category": "religious",
+                  "coords": [
+                        12.660932,
+                        45.954312
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Diocesano d'Arte Sacra",
+                  "text": "The Diocesan Museum of Pordenone exhibits sacred art and religious artifacts from the region.",
+                  "category": "museum",
+                  "coords": [
+                        12.669917,
+                        45.957328
+                  ]
+            },
+            {
+                  "name": "Museo Civico di Storia Naturale \"Silvia Zenari\"",
+                  "text": "A natural history museum in Pordenone dedicated to local geology, flora, and fauna.",
+                  "category": "museum",
+                  "coords": [
+                        12.661221,
+                        45.955356
+                  ]
+            },
+            {
+                  "name": "Villa Romana di Torre di Pordenone",
+                  "text": "The archaeological site displays the remains of a significant Roman villa in Pordenone.",
+                  "category": "historical",
+                  "coords": [
+                        12.681709,
+                        45.966817
+                  ]
+            },
+            {
+                  "name": "Archivio di Stato di Pordenone",
+                  "text": "The State Archive in Pordenone preserves valuable historical documents and records of the city.",
+                  "category": "museum",
+                  "coords": [
+                        12.654302,
+                        45.963597
+                  ]
+            },
+            {
+                  "name": "Palazzo del fumetto",
+                  "text": "A cultural center and museum in Pordenone dedicated to the world of comic books and illustrations.",
+                  "category": "museum",
+                  "coords": [
+                        12.666112,
+                        45.956952
+                  ]
+            },
+            {
+                  "name": "Galleria Harry Bertoia",
+                  "text": "This art gallery in Pordenone is dedicated to the designer Harry Bertoia and hosts temporary exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        12.659777,
+                        45.954499
+                  ]
+            },
+            {
+                  "name": "Museo Archelogico del Friuli Occidentale",
+                  "text": "The museum of archaeology is located inside the castle of Torre and preserves finds from the Western Friuli region.",
+                  "category": "castle",
+                  "coords": [
+                        12.682558,
+                        45.968313
+                  ]
+            },
+            {
+                  "name": "IS Science Center Immaginario Scientifico Pordenone",
+                  "text": "An interactive science center in Pordenone that introduces visitors to physical and natural phenomena through experiments.",
+                  "category": "museum",
+                  "coords": [
+                        12.685182,
+                        45.967067
+                  ]
+            },
+            {
+                  "name": "Duomo Concattedrale di San Marco",
+                  "text": "The 13th-century Romanesque-Gothic Co-cathedral of San Marco is the most important religious building in Pordenone.",
+                  "category": "religious",
+                  "coords": [
+                        12.660932,
+                        45.954312
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IT",
     name: { de: "Pordenone", hu: "Pordenone", ro: "Pordenone", en: "Pordenone" },
@@ -14935,7 +26572,808 @@ export const italyCitiesV2: POI[] = [
     image: "/poi-images/italy-torre-del-greco-cities-v2.webp",
   },
   {
-    id: "italy-busto-arsizio-cities-v2",
+    id: "italy-busto-arsizio-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo delle arti di palazzo Bandera",
+                  "text": "Das Museum für zeitgenössische Kunst ist in den Räumlichkeiten des historischen Palazzo Bandera untergebracht.",
+                  "category": "museum",
+                  "coords": [
+                        8.870183,
+                        45.61074
+                  ]
+            },
+            {
+                  "name": "Civiche raccolte d'arte di palazzo Marliani-Cicogna",
+                  "text": "Die städtische Kunstsammlung befindet sich im Palazzo Marliani-Cicogna, einem bedeutenden Renaissance-Palast.",
+                  "category": "museum",
+                  "coords": [
+                        8.851713,
+                        45.613569
+                  ]
+            },
+            {
+                  "name": "Cinema Teatro Lux",
+                  "text": "Dieses Kulturzentrum in Busto Arsizio dient sowohl als Kino als auch als Bühne für Theateraufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        8.841303,
+                        45.597947
+                  ]
+            },
+            {
+                  "name": "Agorà della Scherma",
+                  "text": "Dieses Fachmuseum ist der Geschichte und der sportlichen Tradition des Fechtens gewidmet.",
+                  "category": "museum",
+                  "coords": [
+                        8.846405,
+                        45.616032
+                  ]
+            },
+            {
+                  "name": "Museo storico del ciclismo bustese",
+                  "text": "Museum zur Geschichte des Radsports in Busto Arsizio.",
+                  "category": "museum",
+                  "coords": [
+                        8.846604,
+                        45.615097
+                  ]
+            },
+            {
+                  "name": "Pro Patria Museum",
+                  "text": "Museum des Sportvereins Pro Patria, das die Geschichte des lokalen Fußballs dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        8.88008,
+                        45.613803
+                  ]
+            },
+            {
+                  "name": "Teatro Sociale Delia Cajelli",
+                  "text": "Ein bedeutendes historisches Theater in Busto Arsizio, das nach der berühmten Opernsängerin benannt wurde.",
+                  "category": "cultural",
+                  "coords": [
+                        8.849874,
+                        45.607204
+                  ]
+            },
+            {
+                  "name": "Museo di Arte Sacra di San Michele Arcangelo",
+                  "text": "Museum für sakrale Kunst in der Nähe der Kirche San Michele Arcangelo mit wertvollen religiösen Werken.",
+                  "category": "museum",
+                  "coords": [
+                        8.845946,
+                        45.61237
+                  ]
+            },
+            {
+                  "name": "Cinema Teatro Fratello Sole",
+                  "text": "Ein lokales Theater und Kino in Busto Arsizio, das für kulturelle Unterhaltung sorgt.",
+                  "category": "cultural",
+                  "coords": [
+                        8.863427,
+                        45.610754
+                  ]
+            },
+            {
+                  "name": "Cinema Teatro Alessandro Manzoni",
+                  "text": "Ein traditionsreiches Theater und Kino im Stadtzentrum von Busto Arsizio.",
+                  "category": "cultural",
+                  "coords": [
+                        8.84483,
+                        45.615587
+                  ]
+            },
+            {
+                  "name": "Cinema Teatro San Giovanni Bosco",
+                  "text": "Ein lokales Theater in Busto Arsizio, das oft für Gemeindeveranstaltungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        8.85954,
+                        45.602354
+                  ]
+            },
+            {
+                  "name": "Ex Casa Azzimonti",
+                  "text": "Ein historisches Gebäude in Busto Arsizio, das die lokale Architektur vergangener Zeiten repräsentiert.",
+                  "category": "historical",
+                  "coords": [
+                        8.843522,
+                        45.599381
+                  ]
+            },
+            {
+                  "name": "Statua di Beata Giuliana Puricelli",
+                  "text": "Denkmal zu Ehren von Beata Giuliana Puricelli, einer lokalen religiösen Figur.",
+                  "category": "historical",
+                  "coords": [
+                        8.852498,
+                        45.611896
+                  ]
+            },
+            {
+                  "name": "Quadreria dell'ospedale di Busto Arsizio",
+                  "text": "Eine Gemäldegalerie im Krankenhaus von Busto Arsizio, die eine Sammlung von Porträts historischer Wohltäter zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        8.846685,
+                        45.621696
+                  ]
+            },
+            {
+                  "name": "Parco per la Vita",
+                  "text": "Eine gepflegte öffentliche Grünanlage in Busto Arsizio, die zur Erholung im Freien einlädt.",
+                  "category": "park",
+                  "coords": [
+                        8.845002,
+                        45.620517
+                  ]
+            },
+            {
+                  "name": "Parco Sempione",
+                  "text": "Ein öffentlicher Park in Busto Arsizio, der Raum für Erholung im Freien bietet.",
+                  "category": "park",
+                  "coords": [
+                        8.844898,
+                        45.626857
+                  ]
+            },
+            {
+                  "name": "Parco degli Alpini",
+                  "text": "Lokaler Stadtpark in Busto Arsizio, benannt nach den Alpini-Truppen.",
+                  "category": "park",
+                  "coords": [
+                        8.858413,
+                        45.614895
+                  ]
+            },
+            {
+                  "name": "Parco Comerio",
+                  "text": "Eine städtische Grünfläche in Busto Arsizio, die sich für kurze Spaziergänge eignet.",
+                  "category": "park",
+                  "coords": [
+                        8.844484,
+                        45.609089
+                  ]
+            },
+            {
+                  "name": "Monumento equestre a Enrico dell'Acqua",
+                  "text": "Denkmal für den Textilindustriellen Enrico dell'Acqua auf der Piazza Volontari della Libertà.",
+                  "category": "historical",
+                  "coords": [
+                        8.864196,
+                        45.615629
+                  ]
+            },
+            {
+                  "name": "Parco Milani",
+                  "text": "Kleiner öffentlicher Park in Busto Arsizio für die lokale Bevölkerung.",
+                  "category": "park",
+                  "coords": [
+                        8.860739,
+                        45.611083
+                  ]
+            },
+            {
+                  "name": "Parco Norma Cossetto",
+                  "text": "Parkanlage in Busto Arsizio, gewidmet dem Gedenken an Norma Cossetto.",
+                  "category": "park",
+                  "coords": [
+                        8.854048,
+                        45.609138
+                  ]
+            },
+            {
+                  "name": "Parco Pastore",
+                  "text": "Städtischer Park in Busto Arsizio mit Gehwegen und Ruhezonen.",
+                  "category": "park",
+                  "coords": [
+                        8.829482,
+                        45.625883
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo delle arti di palazzo Bandera",
+                  "text": "A kortárs művészeti múzeum a történelmi Palazzo Bandera helyiségeiben kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        8.870183,
+                        45.61074
+                  ]
+            },
+            {
+                  "name": "Civiche raccolte d'arte di palazzo Marliani-Cicogna",
+                  "text": "A városi művészeti gyűjtemény a Palazzo Marliani-Cicognában, egy jelentős reneszánsz palotában található.",
+                  "category": "museum",
+                  "coords": [
+                        8.851713,
+                        45.613569
+                  ]
+            },
+            {
+                  "name": "Cinema Teatro Lux",
+                  "text": "Ez a Busto Arsizio-i kulturális központ moziként és színházi előadások színpadaként is szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        8.841303,
+                        45.597947
+                  ]
+            },
+            {
+                  "name": "Agorà della Scherma",
+                  "text": "Ez a szakmúzeum a vívás történetének és sportolói hagyományainak van szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        8.846405,
+                        45.616032
+                  ]
+            },
+            {
+                  "name": "Museo storico del ciclismo bustese",
+                  "text": "Kerékpártörténeti múzeum Busto Arsizióban, amely a helyi sportmúltat mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        8.846604,
+                        45.615097
+                  ]
+            },
+            {
+                  "name": "Pro Patria Museum",
+                  "text": "A Pro Patria sportegyesület múzeuma, amely a helyi labdarúgás történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        8.88008,
+                        45.613803
+                  ]
+            },
+            {
+                  "name": "Teatro Sociale Delia Cajelli",
+                  "text": "Busto Arsizio patinás színháza, amely kulturális eseményeknek és előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        8.849874,
+                        45.607204
+                  ]
+            },
+            {
+                  "name": "Museo di Arte Sacra di San Michele Arcangelo",
+                  "text": "Egyházművészeti múzeum a Szent Mihály arkangyal templom mellett, értékes vallási alkotásokkal.",
+                  "category": "museum",
+                  "coords": [
+                        8.845946,
+                        45.61237
+                  ]
+            },
+            {
+                  "name": "Cinema Teatro Fratello Sole",
+                  "text": "Helyi színház és mozi Busto Arsizióban, amely kulturális kikapcsolódást kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        8.863427,
+                        45.610754
+                  ]
+            },
+            {
+                  "name": "Cinema Teatro Alessandro Manzoni",
+                  "text": "Patinás színház és mozi Busto Arsizio belvárosában, kulturális előadásokkal.",
+                  "category": "cultural",
+                  "coords": [
+                        8.84483,
+                        45.615587
+                  ]
+            },
+            {
+                  "name": "Cinema Teatro San Giovanni Bosco",
+                  "text": "Helyi színház Busto Arsizióban, amely gyakran ad otthont közösségi eseményeknek.",
+                  "category": "cultural",
+                  "coords": [
+                        8.85954,
+                        45.602354
+                  ]
+            },
+            {
+                  "name": "Ex Casa Azzimonti",
+                  "text": "Történelmi épület Busto Arsizióban, amely a múlt helyi építészetét képviseli.",
+                  "category": "historical",
+                  "coords": [
+                        8.843522,
+                        45.599381
+                  ]
+            },
+            {
+                  "name": "Statua di Beata Giuliana Puricelli",
+                  "text": "Boldog Giuliana Puricelli tiszteletére emelt szobor, aki a város egyik vallási alakja volt.",
+                  "category": "historical",
+                  "coords": [
+                        8.852498,
+                        45.611896
+                  ]
+            },
+            {
+                  "name": "Quadreria dell'ospedale di Busto Arsizio",
+                  "text": "A Busto Arsizió-i kórház képtára, amely a történelmi jótevők portréit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        8.846685,
+                        45.621696
+                  ]
+            },
+            {
+                  "name": "Parco per la Vita",
+                  "text": "Gondozott közpark Busto Arsizióban, amely kikapcsolódásra és pihenésre várja a látogatókat.",
+                  "category": "park",
+                  "coords": [
+                        8.845002,
+                        45.620517
+                  ]
+            },
+            {
+                  "name": "Parco Sempione",
+                  "text": "Busto Arsizio egyik nyilvános parkja, amely kikapcsolódási lehetőséget nyújt a szabadban.",
+                  "category": "park",
+                  "coords": [
+                        8.844898,
+                        45.626857
+                  ]
+            },
+            {
+                  "name": "Parco degli Alpini",
+                  "text": "Helyi városi park Busto Arsizióban, amelyet az alpesi honvédekről neveztek el.",
+                  "category": "park",
+                  "coords": [
+                        8.858413,
+                        45.614895
+                  ]
+            },
+            {
+                  "name": "Parco Comerio",
+                  "text": "Városi zöldterület Busto Arsizióban, amely alkalmas rövid sétákra.",
+                  "category": "park",
+                  "coords": [
+                        8.844484,
+                        45.609089
+                  ]
+            },
+            {
+                  "name": "Monumento equestre a Enrico dell'Acqua",
+                  "text": "Enrico dell'Acqua textiliparos lovasszobra a Piazza Volontari della Libertà téren.",
+                  "category": "historical",
+                  "coords": [
+                        8.864196,
+                        45.615629
+                  ]
+            },
+            {
+                  "name": "Parco Milani",
+                  "text": "Kisebb nyilvános park Busto Arsizióban a helyi lakosok számára.",
+                  "category": "park",
+                  "coords": [
+                        8.860739,
+                        45.611083
+                  ]
+            },
+            {
+                  "name": "Parco Norma Cossetto",
+                  "text": "Busto Arsizio egyik parkja, amelyet Norma Cossetto emlékének szenteltek.",
+                  "category": "park",
+                  "coords": [
+                        8.854048,
+                        45.609138
+                  ]
+            },
+            {
+                  "name": "Parco Pastore",
+                  "text": "Városi park Busto Arsizióban sétautakkal és pihenőhelyekkel.",
+                  "category": "park",
+                  "coords": [
+                        8.829482,
+                        45.625883
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo delle arti di palazzo Bandera",
+                  "text": "Muzeul de artă contemporană este găzduit în spațiile istoricului Palazzo Bandera.",
+                  "category": "museum",
+                  "coords": [
+                        8.870183,
+                        45.61074
+                  ]
+            },
+            {
+                  "name": "Civiche raccolte d'arte di palazzo Marliani-Cicogna",
+                  "text": "Colecția civică de artă este situată în Palazzo Marliani-Cicogna, un important palat renascentist.",
+                  "category": "museum",
+                  "coords": [
+                        8.851713,
+                        45.613569
+                  ]
+            },
+            {
+                  "name": "Cinema Teatro Lux",
+                  "text": "Acest centru cultural din Busto Arsizio servește atât ca cinematograf, cât și ca scenă pentru spectacole de teatru.",
+                  "category": "cultural",
+                  "coords": [
+                        8.841303,
+                        45.597947
+                  ]
+            },
+            {
+                  "name": "Agorà della Scherma",
+                  "text": "Acest muzeu specializat este dedicat istoriei și tradiției sportive a scrimei.",
+                  "category": "museum",
+                  "coords": [
+                        8.846405,
+                        45.616032
+                  ]
+            },
+            {
+                  "name": "Museo storico del ciclismo bustese",
+                  "text": "Muzeu dedicat istoriei ciclismului din Busto Arsizio.",
+                  "category": "museum",
+                  "coords": [
+                        8.846604,
+                        45.615097
+                  ]
+            },
+            {
+                  "name": "Pro Patria Museum",
+                  "text": "Muzeul clubului sportiv Pro Patria, documentând istoria fotbalului local.",
+                  "category": "museum",
+                  "coords": [
+                        8.88008,
+                        45.613803
+                  ]
+            },
+            {
+                  "name": "Teatro Sociale Delia Cajelli",
+                  "text": "Un teatru istoric important din Busto Arsizio, găzduind diverse evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        8.849874,
+                        45.607204
+                  ]
+            },
+            {
+                  "name": "Museo di Arte Sacra di San Michele Arcangelo",
+                  "text": "Muzeu de artă sacră de lângă biserica San Michele Arcangelo, expunând lucrări religioase valoroase.",
+                  "category": "museum",
+                  "coords": [
+                        8.845946,
+                        45.61237
+                  ]
+            },
+            {
+                  "name": "Cinema Teatro Fratello Sole",
+                  "text": "Un teatru și cinema local din Busto Arsizio, oferind divertisment cultural.",
+                  "category": "cultural",
+                  "coords": [
+                        8.863427,
+                        45.610754
+                  ]
+            },
+            {
+                  "name": "Cinema Teatro Alessandro Manzoni",
+                  "text": "Un teatru și cinema tradițional situat în centrul orașului Busto Arsizio.",
+                  "category": "cultural",
+                  "coords": [
+                        8.84483,
+                        45.615587
+                  ]
+            },
+            {
+                  "name": "Cinema Teatro San Giovanni Bosco",
+                  "text": "Un teatru local din Busto Arsizio, utilizat frecvent pentru evenimente comunitare.",
+                  "category": "cultural",
+                  "coords": [
+                        8.85954,
+                        45.602354
+                  ]
+            },
+            {
+                  "name": "Ex Casa Azzimonti",
+                  "text": "O clădire istorică din Busto Arsizio, reprezentând arhitectura locală de altădată.",
+                  "category": "historical",
+                  "coords": [
+                        8.843522,
+                        45.599381
+                  ]
+            },
+            {
+                  "name": "Statua di Beata Giuliana Puricelli",
+                  "text": "Monument în onoarea Fericitei Giuliana Puricelli, o figură religioasă locală.",
+                  "category": "historical",
+                  "coords": [
+                        8.852498,
+                        45.611896
+                  ]
+            },
+            {
+                  "name": "Quadreria dell'ospedale di Busto Arsizio",
+                  "text": "O galerie de artă în spitalul din Busto Arsizio, expunând portrete ale binefăcătorilor istorici.",
+                  "category": "museum",
+                  "coords": [
+                        8.846685,
+                        45.621696
+                  ]
+            },
+            {
+                  "name": "Parco per la Vita",
+                  "text": "Un spațiu verde public îngrijit din Busto Arsizio, ideal pentru recreere în aer liber.",
+                  "category": "park",
+                  "coords": [
+                        8.845002,
+                        45.620517
+                  ]
+            },
+            {
+                  "name": "Parco Sempione",
+                  "text": "Un parc public din Busto Arsizio, oferind spațiu pentru recreere în aer liber.",
+                  "category": "park",
+                  "coords": [
+                        8.844898,
+                        45.626857
+                  ]
+            },
+            {
+                  "name": "Parco degli Alpini",
+                  "text": "Parc urban local din Busto Arsizio, numit după trupele Alpini.",
+                  "category": "park",
+                  "coords": [
+                        8.858413,
+                        45.614895
+                  ]
+            },
+            {
+                  "name": "Parco Comerio",
+                  "text": "O zonă verde urbană din Busto Arsizio, potrivită pentru plimbări scurte.",
+                  "category": "park",
+                  "coords": [
+                        8.844484,
+                        45.609089
+                  ]
+            },
+            {
+                  "name": "Monumento equestre a Enrico dell'Acqua",
+                  "text": "Monument ecvestru dedicat industriașului textil Enrico dell'Acqua, situat în Piazza Volontari della Libertà.",
+                  "category": "historical",
+                  "coords": [
+                        8.864196,
+                        45.615629
+                  ]
+            },
+            {
+                  "name": "Parco Milani",
+                  "text": "Mic parc public în Busto Arsizio destinat locuitorilor zonei.",
+                  "category": "park",
+                  "coords": [
+                        8.860739,
+                        45.611083
+                  ]
+            },
+            {
+                  "name": "Parco Norma Cossetto",
+                  "text": "Zonă de parc în Busto Arsizio, dedicată memoriei Normei Cossetto.",
+                  "category": "park",
+                  "coords": [
+                        8.854048,
+                        45.609138
+                  ]
+            },
+            {
+                  "name": "Parco Pastore",
+                  "text": "Parc municipal în Busto Arsizio cu alei și zone de odihnă.",
+                  "category": "park",
+                  "coords": [
+                        8.829482,
+                        45.625883
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo delle arti di palazzo Bandera",
+                  "text": "The contemporary art museum is housed within the premises of the historic Palazzo Bandera.",
+                  "category": "museum",
+                  "coords": [
+                        8.870183,
+                        45.61074
+                  ]
+            },
+            {
+                  "name": "Civiche raccolte d'arte di palazzo Marliani-Cicogna",
+                  "text": "The civic art collection is located in Palazzo Marliani-Cicogna, an important Renaissance palace.",
+                  "category": "museum",
+                  "coords": [
+                        8.851713,
+                        45.613569
+                  ]
+            },
+            {
+                  "name": "Cinema Teatro Lux",
+                  "text": "This cultural center in Busto Arsizio serves as both a cinema and a stage for theater performances.",
+                  "category": "cultural",
+                  "coords": [
+                        8.841303,
+                        45.597947
+                  ]
+            },
+            {
+                  "name": "Agorà della Scherma",
+                  "text": "This specialized museum is dedicated to the history and sporting tradition of fencing.",
+                  "category": "museum",
+                  "coords": [
+                        8.846405,
+                        45.616032
+                  ]
+            },
+            {
+                  "name": "Museo storico del ciclismo bustese",
+                  "text": "Museum dedicated to the history of cycling in Busto Arsizio.",
+                  "category": "museum",
+                  "coords": [
+                        8.846604,
+                        45.615097
+                  ]
+            },
+            {
+                  "name": "Pro Patria Museum",
+                  "text": "Museum of the Pro Patria sports club, documenting the history of local football.",
+                  "category": "museum",
+                  "coords": [
+                        8.88008,
+                        45.613803
+                  ]
+            },
+            {
+                  "name": "Teatro Sociale Delia Cajelli",
+                  "text": "A significant historical theatre in Busto Arsizio hosting various cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        8.849874,
+                        45.607204
+                  ]
+            },
+            {
+                  "name": "Museo di Arte Sacra di San Michele Arcangelo",
+                  "text": "Museum of sacred art near the San Michele Arcangelo church, exhibiting valuable religious works.",
+                  "category": "museum",
+                  "coords": [
+                        8.845946,
+                        45.61237
+                  ]
+            },
+            {
+                  "name": "Cinema Teatro Fratello Sole",
+                  "text": "A local theatre and cinema in Busto Arsizio providing cultural entertainment.",
+                  "category": "cultural",
+                  "coords": [
+                        8.863427,
+                        45.610754
+                  ]
+            },
+            {
+                  "name": "Cinema Teatro Alessandro Manzoni",
+                  "text": "A traditional theatre and cinema located in the city center of Busto Arsizio.",
+                  "category": "cultural",
+                  "coords": [
+                        8.84483,
+                        45.615587
+                  ]
+            },
+            {
+                  "name": "Cinema Teatro San Giovanni Bosco",
+                  "text": "A local theatre in Busto Arsizio often used for community events.",
+                  "category": "cultural",
+                  "coords": [
+                        8.85954,
+                        45.602354
+                  ]
+            },
+            {
+                  "name": "Ex Casa Azzimonti",
+                  "text": "A historical building in Busto Arsizio representing local architecture of the past.",
+                  "category": "historical",
+                  "coords": [
+                        8.843522,
+                        45.599381
+                  ]
+            },
+            {
+                  "name": "Statua di Beata Giuliana Puricelli",
+                  "text": "Monument in honor of Blessed Giuliana Puricelli, a local religious figure.",
+                  "category": "historical",
+                  "coords": [
+                        8.852498,
+                        45.611896
+                  ]
+            },
+            {
+                  "name": "Quadreria dell'ospedale di Busto Arsizio",
+                  "text": "An art gallery within the Busto Arsizio hospital, displaying portraits of historical benefactors.",
+                  "category": "museum",
+                  "coords": [
+                        8.846685,
+                        45.621696
+                  ]
+            },
+            {
+                  "name": "Parco per la Vita",
+                  "text": "A well-maintained public green space in Busto Arsizio, ideal for outdoor recreation.",
+                  "category": "park",
+                  "coords": [
+                        8.845002,
+                        45.620517
+                  ]
+            },
+            {
+                  "name": "Parco Sempione",
+                  "text": "A public park in Busto Arsizio, providing space for outdoor recreation.",
+                  "category": "park",
+                  "coords": [
+                        8.844898,
+                        45.626857
+                  ]
+            },
+            {
+                  "name": "Parco degli Alpini",
+                  "text": "Local city park in Busto Arsizio, named after the Alpini troops.",
+                  "category": "park",
+                  "coords": [
+                        8.858413,
+                        45.614895
+                  ]
+            },
+            {
+                  "name": "Parco Comerio",
+                  "text": "An urban green area in Busto Arsizio, suitable for short walks.",
+                  "category": "park",
+                  "coords": [
+                        8.844484,
+                        45.609089
+                  ]
+            },
+            {
+                  "name": "Monumento equestre a Enrico dell'Acqua",
+                  "text": "Equestrian monument dedicated to the textile industrialist Enrico dell'Acqua on Piazza Volontari della Libertà.",
+                  "category": "historical",
+                  "coords": [
+                        8.864196,
+                        45.615629
+                  ]
+            },
+            {
+                  "name": "Parco Milani",
+                  "text": "Small public park in Busto Arsizio for the local community.",
+                  "category": "park",
+                  "coords": [
+                        8.860739,
+                        45.611083
+                  ]
+            },
+            {
+                  "name": "Parco Norma Cossetto",
+                  "text": "Park area in Busto Arsizio, dedicated to the memory of Norma Cossetto.",
+                  "category": "park",
+                  "coords": [
+                        8.854048,
+                        45.609138
+                  ]
+            },
+            {
+                  "name": "Parco Pastore",
+                  "text": "Municipal park in Busto Arsizio with walking paths and rest areas.",
+                  "category": "park",
+                  "coords": [
+                        8.829482,
+                        45.625883
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IT",
     name: { de: "Busto Arsizio", hu: "Busto Arsizio", ro: "Busto Arsizio", en: "Busto Arsizio" },
@@ -15466,7 +27904,196 @@ export const italyCitiesV2: POI[] = [
     image: "/poi-images/italy-imola-cities-v2.webp",
   },
   {
-    id: "italy-lamezia-terme-cities-v2",
+    id: "italy-lamezia-terme-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Archeologico Lametino",
+                  "text": "Das Museum in Lamezia Terme zeigt archäologische Funde aus der antiken griechischen Stadt Terina.",
+                  "category": "museum",
+                  "coords": [
+                        16.319036,
+                        38.9746
+                  ]
+            },
+            {
+                  "name": "Teatro Grandinetti",
+                  "text": "Ein historisches Theater in Lamezia Terme, das Anfang des 20. Jahrhunderts eröffnet wurde und ein kulturelles Zentrum bildet.",
+                  "category": "cultural",
+                  "coords": [
+                        16.318154,
+                        38.973025
+                  ]
+            },
+            {
+                  "name": "Castello Normanno",
+                  "text": "Die Ruinen dieser normannisch-staufischen Burg aus dem 11. Jahrhundert thronen auf einem Hügel über dem Stadtteil Nicastro.",
+                  "category": "castle",
+                  "coords": [
+                        16.323882,
+                        38.981645
+                  ]
+            },
+            {
+                  "name": "Museo Diocesano",
+                  "text": "Das Diözesanmuseum bewahrt sakrale Kunstwerke und wertvolle liturgische Gegenstände aus der Diözese Lamezia Terme auf.",
+                  "category": "museum",
+                  "coords": [
+                        16.320722,
+                        38.976752
+                  ]
+            },
+            {
+                  "name": "Ecomuseo \"Luogo della Memoria\"",
+                  "text": "Dieses Ecomuseum widmet sich der Erhaltung der lokalen Bräuche und der Erinnerung an die Geschichte von Lamezia Terme.",
+                  "category": "museum",
+                  "coords": [
+                        16.282549,
+                        38.96995
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Archeologico Lametino",
+                  "text": "A Lamezia Terme-i múzeum az ókori görög város, Terina területéről származó régészeti leleteket mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        16.319036,
+                        38.9746
+                  ]
+            },
+            {
+                  "name": "Teatro Grandinetti",
+                  "text": "Lamezia Terme történelmi színháza, amely a 20. század elején nyílt meg, és a város kulturális életének központja.",
+                  "category": "cultural",
+                  "coords": [
+                        16.318154,
+                        38.973025
+                  ]
+            },
+            {
+                  "name": "Castello Normanno",
+                  "text": "A 11. századi normann-sváb várkastély romjai a Nicastro negyed feletti dombon magasodnak.",
+                  "category": "castle",
+                  "coords": [
+                        16.323882,
+                        38.981645
+                  ]
+            },
+            {
+                  "name": "Museo Diocesano",
+                  "text": "Az egyházmegyei múzeum a Lamezia Terme-i egyházmegye szakrális műalkotásait és értékes liturgikus tárgyait őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        16.320722,
+                        38.976752
+                  ]
+            },
+            {
+                  "name": "Ecomuseo \"Luogo della Memoria\"",
+                  "text": "Ez az ökomúzeum a helyi népszokások és Lamezia Terme történelmi emlékezetének megőrzésével foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        16.282549,
+                        38.96995
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Archeologico Lametino",
+                  "text": "Muzeul din Lamezia Terme expune descoperiri arheologice din orașul antic grec Terina.",
+                  "category": "museum",
+                  "coords": [
+                        16.319036,
+                        38.9746
+                  ]
+            },
+            {
+                  "name": "Teatro Grandinetti",
+                  "text": "Un teatru istoric din Lamezia Terme, deschis la începutul secolului al XX-lea, reprezentând un centru cultural local.",
+                  "category": "cultural",
+                  "coords": [
+                        16.318154,
+                        38.973025
+                  ]
+            },
+            {
+                  "name": "Castello Normanno",
+                  "text": "Ruinele acestui castel normand-șvab din secolul al XI-lea tronează pe un deal deasupra cartierului Nicastro.",
+                  "category": "castle",
+                  "coords": [
+                        16.323882,
+                        38.981645
+                  ]
+            },
+            {
+                  "name": "Museo Diocesano",
+                  "text": "Muzeul diecezan păstrează opere de artă sacră și obiecte liturgice valoroase din dieceza de Lamezia Terme.",
+                  "category": "museum",
+                  "coords": [
+                        16.320722,
+                        38.976752
+                  ]
+            },
+            {
+                  "name": "Ecomuseo \"Luogo della Memoria\"",
+                  "text": "Acest ecomuzeu este dedicat conservării obiceiurilor locale și memoriei istorice a orașului Lamezia Terme.",
+                  "category": "museum",
+                  "coords": [
+                        16.282549,
+                        38.96995
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Archeologico Lametino",
+                  "text": "The museum in Lamezia Terme displays archaeological finds from the ancient Greek city of Terina.",
+                  "category": "museum",
+                  "coords": [
+                        16.319036,
+                        38.9746
+                  ]
+            },
+            {
+                  "name": "Teatro Grandinetti",
+                  "text": "A historical theatre in Lamezia Terme, opened at the beginning of the 20th century as a cultural hub.",
+                  "category": "cultural",
+                  "coords": [
+                        16.318154,
+                        38.973025
+                  ]
+            },
+            {
+                  "name": "Castello Normanno",
+                  "text": "The ruins of this 11th-century Norman-Swabian castle stand on a hill overlooking the Nicastro district.",
+                  "category": "castle",
+                  "coords": [
+                        16.323882,
+                        38.981645
+                  ]
+            },
+            {
+                  "name": "Museo Diocesano",
+                  "text": "The diocesan museum preserves sacred artworks and valuable liturgical objects from the Diocese of Lamezia Terme.",
+                  "category": "museum",
+                  "coords": [
+                        16.320722,
+                        38.976752
+                  ]
+            },
+            {
+                  "name": "Ecomuseo \"Luogo della Memoria\"",
+                  "text": "This ecomuseum is dedicated to preserving local customs and the historical memory of Lamezia Terme.",
+                  "category": "museum",
+                  "coords": [
+                        16.282549,
+                        38.96995
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IT",
     name: { de: "Lamezia Terme", hu: "Lamezia Terme", ro: "Lamezia Terme", en: "Lamezia Terme" },
@@ -16033,7 +28660,412 @@ export const italyCitiesV2: POI[] = [
     image: "/poi-images/italy-trapani-cities-v2.webp",
   },
   {
-    id: "italy-ragusa-cities-v2",
+    id: "italy-ragusa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Civico Italia in Africa",
+                  "text": "Museum in Ragusa, das Exponate zur italienischen Kolonialgeschichte in Afrika zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        14.730892,
+                        36.925119
+                  ]
+            },
+            {
+                  "name": "Museo Archeologico Ibleo",
+                  "text": "Archäologisches Museum in Ragusa mit Funden aus der Hybläischen Region von der Vorgeschichte bis zur Antike.",
+                  "category": "museum",
+                  "coords": [
+                        14.727016,
+                        36.923931
+                  ]
+            },
+            {
+                  "name": "Museo del Duomo",
+                  "text": "Museum in Ragusa, das sakrale Kunst und Gegenstände aus dem Dom San Giorgio bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        14.742211,
+                        36.92632
+                  ]
+            },
+            {
+                  "name": "Museo della Cattedrale",
+                  "text": "Museum der Cattedrale di San Giovanni Battista in Ragusa mit religiösen Schätzen.",
+                  "category": "museum",
+                  "coords": [
+                        14.728355,
+                        36.92575
+                  ]
+            },
+            {
+                  "name": "Museo Benedettino",
+                  "text": "Ein Museum in Ragusa Ibla, das in den Räumlichkeiten eines ehemaligen Benediktinerklosters untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        14.744896,
+                        36.925586
+                  ]
+            },
+            {
+                  "name": "Chiesa rupestre di Santu Liu",
+                  "text": "Eine byzantinische Felsenkirche in Ragusa, die direkt in den Kalksteinfelsen gehauen wurde und antike Strukturen bewahrt.",
+                  "category": "historical",
+                  "coords": [
+                        14.704249,
+                        36.943476
+                  ]
+            },
+            {
+                  "name": "Necropoli sicula",
+                  "text": "Eine antike sikelische Nekropole in Ragusa mit Grabanlagen, die bis in die Bronzezeit zurückreichen.",
+                  "category": "historical",
+                  "coords": [
+                        14.717175,
+                        36.913756
+                  ]
+            },
+            {
+                  "name": "Scavi archeologici Ibla",
+                  "text": "Archäologische Ausgrabungsstätte in Ragusa Ibla, welche die antiken Fundamente der Stadt Hybla Heraea offenlegt.",
+                  "category": "historical",
+                  "coords": [
+                        14.747611,
+                        36.926535
+                  ]
+            },
+            {
+                  "name": "Necropoli del Carmine",
+                  "text": "Ein archäologisches Areal in Ragusa mit antiken Felsengräbern, die Teil der weitläufigen Nekropolen der Region sind.",
+                  "category": "historical",
+                  "coords": [
+                        14.733,
+                        36.923216
+                  ]
+            },
+            {
+                  "name": "Cava Gonfalone",
+                  "text": "Ein beeindruckendes System aus unterirdischen Steinbrüchen in Ragusa, das heute als historisches Industriedenkmal besichtigt werden kann.",
+                  "category": "natural",
+                  "coords": [
+                        14.731707,
+                        36.919964
+                  ]
+            },
+            {
+                  "name": "Villa Margherita",
+                  "text": "Ein weitläufiger Stadtpark in Ragusa mit schattigen Alleen und Panoramablicken auf die umliegende Landschaft.",
+                  "category": "park",
+                  "coords": [
+                        14.723493,
+                        36.924067
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Civico Italia in Africa",
+                  "text": "Ragusai múzeum, amely az olasz afrikai gyarmati jelenléthez kapcsolódó tárgyakat mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        14.730892,
+                        36.925119
+                  ]
+            },
+            {
+                  "name": "Museo Archeologico Ibleo",
+                  "text": "Ragusai régészeti múzeum, amely a környék leleteit mutatja be az őskortól az ókorig.",
+                  "category": "museum",
+                  "coords": [
+                        14.727016,
+                        36.923931
+                  ]
+            },
+            {
+                  "name": "Museo del Duomo",
+                  "text": "Ragusai múzeum, amely a San Giorgio-dóm vallási műtárgyait és kincseit őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        14.742211,
+                        36.92632
+                  ]
+            },
+            {
+                  "name": "Museo della Cattedrale",
+                  "text": "A ragusai San Giovanni Battista-székesegyház múzeuma vallási kincsekkel.",
+                  "category": "museum",
+                  "coords": [
+                        14.728355,
+                        36.92575
+                  ]
+            },
+            {
+                  "name": "Museo Benedettino",
+                  "text": "A ragusai Iblában található múzeum, amely egy egykori bencés kolostor épületében kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        14.744896,
+                        36.925586
+                  ]
+            },
+            {
+                  "name": "Chiesa rupestre di Santu Liu",
+                  "text": "Ragusai bizánci sziklatemplom, amelyet közvetlenül a mészkőbe vájtak, megőrizve az ókori struktúrákat.",
+                  "category": "historical",
+                  "coords": [
+                        14.704249,
+                        36.943476
+                  ]
+            },
+            {
+                  "name": "Necropoli sicula",
+                  "text": "Őskori szicíliai nekropolisz Ragusában, amelynek sírkamrái egészen a bronzkorig nyúlnak vissza.",
+                  "category": "historical",
+                  "coords": [
+                        14.717175,
+                        36.913756
+                  ]
+            },
+            {
+                  "name": "Scavi archeologici Ibla",
+                  "text": "Régészeti ásatási terület Ragusa Iblában, amely az ókori Hybla Heraea városának alapjait tárja fel.",
+                  "category": "historical",
+                  "coords": [
+                        14.747611,
+                        36.926535
+                  ]
+            },
+            {
+                  "name": "Necropoli del Carmine",
+                  "text": "Régészeti terület Ragusában ókori sziklasírokkal, amelyek a régió kiterjedt nekropoliszainak részét képezik.",
+                  "category": "historical",
+                  "coords": [
+                        14.733,
+                        36.923216
+                  ]
+            },
+            {
+                  "name": "Cava Gonfalone",
+                  "text": "Lenyűgöző föld alatti kőfejtő rendszer Ragusában, amely ma történelmi ipari műemlékként látogatható.",
+                  "category": "natural",
+                  "coords": [
+                        14.731707,
+                        36.919964
+                  ]
+            },
+            {
+                  "name": "Villa Margherita",
+                  "text": "Kiterjedt városi park Ragusában árnyas sétányokkal és panorámás kilátással a környező tájra.",
+                  "category": "park",
+                  "coords": [
+                        14.723493,
+                        36.924067
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Civico Italia in Africa",
+                  "text": "Muzeu din Ragusa care prezintă exponate legate de istoria colonială italiană în Africa.",
+                  "category": "museum",
+                  "coords": [
+                        14.730892,
+                        36.925119
+                  ]
+            },
+            {
+                  "name": "Museo Archeologico Ibleo",
+                  "text": "Muzeu arheologic din Ragusa cu descoperiri din regiunea Iblei, din preistorie până în antichitate.",
+                  "category": "museum",
+                  "coords": [
+                        14.727016,
+                        36.923931
+                  ]
+            },
+            {
+                  "name": "Museo del Duomo",
+                  "text": "Muzeu din Ragusa care păstrează artă sacră și obiecte provenite de la Domul San Giorgio.",
+                  "category": "museum",
+                  "coords": [
+                        14.742211,
+                        36.92632
+                  ]
+            },
+            {
+                  "name": "Museo della Cattedrale",
+                  "text": "Muzeul Catedralei San Giovanni Battista din Ragusa, adăpostind comori religioase.",
+                  "category": "museum",
+                  "coords": [
+                        14.728355,
+                        36.92575
+                  ]
+            },
+            {
+                  "name": "Museo Benedettino",
+                  "text": "Un muzeu situat în Ragusa Ibla, găzduit în clădirea unei foste mănăstiri benedictine.",
+                  "category": "museum",
+                  "coords": [
+                        14.744896,
+                        36.925586
+                  ]
+            },
+            {
+                  "name": "Chiesa rupestre di Santu Liu",
+                  "text": "O biserică rupestră bizantină din Ragusa, săpată direct în stânca de calcar, ce păstrează structuri antice.",
+                  "category": "historical",
+                  "coords": [
+                        14.704249,
+                        36.943476
+                  ]
+            },
+            {
+                  "name": "Necropoli sicula",
+                  "text": "O necropolă antică siculă din Ragusa, cu morminte ce datează încă din epoca bronzului.",
+                  "category": "historical",
+                  "coords": [
+                        14.717175,
+                        36.913756
+                  ]
+            },
+            {
+                  "name": "Scavi archeologici Ibla",
+                  "text": "Situl arheologic din Ragusa Ibla ce scoate la iveală fundațiile antice ale orașului Hybla Heraea.",
+                  "category": "historical",
+                  "coords": [
+                        14.747611,
+                        36.926535
+                  ]
+            },
+            {
+                  "name": "Necropoli del Carmine",
+                  "text": "Un sit arheologic din Ragusa cu morminte rupestre antice, făcând parte din vastele necropole ale regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        14.733,
+                        36.923216
+                  ]
+            },
+            {
+                  "name": "Cava Gonfalone",
+                  "text": "Un sistem impresionant de cariere subterane din Ragusa, ce poate fi vizitat astăzi ca monument industrial istoric.",
+                  "category": "natural",
+                  "coords": [
+                        14.731707,
+                        36.919964
+                  ]
+            },
+            {
+                  "name": "Villa Margherita",
+                  "text": "Un parc public vast din Ragusa, cu alei umbroase și vederi panoramice asupra peisajului înconjurător.",
+                  "category": "park",
+                  "coords": [
+                        14.723493,
+                        36.924067
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Civico Italia in Africa",
+                  "text": "Museum in Ragusa displaying exhibits related to Italian colonial history in Africa.",
+                  "category": "museum",
+                  "coords": [
+                        14.730892,
+                        36.925119
+                  ]
+            },
+            {
+                  "name": "Museo Archeologico Ibleo",
+                  "text": "Archaeological museum in Ragusa featuring finds from the Hyblaean region from prehistory to antiquity.",
+                  "category": "museum",
+                  "coords": [
+                        14.727016,
+                        36.923931
+                  ]
+            },
+            {
+                  "name": "Museo del Duomo",
+                  "text": "Museum in Ragusa preserving sacred art and objects from the Duomo of San Giorgio.",
+                  "category": "museum",
+                  "coords": [
+                        14.742211,
+                        36.92632
+                  ]
+            },
+            {
+                  "name": "Museo della Cattedrale",
+                  "text": "Museum of the Cathedral of San Giovanni Battista in Ragusa, housing religious treasures.",
+                  "category": "museum",
+                  "coords": [
+                        14.728355,
+                        36.92575
+                  ]
+            },
+            {
+                  "name": "Museo Benedettino",
+                  "text": "A museum in Ragusa Ibla located within the premises of a former Benedictine monastery.",
+                  "category": "museum",
+                  "coords": [
+                        14.744896,
+                        36.925586
+                  ]
+            },
+            {
+                  "name": "Chiesa rupestre di Santu Liu",
+                  "text": "A Byzantine rock church in Ragusa carved directly into the limestone cliff, preserving ancient structures.",
+                  "category": "historical",
+                  "coords": [
+                        14.704249,
+                        36.943476
+                  ]
+            },
+            {
+                  "name": "Necropoli sicula",
+                  "text": "An ancient Siculian necropolis in Ragusa featuring tomb structures dating back to the Bronze Age.",
+                  "category": "historical",
+                  "coords": [
+                        14.717175,
+                        36.913756
+                  ]
+            },
+            {
+                  "name": "Scavi archeologici Ibla",
+                  "text": "Archaeological excavation site in Ragusa Ibla uncovering the ancient foundations of the city Hybla Heraea.",
+                  "category": "historical",
+                  "coords": [
+                        14.747611,
+                        36.926535
+                  ]
+            },
+            {
+                  "name": "Necropoli del Carmine",
+                  "text": "An archaeological area in Ragusa featuring ancient rock-cut tombs, part of the region's extensive necropolises.",
+                  "category": "historical",
+                  "coords": [
+                        14.733,
+                        36.923216
+                  ]
+            },
+            {
+                  "name": "Cava Gonfalone",
+                  "text": "An impressive system of underground quarries in Ragusa, now open to visitors as a historical industrial monument.",
+                  "category": "natural",
+                  "coords": [
+                        14.731707,
+                        36.919964
+                  ]
+            },
+            {
+                  "name": "Villa Margherita",
+                  "text": "A spacious public park in Ragusa featuring shaded avenues and panoramic views of the surrounding landscape.",
+                  "category": "park",
+                  "coords": [
+                        14.723493,
+                        36.924067
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IT",
     name: { de: "Ragusa", hu: "Ragusa", ro: "Ragusa", en: "Ragusa" },
@@ -16384,7 +29416,556 @@ export const italyCitiesV2: POI[] = [
     image: "/poi-images/italy-caltanissetta-cities-v2.webp",
   },
   {
-    id: "italy-sanremo-cities-v2",
+    id: "italy-sanremo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Civico di Sanremo",
+                  "text": "Das Stadtmuseum von Sanremo präsentiert archäologische Funde und Kunstwerke der Region.",
+                  "category": "museum",
+                  "coords": [
+                        7.775829,
+                        43.81776
+                  ]
+            },
+            {
+                  "name": "Villa Nobel",
+                  "text": "Das ehemalige Wohnhaus von Alfred Nobel in Sanremo, das heute als Museum dient.",
+                  "category": "museum",
+                  "coords": [
+                        7.792756,
+                        43.821264
+                  ]
+            },
+            {
+                  "name": "Villa romana della Foce",
+                  "text": "Die Überreste einer antiken römischen Villa direkt an der Küste von Sanremo.",
+                  "category": "historical",
+                  "coords": [
+                        7.759397,
+                        43.808203
+                  ]
+            },
+            {
+                  "name": "Raccolte di Fisica del Liceo G.D. Cassini",
+                  "text": "Eine Sammlung historischer wissenschaftlicher Instrumente im Liceo Cassini in Sanremo.",
+                  "category": "museum",
+                  "coords": [
+                        7.785984,
+                        43.822647
+                  ]
+            },
+            {
+                  "name": "Museo della Musica",
+                  "text": "Ein Museum in Sanremo, das der Geschichte und Vielfalt der Musik gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        7.771898,
+                        43.814005
+                  ]
+            },
+            {
+                  "name": "Museo della Canzone Italiana",
+                  "text": "Dieses Museum in Sanremo dokumentiert die Entwicklung des italienischen Liedguts.",
+                  "category": "museum",
+                  "coords": [
+                        7.776841,
+                        43.817251
+                  ]
+            },
+            {
+                  "name": "Palazzo Gentile Spinola",
+                  "text": "Ein historischer Adelspalast in Sanremo mit einer charakteristischen Fassade.",
+                  "category": "castle",
+                  "coords": [
+                        7.774892,
+                        43.818517
+                  ]
+            },
+            {
+                  "name": "Spiaggia la piccola caletta",
+                  "text": "Ein kleiner und malerischer Strandabschnitt in der Umgebung von Sanremo.",
+                  "category": "recreational",
+                  "coords": [
+                        7.798377,
+                        43.820225
+                  ]
+            },
+            {
+                  "name": "Ippocampo srl",
+                  "text": "Ein ausgestatteter Strandclub an der Küste von Sanremo, der touristische Dienstleistungen anbietet.",
+                  "category": "recreational",
+                  "coords": [
+                        7.761343,
+                        43.808517
+                  ]
+            },
+            {
+                  "name": "Bagni Paradiso",
+                  "text": "Ein Küstenabschnitt in Sanremo mit Stranddienstleistungen für Besucher.",
+                  "category": "recreational",
+                  "coords": [
+                        7.762922,
+                        43.8091
+                  ]
+            },
+            {
+                  "name": "Tre Ponti",
+                  "text": "Der größte öffentliche Strand in Sanremo, beliebt für Wassersport und Surfen.",
+                  "category": "recreational",
+                  "coords": [
+                        7.812744,
+                        43.822305
+                  ]
+            },
+            {
+                  "name": "Area archeologica Pian di Nave",
+                  "text": "Ausgrabungsstätte in Sanremo mit Funden aus der römischen und vorrömischen Zeit.",
+                  "category": "historical",
+                  "coords": [
+                        7.777549,
+                        43.814484
+                  ]
+            },
+            {
+                  "name": "Parco Marsaglia",
+                  "text": "Öffentliche Parkanlage in Sanremo mit exotischen Pflanzen und einem Sommertheater.",
+                  "category": "park",
+                  "coords": [
+                        7.767125,
+                        43.813152
+                  ]
+            },
+            {
+                  "name": "Cattedrale di San Siro",
+                  "text": "Romanische Co-Kathedrale aus dem 12. Jahrhundert im historischen Zentrum von Sanremo.",
+                  "category": "religious",
+                  "coords": [
+                        7.774121,
+                        43.816838
+                  ]
+            },
+            {
+                  "name": "Torre della Ciapella",
+                  "text": "Ein quadratischer Turm aus dem 16. Jahrhundert, der Teil der Verteidigungsanlage gegen Sarazenen war.",
+                  "category": "tower",
+                  "coords": [
+                        7.77329,
+                        43.818117
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Civico di Sanremo",
+                  "text": "Sanremo városi múzeuma régészeti leleteket és helyi művészeti alkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        7.775829,
+                        43.81776
+                  ]
+            },
+            {
+                  "name": "Villa Nobel",
+                  "text": "Alfred Nobel egykori lakóháza Sanremóban, amely ma múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        7.792756,
+                        43.821264
+                  ]
+            },
+            {
+                  "name": "Villa romana della Foce",
+                  "text": "Egy ókori római villa maradványai közvetlenül Sanremo tengerpartján.",
+                  "category": "historical",
+                  "coords": [
+                        7.759397,
+                        43.808203
+                  ]
+            },
+            {
+                  "name": "Raccolte di Fisica del Liceo G.D. Cassini",
+                  "text": "Történelmi tudományos műszerek gyűjteménye a sanremói Liceo Cassini épületében.",
+                  "category": "museum",
+                  "coords": [
+                        7.785984,
+                        43.822647
+                  ]
+            },
+            {
+                  "name": "Museo della Musica",
+                  "text": "A zene történetének és változatosságának szentelt múzeum Sanremóban.",
+                  "category": "museum",
+                  "coords": [
+                        7.771898,
+                        43.814005
+                  ]
+            },
+            {
+                  "name": "Museo della Canzone Italiana",
+                  "text": "Ez a sanremói múzeum az olasz dalkultúra fejlődését dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        7.776841,
+                        43.817251
+                  ]
+            },
+            {
+                  "name": "Palazzo Gentile Spinola",
+                  "text": "Történelmi nemesi palota Sanremóban, jellegzetes homlokzattal.",
+                  "category": "castle",
+                  "coords": [
+                        7.774892,
+                        43.818517
+                  ]
+            },
+            {
+                  "name": "Spiaggia la piccola caletta",
+                  "text": "Egy kicsi és festői tengerparti szakasz Sanremo környékén.",
+                  "category": "recreational",
+                  "coords": [
+                        7.798377,
+                        43.820225
+                  ]
+            },
+            {
+                  "name": "Ippocampo srl",
+                  "text": "Kiépített strandklub Sanremo tengerpartján, amely turisztikai szolgáltatásokat kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        7.761343,
+                        43.808517
+                  ]
+            },
+            {
+                  "name": "Bagni Paradiso",
+                  "text": "Tengerparti szakasz Sanremóban, amely strandolási lehetőséget biztosít a látogatóknak.",
+                  "category": "recreational",
+                  "coords": [
+                        7.762922,
+                        43.8091
+                  ]
+            },
+            {
+                  "name": "Tre Ponti",
+                  "text": "Sanremo legnagyobb nyilvános strandja, amely vízi sportokról és szörfözésről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        7.812744,
+                        43.822305
+                  ]
+            },
+            {
+                  "name": "Area archeologica Pian di Nave",
+                  "text": "Régészeti terület Sanremóban, római és római kor előtti leletekkel.",
+                  "category": "historical",
+                  "coords": [
+                        7.777549,
+                        43.814484
+                  ]
+            },
+            {
+                  "name": "Parco Marsaglia",
+                  "text": "Sanremo nyilvános parkja egzotikus növényekkel és egy nyári színházzal.",
+                  "category": "park",
+                  "coords": [
+                        7.767125,
+                        43.813152
+                  ]
+            },
+            {
+                  "name": "Cattedrale di San Siro",
+                  "text": "12. századi román stílusú társszékesegyház Sanremo történelmi központjában.",
+                  "category": "religious",
+                  "coords": [
+                        7.774121,
+                        43.816838
+                  ]
+            },
+            {
+                  "name": "Torre della Ciapella",
+                  "text": "16. századi négyszögletes torony, amely a szaracénok elleni védelmi rendszer része volt.",
+                  "category": "tower",
+                  "coords": [
+                        7.77329,
+                        43.818117
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Civico di Sanremo",
+                  "text": "Muzeul civic din Sanremo prezintă descoperiri arheologice și opere de artă regionale.",
+                  "category": "museum",
+                  "coords": [
+                        7.775829,
+                        43.81776
+                  ]
+            },
+            {
+                  "name": "Villa Nobel",
+                  "text": "Fosta reședință a lui Alfred Nobel din Sanremo, care servește astăzi ca muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        7.792756,
+                        43.821264
+                  ]
+            },
+            {
+                  "name": "Villa romana della Foce",
+                  "text": "Rămășițele unei vile romane antice situate pe coasta orașului Sanremo.",
+                  "category": "historical",
+                  "coords": [
+                        7.759397,
+                        43.808203
+                  ]
+            },
+            {
+                  "name": "Raccolte di Fisica del Liceo G.D. Cassini",
+                  "text": "O colecție de instrumente științifice istorice aflată în cadrul Liceului Cassini din Sanremo.",
+                  "category": "museum",
+                  "coords": [
+                        7.785984,
+                        43.822647
+                  ]
+            },
+            {
+                  "name": "Museo della Musica",
+                  "text": "Un muzeu din Sanremo dedicat istoriei și diversității muzicii.",
+                  "category": "museum",
+                  "coords": [
+                        7.771898,
+                        43.814005
+                  ]
+            },
+            {
+                  "name": "Museo della Canzone Italiana",
+                  "text": "Acest muzeu din Sanremo documentează evoluția cântecului italian.",
+                  "category": "museum",
+                  "coords": [
+                        7.776841,
+                        43.817251
+                  ]
+            },
+            {
+                  "name": "Palazzo Gentile Spinola",
+                  "text": "Un palat nobiliar istoric din Sanremo, cu o fațadă caracteristică.",
+                  "category": "castle",
+                  "coords": [
+                        7.774892,
+                        43.818517
+                  ]
+            },
+            {
+                  "name": "Spiaggia la piccola caletta",
+                  "text": "O secțiune de plajă mică și pitorească situată în zona Sanremo.",
+                  "category": "recreational",
+                  "coords": [
+                        7.798377,
+                        43.820225
+                  ]
+            },
+            {
+                  "name": "Ippocampo srl",
+                  "text": "Un club de plajă amenajat pe coasta orașului Sanremo, oferind servicii turistice.",
+                  "category": "recreational",
+                  "coords": [
+                        7.761343,
+                        43.808517
+                  ]
+            },
+            {
+                  "name": "Bagni Paradiso",
+                  "text": "O secțiune de coastă în Sanremo care oferă servicii de plajă vizitatorilor.",
+                  "category": "recreational",
+                  "coords": [
+                        7.762922,
+                        43.8091
+                  ]
+            },
+            {
+                  "name": "Tre Ponti",
+                  "text": "Cea mai mare plajă publică din Sanremo, populară pentru sporturi nautice și surf.",
+                  "category": "recreational",
+                  "coords": [
+                        7.812744,
+                        43.822305
+                  ]
+            },
+            {
+                  "name": "Area archeologica Pian di Nave",
+                  "text": "Zonă arheologică din Sanremo cu descoperiri din epoca romană și preromană.",
+                  "category": "historical",
+                  "coords": [
+                        7.777549,
+                        43.814484
+                  ]
+            },
+            {
+                  "name": "Parco Marsaglia",
+                  "text": "Parc public din Sanremo cu plante exotice și un teatru de vară.",
+                  "category": "park",
+                  "coords": [
+                        7.767125,
+                        43.813152
+                  ]
+            },
+            {
+                  "name": "Cattedrale di San Siro",
+                  "text": "Concatedrală romanică din secolul al XII-lea situată în centrul istoric din Sanremo.",
+                  "category": "religious",
+                  "coords": [
+                        7.774121,
+                        43.816838
+                  ]
+            },
+            {
+                  "name": "Torre della Ciapella",
+                  "text": "Un turn pătrat din secolul al XVI-lea, parte a sistemului de apărare împotriva sarazinilor.",
+                  "category": "tower",
+                  "coords": [
+                        7.77329,
+                        43.818117
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Civico di Sanremo",
+                  "text": "The civic museum of Sanremo displays archaeological finds and regional artworks.",
+                  "category": "museum",
+                  "coords": [
+                        7.775829,
+                        43.81776
+                  ]
+            },
+            {
+                  "name": "Villa Nobel",
+                  "text": "The former residence of Alfred Nobel in Sanremo, which now serves as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        7.792756,
+                        43.821264
+                  ]
+            },
+            {
+                  "name": "Villa romana della Foce",
+                  "text": "The remains of an ancient Roman villa located on the coast of Sanremo.",
+                  "category": "historical",
+                  "coords": [
+                        7.759397,
+                        43.808203
+                  ]
+            },
+            {
+                  "name": "Raccolte di Fisica del Liceo G.D. Cassini",
+                  "text": "A collection of historical scientific instruments at the Liceo Cassini in Sanremo.",
+                  "category": "museum",
+                  "coords": [
+                        7.785984,
+                        43.822647
+                  ]
+            },
+            {
+                  "name": "Museo della Musica",
+                  "text": "A museum in Sanremo dedicated to the history and diversity of music.",
+                  "category": "museum",
+                  "coords": [
+                        7.771898,
+                        43.814005
+                  ]
+            },
+            {
+                  "name": "Museo della Canzone Italiana",
+                  "text": "This museum in Sanremo documents the evolution of the Italian song.",
+                  "category": "museum",
+                  "coords": [
+                        7.776841,
+                        43.817251
+                  ]
+            },
+            {
+                  "name": "Palazzo Gentile Spinola",
+                  "text": "A historical noble palace in Sanremo featuring a characteristic facade.",
+                  "category": "castle",
+                  "coords": [
+                        7.774892,
+                        43.818517
+                  ]
+            },
+            {
+                  "name": "Spiaggia la piccola caletta",
+                  "text": "A small and picturesque beach section in the Sanremo area.",
+                  "category": "recreational",
+                  "coords": [
+                        7.798377,
+                        43.820225
+                  ]
+            },
+            {
+                  "name": "Ippocampo srl",
+                  "text": "A managed beach club on the coast of Sanremo offering tourist services.",
+                  "category": "recreational",
+                  "coords": [
+                        7.761343,
+                        43.808517
+                  ]
+            },
+            {
+                  "name": "Villa Sapienza Beach",
+                  "text": "A coastal section in Sanremo providing beach services to visitors.",
+                  "category": "recreational",
+                  "coords": [
+                        7.762922,
+                        43.8091
+                  ]
+            },
+            {
+                  "name": "Tre Ponti",
+                  "text": "The largest public beach in Sanremo, popular for water sports and surfing.",
+                  "category": "recreational",
+                  "coords": [
+                        7.812744,
+                        43.822305
+                  ]
+            },
+            {
+                  "name": "Area archeologica Pian di Nave",
+                  "text": "Archaeological area in Sanremo featuring Roman and pre-Roman finds.",
+                  "category": "historical",
+                  "coords": [
+                        7.777549,
+                        43.814484
+                  ]
+            },
+            {
+                  "name": "Parco Marsaglia",
+                  "text": "Public park in Sanremo with exotic plants and a summer theatre.",
+                  "category": "park",
+                  "coords": [
+                        7.767125,
+                        43.813152
+                  ]
+            },
+            {
+                  "name": "Cattedrale di San Siro",
+                  "text": "12th-century Romanesque co-cathedral located in the historic center of Sanremo.",
+                  "category": "religious",
+                  "coords": [
+                        7.774121,
+                        43.816838
+                  ]
+            },
+            {
+                  "name": "Torre della Ciapella",
+                  "text": "A 16th-century square tower that was part of the defense system against Saracens.",
+                  "category": "tower",
+                  "coords": [
+                        7.77329,
+                        43.818117
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IT",
     name: { de: "Sanremo", hu: "Sanremo", ro: "Sanremo", en: "Sanremo" },
@@ -16627,7 +30208,736 @@ export const italyCitiesV2: POI[] = [
     image: "/poi-images/italy-avellino-cities-v2.webp",
   },
   {
-    id: "italy-benevento-cities-v2",
+    id: "italy-benevento-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Arcos",
+                  "text": "Ein Museum in Benevento, das zeitgenössische Kunstwerke neben bedeutenden ägyptischen Funden aus dem lokalen Isistempel zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        14.781287,
+                        41.129821
+                  ]
+            },
+            {
+                  "name": "Museo Diocesano",
+                  "text": "Das Diözesanmuseum von Benevento bewahrt wertvolle sakrale Kunstschätze und historische Dokumente des Erzbistums auf.",
+                  "category": "museum",
+                  "coords": [
+                        14.774417,
+                        41.131172
+                  ]
+            },
+            {
+                  "name": "Janua - Museo delle Streghe",
+                  "text": "Ein einzigartiges Museum in Benevento, das sich der Erforschung und Darstellung der lokalen Hexenlegenden widmet.",
+                  "category": "museum",
+                  "coords": [
+                        14.776803,
+                        41.131421
+                  ]
+            },
+            {
+                  "name": "Santi Quaranta",
+                  "text": "Santi Quaranta ist eine archäologische Stätte in Benevento mit gut erhaltenen antiken Mauerresten.",
+                  "category": "historical",
+                  "coords": [
+                        14.76799,
+                        41.133955
+                  ]
+            },
+            {
+                  "name": "Anfiteatro romano di Benevento",
+                  "text": "Das römische Amphitheater von Benevento wurde im 2. Jahrhundert unter Kaiser Hadrian errichtet.",
+                  "category": "historical",
+                  "coords": [
+                        14.767353,
+                        41.132388
+                  ]
+            },
+            {
+                  "name": "Edificio termale",
+                  "text": "Diese archäologische Ausgrabungsstätte zeigt die Überreste antiker römischer Thermalanlagen in Benevento.",
+                  "category": "historical",
+                  "coords": [
+                        14.769507,
+                        41.131735
+                  ]
+            },
+            {
+                  "name": "Terme romane - resti della chiesa di San Pietro delle Monache",
+                  "text": "Die Stätte umfasst römische Thermen und Ruinen des Klosters San Pietro delle Monache.",
+                  "category": "historical",
+                  "coords": [
+                        14.772791,
+                        41.131735
+                  ]
+            },
+            {
+                  "name": "Oasi LIPU Zone Umide Beneventane",
+                  "text": "Dieses Naturschutzgebiet schützt die Feuchtgebiete am Fluss Calore und bietet Lebensraum für zahlreiche Vögel.",
+                  "category": "natural",
+                  "coords": [
+                        14.752408,
+                        41.142745
+                  ]
+            },
+            {
+                  "name": "Ponte Fratto",
+                  "text": "Ponte Fratto ist eine archäologische Fundstätte mit den Überresten einer antiken römischen Brücke.",
+                  "category": "historical",
+                  "coords": [
+                        14.758498,
+                        41.139199
+                  ]
+            },
+            {
+                  "name": "Museo dell'Arco di Traiano",
+                  "text": "Das Museum dokumentiert die Geschichte und die kunstvollen Reliefs des monumentalen Trajansbogens.",
+                  "category": "museum",
+                  "coords": [
+                        14.779622,
+                        41.133091
+                  ]
+            },
+            {
+                  "name": "Museo del Scipionyx samniticus \"Ciro\"",
+                  "text": "Dieses Museum zeigt das außergewöhnlich gut erhaltene Fossil des kleinen Dinosauriers Scipionyx.",
+                  "category": "museum",
+                  "coords": [
+                        14.786479,
+                        41.126147
+                  ]
+            },
+            {
+                  "name": "Area archeologica di Cellarulo",
+                  "text": "Archäologischer Park an der Mündung der Flüsse Sabato und Calore.",
+                  "category": "historical",
+                  "coords": [
+                        14.759568,
+                        41.137808
+                  ]
+            },
+            {
+                  "name": "Terme romane",
+                  "text": "Die Überreste der antiken römischen Thermalanlagen der Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        14.772598,
+                        41.133129
+                  ]
+            },
+            {
+                  "name": "Palazzo Casiello",
+                  "text": "Ein repräsentatives historisches Gebäude im Herzen der Altstadt.",
+                  "category": "castle",
+                  "coords": [
+                        14.78094,
+                        41.130778
+                  ]
+            },
+            {
+                  "name": "Necropoli longobarda",
+                  "text": "Frühmittelalterliche Begräbnisstätte aus der Zeit des langobardischen Herzogtums.",
+                  "category": "historical",
+                  "coords": [
+                        14.777447,
+                        41.127936
+                  ]
+            },
+            {
+                  "name": "Ex cimitero dei Morticelli",
+                  "text": "Die Ruinen der Abtei San Lupo, die später als Friedhof dienten.",
+                  "category": "historical",
+                  "coords": [
+                        14.771203,
+                        41.131088
+                  ]
+            },
+            {
+                  "name": "Basilica della Madonna delle Grazie",
+                  "text": "Eine bedeutende neoklassizistische Basilika, die der Schutzpatronin von Benevento gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        14.767636,
+                        41.134898
+                  ]
+            },
+            {
+                  "name": "Basilica di San Bartolomeo",
+                  "text": "Diese Basilika beherbergt die Reliquien des Apostels Bartholomäus und wurde im 18. Jahrhundert wieder aufgebaut.",
+                  "category": "religious",
+                  "coords": [
+                        14.77867,
+                        41.130597
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Domenico",
+                  "text": "Eine historische Kirche und ehemaliges Dominikanerkloster an der Piazza Guerrazzi in Benevento.",
+                  "category": "religious",
+                  "coords": [
+                        14.779979,
+                        41.130221
+                  ]
+            },
+            {
+                  "name": "Torre della Catena",
+                  "text": "Ein mittelalterlicher Wehrturm, der einst Teil der langobardischen Stadtmauer von Benevento war.",
+                  "category": "tower",
+                  "coords": [
+                        14.768352,
+                        41.130745
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Arcos",
+                  "text": "Beneventói múzeum, amely kortárs művészeti alkotásokat és a helyi Ízisz-szentély jelentős egyiptomi leleteit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        14.781287,
+                        41.129821
+                  ]
+            },
+            {
+                  "name": "Museo Diocesano",
+                  "text": "A beneventói egyházmegyei múzeum az érsekség értékes szakrális műkincseit és történelmi dokumentumait őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        14.774417,
+                        41.131172
+                  ]
+            },
+            {
+                  "name": "Janua - Museo delle Streghe",
+                  "text": "Egyedülálló múzeum Beneventóban, amely a helyi boszorkánylegendák kutatásának és bemutatásának szentelték.",
+                  "category": "museum",
+                  "coords": [
+                        14.776803,
+                        41.131421
+                  ]
+            },
+            {
+                  "name": "Santi Quaranta",
+                  "text": "A Santi Quaranta egy beneventói régészeti lelőhely, amely ókori falmaradványokat őriz.",
+                  "category": "historical",
+                  "coords": [
+                        14.76799,
+                        41.133955
+                  ]
+            },
+            {
+                  "name": "Anfiteatro romano di Benevento",
+                  "text": "A beneventói római amfiteátrum a 2. században, Hadrianus császár idején épült.",
+                  "category": "historical",
+                  "coords": [
+                        14.767353,
+                        41.132388
+                  ]
+            },
+            {
+                  "name": "Edificio termale",
+                  "text": "Ez a régészeti ásatási terület az ókori római termálfürdők maradványait mutatja be Beneventóban.",
+                  "category": "historical",
+                  "coords": [
+                        14.769507,
+                        41.131735
+                  ]
+            },
+            {
+                  "name": "Terme romane - resti della chiesa di San Pietro delle Monache",
+                  "text": "A terület római fürdőmaradványokat és a San Pietro delle Monache kolostor romjait tartalmazza.",
+                  "category": "historical",
+                  "coords": [
+                        14.772791,
+                        41.131735
+                  ]
+            },
+            {
+                  "name": "Oasi LIPU Zone Umide Beneventane",
+                  "text": "Ez a természetvédelmi terület a Calore folyó menti vizes élőhelyeket és a madárvilágot védi.",
+                  "category": "natural",
+                  "coords": [
+                        14.752408,
+                        41.142745
+                  ]
+            },
+            {
+                  "name": "Ponte Fratto",
+                  "text": "A Ponte Fratto egy régészeti lelőhely egy ókori római híd maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        14.758498,
+                        41.139199
+                  ]
+            },
+            {
+                  "name": "Museo dell'Arco di Traiano",
+                  "text": "A múzeum a monumentális Traianus-diadalív történetét és díszes domborműveit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        14.779622,
+                        41.133091
+                  ]
+            },
+            {
+                  "name": "Museo del Scipionyx samniticus \"Ciro\"",
+                  "text": "Ez a múzeum a Scipionyx nevű kis dinoszaurusz rendkívül jó állapotban megmaradt fosszíliáját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        14.786479,
+                        41.126147
+                  ]
+            },
+            {
+                  "name": "Area archeologica di Cellarulo",
+                  "text": "Régészeti park a Sabato és Calore folyók találkozásánál.",
+                  "category": "historical",
+                  "coords": [
+                        14.759568,
+                        41.137808
+                  ]
+            },
+            {
+                  "name": "Terme romane",
+                  "text": "Az ókori római fürdőrendszer maradványai a városban.",
+                  "category": "historical",
+                  "coords": [
+                        14.772598,
+                        41.133129
+                  ]
+            },
+            {
+                  "name": "Palazzo Casiello",
+                  "text": "Reprezentatív történelmi épület az óváros szívében.",
+                  "category": "castle",
+                  "coords": [
+                        14.78094,
+                        41.130778
+                  ]
+            },
+            {
+                  "name": "Necropoli longobarda",
+                  "text": "Kora középkori temetkezési hely a longobárd hercegség idejéből.",
+                  "category": "historical",
+                  "coords": [
+                        14.777447,
+                        41.127936
+                  ]
+            },
+            {
+                  "name": "Ex cimitero dei Morticelli",
+                  "text": "A San Lupo apátság romjai, melyeket később temetőként használtak.",
+                  "category": "historical",
+                  "coords": [
+                        14.771203,
+                        41.131088
+                  ]
+            },
+            {
+                  "name": "Basilica della Madonna delle Grazie",
+                  "text": "Benevento védőszentjének szentelt jelentős neoklasszicista bazilika.",
+                  "category": "religious",
+                  "coords": [
+                        14.767636,
+                        41.134898
+                  ]
+            },
+            {
+                  "name": "Basilica di San Bartolomeo",
+                  "text": "Ebben a bazilikában őrzik Szent Bertalan apostol ereklyéit, az épületet a 18. században építették újjá.",
+                  "category": "religious",
+                  "coords": [
+                        14.77867,
+                        41.130597
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Domenico",
+                  "text": "Történelmi templom és egykori dominikánus kolostor a beneventói Piazza Guerrazzi téren.",
+                  "category": "religious",
+                  "coords": [
+                        14.779979,
+                        41.130221
+                  ]
+            },
+            {
+                  "name": "Torre della Catena",
+                  "text": "Középkori védőtorony, amely egykor a beneventói langobárd városfal része volt.",
+                  "category": "tower",
+                  "coords": [
+                        14.768352,
+                        41.130745
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Arcos",
+                  "text": "Un muzeu din Benevento care expune artă contemporană alături de descoperiri egiptene importante din templul local al lui Isis.",
+                  "category": "museum",
+                  "coords": [
+                        14.781287,
+                        41.129821
+                  ]
+            },
+            {
+                  "name": "Museo Diocesano",
+                  "text": "Muzeul Diecezan din Benevento păstrează obiecte de artă sacră valoroase și documente istorice ale arhiepiscopiei.",
+                  "category": "museum",
+                  "coords": [
+                        14.774417,
+                        41.131172
+                  ]
+            },
+            {
+                  "name": "Janua - Museo delle Streghe",
+                  "text": "Un muzeu unic în Benevento, dedicat cercetării și prezentării legendelor locale despre vrăjitoare.",
+                  "category": "museum",
+                  "coords": [
+                        14.776803,
+                        41.131421
+                  ]
+            },
+            {
+                  "name": "Santi Quaranta",
+                  "text": "Santi Quaranta este un sit arheologic din Benevento care păstrează vestigii ale unor ziduri antice.",
+                  "category": "historical",
+                  "coords": [
+                        14.76799,
+                        41.133955
+                  ]
+            },
+            {
+                  "name": "Anfiteatro romano di Benevento",
+                  "text": "Amfiteatrul roman din Benevento a fost construit în secolul al II-lea sub împăratul Hadrian.",
+                  "category": "historical",
+                  "coords": [
+                        14.767353,
+                        41.132388
+                  ]
+            },
+            {
+                  "name": "Edificio termale",
+                  "text": "Acest sit arheologic prezintă vestigiile unor băi termale romane antice din Benevento.",
+                  "category": "historical",
+                  "coords": [
+                        14.769507,
+                        41.131735
+                  ]
+            },
+            {
+                  "name": "Terme romane - resti della chiesa di San Pietro delle Monache",
+                  "text": "Situl cuprinde băi romane și ruinele mănăstirii San Pietro delle Monache.",
+                  "category": "historical",
+                  "coords": [
+                        14.772791,
+                        41.131735
+                  ]
+            },
+            {
+                  "name": "Oasi LIPU Zone Umide Beneventane",
+                  "text": "Această rezervație naturală protejează zonele umede de pe râul Calore și habitatul păsărilor.",
+                  "category": "natural",
+                  "coords": [
+                        14.752408,
+                        41.142745
+                  ]
+            },
+            {
+                  "name": "Ponte Fratto",
+                  "text": "Ponte Fratto este un sit arheologic cu vestigiile unui pod roman antic.",
+                  "category": "historical",
+                  "coords": [
+                        14.758498,
+                        41.139199
+                  ]
+            },
+            {
+                  "name": "Museo dell'Arco di Traiano",
+                  "text": "Muzeul documentează istoria și reliefurile artistice ale monumentalului Arc al lui Traian.",
+                  "category": "museum",
+                  "coords": [
+                        14.779622,
+                        41.133091
+                  ]
+            },
+            {
+                  "name": "Museo del Scipionyx samniticus \"Ciro\"",
+                  "text": "Acest muzeu prezintă fosila excepțional de bine conservată a micului dinozaur Scipionyx.",
+                  "category": "museum",
+                  "coords": [
+                        14.786479,
+                        41.126147
+                  ]
+            },
+            {
+                  "name": "Area archeologica di Cellarulo",
+                  "text": "Parc arheologic situat la confluența râurilor Sabato și Calore.",
+                  "category": "historical",
+                  "coords": [
+                        14.759568,
+                        41.137808
+                  ]
+            },
+            {
+                  "name": "Terme romane",
+                  "text": "Vestigiile vechilor băi romane ale orașului.",
+                  "category": "historical",
+                  "coords": [
+                        14.772598,
+                        41.133129
+                  ]
+            },
+            {
+                  "name": "Palazzo Casiello",
+                  "text": "O clădire istorică reprezentativă în inima centrului vechi.",
+                  "category": "castle",
+                  "coords": [
+                        14.78094,
+                        41.130778
+                  ]
+            },
+            {
+                  "name": "Necropoli longobarda",
+                  "text": "Sit funerar din perioada timpurie a ducatului longobard.",
+                  "category": "historical",
+                  "coords": [
+                        14.777447,
+                        41.127936
+                  ]
+            },
+            {
+                  "name": "Ex cimitero dei Morticelli",
+                  "text": "Ruinele abației San Lupo, folosite ulterior ca cimitir.",
+                  "category": "historical",
+                  "coords": [
+                        14.771203,
+                        41.131088
+                  ]
+            },
+            {
+                  "name": "Basilica della Madonna delle Grazie",
+                  "text": "O bazilică neoclasică importantă dedicată patroanei orașului Benevento.",
+                  "category": "religious",
+                  "coords": [
+                        14.767636,
+                        41.134898
+                  ]
+            },
+            {
+                  "name": "Basilica di San Bartolomeo",
+                  "text": "Această bazilică adăpostește moaștele Apostolului Bartolomeu și a fost reconstruită în secolul al XVIII-lea.",
+                  "category": "religious",
+                  "coords": [
+                        14.77867,
+                        41.130597
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Domenico",
+                  "text": "O biserică istorică și fostă mănăstire dominicană situată în Piazza Guerrazzi din Benevento.",
+                  "category": "religious",
+                  "coords": [
+                        14.779979,
+                        41.130221
+                  ]
+            },
+            {
+                  "name": "Torre della Catena",
+                  "text": "Un turn defensiv medieval care a făcut parte din zidurile lombarde ale orașului Benevento.",
+                  "category": "tower",
+                  "coords": [
+                        14.768352,
+                        41.130745
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Arcos",
+                  "text": "A museum in Benevento displaying contemporary artworks alongside significant Egyptian finds from the local Temple of Isis.",
+                  "category": "museum",
+                  "coords": [
+                        14.781287,
+                        41.129821
+                  ]
+            },
+            {
+                  "name": "Museo Diocesano",
+                  "text": "The Diocesan Museum of Benevento preserves valuable sacred art treasures and historical documents of the archdiocese.",
+                  "category": "museum",
+                  "coords": [
+                        14.774417,
+                        41.131172
+                  ]
+            },
+            {
+                  "name": "Janua - Museo delle Streghe",
+                  "text": "A unique museum in Benevento dedicated to the research and presentation of local witch legends.",
+                  "category": "museum",
+                  "coords": [
+                        14.776803,
+                        41.131421
+                  ]
+            },
+            {
+                  "name": "Santi Quaranta",
+                  "text": "Santi Quaranta is an archaeological site in Benevento preserving remains of ancient walls.",
+                  "category": "historical",
+                  "coords": [
+                        14.76799,
+                        41.133955
+                  ]
+            },
+            {
+                  "name": "Anfiteatro romano di Benevento",
+                  "text": "The Roman amphitheatre of Benevento was built in the 2nd century under Emperor Hadrian.",
+                  "category": "historical",
+                  "coords": [
+                        14.767353,
+                        41.132388
+                  ]
+            },
+            {
+                  "name": "Edificio termale",
+                  "text": "This archaeological site displays the remains of ancient Roman thermal baths in Benevento.",
+                  "category": "historical",
+                  "coords": [
+                        14.769507,
+                        41.131735
+                  ]
+            },
+            {
+                  "name": "Terme romane - resti della chiesa di San Pietro delle Monache",
+                  "text": "The site includes Roman bath remains and the ruins of the San Pietro delle Monache monastery.",
+                  "category": "historical",
+                  "coords": [
+                        14.772791,
+                        41.131735
+                  ]
+            },
+            {
+                  "name": "Oasi LIPU Zone Umide Beneventane",
+                  "text": "This nature reserve protects the wetlands along the Calore River and provides a habitat for birds.",
+                  "category": "natural",
+                  "coords": [
+                        14.752408,
+                        41.142745
+                  ]
+            },
+            {
+                  "name": "Ponte Fratto",
+                  "text": "Ponte Fratto is an archaeological site featuring the remains of an ancient Roman bridge.",
+                  "category": "historical",
+                  "coords": [
+                        14.758498,
+                        41.139199
+                  ]
+            },
+            {
+                  "name": "Museo dell'Arco di Traiano",
+                  "text": "The museum documents the history and the artistic reliefs of the monumental Arch of Trajan.",
+                  "category": "museum",
+                  "coords": [
+                        14.779622,
+                        41.133091
+                  ]
+            },
+            {
+                  "name": "Museo del Scipionyx samniticus \"Ciro\"",
+                  "text": "This museum displays the exceptionally well-preserved fossil of the small dinosaur Scipionyx.",
+                  "category": "museum",
+                  "coords": [
+                        14.786479,
+                        41.126147
+                  ]
+            },
+            {
+                  "name": "Area archeologica di Cellarulo",
+                  "text": "Archaeological park located at the confluence of the Sabato and Calore rivers.",
+                  "category": "historical",
+                  "coords": [
+                        14.759568,
+                        41.137808
+                  ]
+            },
+            {
+                  "name": "Terme romane",
+                  "text": "The remains of the city's ancient Roman thermal baths.",
+                  "category": "historical",
+                  "coords": [
+                        14.772598,
+                        41.133129
+                  ]
+            },
+            {
+                  "name": "Palazzo Casiello",
+                  "text": "A representative historical building in the heart of the old town.",
+                  "category": "castle",
+                  "coords": [
+                        14.78094,
+                        41.130778
+                  ]
+            },
+            {
+                  "name": "Necropoli longobarda",
+                  "text": "Early medieval burial site from the period of the Lombard Duchy.",
+                  "category": "historical",
+                  "coords": [
+                        14.777447,
+                        41.127936
+                  ]
+            },
+            {
+                  "name": "Ex cimitero dei Morticelli",
+                  "text": "The ruins of the San Lupo abbey that were later used as a cemetery.",
+                  "category": "historical",
+                  "coords": [
+                        14.771203,
+                        41.131088
+                  ]
+            },
+            {
+                  "name": "Basilica della Madonna delle Grazie",
+                  "text": "A significant neoclassical basilica dedicated to the patron saint of Benevento.",
+                  "category": "religious",
+                  "coords": [
+                        14.767636,
+                        41.134898
+                  ]
+            },
+            {
+                  "name": "Basilica di San Bartolomeo",
+                  "text": "This basilica houses the relics of St. Bartholomew the Apostle and was rebuilt in the 18th century.",
+                  "category": "religious",
+                  "coords": [
+                        14.77867,
+                        41.130597
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Domenico",
+                  "text": "A historic church and former Dominican monastery located on Piazza Guerrazzi in Benevento.",
+                  "category": "religious",
+                  "coords": [
+                        14.779979,
+                        41.130221
+                  ]
+            },
+            {
+                  "name": "Torre della Catena",
+                  "text": "A medieval defensive tower that was once part of the Lombard city walls of Benevento.",
+                  "category": "tower",
+                  "coords": [
+                        14.768352,
+                        41.130745
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IT",
     name: { de: "Benevento", hu: "Benevento", ro: "Benevento", en: "Benevento" },
@@ -16942,7 +31252,628 @@ export const italyCitiesV2: POI[] = [
     image: "/poi-images/italy-terracina-cities-v2.webp",
   },
   {
-    id: "italy-venezia-mestre-cities-v2",
+    id: "italy-venezia-mestre-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Teatro Arnaldo Momo",
+                  "text": "Ein Theater im Stadtteil Mestre, das als Zentrum für zeitgenössische Kunst und Aufführungen dient.",
+                  "category": "cultural",
+                  "coords": [
+                        12.236005,
+                        45.484706
+                  ]
+            },
+            {
+                  "name": "M9 Museo 900",
+                  "text": "Multimediales Museum in Mestre zur Geschichte und zum Alltag des 20. Jahrhunderts in Italien.",
+                  "category": "museum",
+                  "coords": [
+                        12.240923,
+                        45.49174
+                  ]
+            },
+            {
+                  "name": "Parktheater",
+                  "text": "Ein Theatergebäude im Albanese-Park in Mestre, Austragungsort für Konzerte und Festivals.",
+                  "category": "cultural",
+                  "coords": [
+                        12.259557,
+                        45.499368
+                  ]
+            },
+            {
+                  "name": "Forte Gazzera",
+                  "text": "Ein ehemaliges Militärfort aus dem 19. Jahrhundert, das heute Ausstellungen zur Festungsgeschichte beherbergt.",
+                  "category": "fortress",
+                  "coords": [
+                        12.210658,
+                        45.499087
+                  ]
+            },
+            {
+                  "name": "Teatro Toniolo",
+                  "text": "Ein bedeutendes Theater in Mestre, das für sein vielfältiges Kulturprogramm bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        12.239484,
+                        45.493482
+                  ]
+            },
+            {
+                  "name": "Forte Marghera",
+                  "text": "Eine Festung aus dem 19. Jahrhundert, die heute als Kulturzentrum und Park genutzt wird.",
+                  "category": "fortress",
+                  "coords": [
+                        12.261959,
+                        45.475111
+                  ]
+            },
+            {
+                  "name": "Museo storico militare",
+                  "text": "Dieses Militärmuseum zeigt historische Ausrüstungen und Dokumente zur Verteidigung Venedigs.",
+                  "category": "museum",
+                  "coords": [
+                        12.25962,
+                        45.475646
+                  ]
+            },
+            {
+                  "name": "Museo Imbarcazioni Tradizionali",
+                  "text": "Eine Ausstellung traditioneller venezianischer Boote, die das maritime Erbe der Region bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        12.264256,
+                        45.475789
+                  ]
+            },
+            {
+                  "name": "Parco Alfredo Albanese",
+                  "text": "Ein weitläufiger Stadtpark in Mestre, der Sport- und Freizeitmöglichkeiten im Grünen bietet.",
+                  "category": "park",
+                  "coords": [
+                        12.262484,
+                        45.499172
+                  ]
+            },
+            {
+                  "name": "Parco Piraghetto",
+                  "text": "Ein beliebter Park im Zentrum von Mestre, ideal für Spaziergänge und lokale Veranstaltungen.",
+                  "category": "park",
+                  "coords": [
+                        12.226076,
+                        45.488505
+                  ]
+            },
+            {
+                  "name": "Parco San Giuliano",
+                  "text": "Einer der größten Stadtparks Europas mit Blick auf die Lagune von Venedig.",
+                  "category": "park",
+                  "coords": [
+                        12.275826,
+                        45.472649
+                  ]
+            },
+            {
+                  "name": "Parco Hayez",
+                  "text": "Eine grüne Oase im Stadtteil Zelarino, die zur Erholung im Freien einlädt.",
+                  "category": "park",
+                  "coords": [
+                        12.225865,
+                        45.502093
+                  ]
+            },
+            {
+                  "name": "Parco Andrea Zanzotto",
+                  "text": "Ein nach dem Dichter benannter Park, der den Bewohnern von Mestre als Ruhezone dient.",
+                  "category": "park",
+                  "coords": [
+                        12.235166,
+                        45.494112
+                  ]
+            },
+            {
+                  "name": "Villa Tivan",
+                  "text": "Ein historisches Herrenhaus in Mestre, das für seine elegante Architektur bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        12.237329,
+                        45.507861
+                  ]
+            },
+            {
+                  "name": "Villa Barbarich-Pezzana-Fraccaro",
+                  "text": "Historische venezianische Villa in Mestre, die als herrschaftliches Anwesen dient.",
+                  "category": "historical",
+                  "coords": [
+                        12.217255,
+                        45.504582
+                  ]
+            },
+            {
+                  "name": "Villa Algarotti-Berchet",
+                  "text": "Eine klassizistische Villa aus dem 18. Jahrhundert in der Nähe von Venedig.",
+                  "category": "historical",
+                  "coords": [
+                        12.23877,
+                        45.51101
+                  ]
+            },
+            {
+                  "name": "Duomo di San Lorenzo Martire",
+                  "text": "Die Hauptkirche von Mestre aus dem 18. Jahrhundert mit einer neoklassizistischen Fassade.",
+                  "category": "religious",
+                  "coords": [
+                        12.240887,
+                        45.492889
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teatro Arnaldo Momo",
+                  "text": "Mestre városrészben található színház, amely kortárs művészeti központként és előadóhelyként működik.",
+                  "category": "cultural",
+                  "coords": [
+                        12.236005,
+                        45.484706
+                  ]
+            },
+            {
+                  "name": "M9 Museo 900",
+                  "text": "Multimédiás múzeum Mestrében, amely Olaszország 20. századi történelmét és mindennapjait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        12.240923,
+                        45.49174
+                  ]
+            },
+            {
+                  "name": "Teatro del Parco",
+                  "text": "Színházépület a mestrei Albanese parkban, koncertek és fesztiválok helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        12.259557,
+                        45.499368
+                  ]
+            },
+            {
+                  "name": "Forte Gazzera",
+                  "text": "Egykori 19. századi katonai erőd, amely ma erődítéstörténeti kiállításoknak ad otthont.",
+                  "category": "fortress",
+                  "coords": [
+                        12.210658,
+                        45.499087
+                  ]
+            },
+            {
+                  "name": "Teatro Toniolo",
+                  "text": "Mestre egyik legfontosabb színháza, amely változatos kulturális előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        12.239484,
+                        45.493482
+                  ]
+            },
+            {
+                  "name": "Forte Marghera",
+                  "text": "19. századi erődítmény, amely ma kulturális központként és szabadidős parkként működik.",
+                  "category": "fortress",
+                  "coords": [
+                        12.261959,
+                        45.475111
+                  ]
+            },
+            {
+                  "name": "Museo storico militare",
+                  "text": "Ez a hadtörténeti múzeum Velence védelmével kapcsolatos történelmi eszközöket és dokumentumokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        12.25962,
+                        45.475646
+                  ]
+            },
+            {
+                  "name": "Museo Imbarcazioni Tradizionali",
+                  "text": "Hagyományos velencei hajók kiállítása, amely a régió tengerészeti örökségét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        12.264256,
+                        45.475789
+                  ]
+            },
+            {
+                  "name": "Parco Alfredo Albanese",
+                  "text": "Tágas városi park Mestrében, amely sportolási és kikapcsolódási lehetőségeket kínál.",
+                  "category": "park",
+                  "coords": [
+                        12.262484,
+                        45.499172
+                  ]
+            },
+            {
+                  "name": "Parco Piraghetto",
+                  "text": "Kedvelt park Mestre központjának közelében, amely ideális sétákhoz és helyi rendezvényekhez.",
+                  "category": "park",
+                  "coords": [
+                        12.226076,
+                        45.488505
+                  ]
+            },
+            {
+                  "name": "Parco San Giuliano",
+                  "text": "Európa egyik legnagyobb városi parkja, amely lenyűgöző kilátást nyújt a Velencei-lagúnára.",
+                  "category": "park",
+                  "coords": [
+                        12.275826,
+                        45.472649
+                  ]
+            },
+            {
+                  "name": "Parco Hayez",
+                  "text": "Zöld oázis Zelarino városrészben, amely kellemes környezetet biztosít a pihenéshez.",
+                  "category": "park",
+                  "coords": [
+                        12.225865,
+                        45.502093
+                  ]
+            },
+            {
+                  "name": "Parco Andrea Zanzotto",
+                  "text": "A költőről elnevezett park, amely csendes pihenőhelyként szolgál a helyi lakosok számára.",
+                  "category": "park",
+                  "coords": [
+                        12.235166,
+                        45.494112
+                  ]
+            },
+            {
+                  "name": "Villa Tivan",
+                  "text": "Történelmi kúria Mestrében, amely elegáns építészeti stílusáról ismert.",
+                  "category": "historical",
+                  "coords": [
+                        12.237329,
+                        45.507861
+                  ]
+            },
+            {
+                  "name": "Villa Barbarich-Pezzana-Fraccaro",
+                  "text": "Történelmi velencei villa Mestre városában, amely elegáns úrilakként szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        12.217255,
+                        45.504582
+                  ]
+            },
+            {
+                  "name": "Villa Algarotti-Berchet",
+                  "text": "18. századi klasszicista villa Velence közelében, Mestre területén.",
+                  "category": "historical",
+                  "coords": [
+                        12.23877,
+                        45.51101
+                  ]
+            },
+            {
+                  "name": "Duomo di San Lorenzo Martire",
+                  "text": "Mestre főtemploma a 18. századból, jellegzetes neoklasszicista homlokzattal.",
+                  "category": "religious",
+                  "coords": [
+                        12.240887,
+                        45.492889
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teatro Arnaldo Momo",
+                  "text": "Un teatru din districtul Mestre care servește drept centru pentru artă contemporană și spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        12.236005,
+                        45.484706
+                  ]
+            },
+            {
+                  "name": "M9 Museo 900",
+                  "text": "Muzeu multimedia din Mestre dedicat istoriei și vieții cotidiene din Italia secolului al XX-lea.",
+                  "category": "museum",
+                  "coords": [
+                        12.240923,
+                        45.49174
+                  ]
+            },
+            {
+                  "name": "Teatro del Parco",
+                  "text": "O clădire de teatru în parcul Albanese din Mestre, loc de desfășurare pentru concerte și festivaluri.",
+                  "category": "cultural",
+                  "coords": [
+                        12.259557,
+                        45.499368
+                  ]
+            },
+            {
+                  "name": "Forte Gazzera",
+                  "text": "Un fost fort militar din secolul al XIX-lea care găzduiește acum expoziții despre istoria fortificațiilor.",
+                  "category": "fortress",
+                  "coords": [
+                        12.210658,
+                        45.499087
+                  ]
+            },
+            {
+                  "name": "Teatro Toniolo",
+                  "text": "Un teatru important din Mestre, cunoscut pentru programul său cultural variat.",
+                  "category": "cultural",
+                  "coords": [
+                        12.239484,
+                        45.493482
+                  ]
+            },
+            {
+                  "name": "Forte Marghera",
+                  "text": "O fortăreață din secolul al XIX-lea, utilizată astăzi ca centru cultural și parc.",
+                  "category": "fortress",
+                  "coords": [
+                        12.261959,
+                        45.475111
+                  ]
+            },
+            {
+                  "name": "Museo storico militare",
+                  "text": "Acest muzeu de istorie militară prezintă echipamente și documente istorice legate de apărarea Veneției.",
+                  "category": "museum",
+                  "coords": [
+                        12.25962,
+                        45.475646
+                  ]
+            },
+            {
+                  "name": "Museo Imbarcazioni Tradizionali",
+                  "text": "O expoziție de ambarcațiuni tradiționale venețiene care păstrează patrimoniul maritim al regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        12.264256,
+                        45.475789
+                  ]
+            },
+            {
+                  "name": "Parco Alfredo Albanese",
+                  "text": "Un parc urban spațios din Mestre, care oferă facilități sportive și de recreere în aer liber.",
+                  "category": "park",
+                  "coords": [
+                        12.262484,
+                        45.499172
+                  ]
+            },
+            {
+                  "name": "Parco Piraghetto",
+                  "text": "Un parc popular situat aproape de centrul orașului Mestre, ideal pentru plimbări și evenimente locale.",
+                  "category": "park",
+                  "coords": [
+                        12.226076,
+                        45.488505
+                  ]
+            },
+            {
+                  "name": "Parco San Giuliano",
+                  "text": "Unul dintre cele mai mari parcuri urbane din Europa, oferind vedere spre laguna Veneției.",
+                  "category": "park",
+                  "coords": [
+                        12.275826,
+                        45.472649
+                  ]
+            },
+            {
+                  "name": "Parco Hayez",
+                  "text": "O oază de verdeață în cartierul Zelarino, care oferă un spațiu liniștit pentru recreere.",
+                  "category": "park",
+                  "coords": [
+                        12.225865,
+                        45.502093
+                  ]
+            },
+            {
+                  "name": "Parco Andrea Zanzotto",
+                  "text": "Un parc numit după poetul Andrea Zanzotto, care servește ca zonă de relaxare pentru locuitori.",
+                  "category": "park",
+                  "coords": [
+                        12.235166,
+                        45.494112
+                  ]
+            },
+            {
+                  "name": "Villa Tivan",
+                  "text": "Un conac istoric din Mestre, cunoscut pentru arhitectura sa elegantă.",
+                  "category": "historical",
+                  "coords": [
+                        12.237329,
+                        45.507861
+                  ]
+            },
+            {
+                  "name": "Villa Barbarich-Pezzana-Fraccaro",
+                  "text": "Vilă venețiană istorică din Mestre, care servește drept reședință nobiliară.",
+                  "category": "historical",
+                  "coords": [
+                        12.217255,
+                        45.504582
+                  ]
+            },
+            {
+                  "name": "Villa Algarotti-Berchet",
+                  "text": "O vilă neoclasică din secolul al XVIII-lea situată în apropiere de Veneția.",
+                  "category": "historical",
+                  "coords": [
+                        12.23877,
+                        45.51101
+                  ]
+            },
+            {
+                  "name": "Duomo di San Lorenzo Martire",
+                  "text": "Principala biserică din Mestre din secolul al XVIII-lea, cu o fațadă neoclasică.",
+                  "category": "religious",
+                  "coords": [
+                        12.240887,
+                        45.492889
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teatro Arnaldo Momo",
+                  "text": "A theatre in the Mestre district serving as a center for contemporary art and performances.",
+                  "category": "cultural",
+                  "coords": [
+                        12.236005,
+                        45.484706
+                  ]
+            },
+            {
+                  "name": "M9 Museo 900",
+                  "text": "Multimedia museum in Mestre dedicated to the history and daily life of 20th-century Italy.",
+                  "category": "museum",
+                  "coords": [
+                        12.240923,
+                        45.49174
+                  ]
+            },
+            {
+                  "name": "Teatro del Parco",
+                  "text": "A theatre building in Mestre's Albanese Park, hosting concerts and festivals.",
+                  "category": "cultural",
+                  "coords": [
+                        12.259557,
+                        45.499368
+                  ]
+            },
+            {
+                  "name": "Forte Gazzera",
+                  "text": "A former 19th-century military fort that now houses exhibitions on fortification history.",
+                  "category": "fortress",
+                  "coords": [
+                        12.210658,
+                        45.499087
+                  ]
+            },
+            {
+                  "name": "Teatro Toniolo",
+                  "text": "A prominent theater in Mestre known for its wide range of cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        12.239484,
+                        45.493482
+                  ]
+            },
+            {
+                  "name": "Forte Marghera",
+                  "text": "A 19th-century fortress that now serves as a cultural center and public park.",
+                  "category": "fortress",
+                  "coords": [
+                        12.261959,
+                        45.475111
+                  ]
+            },
+            {
+                  "name": "Museo storico militare",
+                  "text": "This military history museum displays historical equipment and documents related to the defense of Venice.",
+                  "category": "museum",
+                  "coords": [
+                        12.25962,
+                        45.475646
+                  ]
+            },
+            {
+                  "name": "Museo Imbarcazioni Tradizionali",
+                  "text": "An exhibition of traditional Venetian boats preserving the maritime heritage of the region.",
+                  "category": "museum",
+                  "coords": [
+                        12.264256,
+                        45.475789
+                  ]
+            },
+            {
+                  "name": "Parco Alfredo Albanese",
+                  "text": "A spacious urban park in Mestre offering sports and recreational facilities in a green setting.",
+                  "category": "park",
+                  "coords": [
+                        12.262484,
+                        45.499172
+                  ]
+            },
+            {
+                  "name": "Parco Piraghetto",
+                  "text": "A popular park near the center of Mestre, ideal for walks and local community events.",
+                  "category": "park",
+                  "coords": [
+                        12.226076,
+                        45.488505
+                  ]
+            },
+            {
+                  "name": "Parco San Giuliano",
+                  "text": "One of the largest urban parks in Europe, offering views over the Venice Lagoon.",
+                  "category": "park",
+                  "coords": [
+                        12.275826,
+                        45.472649
+                  ]
+            },
+            {
+                  "name": "Parco Hayez",
+                  "text": "A green space in the Zelarino district providing a quiet area for outdoor relaxation.",
+                  "category": "park",
+                  "coords": [
+                        12.225865,
+                        45.502093
+                  ]
+            },
+            {
+                  "name": "Parco Andrea Zanzotto",
+                  "text": "A park named after the poet Andrea Zanzotto, serving as a peaceful retreat for local residents.",
+                  "category": "park",
+                  "coords": [
+                        12.235166,
+                        45.494112
+                  ]
+            },
+            {
+                  "name": "Villa Tivan",
+                  "text": "A historic manor house in Mestre known for its elegant architectural style.",
+                  "category": "historical",
+                  "coords": [
+                        12.237329,
+                        45.507861
+                  ]
+            },
+            {
+                  "name": "Villa Barbarich-Pezzana-Fraccaro",
+                  "text": "Historic Venetian villa in Mestre, serving as a stately manor house.",
+                  "category": "historical",
+                  "coords": [
+                        12.217255,
+                        45.504582
+                  ]
+            },
+            {
+                  "name": "Villa Algarotti-Berchet",
+                  "text": "An 18th-century neoclassical villa located near Venice in the Mestre area.",
+                  "category": "historical",
+                  "coords": [
+                        12.23877,
+                        45.51101
+                  ]
+            },
+            {
+                  "name": "Duomo di San Lorenzo Martire",
+                  "text": "The main church of Mestre from the 18th century, featuring a neoclassical facade.",
+                  "category": "religious",
+                  "coords": [
+                        12.240887,
+                        45.492889
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IT",
     name: { de: "Mestre", hu: "Mestre", ro: "Mestre", en: "Mestre" },
@@ -18004,7 +32935,88 @@ export const italyCitiesV2: POI[] = [
     image: "/poi-images/italy-formia-cities-v2.webp",
   },
   {
-    id: "italy-cisterna-di-latina-cities-v2",
+    id: "italy-cisterna-di-latina-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Palazzo Caetani",
+                  "text": "Renaissance-Palast und historische Residenz der Familie Caetani in Cisterna.",
+                  "category": "castle",
+                  "coords": [
+                        12.829543,
+                        41.591791
+                  ]
+            },
+            {
+                  "name": "Appia Antica",
+                  "text": "Ein Abschnitt der berühmten antiken römischen Straße in der Nähe von Cisterna.",
+                  "category": "historical",
+                  "coords": [
+                        12.842075,
+                        41.606298
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Palazzo Caetani",
+                  "text": "Reneszánsz palota és a Caetani család történelmi rezidenciája Cisternában.",
+                  "category": "castle",
+                  "coords": [
+                        12.829543,
+                        41.591791
+                  ]
+            },
+            {
+                  "name": "Appia Antica",
+                  "text": "A híres ókori római út egy szakasza Cisterna di Latina közelében.",
+                  "category": "historical",
+                  "coords": [
+                        12.842075,
+                        41.606298
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Palazzo Caetani",
+                  "text": "Palat renascentist și reședință istorică a familiei Caetani în Cisterna.",
+                  "category": "castle",
+                  "coords": [
+                        12.829543,
+                        41.591791
+                  ]
+            },
+            {
+                  "name": "Appia Antica",
+                  "text": "O secțiune a celebrei drumuri romane antice din apropiere de Cisterna.",
+                  "category": "historical",
+                  "coords": [
+                        12.842075,
+                        41.606298
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Palazzo Caetani",
+                  "text": "Renaissance palace and historical residence of the Caetani family in Cisterna.",
+                  "category": "castle",
+                  "coords": [
+                        12.829543,
+                        41.591791
+                  ]
+            },
+            {
+                  "name": "Appia Antica",
+                  "text": "A section of the famous ancient Roman road located near Cisterna di Latina.",
+                  "category": "historical",
+                  "coords": [
+                        12.842075,
+                        41.606298
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IT",
     name: { de: "Cisterna di Latina", hu: "Cisterna di Latina", ro: "Cisterna di Latina", en: "Cisterna di Latina" },
@@ -18211,7 +33223,124 @@ export const italyCitiesV2: POI[] = [
     image: "/poi-images/italy-fondi-cities-v2.webp",
   },
   {
-    id: "italy-colleferro-cities-v2",
+    id: "italy-colleferro-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Castello di Colleferro",
+                  "text": "Mittelalterliche Burgruine auf einem Hügel, die das Sacco-Tal in der Nähe von Colleferro überblickt.",
+                  "category": "castle",
+                  "coords": [
+                        12.996049,
+                        41.725882
+                  ]
+            },
+            {
+                  "name": "Castello di Piombinara",
+                  "text": "Die Überreste einer mittelalterlichen Festung mit einem markanten Turm an der alten Via Latina.",
+                  "category": "castle",
+                  "coords": [
+                        12.9984,
+                        41.746468
+                  ]
+            },
+            {
+                  "name": "Museo civico delle Telecomunicazioni",
+                  "text": "Ein Museum in Colleferro, das der Geschichte und Entwicklung der Telekommunikation gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        13.00319,
+                        41.730743
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Castello di Colleferro",
+                  "text": "Domboldalon álló középkori várrom, amely a Colleferro melletti Sacco-völgyre néz.",
+                  "category": "castle",
+                  "coords": [
+                        12.996049,
+                        41.725882
+                  ]
+            },
+            {
+                  "name": "Castello di Piombinara",
+                  "text": "Egy középkori erődítmény maradványai jellegzetes toronnyal az ősi Via Latina mentén.",
+                  "category": "castle",
+                  "coords": [
+                        12.9984,
+                        41.746468
+                  ]
+            },
+            {
+                  "name": "Museo civico delle Telecomunicazioni",
+                  "text": "A távközlés történetének és fejlődésének szentelt múzeum Colleferro városában.",
+                  "category": "museum",
+                  "coords": [
+                        13.00319,
+                        41.730743
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castello di Colleferro",
+                  "text": "Ruinele unui castel medieval situat pe un deal, dominând valea Sacco de lângă Colleferro.",
+                  "category": "castle",
+                  "coords": [
+                        12.996049,
+                        41.725882
+                  ]
+            },
+            {
+                  "name": "Castello di Piombinara",
+                  "text": "Resturile unei fortificații medievale cu un turn proeminent, situată de-a lungul vechii Via Latina.",
+                  "category": "castle",
+                  "coords": [
+                        12.9984,
+                        41.746468
+                  ]
+            },
+            {
+                  "name": "Museo civico delle Telecomunicazioni",
+                  "text": "Un muzeu din Colleferro dedicat istoriei și evoluției telecomunicațiilor.",
+                  "category": "museum",
+                  "coords": [
+                        13.00319,
+                        41.730743
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Castello di Colleferro",
+                  "text": "Medieval castle ruins on a hill overlooking the Sacco valley near Colleferro.",
+                  "category": "castle",
+                  "coords": [
+                        12.996049,
+                        41.725882
+                  ]
+            },
+            {
+                  "name": "Castello di Piombinara",
+                  "text": "The remains of a medieval fortress with a prominent tower along the ancient Via Latina.",
+                  "category": "castle",
+                  "coords": [
+                        12.9984,
+                        41.746468
+                  ]
+            },
+            {
+                  "name": "Museo civico delle Telecomunicazioni",
+                  "text": "A museum in Colleferro dedicated to the history and evolution of telecommunications.",
+                  "category": "museum",
+                  "coords": [
+                        13.00319,
+                        41.730743
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IT",
     name: { de: "Colleferro", hu: "Colleferro", ro: "Colleferro", en: "Colleferro" },
@@ -18301,7 +33430,160 @@ export const italyCitiesV2: POI[] = [
     image: "/poi-images/italy-ceccano-cities-v2.webp",
   },
   {
-    id: "italy-ferentino-cities-v2",
+    id: "italy-ferentino-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mercato romano",
+                  "text": "Überreste eines antiken Marktplatzes aus der Römerzeit im Zentrum von Ferentino.",
+                  "category": "historical",
+                  "coords": [
+                        13.257109,
+                        41.693675
+                  ]
+            },
+            {
+                  "name": "Porta sanguinaria",
+                  "text": "Antikes Stadttor, das Teil der vorrömischen Stadtmauer von Ferentino ist.",
+                  "category": "historical",
+                  "coords": [
+                        13.254482,
+                        41.690321
+                  ]
+            },
+            {
+                  "name": "mura poligonali",
+                  "text": "Massive antike Stadtmauern, die aus großen, unregelmäßig geformten Steinen bestehen.",
+                  "category": "historical",
+                  "coords": [
+                        13.257344,
+                        41.690892
+                  ]
+            },
+            {
+                  "name": "Concattedrale dei Santi Giovanni e Paolo",
+                  "text": "Romanische Kathedrale aus dem 12. Jahrhundert, erbaut auf einer antiken Akropolis.",
+                  "category": "religious",
+                  "coords": [
+                        13.256059,
+                        41.693145
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mercato romano",
+                  "text": "Egy ókori római kori piactér maradványai Ferentino központjában.",
+                  "category": "historical",
+                  "coords": [
+                        13.257109,
+                        41.693675
+                  ]
+            },
+            {
+                  "name": "Porta sanguinaria",
+                  "text": "Ókori városkapu, amely Ferentino római kor előtti védőfalának része.",
+                  "category": "historical",
+                  "coords": [
+                        13.254482,
+                        41.690321
+                  ]
+            },
+            {
+                  "name": "mura poligonali",
+                  "text": "Hatalmas ókori városfalak, amelyeket nagy, szabálytalan alakú kövekből építettek.",
+                  "category": "historical",
+                  "coords": [
+                        13.257344,
+                        41.690892
+                  ]
+            },
+            {
+                  "name": "Concattedrale dei Santi Giovanni e Paolo",
+                  "text": "12. századi román stílusú székesegyház, amely egy ókori akropolisz helyén épült.",
+                  "category": "religious",
+                  "coords": [
+                        13.256059,
+                        41.693145
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mercato romano",
+                  "text": "Rămășițele unei piețe antice din epoca romană în centrul orașului Ferentino.",
+                  "category": "historical",
+                  "coords": [
+                        13.257109,
+                        41.693675
+                  ]
+            },
+            {
+                  "name": "Porta sanguinaria",
+                  "text": "Poartă antică a orașului, parte a zidurilor de apărare preromane din Ferentino.",
+                  "category": "historical",
+                  "coords": [
+                        13.254482,
+                        41.690321
+                  ]
+            },
+            {
+                  "name": "mura poligonali",
+                  "text": "Ziduri antice masive construite din pietre mari, cu formă neregulată.",
+                  "category": "historical",
+                  "coords": [
+                        13.257344,
+                        41.690892
+                  ]
+            },
+            {
+                  "name": "Concattedrale dei Santi Giovanni e Paolo",
+                  "text": "Catedrală romanică din secolul al XII-lea, construită pe locul unei vechi acropole.",
+                  "category": "religious",
+                  "coords": [
+                        13.256059,
+                        41.693145
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mercato romano",
+                  "text": "Remains of an ancient Roman-era marketplace in the center of Ferentino.",
+                  "category": "historical",
+                  "coords": [
+                        13.257109,
+                        41.693675
+                  ]
+            },
+            {
+                  "name": "Porta sanguinaria",
+                  "text": "Ancient city gate that is part of the pre-Roman defensive walls of Ferentino.",
+                  "category": "historical",
+                  "coords": [
+                        13.254482,
+                        41.690321
+                  ]
+            },
+            {
+                  "name": "mura poligonali",
+                  "text": "Massive ancient walls built with large, irregularly shaped stones in Ferentino.",
+                  "category": "historical",
+                  "coords": [
+                        13.257344,
+                        41.690892
+                  ]
+            },
+            {
+                  "name": "Concattedrale dei Santi Giovanni e Paolo",
+                  "text": "12th-century Romanesque cathedral built on the site of an ancient acropolis.",
+                  "category": "religious",
+                  "coords": [
+                        13.256059,
+                        41.693145
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IT",
     name: { de: "Ferentino", hu: "Ferentino", ro: "Ferentino", en: "Ferentino" },
@@ -18436,7 +33718,160 @@ export const italyCitiesV2: POI[] = [
     image: "/poi-images/italy-veroli-cities-v2.webp",
   },
   {
-    id: "italy-anagni-cities-v2",
+    id: "italy-anagni-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Bonifacio VIII",
+                  "text": "Das Museum befindet sich im Papstpalast von Anagni, dem Ort des historischen Attentats von Anagni.",
+                  "category": "museum",
+                  "coords": [
+                        13.160635,
+                        41.742623
+                  ]
+            },
+            {
+                  "name": "Museo della cattedrale di Anagni",
+                  "text": "Bekannt für seinen wertvollen Domschatz und die Krypta mit bedeutenden mittelalterlichen Fresken.",
+                  "category": "museum",
+                  "coords": [
+                        13.162199,
+                        41.742907
+                  ]
+            },
+            {
+                  "name": "Arcazzi di Piscina",
+                  "text": "Antike römische Mauerstrukturen in Anagni, die einst als monumentale Terrassenstützen dienten.",
+                  "category": "historical",
+                  "coords": [
+                        13.157068,
+                        41.743525
+                  ]
+            },
+            {
+                  "name": "Collegio Principe di Piemonte",
+                  "text": "Ein ehemaliges kirchliches Internat und Kolleg in Anagni, das heute kulturelle Zwecke erfüllt.",
+                  "category": "religious",
+                  "coords": [
+                        13.146967,
+                        41.749353
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Bonifacio VIII",
+                  "text": "A múzeum az anagni pápai palotában található, ahol a történelmi anagni merénylet történt.",
+                  "category": "museum",
+                  "coords": [
+                        13.160635,
+                        41.742623
+                  ]
+            },
+            {
+                  "name": "Museo della cattedrale di Anagni",
+                  "text": "Értékes székesegyházi kincstáráról és a jelentős középkori freskókkal díszített kriptájáról ismert.",
+                  "category": "museum",
+                  "coords": [
+                        13.162199,
+                        41.742907
+                  ]
+            },
+            {
+                  "name": "Arcazzi di Piscina",
+                  "text": "Ókori római falszerkezetek Anagniban, amelyek egykor monumentális teraszként szolgáltak.",
+                  "category": "historical",
+                  "coords": [
+                        13.157068,
+                        41.743525
+                  ]
+            },
+            {
+                  "name": "Collegio Principe di Piemonte",
+                  "text": "Egykori egyházi kollégium és internátus Anagni városában, amely jelentős építészeti emlék.",
+                  "category": "religious",
+                  "coords": [
+                        13.146967,
+                        41.749353
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Bonifacio VIII",
+                  "text": "Muzeul este situat în palatul papal din Anagni, locul celebrului incident istoric „atentatul de la Anagni”.",
+                  "category": "museum",
+                  "coords": [
+                        13.160635,
+                        41.742623
+                  ]
+            },
+            {
+                  "name": "Museo della cattedrale di Anagni",
+                  "text": "Cunoscut pentru tezaurul valoros al catedralei și cripta cu fresce medievale importante.",
+                  "category": "museum",
+                  "coords": [
+                        13.162199,
+                        41.742907
+                  ]
+            },
+            {
+                  "name": "Arcazzi di Piscina",
+                  "text": "Structuri antice romane din zidărie în Anagni, care serveau drept suporturi monumentale pentru terase.",
+                  "category": "historical",
+                  "coords": [
+                        13.157068,
+                        41.743525
+                  ]
+            },
+            {
+                  "name": "Collegio Principe di Piemonte",
+                  "text": "Un fost colegiu și internat bisericesc din Anagni, care astăzi servește scopuri culturale.",
+                  "category": "religious",
+                  "coords": [
+                        13.146967,
+                        41.749353
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Bonifacio VIII",
+                  "text": "The museum is located in the papal palace of Anagni, the site of the historic \"outrage of Anagni\" in 1303.",
+                  "category": "museum",
+                  "coords": [
+                        13.160635,
+                        41.742623
+                  ]
+            },
+            {
+                  "name": "Museo della cattedrale di Anagni",
+                  "text": "Known for its valuable cathedral treasury and the crypt with significant medieval frescoes.",
+                  "category": "museum",
+                  "coords": [
+                        13.162199,
+                        41.742907
+                  ]
+            },
+            {
+                  "name": "Arcazzi di Piscina",
+                  "text": "Ancient Roman masonry structures in Anagni that once served as monumentale terrace supports.",
+                  "category": "historical",
+                  "coords": [
+                        13.157068,
+                        41.743525
+                  ]
+            },
+            {
+                  "name": "Collegio Principe di Piemonte",
+                  "text": "A former ecclesiastical college and boarding school in Anagni, now used for cultural purposes.",
+                  "category": "religious",
+                  "coords": [
+                        13.146967,
+                        41.749353
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IT",
     name: { de: "Anagni", hu: "Anagni", ro: "Anagni", en: "Anagni" },
@@ -18491,6 +33926,51 @@ export const italyCitiesV2: POI[] = [
                         13.343705,
                         41.726078
                   ]
+            },
+            {
+                  "name": "Acropoli (Civita) Di Alatri",
+                  "text": "Vorrömische Akropolis von Alatri, bekannt für ihre monumentalen Zyklopenmauern.",
+                  "category": "historical",
+                  "coords": [
+                        13.344386,
+                        41.724735
+                  ]
+            },
+            {
+                  "name": "Aletrium",
+                  "text": "Archäologische Stätte der antiken hernikischen Siedlung Aletrium.",
+                  "category": "historical",
+                  "coords": [
+                        13.343353,
+                        41.724662
+                  ]
+            },
+            {
+                  "name": "Chiostro di San Francesco",
+                  "text": "Historischer Kreuzgang des Franziskanerklosters, heute als Kulturraum genutzt.",
+                  "category": "museum",
+                  "coords": [
+                        13.341797,
+                        41.725582
+                  ]
+            },
+            {
+                  "name": "Monastero della Santissima Annunziata",
+                  "text": "Historisches Kloster der Santissima Annunziata in Alatri.",
+                  "category": "religious",
+                  "coords": [
+                        13.342363,
+                        41.727358
+                  ]
+            },
+            {
+                  "name": "Parco Felice Celani",
+                  "text": "Öffentliche Grünanlage im Stadtzentrum von Alatri.",
+                  "category": "park",
+                  "coords": [
+                        13.334839,
+                        41.724418
+                  ]
             }
       ],
       "hu": [
@@ -18501,6 +33981,51 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.343705,
                         41.726078
+                  ]
+            },
+            {
+                  "name": "Acropoli (Civita) Di Alatri",
+                  "text": "Alatri prerómai kori akropolisza, amely monumentális küklopszi falairól ismert.",
+                  "category": "historical",
+                  "coords": [
+                        13.344386,
+                        41.724735
+                  ]
+            },
+            {
+                  "name": "Aletrium",
+                  "text": "Az ősi hernikusz település, Aletrium régészeti helyszíne Alatriban.",
+                  "category": "historical",
+                  "coords": [
+                        13.343353,
+                        41.724662
+                  ]
+            },
+            {
+                  "name": "Chiostro di San Francesco",
+                  "text": "A ferences kolostor történelmi keringője Alatriban, amely ma kulturális tér.",
+                  "category": "museum",
+                  "coords": [
+                        13.341797,
+                        41.725582
+                  ]
+            },
+            {
+                  "name": "Monastero della Santissima Annunziata",
+                  "text": "A Santissima Annunziata történelmi kolostoregyüttese Alatriban.",
+                  "category": "religious",
+                  "coords": [
+                        13.342363,
+                        41.727358
+                  ]
+            },
+            {
+                  "name": "Parco Felice Celani",
+                  "text": "Nyilvános városi zöldterület Alatri központjában.",
+                  "category": "park",
+                  "coords": [
+                        13.334839,
+                        41.724418
                   ]
             }
       ],
@@ -18513,6 +34038,51 @@ export const italyCitiesV2: POI[] = [
                         13.343705,
                         41.726078
                   ]
+            },
+            {
+                  "name": "Acropoli (Civita) Di Alatri",
+                  "text": "Acropola pre-romană din Alatri, cunoscută pentru zidurile sale ciclopice monumentale.",
+                  "category": "historical",
+                  "coords": [
+                        13.344386,
+                        41.724735
+                  ]
+            },
+            {
+                  "name": "Aletrium",
+                  "text": "Situl arheologic al așezării antice hernice Aletrium din Alatri.",
+                  "category": "historical",
+                  "coords": [
+                        13.343353,
+                        41.724662
+                  ]
+            },
+            {
+                  "name": "Chiostro di San Francesco",
+                  "text": "Claustrul istoric al mănăstirii franciscane din Alatri, utilizat astăzi ca spațiu cultural.",
+                  "category": "museum",
+                  "coords": [
+                        13.341797,
+                        41.725582
+                  ]
+            },
+            {
+                  "name": "Monastero della Santissima Annunziata",
+                  "text": "Mănăstirea istorică Santissima Annunziata din Alatri.",
+                  "category": "religious",
+                  "coords": [
+                        13.342363,
+                        41.727358
+                  ]
+            },
+            {
+                  "name": "Parco Felice Celani",
+                  "text": "Spațiu verde public situat în centrul orașului Alatri.",
+                  "category": "park",
+                  "coords": [
+                        13.334839,
+                        41.724418
+                  ]
             }
       ],
       "en": [
@@ -18523,6 +34093,51 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.343705,
                         41.726078
+                  ]
+            },
+            {
+                  "name": "Acropoli (Civita) Di Alatri",
+                  "text": "Pre-Roman acropolis of Alatri, known for its monumental cyclopean walls.",
+                  "category": "historical",
+                  "coords": [
+                        13.344386,
+                        41.724735
+                  ]
+            },
+            {
+                  "name": "Aletrium",
+                  "text": "Archaeological site of the ancient Hernician settlement Aletrium in Alatri.",
+                  "category": "historical",
+                  "coords": [
+                        13.343353,
+                        41.724662
+                  ]
+            },
+            {
+                  "name": "Chiostro di San Francesco",
+                  "text": "Historic cloister of the Franciscan monastery in Alatri, now used as a cultural space.",
+                  "category": "museum",
+                  "coords": [
+                        13.341797,
+                        41.725582
+                  ]
+            },
+            {
+                  "name": "Monastero della Santissima Annunziata",
+                  "text": "Historical monastery of the Santissima Annunziata in Alatri.",
+                  "category": "religious",
+                  "coords": [
+                        13.342363,
+                        41.727358
+                  ]
+            },
+            {
+                  "name": "Parco Felice Celani",
+                  "text": "Public green space located in the city center of Alatri.",
+                  "category": "park",
+                  "coords": [
+                        13.334839,
+                        41.724418
                   ]
             }
       ]
@@ -18571,7 +34186,124 @@ export const italyCitiesV2: POI[] = [
     image: "/poi-images/italy-alatri-cities-v2.webp",
   },
   {
-    id: "italy-sora-cities-v2",
+    id: "italy-sora-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Media Valle del Liri",
+                  "text": "Museum zur archäologischen und historischen Entwicklung des Liri-Tals.",
+                  "category": "museum",
+                  "coords": [
+                        13.61339,
+                        41.720903
+                  ]
+            },
+            {
+                  "name": "Castello dei Santi Casto e Cassio",
+                  "text": "Eine mittelalterliche Festung auf dem Berg San Casto mit Panoramablick über die Stadt Sora.",
+                  "category": "castle",
+                  "coords": [
+                        13.612804,
+                        41.728444
+                  ]
+            },
+            {
+                  "name": "Area archeologica di piazza Anunziata",
+                  "text": "Eine archäologische Ausgrabungsstätte im Stadtzentrum mit Überresten antiker römischer Bauwerke.",
+                  "category": "historical",
+                  "coords": [
+                        13.61168,
+                        41.715451
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Media Valle del Liri",
+                  "text": "A Liri-völgy régészeti és történelmi fejlődését bemutató múzeum Sorában.",
+                  "category": "museum",
+                  "coords": [
+                        13.61339,
+                        41.720903
+                  ]
+            },
+            {
+                  "name": "Castello dei Santi Casto e Cassio",
+                  "text": "Középkori erődítmény a San Casto-hegyen, amely panorámás kilátást nyújt Sora városára.",
+                  "category": "castle",
+                  "coords": [
+                        13.612804,
+                        41.728444
+                  ]
+            },
+            {
+                  "name": "Area archeologica di piazza Anunziata",
+                  "text": "Régészeti terület a városközpontban, ahol ókori római épületek maradványai láthatóak.",
+                  "category": "historical",
+                  "coords": [
+                        13.61168,
+                        41.715451
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Media Valle del Liri",
+                  "text": "Muzeu dedicat istoriei arheologice și evoluției văii râului Liri din Sora.",
+                  "category": "museum",
+                  "coords": [
+                        13.61339,
+                        41.720903
+                  ]
+            },
+            {
+                  "name": "Castello dei Santi Casto e Cassio",
+                  "text": "O fortăreață medievală pe muntele San Casto, oferind o vedere panoramică asupra orașului Sora.",
+                  "category": "castle",
+                  "coords": [
+                        13.612804,
+                        41.728444
+                  ]
+            },
+            {
+                  "name": "Area archeologica di piazza Anunziata",
+                  "text": "Un sit arheologic în centrul orașului ce prezintă vestigii ale unor structuri romane antice.",
+                  "category": "historical",
+                  "coords": [
+                        13.61168,
+                        41.715451
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Media Valle del Liri",
+                  "text": "Museum dedicated to the archaeological and historical history of the Liri Valley.",
+                  "category": "museum",
+                  "coords": [
+                        13.61339,
+                        41.720903
+                  ]
+            },
+            {
+                  "name": "Castello dei Santi Casto e Cassio",
+                  "text": "A medieval fortress on Mount San Casto offering panoramic views over the city of Sora.",
+                  "category": "castle",
+                  "coords": [
+                        13.612804,
+                        41.728444
+                  ]
+            },
+            {
+                  "name": "Area archeologica di piazza Anunziata",
+                  "text": "An archaeological site in the city center featuring remains of ancient Roman structures.",
+                  "category": "historical",
+                  "coords": [
+                        13.61168,
+                        41.715451
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IT",
     name: { de: "Sora", hu: "Sora", ro: "Sora", en: "Sora" },
@@ -18922,7 +34654,52 @@ export const italyCitiesV2: POI[] = [
     image: "/poi-images/italy-cassino-cities-v2.webp",
   },
   {
-    id: "italy-roccasecca-cities-v2",
+    id: "italy-roccasecca-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Castello dei Conti d'Aquino;Castello Dei Conti D'Aquino",
+                  "text": "Die Ruinen der mittelalterlichen Burg in Roccasecca, Geburtsort des heiligen Thomas von Aquin.",
+                  "category": "castle",
+                  "coords": [
+                        13.673261,
+                        41.547556
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Castello dei Conti d'Aquino;Castello Dei Conti D'Aquino",
+                  "text": "Középkori várrom Roccaseccában, amely Morva Szent Tamás szülőhelyeként ismert.",
+                  "category": "castle",
+                  "coords": [
+                        13.673261,
+                        41.547556
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castello dei Conti d'Aquino;Castello Dei Conti D'Aquino",
+                  "text": "Ruinele unui castel medieval din Roccasecca, locul de naștere al Sfântului Toma d'Aquino.",
+                  "category": "castle",
+                  "coords": [
+                        13.673261,
+                        41.547556
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Castello dei Conti d'Aquino;Castello Dei Conti D'Aquino",
+                  "text": "The ruins of a medieval castle in Roccasecca, famous as the birthplace of Saint Thomas Aquinas.",
+                  "category": "castle",
+                  "coords": [
+                        13.673261,
+                        41.547556
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IT",
     name: { de: "Roccasecca", hu: "Roccasecca", ro: "Roccasecca", en: "Roccasecca" },
@@ -19102,7 +34879,52 @@ export const italyCitiesV2: POI[] = [
     image: "/poi-images/italy-ceprano-cities-v2.webp",
   },
   {
-    id: "italy-arnara-cities-v2",
+    id: "italy-arnara-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rocca di Arnara",
+                  "text": "Eine historische Festung in der Gemeinde Arnara, die das Stadtbild dominiert.",
+                  "category": "castle",
+                  "coords": [
+                        13.388856,
+                        41.584786
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rocca di Arnara",
+                  "text": "Arnara község történelmi erődítménye, amely meghatározza a település látképét.",
+                  "category": "castle",
+                  "coords": [
+                        13.388856,
+                        41.584786
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rocca di Arnara",
+                  "text": "O fortăreață istorică din localitatea Arnara, care domină peisajul urban.",
+                  "category": "castle",
+                  "coords": [
+                        13.388856,
+                        41.584786
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rocca di Arnara",
+                  "text": "A historic fortress in the municipality of Arnara that dominates the townscape.",
+                  "category": "castle",
+                  "coords": [
+                        13.388856,
+                        41.584786
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IT",
     name: { de: "Arnara", hu: "Arnara", ro: "Arnara", en: "Arnara" },
@@ -19282,7 +35104,88 @@ export const italyCitiesV2: POI[] = [
     image: "/poi-images/italy-pastena-cities-v2.webp",
   },
   {
-    id: "italy-san-giovanni-incaricato-cities-v2",
+    id: "italy-san-giovanni-incaricato-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fabrateria Nova amphitheatre",
+                  "text": "Überreste eines römischen Amphitheaters der antiken Stadt Fabrateria Nova bei San Giovanni Incaricato.",
+                  "category": "historical",
+                  "coords": [
+                        13.55296,
+                        41.518948
+                  ]
+            },
+            {
+                  "name": "Fabrateria Nova tempio repubblicano",
+                  "text": "Ruinen eines republikanischen Tempels in der archäologischen Zone von Fabrateria Nova.",
+                  "category": "historical",
+                  "coords": [
+                        13.556963,
+                        41.519218
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fabrateria Nova amphitheatre",
+                  "text": "Az ókori Fabrateria Nova római amfiteátrumának maradványai San Giovanni Incaricato közelében.",
+                  "category": "historical",
+                  "coords": [
+                        13.55296,
+                        41.518948
+                  ]
+            },
+            {
+                  "name": "Fabrateria Nova tempio repubblicano",
+                  "text": "Egy köztársaság kori templom romjai Fabrateria Nova régészeti területén.",
+                  "category": "historical",
+                  "coords": [
+                        13.556963,
+                        41.519218
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fabrateria Nova amphitheatre",
+                  "text": "Vestigiile unui amfiteatru roman din orașul antic Fabrateria Nova, lângă San Giovanni Incaricato.",
+                  "category": "historical",
+                  "coords": [
+                        13.55296,
+                        41.518948
+                  ]
+            },
+            {
+                  "name": "Fabrateria Nova tempio repubblicano",
+                  "text": "Ruinele unui templu republican situat în zona arheologică Fabrateria Nova.",
+                  "category": "historical",
+                  "coords": [
+                        13.556963,
+                        41.519218
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fabrateria Nova amphitheatre",
+                  "text": "Remains of a Roman amphitheatre from the ancient city of Fabrateria Nova near San Giovanni Incaricato.",
+                  "category": "historical",
+                  "coords": [
+                        13.55296,
+                        41.518948
+                  ]
+            },
+            {
+                  "name": "Fabrateria Nova tempio repubblicano",
+                  "text": "Ruins of a republican temple located in the archaeological zone of Fabrateria Nova.",
+                  "category": "historical",
+                  "coords": [
+                        13.556963,
+                        41.519218
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IT",
     name: { de: "San Giovanni Incarico", hu: "San Giovanni Incarico", ro: "San Giovanni Incarico", en: "San Giovanni Incarico" },
@@ -19327,7 +35230,52 @@ export const italyCitiesV2: POI[] = [
     image: "/poi-images/italy-san-giovanni-incaricato-cities-v2.webp",
   },
   {
-    id: "italy-colfelice-cities-v2",
+    id: "italy-colfelice-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo della Ferrovia della Valle del Liri",
+                  "text": "Eisenbahnmuseum in Colfelice zur Geschichte der Strecke in der Valle del Liri.",
+                  "category": "museum",
+                  "coords": [
+                        13.572257,
+                        41.587899
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo della Ferrovia della Valle del Liri",
+                  "text": "Vasúttörténeti múzeum Colfelice-ben, a Liri-völgy vonalának emlékeivel.",
+                  "category": "museum",
+                  "coords": [
+                        13.572257,
+                        41.587899
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo della Ferrovia della Valle del Liri",
+                  "text": "Muzeul feroviar din Colfelice, dedicat istoriei liniei din Valea Liri.",
+                  "category": "museum",
+                  "coords": [
+                        13.572257,
+                        41.587899
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo della Ferrovia della Valle del Liri",
+                  "text": "Railway museum in Colfelice dedicated to the history of the line in the Liri Valley.",
+                  "category": "museum",
+                  "coords": [
+                        13.572257,
+                        41.587899
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IT",
     name: { de: "Colfelice", hu: "Colfelice", ro: "Colfelice", en: "Colfelice" },
@@ -19372,7 +35320,124 @@ export const italyCitiesV2: POI[] = [
     image: "/poi-images/italy-colfelice-cities-v2.webp",
   },
   {
-    id: "italy-rocca-d-arce-cities-v2",
+    id: "italy-rocca-d-arce-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Torre di Campolato",
+                  "text": "Ein historischer Wehrturm in strategischer Lage auf einem Felsen über dem Liri-Tal.",
+                  "category": "fortress",
+                  "coords": [
+                        13.552271,
+                        41.598241
+                  ]
+            },
+            {
+                  "name": "Museo della Ferrovia della Valle del Liri",
+                  "text": "Ein Museum, das der Geschichte und Technik der Eisenbahnstrecke im Liri-Tal gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        13.572257,
+                        41.587899
+                  ]
+            },
+            {
+                  "name": "Castello Succorte",
+                  "text": "Die Überreste einer mittelalterlichen Burganlage in der Gemeinde Rocca d'Arce.",
+                  "category": "castle",
+                  "coords": [
+                        13.568009,
+                        41.617844
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Torre di Campolato",
+                  "text": "Történelmi bástya stratégiai helyszínen, egy sziklán a Liri-völgy felett.",
+                  "category": "fortress",
+                  "coords": [
+                        13.552271,
+                        41.598241
+                  ]
+            },
+            {
+                  "name": "Museo della Ferrovia della Valle del Liri",
+                  "text": "A Liri-völgyi vasútvonal történetét és technikai emlékeit bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        13.572257,
+                        41.587899
+                  ]
+            },
+            {
+                  "name": "Castello Succorte",
+                  "text": "Egy középkori várkastély maradványai Rocca d'Arce község területén.",
+                  "category": "castle",
+                  "coords": [
+                        13.568009,
+                        41.617844
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Torre di Campolato",
+                  "text": "Un turn de apărare istoric situat strategic pe o stâncă deasupra văii Liri.",
+                  "category": "fortress",
+                  "coords": [
+                        13.552271,
+                        41.598241
+                  ]
+            },
+            {
+                  "name": "Museo della Ferrovia della Valle del Liri",
+                  "text": "Un muzeu dedicat istoriei și tehnicii liniei ferate din valea Liri.",
+                  "category": "museum",
+                  "coords": [
+                        13.572257,
+                        41.587899
+                  ]
+            },
+            {
+                  "name": "Castello Succorte",
+                  "text": "Rămășițele unui castel medieval situat în comuna Rocca d'Arce.",
+                  "category": "castle",
+                  "coords": [
+                        13.568009,
+                        41.617844
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Torre di Campolato",
+                  "text": "A historic defensive tower strategically located on a rock above the Liri Valley.",
+                  "category": "fortress",
+                  "coords": [
+                        13.552271,
+                        41.598241
+                  ]
+            },
+            {
+                  "name": "Museo della Ferrovia della Valle del Liri",
+                  "text": "A museum dedicated to the history and technology of the Liri Valley railway line.",
+                  "category": "museum",
+                  "coords": [
+                        13.572257,
+                        41.587899
+                  ]
+            },
+            {
+                  "name": "Castello Succorte",
+                  "text": "The remains of a medieval castle complex located in the municipality of Rocca d'Arce.",
+                  "category": "castle",
+                  "coords": [
+                        13.568009,
+                        41.617844
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IT",
     name: { de: "Rocca d'Arce", hu: "Rocca d'Arce", ro: "Rocca d'Arce", en: "Rocca d'Arce" },
@@ -19507,7 +35572,88 @@ export const italyCitiesV2: POI[] = [
     image: "/poi-images/italy-fontana-liri-cities-v2.webp",
   },
   {
-    id: "italy-santopadre-cities-v2",
+    id: "italy-santopadre-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Palazzo Simoncelli",
+                  "text": "Ein befestigter Palast in Santopadre, der ursprünglich als Verteidigungsanlage diente.",
+                  "category": "castle",
+                  "coords": [
+                        13.470806,
+                        41.643023
+                  ]
+            },
+            {
+                  "name": "Museo d'Arte Moderna Luigi Centra",
+                  "text": "Ein Museum in Santopadre, das den zeitgenössischen Werken des Künstlers Luigi Centra gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        13.514039,
+                        41.639976
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Palazzo Simoncelli",
+                  "text": "Erődített palota Santopadrében, amely eredetileg védelmi célokat szolgált.",
+                  "category": "castle",
+                  "coords": [
+                        13.470806,
+                        41.643023
+                  ]
+            },
+            {
+                  "name": "Museo d'Arte Moderna Luigi Centra",
+                  "text": "Santopadre múzeuma, amely Luigi Centra művész kortárs alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        13.514039,
+                        41.639976
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Palazzo Simoncelli",
+                  "text": "Un palat fortificat din Santopadre, care a servit inițial ca structură defensivă.",
+                  "category": "castle",
+                  "coords": [
+                        13.470806,
+                        41.643023
+                  ]
+            },
+            {
+                  "name": "Museo d'Arte Moderna Luigi Centra",
+                  "text": "Un muzeu din Santopadre dedicat lucrărilor contemporane ale artistului Luigi Centra.",
+                  "category": "museum",
+                  "coords": [
+                        13.514039,
+                        41.639976
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Palazzo Simoncelli",
+                  "text": "A fortified palace in Santopadre that originally served as a defensive structure.",
+                  "category": "castle",
+                  "coords": [
+                        13.470806,
+                        41.643023
+                  ]
+            },
+            {
+                  "name": "Museo d'Arte Moderna Luigi Centra",
+                  "text": "A museum in Santopadre dedicated to the contemporary works of artist Luigi Centra.",
+                  "category": "museum",
+                  "coords": [
+                        13.514039,
+                        41.639976
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IT",
     name: { de: "Santopadre", hu: "Santopadre", ro: "Santopadre", en: "Santopadre" },
@@ -19562,6 +35708,15 @@ export const italyCitiesV2: POI[] = [
                         13.572257,
                         41.587899
                   ]
+            },
+            {
+                  "name": "Torre di Campolato",
+                  "text": "Mittelalterlicher Wehrturm auf einem Hügel in der Nähe von Arce.",
+                  "category": "fortress",
+                  "coords": [
+                        13.552271,
+                        41.598241
+                  ]
             }
       ],
       "hu": [
@@ -19572,6 +35727,15 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.572257,
                         41.587899
+                  ]
+            },
+            {
+                  "name": "Torre di Campolato",
+                  "text": "Középkori védelmi torony egy dombtetőn Arce közelében.",
+                  "category": "fortress",
+                  "coords": [
+                        13.552271,
+                        41.598241
                   ]
             }
       ],
@@ -19584,6 +35748,15 @@ export const italyCitiesV2: POI[] = [
                         13.572257,
                         41.587899
                   ]
+            },
+            {
+                  "name": "Torre di Campolato",
+                  "text": "Turn de apărare medieval situat pe un deal în apropiere de Arce.",
+                  "category": "fortress",
+                  "coords": [
+                        13.552271,
+                        41.598241
+                  ]
             }
       ],
       "en": [
@@ -19594,6 +35767,15 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.572257,
                         41.587899
+                  ]
+            },
+            {
+                  "name": "Torre di Campolato",
+                  "text": "Medieval defensive tower located on a hill near Arce.",
+                  "category": "fortress",
+                  "coords": [
+                        13.552271,
+                        41.598241
                   ]
             }
       ]
@@ -19642,7 +35824,52 @@ export const italyCitiesV2: POI[] = [
     image: "/poi-images/italy-arce-cities-v2.webp",
   },
   {
-    id: "italy-collepardo-cities-v2",
+    id: "italy-collepardo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ecomuseo Orto del Centauro Chirone",
+                  "text": "Ein botanisches Freilichtmuseum, das sich mit der lokalen Flora und der Mythologie befasst.",
+                  "category": "museum",
+                  "coords": [
+                        13.368188,
+                        41.762789
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ecomuseo Orto del Centauro Chirone",
+                  "text": "A helyi flórát és a mitológiát bemutató szabadtéri botanikai ökomúzeum.",
+                  "category": "museum",
+                  "coords": [
+                        13.368188,
+                        41.762789
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ecomuseo Orto del Centauro Chirone",
+                  "text": "Un ecomuzeu botanic în aer liber dedicat florei locale și mitologiei.",
+                  "category": "museum",
+                  "coords": [
+                        13.368188,
+                        41.762789
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ecomuseo Orto del Centauro Chirone",
+                  "text": "An open-air botanical eco-museum focused on local flora and mythology.",
+                  "category": "museum",
+                  "coords": [
+                        13.368188,
+                        41.762789
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IT",
     name: { de: "Collepardo", hu: "Collepardo", ro: "Collepardo", en: "Collepardo" },

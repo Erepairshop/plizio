@@ -2844,6 +2844,24 @@ export const poiExtraHrV2: POI[] = [
                         15.063215,
                         44.463768
                   ]
+            },
+            {
+                  "name": "Mlakarova plaža",
+                  "text": "Ein ruhiger Strand in der Nähe der Stadt Pag auf der gleichnamigen Insel Pag.",
+                  "category": "recreational",
+                  "coords": [
+                        15.022128,
+                        44.46253
+                  ]
+            },
+            {
+                  "name": "Beach Malin",
+                  "text": "Ein lokaler Adriastrand in der Nähe der historischen Stadt Pag auf der Insel Pag.",
+                  "category": "recreational",
+                  "coords": [
+                        15.057287,
+                        44.484917
+                  ]
             }
       ],
       "hu": [
@@ -2948,6 +2966,24 @@ export const poiExtraHrV2: POI[] = [
                   "coords": [
                         15.063215,
                         44.463768
+                  ]
+            },
+            {
+                  "name": "Mlakarova plaža",
+                  "text": "Csendes strand Pag városa közelében, az azonos nevű Pag szigeten.",
+                  "category": "recreational",
+                  "coords": [
+                        15.022128,
+                        44.46253
+                  ]
+            },
+            {
+                  "name": "Beach Malin",
+                  "text": "Helyi adriai strand a történelmi Pag városa közelében, Pag szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        15.057287,
+                        44.484917
                   ]
             }
       ],
@@ -3054,6 +3090,24 @@ export const poiExtraHrV2: POI[] = [
                         15.063215,
                         44.463768
                   ]
+            },
+            {
+                  "name": "Mlakarova plaža",
+                  "text": "O plajă liniștită lângă orașul Pag, pe insula cu același nume Pag.",
+                  "category": "recreational",
+                  "coords": [
+                        15.022128,
+                        44.46253
+                  ]
+            },
+            {
+                  "name": "Beach Malin",
+                  "text": "O plajă adriatică locală în apropierea orașului istoric Pag de pe insula Pag.",
+                  "category": "recreational",
+                  "coords": [
+                        15.057287,
+                        44.484917
+                  ]
             }
       ],
       "en": [
@@ -3159,6 +3213,24 @@ export const poiExtraHrV2: POI[] = [
                         15.063215,
                         44.463768
                   ]
+            },
+            {
+                  "name": "Mlakarova plaža",
+                  "text": "A quiet beach located near the town of Pag on the island of the same name, Pag.",
+                  "category": "recreational",
+                  "coords": [
+                        15.022128,
+                        44.46253
+                  ]
+            },
+            {
+                  "name": "Beach Malin",
+                  "text": "A local Adriatic beach situated near the historic town of Pag on Pag island.",
+                  "category": "recreational",
+                  "coords": [
+                        15.057287,
+                        44.484917
+                  ]
             }
       ],
       "hr": [
@@ -3241,6 +3313,24 @@ export const poiExtraHrV2: POI[] = [
                   "coords": [
                         15.063215,
                         44.463768
+                  ]
+            },
+            {
+                  "name": "Mlakarova plaža",
+                  "text": "Mirna plaža smještena u blizini grada Paga na istoimenom otoku Pagu.",
+                  "category": "recreational",
+                  "coords": [
+                        15.022128,
+                        44.46253
+                  ]
+            },
+            {
+                  "name": "Beach Malin",
+                  "text": "Lokalna jadranska plaža smještena u blizini povijesnog grada Paga na otoku Pagu.",
+                  "category": "recreational",
+                  "coords": [
+                        15.057287,
+                        44.484917
                   ]
             }
       ]
@@ -3571,6 +3661,51 @@ export const poiExtraHrV2: POI[] = [
                         13.910601,
                         44.77463
                   ]
+            },
+            {
+                  "name": "Kršine",
+                  "text": "Ein felsiger Strandabschnitt im Naturpark Kamenjak mit kristallklarem Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        13.908112,
+                        44.768535
+                  ]
+            },
+            {
+                  "name": "Mala Kolombarica",
+                  "text": "Ein beliebter Ort zum Klippenspringen und Schnorcheln an der Südspitze Istriens.",
+                  "category": "recreational",
+                  "coords": [
+                        13.911923,
+                        44.768801
+                  ]
+            },
+            {
+                  "name": "Velika Kolombarica",
+                  "text": "Ein spektakulärer Küstenabschnitt mit einer Meereshöhle im Naturpark Kamenjak.",
+                  "category": "recreational",
+                  "coords": [
+                        13.915067,
+                        44.767996
+                  ]
+            },
+            {
+                  "name": "Sv. Mikule Dražica",
+                  "text": "Ein ruhiger Kieselstrand an der Ostseite der Halbinsel Kamenjak.",
+                  "category": "recreational",
+                  "coords": [
+                        13.921514,
+                        44.767862
+                  ]
+            },
+            {
+                  "name": "Franina",
+                  "text": "Ein naturbelassener Strand im Naturpark Kamenjak, umgeben von unberührter Natur.",
+                  "category": "recreational",
+                  "coords": [
+                        13.924428,
+                        44.769461
+                  ]
             }
       ],
       "hu": [
@@ -3897,6 +4032,51 @@ export const poiExtraHrV2: POI[] = [
                   "coords": [
                         13.910601,
                         44.77463
+                  ]
+            },
+            {
+                  "name": "Kršine",
+                  "text": "Sziklás szakasz a Kamenjak natúrparkban, kristálytiszta vízzel.",
+                  "category": "recreational",
+                  "coords": [
+                        13.908112,
+                        44.768535
+                  ]
+            },
+            {
+                  "name": "Mala Kolombarica",
+                  "text": "Népszerű sziklaugró és búvárhely Isztria legdélebbi csücskén.",
+                  "category": "recreational",
+                  "coords": [
+                        13.911923,
+                        44.768801
+                  ]
+            },
+            {
+                  "name": "Velika Kolombarica",
+                  "text": "Látványos tengerparti szakasz egy tengeri barlanggal a Kamenjak natúrparkban.",
+                  "category": "recreational",
+                  "coords": [
+                        13.915067,
+                        44.767996
+                  ]
+            },
+            {
+                  "name": "Sv. Mikule Dražica",
+                  "text": "Nyugodt kavicsos strand a Kamenjak-félsziget keleti oldalán.",
+                  "category": "recreational",
+                  "coords": [
+                        13.921514,
+                        44.767862
+                  ]
+            },
+            {
+                  "name": "Franina",
+                  "text": "Természetes strand a Kamenjak natúrparkban, érintetlen környezetben.",
+                  "category": "recreational",
+                  "coords": [
+                        13.924428,
+                        44.769461
                   ]
             }
       ],
@@ -4225,6 +4405,51 @@ export const poiExtraHrV2: POI[] = [
                         13.910601,
                         44.77463
                   ]
+            },
+            {
+                  "name": "Kršine",
+                  "text": "O porțiune de coastă stâncoasă în Parcul Natural Kamenjak, cu apă cristalină.",
+                  "category": "recreational",
+                  "coords": [
+                        13.908112,
+                        44.768535
+                  ]
+            },
+            {
+                  "name": "Mala Kolombarica",
+                  "text": "Un loc popular pentru sărituri de pe stânci și snorkeling în vârful sudic al Istriei.",
+                  "category": "recreational",
+                  "coords": [
+                        13.911923,
+                        44.768801
+                  ]
+            },
+            {
+                  "name": "Velika Kolombarica",
+                  "text": "O secțiune de coastă spectaculoasă cu o peșteră marină în Parcul Natural Kamenjak.",
+                  "category": "recreational",
+                  "coords": [
+                        13.915067,
+                        44.767996
+                  ]
+            },
+            {
+                  "name": "Sv. Mikule Dražica",
+                  "text": "O plajă liniștită cu pietriș pe partea de est a peninsulei Kamenjak.",
+                  "category": "recreational",
+                  "coords": [
+                        13.921514,
+                        44.767862
+                  ]
+            },
+            {
+                  "name": "Franina",
+                  "text": "O plajă naturală în Parcul Natural Kamenjak, înconjurată de natură virgină.",
+                  "category": "recreational",
+                  "coords": [
+                        13.924428,
+                        44.769461
+                  ]
             }
       ],
       "en": [
@@ -4552,6 +4777,51 @@ export const poiExtraHrV2: POI[] = [
                         13.910601,
                         44.77463
                   ]
+            },
+            {
+                  "name": "Kršine",
+                  "text": "A rocky beach section in the Kamenjak Nature Park with crystal clear water.",
+                  "category": "recreational",
+                  "coords": [
+                        13.908112,
+                        44.768535
+                  ]
+            },
+            {
+                  "name": "Mala Kolombarica",
+                  "text": "A popular spot for cliff jumping and snorkeling at the southern tip of Istria.",
+                  "category": "recreational",
+                  "coords": [
+                        13.911923,
+                        44.768801
+                  ]
+            },
+            {
+                  "name": "Velika Kolombarica",
+                  "text": "A spectacular coastal section featuring a sea cave in the Kamenjak Nature Park.",
+                  "category": "recreational",
+                  "coords": [
+                        13.915067,
+                        44.767996
+                  ]
+            },
+            {
+                  "name": "Sv. Mikule Dražica",
+                  "text": "A peaceful pebble beach on the eastern side of the Kamenjak peninsula.",
+                  "category": "recreational",
+                  "coords": [
+                        13.921514,
+                        44.767862
+                  ]
+            },
+            {
+                  "name": "Franina",
+                  "text": "A natural beach in the Kamenjak Nature Park, surrounded by untouched nature.",
+                  "category": "recreational",
+                  "coords": [
+                        13.924428,
+                        44.769461
+                  ]
             }
       ],
       "hr": [
@@ -4823,6 +5093,51 @@ export const poiExtraHrV2: POI[] = [
                   "coords": [
                         13.910601,
                         44.77463
+                  ]
+            },
+            {
+                  "name": "Kršine",
+                  "text": "Stjenoviti dio obale u Parku prirode Kamenjak s kristalno čistim morem.",
+                  "category": "recreational",
+                  "coords": [
+                        13.908112,
+                        44.768535
+                  ]
+            },
+            {
+                  "name": "Mala Kolombarica",
+                  "text": "Popularno mjesto za skokove u more i ronjenje na najjužnijem rtu Istre.",
+                  "category": "recreational",
+                  "coords": [
+                        13.911923,
+                        44.768801
+                  ]
+            },
+            {
+                  "name": "Velika Kolombarica",
+                  "text": "Spektakularan dio obale s morskom špiljom u Parku prirode Kamenjak.",
+                  "category": "recreational",
+                  "coords": [
+                        13.915067,
+                        44.767996
+                  ]
+            },
+            {
+                  "name": "Sv. Mikule Dražica",
+                  "text": "Mirna šljunčana plaža na istočnoj strani poluotoka Kamenjak.",
+                  "category": "recreational",
+                  "coords": [
+                        13.921514,
+                        44.767862
+                  ]
+            },
+            {
+                  "name": "Franina",
+                  "text": "Prirodna plaža u Parku prirode Kamenjak, okružena netaknutom prirodom.",
+                  "category": "recreational",
+                  "coords": [
+                        13.924428,
+                        44.769461
                   ]
             }
       ]
@@ -5216,6 +5531,15 @@ export const poiExtraHrV2: POI[] = [
                         16.334183,
                         46.303189
                   ]
+            },
+            {
+                  "name": "FKK Aqvacity",
+                  "text": "Ein beliebter FKK-Strand am Aquacity-See bei Varaždin.",
+                  "category": "recreational",
+                  "coords": [
+                        16.380846,
+                        46.305991
+                  ]
             }
       ],
       "hu": [
@@ -5416,6 +5740,15 @@ export const poiExtraHrV2: POI[] = [
                   "coords": [
                         16.334183,
                         46.303189
+                  ]
+            },
+            {
+                  "name": "FKK Aqvacity",
+                  "text": "Népszerű naturista strand a Varaždin melletti Aquacity-tónál.",
+                  "category": "recreational",
+                  "coords": [
+                        16.380846,
+                        46.305991
                   ]
             }
       ],
@@ -5618,6 +5951,15 @@ export const poiExtraHrV2: POI[] = [
                         16.334183,
                         46.303189
                   ]
+            },
+            {
+                  "name": "FKK Aqvacity",
+                  "text": "O plajă de naturiști populară pe malul lacului Aquacity de lângă Varaždin.",
+                  "category": "recreational",
+                  "coords": [
+                        16.380846,
+                        46.305991
+                  ]
             }
       ],
       "en": [
@@ -5819,6 +6161,15 @@ export const poiExtraHrV2: POI[] = [
                         16.334183,
                         46.303189
                   ]
+            },
+            {
+                  "name": "FKK Aqvacity",
+                  "text": "A popular naturist beach at the Aquacity lake near Varaždin.",
+                  "category": "recreational",
+                  "coords": [
+                        16.380846,
+                        46.305991
+                  ]
             }
       ],
       "hr": [
@@ -5964,6 +6315,15 @@ export const poiExtraHrV2: POI[] = [
                   "coords": [
                         16.334183,
                         46.303189
+                  ]
+            },
+            {
+                  "name": "FKK Aqvacity",
+                  "text": "Popularna naturistička plaža na jezeru Aquacity kod Varaždina.",
+                  "category": "recreational",
+                  "coords": [
+                        16.380846,
+                        46.305991
                   ]
             }
       ]
@@ -7544,6 +7904,15 @@ export const poiExtraHrV2: POI[] = [
                         14.55141,
                         45.125919
                   ]
+            },
+            {
+                  "name": "Portić",
+                  "text": "Eine kleine Bucht mit Badestelle im Gebiet von Malinska auf der Insel Krk.",
+                  "category": "recreational",
+                  "coords": [
+                        14.524914,
+                        45.123901
+                  ]
             }
       ],
       "hu": [
@@ -7706,6 +8075,15 @@ export const poiExtraHrV2: POI[] = [
                   "coords": [
                         14.55141,
                         45.125919
+                  ]
+            },
+            {
+                  "name": "Portić",
+                  "text": "Kis öböl fürdőhellyel Malinska környékén, Krk szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        14.524914,
+                        45.123901
                   ]
             }
       ],
@@ -7870,6 +8248,15 @@ export const poiExtraHrV2: POI[] = [
                         14.55141,
                         45.125919
                   ]
+            },
+            {
+                  "name": "Portić",
+                  "text": "Un mic golf cu loc de scăldat în zona Malinska de pe insula Krk.",
+                  "category": "recreational",
+                  "coords": [
+                        14.524914,
+                        45.123901
+                  ]
             }
       ],
       "en": [
@@ -8033,6 +8420,15 @@ export const poiExtraHrV2: POI[] = [
                         14.55141,
                         45.125919
                   ]
+            },
+            {
+                  "name": "Portić",
+                  "text": "A small cove with a swimming area in the Malinska region on Krk island.",
+                  "category": "recreational",
+                  "coords": [
+                        14.524914,
+                        45.123901
+                  ]
             }
       ],
       "hr": [
@@ -8151,6 +8547,15 @@ export const poiExtraHrV2: POI[] = [
                   "coords": [
                         14.55141,
                         45.125919
+                  ]
+            },
+            {
+                  "name": "Portić",
+                  "text": "Mala uvala s kupalištem na području Malinske na otoku Krku.",
+                  "category": "recreational",
+                  "coords": [
+                        14.524914,
+                        45.123901
                   ]
             }
       ]
@@ -12325,6 +12730,24 @@ export const poiExtraHrV2: POI[] = [
                         14.680216,
                         45.07604
                   ]
+            },
+            {
+                  "name": "Uvala Sršćica",
+                  "text": "Eine versteckte Kieselbucht unter den Klippen in der Nähe von Vrbnik auf der Insel Krk.",
+                  "category": "recreational",
+                  "coords": [
+                        14.726791,
+                        45.063279
+                  ]
+            },
+            {
+                  "name": "Moby's beach",
+                  "text": "Ein kleiner Kieselstrand in der Nähe von Vrbnik auf der Insel Krk.",
+                  "category": "recreational",
+                  "coords": [
+                        14.70934,
+                        45.06526
+                  ]
             }
       ],
       "hu": [
@@ -12438,6 +12861,24 @@ export const poiExtraHrV2: POI[] = [
                   "coords": [
                         14.680216,
                         45.07604
+                  ]
+            },
+            {
+                  "name": "Uvala Sršćica",
+                  "text": "Rejtett kavicsos öböl a sziklák alatt Vrbnik közelében, Krk szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        14.726791,
+                        45.063279
+                  ]
+            },
+            {
+                  "name": "Moby's beach",
+                  "text": "Egy apró kavicsos strand Vrbnik közelében, Krk szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        14.70934,
+                        45.06526
                   ]
             }
       ],
@@ -12553,6 +12994,24 @@ export const poiExtraHrV2: POI[] = [
                         14.680216,
                         45.07604
                   ]
+            },
+            {
+                  "name": "Uvala Sršćica",
+                  "text": "Un golf cu pietriș ascuns sub stânci, lângă Vrbnik pe insula Krk.",
+                  "category": "recreational",
+                  "coords": [
+                        14.726791,
+                        45.063279
+                  ]
+            },
+            {
+                  "name": "Moby's beach",
+                  "text": "O mică plajă cu pietriș situată lângă Vrbnik pe insula Krk.",
+                  "category": "recreational",
+                  "coords": [
+                        14.70934,
+                        45.06526
+                  ]
             }
       ],
       "en": [
@@ -12667,6 +13126,24 @@ export const poiExtraHrV2: POI[] = [
                         14.680216,
                         45.07604
                   ]
+            },
+            {
+                  "name": "Uvala Sršćica",
+                  "text": "A hidden pebble bay under the cliffs near Vrbnik on Krk island.",
+                  "category": "recreational",
+                  "coords": [
+                        14.726791,
+                        45.063279
+                  ]
+            },
+            {
+                  "name": "Moby's beach",
+                  "text": "A small pebble beach located near Vrbnik on the island of Krk.",
+                  "category": "recreational",
+                  "coords": [
+                        14.70934,
+                        45.06526
+                  ]
             }
       ],
       "hr": [
@@ -12759,6 +13236,24 @@ export const poiExtraHrV2: POI[] = [
                         14.680216,
                         45.07604
                   ]
+            },
+            {
+                  "name": "Uvala Sršćica",
+                  "text": "Skrivena šljunčana uvala podno litica u blizini Vrbnika na otoku Krku.",
+                  "category": "recreational",
+                  "coords": [
+                        14.726791,
+                        45.063279
+                  ]
+            },
+            {
+                  "name": "Moby's beach",
+                  "text": "Mala šljunčana plaža smještena u blizini Vrbnika na otoku Krku.",
+                  "category": "recreational",
+                  "coords": [
+                        14.70934,
+                        45.06526
+                  ]
             }
       ]
 }},
@@ -12841,6 +13336,15 @@ export const poiExtraHrV2: POI[] = [
                         13.606663,
                         45.148609
                   ]
+            },
+            {
+                  "name": "FKK Punta Križa",
+                  "text": "Ein bekannter FKK-Strand in der Nähe von Vrsar in Istrien.",
+                  "category": "recreational",
+                  "coords": [
+                        13.607716,
+                        45.114884
+                  ]
             }
       ],
       "hu": [
@@ -12920,6 +13424,15 @@ export const poiExtraHrV2: POI[] = [
                   "coords": [
                         13.606663,
                         45.148609
+                  ]
+            },
+            {
+                  "name": "FKK Punta Križa",
+                  "text": "Ismert naturista strand Vrsar közelében, Isztrián.",
+                  "category": "recreational",
+                  "coords": [
+                        13.607716,
+                        45.114884
                   ]
             }
       ],
@@ -13001,6 +13514,15 @@ export const poiExtraHrV2: POI[] = [
                         13.606663,
                         45.148609
                   ]
+            },
+            {
+                  "name": "FKK Punta Križa",
+                  "text": "O plajă de naturiști cunoscută, situată lângă Vrsar în Istria.",
+                  "category": "recreational",
+                  "coords": [
+                        13.607716,
+                        45.114884
+                  ]
             }
       ],
       "en": [
@@ -13081,6 +13603,15 @@ export const poiExtraHrV2: POI[] = [
                         13.606663,
                         45.148609
                   ]
+            },
+            {
+                  "name": "FKK Punta Križa",
+                  "text": "A well-known naturist beach located near Vrsar in Istria.",
+                  "category": "recreational",
+                  "coords": [
+                        13.607716,
+                        45.114884
+                  ]
             }
       ],
       "hr": [
@@ -13127,6 +13658,15 @@ export const poiExtraHrV2: POI[] = [
                   "coords": [
                         13.606663,
                         45.148609
+                  ]
+            },
+            {
+                  "name": "FKK Punta Križa",
+                  "text": "Poznata nudistička plaža smještena u blizini Vrsara u Istri.",
+                  "category": "recreational",
+                  "coords": [
+                        13.607716,
+                        45.114884
                   ]
             }
       ]
@@ -14931,6 +15471,15 @@ export const poiExtraHrV2: POI[] = [
                         17.262045,
                         43.150232
                   ]
+            },
+            {
+                  "name": "Plaža Česminica",
+                  "text": "Ein zentraler Strand in Gradac Makarska mit klarem Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        17.182641,
+                        43.125162
+                  ]
             }
       ],
       "hu": [
@@ -14943,6 +15492,15 @@ export const poiExtraHrV2: POI[] = [
                   "coords": [
                         17.262045,
                         43.150232
+                  ]
+            },
+            {
+                  "name": "Plaža Česminica",
+                  "text": "Központi strand Gradac Makarskában, tiszta vízzel.",
+                  "category": "recreational",
+                  "coords": [
+                        17.182641,
+                        43.125162
                   ]
             }
       ],
@@ -14957,6 +15515,15 @@ export const poiExtraHrV2: POI[] = [
                         17.262045,
                         43.150232
                   ]
+            },
+            {
+                  "name": "Plaža Česminica",
+                  "text": "O plajă centrală în Gradac Makarska, cu apă limpede.",
+                  "category": "recreational",
+                  "coords": [
+                        17.182641,
+                        43.125162
+                  ]
             }
       ],
       "en": [
@@ -14969,6 +15536,26 @@ export const poiExtraHrV2: POI[] = [
                   "coords": [
                         17.262045,
                         43.150232
+                  ]
+            },
+            {
+                  "name": "Plaža Česminica",
+                  "text": "A central beach in Gradac Makarska with clear water.",
+                  "category": "recreational",
+                  "coords": [
+                        17.182641,
+                        43.125162
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Plaža Česminica",
+                  "text": "Središnja plaža u Gradcu Makarskoj s čistim morem.",
+                  "category": "recreational",
+                  "coords": [
+                        17.182641,
+                        43.125162
                   ]
             }
       ]
@@ -16570,6 +17157,15 @@ export const poiExtraHrV2: POI[] = [
                         14.751339,
                         44.824456
                   ]
+            },
+            {
+                  "name": "Zadbadnja",
+                  "text": "Ein abgelegener Strand in der Nähe von Lopar auf der Insel Rab.",
+                  "category": "recreational",
+                  "coords": [
+                        14.778441,
+                        44.862525
+                  ]
             }
       ],
       "hu": [
@@ -16732,6 +17328,15 @@ export const poiExtraHrV2: POI[] = [
                   "coords": [
                         14.751339,
                         44.824456
+                  ]
+            },
+            {
+                  "name": "Zadbadnja",
+                  "text": "Eldugott strand Lopar közelében, Rab szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        14.778441,
+                        44.862525
                   ]
             }
       ],
@@ -16896,6 +17501,15 @@ export const poiExtraHrV2: POI[] = [
                         14.751339,
                         44.824456
                   ]
+            },
+            {
+                  "name": "Zadbadnja",
+                  "text": "O plajă retrasă în apropiere de Lopar pe insula Rab.",
+                  "category": "recreational",
+                  "coords": [
+                        14.778441,
+                        44.862525
+                  ]
             }
       ],
       "en": [
@@ -17059,6 +17673,15 @@ export const poiExtraHrV2: POI[] = [
                         14.751339,
                         44.824456
                   ]
+            },
+            {
+                  "name": "Zadbadnja",
+                  "text": "A secluded beach near Lopar on the island of Rab.",
+                  "category": "recreational",
+                  "coords": [
+                        14.778441,
+                        44.862525
+                  ]
             }
       ],
       "hr": [
@@ -17177,6 +17800,15 @@ export const poiExtraHrV2: POI[] = [
                   "coords": [
                         14.751339,
                         44.824456
+                  ]
+            },
+            {
+                  "name": "Zadbadnja",
+                  "text": "Osamljena plaža u blizini Lopara na otoku Rabu.",
+                  "category": "recreational",
+                  "coords": [
+                        14.778441,
+                        44.862525
                   ]
             }
       ]
@@ -20909,6 +21541,33 @@ export const poiExtraHrV2: POI[] = [
                         14.308905,
                         44.510349
                   ]
+            },
+            {
+                  "name": "Bok",
+                  "text": "Ein berühmter Sandstrand auf der einzigartigen Insel Susak, bekannt für sein seichtes Wasser und den heilenden Sand.",
+                  "category": "recreational",
+                  "coords": [
+                        14.316602,
+                        44.508035
+                  ]
+            },
+            {
+                  "name": "Uvala Tijesni",
+                  "text": "Eine seichte Sandbucht auf der Insel Susak, die für ihr klares Wasser bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        14.315314,
+                        44.506125
+                  ]
+            },
+            {
+                  "name": "Punta valica",
+                  "text": "Ein natürlicher Küstenabschnitt auf der felsigen Westseite der Insel Susak.",
+                  "category": "recreational",
+                  "coords": [
+                        14.286641,
+                        44.520199
+                  ]
             }
       ],
       "hu": [
@@ -20979,6 +21638,33 @@ export const poiExtraHrV2: POI[] = [
                   "coords": [
                         14.308905,
                         44.510349
+                  ]
+            },
+            {
+                  "name": "Bok",
+                  "text": "Híres homokos strand a különleges Susak-szigeten, amely sekély vizéről és gyógyhatású homokjáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        14.316602,
+                        44.508035
+                  ]
+            },
+            {
+                  "name": "Uvala Tijesni",
+                  "text": "Sekély, homokos öböl Susak szigetén, amely kristálytiszta vizéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        14.315314,
+                        44.506125
+                  ]
+            },
+            {
+                  "name": "Punta valica",
+                  "text": "Természetes tengerparti szakasz Susak szigetének sziklás nyugati oldalán.",
+                  "category": "recreational",
+                  "coords": [
+                        14.286641,
+                        44.520199
                   ]
             }
       ],
@@ -21051,6 +21737,33 @@ export const poiExtraHrV2: POI[] = [
                         14.308905,
                         44.510349
                   ]
+            },
+            {
+                  "name": "Bok",
+                  "text": "O plajă celebră cu nisip pe insula unică Susak, cunoscută pentru apele sale puțin adânci și nisipul terapeutic.",
+                  "category": "recreational",
+                  "coords": [
+                        14.316602,
+                        44.508035
+                  ]
+            },
+            {
+                  "name": "Uvala Tijesni",
+                  "text": "Un golf nisipos cu ape puțin adânci pe insula Susak, cunoscut pentru apa sa limpede.",
+                  "category": "recreational",
+                  "coords": [
+                        14.315314,
+                        44.506125
+                  ]
+            },
+            {
+                  "name": "Punta valica",
+                  "text": "O porțiune de coastă naturală pe partea stâncoasă de vest a insulei Susak.",
+                  "category": "recreational",
+                  "coords": [
+                        14.286641,
+                        44.520199
+                  ]
             }
       ],
       "en": [
@@ -21122,6 +21835,33 @@ export const poiExtraHrV2: POI[] = [
                         14.308905,
                         44.510349
                   ]
+            },
+            {
+                  "name": "Bok",
+                  "text": "A famous sandy beach on the unique island of Susak, known for its shallow waters and therapeutic sand.",
+                  "category": "recreational",
+                  "coords": [
+                        14.316602,
+                        44.508035
+                  ]
+            },
+            {
+                  "name": "Uvala Tijesni",
+                  "text": "A shallow sandy bay on Susak island, known for its clear and calm water.",
+                  "category": "recreational",
+                  "coords": [
+                        14.315314,
+                        44.506125
+                  ]
+            },
+            {
+                  "name": "Punta valica",
+                  "text": "A natural coastal stretch on the rocky western side of Susak island.",
+                  "category": "recreational",
+                  "coords": [
+                        14.286641,
+                        44.520199
+                  ]
             }
       ],
       "hr": [
@@ -21159,6 +21899,33 @@ export const poiExtraHrV2: POI[] = [
                   "coords": [
                         14.308905,
                         44.510349
+                  ]
+            },
+            {
+                  "name": "Bok",
+                  "text": "Slavna pješčana plaža na jedinstvenom otoku Susku, poznata po plitkom moru i ljekovitom pijesku.",
+                  "category": "recreational",
+                  "coords": [
+                        14.316602,
+                        44.508035
+                  ]
+            },
+            {
+                  "name": "Uvala Tijesni",
+                  "text": "Plitka pješčana uvala na otoku Susku, poznata po čistom i mirnom moru.",
+                  "category": "recreational",
+                  "coords": [
+                        14.315314,
+                        44.506125
+                  ]
+            },
+            {
+                  "name": "Punta valica",
+                  "text": "Prirodni obalni potez na stjenovitoj zapadnoj strani otoka Suska.",
+                  "category": "recreational",
+                  "coords": [
+                        14.286641,
+                        44.520199
                   ]
             }
       ]

@@ -1215,6 +1215,24 @@ export const poiExtraHrV1: POI[] = [
                         16.443345,
                         43.172161
                   ]
+            },
+            {
+                  "name": "BONJ",
+                  "text": "Ein exklusiver Strandclub in Hvar mit markanter Architektur aus den 1930er Jahren.",
+                  "category": "recreational",
+                  "coords": [
+                        16.434985,
+                        43.17127
+                  ]
+            },
+            {
+                  "name": "Mala Borča",
+                  "text": "Eine ruhige Naturbucht mit klarem Wasser an der Küste der Insel Hvar.",
+                  "category": "recreational",
+                  "coords": [
+                        16.479235,
+                        43.161259
+                  ]
             }
       ],
       "hu": [
@@ -1431,6 +1449,24 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         16.443345,
                         43.172161
+                  ]
+            },
+            {
+                  "name": "BONJ",
+                  "text": "Exkluzív strandklub Hvar városában, jellegzetes 1930-as évekbeli építészettel.",
+                  "category": "recreational",
+                  "coords": [
+                        16.434985,
+                        43.17127
+                  ]
+            },
+            {
+                  "name": "Mala Borča",
+                  "text": "Csendes természeti öböl tiszta vízzel Hvar szigetének partján.",
+                  "category": "recreational",
+                  "coords": [
+                        16.479235,
+                        43.161259
                   ]
             }
       ],
@@ -1649,6 +1685,24 @@ export const poiExtraHrV1: POI[] = [
                         16.443345,
                         43.172161
                   ]
+            },
+            {
+                  "name": "BONJ",
+                  "text": "Un club de plajă exclusivist din Hvar, cu o arhitectură distinctivă din anii 1930.",
+                  "category": "recreational",
+                  "coords": [
+                        16.434985,
+                        43.17127
+                  ]
+            },
+            {
+                  "name": "Mala Borča",
+                  "text": "Un golf natural liniștit, cu apă limpede, situat pe coasta insulei Hvar.",
+                  "category": "recreational",
+                  "coords": [
+                        16.479235,
+                        43.161259
+                  ]
             }
       ],
       "en": [
@@ -1866,6 +1920,24 @@ export const poiExtraHrV1: POI[] = [
                         16.443345,
                         43.172161
                   ]
+            },
+            {
+                  "name": "BONJ",
+                  "text": "An exclusive beach club in Hvar town featuring distinctive 1930s architecture.",
+                  "category": "recreational",
+                  "coords": [
+                        16.434985,
+                        43.17127
+                  ]
+            },
+            {
+                  "name": "Mala Borča",
+                  "text": "A quiet natural bay with clear water located on the coast of Hvar island.",
+                  "category": "recreational",
+                  "coords": [
+                        16.479235,
+                        43.161259
+                  ]
             }
       ],
       "hr": [
@@ -2038,6 +2110,24 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         16.443345,
                         43.172161
+                  ]
+            },
+            {
+                  "name": "BONJ",
+                  "text": "Ekskluzivni beach club u gradu Hvaru s prepoznatljivom arhitekturom iz 1930-ih.",
+                  "category": "recreational",
+                  "coords": [
+                        16.434985,
+                        43.17127
+                  ]
+            },
+            {
+                  "name": "Mala Borča",
+                  "text": "Mirna prirodna uvala s bistrim morem smještena na obali otoka Hvara.",
+                  "category": "recreational",
+                  "coords": [
+                        16.479235,
+                        43.161259
                   ]
             }
       ]
@@ -3763,6 +3853,15 @@ export const poiExtraHrV1: POI[] = [
                         14.49725,
                         44.524807
                   ]
+            },
+            {
+                  "name": "Poljana (a/c Poljana)",
+                  "text": "Ein Kiesstrand auf dem Campingplatz Poljana auf der Insel Lošinj mit Blick auf den Kvarner Golf.",
+                  "category": "recreational",
+                  "coords": [
+                        14.444642,
+                        44.557056
+                  ]
             }
       ],
       "hu": [
@@ -3936,6 +4035,15 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         14.49725,
                         44.524807
+                  ]
+            },
+            {
+                  "name": "Poljana (a/c Poljana)",
+                  "text": "Kavicsos strand a Poljana kemping területén, Lošinj szigetén, kilátással a Kvarner-öbölre.",
+                  "category": "recreational",
+                  "coords": [
+                        14.444642,
+                        44.557056
                   ]
             }
       ],
@@ -4111,6 +4219,15 @@ export const poiExtraHrV1: POI[] = [
                         14.49725,
                         44.524807
                   ]
+            },
+            {
+                  "name": "Poljana (a/c Poljana)",
+                  "text": "O plajă cu pietriș situată în incinta campingului Poljana de pe insula Lošinj, oferind vedere spre Golful Kvarner.",
+                  "category": "recreational",
+                  "coords": [
+                        14.444642,
+                        44.557056
+                  ]
             }
       ],
       "en": [
@@ -4285,6 +4402,15 @@ export const poiExtraHrV1: POI[] = [
                         14.49725,
                         44.524807
                   ]
+            },
+            {
+                  "name": "Poljana (a/c Poljana)",
+                  "text": "A pebbly beach located within the Poljana campsite on the island of Lošinj, offering views of the Kvarner Gulf.",
+                  "category": "recreational",
+                  "coords": [
+                        14.444642,
+                        44.557056
+                  ]
             }
       ],
       "hr": [
@@ -4404,6 +4530,15 @@ export const poiExtraHrV1: POI[] = [
                         14.49725,
                         44.524807
                   ]
+            },
+            {
+                  "name": "Poljana (a/c Poljana)",
+                  "text": "Šljunčana plaža smještena u sklopu kampa Poljana na otoku Lošinju, s pogledom na Kvarnerski zaljev.",
+                  "category": "recreational",
+                  "coords": [
+                        14.444642,
+                        44.557056
+                  ]
             }
       ]
 }},
@@ -4518,6 +4653,15 @@ export const poiExtraHrV1: POI[] = [
                         14.883587,
                         44.556276
                   ]
+            },
+            {
+                  "name": "seagulls",
+                  "text": "Ein Strandabschnitt in Novalja auf der Insel Pag.",
+                  "category": "recreational",
+                  "coords": [
+                        14.930435,
+                        44.546586
+                  ]
             }
       ],
       "hu": [
@@ -4629,6 +4773,15 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         14.883587,
                         44.556276
+                  ]
+            },
+            {
+                  "name": "seagulls",
+                  "text": "Strandrész Novalja településen, Pag szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        14.930435,
+                        44.546586
                   ]
             }
       ],
@@ -4742,6 +4895,15 @@ export const poiExtraHrV1: POI[] = [
                         14.883587,
                         44.556276
                   ]
+            },
+            {
+                  "name": "seagulls",
+                  "text": "O zonă de plajă situată în Novalja pe insula Pag.",
+                  "category": "recreational",
+                  "coords": [
+                        14.930435,
+                        44.546586
+                  ]
             }
       ],
       "en": [
@@ -4854,6 +5016,15 @@ export const poiExtraHrV1: POI[] = [
                         14.883587,
                         44.556276
                   ]
+            },
+            {
+                  "name": "seagulls",
+                  "text": "A beach area located in Novalja on the island of Pag.",
+                  "category": "recreational",
+                  "coords": [
+                        14.930435,
+                        44.546586
+                  ]
             }
       ],
       "hr": [
@@ -4945,6 +5116,15 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         14.883587,
                         44.556276
+                  ]
+            },
+            {
+                  "name": "seagulls",
+                  "text": "Dio plaže u Novalji na otoku Pagu.",
+                  "category": "recreational",
+                  "coords": [
+                        14.930435,
+                        44.546586
                   ]
             }
       ]
@@ -8526,6 +8706,15 @@ export const poiExtraHrV1: POI[] = [
                         13.630978,
                         45.083184
                   ]
+            },
+            {
+                  "name": "Cisterna",
+                  "text": "Ein wilder Kieselstrand südlich von Rovinj, bekannt für sein klares Wasser und die unberührte Natur.",
+                  "category": "recreational",
+                  "coords": [
+                        13.691141,
+                        45.038847
+                  ]
             }
       ],
       "hu": [
@@ -8715,6 +8904,15 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         13.630978,
                         45.083184
+                  ]
+            },
+            {
+                  "name": "Cisterna",
+                  "text": "Vadregényes kavicsos strand Rovinjtól délre, amely tiszta vizéről és érintetlen természetéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        13.691141,
+                        45.038847
                   ]
             }
       ],
@@ -8906,6 +9104,15 @@ export const poiExtraHrV1: POI[] = [
                         13.630978,
                         45.083184
                   ]
+            },
+            {
+                  "name": "Cisterna",
+                  "text": "O plajă sălbatică cu pietriș la sud de Rovinj, cunoscută pentru apa curată și natura intactă.",
+                  "category": "recreational",
+                  "coords": [
+                        13.691141,
+                        45.038847
+                  ]
             }
       ],
       "en": [
@@ -9096,6 +9303,15 @@ export const poiExtraHrV1: POI[] = [
                         13.630978,
                         45.083184
                   ]
+            },
+            {
+                  "name": "Cisterna",
+                  "text": "A wild pebble beach south of Rovinj, known for its clear water and untouched nature.",
+                  "category": "recreational",
+                  "coords": [
+                        13.691141,
+                        45.038847
+                  ]
             }
       ],
       "hr": [
@@ -9241,6 +9457,15 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         13.630978,
                         45.083184
+                  ]
+            },
+            {
+                  "name": "Cisterna",
+                  "text": "Divlja šljunčana plaža južno od Rovinja, poznata po čistom moru i netaknutoj prirodi.",
+                  "category": "recreational",
+                  "coords": [
+                        13.691141,
+                        45.038847
                   ]
             }
       ]
@@ -9652,6 +9877,87 @@ export const poiExtraHrV1: POI[] = [
                         16.440392,
                         43.509139
                   ]
+            },
+            {
+                  "name": "Kašjuni",
+                  "text": "Ein weitläufiger Kiesstrand am Fuße des Marjan-Hügels in Split.",
+                  "category": "recreational",
+                  "coords": [
+                        16.399652,
+                        43.5065
+                  ]
+            },
+            {
+                  "name": "Plaža Obojena",
+                  "text": "Ein bekannter Kiesstrand unterhalb des Marjan-Hügels, nahe dem Stadtzentrum von Split.",
+                  "category": "recreational",
+                  "coords": [
+                        16.414924,
+                        43.503236
+                  ]
+            },
+            {
+                  "name": "Bene",
+                  "text": "Ein Strand im Waldpark Marjan, der natürlichen Schatten durch Pinien bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        16.401492,
+                        43.514257
+                  ]
+            },
+            {
+                  "name": "Zvončac",
+                  "text": "Ein Stadtstrand in Split, der sich direkt neben dem Jachthafen ACI befindet.",
+                  "category": "recreational",
+                  "coords": [
+                        16.422041,
+                        43.503184
+                  ]
+            },
+            {
+                  "name": "Žnjan",
+                  "text": "Die größte Strandzone in Split mit zahlreichen Kiesabschnitten im östlichen Teil der Stadt.",
+                  "category": "recreational",
+                  "coords": [
+                        16.477922,
+                        43.502299
+                  ]
+            },
+            {
+                  "name": "Mistral",
+                  "text": "Ein modern gestalteter Kiesstrand im Viertel Trstenik in Split.",
+                  "category": "recreational",
+                  "coords": [
+                        16.469138,
+                        43.501404
+                  ]
+            },
+            {
+                  "name": "Firule",
+                  "text": "Ein sandiger Stadtstrand in Split, der in einer flachen, geschützten Bucht liegt.",
+                  "category": "recreational",
+                  "coords": [
+                        16.453229,
+                        43.500363
+                  ]
+            },
+            {
+                  "name": "Ovčice",
+                  "text": "Ein kleiner Kiesstrand in Split, der direkt an den bekannten Bačvice-Strand grenzt.",
+                  "category": "recreational",
+                  "coords": [
+                        16.450505,
+                        43.500531
+                  ]
+            },
+            {
+                  "name": "Matejuška",
+                  "text": "Ein historischer Fischerhafen und kleiner Küstenabschnitt im Zentrum von Split.",
+                  "category": "recreational",
+                  "coords": [
+                        16.434756,
+                        43.507314
+                  ]
             }
       ],
       "hu": [
@@ -9741,6 +10047,87 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         16.440392,
                         43.509139
+                  ]
+            },
+            {
+                  "name": "Kašjuni",
+                  "text": "Tágas kavicsos strand Splitben, a Marjan-hegy lábánál.",
+                  "category": "recreational",
+                  "coords": [
+                        16.399652,
+                        43.5065
+                  ]
+            },
+            {
+                  "name": "Plaža Obojena",
+                  "text": "Ismert kavicsos strand a Marjan-hegy alatt, Split városközpontjának közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        16.414924,
+                        43.503236
+                  ]
+            },
+            {
+                  "name": "Bene",
+                  "text": "A Marjan erdei parkban található strand, amely fenyőfák által nyújtott természetes árnyékot kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        16.401492,
+                        43.514257
+                  ]
+            },
+            {
+                  "name": "Zvončac",
+                  "text": "Városi strand Splitben, amely közvetlenül az ACI jachtkikötő mellett található.",
+                  "category": "recreational",
+                  "coords": [
+                        16.422041,
+                        43.503184
+                  ]
+            },
+            {
+                  "name": "Žnjan",
+                  "text": "Split legnagyobb strandövezete számos kavicsos szakasszal a város keleti részén.",
+                  "category": "recreational",
+                  "coords": [
+                        16.477922,
+                        43.502299
+                  ]
+            },
+            {
+                  "name": "Mistral",
+                  "text": "Modern kialakítású kavicsos strand Split Trstenik negyedében.",
+                  "category": "recreational",
+                  "coords": [
+                        16.469138,
+                        43.501404
+                  ]
+            },
+            {
+                  "name": "Firule",
+                  "text": "Homokos városi strand Splitben, amely egy sekély, védett öbölben fekszik.",
+                  "category": "recreational",
+                  "coords": [
+                        16.453229,
+                        43.500363
+                  ]
+            },
+            {
+                  "name": "Ovčice",
+                  "text": "Kisebb kavicsos strand Splitben, amely közvetlenül a híres Bačvice-strand mellett található.",
+                  "category": "recreational",
+                  "coords": [
+                        16.450505,
+                        43.500531
+                  ]
+            },
+            {
+                  "name": "Matejuška",
+                  "text": "Split központjában található történelmi halászkikötő és kis tengerparti rész.",
+                  "category": "recreational",
+                  "coords": [
+                        16.434756,
+                        43.507314
                   ]
             }
       ],
@@ -9832,6 +10219,87 @@ export const poiExtraHrV1: POI[] = [
                         16.440392,
                         43.509139
                   ]
+            },
+            {
+                  "name": "Kašjuni",
+                  "text": "O plajă de pietriș spațioasă la poalele dealului Marjan din Split.",
+                  "category": "recreational",
+                  "coords": [
+                        16.399652,
+                        43.5065
+                  ]
+            },
+            {
+                  "name": "Plaža Obojena",
+                  "text": "O plajă de pietriș cunoscută sub dealul Marjan, aproape de centrul orașului Split.",
+                  "category": "recreational",
+                  "coords": [
+                        16.414924,
+                        43.503236
+                  ]
+            },
+            {
+                  "name": "Bene",
+                  "text": "O plajă situată în parcul forestier Marjan, oferind umbră naturală de la pini.",
+                  "category": "recreational",
+                  "coords": [
+                        16.401492,
+                        43.514257
+                  ]
+            },
+            {
+                  "name": "Zvončac",
+                  "text": "O plajă urbană din Split, situată chiar lângă portul de agrement ACI.",
+                  "category": "recreational",
+                  "coords": [
+                        16.422041,
+                        43.503184
+                  ]
+            },
+            {
+                  "name": "Žnjan",
+                  "text": "Cea mai mare zonă de plajă din Split, cu numeroase secțiuni de pietriș în partea de est a orașului.",
+                  "category": "recreational",
+                  "coords": [
+                        16.477922,
+                        43.502299
+                  ]
+            },
+            {
+                  "name": "Mistral",
+                  "text": "O plajă de pietriș cu design modern în cartierul Trstenik din Split.",
+                  "category": "recreational",
+                  "coords": [
+                        16.469138,
+                        43.501404
+                  ]
+            },
+            {
+                  "name": "Firule",
+                  "text": "O plajă urbană cu nisip în Split, situată într-un golf protejat cu apă puțin adâncă.",
+                  "category": "recreational",
+                  "coords": [
+                        16.453229,
+                        43.500363
+                  ]
+            },
+            {
+                  "name": "Ovčice",
+                  "text": "O plajă mică de pietriș în Split, situată chiar lângă celebra plajă Bačvice.",
+                  "category": "recreational",
+                  "coords": [
+                        16.450505,
+                        43.500531
+                  ]
+            },
+            {
+                  "name": "Matejuška",
+                  "text": "Un port pescăresc istoric și o mică zonă de coastă situată în centrul orașului Split.",
+                  "category": "recreational",
+                  "coords": [
+                        16.434756,
+                        43.507314
+                  ]
             }
       ],
       "en": [
@@ -9921,6 +10389,170 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         16.440392,
                         43.509139
+                  ]
+            },
+            {
+                  "name": "Kašjuni",
+                  "text": "A spacious pebble beach located at the foot of Marjan Hill in Split.",
+                  "category": "recreational",
+                  "coords": [
+                        16.399652,
+                        43.5065
+                  ]
+            },
+            {
+                  "name": "Plaža Obojena",
+                  "text": "A well-known pebble beach below Marjan Hill, close to Split city center.",
+                  "category": "recreational",
+                  "coords": [
+                        16.414924,
+                        43.503236
+                  ]
+            },
+            {
+                  "name": "Bene",
+                  "text": "A beach located within the Marjan Forest Park, offering natural shade from pine trees.",
+                  "category": "recreational",
+                  "coords": [
+                        16.401492,
+                        43.514257
+                  ]
+            },
+            {
+                  "name": "Zvončac",
+                  "text": "A city beach in Split, located right next to the ACI marina.",
+                  "category": "recreational",
+                  "coords": [
+                        16.422041,
+                        43.503184
+                  ]
+            },
+            {
+                  "name": "Žnjan",
+                  "text": "The largest beach area in Split with numerous pebble sections in the eastern part of the city.",
+                  "category": "recreational",
+                  "coords": [
+                        16.477922,
+                        43.502299
+                  ]
+            },
+            {
+                  "name": "Mistral",
+                  "text": "A modernly designed pebble beach in the Trstenik neighborhood of Split.",
+                  "category": "recreational",
+                  "coords": [
+                        16.469138,
+                        43.501404
+                  ]
+            },
+            {
+                  "name": "Firule",
+                  "text": "A sandy city beach in Split, located in a shallow, protected bay.",
+                  "category": "recreational",
+                  "coords": [
+                        16.453229,
+                        43.500363
+                  ]
+            },
+            {
+                  "name": "Ovčice",
+                  "text": "A small pebble beach in Split, located right next to the famous Bačvice beach.",
+                  "category": "recreational",
+                  "coords": [
+                        16.450505,
+                        43.500531
+                  ]
+            },
+            {
+                  "name": "Matejuška",
+                  "text": "A historic fishing port and small coastal area located in the center of Split.",
+                  "category": "recreational",
+                  "coords": [
+                        16.434756,
+                        43.507314
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Kašjuni",
+                  "text": "Prostrana šljunčana plaža smještena u podnožju brda Marjan u Splitu.",
+                  "category": "recreational",
+                  "coords": [
+                        16.399652,
+                        43.5065
+                  ]
+            },
+            {
+                  "name": "Plaža Obojena",
+                  "text": "Poznata šljunčana plaža ispod brda Marjan, blizu centra Splita.",
+                  "category": "recreational",
+                  "coords": [
+                        16.414924,
+                        43.503236
+                  ]
+            },
+            {
+                  "name": "Bene",
+                  "text": "Plaža smještena u park-šumi Marjan, poznata po prirodnom hladu borova.",
+                  "category": "recreational",
+                  "coords": [
+                        16.401492,
+                        43.514257
+                  ]
+            },
+            {
+                  "name": "Zvončac",
+                  "text": "Gradska plaža u Splitu, smještena odmah do ACI marine.",
+                  "category": "recreational",
+                  "coords": [
+                        16.422041,
+                        43.503184
+                  ]
+            },
+            {
+                  "name": "Žnjan",
+                  "text": "Najveće plažno područje u Splitu s brojnim šljunčanim dijelovima u istočnom dijelu grada.",
+                  "category": "recreational",
+                  "coords": [
+                        16.477922,
+                        43.502299
+                  ]
+            },
+            {
+                  "name": "Mistral",
+                  "text": "Moderno uređena šljunčana plaža u splitskom naselju Trstenik.",
+                  "category": "recreational",
+                  "coords": [
+                        16.469138,
+                        43.501404
+                  ]
+            },
+            {
+                  "name": "Firule",
+                  "text": "Pješčana gradska plaža u Splitu, smještena u plitkoj i zaštićenoj uvali.",
+                  "category": "recreational",
+                  "coords": [
+                        16.453229,
+                        43.500363
+                  ]
+            },
+            {
+                  "name": "Ovčice",
+                  "text": "Mala šljunčana plaža u Splitu, smještena odmah do poznate plaže Bačvice.",
+                  "category": "recreational",
+                  "coords": [
+                        16.450505,
+                        43.500531
+                  ]
+            },
+            {
+                  "name": "Matejuška",
+                  "text": "Povijesna ribarska luka i mali obalni prostor smješten u samom centru Splita.",
+                  "category": "recreational",
+                  "coords": [
+                        16.434756,
+                        43.507314
                   ]
             }
       ]
@@ -13581,6 +14213,69 @@ export const poiExtraHrV1: POI[] = [
                         14.395432,
                         44.976527
                   ]
+            },
+            {
+                  "name": "Zdovice",
+                  "text": "Ein malerischer Kieselstrand in der Bucht von Valun auf der Insel Cres.",
+                  "category": "recreational",
+                  "coords": [
+                        14.363645,
+                        44.903171
+                  ]
+            },
+            {
+                  "name": "Grabrovica beach",
+                  "text": "Ein abgelegener Kiesstrand auf der Insel Cres, der hauptsächlich mit dem Boot erreichbar ist.",
+                  "category": "recreational",
+                  "coords": [
+                        14.309508,
+                        44.941458
+                  ]
+            },
+            {
+                  "name": "Sv. Blaž",
+                  "text": "Dieser malerische Kiesstrand unterhalb des Dorfes Lubenice bietet einen weiten Blick auf die Adria.",
+                  "category": "recreational",
+                  "coords": [
+                        14.351019,
+                        45.006569
+                  ]
+            },
+            {
+                  "name": "Plaža Krušćica",
+                  "text": "Ein kleiner, versteckter Kiesstrand in einer geschützten Bucht an der Küste von Cres.",
+                  "category": "recreational",
+                  "coords": [
+                        14.461084,
+                        44.952577
+                  ]
+            },
+            {
+                  "name": "Plaža Banja",
+                  "text": "Ein stadtnaher Kiesstrand in der Nähe des Zentrums von Cres, ideal für eine schnelle Erfrischung.",
+                  "category": "recreational",
+                  "coords": [
+                        14.461571,
+                        44.940378
+                  ]
+            },
+            {
+                  "name": "Arcić",
+                  "text": "Ein kleiner Badestrand in der Nähe von Martinšćica an der Westküste der Insel Cres.",
+                  "category": "recreational",
+                  "coords": [
+                        14.457008,
+                        44.926042
+                  ]
+            },
+            {
+                  "name": "Zela beach",
+                  "text": "Ein ruhiger Strandabschnitt bei Martinšćica, der für sein klares Wasser bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        14.455314,
+                        44.921308
+                  ]
             }
       ],
       "hu": [
@@ -13620,6 +14315,69 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         14.395432,
                         44.976527
+                  ]
+            },
+            {
+                  "name": "Zdovice",
+                  "text": "Festői kavicsos strand a Valun-öbölben, Cres szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        14.363645,
+                        44.903171
+                  ]
+            },
+            {
+                  "name": "Grabrovica beach",
+                  "text": "Távoli kavicsos strand Cres szigetén, amely főként hajóval érhető el.",
+                  "category": "recreational",
+                  "coords": [
+                        14.309508,
+                        44.941458
+                  ]
+            },
+            {
+                  "name": "Sv. Blaž",
+                  "text": "Ez a festői kavicsos strand Lubenice falu alatt található, kilátással az Adriai-tengerre.",
+                  "category": "recreational",
+                  "coords": [
+                        14.351019,
+                        45.006569
+                  ]
+            },
+            {
+                  "name": "Plaža Krušćica",
+                  "text": "Kicsi, rejtett kavicsos strand egy védett öbölben Cres partjainál.",
+                  "category": "recreational",
+                  "coords": [
+                        14.461084,
+                        44.952577
+                  ]
+            },
+            {
+                  "name": "Plaža Banja",
+                  "text": "Városközeli kavicsos strand Cres központjának közelében, ideális egy gyors felfrissüléshez.",
+                  "category": "recreational",
+                  "coords": [
+                        14.461571,
+                        44.940378
+                  ]
+            },
+            {
+                  "name": "Arcić",
+                  "text": "Kis fürdőhely Martinšćica közelében, Cres szigetének nyugati partján.",
+                  "category": "recreational",
+                  "coords": [
+                        14.457008,
+                        44.926042
+                  ]
+            },
+            {
+                  "name": "Zela beach",
+                  "text": "Nyugodt tengerparti szakasz Martinšćica mellett, amely tiszta vizéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        14.455314,
+                        44.921308
                   ]
             }
       ],
@@ -13661,6 +14419,69 @@ export const poiExtraHrV1: POI[] = [
                         14.395432,
                         44.976527
                   ]
+            },
+            {
+                  "name": "Zdovice",
+                  "text": "O plajă pitorească cu pietriș în golful Valun de pe insula Cres.",
+                  "category": "recreational",
+                  "coords": [
+                        14.363645,
+                        44.903171
+                  ]
+            },
+            {
+                  "name": "Grabrovica beach",
+                  "text": "O plajă cu pietriș retrasă pe insula Cres, accesibilă în principal cu barca.",
+                  "category": "recreational",
+                  "coords": [
+                        14.309508,
+                        44.941458
+                  ]
+            },
+            {
+                  "name": "Sv. Blaž",
+                  "text": "Această plajă pitorească cu pietriș de sub satul Lubenice oferă o vedere largă spre Marea Adriatică.",
+                  "category": "recreational",
+                  "coords": [
+                        14.351019,
+                        45.006569
+                  ]
+            },
+            {
+                  "name": "Plaža Krušćica",
+                  "text": "O plajă mică și ascunsă cu pietriș, situată într-un golf protejat de pe coasta insulei Cres.",
+                  "category": "recreational",
+                  "coords": [
+                        14.461084,
+                        44.952577
+                  ]
+            },
+            {
+                  "name": "Plaža Banja",
+                  "text": "O plajă cu pietriș situată lângă centrul orașului Cres, ideală pentru o răcorire rapidă.",
+                  "category": "recreational",
+                  "coords": [
+                        14.461571,
+                        44.940378
+                  ]
+            },
+            {
+                  "name": "Arcić",
+                  "text": "O plajă mică situată lângă Martinšćica, pe coasta de vest a insulei Cres.",
+                  "category": "recreational",
+                  "coords": [
+                        14.457008,
+                        44.926042
+                  ]
+            },
+            {
+                  "name": "Zela beach",
+                  "text": "O secțiune de plajă liniștită lângă Martinšćica, cunoscută pentru apa sa limpede.",
+                  "category": "recreational",
+                  "coords": [
+                        14.455314,
+                        44.921308
+                  ]
             }
       ],
       "en": [
@@ -13701,6 +14522,69 @@ export const poiExtraHrV1: POI[] = [
                         14.395432,
                         44.976527
                   ]
+            },
+            {
+                  "name": "Zdovice",
+                  "text": "A scenic pebble beach located in the Valun bay on the island of Cres.",
+                  "category": "recreational",
+                  "coords": [
+                        14.363645,
+                        44.903171
+                  ]
+            },
+            {
+                  "name": "Grabrovica beach",
+                  "text": "A remote pebble beach on Cres island, mainly accessible by boat.",
+                  "category": "recreational",
+                  "coords": [
+                        14.309508,
+                        44.941458
+                  ]
+            },
+            {
+                  "name": "Sv. Blaž",
+                  "text": "This picturesque pebble beach below Lubenice village offers a wide view of the Adriatic.",
+                  "category": "recreational",
+                  "coords": [
+                        14.351019,
+                        45.006569
+                  ]
+            },
+            {
+                  "name": "Plaža Krušćica",
+                  "text": "A small, hidden pebble beach located in a protected bay on the Cres coast.",
+                  "category": "recreational",
+                  "coords": [
+                        14.461084,
+                        44.952577
+                  ]
+            },
+            {
+                  "name": "Plaža Banja",
+                  "text": "A pebble beach located near the center of Cres town, ideal for a quick refresh.",
+                  "category": "recreational",
+                  "coords": [
+                        14.461571,
+                        44.940378
+                  ]
+            },
+            {
+                  "name": "Arcić",
+                  "text": "A small bathing beach located near Martinšćica on the west coast of Cres island.",
+                  "category": "recreational",
+                  "coords": [
+                        14.457008,
+                        44.926042
+                  ]
+            },
+            {
+                  "name": "Zela beach",
+                  "text": "A quiet beach section near Martinšćica, known for its clear water.",
+                  "category": "recreational",
+                  "coords": [
+                        14.455314,
+                        44.921308
+                  ]
             }
       ],
       "hr": [
@@ -13729,6 +14613,69 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         14.395432,
                         44.976527
+                  ]
+            },
+            {
+                  "name": "Zdovice",
+                  "text": "Slikovita šljunčana plaža smještena u uvali Valun na otoku Cresu.",
+                  "category": "recreational",
+                  "coords": [
+                        14.363645,
+                        44.903171
+                  ]
+            },
+            {
+                  "name": "Grabrovica beach",
+                  "text": "Udaljena šljunčana plaža na otoku Cresu, dostupna uglavnom brodom.",
+                  "category": "recreational",
+                  "coords": [
+                        14.309508,
+                        44.941458
+                  ]
+            },
+            {
+                  "name": "Sv. Blaž",
+                  "text": "Slikovita šljunčana plaža ispod mjesta Lubenice s prekrasnim pogledom na more.",
+                  "category": "recreational",
+                  "coords": [
+                        14.351019,
+                        45.006569
+                  ]
+            },
+            {
+                  "name": "Plaža Krušćica",
+                  "text": "Mala, skrivena šljunčana plaža smještena u zaštićenoj uvali na obali Cresa.",
+                  "category": "recreational",
+                  "coords": [
+                        14.461084,
+                        44.952577
+                  ]
+            },
+            {
+                  "name": "Plaža Banja",
+                  "text": "Šljunčana plaža smještena u blizini centra grada Cresa, idealna za brzo osvježenje.",
+                  "category": "recreational",
+                  "coords": [
+                        14.461571,
+                        44.940378
+                  ]
+            },
+            {
+                  "name": "Arcić",
+                  "text": "Malo kupalište smješteno u blizini Martinšćice na zapadnoj obali otoka Cresa.",
+                  "category": "recreational",
+                  "coords": [
+                        14.457008,
+                        44.926042
+                  ]
+            },
+            {
+                  "name": "Zela beach",
+                  "text": "Miran dio plaže kod Martinšćice, poznat po čistom moru.",
+                  "category": "recreational",
+                  "coords": [
+                        14.455314,
+                        44.921308
                   ]
             }
       ]
@@ -17520,6 +18467,15 @@ export const poiExtraHrV1: POI[] = [
                         16.11358,
                         43.048115
                   ]
+            },
+            {
+                  "name": "Pritiscina",
+                  "text": "Eine sehr kleine und versteckte Kieselbucht auf der Insel Vis bei Komiža.",
+                  "category": "recreational",
+                  "coords": [
+                        16.113003,
+                        43.008419
+                  ]
             }
       ],
       "hu": [
@@ -17740,6 +18696,15 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         16.11358,
                         43.048115
+                  ]
+            },
+            {
+                  "name": "Pritiscina",
+                  "text": "Nagyon kicsi és rejtett kavicsos öböl Vis szigetén, Komiža közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        16.113003,
+                        43.008419
                   ]
             }
       ],
@@ -17962,6 +18927,15 @@ export const poiExtraHrV1: POI[] = [
                         16.11358,
                         43.048115
                   ]
+            },
+            {
+                  "name": "Pritiscina",
+                  "text": "Un golf foarte mic și ascuns cu pietriș pe insula Vis, lângă Komiža.",
+                  "category": "recreational",
+                  "coords": [
+                        16.113003,
+                        43.008419
+                  ]
             }
       ],
       "en": [
@@ -18183,6 +19157,15 @@ export const poiExtraHrV1: POI[] = [
                         16.11358,
                         43.048115
                   ]
+            },
+            {
+                  "name": "Pritiscina",
+                  "text": "A very small and hidden pebble bay on Vis island near Komiža.",
+                  "category": "recreational",
+                  "coords": [
+                        16.113003,
+                        43.008419
+                  ]
             }
       ],
       "hr": [
@@ -18337,6 +19320,15 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         16.11358,
                         43.048115
+                  ]
+            },
+            {
+                  "name": "Pritiscina",
+                  "text": "Vrlo mala i skrivena šljunčana uvala na otoku Visu kod Komiže.",
+                  "category": "recreational",
+                  "coords": [
+                        16.113003,
+                        43.008419
                   ]
             }
       ]
@@ -20187,6 +21179,87 @@ export const poiExtraHrV1: POI[] = [
                         16.184489,
                         43.060321
                   ]
+            },
+            {
+                  "name": "Stončica",
+                  "text": "Ein beliebter Sandstrand auf der Insel Vis mit flachem Wasser und einem markanten Leuchtturm.",
+                  "category": "recreational",
+                  "coords": [
+                        16.241803,
+                        43.064552
+                  ]
+            },
+            {
+                  "name": "Milna",
+                  "text": "Ein schöner Sandstrand an der Südostküste von Vis, der bequem mit dem Auto erreichbar ist.",
+                  "category": "recreational",
+                  "coords": [
+                        16.230533,
+                        43.039975
+                  ]
+            },
+            {
+                  "name": "Zaglav",
+                  "text": "Ein ruhiger Sandstrand auf der Insel Vis, der nur über einen Fußweg von Milna aus erreichbar ist.",
+                  "category": "recreational",
+                  "coords": [
+                        16.228478,
+                        43.032677
+                  ]
+            },
+            {
+                  "name": "Srebrna",
+                  "text": "Berühmt für seine großen, silbernen Kieselsteine und den dichten Pinienwald am Ufer.",
+                  "category": "recreational",
+                  "coords": [
+                        16.205359,
+                        43.020389
+                  ]
+            },
+            {
+                  "name": "Stiniva",
+                  "text": "Ein ikonischer Strand in einer schmalen Bucht, die von hohen Klippen fast vollständig umschlossen wird.",
+                  "category": "recreational",
+                  "coords": [
+                        16.171603,
+                        43.021412
+                  ]
+            },
+            {
+                  "name": "Velo Travna",
+                  "text": "Eine abgelegene Bucht mit Kiesstrand an der Südküste der Insel Vis.",
+                  "category": "recreational",
+                  "coords": [
+                        16.185891,
+                        43.021294
+                  ]
+            },
+            {
+                  "name": "Teplus",
+                  "text": "Ein beliebter Kiesstrand in der Nähe der Siedlung Rukavac auf der Insel Vis.",
+                  "category": "recreational",
+                  "coords": [
+                        16.211985,
+                        43.019765
+                  ]
+            },
+            {
+                  "name": "Bili bok",
+                  "text": "Ein natürlicher Küstenabschnitt auf der Insel Vis, der für seine felsige Uferlinie bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        16.211349,
+                        43.01786
+                  ]
+            },
+            {
+                  "name": "Mala Srebrna",
+                  "text": "Ein kleinerer Kiesstrand in einer geschützten Bucht an der Südostküste von Vis.",
+                  "category": "recreational",
+                  "coords": [
+                        16.203722,
+                        43.022579
+                  ]
             }
       ],
       "hu": [
@@ -20349,6 +21422,87 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         16.184489,
                         43.060321
+                  ]
+            },
+            {
+                  "name": "Stončica",
+                  "text": "Népszerű homokos strand Vis szigetén, sekély vízzel és egy jellegzetes világítótoronnyal.",
+                  "category": "recreational",
+                  "coords": [
+                        16.241803,
+                        43.064552
+                  ]
+            },
+            {
+                  "name": "Milna",
+                  "text": "Szép homokos strand Vis délkeleti partján, amely autóval kényelmesen megközelíthető.",
+                  "category": "recreational",
+                  "coords": [
+                        16.230533,
+                        43.039975
+                  ]
+            },
+            {
+                  "name": "Zaglav",
+                  "text": "Nyugodt homokos strand Vis szigetén, amely csak gyalogosan érhető el Milna felől.",
+                  "category": "recreational",
+                  "coords": [
+                        16.228478,
+                        43.032677
+                  ]
+            },
+            {
+                  "name": "Srebrna",
+                  "text": "Híres nagy, ezüstös kavicsairól és a part menti sűrű fenyőerdőről.",
+                  "category": "recreational",
+                  "coords": [
+                        16.205359,
+                        43.020389
+                  ]
+            },
+            {
+                  "name": "Stiniva",
+                  "text": "Ikonikus strand egy szűk öbölben, amelyet magas sziklák szinte teljesen körbezárnak.",
+                  "category": "recreational",
+                  "coords": [
+                        16.171603,
+                        43.021412
+                  ]
+            },
+            {
+                  "name": "Velo Travna",
+                  "text": "Egy eldugott, kavicsos öböl Vis szigetének déli partján.",
+                  "category": "recreational",
+                  "coords": [
+                        16.185891,
+                        43.021294
+                  ]
+            },
+            {
+                  "name": "Teplus",
+                  "text": "Népszerű kavicsos strand Rukavac település közelében, Vis szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        16.211985,
+                        43.019765
+                  ]
+            },
+            {
+                  "name": "Bili bok",
+                  "text": "Természetes tengerparti szakasz Vis szigetén, amely sziklás partjáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        16.211349,
+                        43.01786
+                  ]
+            },
+            {
+                  "name": "Mala Srebrna",
+                  "text": "Kisebb kavicsos strand egy védett öbölben, Vis délkeleti partján.",
+                  "category": "recreational",
+                  "coords": [
+                        16.203722,
+                        43.022579
                   ]
             }
       ],
@@ -20513,6 +21667,87 @@ export const poiExtraHrV1: POI[] = [
                         16.184489,
                         43.060321
                   ]
+            },
+            {
+                  "name": "Stončica",
+                  "text": "O plajă de nisip populară pe insula Vis, cu apă puțin adâncă și un far distinctiv.",
+                  "category": "recreational",
+                  "coords": [
+                        16.241803,
+                        43.064552
+                  ]
+            },
+            {
+                  "name": "Milna",
+                  "text": "O plajă frumoasă de nisip pe coasta de sud-est a insulei Vis, accesibilă ușor cu mașina.",
+                  "category": "recreational",
+                  "coords": [
+                        16.230533,
+                        43.039975
+                  ]
+            },
+            {
+                  "name": "Zaglav",
+                  "text": "O plajă liniștită de nisip pe insula Vis, accesibilă doar pe o potecă dinspre Milna.",
+                  "category": "recreational",
+                  "coords": [
+                        16.228478,
+                        43.032677
+                  ]
+            },
+            {
+                  "name": "Srebrna",
+                  "text": "Celebră pentru pietrele sale mari, argintii, și pădurea densă de pini de pe țărm.",
+                  "category": "recreational",
+                  "coords": [
+                        16.205359,
+                        43.020389
+                  ]
+            },
+            {
+                  "name": "Stiniva",
+                  "text": "O plajă iconică într-un golf îngust, aproape complet închisă de stânci înalte.",
+                  "category": "recreational",
+                  "coords": [
+                        16.171603,
+                        43.021412
+                  ]
+            },
+            {
+                  "name": "Velo Travna",
+                  "text": "O golf izolat cu plajă de pietriș pe coasta de sud a insulei Vis.",
+                  "category": "recreational",
+                  "coords": [
+                        16.185891,
+                        43.021294
+                  ]
+            },
+            {
+                  "name": "Teplus",
+                  "text": "O plajă de pietriș populară lângă așezarea Rukavac de pe insula Vis.",
+                  "category": "recreational",
+                  "coords": [
+                        16.211985,
+                        43.019765
+                  ]
+            },
+            {
+                  "name": "Bili bok",
+                  "text": "O secțiune naturală de coastă pe insula Vis, cunoscută pentru malul său stâncos.",
+                  "category": "recreational",
+                  "coords": [
+                        16.211349,
+                        43.01786
+                  ]
+            },
+            {
+                  "name": "Mala Srebrna",
+                  "text": "O plajă mică de pietriș într-un golf protejat pe coasta de sud-est a insulei Vis.",
+                  "category": "recreational",
+                  "coords": [
+                        16.203722,
+                        43.022579
+                  ]
             }
       ],
       "en": [
@@ -20676,6 +21911,87 @@ export const poiExtraHrV1: POI[] = [
                         16.184489,
                         43.060321
                   ]
+            },
+            {
+                  "name": "Stončica",
+                  "text": "A popular sandy beach on Vis island with shallow water and a prominent lighthouse.",
+                  "category": "recreational",
+                  "coords": [
+                        16.241803,
+                        43.064552
+                  ]
+            },
+            {
+                  "name": "Milna",
+                  "text": "A beautiful sandy beach on the southeast coast of Vis, conveniently accessible by car.",
+                  "category": "recreational",
+                  "coords": [
+                        16.230533,
+                        43.039975
+                  ]
+            },
+            {
+                  "name": "Zaglav",
+                  "text": "A quiet sandy beach on Vis island, accessible only via a footpath from Milna.",
+                  "category": "recreational",
+                  "coords": [
+                        16.228478,
+                        43.032677
+                  ]
+            },
+            {
+                  "name": "Srebrna",
+                  "text": "Famous for its large, silver pebbles and the dense pine forest along the shore.",
+                  "category": "recreational",
+                  "coords": [
+                        16.205359,
+                        43.020389
+                  ]
+            },
+            {
+                  "name": "Stiniva",
+                  "text": "An iconic beach in a narrow bay, almost completely enclosed by high cliffs.",
+                  "category": "recreational",
+                  "coords": [
+                        16.171603,
+                        43.021412
+                  ]
+            },
+            {
+                  "name": "Velo Travna",
+                  "text": "A secluded pebble bay located on the southern coast of Vis island.",
+                  "category": "recreational",
+                  "coords": [
+                        16.185891,
+                        43.021294
+                  ]
+            },
+            {
+                  "name": "Teplus",
+                  "text": "A popular pebble beach located near the settlement of Rukavac on Vis island.",
+                  "category": "recreational",
+                  "coords": [
+                        16.211985,
+                        43.019765
+                  ]
+            },
+            {
+                  "name": "Bili bok",
+                  "text": "A natural coastal section on Vis island, known for its rocky shoreline.",
+                  "category": "recreational",
+                  "coords": [
+                        16.211349,
+                        43.01786
+                  ]
+            },
+            {
+                  "name": "Mala Srebrna",
+                  "text": "A smaller pebble beach in a protected bay on the southeast coast of Vis.",
+                  "category": "recreational",
+                  "coords": [
+                        16.203722,
+                        43.022579
+                  ]
             }
       ],
       "hr": [
@@ -20794,6 +22110,87 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         16.184489,
                         43.060321
+                  ]
+            },
+            {
+                  "name": "Stončica",
+                  "text": "Popularna pješčana plaža na otoku Visu s plitkim morem i upečatljivim svjetionikom.",
+                  "category": "recreational",
+                  "coords": [
+                        16.241803,
+                        43.064552
+                  ]
+            },
+            {
+                  "name": "Milna",
+                  "text": "Lijepa pješčana plaža na jugoistočnoj obali Visa, lako dostupna automobilom.",
+                  "category": "recreational",
+                  "coords": [
+                        16.230533,
+                        43.039975
+                  ]
+            },
+            {
+                  "name": "Zaglav",
+                  "text": "Mirna pješčana plaža na otoku Visu, dostupna samo pješačkom stazom iz Milne.",
+                  "category": "recreational",
+                  "coords": [
+                        16.228478,
+                        43.032677
+                  ]
+            },
+            {
+                  "name": "Srebrna",
+                  "text": "Poznata po krupnom srebrnkastom šljunku i gustoj borovoj šumi uz obalu.",
+                  "category": "recreational",
+                  "coords": [
+                        16.205359,
+                        43.020389
+                  ]
+            },
+            {
+                  "name": "Stiniva",
+                  "text": "Kultna plaža u uskoj uvali, gotovo potpuno okružena visokim liticama.",
+                  "category": "recreational",
+                  "coords": [
+                        16.171603,
+                        43.021412
+                  ]
+            },
+            {
+                  "name": "Velo Travna",
+                  "text": "Skrovita šljunčana uvala smještena na južnoj obali otoka Visa.",
+                  "category": "recreational",
+                  "coords": [
+                        16.185891,
+                        43.021294
+                  ]
+            },
+            {
+                  "name": "Teplus",
+                  "text": "Popularna šljunčana plaža smještena u blizini naselja Rukavac na otoku Visu.",
+                  "category": "recreational",
+                  "coords": [
+                        16.211985,
+                        43.019765
+                  ]
+            },
+            {
+                  "name": "Bili bok",
+                  "text": "Prirodni dio obale na otoku Visu, poznat po svojim stjenovitim dijelovima.",
+                  "category": "recreational",
+                  "coords": [
+                        16.211349,
+                        43.01786
+                  ]
+            },
+            {
+                  "name": "Mala Srebrna",
+                  "text": "Manja šljunčana plaža u zaštićenoj uvali na jugoistočnoj obali Visa.",
+                  "category": "recreational",
+                  "coords": [
+                        16.203722,
+                        43.022579
                   ]
             }
       ]
@@ -21083,6 +22480,114 @@ export const poiExtraHrV1: POI[] = [
                         14.750627,
                         44.977656
                   ]
+            },
+            {
+                  "name": "Baškotića porat",
+                  "text": "Ein kleiner Küstenabschnitt mit Strand in der Nähe von Baška auf der Insel Krk.",
+                  "category": "recreational",
+                  "coords": [
+                        14.760984,
+                        44.941403
+                  ]
+            },
+            {
+                  "name": "Mrna",
+                  "text": "Ein abgelegener Buchtstrand in der Umgebung von Baška auf der Insel Krk.",
+                  "category": "recreational",
+                  "coords": [
+                        14.749232,
+                        44.93785
+                  ]
+            },
+            {
+                  "name": "Vela Draga",
+                  "text": "Eine wunderschöne Naturbucht auf der Insel Krk, südlich von Baška gelegen.",
+                  "category": "recreational",
+                  "coords": [
+                        14.741233,
+                        44.937902
+                  ]
+            },
+            {
+                  "name": "Konjska",
+                  "text": "Ein abgelegener Kieselstrand auf der Insel Krk, erreichbar von Baška aus.",
+                  "category": "recreational",
+                  "coords": [
+                        14.806468,
+                        44.966856
+                  ]
+            },
+            {
+                  "name": "Dubna",
+                  "text": "Ein ruhiger Kieselstrand in einer abgelegenen Bucht bei Baška auf der Insel Krk.",
+                  "category": "recreational",
+                  "coords": [
+                        14.80107,
+                        44.964143
+                  ]
+            },
+            {
+                  "name": "Gnjilova",
+                  "text": "Ein abgelegener Strand an der Südküste der Insel Krk, erreichbar über Wanderwege von Baška.",
+                  "category": "recreational",
+                  "coords": [
+                        14.807322,
+                        44.973316
+                  ]
+            },
+            {
+                  "name": "Jurandvor beach",
+                  "text": "Ein Küstenabschnitt bei Jurandvor mit Zugang zum klaren Adriatischen Meer in der Nähe von Baška.",
+                  "category": "recreational",
+                  "coords": [
+                        14.795606,
+                        44.994034
+                  ]
+            },
+            {
+                  "name": "Njivica",
+                  "text": "Eine kleine Bucht mit Kieselstrand an der zerklüfteten Küste östlich von Baška.",
+                  "category": "recreational",
+                  "coords": [
+                        14.781706,
+                        44.905521
+                  ]
+            },
+            {
+                  "name": "Mudraki",
+                  "text": "Ein natürlicher Kieselstrand in einer friedlichen Bucht bei Baška auf der Insel Krk.",
+                  "category": "recreational",
+                  "coords": [
+                        14.751391,
+                        44.937849
+                  ]
+            },
+            {
+                  "name": "Mala Jurandvor",
+                  "text": "Ein kleiner, ruhiger Strandabschnitt an der Küste der Insel Krk nahe der Siedlung Jurandvor.",
+                  "category": "recreational",
+                  "coords": [
+                        14.797659,
+                        44.991844
+                  ]
+            },
+            {
+                  "name": "Mala Konjska",
+                  "text": "Ein abgelegener Fels- und Kieselstrand an den Wanderwegen zwischen Baška und Vela Luka.",
+                  "category": "recreational",
+                  "coords": [
+                        14.807941,
+                        44.968293
+                  ]
+            },
+            {
+                  "name": "Mala Luka",
+                  "text": "Eine malerische Bucht mit Kieselstrand auf der Insel Krk, hauptsächlich per Boot oder Wanderung von Baška erreichbar.",
+                  "category": "recreational",
+                  "coords": [
+                        14.800015,
+                        44.993659
+                  ]
             }
       ],
       "hu": [
@@ -21368,6 +22873,114 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         14.750627,
                         44.977656
+                  ]
+            },
+            {
+                  "name": "Baškotića porat",
+                  "text": "Kis tengerparti terület stranddal a Krk-szigeti Baška közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        14.760984,
+                        44.941403
+                  ]
+            },
+            {
+                  "name": "Mrna",
+                  "text": "Elszigetelt öbölbeli strand Baška környékén, Krk szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        14.749232,
+                        44.93785
+                  ]
+            },
+            {
+                  "name": "Vela Draga",
+                  "text": "Gyönyörű természetes öböl Krk szigetén, Baškától délre.",
+                  "category": "recreational",
+                  "coords": [
+                        14.741233,
+                        44.937902
+                  ]
+            },
+            {
+                  "name": "Konjska",
+                  "text": "Félreeső kavicsos strand Krk szigetén, Baškából megközelíthető.",
+                  "category": "recreational",
+                  "coords": [
+                        14.806468,
+                        44.966856
+                  ]
+            },
+            {
+                  "name": "Dubna",
+                  "text": "Csendes kavicsos strand egy eldugott öbölben Krk-szigeten, Baška közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        14.80107,
+                        44.964143
+                  ]
+            },
+            {
+                  "name": "Gnjilova",
+                  "text": "Eldugott tengerpart Krk-sziget déli részén, amely Baškából gyalogosan is megközelíthető.",
+                  "category": "recreational",
+                  "coords": [
+                        14.807322,
+                        44.973316
+                  ]
+            },
+            {
+                  "name": "Jurandvor beach",
+                  "text": "Jurandvor melletti tengerparti rész tiszta vízzel Baška közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        14.795606,
+                        44.994034
+                  ]
+            },
+            {
+                  "name": "Njivica",
+                  "text": "Apró öböl kavicsos stranddal a sziklás tengerparton, Baškától keletre.",
+                  "category": "recreational",
+                  "coords": [
+                        14.781706,
+                        44.905521
+                  ]
+            },
+            {
+                  "name": "Mudraki",
+                  "text": "Természetes kavicsos strand egy békés öbölben Krk-szigeten, Baška közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        14.751391,
+                        44.937849
+                  ]
+            },
+            {
+                  "name": "Mala Jurandvor",
+                  "text": "Kicsi, csendes tengerparti rész Krk-szigeten, Jurandvor település közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        14.797659,
+                        44.991844
+                  ]
+            },
+            {
+                  "name": "Mala Konjska",
+                  "text": "Eldugott sziklás-kavicsos strand a Baška és Vela Luka közötti túraútvonal mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        14.807941,
+                        44.968293
+                  ]
+            },
+            {
+                  "name": "Mala Luka",
+                  "text": "Festői öböl kavicsos stranddal Krk-szigeten, amely főként hajóval vagy Baškából gyalog érhető el.",
+                  "category": "recreational",
+                  "coords": [
+                        14.800015,
+                        44.993659
                   ]
             }
       ],
@@ -21655,6 +23268,114 @@ export const poiExtraHrV1: POI[] = [
                         14.750627,
                         44.977656
                   ]
+            },
+            {
+                  "name": "Baškotića porat",
+                  "text": "O mică zonă de coastă cu plajă situată lângă localitatea Baška de pe insula Krk.",
+                  "category": "recreational",
+                  "coords": [
+                        14.760984,
+                        44.941403
+                  ]
+            },
+            {
+                  "name": "Mrna",
+                  "text": "O plajă retrasă într-un golf, aflată în vecinătatea localității Baška de pe insula Krk.",
+                  "category": "recreational",
+                  "coords": [
+                        14.749232,
+                        44.93785
+                  ]
+            },
+            {
+                  "name": "Vela Draga",
+                  "text": "Un golf natural frumos de pe insula Krk, situat la sud de Baška.",
+                  "category": "recreational",
+                  "coords": [
+                        14.741233,
+                        44.937902
+                  ]
+            },
+            {
+                  "name": "Konjska",
+                  "text": "O plajă izolată cu pietriș pe insula Krk, accesibilă din localitatea Baška.",
+                  "category": "recreational",
+                  "coords": [
+                        14.806468,
+                        44.966856
+                  ]
+            },
+            {
+                  "name": "Dubna",
+                  "text": "O plajă liniștită cu pietriș situată într-un golf izolat lângă Baška, pe insula Krk.",
+                  "category": "recreational",
+                  "coords": [
+                        14.80107,
+                        44.964143
+                  ]
+            },
+            {
+                  "name": "Gnjilova",
+                  "text": "O plajă izolată pe coasta de sud a insulei Krk, accesibilă pe poteci de drumeție dinspre Baška.",
+                  "category": "recreational",
+                  "coords": [
+                        14.807322,
+                        44.973316
+                  ]
+            },
+            {
+                  "name": "Jurandvor beach",
+                  "text": "O zonă de coastă lângă satul Jurandvor, oferind acces la apele limpezi ale Adriaticii lângă Baška.",
+                  "category": "recreational",
+                  "coords": [
+                        14.795606,
+                        44.994034
+                  ]
+            },
+            {
+                  "name": "Njivica",
+                  "text": "Un mic golf cu plajă cu pietriș situat pe coasta stâncoasă la est de Baška.",
+                  "category": "recreational",
+                  "coords": [
+                        14.781706,
+                        44.905521
+                  ]
+            },
+            {
+                  "name": "Mudraki",
+                  "text": "O plajă naturală cu pietriș situată într-un golf liniștit lângă Baška, pe insula Krk.",
+                  "category": "recreational",
+                  "coords": [
+                        14.751391,
+                        44.937849
+                  ]
+            },
+            {
+                  "name": "Mala Jurandvor",
+                  "text": "O zonă mică și liniștită de plajă pe coasta insulei Krk, lângă localitatea Jurandvor.",
+                  "category": "recreational",
+                  "coords": [
+                        14.797659,
+                        44.991844
+                  ]
+            },
+            {
+                  "name": "Mala Konjska",
+                  "text": "O plajă izolată cu stânci și pietriș situată de-a lungul potecilor de plimbare între Baška și Vela Luka.",
+                  "category": "recreational",
+                  "coords": [
+                        14.807941,
+                        44.968293
+                  ]
+            },
+            {
+                  "name": "Mala Luka",
+                  "text": "Un golf pitoresc cu plajă cu pietriș pe insula Krk, accesibil în principal cu barca sau pe jos dinspre Baška.",
+                  "category": "recreational",
+                  "coords": [
+                        14.800015,
+                        44.993659
+                  ]
             }
       ],
       "en": [
@@ -21941,6 +23662,114 @@ export const poiExtraHrV1: POI[] = [
                         14.750627,
                         44.977656
                   ]
+            },
+            {
+                  "name": "Baškotića porat",
+                  "text": "A small coastal area with a beach located near Baška on the island of Krk.",
+                  "category": "recreational",
+                  "coords": [
+                        14.760984,
+                        44.941403
+                  ]
+            },
+            {
+                  "name": "Mrna",
+                  "text": "A secluded bay beach in the vicinity of Baška on the island of Krk.",
+                  "category": "recreational",
+                  "coords": [
+                        14.749232,
+                        44.93785
+                  ]
+            },
+            {
+                  "name": "Vela Draga",
+                  "text": "A beautiful natural bay on the island of Krk, located south of Baška.",
+                  "category": "recreational",
+                  "coords": [
+                        14.741233,
+                        44.937902
+                  ]
+            },
+            {
+                  "name": "Konjska",
+                  "text": "A remote pebble beach on the island of Krk, accessible from Baška.",
+                  "category": "recreational",
+                  "coords": [
+                        14.806468,
+                        44.966856
+                  ]
+            },
+            {
+                  "name": "Dubna",
+                  "text": "A quiet pebble beach located in a secluded bay near Baška on Krk Island.",
+                  "category": "recreational",
+                  "coords": [
+                        14.80107,
+                        44.964143
+                  ]
+            },
+            {
+                  "name": "Gnjilova",
+                  "text": "A secluded beach on the southern coast of Krk Island, accessible via hiking trails from Baška.",
+                  "category": "recreational",
+                  "coords": [
+                        14.807322,
+                        44.973316
+                  ]
+            },
+            {
+                  "name": "Jurandvor beach",
+                  "text": "A coastal area near the village of Jurandvor, offering access to the clear waters of the Adriatic near Baška.",
+                  "category": "recreational",
+                  "coords": [
+                        14.795606,
+                        44.994034
+                  ]
+            },
+            {
+                  "name": "Njivica",
+                  "text": "A small cove with a pebble beach located on the rugged coastline east of Baška.",
+                  "category": "recreational",
+                  "coords": [
+                        14.781706,
+                        44.905521
+                  ]
+            },
+            {
+                  "name": "Mudraki",
+                  "text": "A natural pebble beach situated in a peaceful bay near Baška on the island of Krk.",
+                  "category": "recreational",
+                  "coords": [
+                        14.751391,
+                        44.937849
+                  ]
+            },
+            {
+                  "name": "Mala Jurandvor",
+                  "text": "A small, quiet beach area on the coast of Krk Island near the settlement of Jurandvor.",
+                  "category": "recreational",
+                  "coords": [
+                        14.797659,
+                        44.991844
+                  ]
+            },
+            {
+                  "name": "Mala Konjska",
+                  "text": "A secluded rocky and pebble beach located along the walking paths between Baška and Vela Luka.",
+                  "category": "recreational",
+                  "coords": [
+                        14.807941,
+                        44.968293
+                  ]
+            },
+            {
+                  "name": "Mala Luka",
+                  "text": "A picturesque bay with a pebble beach on Krk Island, accessible primarily by boat or hiking from Baška.",
+                  "category": "recreational",
+                  "coords": [
+                        14.800015,
+                        44.993659
+                  ]
             }
       ],
       "hr": [
@@ -22194,6 +24023,114 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         14.750627,
                         44.977656
+                  ]
+            },
+            {
+                  "name": "Baškotića porat",
+                  "text": "Mali obalni prostor s plažom smješten u blizini Baške na otoku Krku.",
+                  "category": "recreational",
+                  "coords": [
+                        14.760984,
+                        44.941403
+                  ]
+            },
+            {
+                  "name": "Mrna",
+                  "text": "Skrovita uvala s plažom u okolici Baške na otoku Krku.",
+                  "category": "recreational",
+                  "coords": [
+                        14.749232,
+                        44.93785
+                  ]
+            },
+            {
+                  "name": "Vela Draga",
+                  "text": "Prekrasna prirodna uvala na otoku Krku, smještena južno od Baške.",
+                  "category": "recreational",
+                  "coords": [
+                        14.741233,
+                        44.937902
+                  ]
+            },
+            {
+                  "name": "Konjska",
+                  "text": "Udaljena šljunčana plaža na otoku Krku, dostupna iz mjesta Baška.",
+                  "category": "recreational",
+                  "coords": [
+                        14.806468,
+                        44.966856
+                  ]
+            },
+            {
+                  "name": "Dubna",
+                  "text": "Mirna šljunčana plaža smještena u izoliranoj uvali u blizini Baške na otoku Krku.",
+                  "category": "recreational",
+                  "coords": [
+                        14.80107,
+                        44.964143
+                  ]
+            },
+            {
+                  "name": "Gnjilova",
+                  "text": "Izolirana plaža na južnoj obali otoka Krka, dostupna pješačkim stazama iz Baške.",
+                  "category": "recreational",
+                  "coords": [
+                        14.807322,
+                        44.973316
+                  ]
+            },
+            {
+                  "name": "Jurandvor beach",
+                  "text": "Obalni dio u blizini mjesta Jurandvor koji nudi pristup bistrom Jadranskom moru kod Baške.",
+                  "category": "recreational",
+                  "coords": [
+                        14.795606,
+                        44.994034
+                  ]
+            },
+            {
+                  "name": "Njivica",
+                  "text": "Mala uvala sa šljunčanom plažom smještena na razvedenoj obali istočno od Baške.",
+                  "category": "recreational",
+                  "coords": [
+                        14.781706,
+                        44.905521
+                  ]
+            },
+            {
+                  "name": "Mudraki",
+                  "text": "Prirodna šljunčana plaža smještena u mirnoj uvali kod Baške na otoku Krku.",
+                  "category": "recreational",
+                  "coords": [
+                        14.751391,
+                        44.937849
+                  ]
+            },
+            {
+                  "name": "Mala Jurandvor",
+                  "text": "Mali, mirni dio plaže na obali otoka Krka u blizini naselja Jurandvor.",
+                  "category": "recreational",
+                  "coords": [
+                        14.797659,
+                        44.991844
+                  ]
+            },
+            {
+                  "name": "Mala Konjska",
+                  "text": "Izolirana stjenovita i šljunčana plaža smještena uz pješačke staze između Baške i Vele Luke.",
+                  "category": "recreational",
+                  "coords": [
+                        14.807941,
+                        44.968293
+                  ]
+            },
+            {
+                  "name": "Mala Luka",
+                  "text": "Slikovita uvala sa šljunčanom plažom na otoku Krku, dostupna prvenstveno brodom ili pješačenjem iz Baške.",
+                  "category": "recreational",
+                  "coords": [
+                        14.800015,
+                        44.993659
                   ]
             }
       ]
@@ -24103,6 +26040,15 @@ export const poiExtraHrV1: POI[] = [
                         16.61827,
                         43.168911
                   ]
+            },
+            {
+                  "name": "Dubovica",
+                  "text": "Eine malerische Bucht mit Kieselstrand an der Südküste der Insel Hvar.",
+                  "category": "recreational",
+                  "coords": [
+                        16.534584,
+                        43.14592
+                  ]
             }
       ],
       "hu": [
@@ -24265,6 +26211,15 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         16.61827,
                         43.168911
+                  ]
+            },
+            {
+                  "name": "Dubovica",
+                  "text": "Festői öböl kavicsos stranddal Hvar-sziget déli partján.",
+                  "category": "recreational",
+                  "coords": [
+                        16.534584,
+                        43.14592
                   ]
             }
       ],
@@ -24429,6 +26384,15 @@ export const poiExtraHrV1: POI[] = [
                         16.61827,
                         43.168911
                   ]
+            },
+            {
+                  "name": "Dubovica",
+                  "text": "Un golf pitoresc cu o plajă cu pietriș pe coasta de sud a insulei Hvar.",
+                  "category": "recreational",
+                  "coords": [
+                        16.534584,
+                        43.14592
+                  ]
             }
       ],
       "en": [
@@ -24592,6 +26556,15 @@ export const poiExtraHrV1: POI[] = [
                         16.61827,
                         43.168911
                   ]
+            },
+            {
+                  "name": "Dubovica",
+                  "text": "A picturesque bay with a pebble beach on the southern coast of Hvar island.",
+                  "category": "recreational",
+                  "coords": [
+                        16.534584,
+                        43.14592
+                  ]
             }
       ],
       "hr": [
@@ -24710,6 +26683,15 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         16.61827,
                         43.168911
+                  ]
+            },
+            {
+                  "name": "Dubovica",
+                  "text": "Slikovita uvala sa šljunčanom plažom na južnoj obali otoka Hvara.",
+                  "category": "recreational",
+                  "coords": [
+                        16.534584,
+                        43.14592
                   ]
             }
       ]
@@ -26775,6 +28757,15 @@ export const poiExtraHrV1: POI[] = [
                         14.286893,
                         45.312459
                   ]
+            },
+            {
+                  "name": "Medveja",
+                  "text": "Ein bekannter Kieselstrand an der Riviera von Opatija, am Fuße des Berges Učka gelegen.",
+                  "category": "recreational",
+                  "coords": [
+                        14.269678,
+                        45.269816
+                  ]
             }
       ],
       "hu": [
@@ -26917,6 +28908,15 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         14.286893,
                         45.312459
+                  ]
+            },
+            {
+                  "name": "Medveja",
+                  "text": "Ismert kavicsos strand az Abbáziai Riviérán, az Učka-hegy lábánál.",
+                  "category": "recreational",
+                  "coords": [
+                        14.269678,
+                        45.269816
                   ]
             }
       ],
@@ -27061,6 +29061,15 @@ export const poiExtraHrV1: POI[] = [
                         14.286893,
                         45.312459
                   ]
+            },
+            {
+                  "name": "Medveja",
+                  "text": "O plajă celebră cu pietriș de pe Riviera Opatija, situată la poalele muntelui Učka.",
+                  "category": "recreational",
+                  "coords": [
+                        14.269678,
+                        45.269816
+                  ]
             }
       ],
       "en": [
@@ -27204,6 +29213,15 @@ export const poiExtraHrV1: POI[] = [
                         14.286893,
                         45.312459
                   ]
+            },
+            {
+                  "name": "Medveja",
+                  "text": "A well-known pebble beach on the Opatija Riviera, located at the foot of Mount Učka.",
+                  "category": "recreational",
+                  "coords": [
+                        14.269678,
+                        45.269816
+                  ]
             }
       ],
       "hr": [
@@ -27313,6 +29331,15 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         14.286893,
                         45.312459
+                  ]
+            },
+            {
+                  "name": "Medveja",
+                  "text": "Poznata šljunčana plaža na opatijskoj rivijeri, smještena u podnožju planine Učka.",
+                  "category": "recreational",
+                  "coords": [
+                        14.269678,
+                        45.269816
                   ]
             }
       ]
@@ -28301,6 +30328,15 @@ export const poiExtraHrV1: POI[] = [
                         15.165009,
                         44.221101
                   ]
+            },
+            {
+                  "name": "Plaža Pliša",
+                  "text": "Ein Sandstrand in der Lagune von Nin, bekannt für sein seichtes und warmes Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        15.166125,
+                        44.216741
+                  ]
             }
       ],
       "hu": [
@@ -28467,6 +30503,15 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         15.165009,
                         44.221101
+                  ]
+            },
+            {
+                  "name": "Plaža Pliša",
+                  "text": "Homokos strand a nini lagúnában, amely sekély és meleg vizéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        15.166125,
+                        44.216741
                   ]
             }
       ],
@@ -28635,6 +30680,15 @@ export const poiExtraHrV1: POI[] = [
                         15.165009,
                         44.221101
                   ]
+            },
+            {
+                  "name": "Plaža Pliša",
+                  "text": "O plajă cu nisip în laguna Nin, cunoscută pentru apele sale puțin adânci și calde.",
+                  "category": "recreational",
+                  "coords": [
+                        15.166125,
+                        44.216741
+                  ]
             }
       ],
       "en": [
@@ -28802,6 +30856,15 @@ export const poiExtraHrV1: POI[] = [
                         15.165009,
                         44.221101
                   ]
+            },
+            {
+                  "name": "Plaža Pliša",
+                  "text": "A sandy beach in the Nin lagoon, known for its shallow and warm waters.",
+                  "category": "recreational",
+                  "coords": [
+                        15.166125,
+                        44.216741
+                  ]
             }
       ],
       "hr": [
@@ -28903,6 +30966,15 @@ export const poiExtraHrV1: POI[] = [
                         15.165009,
                         44.221101
                   ]
+            },
+            {
+                  "name": "Plaža Pliša",
+                  "text": "Pješčana plaža u ninskoj laguni, poznata po plitkom i toplom moru.",
+                  "category": "recreational",
+                  "coords": [
+                        15.166125,
+                        44.216741
+                  ]
             }
       ]
 }},
@@ -28974,6 +31046,15 @@ export const poiExtraHrV1: POI[] = [
                         17.162382,
                         42.994187
                   ]
+            },
+            {
+                  "name": "Divna",
+                  "text": "Ein wunderschöner Kieselstrand auf Pelješac, bekannt für sein türkisfarbenes Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        17.20087,
+                        43.01709
+                  ]
             }
       ],
       "hu": [
@@ -29042,6 +31123,15 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         17.162382,
                         42.994187
+                  ]
+            },
+            {
+                  "name": "Divna",
+                  "text": "Gyönyörű kavicsos strand a Pelješac-félszigeten, amely türkizkék vizéről híres.",
+                  "category": "recreational",
+                  "coords": [
+                        17.20087,
+                        43.01709
                   ]
             }
       ],
@@ -29112,6 +31202,15 @@ export const poiExtraHrV1: POI[] = [
                         17.162382,
                         42.994187
                   ]
+            },
+            {
+                  "name": "Divna",
+                  "text": "O plajă superbă de prundis pe peninsula Pelješac, renumită pentru apa sa turcoaz.",
+                  "category": "recreational",
+                  "coords": [
+                        17.20087,
+                        43.01709
+                  ]
             }
       ],
       "en": [
@@ -29181,6 +31280,15 @@ export const poiExtraHrV1: POI[] = [
                         17.162382,
                         42.994187
                   ]
+            },
+            {
+                  "name": "Divna",
+                  "text": "A stunning pebble beach on the Pelješac peninsula, famous for its turquoise water.",
+                  "category": "recreational",
+                  "coords": [
+                        17.20087,
+                        43.01709
+                  ]
             }
       ],
       "hr": [
@@ -29227,6 +31335,15 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         17.162382,
                         42.994187
+                  ]
+            },
+            {
+                  "name": "Divna",
+                  "text": "Predivna šljunčana plaža na poluotoku Pelješcu, poznata po tirkiznom moru.",
+                  "category": "recreational",
+                  "coords": [
+                        17.20087,
+                        43.01709
                   ]
             }
       ]
@@ -31044,6 +33161,33 @@ export const poiExtraHrV1: POI[] = [
                         14.898148,
                         44.988062
                   ]
+            },
+            {
+                  "name": "Plaža Sveti Ilija jug",
+                  "text": "Ein natürlicher Strandabschnitt südlich von Senj mit Blick auf die Insel Krk.",
+                  "category": "recreational",
+                  "coords": [
+                        14.877054,
+                        45.044057
+                  ]
+            },
+            {
+                  "name": "Plaža Sveti Ilija sjever",
+                  "text": "Ein Kies- und Felsstrand nördlich von Senj an der windanfälligen Adriaküste.",
+                  "category": "recreational",
+                  "coords": [
+                        14.8768,
+                        45.045537
+                  ]
+            },
+            {
+                  "name": "Plaža Planikovac",
+                  "text": "Ein kleiner Kiesstrand an der Adriaküste in der Nähe von Senj.",
+                  "category": "recreational",
+                  "coords": [
+                        14.925152,
+                        44.95951
+                  ]
             }
       ],
       "hu": [
@@ -31123,6 +33267,33 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         14.898148,
                         44.988062
+                  ]
+            },
+            {
+                  "name": "Plaža Sveti Ilija jug",
+                  "text": "Természetes strandszakasz Senjtől délre, kilátással a Krk-szigetre.",
+                  "category": "recreational",
+                  "coords": [
+                        14.877054,
+                        45.044057
+                  ]
+            },
+            {
+                  "name": "Plaža Sveti Ilija sjever",
+                  "text": "Kavicsos és sziklás strand Senjtől északra, az Adria szeles partvidékén.",
+                  "category": "recreational",
+                  "coords": [
+                        14.8768,
+                        45.045537
+                  ]
+            },
+            {
+                  "name": "Plaža Planikovac",
+                  "text": "Egy aprókavicsos strand az adriai parton, Senj közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        14.925152,
+                        44.95951
                   ]
             }
       ],
@@ -31204,6 +33375,33 @@ export const poiExtraHrV1: POI[] = [
                         14.898148,
                         44.988062
                   ]
+            },
+            {
+                  "name": "Plaža Sveti Ilija jug",
+                  "text": "O secțiune naturală de plajă la sud de Senj, cu vedere spre insula Krk.",
+                  "category": "recreational",
+                  "coords": [
+                        14.877054,
+                        45.044057
+                  ]
+            },
+            {
+                  "name": "Plaža Sveti Ilija sjever",
+                  "text": "O plajă cu pietriș și stânci la nord de Senj, pe coasta Adriaticii expusă vântului.",
+                  "category": "recreational",
+                  "coords": [
+                        14.8768,
+                        45.045537
+                  ]
+            },
+            {
+                  "name": "Plaža Planikovac",
+                  "text": "O plajă mică cu pietriș situată pe coasta Adriaticii, lângă Senj.",
+                  "category": "recreational",
+                  "coords": [
+                        14.925152,
+                        44.95951
+                  ]
             }
       ],
       "en": [
@@ -31284,6 +33482,33 @@ export const poiExtraHrV1: POI[] = [
                         14.898148,
                         44.988062
                   ]
+            },
+            {
+                  "name": "Plaža Sveti Ilija jug",
+                  "text": "A natural beach section south of Senj with a view of Krk Island.",
+                  "category": "recreational",
+                  "coords": [
+                        14.877054,
+                        45.044057
+                  ]
+            },
+            {
+                  "name": "Plaža Sveti Ilija sjever",
+                  "text": "A pebble and rocky beach north of Senj on the wind-prone Adriatic coast.",
+                  "category": "recreational",
+                  "coords": [
+                        14.8768,
+                        45.045537
+                  ]
+            },
+            {
+                  "name": "Plaža Planikovac",
+                  "text": "A small pebble beach located on the Adriatic coast near Senj.",
+                  "category": "recreational",
+                  "coords": [
+                        14.925152,
+                        44.95951
+                  ]
             }
       ],
       "hr": [
@@ -31330,6 +33555,33 @@ export const poiExtraHrV1: POI[] = [
                   "coords": [
                         14.898148,
                         44.988062
+                  ]
+            },
+            {
+                  "name": "Plaža Sveti Ilija jug",
+                  "text": "Prirodni dio plaže južno od Senja s pogledom na otok Krk.",
+                  "category": "recreational",
+                  "coords": [
+                        14.877054,
+                        45.044057
+                  ]
+            },
+            {
+                  "name": "Plaža Sveti Ilija sjever",
+                  "text": "Šljunčana i stjenovita plaža sjeverno od Senja na jadranskoj obali podložnoj buri.",
+                  "category": "recreational",
+                  "coords": [
+                        14.8768,
+                        45.045537
+                  ]
+            },
+            {
+                  "name": "Plaža Planikovac",
+                  "text": "Mala šljunčana plaža smještena na jadranskoj obali u blizini Senja.",
+                  "category": "recreational",
+                  "coords": [
+                        14.925152,
+                        44.95951
                   ]
             }
       ]

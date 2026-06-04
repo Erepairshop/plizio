@@ -35960,6 +35960,186 @@ export const poiExtraEsV2: POI[] = [
                         -15.42707,
                         28.12161
                   ]
+            },
+            {
+                  "name": "Museo Elder de la Ciencia y la Tecnología",
+                  "text": "Ein interaktives Wissenschaftsmuseum im Santa-Catalina-Park, das technische Innovationen und wissenschaftliche Entdeckungen präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -15.429661,
+                        28.141231
+                  ]
+            },
+            {
+                  "name": "Teatro Cuyás",
+                  "text": "Ein bedeutendes Kulturzentrum in Las Palmas, das ein breites Spektrum an Theaterstücken, Musik- und Tanzaufführungen bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -15.417966,
+                        28.106591
+                  ]
+            },
+            {
+                  "name": "Centro de Arte La Regenta",
+                  "text": "Ein Zentrum für zeitgenössische Kunst, das in dem markanten Gebäude einer ehemaligen Tabakfabrik untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        -15.430662,
+                        28.138666
+                  ]
+            },
+            {
+                  "name": "Playa de Las Alcaravaneras (Stadtzentrum von las Palmas)",
+                  "text": "Ein goldener Sandstrand direkt am Hafen von Las Palmas, der besonders für Wassersport und ruhiges Baden bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.428981,
+                        28.130709
+                  ]
+            },
+            {
+                  "name": "Castillo de Mata",
+                  "text": "Diese Festung aus dem 16. Jahrhundert schützte einst die Stadt vor Angriffen und beherbergt heute ein Museum.",
+                  "category": "castle",
+                  "coords": [
+                        -15.421784,
+                        28.107127
+                  ]
+            },
+            {
+                  "name": "Castillo de San Francisco",
+                  "text": "Eine auf einem Hügel gelegene Befestigungsanlage aus dem 17. Jahrhundert, die zur Verteidigung von Las Palmas errichtet wurde.",
+                  "category": "castle",
+                  "coords": [
+                        -15.424796,
+                        28.103714
+                  ]
+            },
+            {
+                  "name": "Acuario Poema del Mar",
+                  "text": "Ein hochmodernes Aquarium am Hafen, das in verschiedenen Themenbereichen die Artenvielfalt der Weltmeere zeigt.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.428225,
+                        28.144603
+                  ]
+            },
+            {
+                  "name": "Batería de San Juan",
+                  "text": "Eine historische Geschützstellung auf den Anhöhen von Las Palmas, die einst Teil des Küstenverteidigungssystems war.",
+                  "category": "fortress",
+                  "coords": [
+                        -15.422475,
+                        28.091729
+                  ]
+            },
+            {
+                  "name": "Museo Naval de Canarias",
+                  "text": "Das Museum dokumentiert die maritime Geschichte der Kanaren mit Modellen, Navigationsinstrumenten und historischen Seekarten.",
+                  "category": "museum",
+                  "coords": [
+                        -15.428507,
+                        28.135264
+                  ]
+            },
+            {
+                  "name": "a las actividades primitivas canarias",
+                  "text": "Denkmal in Las Palmas, das den traditionellen handwerklichen Tätigkeiten der kanarischen Ureinwohner gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        -15.435094,
+                        28.13455
+                  ]
+            },
+            {
+                  "name": "Mirador del Sendero Azul",
+                  "text": "Aussichtspunkt am Küstenweg Sendero Azul mit Blick auf den Atlantischen Ozean und die Küstenlinie.",
+                  "category": "natural",
+                  "coords": [
+                        -15.462989,
+                        28.127751
+                  ]
+            },
+            {
+                  "name": "Plaza de la Feria",
+                  "text": "Ein weitläufiger öffentlicher Platz und Stadtpark im Zentrum von Las Palmas de Gran Canaria.",
+                  "category": "park",
+                  "coords": [
+                        -15.420542,
+                        28.113467
+                  ]
+            },
+            {
+                  "name": "Iglesia de Santo Domingo",
+                  "text": "Historisches Kirchengebäude im Stadtteil Vegueta, das für seine Architektur aus dem 16. Jahrhundert bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        -15.41594,
+                        28.098429
+                  ]
+            },
+            {
+                  "name": "Plaza de Cairasco",
+                  "text": "Ein eleganter Platz im Viertel Triana, umgeben von bedeutenden kulturellen Institutionen wie dem Gabinete Literario.",
+                  "category": "park",
+                  "coords": [
+                        -15.416363,
+                        28.102804
+                  ]
+            },
+            {
+                  "name": "Muralla de Las Palmas",
+                  "text": "Überreste der historischen Stadtmauer aus dem 16. Jahrhundert, die zur Verteidigung gegen Piratenangriffe errichtet wurde.",
+                  "category": "historical",
+                  "coords": [
+                        -15.422018,
+                        28.106213
+                  ]
+            },
+            {
+                  "name": "Iglesia de San José",
+                  "text": "Eine römisch-katholische Kirche im traditionellen Viertel San José, die als wichtiges lokales Baudenkmal gilt.",
+                  "category": "historical",
+                  "coords": [
+                        -15.418506,
+                        28.094737
+                  ]
+            },
+            {
+                  "name": "Capilla Anglicana",
+                  "text": "Historische anglikanische Kapelle, die Ende des 19. Jahrhunderts für die britische Gemeinschaft der Stadt erbaut wurde.",
+                  "category": "historical",
+                  "coords": [
+                        -15.43102,
+                        28.125468
+                  ]
+            },
+            {
+                  "name": "Casa Museo Pérez Galdós",
+                  "text": "Das Geburtshaus des berühmten spanischen Schriftstellers Benito Pérez Galdós, das heute als Museum dient.",
+                  "category": "historical",
+                  "coords": [
+                        -15.415882,
+                        28.104017
+                  ]
+            },
+            {
+                  "name": "San Francisco de Asís",
+                  "text": "Eine historische Pfarrkirche im Viertel Vegueta, die bedeutende religiöse Kunstwerke und Schnitzereien beherbergt.",
+                  "category": "historical",
+                  "coords": [
+                        -15.417326,
+                        28.103484
+                  ]
+            },
+            {
+                  "name": "Ermita de San Telmo",
+                  "text": "Eine im 18. Jahrhundert erbaute Kapelle im San-Telmo-Park, die dem Schutzpatron der Seeleute gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        -15.416887,
+                        28.108177
+                  ]
             }
       ],
       "hu": [
@@ -36031,6 +36211,186 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -15.42707,
                         28.12161
+                  ]
+            },
+            {
+                  "name": "Museo Elder de la Ciencia y la Tecnología",
+                  "text": "Interaktív tudományos múzeum a Santa Catalina parkban, amely a technológiai fejlődést és a kutatást népszerűsíti.",
+                  "category": "museum",
+                  "coords": [
+                        -15.429661,
+                        28.141231
+                  ]
+            },
+            {
+                  "name": "Teatro Cuyás",
+                  "text": "Las Palmas neves színháza, amely drámai előadásoknak, koncerteknek és nemzetközi produkcióknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -15.417966,
+                        28.106591
+                  ]
+            },
+            {
+                  "name": "Centro de Arte La Regenta",
+                  "text": "Kortárs művészeti központ Las Palmasban, amely egy régi dohánygyár ipari épületében kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        -15.430662,
+                        28.138666
+                  ]
+            },
+            {
+                  "name": "Playa de Las Alcaravaneras",
+                  "text": "Las Palmas kikötője mellett fekvő aranyhomokos strand, amely kiválóan alkalmas vízi sportokra és pihenésre.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.428981,
+                        28.130709
+                  ]
+            },
+            {
+                  "name": "Castillo de Mata",
+                  "text": "Ez a 16. századi erődítmény egykor a várost védte a támadásoktól, ma pedig múzeumnak ad otthont.",
+                  "category": "castle",
+                  "coords": [
+                        -15.421784,
+                        28.107127
+                  ]
+            },
+            {
+                  "name": "Castillo de San Francisco",
+                  "text": "17. századi, dombtetőre épült erődítmény, amely stratégiai szerepet játszott Las Palmas védelmében.",
+                  "category": "castle",
+                  "coords": [
+                        -15.424796,
+                        28.103714
+                  ]
+            },
+            {
+                  "name": "Acuario Poema del Mar",
+                  "text": "Modern akvárium a kikötő közelében, amely látványos módon mutatja be a világ óceánjainak élővilágát.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.428225,
+                        28.144603
+                  ]
+            },
+            {
+                  "name": "Batería de San Juan",
+                  "text": "Történelmi tüzérségi állás Las Palmas dombjain, amely egykor a part menti védelmi rendszer részét képezte.",
+                  "category": "fortress",
+                  "coords": [
+                        -15.422475,
+                        28.091729
+                  ]
+            },
+            {
+                  "name": "Museo Naval de Canarias",
+                  "text": "A múzeum a Kanári-szigetek tengerészeti múltját dokumentálja hajómodellekkel és régi navigációs eszközökkel.",
+                  "category": "museum",
+                  "coords": [
+                        -15.428507,
+                        28.135264
+                  ]
+            },
+            {
+                  "name": "a las actividades primitivas canarias",
+                  "text": "A kanári-szigeteki őslakosok hagyományos tevékenységeinek emléket állító emlékmű Las Palmasban.",
+                  "category": "historical",
+                  "coords": [
+                        -15.435094,
+                        28.13455
+                  ]
+            },
+            {
+                  "name": "Mirador del Sendero Azul",
+                  "text": "Kilátópont a Sendero Azul tengerparti sétányon, kilátással az Atlanti-óceánra és a partvonalra.",
+                  "category": "natural",
+                  "coords": [
+                        -15.462989,
+                        28.127751
+                  ]
+            },
+            {
+                  "name": "Plaza de la Feria",
+                  "text": "Tágas közösségi tér és városi park Las Palmas de Gran Canaria központjában.",
+                  "category": "park",
+                  "coords": [
+                        -15.420542,
+                        28.113467
+                  ]
+            },
+            {
+                  "name": "Iglesia de Santo Domingo",
+                  "text": "Történelmi templomépület a Vegueta negyedben, amely a 16. századi építészetéről ismert.",
+                  "category": "historical",
+                  "coords": [
+                        -15.41594,
+                        28.098429
+                  ]
+            },
+            {
+                  "name": "Plaza de Cairasco",
+                  "text": "Elegáns tér a Triana negyedben, amelyet olyan kulturális intézmények vesznek körül, mint a Gabinete Literario.",
+                  "category": "park",
+                  "coords": [
+                        -15.416363,
+                        28.102804
+                  ]
+            },
+            {
+                  "name": "Muralla de Las Palmas",
+                  "text": "A 16. századi történelmi városfal maradványai, amelyet a kalóztámadások elleni védekezésül emeltek.",
+                  "category": "historical",
+                  "coords": [
+                        -15.422018,
+                        28.106213
+                  ]
+            },
+            {
+                  "name": "Iglesia de San José",
+                  "text": "Római katolikus templom a hagyományos San José negyedben, amely fontos helyi műemlék.",
+                  "category": "historical",
+                  "coords": [
+                        -15.418506,
+                        28.094737
+                  ]
+            },
+            {
+                  "name": "Capilla Anglicana",
+                  "text": "Történelmi anglikán kápolna, amely a 19. század végén épült a város brit közössége számára.",
+                  "category": "historical",
+                  "coords": [
+                        -15.43102,
+                        28.125468
+                  ]
+            },
+            {
+                  "name": "Casa Museo Pérez Galdós",
+                  "text": "A híres spanyol író, Benito Pérez Galdós szülőháza, amely ma múzeumként működik.",
+                  "category": "historical",
+                  "coords": [
+                        -15.415882,
+                        28.104017
+                  ]
+            },
+            {
+                  "name": "San Francisco de Asís",
+                  "text": "Történelmi plébániatemplom a Vegueta negyedben, amely jelentős vallási műalkotásoknak ad otthont.",
+                  "category": "historical",
+                  "coords": [
+                        -15.417326,
+                        28.103484
+                  ]
+            },
+            {
+                  "name": "Ermita de San Telmo",
+                  "text": "A 18. században épült kápolna a San Telmo parkban, amelyet a tengerészek védőszentjének szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        -15.416887,
+                        28.108177
                   ]
             }
       ],
@@ -36104,6 +36464,186 @@ export const poiExtraEsV2: POI[] = [
                         -15.42707,
                         28.12161
                   ]
+            },
+            {
+                  "name": "Museo Elder de la Ciencia y la Tecnología",
+                  "text": "Un muzeu interactiv de știință situat în Parcul Santa Catalina, dedicat inovației și descoperirilor tehnice.",
+                  "category": "museum",
+                  "coords": [
+                        -15.429661,
+                        28.141231
+                  ]
+            },
+            {
+                  "name": "Teatro Cuyás",
+                  "text": "Un centru cultural important din Las Palmas, care găzduiește spectacole variate de teatru, muzică și dans.",
+                  "category": "cultural",
+                  "coords": [
+                        -15.417966,
+                        28.106591
+                  ]
+            },
+            {
+                  "name": "Centro de Arte La Regenta",
+                  "text": "Un centru de artă contemporană situat în clădirea unei foste fabrici de tutun din Las Palmas.",
+                  "category": "museum",
+                  "coords": [
+                        -15.430662,
+                        28.138666
+                  ]
+            },
+            {
+                  "name": "Playa de Las Alcaravaneras",
+                  "text": "O plajă cu nisip auriu situată lângă portul din Las Palmas, populară pentru sporturi nautice și înot.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.428981,
+                        28.130709
+                  ]
+            },
+            {
+                  "name": "Castillo de Mata",
+                  "text": "Această fortăreață din secolul al XVI-lea a protejat orașul de atacuri și găzduiește astăzi un muzeu.",
+                  "category": "castle",
+                  "coords": [
+                        -15.421784,
+                        28.107127
+                  ]
+            },
+            {
+                  "name": "Castillo de San Francisco",
+                  "text": "O fortificație din secolul al XVII-lea situată pe un deal, construită pentru a apăra orașul Las Palmas.",
+                  "category": "castle",
+                  "coords": [
+                        -15.424796,
+                        28.103714
+                  ]
+            },
+            {
+                  "name": "Acuario Poema del Mar",
+                  "text": "Un acvariu ultramodern lângă port, care prezintă biodiversitatea oceanelor lumii în zone tematice.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.428225,
+                        28.144603
+                  ]
+            },
+            {
+                  "name": "Batería de San Juan",
+                  "text": "O baterie de coastă istorică pe dealurile din Las Palmas, care a făcut parte din sistemul de apărare al orașului.",
+                  "category": "fortress",
+                  "coords": [
+                        -15.422475,
+                        28.091729
+                  ]
+            },
+            {
+                  "name": "Museo Naval de Canarias",
+                  "text": "Muzeul documentează istoria navală a Canarelor prin machete, instrumente de navigație și hărți istorice.",
+                  "category": "museum",
+                  "coords": [
+                        -15.428507,
+                        28.135264
+                  ]
+            },
+            {
+                  "name": "a las actividades primitivas canarias",
+                  "text": "Monument în Las Palmas dedicat activităților tradiționale și meșteșugurilor băștinașilor din Insulele Canare.",
+                  "category": "historical",
+                  "coords": [
+                        -15.435094,
+                        28.13455
+                  ]
+            },
+            {
+                  "name": "Mirador del Sendero Azul",
+                  "text": "Punct de observare pe traseul de coastă Sendero Azul, oferind vedere spre Oceanul Atlantic.",
+                  "category": "natural",
+                  "coords": [
+                        -15.462989,
+                        28.127751
+                  ]
+            },
+            {
+                  "name": "Plaza de la Feria",
+                  "text": "O piață publică și un parc urban spațios situat în centrul orașului Las Palmas de Gran Canaria.",
+                  "category": "park",
+                  "coords": [
+                        -15.420542,
+                        28.113467
+                  ]
+            },
+            {
+                  "name": "Iglesia de Santo Domingo",
+                  "text": "Clădire istorică de cult în cartierul Vegueta, renumită pentru arhitectura sa din secolul al XVI-lea.",
+                  "category": "historical",
+                  "coords": [
+                        -15.41594,
+                        28.098429
+                  ]
+            },
+            {
+                  "name": "Plaza de Cairasco",
+                  "text": "O piață elegantă în cartierul Triana, înconjurată de instituții culturale importante precum Gabinete Literario.",
+                  "category": "park",
+                  "coords": [
+                        -15.416363,
+                        28.102804
+                  ]
+            },
+            {
+                  "name": "Muralla de Las Palmas",
+                  "text": "Vestigiile zidului istoric al orașului din secolul al XVI-lea, construit pentru apărarea împotriva piraților.",
+                  "category": "historical",
+                  "coords": [
+                        -15.422018,
+                        28.106213
+                  ]
+            },
+            {
+                  "name": "Iglesia de San José",
+                  "text": "O biserică romano-catolică în cartierul tradițional San José, considerată un monument local important.",
+                  "category": "historical",
+                  "coords": [
+                        -15.418506,
+                        28.094737
+                  ]
+            },
+            {
+                  "name": "Capilla Anglicana",
+                  "text": "Capelă anglicană istorică construită la sfârșitul secolului al XIX-lea pentru comunitatea britanică din oraș.",
+                  "category": "historical",
+                  "coords": [
+                        -15.43102,
+                        28.125468
+                  ]
+            },
+            {
+                  "name": "Casa Museo Pérez Galdós",
+                  "text": "Casa natală a celebrului scriitor spaniol Benito Pérez Galdós, care servește astăzi ca muzeu.",
+                  "category": "historical",
+                  "coords": [
+                        -15.415882,
+                        28.104017
+                  ]
+            },
+            {
+                  "name": "San Francisco de Asís",
+                  "text": "O biserică parohială istorică în cartierul Vegueta, care adăpostește opere de artă religioasă importante.",
+                  "category": "historical",
+                  "coords": [
+                        -15.417326,
+                        28.103484
+                  ]
+            },
+            {
+                  "name": "Ermita de San Telmo",
+                  "text": "O capelă construită în secolul al XVIII-lea în parcul San Telmo, dedicată patronului marinarilor.",
+                  "category": "historical",
+                  "coords": [
+                        -15.416887,
+                        28.108177
+                  ]
             }
       ],
       "en": [
@@ -36175,6 +36715,186 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -15.42707,
                         28.12161
+                  ]
+            },
+            {
+                  "name": "Museum of Science and Technology",
+                  "text": "An interactive science museum in Santa Catalina Park, featuring hands-on exhibits on technology and discovery.",
+                  "category": "museum",
+                  "coords": [
+                        -15.429661,
+                        28.141231
+                  ]
+            },
+            {
+                  "name": "Teatro Cuyás",
+                  "text": "A major performing arts venue in Las Palmas hosting a variety of plays, concerts, and dance performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -15.417966,
+                        28.106591
+                  ]
+            },
+            {
+                  "name": "Centro de Arte La Regenta",
+                  "text": "A contemporary art center in Las Palmas housed in the industrial building of a former tobacco factory.",
+                  "category": "museum",
+                  "coords": [
+                        -15.430662,
+                        28.138666
+                  ]
+            },
+            {
+                  "name": "Playa de Las Alcaravaneras",
+                  "text": "A golden sand beach located by the Las Palmas port, popular for water sports and its calm swimming areas.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.428981,
+                        28.130709
+                  ]
+            },
+            {
+                  "name": "Castillo de Mata",
+                  "text": "A 16th-century fortification that once defended the city from attacks and now houses a local museum.",
+                  "category": "castle",
+                  "coords": [
+                        -15.421784,
+                        28.107127
+                  ]
+            },
+            {
+                  "name": "Castillo de San Francisco",
+                  "text": "A 17th-century fortification situated on a hill, originally built to defend the city of Las Palmas.",
+                  "category": "castle",
+                  "coords": [
+                        -15.424796,
+                        28.103714
+                  ]
+            },
+            {
+                  "name": "Acuario Poema del Mar",
+                  "text": "A state-of-the-art aquarium near the harbor, showcasing global marine biodiversity across various themed zones.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.428225,
+                        28.144603
+                  ]
+            },
+            {
+                  "name": "Batería de San Juan",
+                  "text": "A historic artillery battery on the heights of Las Palmas, once part of the city's coastal defense system.",
+                  "category": "fortress",
+                  "coords": [
+                        -15.422475,
+                        28.091729
+                  ]
+            },
+            {
+                  "name": "Museo Naval de Canarias",
+                  "text": "The museum documents the naval history of the Canaries with models, navigation tools, and historical charts.",
+                  "category": "museum",
+                  "coords": [
+                        -15.428507,
+                        28.135264
+                  ]
+            },
+            {
+                  "name": "a las actividades primitivas canarias",
+                  "text": "Monument in Las Palmas dedicated to the traditional and primitive activities of the Canary Islanders.",
+                  "category": "historical",
+                  "coords": [
+                        -15.435094,
+                        28.13455
+                  ]
+            },
+            {
+                  "name": "Mirador del Sendero Azul",
+                  "text": "Viewpoint along the Sendero Azul coastal path, offering views of the Atlantic Ocean and the shoreline.",
+                  "category": "natural",
+                  "coords": [
+                        -15.462989,
+                        28.127751
+                  ]
+            },
+            {
+                  "name": "Plaza de la Feria",
+                  "text": "A spacious public square and urban park located in the center of Las Palmas de Gran Canaria.",
+                  "category": "park",
+                  "coords": [
+                        -15.420542,
+                        28.113467
+                  ]
+            },
+            {
+                  "name": "Iglesia de Santo Domingo",
+                  "text": "Historic church building in the Vegueta district, known for its 16th-century architecture.",
+                  "category": "historical",
+                  "coords": [
+                        -15.41594,
+                        28.098429
+                  ]
+            },
+            {
+                  "name": "Plaza de Cairasco",
+                  "text": "An elegant square in the Triana district, surrounded by major cultural institutions like the Gabinete Literario.",
+                  "category": "park",
+                  "coords": [
+                        -15.416363,
+                        28.102804
+                  ]
+            },
+            {
+                  "name": "Muralla de Las Palmas",
+                  "text": "Remains of the historic 16th-century city wall, built for defense against pirate attacks.",
+                  "category": "historical",
+                  "coords": [
+                        -15.422018,
+                        28.106213
+                  ]
+            },
+            {
+                  "name": "Iglesia de San José",
+                  "text": "A Roman Catholic church in the traditional San José neighborhood, considered an important local monument.",
+                  "category": "historical",
+                  "coords": [
+                        -15.418506,
+                        28.094737
+                  ]
+            },
+            {
+                  "name": "Capilla Anglicana",
+                  "text": "Historic Anglican chapel built at the end of the 19th century for the city's British community.",
+                  "category": "historical",
+                  "coords": [
+                        -15.43102,
+                        28.125468
+                  ]
+            },
+            {
+                  "name": "Casa Museo Pérez Galdós",
+                  "text": "The birthplace of the famous Spanish writer Benito Pérez Galdós, which now serves as a museum.",
+                  "category": "historical",
+                  "coords": [
+                        -15.415882,
+                        28.104017
+                  ]
+            },
+            {
+                  "name": "San Francisco de Asís",
+                  "text": "A historic parish church in the Vegueta district, housing significant religious artworks.",
+                  "category": "historical",
+                  "coords": [
+                        -15.417326,
+                        28.103484
+                  ]
+            },
+            {
+                  "name": "Ermita de San Telmo",
+                  "text": "An 18th-century chapel in San Telmo Park, dedicated to the patron saint of sailors.",
+                  "category": "historical",
+                  "coords": [
+                        -15.416887,
+                        28.108177
                   ]
             }
       ]
@@ -36896,6 +37616,60 @@ export const poiExtraEsV2: POI[] = [
                         2.790372,
                         41.711586
                   ]
+            },
+            {
+                  "name": "Poblat Ibèric de Puig de Castellet",
+                  "text": "Eine archäologische Stätte einer iberischen Siedlung aus dem 3. Jahrhundert v. Chr. in Lloret de Mar.",
+                  "category": "historical",
+                  "coords": [
+                        2.848086,
+                        41.716082
+                  ]
+            },
+            {
+                  "name": "Castell d'en Plaja",
+                  "text": "Diese ikonische Privatburg im neugotischen Stil liegt markant am Ufer von Lloret de Mar.",
+                  "category": "castle",
+                  "coords": [
+                        2.859579,
+                        41.699371
+                  ]
+            },
+            {
+                  "name": "Teatre Municipal de Lloret",
+                  "text": "Das städtische Theater von Lloret de Mar bietet ein vielfältiges Programm an kulturellen Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        2.847679,
+                        41.705024
+                  ]
+            },
+            {
+                  "name": "Masia de Can Saragossa",
+                  "text": "Ein historisches Landhaus in Lloret de Mar, das heute als Museum für lokale Geschichte dient.",
+                  "category": "museum",
+                  "coords": [
+                        2.846314,
+                        41.704519
+                  ]
+            },
+            {
+                  "name": "Castell de Sant Joan",
+                  "text": "Eine mittelalterliche Burgruine auf einem Hügel, die einen weiten Blick über die Bucht bietet.",
+                  "category": "castle",
+                  "coords": [
+                        2.83941,
+                        41.693888
+                  ]
+            },
+            {
+                  "name": "l'Àngel",
+                  "text": "Ein religiöses Denkmal in Lloret de Mar, das einer Engelsfigur gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        2.812033,
+                        41.711371
+                  ]
             }
       ],
       "hu": [
@@ -36947,6 +37721,60 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         2.790372,
                         41.711586
+                  ]
+            },
+            {
+                  "name": "Poblat Ibèric de Puig de Castellet",
+                  "text": "Egy 3. századi ibér település régészeti lelőhelye Lloret de Marban.",
+                  "category": "historical",
+                  "coords": [
+                        2.848086,
+                        41.716082
+                  ]
+            },
+            {
+                  "name": "Castell d'en Plaja",
+                  "text": "Ez az ikonikus, neogótikus stílusú magánkastély Lloret de Mar tengerpartján áll.",
+                  "category": "castle",
+                  "coords": [
+                        2.859579,
+                        41.699371
+                  ]
+            },
+            {
+                  "name": "Teatre Municipal de Lloret",
+                  "text": "Lloret de Mar városi színháza, amely változatos kulturális előadásokat és eseményeket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        2.847679,
+                        41.705024
+                  ]
+            },
+            {
+                  "name": "Masia de Can Saragossa",
+                  "text": "Egy történelmi udvarház Lloret de Marban, amely ma helytörténeti múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        2.846314,
+                        41.704519
+                  ]
+            },
+            {
+                  "name": "Castell de Sant Joan",
+                  "text": "Egy dombtetőn álló középkori várrom, ahonnan tágas kilátás nyílik az öbölre.",
+                  "category": "castle",
+                  "coords": [
+                        2.83941,
+                        41.693888
+                  ]
+            },
+            {
+                  "name": "l'Àngel",
+                  "text": "Egy angyalalaknak szentelt vallási emlékmű Lloret de Marban.",
+                  "category": "historical",
+                  "coords": [
+                        2.812033,
+                        41.711371
                   ]
             }
       ],
@@ -37000,6 +37828,60 @@ export const poiExtraEsV2: POI[] = [
                         2.790372,
                         41.711586
                   ]
+            },
+            {
+                  "name": "Poblat Ibèric de Puig de Castellet",
+                  "text": "Un sit arheologic al unei așezări iberice din secolul al III-lea î.Hr. în Lloret de Mar.",
+                  "category": "historical",
+                  "coords": [
+                        2.848086,
+                        41.716082
+                  ]
+            },
+            {
+                  "name": "Castell d'en Plaja",
+                  "text": "Acest castel privat iconic în stil neogotic este situat pe țărmul din Lloret de Mar.",
+                  "category": "castle",
+                  "coords": [
+                        2.859579,
+                        41.699371
+                  ]
+            },
+            {
+                  "name": "Teatre Municipal de Lloret",
+                  "text": "Teatrul municipal din Lloret de Mar oferă un program variat de spectacole culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        2.847679,
+                        41.705024
+                  ]
+            },
+            {
+                  "name": "Masia de Can Saragossa",
+                  "text": "O casă istorică din Lloret de Mar, care astăzi servește drept muzeu de istorie locală.",
+                  "category": "museum",
+                  "coords": [
+                        2.846314,
+                        41.704519
+                  ]
+            },
+            {
+                  "name": "Castell de Sant Joan",
+                  "text": "O ruină de castel medieval pe un deal, oferind o vedere panoramică asupra golfului.",
+                  "category": "castle",
+                  "coords": [
+                        2.83941,
+                        41.693888
+                  ]
+            },
+            {
+                  "name": "l'Àngel",
+                  "text": "Un monument religios din Lloret de Mar dedicat unei figuri de înger.",
+                  "category": "historical",
+                  "coords": [
+                        2.812033,
+                        41.711371
+                  ]
             }
       ],
       "en": [
@@ -37051,6 +37933,60 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         2.790372,
                         41.711586
+                  ]
+            },
+            {
+                  "name": "Poblat Ibèric de Puig de Castellet",
+                  "text": "An archaeological site of an Iberian settlement from the 3rd century BC in Lloret de Mar.",
+                  "category": "historical",
+                  "coords": [
+                        2.848086,
+                        41.716082
+                  ]
+            },
+            {
+                  "name": "Castell d'en Plaja",
+                  "text": "This iconic private castle in Neo-Gothic style stands prominently on the shore of Lloret de Mar.",
+                  "category": "castle",
+                  "coords": [
+                        2.859579,
+                        41.699371
+                  ]
+            },
+            {
+                  "name": "Teatre Municipal de Lloret",
+                  "text": "The municipal theatre of Lloret de Mar offers a diverse program of cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        2.847679,
+                        41.705024
+                  ]
+            },
+            {
+                  "name": "Masia de Can Saragossa",
+                  "text": "A historical farmhouse in Lloret de Mar that now serves as a museum for local history.",
+                  "category": "museum",
+                  "coords": [
+                        2.846314,
+                        41.704519
+                  ]
+            },
+            {
+                  "name": "Castell de Sant Joan",
+                  "text": "A medieval castle ruin on a hill, offering an expansive view over the bay.",
+                  "category": "castle",
+                  "coords": [
+                        2.83941,
+                        41.693888
+                  ]
+            },
+            {
+                  "name": "l'Àngel",
+                  "text": "A religious monument in Lloret de Mar dedicated to an angel figure.",
+                  "category": "historical",
+                  "coords": [
+                        2.812033,
+                        41.711371
                   ]
             }
       ]
@@ -37128,6 +38064,105 @@ export const poiExtraEsV2: POI[] = [
                         -13.862851,
                         28.740707
                   ]
+            },
+            {
+                  "name": "Dunas de Corralejo",
+                  "text": "Ein weitläufiger Naturpark mit beeindruckenden Wanderdünen aus weißem Sand direkt am Atlantik.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.839299,
+                        28.715246
+                  ]
+            },
+            {
+                  "name": "Playa las Agujas",
+                  "text": "Ein ruhiger Sandstrand in Corralejo, der ideal zum Entspannen und für einen Blick auf die Insel Los Lobos ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.853994,
+                        28.728365
+                  ]
+            },
+            {
+                  "name": "Bajo del Medio",
+                  "text": "Ein kleinerer Strandabschnitt, der für sein klares Wasser und die guten Bedingungen zum Schnorcheln bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.860105,
+                        28.731357
+                  ]
+            },
+            {
+                  "name": "Playa de la Calera",
+                  "text": "Ein friedlicher Küstenbereich, der etwas abseits der Haupttouristenzone von Corralejo liegt.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.827578,
+                        28.741485
+                  ]
+            },
+            {
+                  "name": "Playa del Bajo de la Burra",
+                  "text": "Dieser Strand ist berühmt für seine weißen Algenstrukturen, die wie Popcorn aussehen.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.900112,
+                        28.752311
+                  ]
+            },
+            {
+                  "name": "Playa del Pozo",
+                  "text": "Ein weitläufiger Strand im Naturpark, der viel Platz bietet und oft von Windsurfern genutzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.843533,
+                        28.723254
+                  ]
+            },
+            {
+                  "name": "El Viejo",
+                  "text": "Ein weitläufiger Sandstrand bei Corralejo, bekannt für sein klares Wasser und die Nähe zu den Dünen.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.839437,
+                        28.716289
+                  ]
+            },
+            {
+                  "name": "Generoso",
+                  "text": "Ein ruhiger Sandstrand in Corralejo, der eine entspannte Atmosphäre zum Sonnenbaden bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.878101,
+                        28.751143
+                  ]
+            },
+            {
+                  "name": "Acua Water Park",
+                  "text": "Ein familienfreundlicher Wasserpark auf Fuerteventura mit verschiedenen Rutschen und Pools.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.870609,
+                        28.727379
+                  ]
+            },
+            {
+                  "name": "Popcorn Beach",
+                  "text": "Ein einzigartiger Strand, der für seine weißen Algenfragmente bekannt ist, die wie Popcorn aussehen.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.863429,
+                        28.731502
+                  ]
+            },
+            {
+                  "name": "Playa del Caserón",
+                  "text": "Ein weitläufiger weißer Sandstrand im Naturpark Corralejo, ideal für Ruhesuchende.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.837839,
+                        28.707928
+                  ]
             }
       ],
       "hu": [
@@ -37199,6 +38234,105 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -13.862851,
                         28.740707
+                  ]
+            },
+            {
+                  "name": "Dunas de Corralejo",
+                  "text": "Hatalmas natúrpark lenyűgöző, fehér homokból álló vándoridűnékkel közvetlenül az Atlanti-óceán partján.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.839299,
+                        28.715246
+                  ]
+            },
+            {
+                  "name": "Playa las Agujas",
+                  "text": "Csendes homokos strand Corralejóban, amely ideális a pihenésre és a Los Lobos-szigetre nyíló kilátásra.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.853994,
+                        28.728365
+                  ]
+            },
+            {
+                  "name": "Bajo del Medio",
+                  "text": "Kisebb tengerparti szakasz, amely tiszta vizéről és a búvárkodáshoz kedvező adottságairól ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.860105,
+                        28.731357
+                  ]
+            },
+            {
+                  "name": "Playa de la Calera",
+                  "text": "Békés tengerparti terület, amely valamivel távolabb esik Corralejo fő turisztikai övezetétől.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.827578,
+                        28.741485
+                  ]
+            },
+            {
+                  "name": "Playa del Bajo de la Burra",
+                  "text": "Ez a strand a fehér algastruktúráiról híres, amelyek pontosan úgy néznek ki, mint a pattogatott kukorica.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.900112,
+                        28.752311
+                  ]
+            },
+            {
+                  "name": "Playa del Pozo",
+                  "text": "Tágas strand a natúrpark területén, amely nagy teret kínál, és gyakran látogatják a szörfösök.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.843533,
+                        28.723254
+                  ]
+            },
+            {
+                  "name": "El Viejo",
+                  "text": "Hosszú, homokos tengerpart Corralejo mellett, amely kristálytiszta vizéről és dűnéiről nevezetes.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.839437,
+                        28.716289
+                  ]
+            },
+            {
+                  "name": "Generoso",
+                  "text": "Nyugodt homokos strand Corralejo területén, amely ideális a pihenésre és napozásra.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.878101,
+                        28.751143
+                  ]
+            },
+            {
+                  "name": "Acua Water Park",
+                  "text": "Családbarát vízi park Fuerteventurán, számos csúszdával és élménymedencével.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.870609,
+                        28.727379
+                  ]
+            },
+            {
+                  "name": "Popcorn Beach",
+                  "text": "Különleges tengerpart, amely a popcornra emlékeztető fehér mészalgáiról híres.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.863429,
+                        28.731502
+                  ]
+            },
+            {
+                  "name": "Playa del Caserón",
+                  "text": "Kiterjedt fehér homokos strand a Corralejo Természeti Park területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.837839,
+                        28.707928
                   ]
             }
       ],
@@ -37272,6 +38406,105 @@ export const poiExtraEsV2: POI[] = [
                         -13.862851,
                         28.740707
                   ]
+            },
+            {
+                  "name": "Dunas de Corralejo",
+                  "text": "Un parc natural vast, cu dune de nisip alb impresionante, situat direct pe malul Oceanului Atlantic.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.839299,
+                        28.715246
+                  ]
+            },
+            {
+                  "name": "Playa las Agujas",
+                  "text": "O plajă de nisip liniștită în Corralejo, ideală pentru relaxare și pentru vederea spre insula Los Lobos.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.853994,
+                        28.728365
+                  ]
+            },
+            {
+                  "name": "Bajo del Medio",
+                  "text": "O secțiune de plajă mai mică, cunoscută pentru apele sale clare și condițiile bune pentru snorkeling.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.860105,
+                        28.731357
+                  ]
+            },
+            {
+                  "name": "Playa de la Calera",
+                  "text": "O zonă de coastă liniștită, situată puțin în afara zonei turistice principale din Corralejo.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.827578,
+                        28.741485
+                  ]
+            },
+            {
+                  "name": "Playa del Bajo de la Burra",
+                  "text": "Această plajă este celebră pentru structurile sale de alge albe care arată exact ca floricelele de porumb.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.900112,
+                        28.752311
+                  ]
+            },
+            {
+                  "name": "Playa del Pozo",
+                  "text": "O plajă întinsă în parcul natural, care oferă mult spațiu și este frecventată de windsurferi.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.843533,
+                        28.723254
+                  ]
+            },
+            {
+                  "name": "El Viejo",
+                  "text": "O plajă lungă cu nisip fin lângă Corralejo, apreciată pentru apele sale limpezi și dunele din apropiere.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.839437,
+                        28.716289
+                  ]
+            },
+            {
+                  "name": "Generoso",
+                  "text": "O plajă liniștită cu nisip în Corralejo, oferind o atmosferă relaxată pentru plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.878101,
+                        28.751143
+                  ]
+            },
+            {
+                  "name": "Acua Water Park",
+                  "text": "Un parc acvatic pentru familii în Fuerteventura, cu diverse tobogane și piscine.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.870609,
+                        28.727379
+                  ]
+            },
+            {
+                  "name": "Popcorn Beach",
+                  "text": "O plajă unică, faimoasă pentru fragmentele de alge albe care seamănă cu popcornul.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.863429,
+                        28.731502
+                  ]
+            },
+            {
+                  "name": "Playa del Caserón",
+                  "text": "O plajă întinsă cu nisip alb situată în cadrul Parcului Natural Corralejo.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.837839,
+                        28.707928
+                  ]
             }
       ],
       "en": [
@@ -37343,6 +38576,105 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -13.862851,
                         28.740707
+                  ]
+            },
+            {
+                  "name": "Dunas de Corralejo",
+                  "text": "A vast natural park featuring impressive white sand dunes located directly on the Atlantic coast.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.839299,
+                        28.715246
+                  ]
+            },
+            {
+                  "name": "Playa las Agujas",
+                  "text": "A quiet sandy beach in Corralejo, ideal for relaxation and views of Los Lobos Island.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.853994,
+                        28.728365
+                  ]
+            },
+            {
+                  "name": "Bajo del Medio",
+                  "text": "A smaller beach section known for its clear waters and good conditions for snorkeling.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.860105,
+                        28.731357
+                  ]
+            },
+            {
+                  "name": "Playa de la Calera",
+                  "text": "A peaceful coastal area located slightly away from the main tourist zone of Corralejo.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.827578,
+                        28.741485
+                  ]
+            },
+            {
+                  "name": "Playa del Bajo de la Burra",
+                  "text": "This beach is famous for its white algae structures that look exactly like popcorn.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.900112,
+                        28.752311
+                  ]
+            },
+            {
+                  "name": "Playa del Pozo",
+                  "text": "An expansive beach within the natural park that offers plenty of space and is often used by windsurfers.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.843533,
+                        28.723254
+                  ]
+            },
+            {
+                  "name": "El Viejo",
+                  "text": "A long, sandy beach near the dunes of Corralejo, popular for its clear waters and golden sand.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.839437,
+                        28.716289
+                  ]
+            },
+            {
+                  "name": "Generoso",
+                  "text": "A quiet sandy beach in Corralejo, offering a relaxed atmosphere for sunbathing and swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.878101,
+                        28.751143
+                  ]
+            },
+            {
+                  "name": "Acua Water Park",
+                  "text": "A family-friendly water park in Fuerteventura featuring various slides, wave pools, and relaxation areas.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.870609,
+                        28.727379
+                  ]
+            },
+            {
+                  "name": "Popcorn Beach",
+                  "text": "A unique beach famous for its white rhodoliths, which are calcified algae that resemble popcorn.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.863429,
+                        28.731502
+                  ]
+            },
+            {
+                  "name": "Playa del Caserón",
+                  "text": "An extensive white sand beach located within the scenic Corralejo Natural Park.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.837839,
+                        28.707928
                   ]
             }
       ]

@@ -3415,7 +3415,1384 @@ export const poiExtraItalyCitiesC1: POI[] = [
       fr: ["Fondée en 729 av. J.-C. par les Grecs", "Reconstruction après 1693 en style baroque de lave", "Fontaine de l'éléphant, emblème depuis 1736", "Siège de l'université de Catane (1434)", "Lieu de naissance de Vincenzo Bellini", "Patrimoine mondial de l'UNESCO du Val di Noto"],
     }, image: "/poi-images/city-it-catania.webp"},
   {
-    id: "city-it-verona",
+    id: "city-it-verona", "sights": {
+      "de": [
+            {
+                  "name": "Museo lapidario maffeiano",
+                  "text": "Eines der ältesten Lapidarmuseen Europas, das eine bedeutende Sammlung antiker Inschriften und Skulpturen beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        10.991353,
+                        45.43818
+                  ]
+            },
+            {
+                  "name": "Museo di Castelvecchio",
+                  "text": "Ein Kunstmuseum in einer mittelalterlichen Festung, das bedeutende veronesische Skulpturen und Gemälde ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        10.987865,
+                        45.439954
+                  ]
+            },
+            {
+                  "name": "Centro Internazionale di fotografia Scavi Scaligeri",
+                  "text": "Ein internationales Fotografiezentrum in den unterirdischen Ausgrabungen der Scaliger-Residenzen.",
+                  "category": "museum",
+                  "coords": [
+                        10.998631,
+                        45.4431
+                  ]
+            },
+            {
+                  "name": "Museo africano",
+                  "text": "Ein ethnografisches Museum in Verona, das sich der Geschichte und Kultur afrikanischer Völker widmet.",
+                  "category": "museum",
+                  "coords": [
+                        11.005968,
+                        45.446274
+                  ]
+            },
+            {
+                  "name": "Museo e pinacoteca Canonicale",
+                  "text": "Ein Museum in der Nähe des Doms von Verona, das sakrale Kunst und wertvolle Handschriften ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        10.995993,
+                        45.446973
+                  ]
+            },
+            {
+                  "name": "Museo di Storia Naturale",
+                  "text": "Naturkundemuseum im Palazzo Pompei mit bedeutenden Fossiliensammlungen aus der Region Bolca.",
+                  "category": "museum",
+                  "coords": [
+                        11.002254,
+                        45.438377
+                  ]
+            },
+            {
+                  "name": "Forte Santa Caterina",
+                  "text": "Österreichische Festungsanlage aus dem 19. Jahrhundert zur Verteidigung der Stadt Verona.",
+                  "category": "fortress",
+                  "coords": [
+                        11.010392,
+                        45.422027
+                  ]
+            },
+            {
+                  "name": "Area archeologica di Corte Sgarzarie",
+                  "text": "Römische Ausgrabungsstätte mit Überresten eines Kryptoportikus unter dem heutigen Straßenniveau.",
+                  "category": "historical",
+                  "coords": [
+                        10.995811,
+                        45.443549
+                  ]
+            },
+            {
+                  "name": "Museo della Radio",
+                  "text": "Museum zur Geschichte der Funktechnik mit einer Sammlung von Apparaten aus der Ära Guglielmo Marconis.",
+                  "category": "museum",
+                  "coords": [
+                        10.993321,
+                        45.437533
+                  ]
+            },
+            {
+                  "name": "Museo Archeologico Nazionale di Verona",
+                  "text": "Nationales Museum mit archäologischen Funden aus Verona und der Provinz von der Vorzeit bis zur Römerzeit.",
+                  "category": "museum",
+                  "coords": [
+                        11.002668,
+                        45.44197
+                  ]
+            },
+            {
+                  "name": "Castel San Felice",
+                  "text": "Festungskomplex auf den Hügeln von Verona, Teil der venezianischen und österreichischen Stadtmauer.",
+                  "category": "castle",
+                  "coords": [
+                        11.008997,
+                        45.454051
+                  ]
+            },
+            {
+                  "name": "Forte San Leonardo",
+                  "text": "Ehemalige österreichische Festung, die heute als Wallfahrtskirche Santa Maria di Lourdes dient.",
+                  "category": "castle",
+                  "coords": [
+                        10.994636,
+                        45.4548
+                  ]
+            },
+            {
+                  "name": "Children Museum Verona",
+                  "text": "Interaktives Museum für Kinder mit Fokus auf Naturwissenschaften, Technik und Kreativität.",
+                  "category": "museum",
+                  "coords": [
+                        10.984535,
+                        45.420215
+                  ]
+            },
+            {
+                  "name": "Museo archeologico al teatro romano",
+                  "text": "In einem ehemaligen Kloster untergebrachtes Museum mit Funden aus dem benachbarten römischen Theater.",
+                  "category": "museum",
+                  "coords": [
+                        11.002341,
+                        45.447676
+                  ]
+            },
+            {
+                  "name": "Area archeologica di via San Cosimo",
+                  "text": "Archäologische Zone mit römischen Mosaikböden und Fundamenten antiker Wohngebäude.",
+                  "category": "historical",
+                  "coords": [
+                        10.997426,
+                        45.439289
+                  ]
+            },
+            {
+                  "name": "AMO (Arena MuseOpera)",
+                  "text": "Ein Museum in Verona, das der Geschichte der Oper und der berühmten Arena gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        10.99825,
+                        45.445245
+                  ]
+            },
+            {
+                  "name": "Museo degli affreschi",
+                  "text": "Das Museum zeigt bedeutende Fresken und befindet sich in der Nähe des Grabes von Julia.",
+                  "category": "museum",
+                  "coords": [
+                        10.997743,
+                        45.433662
+                  ]
+            },
+            {
+                  "name": "Palazzo Miniscalchi Erizzo",
+                  "text": "Ein historischer Adelspalast in Verona, der heute ein Museum mit Kunstsammlungen beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        10.995724,
+                        45.445183
+                  ]
+            },
+            {
+                  "name": "Villa Romana di Valdonega",
+                  "text": "Archäologische Ausgrabungsstätte einer römischen Villa mit gut erhaltenen Bodenmosaiken.",
+                  "category": "historical",
+                  "coords": [
+                        11.00202,
+                        45.456347
+                  ]
+            },
+            {
+                  "name": "Forte Biondella",
+                  "text": "Eine ehemalige österreichische Festung, die Teil des Verteidigungssystems von Verona war.",
+                  "category": "fortress",
+                  "coords": [
+                        11.01284,
+                        45.445904
+                  ]
+            },
+            {
+                  "name": "Teatro Ristori",
+                  "text": "Ein historisches Theater in Verona, das nach der berühmten Schauspielerin Adelaide Ristori benannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        10.986741,
+                        45.437812
+                  ]
+            },
+            {
+                  "name": "Palazzo del Vescovado",
+                  "text": "Die historische Residenz des Bischofs von Verona mit einer bedeutenden Architektur.",
+                  "category": "castle",
+                  "coords": [
+                        10.997511,
+                        45.447859
+                  ]
+            },
+            {
+                  "name": "Forte San Mattia",
+                  "text": "Ein österreichisches Fort auf den Hügeln von Verona, das heute für Veranstaltungen genutzt wird.",
+                  "category": "fortress",
+                  "coords": [
+                        10.995772,
+                        45.460981
+                  ]
+            },
+            {
+                  "name": "Museo del Carnevale di Verona Luigi D'Agostino “Ginetto”",
+                  "text": "Ein Museum, das der langen Tradition und den Kostümen des Karnevals von Verona gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        10.978807,
+                        45.441871
+                  ]
+            },
+            {
+                  "name": "Museo delle mura di Verona",
+                  "text": "Dieses Museum dokumentiert die Baugeschichte und die Entwicklung der historischen Stadtbefestigungen von Verona.",
+                  "category": "museum",
+                  "coords": [
+                        11.013869,
+                        45.437346
+                  ]
+            },
+            {
+                  "name": "Museo degli strumenti antichi di Fisica",
+                  "text": "Eine Fachsammlung historischer wissenschaftlicher Instrumente aus dem Bereich der Physik im Zentrum von Verona.",
+                  "category": "museum",
+                  "coords": [
+                        10.994262,
+                        45.433983
+                  ]
+            },
+            {
+                  "name": "Necropoli della Spianà",
+                  "text": "Eine bedeutende archäologische Ausgrabungsstätte in Verona, die Überreste einer antiken Nekropole umfasst.",
+                  "category": "historical",
+                  "coords": [
+                        10.967458,
+                        45.429356
+                  ]
+            },
+            {
+                  "name": "Fornace romana",
+                  "text": "Die archäologischen Überreste eines antiken römischen Brennofens, der einst zur Herstellung von Keramik diente.",
+                  "category": "historical",
+                  "coords": [
+                        10.96881,
+                        45.430922
+                  ]
+            },
+            {
+                  "name": "Fattoria didattica Raggio di Sole",
+                  "text": "Ein pädagogisch orientierter Bauernhof in Verona, auf dem Besucher heimische Nutztiere aus der Nähe erleben können.",
+                  "category": "recreational",
+                  "coords": [
+                        10.991459,
+                        45.430492
+                  ]
+            },
+            {
+                  "name": "Forte Porta Nuova",
+                  "text": "Die Überreste einer österreichischen Verteidigungsanlage aus dem 19. Jahrhundert nahe der Porta Nuova in Verona.",
+                  "category": "historical",
+                  "coords": [
+                        10.983956,
+                        45.421391
+                  ]
+            },
+            {
+                  "name": "Piazza Indipendenza",
+                  "text": "Ein zentraler Platz in Verona mit einer parkähnlichen Anlage, der nach der Unabhängigkeit Italiens benannt wurde.",
+                  "category": "park",
+                  "coords": [
+                        10.999666,
+                        45.442791
+                  ]
+            },
+            {
+                  "name": "Torre della Catena",
+                  "text": "Ein mittelalterlicher Festungsturm der Scaliger im Flussbett der Etsch, der einst zur Kontrolle des Schiffsverkehrs diente.",
+                  "category": "historical",
+                  "coords": [
+                        10.982064,
+                        45.445079
+                  ]
+            },
+            {
+                  "name": "Tempio di Giove Lustrale",
+                  "text": "Reste eines antiken römischen Tempels in Verona, der dem Gott Jupiter in seiner Eigenschaft als Reiniger gewidmet war.",
+                  "category": "historical",
+                  "coords": [
+                        11.002223,
+                        45.435441
+                  ]
+            },
+            {
+                  "name": "Palazzo Giusti del Giardino",
+                  "text": "Ein bedeutender Renaissance-Palast in Verona, der für seinen prachtvollen terrassierten Garten aus dem 16. Jahrhundert bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        11.006521,
+                        45.443092
+                  ]
+            },
+            {
+                  "name": "Arco dei Gavi",
+                  "text": "Ein gut erhaltener römischer Ehrenbogen aus dem 1. Jahrhundert n. Chr., der von der Familie Gavia in Auftrag gegeben wurde.",
+                  "category": "historical",
+                  "coords": [
+                        10.988771,
+                        45.440103
+                  ]
+            },
+            {
+                  "name": "Carcere degli Scalzi",
+                  "text": "Diese Überreste eines ehemaligen Gefängnisses zeugen von der Justizgeschichte Veronas.",
+                  "category": "historical",
+                  "coords": [
+                        10.984617,
+                        45.436713
+                  ]
+            },
+            {
+                  "name": "San Domenico al Corso",
+                  "text": "Ein religiöses Bauwerk im Stadtteil San Domenico in Verona.",
+                  "category": "religious",
+                  "coords": [
+                        10.996159,
+                        45.434486
+                  ]
+            },
+            {
+                  "name": "San Domenico Savio",
+                  "text": "Ein modernes Gotteshaus in Verona, das dem Heiligen Domenico Savio gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        10.959724,
+                        45.443144
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo lapidario maffeiano",
+                  "text": "Európa egyik legrégebbi kőtára, amely jelentős antik felirat- és szoborgyűjteménnyel rendelkezik.",
+                  "category": "museum",
+                  "coords": [
+                        10.991353,
+                        45.43818
+                  ]
+            },
+            {
+                  "name": "Museo di Castelvecchio",
+                  "text": "Középkori várban berendezett művészeti múzeum, amely veronai szobrokat és festményeket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        10.987865,
+                        45.439954
+                  ]
+            },
+            {
+                  "name": "Centro Internazionale di fotografia Scavi Scaligeri",
+                  "text": "Nemzetközi fotóművészeti központ, amely a Scaliger-család egykori rezidenciájának föld alatti ásatásai felett található.",
+                  "category": "museum",
+                  "coords": [
+                        10.998631,
+                        45.4431
+                  ]
+            },
+            {
+                  "name": "Museo africano",
+                  "text": "Veronai néprajzi múzeum, amely Afrika népeinek történelmét és kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        11.005968,
+                        45.446274
+                  ]
+            },
+            {
+                  "name": "Museo e pinacoteca Canonicale",
+                  "text": "A veronai dóm melletti múzeum, amely egyházi műkincseket és értékes kéziratokat őriz.",
+                  "category": "museum",
+                  "coords": [
+                        10.995993,
+                        45.446973
+                  ]
+            },
+            {
+                  "name": "Museo di Storia Naturale",
+                  "text": "Természettudományi múzeum a Palazzo Pompei épületében, jelentős helyi fosszíliagyűjteménnyel.",
+                  "category": "museum",
+                  "coords": [
+                        11.002254,
+                        45.438377
+                  ]
+            },
+            {
+                  "name": "Forte Santa Caterina",
+                  "text": "19. századi osztrák erődítmény, amely Verona városának védelmi rendszeréhez tartozott.",
+                  "category": "fortress",
+                  "coords": [
+                        11.010392,
+                        45.422027
+                  ]
+            },
+            {
+                  "name": "Area archeologica di Corte Sgarzarie",
+                  "text": "Római kori régészeti lelőhely egy kriptoportikusz maradványaival a mai utcaszint alatt.",
+                  "category": "historical",
+                  "coords": [
+                        10.995811,
+                        45.443549
+                  ]
+            },
+            {
+                  "name": "Museo della Radio",
+                  "text": "Rádiómúzeum, amely a rádiótechnika történetét mutatja be Guglielmo Marconi korszakától kezdve.",
+                  "category": "museum",
+                  "coords": [
+                        10.993321,
+                        45.437533
+                  ]
+            },
+            {
+                  "name": "Museo Archeologico Nazionale di Verona",
+                  "text": "Nemzeti régészeti múzeum, amely Verona és környéke leleteit mutatja be az őskortól a római korig.",
+                  "category": "museum",
+                  "coords": [
+                        11.002668,
+                        45.44197
+                  ]
+            },
+            {
+                  "name": "Castel San Felice",
+                  "text": "Erődítményrendszer Verona dombjain, a velencei és osztrák városfalak része.",
+                  "category": "castle",
+                  "coords": [
+                        11.008997,
+                        45.454051
+                  ]
+            },
+            {
+                  "name": "Forte San Leonardo",
+                  "text": "Egykori osztrák erőd, amely ma a Santa Maria di Lourdes zarándoktemplomnak ad otthont.",
+                  "category": "castle",
+                  "coords": [
+                        10.994636,
+                        45.4548
+                  ]
+            },
+            {
+                  "name": "Children Museum Verona",
+                  "text": "Interaktív gyermekmúzeum, amely a természettudományokra, a technológiára és a kreativitásra fókuszál.",
+                  "category": "museum",
+                  "coords": [
+                        10.984535,
+                        45.420215
+                  ]
+            },
+            {
+                  "name": "Museo archeologico al teatro romano",
+                  "text": "Egykori kolostorban kialakított múzeum a szomszédos római színház területéről származó leletekkel.",
+                  "category": "museum",
+                  "coords": [
+                        11.002341,
+                        45.447676
+                  ]
+            },
+            {
+                  "name": "Area archeologica di via San Cosimo",
+                  "text": "Régészeti terület római kori mozaikpadlókkal és ókori lakóépületek alapjaival.",
+                  "category": "historical",
+                  "coords": [
+                        10.997426,
+                        45.439289
+                  ]
+            },
+            {
+                  "name": "AMO (Arena MuseOpera)",
+                  "text": "Veronai múzeum, amely az opera világát és az Aréna történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        10.99825,
+                        45.445245
+                  ]
+            },
+            {
+                  "name": "Museo degli affreschi",
+                  "text": "A múzeum jelentős freskóknak ad otthont, és Júlia sírja közelében található.",
+                  "category": "museum",
+                  "coords": [
+                        10.997743,
+                        45.433662
+                  ]
+            },
+            {
+                  "name": "Palazzo Miniscalchi Erizzo",
+                  "text": "Történelmi nemesi palota Veronában, amely ma művészeti gyűjteményeknek ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        10.995724,
+                        45.445183
+                  ]
+            },
+            {
+                  "name": "Villa Romana di Valdonega",
+                  "text": "Római villa régészeti lelőhelye jól megőrzött padlómozaikokkal.",
+                  "category": "historical",
+                  "coords": [
+                        11.00202,
+                        45.456347
+                  ]
+            },
+            {
+                  "name": "Forte Biondella",
+                  "text": "Egykori osztrák erődítmény, amely Verona védelmi rendszerének részét képezte.",
+                  "category": "fortress",
+                  "coords": [
+                        11.01284,
+                        45.445904
+                  ]
+            },
+            {
+                  "name": "Teatro Ristori",
+                  "text": "Történelmi színház Veronában, amelyet a híres színésznőről, Adelaide Ristoriról neveztek el.",
+                  "category": "cultural",
+                  "coords": [
+                        10.986741,
+                        45.437812
+                  ]
+            },
+            {
+                  "name": "Palazzo del Vescovado",
+                  "text": "A veronai püspök történelmi rezidenciája, amely jelentős építészeti emlék.",
+                  "category": "castle",
+                  "coords": [
+                        10.997511,
+                        45.447859
+                  ]
+            },
+            {
+                  "name": "Forte San Mattia",
+                  "text": "Osztrák erődítmény a veronai dombokon, amelyet ma rendezvényekre használnak.",
+                  "category": "fortress",
+                  "coords": [
+                        10.995772,
+                        45.460981
+                  ]
+            },
+            {
+                  "name": "Museo del Carnevale di Verona Luigi D'Agostino “Ginetto”",
+                  "text": "A veronai karnevál hosszú hagyományainak és jelmezeinek szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        10.978807,
+                        45.441871
+                  ]
+            },
+            {
+                  "name": "Museo delle mura di Verona",
+                  "text": "A múzeum Verona történelmi városfalainak építéstörténetét és védelmi rendszerének fejlődését dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        11.013869,
+                        45.437346
+                  ]
+            },
+            {
+                  "name": "Museo degli strumenti antichi di Fisica",
+                  "text": "Történelmi fizikai mérőeszközök és tudományos műszerek szakgyűjteménye Verona központjában.",
+                  "category": "museum",
+                  "coords": [
+                        10.994262,
+                        45.433983
+                  ]
+            },
+            {
+                  "name": "Necropoli della Spianà",
+                  "text": "Jelentős régészeti lelőhely Veronában, amely egy ókori nekropolisz fennmaradt sírhelyeit tartalmazza.",
+                  "category": "historical",
+                  "coords": [
+                        10.967458,
+                        45.429356
+                  ]
+            },
+            {
+                  "name": "Fornace romana",
+                  "text": "Egy ókori római égetőkemence régészeti maradványai, amelyet egykor kerámiakészítésre használtak.",
+                  "category": "historical",
+                  "coords": [
+                        10.96881,
+                        45.430922
+                  ]
+            },
+            {
+                  "name": "Fattoria didattica Raggio di Sole",
+                  "text": "Oktató jellegű farm Veronában, ahol a látogatók közelebbről megismerhetik a helyi háztáji állatokat.",
+                  "category": "recreational",
+                  "coords": [
+                        10.991459,
+                        45.430492
+                  ]
+            },
+            {
+                  "name": "Forte Porta Nuova",
+                  "text": "Egy 19. századi osztrák védmű maradványai a veronai Porta Nuova közelében.",
+                  "category": "historical",
+                  "coords": [
+                        10.983956,
+                        45.421391
+                  ]
+            },
+            {
+                  "name": "Piazza Indipendenza",
+                  "text": "Központi tér Verona szívében egy kis parkkal, amelyet Olaszország függetlenségének emlékére neveztek el.",
+                  "category": "park",
+                  "coords": [
+                        10.999666,
+                        45.442791
+                  ]
+            },
+            {
+                  "name": "Torre della Catena",
+                  "text": "A Scaliger-család középkori erődítménye az Adige folyó medrében, amely egykor a hajóforgalmat ellenőrizte.",
+                  "category": "historical",
+                  "coords": [
+                        10.982064,
+                        45.445079
+                  ]
+            },
+            {
+                  "name": "Tempio di Giove Lustrale",
+                  "text": "Egy ókori római templom maradványai Veronában, amelyet Jupiter istennek szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        11.002223,
+                        45.435441
+                  ]
+            },
+            {
+                  "name": "Palazzo Giusti del Giardino",
+                  "text": "Jelentős reneszánsz palota Veronában, amely a 16. században kialakított, teraszos olaszkertjéről híres.",
+                  "category": "historical",
+                  "coords": [
+                        11.006521,
+                        45.443092
+                  ]
+            },
+            {
+                  "name": "Arco dei Gavi",
+                  "text": "Egy jól megőrzött római kori díszkapu az 1. századból, amelyet a tehetős Gavia család építtetett.",
+                  "category": "historical",
+                  "coords": [
+                        10.988771,
+                        45.440103
+                  ]
+            },
+            {
+                  "name": "Carcere degli Scalzi",
+                  "text": "Egy egykori börtön maradványai Verona belvárosában.",
+                  "category": "historical",
+                  "coords": [
+                        10.984617,
+                        45.436713
+                  ]
+            },
+            {
+                  "name": "San Domenico al Corso",
+                  "text": "Vallási épület Verona San Domenico negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        10.996159,
+                        45.434486
+                  ]
+            },
+            {
+                  "name": "San Domenico Savio",
+                  "text": "Modern templom Veronában, amelyet Savio Szent Domonkos tiszteletére szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        10.959724,
+                        45.443144
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo lapidario maffeiano",
+                  "text": "Unul dintre cele mai vechi muzee lapidare din Europa, adăpostind o colecție importantă de inscripții antice.",
+                  "category": "museum",
+                  "coords": [
+                        10.991353,
+                        45.43818
+                  ]
+            },
+            {
+                  "name": "Museo di Castelvecchio",
+                  "text": "Un muzeu de artă situat într-o fortăreață medievală, expunând sculpturi și picturi veroneze importante.",
+                  "category": "museum",
+                  "coords": [
+                        10.987865,
+                        45.439954
+                  ]
+            },
+            {
+                  "name": "Centro Internazionale di fotografia Scavi Scaligeri",
+                  "text": "Un centru internațional de fotografie situat în săpăturile arheologice subterane ale reședințelor Scaligeri.",
+                  "category": "museum",
+                  "coords": [
+                        10.998631,
+                        45.4431
+                  ]
+            },
+            {
+                  "name": "Museo africano",
+                  "text": "Un muzeu etnografic din Verona dedicat istoriei și culturii popoarelor africane.",
+                  "category": "museum",
+                  "coords": [
+                        11.005968,
+                        45.446274
+                  ]
+            },
+            {
+                  "name": "Museo e pinacoteca Canonicale",
+                  "text": "Un muzeu situat lângă catedrala din Verona, expunând artă sacră și manuscrise valoroase.",
+                  "category": "museum",
+                  "coords": [
+                        10.995993,
+                        45.446973
+                  ]
+            },
+            {
+                  "name": "Museo di Storia Naturale",
+                  "text": "Muzeu de istorie naturală situat în Palazzo Pompei, cu o colecție importantă de fosile din regiunea Bolca.",
+                  "category": "museum",
+                  "coords": [
+                        11.002254,
+                        45.438377
+                  ]
+            },
+            {
+                  "name": "Forte Santa Caterina",
+                  "text": "Fortificație austriacă din secolul al XIX-lea, construită pentru apărarea orașului Verona.",
+                  "category": "fortress",
+                  "coords": [
+                        11.010392,
+                        45.422027
+                  ]
+            },
+            {
+                  "name": "Area archeologica di Corte Sgarzarie",
+                  "text": "Sit arheologic roman care păstrează resturile unui criptoportic situat sub nivelul actual al străzii.",
+                  "category": "historical",
+                  "coords": [
+                        10.995811,
+                        45.443549
+                  ]
+            },
+            {
+                  "name": "Museo della Radio",
+                  "text": "Muzeu dedicat istoriei radioului, cu o colecție de aparate din epoca lui Guglielmo Marconi.",
+                  "category": "museum",
+                  "coords": [
+                        10.993321,
+                        45.437533
+                  ]
+            },
+            {
+                  "name": "Museo Archeologico Nazionale di Verona",
+                  "text": "Muzeu național care expune descoperiri arheologice din Verona și provincie, din preistorie până în epoca romană.",
+                  "category": "museum",
+                  "coords": [
+                        11.002668,
+                        45.44197
+                  ]
+            },
+            {
+                  "name": "Castel San Felice",
+                  "text": "Complex fortificat situat pe dealurile Veronei, parte a zidurilor de apărare venețiene și austriece.",
+                  "category": "castle",
+                  "coords": [
+                        11.008997,
+                        45.454051
+                  ]
+            },
+            {
+                  "name": "Forte San Leonardo",
+                  "text": "Fost fort austriac care servește astăzi drept Sanctuarul Santa Maria di Lourdes.",
+                  "category": "castle",
+                  "coords": [
+                        10.994636,
+                        45.4548
+                  ]
+            },
+            {
+                  "name": "Children Museum Verona",
+                  "text": "Muzeu interactiv pentru copii, axat pe științe, tehnologie și creativitate.",
+                  "category": "museum",
+                  "coords": [
+                        10.984535,
+                        45.420215
+                  ]
+            },
+            {
+                  "name": "Museo archeologico al teatro romano",
+                  "text": "Muzeu situat într-o fostă mănăstire, cu exponate descoperite în teatrul roman învecinat.",
+                  "category": "museum",
+                  "coords": [
+                        11.002341,
+                        45.447676
+                  ]
+            },
+            {
+                  "name": "Area archeologica di via San Cosimo",
+                  "text": "Zonă arheologică ce păstrează pardoseli de mozaic roman și fundații ale unor locuințe antice.",
+                  "category": "historical",
+                  "coords": [
+                        10.997426,
+                        45.439289
+                  ]
+            },
+            {
+                  "name": "AMO (Arena MuseOpera)",
+                  "text": "Un muzeu din Verona dedicat istoriei operei și celebrei Arene.",
+                  "category": "museum",
+                  "coords": [
+                        10.99825,
+                        45.445245
+                  ]
+            },
+            {
+                  "name": "Museo degli affreschi",
+                  "text": "Muzeul găzduiește fresce importante și se află în apropierea mormântului Julietei.",
+                  "category": "museum",
+                  "coords": [
+                        10.997743,
+                        45.433662
+                  ]
+            },
+            {
+                  "name": "Palazzo Miniscalchi Erizzo",
+                  "text": "Un palat nobiliar istoric din Verona, care astăzi găzduiește un muzeu cu colecții de artă.",
+                  "category": "museum",
+                  "coords": [
+                        10.995724,
+                        45.445183
+                  ]
+            },
+            {
+                  "name": "Villa Romana di Valdonega",
+                  "text": "Sit arheologic al unei vile romane cu mozaicuri pardoseli bine conservate.",
+                  "category": "historical",
+                  "coords": [
+                        11.00202,
+                        45.456347
+                  ]
+            },
+            {
+                  "name": "Forte Biondella",
+                  "text": "O fostă fortăreață austriacă, care a făcut parte din sistemul defensiv al Veronei.",
+                  "category": "fortress",
+                  "coords": [
+                        11.01284,
+                        45.445904
+                  ]
+            },
+            {
+                  "name": "Teatro Ristori",
+                  "text": "Un teatru istoric din Verona, numit după celebra actriță Adelaide Ristori.",
+                  "category": "cultural",
+                  "coords": [
+                        10.986741,
+                        45.437812
+                  ]
+            },
+            {
+                  "name": "Palazzo del Vescovado",
+                  "text": "Reședința istorică a episcopului de Verona, având o arhitectură semnificativă.",
+                  "category": "castle",
+                  "coords": [
+                        10.997511,
+                        45.447859
+                  ]
+            },
+            {
+                  "name": "Forte San Mattia",
+                  "text": "Un fort austriac situat pe dealurile Veronei, folosit astăzi pentru diverse evenimente.",
+                  "category": "fortress",
+                  "coords": [
+                        10.995772,
+                        45.460981
+                  ]
+            },
+            {
+                  "name": "Museo del Carnevale di Verona Luigi D'Agostino “Ginetto”",
+                  "text": "Un muzeu dedicat tradiției îndelungate și costumelor carnavalului din Verona.",
+                  "category": "museum",
+                  "coords": [
+                        10.978807,
+                        45.441871
+                  ]
+            },
+            {
+                  "name": "Museo delle mura di Verona",
+                  "text": "Acest muzeu documentează istoria construcției și evoluția fortificațiilor istorice ale orașului Verona.",
+                  "category": "museum",
+                  "coords": [
+                        11.013869,
+                        45.437346
+                  ]
+            },
+            {
+                  "name": "Museo degli strumenti antichi di Fisica",
+                  "text": "O colecție specializată de instrumente științifice istorice din domeniul fizicii, situată în centrul Veronei.",
+                  "category": "museum",
+                  "coords": [
+                        10.994262,
+                        45.433983
+                  ]
+            },
+            {
+                  "name": "Necropoli della Spianà",
+                  "text": "Un sit arheologic important din Verona, care cuprinde vestigiile unei necropole antice.",
+                  "category": "historical",
+                  "coords": [
+                        10.967458,
+                        45.429356
+                  ]
+            },
+            {
+                  "name": "Fornace romana",
+                  "text": "Vestigiile arheologice ale unui cuptor roman antic, utilizat odinioară pentru fabricarea ceramicii.",
+                  "category": "historical",
+                  "coords": [
+                        10.96881,
+                        45.430922
+                  ]
+            },
+            {
+                  "name": "Fattoria didattica Raggio di Sole",
+                  "text": "O fermă didactică în Verona, unde vizitatorii pot observa de aproape animalele domestice locale.",
+                  "category": "recreational",
+                  "coords": [
+                        10.991459,
+                        45.430492
+                  ]
+            },
+            {
+                  "name": "Forte Porta Nuova",
+                  "text": "Vestigiile unei structuri defensive austriece din secolul al XIX-lea, situată lângă Porta Nuova în Verona.",
+                  "category": "historical",
+                  "coords": [
+                        10.983956,
+                        45.421391
+                  ]
+            },
+            {
+                  "name": "Piazza Indipendenza",
+                  "text": "O piață centrală din Verona cu o zonă verde amenajată, numită în memoria independenței Italiei.",
+                  "category": "park",
+                  "coords": [
+                        10.999666,
+                        45.442791
+                  ]
+            },
+            {
+                  "name": "Torre della Catena",
+                  "text": "Un turn de fortificație medieval al familiei Scaliger în albia râului Adige, folosit odinioară pentru controlul traficului naval.",
+                  "category": "historical",
+                  "coords": [
+                        10.982064,
+                        45.445079
+                  ]
+            },
+            {
+                  "name": "Tempio di Giove Lustrale",
+                  "text": "Rămășițele unui templu roman antic din Verona, dedicat zeului Jupiter.",
+                  "category": "historical",
+                  "coords": [
+                        11.002223,
+                        45.435441
+                  ]
+            },
+            {
+                  "name": "Palazzo Giusti del Giardino",
+                  "text": "Un palat renascentist important din Verona, cunoscut pentru grădina sa splendidă în terase din secolul al XVI-lea.",
+                  "category": "historical",
+                  "coords": [
+                        11.006521,
+                        45.443092
+                  ]
+            },
+            {
+                  "name": "Arco dei Gavi",
+                  "text": "Un arc onorific roman bine conservat din secolul I d.Hr., comandat de familia Gavia.",
+                  "category": "historical",
+                  "coords": [
+                        10.988771,
+                        45.440103
+                  ]
+            },
+            {
+                  "name": "Carcere degli Scalzi",
+                  "text": "Ruinele unei foste închisori situate în centrul orașului Verona.",
+                  "category": "historical",
+                  "coords": [
+                        10.984617,
+                        45.436713
+                  ]
+            },
+            {
+                  "name": "San Domenico al Corso",
+                  "text": "Un lăcaș de cult situat în cartierul San Domenico din Verona.",
+                  "category": "religious",
+                  "coords": [
+                        10.996159,
+                        45.434486
+                  ]
+            },
+            {
+                  "name": "San Domenico Savio",
+                  "text": "O biserică modernă din Verona, dedicată Sfântului Domenico Savio.",
+                  "category": "religious",
+                  "coords": [
+                        10.959724,
+                        45.443144
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maffei Museum",
+                  "text": "One of the oldest lapidary museums in Europe, housing a significant collection of ancient inscriptions.",
+                  "category": "museum",
+                  "coords": [
+                        10.991353,
+                        45.43818
+                  ]
+            },
+            {
+                  "name": "Museo di Castelvecchio",
+                  "text": "An art museum housed in a medieval fortress, displaying important Veronese sculptures and paintings.",
+                  "category": "museum",
+                  "coords": [
+                        10.987865,
+                        45.439954
+                  ]
+            },
+            {
+                  "name": "Centro Internazionale di fotografia Scavi Scaligeri",
+                  "text": "An international photography center located within the underground excavations of the Scaligeri residences.",
+                  "category": "museum",
+                  "coords": [
+                        10.998631,
+                        45.4431
+                  ]
+            },
+            {
+                  "name": "Museo africano",
+                  "text": "An ethnographic museum in Verona dedicated to the history and culture of African peoples.",
+                  "category": "museum",
+                  "coords": [
+                        11.005968,
+                        45.446274
+                  ]
+            },
+            {
+                  "name": "Museo e pinacoteca Canonicale",
+                  "text": "A museum located near Verona Cathedral, exhibiting sacred art and valuable manuscripts.",
+                  "category": "museum",
+                  "coords": [
+                        10.995993,
+                        45.446973
+                  ]
+            },
+            {
+                  "name": "Natural History Museum Verona",
+                  "text": "Natural history museum in Palazzo Pompei, known for its significant fossil collection from the Bolca region.",
+                  "category": "museum",
+                  "coords": [
+                        11.002254,
+                        45.438377
+                  ]
+            },
+            {
+                  "name": "Forte Santa Caterina",
+                  "text": "19th-century Austrian fort built as part of Verona's defensive system.",
+                  "category": "fortress",
+                  "coords": [
+                        11.010392,
+                        45.422027
+                  ]
+            },
+            {
+                  "name": "Area archeologica di Corte Sgarzarie",
+                  "text": "Roman archaeological site featuring the remains of a cryptoporticus below modern street level.",
+                  "category": "historical",
+                  "coords": [
+                        10.995811,
+                        45.443549
+                  ]
+            },
+            {
+                  "name": "Museo della Radio",
+                  "text": "Radio museum showcasing the history of radio technology with equipment from Guglielmo Marconi's era.",
+                  "category": "museum",
+                  "coords": [
+                        10.993321,
+                        45.437533
+                  ]
+            },
+            {
+                  "name": "Museo Archeologico Nazionale di Verona",
+                  "text": "National museum displaying archaeological finds from Verona and the province from prehistory to the Roman era.",
+                  "category": "museum",
+                  "coords": [
+                        11.002668,
+                        45.44197
+                  ]
+            },
+            {
+                  "name": "Castel San Felice",
+                  "text": "Fortified complex on the hills of Verona, part of the Venetian and Austrian city walls.",
+                  "category": "castle",
+                  "coords": [
+                        11.008997,
+                        45.454051
+                  ]
+            },
+            {
+                  "name": "Forte San Leonardo",
+                  "text": "Former Austrian fort that now serves as the Sanctuary of Santa Maria di Lourdes.",
+                  "category": "castle",
+                  "coords": [
+                        10.994636,
+                        45.4548
+                  ]
+            },
+            {
+                  "name": "Children Museum Verona",
+                  "text": "Interactive museum for children focusing on science, technology, and creativity.",
+                  "category": "museum",
+                  "coords": [
+                        10.984535,
+                        45.420215
+                  ]
+            },
+            {
+                  "name": "Museo archeologico al teatro romano",
+                  "text": "Museum housed in a former convent featuring finds from the adjacent Roman theatre.",
+                  "category": "museum",
+                  "coords": [
+                        11.002341,
+                        45.447676
+                  ]
+            },
+            {
+                  "name": "Area archeologica di via San Cosimo",
+                  "text": "Archaeological area featuring Roman mosaic floors and foundations of ancient residential buildings.",
+                  "category": "historical",
+                  "coords": [
+                        10.997426,
+                        45.439289
+                  ]
+            },
+            {
+                  "name": "Arena Museum Opera",
+                  "text": "A museum in Verona dedicated to the history of opera and the famous Arena.",
+                  "category": "museum",
+                  "coords": [
+                        10.99825,
+                        45.445245
+                  ]
+            },
+            {
+                  "name": "Museo degli affreschi",
+                  "text": "The museum houses important frescoes and is located near Juliet's tomb.",
+                  "category": "museum",
+                  "coords": [
+                        10.997743,
+                        45.433662
+                  ]
+            },
+            {
+                  "name": "Palazzo Miniscalchi Erizzo",
+                  "text": "A historic noble palace in Verona that now houses a museum with art collections.",
+                  "category": "museum",
+                  "coords": [
+                        10.995724,
+                        45.445183
+                  ]
+            },
+            {
+                  "name": "Villa Romana di Valdonega",
+                  "text": "Archaeological site of a Roman villa with well-preserved floor mosaics.",
+                  "category": "historical",
+                  "coords": [
+                        11.00202,
+                        45.456347
+                  ]
+            },
+            {
+                  "name": "Forte Biondella",
+                  "text": "A former Austrian fort that was part of the defensive system of Verona.",
+                  "category": "fortress",
+                  "coords": [
+                        11.01284,
+                        45.445904
+                  ]
+            },
+            {
+                  "name": "Teatro Ristori",
+                  "text": "A historic theatre in Verona named after the famous actress Adelaide Ristori.",
+                  "category": "cultural",
+                  "coords": [
+                        10.986741,
+                        45.437812
+                  ]
+            },
+            {
+                  "name": "Palazzo del Vescovado",
+                  "text": "The historic residence of the Bishop of Verona, featuring significant architecture.",
+                  "category": "castle",
+                  "coords": [
+                        10.997511,
+                        45.447859
+                  ]
+            },
+            {
+                  "name": "Forte San Mattia",
+                  "text": "An Austrian fort on the hills of Verona, now used for various events.",
+                  "category": "fortress",
+                  "coords": [
+                        10.995772,
+                        45.460981
+                  ]
+            },
+            {
+                  "name": "Museo del Carnevale di Verona Luigi D'Agostino “Ginetto”",
+                  "text": "A museum dedicated to the long tradition and costumes of the Carnival of Verona.",
+                  "category": "museum",
+                  "coords": [
+                        10.978807,
+                        45.441871
+                  ]
+            },
+            {
+                  "name": "Museo delle mura di Verona",
+                  "text": "This museum documents the construction history and evolution of Verona's historical city fortifications.",
+                  "category": "museum",
+                  "coords": [
+                        11.013869,
+                        45.437346
+                  ]
+            },
+            {
+                  "name": "Museo degli strumenti antichi di Fisica",
+                  "text": "A specialized collection of historical scientific instruments from the field of physics in central Verona.",
+                  "category": "museum",
+                  "coords": [
+                        10.994262,
+                        45.433983
+                  ]
+            },
+            {
+                  "name": "Necropoli della Spianà",
+                  "text": "A significant archaeological site in Verona containing the remains of an ancient necropolis.",
+                  "category": "historical",
+                  "coords": [
+                        10.967458,
+                        45.429356
+                  ]
+            },
+            {
+                  "name": "Fornace romana",
+                  "text": "The archaeological remains of an ancient Roman kiln, once used for the production of ceramics.",
+                  "category": "historical",
+                  "coords": [
+                        10.96881,
+                        45.430922
+                  ]
+            },
+            {
+                  "name": "Fattoria didattica Raggio di Sole",
+                  "text": "An educational farm in Verona where visitors can experience local farm animals up close.",
+                  "category": "recreational",
+                  "coords": [
+                        10.991459,
+                        45.430492
+                  ]
+            },
+            {
+                  "name": "Forte Porta Nuova",
+                  "text": "The remains of a 19th-century Austrian defensive structure located near Porta Nuova in Verona.",
+                  "category": "historical",
+                  "coords": [
+                        10.983956,
+                        45.421391
+                  ]
+            },
+            {
+                  "name": "Piazza Indipendenza",
+                  "text": "A central square in Verona featuring a small park area, named in memory of Italy's independence.",
+                  "category": "park",
+                  "coords": [
+                        10.999666,
+                        45.442791
+                  ]
+            },
+            {
+                  "name": "Torre della Catena",
+                  "text": "A medieval Scaliger fortification tower in the Adige riverbed, once used to control river traffic.",
+                  "category": "historical",
+                  "coords": [
+                        10.982064,
+                        45.445079
+                  ]
+            },
+            {
+                  "name": "Tempio di Giove Lustrale",
+                  "text": "Remains of an ancient Roman temple in Verona dedicated to the god Jupiter.",
+                  "category": "historical",
+                  "coords": [
+                        11.002223,
+                        45.435441
+                  ]
+            },
+            {
+                  "name": "Palazzo Giusti del Giardino",
+                  "text": "A significant Renaissance palace in Verona, famous for its magnificent 16th-century terraced garden.",
+                  "category": "historical",
+                  "coords": [
+                        11.006521,
+                        45.443092
+                  ]
+            },
+            {
+                  "name": "Arco dei Gavi",
+                  "text": "A well-preserved Roman honorary arch from the 1st century AD, commissioned by the Gavia family.",
+                  "category": "historical",
+                  "coords": [
+                        10.988771,
+                        45.440103
+                  ]
+            },
+            {
+                  "name": "Carcere degli Scalzi",
+                  "text": "The ruins of a former prison located in the heart of Verona.",
+                  "category": "historical",
+                  "coords": [
+                        10.984617,
+                        45.436713
+                  ]
+            },
+            {
+                  "name": "San Domenico al Corso",
+                  "text": "A religious building located in the San Domenico district of Verona.",
+                  "category": "religious",
+                  "coords": [
+                        10.996159,
+                        45.434486
+                  ]
+            },
+            {
+                  "name": "San Domenico Savio",
+                  "text": "A modern church in Verona dedicated to Saint Dominic Savio.",
+                  "category": "religious",
+                  "coords": [
+                        10.959724,
+                        45.443144
+                  ]
+            }
+      ]
+},
     name: { de: "Verona", hu: "Verona", ro: "Verona", en: "Verona" },
     parent: "IT-VR",
     type: "city",
@@ -3786,7 +5163,1132 @@ export const poiExtraItalyCitiesC1: POI[] = [
 }
   },
   {
-    id: "city-it-padua",
+    id: "city-it-padua", "sights": {
+      "de": [
+            {
+                  "name": "Teatro Ruzante",
+                  "text": "Ein Universitätstheater in Padua, das nach dem Dramatiker Ruzante benannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        11.876808,
+                        45.404072
+                  ]
+            },
+            {
+                  "name": "Museo della Fisica Giovanni Poleni",
+                  "text": "Ein Museum der Universität Padua, das historische wissenschaftliche Instrumente zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        11.885772,
+                        45.410414
+                  ]
+            },
+            {
+                  "name": "Museo di Astronomia",
+                  "text": "Ein Astronomiemuseum im historischen Specola-Turm der Stadt Padua.",
+                  "category": "museum",
+                  "coords": [
+                        11.868559,
+                        45.402029
+                  ]
+            },
+            {
+                  "name": "Teatro Maddalene",
+                  "text": "Ein zeitgenössisches Theater in Padua, das in einer ehemaligen Kirche untergebracht ist.",
+                  "category": "cultural",
+                  "coords": [
+                        11.870045,
+                        45.413934
+                  ]
+            },
+            {
+                  "name": "Museo Bottacin",
+                  "text": "Ein Museum in Padua, das für seine bedeutende numismatische Sammlung und Kunstwerke bekannt ist.",
+                  "category": "museum",
+                  "coords": [
+                        11.878154,
+                        45.411432
+                  ]
+            },
+            {
+                  "name": "Museo di macchine \"Enrico Bernardi\"",
+                  "text": "Dieses Museum widmet sich der Arbeit von Enrico Bernardi, einem Pionier des Verbrennungsmotors.",
+                  "category": "museum",
+                  "coords": [
+                        11.892111,
+                        45.410791
+                  ]
+            },
+            {
+                  "name": "Museo dell'Educazione",
+                  "text": "Ein spezialisiertes Museum in Padua, das die Geschichte des Schulwesens und der Erziehung dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        11.87313,
+                        45.405763
+                  ]
+            },
+            {
+                  "name": "Museo di Scienze Archeologiche e d'Arte",
+                  "text": "Das Museum der Universität Padua zeigt archäologische Funde und kunsthistorische Sammlungen.",
+                  "category": "museum",
+                  "coords": [
+                        11.871439,
+                        45.408009
+                  ]
+            },
+            {
+                  "name": "Musei Civici agli Eremitani",
+                  "text": "Dieser Museumskomplex beherbergt bedeutende archäologische Sammlungen und eine Pinakothek.",
+                  "category": "museum",
+                  "coords": [
+                        11.879986,
+                        45.411011
+                  ]
+            },
+            {
+                  "name": "Teatro Giuseppe Verdi",
+                  "text": "Das wichtigste Theater in Padua, das im 18. Jahrhundert erbaut wurde und Opernaufführungen beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        11.871396,
+                        45.409203
+                  ]
+            },
+            {
+                  "name": "Museo di Storia della Medicina in Padova",
+                  "text": "Ein innovatives Museum, das die bedeutende Rolle Paduas in der Geschichte der Medizin präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        11.880337,
+                        45.405218
+                  ]
+            },
+            {
+                  "name": "Palazzo Zabarella",
+                  "text": "Ein prächtiger historischer Palast, der heute als Ort für bedeutende Kunstausstellungen dient.",
+                  "category": "museum",
+                  "coords": [
+                        11.879337,
+                        45.406018
+                  ]
+            },
+            {
+                  "name": "Oratorio San Rocco",
+                  "text": "Ein Renaissance-Oratorium, das mit einem beeindruckenden Freskenzyklus über das Leben des Heiligen Rochus geschmückt ist.",
+                  "category": "museum",
+                  "coords": [
+                        11.875076,
+                        45.408918
+                  ]
+            },
+            {
+                  "name": "Sotterranei del Palazzo della Ragione",
+                  "text": "Unterirdische archäologische Ausgrabungen römischer und mittelalterlicher Überreste unter dem Palazzo della Ragione.",
+                  "category": "historical",
+                  "coords": [
+                        11.875262,
+                        45.407246
+                  ]
+            },
+            {
+                  "name": "Museo Storico della Terza Armata",
+                  "text": "Militärhistorisches Museum im Palazzo Camerini, das der Geschichte der Dritten Armee gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        11.880702,
+                        45.408685
+                  ]
+            },
+            {
+                  "name": "Museo di Geografia",
+                  "text": "Das Geographiemuseum der Universität Padua zeigt historische Globen, Karten und wissenschaftliche Instrumente.",
+                  "category": "museum",
+                  "coords": [
+                        11.879148,
+                        45.40498
+                  ]
+            },
+            {
+                  "name": "Palazzo Santo Stefano",
+                  "text": "Historischer Palast und ehemaliges Kloster, das heute als Sitz der Provinzverwaltung von Padua dient.",
+                  "category": "castle",
+                  "coords": [
+                        11.878076,
+                        45.405731
+                  ]
+            },
+            {
+                  "name": "Palazzo del Monte di Pietà",
+                  "text": "Ein imposantes historisches Gebäude am Domplatz, das heute für Kunstausstellungen genutzt wird.",
+                  "category": "museum",
+                  "coords": [
+                        11.872371,
+                        45.407001
+                  ]
+            },
+            {
+                  "name": "Museo Botanico",
+                  "text": "Das Botanische Museum zeigt Sammlungen und Herbarien des ältesten akademischen Gartens der Welt.",
+                  "category": "museum",
+                  "coords": [
+                        11.880522,
+                        45.39963
+                  ]
+            },
+            {
+                  "name": "Museo della Padova Ebraica",
+                  "text": "Das Museum in der ehemaligen deutschen Synagoge dokumentiert die Geschichte der jüdischen Gemeinde Paduas.",
+                  "category": "museum",
+                  "coords": [
+                        11.875922,
+                        45.406043
+                  ]
+            },
+            {
+                  "name": "Museo del Pre Cinema",
+                  "text": "Dieses Museum in Padua zeigt eine einzigartige Sammlung zur Geschichte der bewegten Bilder vor der Erfindung des Kinos.",
+                  "category": "museum",
+                  "coords": [
+                        11.875922,
+                        45.400196
+                  ]
+            },
+            {
+                  "name": "Porta Savonarola",
+                  "text": "Ein historisches Stadttor in Padua, das im 16. Jahrhundert als Teil der venezianischen Stadtmauer errichtet wurde.",
+                  "category": "museum",
+                  "coords": [
+                        11.864756,
+                        45.412273
+                  ]
+            },
+            {
+                  "name": "Museo al Santo",
+                  "text": "Das Museum befindet sich am Platz der Basilika des Heiligen Antonius und bewahrt religiöse Kunstschätze auf.",
+                  "category": "museum",
+                  "coords": [
+                        11.879926,
+                        45.400674
+                  ]
+            },
+            {
+                  "name": "Giardini dell'Arena",
+                  "text": "Ein weitläufiger öffentlicher Park in Padua, der die berühmte Scrovegni-Kapelle und römische Ruinen umgibt.",
+                  "category": "park",
+                  "coords": [
+                        11.880101,
+                        45.412147
+                  ]
+            },
+            {
+                  "name": "Parco Iris",
+                  "text": "Eine moderne Grünanlage in Padua, die den Anwohnern Raum für Erholung und sportliche Aktivitäten im Freien bietet.",
+                  "category": "park",
+                  "coords": [
+                        11.899108,
+                        45.392883
+                  ]
+            },
+            {
+                  "name": "Giardini della Rotonda",
+                  "text": "Diese Gärten befinden sich bei einer ehemaligen mittelalterlichen Festung und sind ein beliebter Rückzugsort im Stadtzentrum.",
+                  "category": "park",
+                  "coords": [
+                        11.875295,
+                        45.416061
+                  ]
+            },
+            {
+                  "name": "Giardino dei Giusti del Mondo",
+                  "text": "Ein Gedenkgarten in Padua, der jene Menschen ehrt, die während verschiedener Völkermorde Leben gerettet haben.",
+                  "category": "park",
+                  "coords": [
+                        11.910767,
+                        45.394391
+                  ]
+            },
+            {
+                  "name": "Basilica di sant'Antonio Di Padova",
+                  "text": "Eines der bedeutendsten katholischen Heiligtümer, in dem das Grab des heiligen Antonius von Padua verehrt wird.",
+                  "category": "religious",
+                  "coords": [
+                        11.880933,
+                        45.401462
+                  ]
+            },
+            {
+                  "name": "Duomo di Padova",
+                  "text": "Die Kathedrale von Padua besticht durch ihre Renaissance-Fassade und das prachtvoll ausgemalte Baptisterium daneben.",
+                  "category": "religious",
+                  "coords": [
+                        11.87126,
+                        45.406516
+                  ]
+            },
+            {
+                  "name": "Basilica del Carmine",
+                  "text": "Eine bedeutende Kirche aus dem 14. Jahrhundert in Padua mit einer Renaissance-Fassade.",
+                  "category": "religious",
+                  "coords": [
+                        11.874107,
+                        45.413198
+                  ]
+            },
+            {
+                  "name": "Torre del Bo",
+                  "text": "Der historische Turm ist Teil des Palazzo del Bo, dem Hauptsitz der Universität Padua.",
+                  "category": "tower",
+                  "coords": [
+                        11.877367,
+                        45.407135
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teatro Ruzante",
+                  "text": "Padovai egyetemi színház, amelyet a híres drámaíróról, Ruzantéről neveztek el.",
+                  "category": "cultural",
+                  "coords": [
+                        11.876808,
+                        45.404072
+                  ]
+            },
+            {
+                  "name": "Museo della Fisica Giovanni Poleni",
+                  "text": "A Padovai Egyetem múzeuma, amely történelmi fizikai mérőeszközöket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        11.885772,
+                        45.410414
+                  ]
+            },
+            {
+                  "name": "Csillagászati Múzeum",
+                  "text": "Csillagászati múzeum Padova történelmi Specola-tornyában.",
+                  "category": "museum",
+                  "coords": [
+                        11.868559,
+                        45.402029
+                  ]
+            },
+            {
+                  "name": "Teatro Maddalene",
+                  "text": "Kortárs színház Padovában, amely egy egykori templom épületében működik.",
+                  "category": "cultural",
+                  "coords": [
+                        11.870045,
+                        45.413934
+                  ]
+            },
+            {
+                  "name": "Museo Bottacin",
+                  "text": "Padovai múzeum, amely jelentős érme- és éremgyűjteményéről, valamint műalkotásairól ismert.",
+                  "category": "museum",
+                  "coords": [
+                        11.878154,
+                        45.411432
+                  ]
+            },
+            {
+                  "name": "Museo di macchine \"Enrico Bernardi\"",
+                  "text": "A múzeum Enrico Bernardi munkásságának és a belső égésű motorok fejlődésének állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        11.892111,
+                        45.410791
+                  ]
+            },
+            {
+                  "name": "Museo dell'Educazione",
+                  "text": "Padovai szakmúzeum, amely az iskoláztatás és a nevelés történetét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        11.87313,
+                        45.405763
+                  ]
+            },
+            {
+                  "name": "Museo di Scienze Archeologiche e d'Arte",
+                  "text": "A Padovai Egyetem múzeuma régészeti leleteket és művészettörténeti gyűjteményeket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        11.871439,
+                        45.408009
+                  ]
+            },
+            {
+                  "name": "Musei Civici agli Eremitani",
+                  "text": "Ez a múzeumi komplexum jelentős régészeti gyűjteményeknek és képtárnak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        11.879986,
+                        45.411011
+                  ]
+            },
+            {
+                  "name": "Teatro Giuseppe Verdi",
+                  "text": "Padova legfontosabb színháza, amely a 18. században épült és operaelőadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        11.871396,
+                        45.409203
+                  ]
+            },
+            {
+                  "name": "Museo di Storia della Medicina in Padova",
+                  "text": "Innovatív múzeum, amely Padova orvostudományi történetben betöltött jelentős szerepét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        11.880337,
+                        45.405218
+                  ]
+            },
+            {
+                  "name": "Palazzo Zabarella",
+                  "text": "Pompás történelmi palota, amely ma jelentős művészeti kiállítások helyszíneként szolgál.",
+                  "category": "museum",
+                  "coords": [
+                        11.879337,
+                        45.406018
+                  ]
+            },
+            {
+                  "name": "Oratorio San Rocco",
+                  "text": "Reneszánsz oratórium, amelyet Szent Rókus életét bemutató lenyűgöző freskóciklus díszít.",
+                  "category": "museum",
+                  "coords": [
+                        11.875076,
+                        45.408918
+                  ]
+            },
+            {
+                  "name": "Sotterranei del Palazzo della Ragione",
+                  "text": "A Palazzo della Ragione alatti régészeti terület római és középkori romokat mutat be.",
+                  "category": "historical",
+                  "coords": [
+                        11.875262,
+                        45.407246
+                  ]
+            },
+            {
+                  "name": "Museo Storico della Terza Armata",
+                  "text": "A Palazzo Cameriniben található hadtörténeti múzeum az olasz Harmadik Hadsereg emlékét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        11.880702,
+                        45.408685
+                  ]
+            },
+            {
+                  "name": "Museo di Geografia",
+                  "text": "A Padovai Egyetem földrajzi múzeuma történelmi földgömböket, térképeket és eszközöket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        11.879148,
+                        45.40498
+                  ]
+            },
+            {
+                  "name": "Palazzo Santo Stefano",
+                  "text": "Történelmi palota és egykori kolostor, amely ma Padova megye székhelyeként működik.",
+                  "category": "castle",
+                  "coords": [
+                        11.878076,
+                        45.405731
+                  ]
+            },
+            {
+                  "name": "Palazzo del Monte di Pietà",
+                  "text": "Impozáns történelmi épület a Dóm téren, amely ma művészeti kiállításoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        11.872371,
+                        45.407001
+                  ]
+            },
+            {
+                  "name": "Museo Botanico",
+                  "text": "A botanikai múzeum a világ legrégebbi akadémiai kertjének gyűjteményeit és herbáriumait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        11.880522,
+                        45.39963
+                  ]
+            },
+            {
+                  "name": "Museo della Padova Ebraica",
+                  "text": "Az egykori német zsinagógában található múzeum a padovai zsidó közösség történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        11.875922,
+                        45.406043
+                  ]
+            },
+            {
+                  "name": "Museo del Pre Cinema",
+                  "text": "Ez a padovai múzeum a mozi feltalálása előtti mozgókép-történet egyedülálló gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        11.875922,
+                        45.400196
+                  ]
+            },
+            {
+                  "name": "Porta Savonarola",
+                  "text": "Padova egyik történelmi városkapuja, amely a 16. században épült a velencei városfal részeként.",
+                  "category": "museum",
+                  "coords": [
+                        11.864756,
+                        45.412273
+                  ]
+            },
+            {
+                  "name": "Museo al Santo",
+                  "text": "A múzeum a Szent Antal-bazilika melletti téren található, és vallási műkincseket őriz.",
+                  "category": "museum",
+                  "coords": [
+                        11.879926,
+                        45.400674
+                  ]
+            },
+            {
+                  "name": "Giardini dell'Arena",
+                  "text": "Padova tágas közparkja, amely a híres Scrovegni-kápolnát és római kori romokat veszi körül.",
+                  "category": "park",
+                  "coords": [
+                        11.880101,
+                        45.412147
+                  ]
+            },
+            {
+                  "name": "Parco Iris",
+                  "text": "Modern zöldterület Padovában, amely pihenési és szabadtéri sportolási lehetőséget kínál a látogatóknak.",
+                  "category": "park",
+                  "coords": [
+                        11.899108,
+                        45.392883
+                  ]
+            },
+            {
+                  "name": "Giardini della Rotonda",
+                  "text": "Ezek a kertek egy egykori középkori erődítmény mellett találhatók, és népszerű pihenőhelynek számítanak a belvárosban.",
+                  "category": "park",
+                  "coords": [
+                        11.875295,
+                        45.416061
+                  ]
+            },
+            {
+                  "name": "Giardino dei Giusti del Mondo",
+                  "text": "Emlékkert Padovában, amely azok előtt tiszteleg, akik különböző népirtások idején életeket mentettek.",
+                  "category": "park",
+                  "coords": [
+                        11.910767,
+                        45.394391
+                  ]
+            },
+            {
+                  "name": "Szent Antal-bazilika",
+                  "text": "Az egyik legfontosabb katolikus szentély, ahol Páduai Szent Antal sírját tisztelik a hívők.",
+                  "category": "religious",
+                  "coords": [
+                        11.880933,
+                        45.401462
+                  ]
+            },
+            {
+                  "name": "Duomo di Padova",
+                  "text": "Padova székesegyháza reneszánsz homlokzatáról és a mellette található, gyönyörűen festett keresztelőkápolnáról nevezetes.",
+                  "category": "religious",
+                  "coords": [
+                        11.87126,
+                        45.406516
+                  ]
+            },
+            {
+                  "name": "Basilica del Carmine",
+                  "text": "Jelentős 14. századi templom Padovában, amely reneszánsz homlokzatáról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        11.874107,
+                        45.413198
+                  ]
+            },
+            {
+                  "name": "Torre del Bo",
+                  "text": "A történelmi torony a Padovai Egyetem központjának, a Palazzo del Bo épületegyüttesének része.",
+                  "category": "tower",
+                  "coords": [
+                        11.877367,
+                        45.407135
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teatro Ruzante",
+                  "text": "Un teatru universitar din Padova, numit după celebrul dramaturg Ruzante.",
+                  "category": "cultural",
+                  "coords": [
+                        11.876808,
+                        45.404072
+                  ]
+            },
+            {
+                  "name": "Museo della Fisica Giovanni Poleni",
+                  "text": "Un muzeu al Universității din Padova care expune instrumente științifice istorice.",
+                  "category": "museum",
+                  "coords": [
+                        11.885772,
+                        45.410414
+                  ]
+            },
+            {
+                  "name": "Museo di Astronomia",
+                  "text": "Un muzeu de astronomie situat în turnul istoric Specola din Padova.",
+                  "category": "museum",
+                  "coords": [
+                        11.868559,
+                        45.402029
+                  ]
+            },
+            {
+                  "name": "Teatro Maddalene",
+                  "text": "Un teatru contemporan din Padova, găzduit în clădirea unei foste biserici.",
+                  "category": "cultural",
+                  "coords": [
+                        11.870045,
+                        45.413934
+                  ]
+            },
+            {
+                  "name": "Museo Bottacin",
+                  "text": "Un muzeu din Padova cunoscut pentru colecția sa numismatică importantă și pentru operele de artă.",
+                  "category": "museum",
+                  "coords": [
+                        11.878154,
+                        45.411432
+                  ]
+            },
+            {
+                  "name": "Museo di macchine \"Enrico Bernardi\"",
+                  "text": "Acest muzeu este dedicat activității lui Enrico Bernardi, un pionier al motorului cu ardere internă.",
+                  "category": "museum",
+                  "coords": [
+                        11.892111,
+                        45.410791
+                  ]
+            },
+            {
+                  "name": "Museo dell'Educazione",
+                  "text": "Un muzeu specializat din Padova care documentează istoria școlarizării și a educației.",
+                  "category": "museum",
+                  "coords": [
+                        11.87313,
+                        45.405763
+                  ]
+            },
+            {
+                  "name": "Museo di Scienze Archeologiche e d'Arte",
+                  "text": "Muzeul Universității din Padova expune descoperiri arheologice și colecții de istoria artei.",
+                  "category": "museum",
+                  "coords": [
+                        11.871439,
+                        45.408009
+                  ]
+            },
+            {
+                  "name": "Musei Civici agli Eremitani",
+                  "text": "Acest complex muzeal găzduiește colecții arheologice importante și o pinacotecă.",
+                  "category": "museum",
+                  "coords": [
+                        11.879986,
+                        45.411011
+                  ]
+            },
+            {
+                  "name": "Teatro Giuseppe Verdi",
+                  "text": "Cel mai important teatru din Padova, construit în secolul al XVIII-lea, care găzduiește spectacole de operă.",
+                  "category": "cultural",
+                  "coords": [
+                        11.871396,
+                        45.409203
+                  ]
+            },
+            {
+                  "name": "Museo di Storia della Medicina in Padova",
+                  "text": "Un muzeu inovator care prezintă rolul important al Padovei în istoria medicinei.",
+                  "category": "museum",
+                  "coords": [
+                        11.880337,
+                        45.405218
+                  ]
+            },
+            {
+                  "name": "Palazzo Zabarella",
+                  "text": "Un palat istoric splendid care astăzi servește drept loc pentru expoziții de artă importante.",
+                  "category": "museum",
+                  "coords": [
+                        11.879337,
+                        45.406018
+                  ]
+            },
+            {
+                  "name": "Oratorio San Rocco",
+                  "text": "Un oratoriu renascentist decorat cu un ciclu de fresce impresionant despre viața Sfântului Rochus.",
+                  "category": "museum",
+                  "coords": [
+                        11.875076,
+                        45.408918
+                  ]
+            },
+            {
+                  "name": "Sotterranei del Palazzo della Ragione",
+                  "text": "Sit arheologic subteran care expune vestigii romane și medievale sub Palazzo della Ragione.",
+                  "category": "historical",
+                  "coords": [
+                        11.875262,
+                        45.407246
+                  ]
+            },
+            {
+                  "name": "Museo Storico della Terza Armata",
+                  "text": "Muzeu de istorie militară situat în Palazzo Camerini, dedicat Armatei a Treia.",
+                  "category": "museum",
+                  "coords": [
+                        11.880702,
+                        45.408685
+                  ]
+            },
+            {
+                  "name": "Museo di Geografia",
+                  "text": "Muzeul de Geografie al Universității din Padova expune globuri, hărți și instrumente științifice.",
+                  "category": "museum",
+                  "coords": [
+                        11.879148,
+                        45.40498
+                  ]
+            },
+            {
+                  "name": "Palazzo Santo Stefano",
+                  "text": "Palat istoric și fostă mănăstire, care servește în prezent ca sediu al Provinciei Padova.",
+                  "category": "castle",
+                  "coords": [
+                        11.878076,
+                        45.405731
+                  ]
+            },
+            {
+                  "name": "Palazzo del Monte di Pietà",
+                  "text": "Clădire istorică impunătoare în Piazza Duomo, utilizată în prezent pentru expoziții de artă.",
+                  "category": "museum",
+                  "coords": [
+                        11.872371,
+                        45.407001
+                  ]
+            },
+            {
+                  "name": "Museo Botanico",
+                  "text": "Muzeul botanic prezintă colecții și herbarii aparținând celei mai vechi grădini academice din lume.",
+                  "category": "museum",
+                  "coords": [
+                        11.880522,
+                        45.39963
+                  ]
+            },
+            {
+                  "name": "Museo della Padova Ebraica",
+                  "text": "Muzeul situat în fosta sinagogă germană documentează istoria comunității evreiești din Padova.",
+                  "category": "museum",
+                  "coords": [
+                        11.875922,
+                        45.406043
+                  ]
+            },
+            {
+                  "name": "Museo del Pre Cinema",
+                  "text": "Acest muzeu din Padova prezintă o colecție unică dedicată istoriei imaginilor în mișcare dinaintea inventării cinematografului.",
+                  "category": "museum",
+                  "coords": [
+                        11.875922,
+                        45.400196
+                  ]
+            },
+            {
+                  "name": "Porta Savonarola",
+                  "text": "O poartă istorică a orașului Padova, construită în secolul al XVI-lea ca parte a zidurilor venețiene.",
+                  "category": "museum",
+                  "coords": [
+                        11.864756,
+                        45.412273
+                  ]
+            },
+            {
+                  "name": "Museo al Santo",
+                  "text": "Muzeul este situat în piața Bazilicii Sfântul Anton și păstrează tezaure de artă religioasă.",
+                  "category": "museum",
+                  "coords": [
+                        11.879926,
+                        45.400674
+                  ]
+            },
+            {
+                  "name": "Giardini dell'Arena",
+                  "text": "Un parc public spațios din Padova care înconjoară faimoasa Capelă Scrovegni și ruine romane.",
+                  "category": "park",
+                  "coords": [
+                        11.880101,
+                        45.412147
+                  ]
+            },
+            {
+                  "name": "Parco Iris",
+                  "text": "O zonă verde modernă din Padova care oferă spațiu pentru recreere și activități sportive în aer liber.",
+                  "category": "park",
+                  "coords": [
+                        11.899108,
+                        45.392883
+                  ]
+            },
+            {
+                  "name": "Giardini della Rotonda",
+                  "text": "Aceste grădini sunt situate lângă o fostă fortificație medievală și reprezintă un loc popular de relaxare în centrul orașului.",
+                  "category": "park",
+                  "coords": [
+                        11.875295,
+                        45.416061
+                  ]
+            },
+            {
+                  "name": "Giardino dei Giusti del Mondo",
+                  "text": "O grădină memorială din Padova care onorează persoanele care au salvat vieți în timpul diverselor genocide.",
+                  "category": "park",
+                  "coords": [
+                        11.910767,
+                        45.394391
+                  ]
+            },
+            {
+                  "name": "Basilica di sant'Antonio Di Padova",
+                  "text": "Unul dintre cele mai importante sanctuare catolice, unde este venerat mormântul Sfântului Anton de Padova.",
+                  "category": "religious",
+                  "coords": [
+                        11.880933,
+                        45.401462
+                  ]
+            },
+            {
+                  "name": "Duomo di Padova",
+                  "text": "Catedrala din Padova se remarcă prin fațada sa renascentistă și prin baptisteriul pictat superb de lângă ea.",
+                  "category": "religious",
+                  "coords": [
+                        11.87126,
+                        45.406516
+                  ]
+            },
+            {
+                  "name": "Basilica del Carmine",
+                  "text": "O biserică importantă din secolul al XIV-lea în Padova, cunoscută pentru fațada sa renascentistă.",
+                  "category": "religious",
+                  "coords": [
+                        11.874107,
+                        45.413198
+                  ]
+            },
+            {
+                  "name": "Torre del Bo",
+                  "text": "Turnul istoric face parte din Palazzo del Bo, sediul principal al Universității din Padova.",
+                  "category": "tower",
+                  "coords": [
+                        11.877367,
+                        45.407135
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teatro Ruzante",
+                  "text": "A university theatre in Padua, named after the famous playwright Ruzante.",
+                  "category": "cultural",
+                  "coords": [
+                        11.876808,
+                        45.404072
+                  ]
+            },
+            {
+                  "name": "Museo della Fisica Giovanni Poleni",
+                  "text": "A museum of the University of Padua exhibiting historical scientific instruments.",
+                  "category": "museum",
+                  "coords": [
+                        11.885772,
+                        45.410414
+                  ]
+            },
+            {
+                  "name": "Museo di Astronomia",
+                  "text": "An astronomy museum located in the historic Specola tower of Padua.",
+                  "category": "museum",
+                  "coords": [
+                        11.868559,
+                        45.402029
+                  ]
+            },
+            {
+                  "name": "Teatro Maddalene",
+                  "text": "A contemporary theatre in Padua, housed in a former church building.",
+                  "category": "cultural",
+                  "coords": [
+                        11.870045,
+                        45.413934
+                  ]
+            },
+            {
+                  "name": "Museo Bottacin",
+                  "text": "A museum in Padua known for its significant numismatic collection of coins, medals, and art.",
+                  "category": "museum",
+                  "coords": [
+                        11.878154,
+                        45.411432
+                  ]
+            },
+            {
+                  "name": "Museo di macchine \"Enrico Bernardi\"",
+                  "text": "This museum is dedicated to the work of Enrico Bernardi, a pioneer of the internal combustion engine.",
+                  "category": "museum",
+                  "coords": [
+                        11.892111,
+                        45.410791
+                  ]
+            },
+            {
+                  "name": "Museo dell'Educazione",
+                  "text": "A specialized museum in Padua that documents the history of schooling and education.",
+                  "category": "museum",
+                  "coords": [
+                        11.87313,
+                        45.405763
+                  ]
+            },
+            {
+                  "name": "Museo di Scienze Archeologiche e d'Arte",
+                  "text": "The museum of the University of Padua displays archaeological finds and art history collections.",
+                  "category": "museum",
+                  "coords": [
+                        11.871439,
+                        45.408009
+                  ]
+            },
+            {
+                  "name": "Musei Civici agli Eremitani",
+                  "text": "This museum complex houses significant archaeological collections and an art gallery.",
+                  "category": "museum",
+                  "coords": [
+                        11.879986,
+                        45.411011
+                  ]
+            },
+            {
+                  "name": "Teatro Giuseppe Verdi",
+                  "text": "The most important theatre in Padua, built in the 18th century and hosting opera performances.",
+                  "category": "cultural",
+                  "coords": [
+                        11.871396,
+                        45.409203
+                  ]
+            },
+            {
+                  "name": "Museo di Storia della Medicina in Padova",
+                  "text": "An innovative museum presenting Padua's significant role in the history of medicine.",
+                  "category": "museum",
+                  "coords": [
+                        11.880337,
+                        45.405218
+                  ]
+            },
+            {
+                  "name": "Palazzo Zabarella",
+                  "text": "A magnificent historical palace that today serves as a venue for major art exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        11.879337,
+                        45.406018
+                  ]
+            },
+            {
+                  "name": "Oratorio San Rocco",
+                  "text": "A Renaissance oratory decorated with an impressive fresco cycle depicting the life of Saint Roch.",
+                  "category": "museum",
+                  "coords": [
+                        11.875076,
+                        45.408918
+                  ]
+            },
+            {
+                  "name": "Sotterranei del Palazzo della Ragione",
+                  "text": "Underground archaeological site showcasing Roman and medieval remains beneath the Palazzo della Ragione.",
+                  "category": "historical",
+                  "coords": [
+                        11.875262,
+                        45.407246
+                  ]
+            },
+            {
+                  "name": "Museo Storico della Terza Armata",
+                  "text": "Military history museum located in Palazzo Camerini, dedicated to the Third Army.",
+                  "category": "museum",
+                  "coords": [
+                        11.880702,
+                        45.408685
+                  ]
+            },
+            {
+                  "name": "Museo di Geografia",
+                  "text": "The Geography Museum of the University of Padua displays historical globes, maps, and instruments.",
+                  "category": "museum",
+                  "coords": [
+                        11.879148,
+                        45.40498
+                  ]
+            },
+            {
+                  "name": "Palazzo Santo Stefano",
+                  "text": "Historic palace and former monastery, currently serving as the seat of the Province of Padua.",
+                  "category": "castle",
+                  "coords": [
+                        11.878076,
+                        45.405731
+                  ]
+            },
+            {
+                  "name": "Palazzo del Monte di Pietà",
+                  "text": "Imposing historic building in Piazza Duomo, currently used for art exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        11.872371,
+                        45.407001
+                  ]
+            },
+            {
+                  "name": "Museo Botanico",
+                  "text": "The botanical museum displays collections and herbaria from the world's oldest academic garden.",
+                  "category": "museum",
+                  "coords": [
+                        11.880522,
+                        45.39963
+                  ]
+            },
+            {
+                  "name": "Museo della Padova Ebraica",
+                  "text": "Located in the former German Synagogue, the museum documents the history of Padua's Jewish community.",
+                  "category": "museum",
+                  "coords": [
+                        11.875922,
+                        45.406043
+                  ]
+            },
+            {
+                  "name": "Museo del Pre Cinema",
+                  "text": "This museum in Padua houses a unique collection dedicated to the history of moving images before the invention of cinema.",
+                  "category": "museum",
+                  "coords": [
+                        11.875922,
+                        45.400196
+                  ]
+            },
+            {
+                  "name": "Porta Savonarola",
+                  "text": "A historical city gate in Padua, built in the 16th century as part of the Venetian city walls.",
+                  "category": "museum",
+                  "coords": [
+                        11.864756,
+                        45.412273
+                  ]
+            },
+            {
+                  "name": "Museo al Santo",
+                  "text": "Located in the square of the Basilica of Saint Anthony, this museum preserves religious art treasures.",
+                  "category": "museum",
+                  "coords": [
+                        11.879926,
+                        45.400674
+                  ]
+            },
+            {
+                  "name": "Giardini dell'Arena",
+                  "text": "A spacious public park in Padua surrounding the famous Scrovegni Chapel and ancient Roman ruins.",
+                  "category": "park",
+                  "coords": [
+                        11.880101,
+                        45.412147
+                  ]
+            },
+            {
+                  "name": "Parco Iris",
+                  "text": "A modern green area in Padua offering space for recreation and outdoor sports activities.",
+                  "category": "park",
+                  "coords": [
+                        11.899108,
+                        45.392883
+                  ]
+            },
+            {
+                  "name": "Giardini della Rotonda",
+                  "text": "Located near a former medieval fortification, these gardens are a popular retreat in the city center.",
+                  "category": "park",
+                  "coords": [
+                        11.875295,
+                        45.416061
+                  ]
+            },
+            {
+                  "name": "Giardino dei Giusti del Mondo",
+                  "text": "A memorial garden in Padua honoring those who saved lives during various genocides.",
+                  "category": "park",
+                  "coords": [
+                        11.910767,
+                        45.394391
+                  ]
+            },
+            {
+                  "name": "Basilica di sant'Antonio Di Padova",
+                  "text": "One of the most important Catholic shrines, where the tomb of Saint Anthony of Padua is venerated.",
+                  "category": "religious",
+                  "coords": [
+                        11.880933,
+                        45.401462
+                  ]
+            },
+            {
+                  "name": "Duomo di Padova",
+                  "text": "Padua's Cathedral is notable for its Renaissance facade and the magnificently painted baptistery located nearby.",
+                  "category": "religious",
+                  "coords": [
+                        11.87126,
+                        45.406516
+                  ]
+            },
+            {
+                  "name": "Basilica del Carmine",
+                  "text": "A significant 14th-century church in Padua featuring a Renaissance facade.",
+                  "category": "religious",
+                  "coords": [
+                        11.874107,
+                        45.413198
+                  ]
+            },
+            {
+                  "name": "Torre del Bo",
+                  "text": "The historic tower is part of the Palazzo del Bo, the main seat of the University of Padua.",
+                  "category": "tower",
+                  "coords": [
+                        11.877367,
+                        45.407135
+                  ]
+            }
+      ]
+},
     name: { de: "Padua", hu: "Padova", ro: "Padova", en: "Padua" },
     parent: "IT-PD",
     type: "city",

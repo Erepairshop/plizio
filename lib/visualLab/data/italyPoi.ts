@@ -3010,7 +3010,808 @@ export const italyCities: POI[] = [
     },
   },
   {
-    id: "it-bari",
+    id: "it-bari", "sights": {
+      "de": [
+            {
+                  "name": "Museo di Scienze della Terra di Bari",
+                  "text": "Das Geowissenschaftliche Museum in Bari präsentiert eine umfangreiche Sammlung von Mineralien und Fossilien.",
+                  "category": "museum",
+                  "coords": [
+                        16.880315,
+                        41.109664
+                  ]
+            },
+            {
+                  "name": "Museo Collezione di Fisica",
+                  "text": "Eine wissenschaftliche Sammlung in Bari, die historische Instrumente und physikalische Experimente zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        16.88355,
+                        41.1082
+                  ]
+            },
+            {
+                  "name": "Museo Archeologico di Santa Scolastica",
+                  "text": "Ein bedeutendes archäologisches Museum in Bari, untergebracht im ehemaligen Kloster Santa Scolastica.",
+                  "category": "museum",
+                  "coords": [
+                        16.87096,
+                        41.132152
+                  ]
+            },
+            {
+                  "name": "Pinacoteca Metropolitana \"Corrado Giaquinto\"",
+                  "text": "Die Metropolitan-Pinakothek von Bari zeigt bedeutende Kunstwerke vom Mittelalter bis zur Gegenwart.",
+                  "category": "museum",
+                  "coords": [
+                        16.88123,
+                        41.121393
+                  ]
+            },
+            {
+                  "name": "Museo Nicolaiano",
+                  "text": "Ein Museum, das dem Leben und den Reliquien des Heiligen Nikolaus, dem Schutzpatron von Bari, gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        16.870683,
+                        41.130657
+                  ]
+            },
+            {
+                  "name": "Fortino Sant'Antonio",
+                  "text": "Eine historische Verteidigungsanlage mit Panoramablick auf die Altstadt und das Meer.",
+                  "category": "castle",
+                  "coords": [
+                        16.87376,
+                        41.128256
+                  ]
+            },
+            {
+                  "name": "Scavi della Via Traiana",
+                  "text": "Archäologische Überreste der antiken römischen Straße, die Benevent mit Brindisi verband.",
+                  "category": "historical",
+                  "coords": [
+                        16.871859,
+                        41.126895
+                  ]
+            },
+            {
+                  "name": "Museo Diocesano",
+                  "text": "Das Museum beherbergt sakrale Kunst, liturgische Gegenstände und historische Dokumente der Diözese Bari.",
+                  "category": "museum",
+                  "coords": [
+                        16.868839,
+                        41.127953
+                  ]
+            },
+            {
+                  "name": "Teatro Margherita",
+                  "text": "Ein historisches Jugendstiltheater, das auf Pfählen über dem Wasser errichtet wurde und heute als Kunstraum dient.",
+                  "category": "cultural",
+                  "coords": [
+                        16.872837,
+                        41.126383
+                  ]
+            },
+            {
+                  "name": "Museo di Zoologia",
+                  "text": "Das Museum zeigt eine umfangreiche Sammlung der mediterranen Fauna und wissenschaftliche zoologische Exponate.",
+                  "category": "museum",
+                  "coords": [
+                        16.883711,
+                        41.110004
+                  ]
+            },
+            {
+                  "name": "Pane e Pomodoro",
+                  "text": "Ein beliebter öffentlicher Sandstrand in Bari, ideal zum Schwimmen und für Spaziergänge an der Strandpromenade.",
+                  "category": "recreational",
+                  "coords": [
+                        16.892083,
+                        41.118269
+                  ]
+            },
+            {
+                  "name": "Museo del Castello",
+                  "text": "Dieses im Stauferkastell untergebrachte Museum zeigt Gipsabgüsse und mittelalterliche archäologische Funde.",
+                  "category": "museum",
+                  "coords": [
+                        16.866454,
+                        41.128577
+                  ]
+            },
+            {
+                  "name": "Erbario di Villa la rocca",
+                  "text": "Ein botanisches Museum und Herbarium, das eine bedeutende Sammlung getrockneter Pflanzenproben bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        16.880626,
+                        41.1116
+                  ]
+            },
+            {
+                  "name": "Museo dei pigmenti naturali colorati - Centro d'Arte Santa Teresa dei Maschi",
+                  "text": "Dieses Kunstzentrum im ehemaligen Kloster widmet sich natürlichen Farbpigmenten.",
+                  "category": "museum",
+                  "coords": [
+                        16.870278,
+                        41.127711
+                  ]
+            },
+            {
+                  "name": "Ipogeo Via Omodeo",
+                  "text": "Diese unterirdische Begräbnisstätte in Bari bietet Einblicke in antike Bestattungsriten.",
+                  "category": "historical",
+                  "coords": [
+                        16.880137,
+                        41.105485
+                  ]
+            },
+            {
+                  "name": "Villa giardino dei Semplici Dip Agraria",
+                  "text": "Ein botanischer Garten und Museum, das zur landwirtschaftlichen Abteilung in Bari gehört.",
+                  "category": "museum",
+                  "coords": [
+                        16.881588,
+                        41.111385
+                  ]
+            },
+            {
+                  "name": "Faro Borbonico",
+                  "text": "Ein historischer Leuchtturm am Hafen von Bari, der im 19. Jahrhundert erbaut wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        16.861433,
+                        41.136954
+                  ]
+            },
+            {
+                  "name": "Arco delle meraviglie",
+                  "text": "Ein malerischer Bogen in der Altstadt von Bari, der mit einer lokalen Legende verbunden ist.",
+                  "category": "historical",
+                  "coords": [
+                        16.870064,
+                        41.129058
+                  ]
+            },
+            {
+                  "name": "Ala di Bronzo",
+                  "text": "Ein Denkmal in Bari, das als künstlerisches Element im öffentlichen Raum dient.",
+                  "category": "historical",
+                  "coords": [
+                        16.874484,
+                        41.102609
+                  ]
+            },
+            {
+                  "name": "Monumento agli invalidi del lavoro",
+                  "text": "Dieses Denkmal in Bari ist den Opfern von Arbeitsunfällen gewidmet.",
+                  "category": "historical",
+                  "coords": [
+                        16.862602,
+                        41.125632
+                  ]
+            },
+            {
+                  "name": "Basilica di Santa Fara",
+                  "text": "Moderne Basilika in Bari, die der Heiligen Fara gewidmet ist und als religiöses Zentrum dient.",
+                  "category": "religious",
+                  "coords": [
+                        16.848504,
+                        41.101211
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Domenico",
+                  "text": "Historische Kirche San Domenico im Viertel San Pasquale in Bari, bekannt für ihre Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        16.8671,
+                        41.126612
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo di Scienze della Terra di Bari",
+                  "text": "Bari földtudományi múzeuma, amely gazdag ásvány- és fosszíliagyűjteményt mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        16.880315,
+                        41.109664
+                  ]
+            },
+            {
+                  "name": "Museo Collezione di Fisica",
+                  "text": "Bari fizikai gyűjteménye, amely történelmi műszereket és kísérleti eszközöket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        16.88355,
+                        41.1082
+                  ]
+            },
+            {
+                  "name": "Museo Archeologico di Santa Scolastica",
+                  "text": "Bari jelentős régészeti múzeuma, amely a volt Santa Scolastica kolostor épületében található.",
+                  "category": "museum",
+                  "coords": [
+                        16.87096,
+                        41.132152
+                  ]
+            },
+            {
+                  "name": "Pinacoteca Metropolitana \"Corrado Giaquinto\"",
+                  "text": "Bari fővárosi képtára, amely a középkortól napjainkig őriz jelentős műalkotásokat.",
+                  "category": "museum",
+                  "coords": [
+                        16.88123,
+                        41.121393
+                  ]
+            },
+            {
+                  "name": "Museo Nicolaiano",
+                  "text": "Bari védőszentje, Szent Miklós életét és ereklyéit bemutató múzeum a bazilika közelében.",
+                  "category": "museum",
+                  "coords": [
+                        16.870683,
+                        41.130657
+                  ]
+            },
+            {
+                  "name": "Fortino Sant'Antonio",
+                  "text": "Történelmi védmű az óváros szélén, ahonnan panorámás kilátás nyílik az Adriai-tengerre.",
+                  "category": "castle",
+                  "coords": [
+                        16.87376,
+                        41.128256
+                  ]
+            },
+            {
+                  "name": "Scavi della Via Traiana",
+                  "text": "Az ókori római út, a Via Traiana maradványai, amely egykor Beneventót kötötte össze Brindisivel.",
+                  "category": "historical",
+                  "coords": [
+                        16.871859,
+                        41.126895
+                  ]
+            },
+            {
+                  "name": "Museo Diocesano",
+                  "text": "Az egyházmegyei múzeum szakrális művészeti alkotásokat és liturgikus tárgyakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        16.868839,
+                        41.127953
+                  ]
+            },
+            {
+                  "name": "Teatro Margherita",
+                  "text": "Vízen álló cölöpökre épült szecessziós színházépület, amely ma kortárs művészeti kiállításoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        16.872837,
+                        41.126383
+                  ]
+            },
+            {
+                  "name": "Museo di Zoologia",
+                  "text": "A múzeum a mediterrán élővilág és különböző állatfajok tudományos gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        16.883711,
+                        41.110004
+                  ]
+            },
+            {
+                  "name": "Pane e Pomodoro",
+                  "text": "Bari népszerű szabadstrandja, amely finom homokos parttal és sétánnyal várja a látogatókat.",
+                  "category": "recreational",
+                  "coords": [
+                        16.892083,
+                        41.118269
+                  ]
+            },
+            {
+                  "name": "Museo del Castello",
+                  "text": "A Bari vár falai között működő múzeum gipszöntvényeket és középkori régészeti leleteket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        16.866454,
+                        41.128577
+                  ]
+            },
+            {
+                  "name": "Erbario di Villa la rocca",
+                  "text": "Botanikai múzeum és herbárium, amely szárított növényritkaságok jelentős gyűjteményét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        16.880626,
+                        41.1116
+                  ]
+            },
+            {
+                  "name": "Museo dei pigmenti naturali colorati - Centro d'Arte Santa Teresa dei Maschi",
+                  "text": "Ez az egykori kolostorban működő művészeti központ a természetes színpigmenteknek szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        16.870278,
+                        41.127711
+                  ]
+            },
+            {
+                  "name": "Ipogeo Via Omodeo",
+                  "text": "Ez a bari föld alatti temetkezési hely bepillantást enged az ókori temetkezési rítusokba.",
+                  "category": "historical",
+                  "coords": [
+                        16.880137,
+                        41.105485
+                  ]
+            },
+            {
+                  "name": "Villa giardino dei Semplici Dip Agraria",
+                  "text": "Botanikus kert és múzeum, amely a bari mezőgazdasági tanszékhez tartozik.",
+                  "category": "museum",
+                  "coords": [
+                        16.881588,
+                        41.111385
+                  ]
+            },
+            {
+                  "name": "Faro Borbonico",
+                  "text": "Bari kikötőjének történelmi világítótornya, amely a 19. században épült.",
+                  "category": "landmark",
+                  "coords": [
+                        16.861433,
+                        41.136954
+                  ]
+            },
+            {
+                  "name": "Arco delle meraviglie",
+                  "text": "Gleccseres boltív Bari óvárosában, amely egy helyi legendához kapcsolódik.",
+                  "category": "historical",
+                  "coords": [
+                        16.870064,
+                        41.129058
+                  ]
+            },
+            {
+                  "name": "Ala di Bronzo",
+                  "text": "Emlékmű Bariban, amely művészeti elemként szolgál a közterületen.",
+                  "category": "historical",
+                  "coords": [
+                        16.874484,
+                        41.102609
+                  ]
+            },
+            {
+                  "name": "Monumento agli invalidi del lavoro",
+                  "text": "Ez a bari emlékmű a munkahelyi balesetek áldozatainak van szentelve.",
+                  "category": "historical",
+                  "coords": [
+                        16.862602,
+                        41.125632
+                  ]
+            },
+            {
+                  "name": "Basilica di Santa Fara",
+                  "text": "Bari modern bazilikája, amelyet Szent Fara tiszteletére szenteltek és vallási központként működik.",
+                  "category": "religious",
+                  "coords": [
+                        16.848504,
+                        41.101211
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Domenico",
+                  "text": "Bari történelmi San Domenico temploma a San Pasquale negyedben, jellegzetes építészeti stílussal.",
+                  "category": "religious",
+                  "coords": [
+                        16.8671,
+                        41.126612
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo di Scienze della Terra di Bari",
+                  "text": "Muzeul de Științe ale Pământului din Bari prezintă o colecție vastă de minerale și fosile.",
+                  "category": "museum",
+                  "coords": [
+                        16.880315,
+                        41.109664
+                  ]
+            },
+            {
+                  "name": "Museo Collezione di Fisica",
+                  "text": "O colecție științifică din Bari care expune instrumente istorice și experimente de fizică.",
+                  "category": "museum",
+                  "coords": [
+                        16.88355,
+                        41.1082
+                  ]
+            },
+            {
+                  "name": "Museo Archeologico di Santa Scolastica",
+                  "text": "Un important muzeu arheologic din Bari, situat în fosta mănăstire Santa Scolastica.",
+                  "category": "museum",
+                  "coords": [
+                        16.87096,
+                        41.132152
+                  ]
+            },
+            {
+                  "name": "Pinacoteca Metropolitana \"Corrado Giaquinto\"",
+                  "text": "Pinacoteca Metropolitană din Bari expune opere de artă importante din Evul Mediu până în prezent.",
+                  "category": "museum",
+                  "coords": [
+                        16.88123,
+                        41.121393
+                  ]
+            },
+            {
+                  "name": "Museo Nicolaiano",
+                  "text": "Un muzeu dedicat vieții și relicvelor Sfântului Nicolae, patronul orașului Bari.",
+                  "category": "museum",
+                  "coords": [
+                        16.870683,
+                        41.130657
+                  ]
+            },
+            {
+                  "name": "Fortino Sant'Antonio",
+                  "text": "O fortificație defensivă istorică ce oferă o vedere panoramică asupra centrului vechi și a mării.",
+                  "category": "castle",
+                  "coords": [
+                        16.87376,
+                        41.128256
+                  ]
+            },
+            {
+                  "name": "Scavi della Via Traiana",
+                  "text": "Vestigii arheologice ale vechiului drum roman care lega orașul Benevento de Brindisi.",
+                  "category": "historical",
+                  "coords": [
+                        16.871859,
+                        41.126895
+                  ]
+            },
+            {
+                  "name": "Museo Diocesano",
+                  "text": "Muzeul găzduiește artă sacră, obiecte liturgice și documente istorice din dieceza de Bari.",
+                  "category": "museum",
+                  "coords": [
+                        16.868839,
+                        41.127953
+                  ]
+            },
+            {
+                  "name": "Teatro Margherita",
+                  "text": "Un teatru istoric în stil Art Nouveau construit pe piloni deasupra apei, folosit acum ca spațiu de artă contemporană.",
+                  "category": "cultural",
+                  "coords": [
+                        16.872837,
+                        41.126383
+                  ]
+            },
+            {
+                  "name": "Museo di Zoologia",
+                  "text": "Muzeul expune o colecție vastă de faună mediteraneană și specimene zoologice științifice.",
+                  "category": "museum",
+                  "coords": [
+                        16.883711,
+                        41.110004
+                  ]
+            },
+            {
+                  "name": "Pane e Pomodoro",
+                  "text": "O plajă publică populară cu nisip din Bari, ideală pentru înot și plimbări pe faleză.",
+                  "category": "recreational",
+                  "coords": [
+                        16.892083,
+                        41.118269
+                  ]
+            },
+            {
+                  "name": "Museo del Castello",
+                  "text": "Situat în interiorul Castelului Șvab, acest muzeu prezintă mulaje din ghips și descoperiri arheologice medievale.",
+                  "category": "museum",
+                  "coords": [
+                        16.866454,
+                        41.128577
+                  ]
+            },
+            {
+                  "name": "Erbario di Villa la rocca",
+                  "text": "Un muzeu botanic și ierbar care păstrează o colecție semnificativă de specimene de plante uscate.",
+                  "category": "museum",
+                  "coords": [
+                        16.880626,
+                        41.1116
+                  ]
+            },
+            {
+                  "name": "Museo dei pigmenti naturali colorati - Centro d'Arte Santa Teresa dei Maschi",
+                  "text": "Acest centru de artă situat într-o fostă mănăstire este dedicat pigmenților colorați naturali.",
+                  "category": "museum",
+                  "coords": [
+                        16.870278,
+                        41.127711
+                  ]
+            },
+            {
+                  "name": "Ipogeo Via Omodeo",
+                  "text": "Acest lăcaș de cult subteran din Bari oferă perspective asupra riturilor funerare antice.",
+                  "category": "historical",
+                  "coords": [
+                        16.880137,
+                        41.105485
+                  ]
+            },
+            {
+                  "name": "Villa giardino dei Semplici Dip Agraria",
+                  "text": "O grădină botanică și muzeu aparținând departamentului de agricultură din Bari.",
+                  "category": "museum",
+                  "coords": [
+                        16.881588,
+                        41.111385
+                  ]
+            },
+            {
+                  "name": "Faro Borbonico",
+                  "text": "Un far istoric din portul Bari, construit în secolul al XIX-lea.",
+                  "category": "landmark",
+                  "coords": [
+                        16.861433,
+                        41.136954
+                  ]
+            },
+            {
+                  "name": "Arco delle meraviglie",
+                  "text": "Un arc pitoresc din orașul vechi Bari, legat de o legendă locală.",
+                  "category": "historical",
+                  "coords": [
+                        16.870064,
+                        41.129058
+                  ]
+            },
+            {
+                  "name": "Ala di Bronzo",
+                  "text": "Un monument din Bari care servește ca element artistic în spațiul public.",
+                  "category": "historical",
+                  "coords": [
+                        16.874484,
+                        41.102609
+                  ]
+            },
+            {
+                  "name": "Monumento agli invalidi del lavoro",
+                  "text": "Acest monument din Bari este dedicat victimelor accidentelor de muncă.",
+                  "category": "historical",
+                  "coords": [
+                        16.862602,
+                        41.125632
+                  ]
+            },
+            {
+                  "name": "Basilica di Santa Fara",
+                  "text": "Bazilica modernă din Bari, dedicată Sfintei Fara, servind ca important centru religios local.",
+                  "category": "religious",
+                  "coords": [
+                        16.848504,
+                        41.101211
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Domenico",
+                  "text": "Biserica istorică San Domenico din Bari, situată în cartierul San Pasquale, remarcabilă prin arhitectura sa.",
+                  "category": "religious",
+                  "coords": [
+                        16.8671,
+                        41.126612
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo di Scienze della Terra di Bari",
+                  "text": "The Earth Sciences Museum in Bari displays an extensive collection of minerals and fossils.",
+                  "category": "museum",
+                  "coords": [
+                        16.880315,
+                        41.109664
+                  ]
+            },
+            {
+                  "name": "Museo Collezione di Fisica",
+                  "text": "A scientific collection in Bari showcasing historical instruments and physics experiments.",
+                  "category": "museum",
+                  "coords": [
+                        16.88355,
+                        41.1082
+                  ]
+            },
+            {
+                  "name": "Museo Archeologico di Santa Scolastica",
+                  "text": "An important archaeological museum in Bari, housed in the former Santa Scolastica monastery.",
+                  "category": "museum",
+                  "coords": [
+                        16.87096,
+                        41.132152
+                  ]
+            },
+            {
+                  "name": "Pinacoteca Metropolitana \"Corrado Giaquinto\"",
+                  "text": "The Metropolitan Picture Gallery of Bari exhibits significant artworks from the Middle Ages to the present.",
+                  "category": "museum",
+                  "coords": [
+                        16.88123,
+                        41.121393
+                  ]
+            },
+            {
+                  "name": "Museo Nicolaiano",
+                  "text": "A museum dedicated to the life and relics of Saint Nicholas, the patron saint of Bari.",
+                  "category": "museum",
+                  "coords": [
+                        16.870683,
+                        41.130657
+                  ]
+            },
+            {
+                  "name": "Fortino Sant'Antonio",
+                  "text": "A historic defensive fortification offering a panoramic view over the old town and the sea.",
+                  "category": "castle",
+                  "coords": [
+                        16.87376,
+                        41.128256
+                  ]
+            },
+            {
+                  "name": "Scavi della Via Traiana",
+                  "text": "Archaeological remains of the ancient Roman road that connected Benevento to Brindisi.",
+                  "category": "historical",
+                  "coords": [
+                        16.871859,
+                        41.126895
+                  ]
+            },
+            {
+                  "name": "Museo Diocesano",
+                  "text": "The museum houses sacred art, liturgical objects, and historical documents from the Bari diocese.",
+                  "category": "museum",
+                  "coords": [
+                        16.868839,
+                        41.127953
+                  ]
+            },
+            {
+                  "name": "Teatro Margherita",
+                  "text": "A historic Art Nouveau theatre built on stilts over the water, now used as a contemporary art space.",
+                  "category": "cultural",
+                  "coords": [
+                        16.872837,
+                        41.126383
+                  ]
+            },
+            {
+                  "name": "Museo di Zoologia",
+                  "text": "The museum exhibits a vast collection of Mediterranean fauna and scientific zoological specimens.",
+                  "category": "museum",
+                  "coords": [
+                        16.883711,
+                        41.110004
+                  ]
+            },
+            {
+                  "name": "Pane e Pomodoro",
+                  "text": "A popular public sandy beach in Bari, ideal for swimming and walking along the Lungomare.",
+                  "category": "recreational",
+                  "coords": [
+                        16.892083,
+                        41.118269
+                  ]
+            },
+            {
+                  "name": "Museo del Castello",
+                  "text": "Located within the Swabian Castle, this museum features plaster casts and medieval archaeological finds.",
+                  "category": "museum",
+                  "coords": [
+                        16.866454,
+                        41.128577
+                  ]
+            },
+            {
+                  "name": "Erbario di Villa la rocca",
+                  "text": "A botanical museum and herbarium preserving a significant collection of dried plant specimens.",
+                  "category": "museum",
+                  "coords": [
+                        16.880626,
+                        41.1116
+                  ]
+            },
+            {
+                  "name": "Museo dei pigmenti naturali colorati - Centro d'Arte Santa Teresa dei Maschi",
+                  "text": "This art center in a former monastery is dedicated to natural color pigments.",
+                  "category": "museum",
+                  "coords": [
+                        16.870278,
+                        41.127711
+                  ]
+            },
+            {
+                  "name": "Ipogeo Via Omodeo",
+                  "text": "This underground burial site in Bari offers insights into ancient funeral rites.",
+                  "category": "historical",
+                  "coords": [
+                        16.880137,
+                        41.105485
+                  ]
+            },
+            {
+                  "name": "Villa giardino dei Semplici Dip Agraria",
+                  "text": "A botanical garden and museum belonging to the agricultural department in Bari.",
+                  "category": "museum",
+                  "coords": [
+                        16.881588,
+                        41.111385
+                  ]
+            },
+            {
+                  "name": "Faro Borbonico",
+                  "text": "A historical lighthouse at the port of Bari, built in the 19th century.",
+                  "category": "landmark",
+                  "coords": [
+                        16.861433,
+                        41.136954
+                  ]
+            },
+            {
+                  "name": "Arco delle meraviglie",
+                  "text": "A picturesque arch in Bari's old town associated with a local legend.",
+                  "category": "historical",
+                  "coords": [
+                        16.870064,
+                        41.129058
+                  ]
+            },
+            {
+                  "name": "Ala di Bronzo",
+                  "text": "A monument in Bari that serves as an artistic element in the public space.",
+                  "category": "historical",
+                  "coords": [
+                        16.874484,
+                        41.102609
+                  ]
+            },
+            {
+                  "name": "Monumento agli invalidi del lavoro",
+                  "text": "This monument in Bari is dedicated to the victims of workplace accidents.",
+                  "category": "historical",
+                  "coords": [
+                        16.862602,
+                        41.125632
+                  ]
+            },
+            {
+                  "name": "Basilica di Santa Fara",
+                  "text": "Modern basilica in Bari dedicated to Saint Fara, serving as a significant local religious center.",
+                  "category": "religious",
+                  "coords": [
+                        16.848504,
+                        41.101211
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Domenico",
+                  "text": "Historic San Domenico church in the San Pasquale district of Bari, noted for its architecture.",
+                  "category": "religious",
+                  "coords": [
+                        16.8671,
+                        41.126612
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IT-75",
     coords: [16.866, 41.117],
@@ -3073,6 +3874,186 @@ export const italyCities: POI[] = [
                         12.390425,
                         43.112677
                   ]
+            },
+            {
+                  "name": "Teatro di figura del Borgobello",
+                  "text": "Ein auf Figurentheater und Puppenspiel spezialisiertes Theater im Stadtteil Borgobello.",
+                  "category": "cultural",
+                  "coords": [
+                        12.391492,
+                        43.106486
+                  ]
+            },
+            {
+                  "name": "Centro della Scienza P.O.S.T.",
+                  "text": "Ein interaktives Wissenschaftszentrum, das Technik und Naturwissenschaften anschaulich vermittelt.",
+                  "category": "museum",
+                  "coords": [
+                        12.392284,
+                        43.11442
+                  ]
+            },
+            {
+                  "name": "Museo civico di Palazzo della Penna-Centro di Cultura Contemporanea",
+                  "text": "Ein Museum für zeitgenössische Kultur in einem Palast aus dem 16. Jahrhundert.",
+                  "category": "museum",
+                  "coords": [
+                        12.389462,
+                        43.107816
+                  ]
+            },
+            {
+                  "name": "Museo del Capitolo della cattedrale di San Lorenzo",
+                  "text": "Das Dommuseum von San Lorenzo zeigt religiöse Kunst und archäologische Funde.",
+                  "category": "museum",
+                  "coords": [
+                        12.388499,
+                        43.112314
+                  ]
+            },
+            {
+                  "name": "Cappella di San Severo",
+                  "text": "Eine Kapelle, die für ihre Fresken von Raffael und Perugino bekannt ist.",
+                  "category": "museum",
+                  "coords": [
+                        12.392241,
+                        43.112881
+                  ]
+            },
+            {
+                  "name": "Museo Giuditta Brozzetti",
+                  "text": "Eine historische Werkstatt für Handweberei in einer ehemaligen Kirche aus dem 13. Jahrhundert.",
+                  "category": "museum",
+                  "coords": [
+                        12.383757,
+                        43.11742
+                  ]
+            },
+            {
+                  "name": "Teatro Morlacchi",
+                  "text": "Das größte Theater von Perugia, erbaut im späten 18. Jahrhundert.",
+                  "category": "cultural",
+                  "coords": [
+                        12.386793,
+                        43.113457
+                  ]
+            },
+            {
+                  "name": "Collegio del Cambio",
+                  "text": "Der ehemalige Sitz der Geldwechslerzunft mit bedeutenden Fresken von Perugino.",
+                  "category": "museum",
+                  "coords": [
+                        12.388362,
+                        43.111273
+                  ]
+            },
+            {
+                  "name": "Mosaico di Orfeo e le fiere",
+                  "text": "Ein antikes römisches Mosaik in Perugia, das Orpheus inmitten von wilden Tieren darstellt.",
+                  "category": "historical",
+                  "coords": [
+                        12.387544,
+                        43.115017
+                  ]
+            },
+            {
+                  "name": "Museo AC Perugia Carlo Giulietti",
+                  "text": "Ein Museum, das der Geschichte des Fußballvereins AC Perugia gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        12.3579,
+                        43.10707
+                  ]
+            },
+            {
+                  "name": "Museo del Giocattolo",
+                  "text": "Ein Spielzeugmuseum in Perugia mit einer Sammlung historischer Exponate aus verschiedenen Epochen.",
+                  "category": "museum",
+                  "coords": [
+                        12.363808,
+                        43.129128
+                  ]
+            },
+            {
+                  "name": "Studio Moretti Caselli - Museo-Laboratorio di Vetrate Artistiche",
+                  "text": "Ein historisches Atelier und Museum, das sich der Kunst der Glasmalerei in Perugia widmet.",
+                  "category": "museum",
+                  "coords": [
+                        12.387314,
+                        43.107897
+                  ]
+            },
+            {
+                  "name": "Museo dell'Academia Perugia",
+                  "text": "Ein Museum in Perugia, das Kunstwerke und historische Sammlungen der örtlichen Akademie präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        12.381968,
+                        43.113873
+                  ]
+            },
+            {
+                  "name": "Torre del Cassero",
+                  "text": "Ein historischer Turm in Perugia, der heute ein Museum beherbergt und einen Blick auf die Stadt bietet.",
+                  "category": "museum",
+                  "coords": [
+                        12.384623,
+                        43.119561
+                  ]
+            },
+            {
+                  "name": "Casa museo degli Oddi",
+                  "text": "Ein historisches Hausmuseum in Perugia, das Einblicke in das Leben einer lokalen Adelsfamilie bietet.",
+                  "category": "museum",
+                  "coords": [
+                        12.385407,
+                        43.112422
+                  ]
+            },
+            {
+                  "name": "Porta Sole",
+                  "text": "Ein Aussichtspunkt am höchsten Punkt von Perugia mit weitem Blick über die Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        12.390677,
+                        43.113852
+                  ]
+            },
+            {
+                  "name": "Giardini del Frontone",
+                  "text": "Der älteste öffentliche Garten in Perugia, bekannt für seine klassischen Statuen.",
+                  "category": "park",
+                  "coords": [
+                        12.395091,
+                        43.100588
+                  ]
+            },
+            {
+                  "name": "Palazzo del Capitano del Popolo",
+                  "text": "Ein gotischer Palast aus dem 15. Jahrhundert, der einst Sitz der Stadtverwaltung war.",
+                  "category": "historical",
+                  "coords": [
+                        12.389925,
+                        43.111107
+                  ]
+            },
+            {
+                  "name": "Orto Botanico dell'Università di Perugia",
+                  "text": "Der botanische Garten der Universität Perugia mit einer Vielzahl von Pflanzenarten.",
+                  "category": "park",
+                  "coords": [
+                        12.396686,
+                        43.097211
+                  ]
+            },
+            {
+                  "name": "Basilica di San Pietro",
+                  "text": "Eine historische Basilika und ein Benediktinerkloster mit einer reichen Kunstsammlung.",
+                  "category": "religious",
+                  "coords": [
+                        12.395716,
+                        43.101549
+                  ]
             }
       ],
       "hu": [
@@ -3092,6 +4073,186 @@ export const italyCities: POI[] = [
                   "coords": [
                         12.390425,
                         43.112677
+                  ]
+            },
+            {
+                  "name": "Teatro di figura del Borgobello",
+                  "text": "Bábszínházi előadásokra szakosodott intézmény a Borgobello negyedben.",
+                  "category": "cultural",
+                  "coords": [
+                        12.391492,
+                        43.106486
+                  ]
+            },
+            {
+                  "name": "Centro della Scienza P.O.S.T.",
+                  "text": "Interaktív tudományos központ, amely a technológiát és a természettudományokat mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        12.392284,
+                        43.11442
+                  ]
+            },
+            {
+                  "name": "Museo civico di Palazzo della Penna-Centro di Cultura Contemporanea",
+                  "text": "Kortárs kulturális központ és múzeum egy 16. századi palota épületében.",
+                  "category": "museum",
+                  "coords": [
+                        12.389462,
+                        43.107816
+                  ]
+            },
+            {
+                  "name": "Museo del Capitolo della cattedrale di San Lorenzo",
+                  "text": "A San Lorenzo-székesegyház múzeuma vallási műtárgyakat és régészeti leleteket őriz.",
+                  "category": "museum",
+                  "coords": [
+                        12.388499,
+                        43.112314
+                  ]
+            },
+            {
+                  "name": "Cappella di San Severo",
+                  "text": "Kápolna, amely Raffaello és Perugino közös freskójáról híres.",
+                  "category": "museum",
+                  "coords": [
+                        12.392241,
+                        43.112881
+                  ]
+            },
+            {
+                  "name": "Museo Giuditta Brozzetti",
+                  "text": "Történelmi kézi szövőműhely és múzeum egy 13. századi templom épületében.",
+                  "category": "museum",
+                  "coords": [
+                        12.383757,
+                        43.11742
+                  ]
+            },
+            {
+                  "name": "Teatro Morlacchi",
+                  "text": "Perugia legnagyobb színháza, amely a 18. század végén épült.",
+                  "category": "cultural",
+                  "coords": [
+                        12.386793,
+                        43.113457
+                  ]
+            },
+            {
+                  "name": "Collegio del Cambio",
+                  "text": "A pénzváltók céhének egykori székháza Perugino híres freskóival.",
+                  "category": "museum",
+                  "coords": [
+                        12.388362,
+                        43.111273
+                  ]
+            },
+            {
+                  "name": "Mosaico di Orfeo e le fiere",
+                  "text": "Ókori római mozaik Perugiában, amely Orfeuszt ábrázolja vadállatok körében.",
+                  "category": "historical",
+                  "coords": [
+                        12.387544,
+                        43.115017
+                  ]
+            },
+            {
+                  "name": "Museo AC Perugia Carlo Giulietti",
+                  "text": "Az AC Perugia labdarúgócsapat történetének szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        12.3579,
+                        43.10707
+                  ]
+            },
+            {
+                  "name": "Museo del Giocattolo",
+                  "text": "Játékmúzeum Perugiában, amely különböző korszakokból származó történelmi darabokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        12.363808,
+                        43.129128
+                  ]
+            },
+            {
+                  "name": "Studio Moretti Caselli - Museo-Laboratorio di Vetrate Artistiche",
+                  "text": "Történelmi műhely és múzeum, amely az üvegfestés művészetének van szentelve Perugiában.",
+                  "category": "museum",
+                  "coords": [
+                        12.387314,
+                        43.107897
+                  ]
+            },
+            {
+                  "name": "Museo dell'Academia Perugia",
+                  "text": "Perugiai múzeum, amely a helyi akadémia műalkotásait és történelmi gyűjteményeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        12.381968,
+                        43.113873
+                  ]
+            },
+            {
+                  "name": "Torre del Cassero",
+                  "text": "Történelmi torony Perugiában, amely ma múzeumnak ad otthont, és kilátást nyújt a városra.",
+                  "category": "museum",
+                  "coords": [
+                        12.384623,
+                        43.119561
+                  ]
+            },
+            {
+                  "name": "Casa museo degli Oddi",
+                  "text": "Történelmi házmúzeum Perugiában, amely betekintést nyújt egy helyi nemesi család életébe.",
+                  "category": "museum",
+                  "coords": [
+                        12.385407,
+                        43.112422
+                  ]
+            },
+            {
+                  "name": "Porta Sole",
+                  "text": "Kilátópont Perugia legmagasabb pontján, ahonnan remek rálátás nyílik a városra.",
+                  "category": "natural",
+                  "coords": [
+                        12.390677,
+                        43.113852
+                  ]
+            },
+            {
+                  "name": "Giardini del Frontone",
+                  "text": "Perugia legrégebbi közparkja, amely klasszikus szobrairól és árnyas sétányairól ismert.",
+                  "category": "park",
+                  "coords": [
+                        12.395091,
+                        43.100588
+                  ]
+            },
+            {
+                  "name": "Palazzo del Capitano del Popolo",
+                  "text": "15. századi gótikus palota, amely egykor a városi kapitány székhelye volt.",
+                  "category": "historical",
+                  "coords": [
+                        12.389925,
+                        43.111107
+                  ]
+            },
+            {
+                  "name": "Orto Botanico dell'Università di Perugia",
+                  "text": "A Perugiai Egyetem botanikus kertje, amely változatos növényfajoknak ad otthont.",
+                  "category": "park",
+                  "coords": [
+                        12.396686,
+                        43.097211
+                  ]
+            },
+            {
+                  "name": "Basilica di San Pietro",
+                  "text": "Történelmi bazilika és bencés kolostor gazdag művészeti gyűjteménnyel.",
+                  "category": "religious",
+                  "coords": [
+                        12.395716,
+                        43.101549
                   ]
             }
       ],
@@ -3113,6 +4274,186 @@ export const italyCities: POI[] = [
                         12.390425,
                         43.112677
                   ]
+            },
+            {
+                  "name": "Teatro di figura del Borgobello",
+                  "text": "Un teatru specializat în spectacole de păpuși situat în cartierul Borgobello.",
+                  "category": "cultural",
+                  "coords": [
+                        12.391492,
+                        43.106486
+                  ]
+            },
+            {
+                  "name": "Centro della Scienza P.O.S.T.",
+                  "text": "Un centru de știință interactiv dedicat tehnologiei și fenomenelor naturale.",
+                  "category": "museum",
+                  "coords": [
+                        12.392284,
+                        43.11442
+                  ]
+            },
+            {
+                  "name": "Museo civico di Palazzo della Penna-Centro di Cultura Contemporanea",
+                  "text": "Un muzeu de cultură contemporană găzduit într-un palat din secolul al XVI-lea.",
+                  "category": "museum",
+                  "coords": [
+                        12.389462,
+                        43.107816
+                  ]
+            },
+            {
+                  "name": "Museo del Capitolo della cattedrale di San Lorenzo",
+                  "text": "Muzeul Catedralei San Lorenzo expune artă religioasă și descoperiri arheologice.",
+                  "category": "museum",
+                  "coords": [
+                        12.388499,
+                        43.112314
+                  ]
+            },
+            {
+                  "name": "Cappella di San Severo",
+                  "text": "O capelă faimoasă pentru frescele realizate de Rafael și Perugino.",
+                  "category": "museum",
+                  "coords": [
+                        12.392241,
+                        43.112881
+                  ]
+            },
+            {
+                  "name": "Museo Giuditta Brozzetti",
+                  "text": "Un atelier istoric de țesut manual situat în incinta unei foste biserici din secolul al XIII-lea.",
+                  "category": "museum",
+                  "coords": [
+                        12.383757,
+                        43.11742
+                  ]
+            },
+            {
+                  "name": "Teatro Morlacchi",
+                  "text": "Cel mai mare teatru din Perugia, construit la sfârșitul secolului al XVIII-lea.",
+                  "category": "cultural",
+                  "coords": [
+                        12.386793,
+                        43.113457
+                  ]
+            },
+            {
+                  "name": "Collegio del Cambio",
+                  "text": "Fostul sediu al breslei schimbătorilor de bani, decorat cu fresce de Perugino.",
+                  "category": "museum",
+                  "coords": [
+                        12.388362,
+                        43.111273
+                  ]
+            },
+            {
+                  "name": "Mosaico di Orfeo e le fiere",
+                  "text": "Un mozaic roman antic din Perugia, care îl înfățișează pe Orfeu înconjurat de fiare sălbatice.",
+                  "category": "historical",
+                  "coords": [
+                        12.387544,
+                        43.115017
+                  ]
+            },
+            {
+                  "name": "Museo AC Perugia Carlo Giulietti",
+                  "text": "Un muzeu dedicat istoriei clubului de fotbal AC Perugia.",
+                  "category": "museum",
+                  "coords": [
+                        12.3579,
+                        43.10707
+                  ]
+            },
+            {
+                  "name": "Museo del Giocattolo",
+                  "text": "Un muzeu al jucăriilor din Perugia, cu o colecție de exponate istorice din diferite epoci.",
+                  "category": "museum",
+                  "coords": [
+                        12.363808,
+                        43.129128
+                  ]
+            },
+            {
+                  "name": "Studio Moretti Caselli - Museo-Laboratorio di Vetrate Artistiche",
+                  "text": "Un atelier și muzeu istoric dedicat artei vitraliilor din Perugia.",
+                  "category": "museum",
+                  "coords": [
+                        12.387314,
+                        43.107897
+                  ]
+            },
+            {
+                  "name": "Museo dell'Academia Perugia",
+                  "text": "Un muzeu din Perugia care prezintă opere de artă și colecții istorice ale academiei locale.",
+                  "category": "museum",
+                  "coords": [
+                        12.381968,
+                        43.113873
+                  ]
+            },
+            {
+                  "name": "Torre del Cassero",
+                  "text": "Un turn istoric din Perugia, care astăzi găzduiește un muzeu și oferă o vedere asupra orașului.",
+                  "category": "museum",
+                  "coords": [
+                        12.384623,
+                        43.119561
+                  ]
+            },
+            {
+                  "name": "Casa museo degli Oddi",
+                  "text": "O casă muzeu istorică din Perugia, care oferă o privire asupra vieții unei familii nobile locale.",
+                  "category": "museum",
+                  "coords": [
+                        12.385407,
+                        43.112422
+                  ]
+            },
+            {
+                  "name": "Porta Sole",
+                  "text": "Un punct de belvedere situat în cel mai înalt punct din Perugia, oferind vederi panoramice.",
+                  "category": "natural",
+                  "coords": [
+                        12.390677,
+                        43.113852
+                  ]
+            },
+            {
+                  "name": "Giardini del Frontone",
+                  "text": "Cea mai veche grădină publică din Perugia, cunoscută pentru statuile sale clasice.",
+                  "category": "park",
+                  "coords": [
+                        12.395091,
+                        43.100588
+                  ]
+            },
+            {
+                  "name": "Palazzo del Capitano del Popolo",
+                  "text": "Un palat gotic din secolul al XV-lea, care a servit drept sediu al căpitanului poporului.",
+                  "category": "historical",
+                  "coords": [
+                        12.389925,
+                        43.111107
+                  ]
+            },
+            {
+                  "name": "Orto Botanico dell'Università di Perugia",
+                  "text": "Grădina botanică a Universității din Perugia, care găzduiește o varietate de specii de plante.",
+                  "category": "park",
+                  "coords": [
+                        12.396686,
+                        43.097211
+                  ]
+            },
+            {
+                  "name": "Basilica di San Pietro",
+                  "text": "O bazilică istorică și mănăstire benedictină cu o bogată colecție de artă.",
+                  "category": "religious",
+                  "coords": [
+                        12.395716,
+                        43.101549
+                  ]
             }
       ],
       "en": [
@@ -3132,6 +4473,186 @@ export const italyCities: POI[] = [
                   "coords": [
                         12.390425,
                         43.112677
+                  ]
+            },
+            {
+                  "name": "Teatro di figura del Borgobello",
+                  "text": "A theater specialized in puppet shows located in the Borgobello district.",
+                  "category": "cultural",
+                  "coords": [
+                        12.391492,
+                        43.106486
+                  ]
+            },
+            {
+                  "name": "Centro della Scienza P.O.S.T.",
+                  "text": "An interactive science center dedicated to technology and natural sciences.",
+                  "category": "museum",
+                  "coords": [
+                        12.392284,
+                        43.11442
+                  ]
+            },
+            {
+                  "name": "Museo civico di Palazzo della Penna-Centro di Cultura Contemporanea",
+                  "text": "A museum of contemporary culture housed in a 16th-century palace.",
+                  "category": "museum",
+                  "coords": [
+                        12.389462,
+                        43.107816
+                  ]
+            },
+            {
+                  "name": "Museo del Capitolo della cattedrale di San Lorenzo",
+                  "text": "The Cathedral Museum of San Lorenzo displays religious art and archaeological finds.",
+                  "category": "museum",
+                  "coords": [
+                        12.388499,
+                        43.112314
+                  ]
+            },
+            {
+                  "name": "Cappella di San Severo",
+                  "text": "A chapel famous for its frescoes painted by Raphael and Perugino.",
+                  "category": "museum",
+                  "coords": [
+                        12.392241,
+                        43.112881
+                  ]
+            },
+            {
+                  "name": "Museo Giuditta Brozzetti",
+                  "text": "A historical hand-weaving workshop and museum located in a 13th-century church.",
+                  "category": "museum",
+                  "coords": [
+                        12.383757,
+                        43.11742
+                  ]
+            },
+            {
+                  "name": "Teatro Morlacchi",
+                  "text": "The largest theater in Perugia, built in the late 18th century.",
+                  "category": "cultural",
+                  "coords": [
+                        12.386793,
+                        43.113457
+                  ]
+            },
+            {
+                  "name": "Collegio del Cambio",
+                  "text": "The former seat of the money changers' guild, decorated with frescoes by Perugino.",
+                  "category": "museum",
+                  "coords": [
+                        12.388362,
+                        43.111273
+                  ]
+            },
+            {
+                  "name": "Mosaico di Orfeo e le fiere",
+                  "text": "An ancient Roman mosaic in Perugia depicting Orpheus surrounded by wild beasts.",
+                  "category": "historical",
+                  "coords": [
+                        12.387544,
+                        43.115017
+                  ]
+            },
+            {
+                  "name": "Museo AC Perugia Carlo Giulietti",
+                  "text": "A museum dedicated to the history of the AC Perugia football club.",
+                  "category": "museum",
+                  "coords": [
+                        12.3579,
+                        43.10707
+                  ]
+            },
+            {
+                  "name": "Museo del Giocattolo",
+                  "text": "A toy museum in Perugia featuring a collection of historical exhibits from various eras.",
+                  "category": "museum",
+                  "coords": [
+                        12.363808,
+                        43.129128
+                  ]
+            },
+            {
+                  "name": "Studio Moretti Caselli - Museo-Laboratorio di Vetrate Artistiche",
+                  "text": "A historical studio and museum dedicated to the art of stained glass in Perugia.",
+                  "category": "museum",
+                  "coords": [
+                        12.387314,
+                        43.107897
+                  ]
+            },
+            {
+                  "name": "Museo dell'Academia Perugia",
+                  "text": "A museum in Perugia presenting artworks and historical collections of the local academy.",
+                  "category": "museum",
+                  "coords": [
+                        12.381968,
+                        43.113873
+                  ]
+            },
+            {
+                  "name": "Torre del Cassero",
+                  "text": "A historical tower in Perugia that now houses a museum and offers views over the city.",
+                  "category": "museum",
+                  "coords": [
+                        12.384623,
+                        43.119561
+                  ]
+            },
+            {
+                  "name": "Casa museo degli Oddi",
+                  "text": "A historical house museum in Perugia offering a glimpse into the life of a local noble family.",
+                  "category": "museum",
+                  "coords": [
+                        12.385407,
+                        43.112422
+                  ]
+            },
+            {
+                  "name": "Porta Sole",
+                  "text": "A viewpoint at the highest point of Perugia, offering panoramic views over the city.",
+                  "category": "natural",
+                  "coords": [
+                        12.390677,
+                        43.113852
+                  ]
+            },
+            {
+                  "name": "Giardini del Frontone",
+                  "text": "The oldest public garden in Perugia, known for its classical statues and shaded paths.",
+                  "category": "park",
+                  "coords": [
+                        12.395091,
+                        43.100588
+                  ]
+            },
+            {
+                  "name": "Palazzo del Capitano del Popolo",
+                  "text": "A 15th-century Gothic palace that once served as the seat of the Captain of the People.",
+                  "category": "historical",
+                  "coords": [
+                        12.389925,
+                        43.111107
+                  ]
+            },
+            {
+                  "name": "Orto Botanico dell'Università di Perugia",
+                  "text": "The botanical garden of the University of Perugia, home to a variety of plant species.",
+                  "category": "park",
+                  "coords": [
+                        12.396686,
+                        43.097211
+                  ]
+            },
+            {
+                  "name": "Basilica di San Pietro",
+                  "text": "A historic basilica and Benedictine monastery featuring a rich art collection.",
+                  "category": "religious",
+                  "coords": [
+                        12.395716,
+                        43.101549
                   ]
             }
       ]
@@ -3179,7 +4700,772 @@ export const italyCities: POI[] = [
     },
   },
   {
-    id: "it-ravenna",
+    id: "it-ravenna", "sights": {
+      "de": [
+            {
+                  "name": "MAR Museo d'Arte della città di Ravenna",
+                  "text": "Ravennas städtisches Kunstmuseum präsentiert bedeutende Werke vom 14. Jahrhundert bis heute.",
+                  "category": "museum",
+                  "coords": [
+                        12.206782,
+                        44.413859
+                  ]
+            },
+            {
+                  "name": "Museo Arcivescovile",
+                  "text": "Das Museum beherbergt den Elfenbeinthron von Maximian und kostbare frühchristliche Kunstschätze.",
+                  "category": "museum",
+                  "coords": [
+                        12.197763,
+                        44.415072
+                  ]
+            },
+            {
+                  "name": "Domus dei tappeti di pietra",
+                  "text": "Eine unterirdische archäologische Stätte mit prächtigen byzantinischen Bodenmosaiken aus dem 5. Jahrhundert.",
+                  "category": "museum",
+                  "coords": [
+                        12.194907,
+                        44.418811
+                  ]
+            },
+            {
+                  "name": "Museo del TAMO",
+                  "text": "Ein Mosaikmuseum in der Kirche San Nicolò, das die Geschichte dieser Kunstform dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        12.199941,
+                        44.413722
+                  ]
+            },
+            {
+                  "name": "Palazzo Mauro De André",
+                  "text": "Ein modernes Mehrzweckzentrum und Theater, das für Konzerte und große Kulturveranstaltungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        12.227725,
+                        44.421711
+                  ]
+            },
+            {
+                  "name": "La Casa delle Marionette",
+                  "text": "Ein Museum in Ravenna, das der traditionellen Kunst der Marionetten und Puppen sowie historischen Sammlungen gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        12.20085,
+                        44.41938
+                  ]
+            },
+            {
+                  "name": "Museo Byron",
+                  "text": "Dieses Museum dokumentiert das Leben und Werk des Dichters Lord Byron während seines Aufenthalts in Italien.",
+                  "category": "museum",
+                  "coords": [
+                        12.196951,
+                        44.418958
+                  ]
+            },
+            {
+                  "name": "Teatro Dante Alighieri",
+                  "text": "Ein im 19. Jahrhundert erbautes Opernhaus, das nach dem berühmten Dichter der Göttlichen Komödie benannt wurde.",
+                  "category": "cultural",
+                  "coords": [
+                        12.201044,
+                        44.417482
+                  ]
+            },
+            {
+                  "name": "Teatro Rasi",
+                  "text": "Ein historisches Theater, das in einer ehemaligen Kirche untergebracht ist und für zeitgenössische Aufführungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        12.205731,
+                        44.415598
+                  ]
+            },
+            {
+                  "name": "Porto romano di Classe",
+                  "text": "Eine archäologische Ausgrabungsstätte, die die Überreste des antiken römischen Militärhafens von Classe zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        12.219076,
+                        44.395265
+                  ]
+            },
+            {
+                  "name": "Rocca Brancaleone",
+                  "text": "Eine venezianische Festung aus dem 15. Jahrhundert, die heute einen öffentlichen Park und ein Freiluftkino beherbergt.",
+                  "category": "castle",
+                  "coords": [
+                        12.205876,
+                        44.422358
+                  ]
+            },
+            {
+                  "name": "Planetario",
+                  "text": "Ein astronomisches Zentrum im Stadtpark, das Projektionen des Sternenhimmels und wissenschaftliche Vorträge anbietet.",
+                  "category": "museum",
+                  "coords": [
+                        12.208325,
+                        44.413759
+                  ]
+            },
+            {
+                  "name": "Anita Garibaldi",
+                  "text": "Eine Statue zum Gedenken an Anita Garibaldi, die Ehefrau und Kampfgefährtin des Generals Giuseppe Garibaldi.",
+                  "category": "historical",
+                  "coords": [
+                        12.204343,
+                        44.418325
+                  ]
+            },
+            {
+                  "name": "Giardini Speyer",
+                  "text": "Öffentlicher Park in Ravenna, benannt nach der deutschen Partnerstadt Speyer.",
+                  "category": "park",
+                  "coords": [
+                        12.206257,
+                        44.418399
+                  ]
+            },
+            {
+                  "name": "Palazzo di Teodorico",
+                  "text": "Überreste eines antiken Gebäudes, das traditionell dem Palast von König Theoderich zugeordnet wird.",
+                  "category": "historical",
+                  "coords": [
+                        12.204624,
+                        44.416122
+                  ]
+            },
+            {
+                  "name": "Baptisterium der Arianer",
+                  "text": "Ein UNESCO-Weltkulturerbe aus dem 5. Jahrhundert mit gut erhaltenen byzantinischen Mosaiken.",
+                  "category": "historical",
+                  "coords": [
+                        12.202426,
+                        44.418697
+                  ]
+            },
+            {
+                  "name": "Parco Della Pace",
+                  "text": "Ein moderner Stadtpark in Ravenna, der für seine zeitgenössischen Mosaikkunstwerke bekannt ist.",
+                  "category": "park",
+                  "coords": [
+                        12.191005,
+                        44.406956
+                  ]
+            },
+            {
+                  "name": "Chiesa di Santa Maria del Torrione",
+                  "text": "Eine Kirche in Ravenna, die sich in der Nähe eines historischen Festungsturms befindet.",
+                  "category": "tower",
+                  "coords": [
+                        12.189707,
+                        44.415245
+                  ]
+            },
+            {
+                  "name": "Basilica di San Vitale",
+                  "text": "Ein Meisterwerk byzantinischer Kunst, berühmt für seine prächtigen Mosaike aus dem 6. Jahrhundert.",
+                  "category": "religious",
+                  "coords": [
+                        12.196346,
+                        44.420541
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Domenico",
+                  "text": "Eine historische Kirche im Zentrum von Ravenna, die im 13. Jahrhundert gegründet wurde.",
+                  "category": "religious",
+                  "coords": [
+                        12.198421,
+                        44.418489
+                  ]
+            },
+            {
+                  "name": "Basilica di San Francesco",
+                  "text": "Diese Kirche ist bekannt für ihre überflutete Krypta mit antiken Mosaikböden unter Wasser.",
+                  "category": "religious",
+                  "coords": [
+                        12.201174,
+                        44.415913
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "MAR Museo d'Arte della città di Ravenna",
+                  "text": "Ravenna városi művészeti múzeuma a 14. századtól napjainkig mutat be jelentős alkotásokat.",
+                  "category": "museum",
+                  "coords": [
+                        12.206782,
+                        44.413859
+                  ]
+            },
+            {
+                  "name": "Museo Arcivescovile",
+                  "text": "A múzeum őrzi Maximianus elefántcsont trónját és értékes kora keresztény műkincseket.",
+                  "category": "museum",
+                  "coords": [
+                        12.197763,
+                        44.415072
+                  ]
+            },
+            {
+                  "name": "Domus dei tappeti di pietra",
+                  "text": "Föld alatti régészeti lelőhely pompás bizánci padlómozaikokkal az 5. századból.",
+                  "category": "museum",
+                  "coords": [
+                        12.194907,
+                        44.418811
+                  ]
+            },
+            {
+                  "name": "Museo del TAMO",
+                  "text": "A San Nicolò-templomban berendezett múzeum, amely a mozaikművészet történetét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        12.199941,
+                        44.413722
+                  ]
+            },
+            {
+                  "name": "Palazzo Mauro De André",
+                  "text": "Modern multifunkcionális központ és színház, amely koncerteknek és kulturális eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        12.227725,
+                        44.421711
+                  ]
+            },
+            {
+                  "name": "La Casa delle Marionette",
+                  "text": "A hagyományos marionett- és bábjáték művészetének, valamint történelmi gyűjteményeknek szentelt múzeum Ravennában.",
+                  "category": "museum",
+                  "coords": [
+                        12.20085,
+                        44.41938
+                  ]
+            },
+            {
+                  "name": "Museo Byron",
+                  "text": "Ez a múzeum Lord Byron költő életét és munkásságát dokumentálja itáliai tartózkodása idején.",
+                  "category": "museum",
+                  "coords": [
+                        12.196951,
+                        44.418958
+                  ]
+            },
+            {
+                  "name": "Teatro Dante Alighieri",
+                  "text": "A 19. században épült operaház, amelyet az Isteni színjáték híres költőjéről neveztek el.",
+                  "category": "cultural",
+                  "coords": [
+                        12.201044,
+                        44.417482
+                  ]
+            },
+            {
+                  "name": "Teatro Rasi",
+                  "text": "Egy egykori templom épületében kialakított történelmi színház, amely ma kortárs előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        12.205731,
+                        44.415598
+                  ]
+            },
+            {
+                  "name": "Porto romano di Classe",
+                  "text": "Régészeti terület, amely az egykori római katonai kikötő, Classe antik romjait mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        12.219076,
+                        44.395265
+                  ]
+            },
+            {
+                  "name": "Rocca Brancaleone",
+                  "text": "15. századi velencei erődítmény, amely ma közparknak és szabadtéri mozinak ad helyet.",
+                  "category": "castle",
+                  "coords": [
+                        12.205876,
+                        44.422358
+                  ]
+            },
+            {
+                  "name": "Planetario",
+                  "text": "Csillagászati központ a városi parkban, amely csillagos égbolt-vetítéseket és tudományos előadásokat kínál.",
+                  "category": "museum",
+                  "coords": [
+                        12.208325,
+                        44.413759
+                  ]
+            },
+            {
+                  "name": "Anita Garibaldi",
+                  "text": "Anita Garibaldi, Giuseppe Garibaldi tábornok felesége és fegyvertársa emlékére állított szobor.",
+                  "category": "historical",
+                  "coords": [
+                        12.204343,
+                        44.418325
+                  ]
+            },
+            {
+                  "name": "Giardini Speyer",
+                  "text": "Közpark Ravennában, amelyet a németországi Speyer testvérvárosról neveztek el.",
+                  "category": "park",
+                  "coords": [
+                        12.206257,
+                        44.418399
+                  ]
+            },
+            {
+                  "name": "Palazzo di Teodorico",
+                  "text": "Ókori épületmaradványok, amelyeket hagyományosan Nagy Theodorik király palotájával azonosítanak.",
+                  "category": "historical",
+                  "coords": [
+                        12.204624,
+                        44.416122
+                  ]
+            },
+            {
+                  "name": "Battistero degli Ariani",
+                  "text": "Az UNESCO világörökség része, amely 5. századi, jó állapotban megmaradt bizánci mozaikjairól híres.",
+                  "category": "historical",
+                  "coords": [
+                        12.202426,
+                        44.418697
+                  ]
+            },
+            {
+                  "name": "Parco Della Pace",
+                  "text": "Modern városi park Ravennában, amely kortárs mozaikalkotásairól ismert.",
+                  "category": "park",
+                  "coords": [
+                        12.191005,
+                        44.406956
+                  ]
+            },
+            {
+                  "name": "Chiesa di Santa Maria del Torrione",
+                  "text": "Templom Ravennában, amely egy történelmi erődtorony közelében található.",
+                  "category": "tower",
+                  "coords": [
+                        12.189707,
+                        44.415245
+                  ]
+            },
+            {
+                  "name": "Basilica di San Vitale",
+                  "text": "A bizánci művészet remekműve, amely 6. századi pompás mozaikjairól híres.",
+                  "category": "religious",
+                  "coords": [
+                        12.196346,
+                        44.420541
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Domenico",
+                  "text": "Történelmi templom Ravenna központjában, amelyet a 13. században alapítottak.",
+                  "category": "religious",
+                  "coords": [
+                        12.198421,
+                        44.418489
+                  ]
+            },
+            {
+                  "name": "Basilica di San Francesco",
+                  "text": "Ez a templom az elárasztott kriptájáról híres, ahol ősi mozaikpadló látható a víz alatt.",
+                  "category": "religious",
+                  "coords": [
+                        12.201174,
+                        44.415913
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "MAR Museo d'Arte della città di Ravenna",
+                  "text": "Muzeul de artă al orașului Ravenna prezintă lucrări importante din secolul al XIV-lea până astăzi.",
+                  "category": "museum",
+                  "coords": [
+                        12.206782,
+                        44.413859
+                  ]
+            },
+            {
+                  "name": "Museo Arcivescovile",
+                  "text": "Muzeul adăpostește tronul de fildeș al lui Maximian și tezaure de artă creștină timpurie.",
+                  "category": "museum",
+                  "coords": [
+                        12.197763,
+                        44.415072
+                  ]
+            },
+            {
+                  "name": "Domus dei tappeti di pietra",
+                  "text": "Un sit arheologic subteran cu splendide mozaicuri bizantine pavimentale din secolul al V-lea.",
+                  "category": "museum",
+                  "coords": [
+                        12.194907,
+                        44.418811
+                  ]
+            },
+            {
+                  "name": "Museo del TAMO",
+                  "text": "Un muzeu al mozaicului în biserica San Nicolò, documentând istoria acestei forme de artă.",
+                  "category": "museum",
+                  "coords": [
+                        12.199941,
+                        44.413722
+                  ]
+            },
+            {
+                  "name": "Palazzo Mauro De André",
+                  "text": "Un centru multifuncțional modern și teatru utilizat pentru concerte și evenimente culturale majore.",
+                  "category": "cultural",
+                  "coords": [
+                        12.227725,
+                        44.421711
+                  ]
+            },
+            {
+                  "name": "La Casa delle Marionette",
+                  "text": "Un muzeu din Ravenna dedicat artei tradiționale a marionetelor și păpușilor, prezentând colecții istorice.",
+                  "category": "museum",
+                  "coords": [
+                        12.20085,
+                        44.41938
+                  ]
+            },
+            {
+                  "name": "Museo Byron",
+                  "text": "Acest muzeu documentează viața și opera poetului Lord Byron în timpul șederii sale în Italia.",
+                  "category": "museum",
+                  "coords": [
+                        12.196951,
+                        44.418958
+                  ]
+            },
+            {
+                  "name": "Teatro Dante Alighieri",
+                  "text": "O operă construită în secolul al XIX-lea, numită după celebrul autor al Divinei Comedii.",
+                  "category": "cultural",
+                  "coords": [
+                        12.201044,
+                        44.417482
+                  ]
+            },
+            {
+                  "name": "Teatro Rasi",
+                  "text": "Un teatru istoric situat într-o fostă biserică, utilizat în prezent pentru spectacole contemporane.",
+                  "category": "cultural",
+                  "coords": [
+                        12.205731,
+                        44.415598
+                  ]
+            },
+            {
+                  "name": "Porto romano di Classe",
+                  "text": "Un sit arheologic care prezintă vestigiile vechiului port militar roman de la Classe.",
+                  "category": "historical",
+                  "coords": [
+                        12.219076,
+                        44.395265
+                  ]
+            },
+            {
+                  "name": "Rocca Brancaleone",
+                  "text": "O fortăreață venețiană din secolul al XV-lea care găzduiește astăzi un parc public și un cinematograf în aer liber.",
+                  "category": "castle",
+                  "coords": [
+                        12.205876,
+                        44.422358
+                  ]
+            },
+            {
+                  "name": "Planetario",
+                  "text": "Un centru astronomic situat în parcul orașului, care oferă proiecții ale cerului înstelat și prelegeri științifice.",
+                  "category": "museum",
+                  "coords": [
+                        12.208325,
+                        44.413759
+                  ]
+            },
+            {
+                  "name": "Anita Garibaldi",
+                  "text": "O statuie ridicată în memoria Anitei Garibaldi, soția și tovarășa de luptă a generalului Giuseppe Garibaldi.",
+                  "category": "historical",
+                  "coords": [
+                        12.204343,
+                        44.418325
+                  ]
+            },
+            {
+                  "name": "Giardini Speyer",
+                  "text": "Parc public în Ravenna, numit după orașul înfrățit Speyer din Germania.",
+                  "category": "park",
+                  "coords": [
+                        12.206257,
+                        44.418399
+                  ]
+            },
+            {
+                  "name": "Palazzo di Teodorico",
+                  "text": "Rămășițele unei clădiri antice, identificate tradițional cu palatul regelui Teodoric.",
+                  "category": "historical",
+                  "coords": [
+                        12.204624,
+                        44.416122
+                  ]
+            },
+            {
+                  "name": "Battistero degli Ariani",
+                  "text": "Monument UNESCO din secolul al V-lea, faimos pentru mozaicurile bizantine bine conservate.",
+                  "category": "historical",
+                  "coords": [
+                        12.202426,
+                        44.418697
+                  ]
+            },
+            {
+                  "name": "Parco Della Pace",
+                  "text": "Un parc urban modern în Ravenna, cunoscut pentru operele sale de artă contemporană în mozaic.",
+                  "category": "park",
+                  "coords": [
+                        12.191005,
+                        44.406956
+                  ]
+            },
+            {
+                  "name": "Chiesa di Santa Maria del Torrione",
+                  "text": "O biserică din Ravenna situată în apropierea unui turn istoric de fortificație.",
+                  "category": "tower",
+                  "coords": [
+                        12.189707,
+                        44.415245
+                  ]
+            },
+            {
+                  "name": "Basilica di San Vitale",
+                  "text": "O capodoperă a artei bizantine, faimoasă pentru mozaicurile sale splendide din secolul al VI-lea.",
+                  "category": "religious",
+                  "coords": [
+                        12.196346,
+                        44.420541
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Domenico",
+                  "text": "O biserică istorică din centrul Ravennei, fondată în secolul al XIII-lea.",
+                  "category": "religious",
+                  "coords": [
+                        12.198421,
+                        44.418489
+                  ]
+            },
+            {
+                  "name": "Basilica di San Francesco",
+                  "text": "Această biserică este cunoscută pentru cripta sa inundată cu podele de mozaic antic sub apă.",
+                  "category": "religious",
+                  "coords": [
+                        12.201174,
+                        44.415913
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "MAR Museo d'Arte della città di Ravenna",
+                  "text": "Ravenna's city art museum presents significant works from the 14th century to the present.",
+                  "category": "museum",
+                  "coords": [
+                        12.206782,
+                        44.413859
+                  ]
+            },
+            {
+                  "name": "Archiepiscopal Museum",
+                  "text": "The museum houses the Ivory Throne of Maximian and precious early Christian art treasures.",
+                  "category": "museum",
+                  "coords": [
+                        12.197763,
+                        44.415072
+                  ]
+            },
+            {
+                  "name": "Domus dei tappeti di pietra",
+                  "text": "An underground archaeological site featuring splendid Byzantine floor mosaics from the 5th century.",
+                  "category": "museum",
+                  "coords": [
+                        12.194907,
+                        44.418811
+                  ]
+            },
+            {
+                  "name": "Museo del TAMO",
+                  "text": "A mosaic museum in the Church of San Nicolò documenting the history of this art form.",
+                  "category": "museum",
+                  "coords": [
+                        12.199941,
+                        44.413722
+                  ]
+            },
+            {
+                  "name": "Palazzo Mauro De André",
+                  "text": "A modern multipurpose center and theatre used for concerts and major cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        12.227725,
+                        44.421711
+                  ]
+            },
+            {
+                  "name": "La Casa delle Marionette",
+                  "text": "A museum in Ravenna dedicated to the traditional art of marionettes and puppets, showcasing historical collections.",
+                  "category": "museum",
+                  "coords": [
+                        12.20085,
+                        44.41938
+                  ]
+            },
+            {
+                  "name": "Museo Byron",
+                  "text": "This museum documents the life and work of the poet Lord Byron during his residency in Italy.",
+                  "category": "museum",
+                  "coords": [
+                        12.196951,
+                        44.418958
+                  ]
+            },
+            {
+                  "name": "Teatro Dante Alighieri",
+                  "text": "A 19th-century opera house named after the famous author of the Divine Comedy.",
+                  "category": "cultural",
+                  "coords": [
+                        12.201044,
+                        44.417482
+                  ]
+            },
+            {
+                  "name": "Teatro Rasi",
+                  "text": "A historic theatre housed in a former church building, now used for contemporary performances.",
+                  "category": "cultural",
+                  "coords": [
+                        12.205731,
+                        44.415598
+                  ]
+            },
+            {
+                  "name": "Porto romano di Classe",
+                  "text": "An archaeological site showcasing the remains of the ancient Roman military port of Classe.",
+                  "category": "historical",
+                  "coords": [
+                        12.219076,
+                        44.395265
+                  ]
+            },
+            {
+                  "name": "Rocca Brancaleone",
+                  "text": "A 15th-century Venetian fortress that now houses a public park and an open-air cinema.",
+                  "category": "castle",
+                  "coords": [
+                        12.205876,
+                        44.422358
+                  ]
+            },
+            {
+                  "name": "Planetario",
+                  "text": "An astronomical center in the city park offering starry sky projections and scientific lectures.",
+                  "category": "museum",
+                  "coords": [
+                        12.208325,
+                        44.413759
+                  ]
+            },
+            {
+                  "name": "Anita Garibaldi",
+                  "text": "A statue commemorating Anita Garibaldi, the wife and comrade-in-arms of General Giuseppe Garibaldi.",
+                  "category": "historical",
+                  "coords": [
+                        12.204343,
+                        44.418325
+                  ]
+            },
+            {
+                  "name": "Giardini Speyer",
+                  "text": "Public park in Ravenna, named after the German twin city Speyer.",
+                  "category": "park",
+                  "coords": [
+                        12.206257,
+                        44.418399
+                  ]
+            },
+            {
+                  "name": "Palazzo di Teodorico",
+                  "text": "Remains of an ancient building, traditionally identified as the palace of King Theodoric.",
+                  "category": "historical",
+                  "coords": [
+                        12.204624,
+                        44.416122
+                  ]
+            },
+            {
+                  "name": "Arian Baptistery",
+                  "text": "A UNESCO World Heritage site from the 5th century, famous for its well-preserved Byzantine mosaics.",
+                  "category": "historical",
+                  "coords": [
+                        12.202426,
+                        44.418697
+                  ]
+            },
+            {
+                  "name": "Parco Della Pace",
+                  "text": "A modern urban park in Ravenna known for its contemporary mosaic artworks.",
+                  "category": "park",
+                  "coords": [
+                        12.191005,
+                        44.406956
+                  ]
+            },
+            {
+                  "name": "Chiesa di Santa Maria del Torrione",
+                  "text": "A church in Ravenna located near a historical fortification tower.",
+                  "category": "tower",
+                  "coords": [
+                        12.189707,
+                        44.415245
+                  ]
+            },
+            {
+                  "name": "Basilica di San Vitale",
+                  "text": "A masterpiece of Byzantine art, famous for its magnificent 6th-century mosaics.",
+                  "category": "religious",
+                  "coords": [
+                        12.196346,
+                        44.420541
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Domenico",
+                  "text": "A historical church in the center of Ravenna, founded in the 13th century.",
+                  "category": "religious",
+                  "coords": [
+                        12.198421,
+                        44.418489
+                  ]
+            },
+            {
+                  "name": "Basilica di San Francesco",
+                  "text": "This church is famous for its flooded crypt with ancient mosaic floors visible under water.",
+                  "category": "religious",
+                  "coords": [
+                        12.201174,
+                        44.415913
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IT-45",
     coords: [12.202, 44.418],
@@ -3636,7 +5922,1672 @@ export const italyCities: POI[] = [
     },
   },
   {
-    id: "it-cagliari",
+    id: "it-cagliari", "sights": {
+      "de": [
+            {
+                  "name": "Mutseu / Museo Sant'Eulalia",
+                  "text": "Archäologisches Museum und Ausgrabungsstätte in Cagliari mit römischen Überresten unter der Kirche Sant'Eulalia.",
+                  "category": "museum",
+                  "coords": [
+                        9.114628,
+                        39.214578
+                  ]
+            },
+            {
+                  "name": "Museo dell'arciconfraternita dei Genovesi",
+                  "text": "Museum der genuesischen Bruderschaft in Cagliari mit religiöser Kunst und historischen Dokumenten.",
+                  "category": "museum",
+                  "coords": [
+                        9.131283,
+                        39.216249
+                  ]
+            },
+            {
+                  "name": "Museo di Bonaria",
+                  "text": "Museum im Heiligtum von Bonaria in Cagliari, das Votivgaben und sakrale Gegenstände ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        9.125245,
+                        39.208702
+                  ]
+            },
+            {
+                  "name": "Museo Etnografico Regionale - Collezione Cocco",
+                  "text": "Regionales ethnographisches Museum in Cagliari mit der sardischen Kunstsammlung von Luigi Cocco.",
+                  "category": "museum",
+                  "coords": [
+                        9.117164,
+                        39.222923
+                  ]
+            },
+            {
+                  "name": "Museo delle cere anatomiche \"Clemente Susini\"",
+                  "text": "Museum für anatomische Wachsmodelle von Clemente Susini aus dem frühen 19. Jahrhundert in Cagliari.",
+                  "category": "museum",
+                  "coords": [
+                        9.116967,
+                        39.222005
+                  ]
+            },
+            {
+                  "name": "Auditorium del Conservatorio",
+                  "text": "Konzertsaal des Musikkonservatoriums in Cagliari, ein wichtiger Ort für klassische Musikaufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        9.12122,
+                        39.225292
+                  ]
+            },
+            {
+                  "name": "Grotta della Vipera",
+                  "text": "Römisches Grabmal aus dem 2. Jahrhundert in Cagliari, benannt nach den eingravierten Schlangenreliefs.",
+                  "category": "historical",
+                  "coords": [
+                        9.099891,
+                        39.227868
+                  ]
+            },
+            {
+                  "name": "Collezione sarda Luigi Piloni",
+                  "text": "Diese im Besitz der Universität Cagliari befindliche Sammlung umfasst sardische Kunstwerke, Karten, Textilien und seltene Alltagsgegenstände.",
+                  "category": "museum",
+                  "coords": [
+                        9.11505,
+                        39.217282
+                  ]
+            },
+            {
+                  "name": "Museo Ferroviario Sardo",
+                  "text": "Das sardische Eisenbahnmuseum zeigt historische Lokomotiven, Wagen und Ausrüstungsgegenstände aus der Geschichte der Inselbahn.",
+                  "category": "museum",
+                  "coords": [
+                        9.108289,
+                        39.215418
+                  ]
+            },
+            {
+                  "name": "Villa di Tigellio",
+                  "text": "Diese archäologische Ausgrabungsstätte in Cagliari umfasst die Überreste römischer Stadthäuser und Thermen aus dem 2. Jahrhundert n. Chr.",
+                  "category": "historical",
+                  "coords": [
+                        9.108551,
+                        39.220613
+                  ]
+            },
+            {
+                  "name": "ExMà",
+                  "text": "Das ehemalige städtische Schlachthaus von Cagliari dient heute als lebendiges Kulturzentrum für Ausstellungen, Konzerte und Veranstaltungen.",
+                  "category": "museum",
+                  "coords": [
+                        9.120423,
+                        39.214486
+                  ]
+            },
+            {
+                  "name": "Teatro Alfieri",
+                  "text": "Das Teatro Alfieri ist eine traditionsreiche Bühne in Cagliari, die für ihr vielfältiges Programm an Theaterstücken bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        9.133393,
+                        39.207744
+                  ]
+            },
+            {
+                  "name": "Teatro Lirico di Cagliari",
+                  "text": "Das moderne Opernhaus von Cagliari ist das kulturelle Herz der Stadt für Opernaufführungen, Ballett und klassische Konzerte.",
+                  "category": "cultural",
+                  "coords": [
+                        9.12338,
+                        39.226279
+                  ]
+            },
+            {
+                  "name": "Teatro delle Saline",
+                  "text": "Das im Viertel Molentargius gelegene Theater ist für seine avantgardistischen Produktionen und zeitgenössischen Aufführungen bekannt.",
+                  "category": "cultural",
+                  "coords": [
+                        9.144224,
+                        39.206579
+                  ]
+            },
+            {
+                  "name": "Ghetto degli Ebrei",
+                  "text": "Das ehemalige jüdische Viertel im Castello-Distrikt dient heute als Ausstellungszentrum und Ort für kulturelle Begegnungen.",
+                  "category": "historical",
+                  "coords": [
+                        9.114794,
+                        39.220411
+                  ]
+            },
+            {
+                  "name": "Galleria Comunale d'Arte",
+                  "text": "Städtische Kunstgalerie in den Öffentlichen Gärten mit einer Sammlung italienischer Werke des 20. Jahrhunderts.",
+                  "category": "museum",
+                  "coords": [
+                        9.115881,
+                        39.225994
+                  ]
+            },
+            {
+                  "name": "Parco archeologico di Tuvixeddu",
+                  "text": "Bedeutende punische Nekropole auf einem Hügel mit hunderten in den Kalkstein gehauenen Gräbern.",
+                  "category": "historical",
+                  "coords": [
+                        9.102891,
+                        39.229336
+                  ]
+            },
+            {
+                  "name": "Necropoli di San Saturnino",
+                  "text": "Antike archäologische Stätte bei der Basilika San Saturnino mit christlichen Bestattungen aus römischer Zeit.",
+                  "category": "historical",
+                  "coords": [
+                        9.123441,
+                        39.213858
+                  ]
+            },
+            {
+                  "name": "Saline di Molentargius",
+                  "text": "Naturschutzgebiet und Feuchtgebiet, das als wichtiger Lebensraum für rosa Flamingos bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        9.166855,
+                        39.219295
+                  ]
+            },
+            {
+                  "name": "Museo del Mattoncino Karalisbrick",
+                  "text": "Museum mit kreativen Ausstellungen und Modellen, die vollständig aus LEGO-Steinen gebaut wurden.",
+                  "category": "museum",
+                  "coords": [
+                        9.106012,
+                        39.222203
+                  ]
+            },
+            {
+                  "name": "Cubicolo di Munazio Ireneo",
+                  "text": "Römische Grabkammer mit Wandmalereien und historischen Inschriften aus dem antiken Karalis.",
+                  "category": "historical",
+                  "coords": [
+                        9.12446,
+                        39.210072
+                  ]
+            },
+            {
+                  "name": "Palazzo di Città",
+                  "text": "Historisches Gebäude im Castello-Viertel, das heute für Kunstausstellungen und bürgerliche Sammlungen genutzt wird.",
+                  "category": "museum",
+                  "coords": [
+                        9.116568,
+                        39.218631
+                  ]
+            },
+            {
+                  "name": "Tomba di Sid",
+                  "text": "Archäologische Fundstätte aus der punischen Zeit, die Einblicke in die antiken Bestattungsriten bietet.",
+                  "category": "historical",
+                  "coords": [
+                        9.100924,
+                        39.229059
+                  ]
+            },
+            {
+                  "name": "Casa Massonica",
+                  "text": "Történelmi épület, das die Geschichte und Symbole der Freimaurerei in der sardischen Hauptstadt dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        9.116692,
+                        39.220825
+                  ]
+            },
+            {
+                  "name": "Pozzo Sacro",
+                  "text": "Unterirdischer heiliger Brunnen aus der Nuraghenzeit, der für antike Wasserrituale genutzt wurde.",
+                  "category": "historical",
+                  "coords": [
+                        9.115099,
+                        39.232365
+                  ]
+            },
+            {
+                  "name": "Cisterna Medievale",
+                  "text": "Eine mittelalterliche Zisterne unter dem Viertel Castello, die ehemals der Wasserversorgung der Stadt diente.",
+                  "category": "historical",
+                  "coords": [
+                        9.115163,
+                        39.219293
+                  ]
+            },
+            {
+                  "name": "Tombe puniche",
+                  "text": "Antike punische Grabanlagen in Cagliari, die Einblicke in die frühe phönizische Besiedlung der Insel bieten.",
+                  "category": "historical",
+                  "coords": [
+                        9.114913,
+                        39.233519
+                  ]
+            },
+            {
+                  "name": "Museo di Antropologia Sarda e di Zoologia",
+                  "text": "Das Museum präsentiert Sammlungen zur sardischen Anthropologie sowie zur zoologischen Vielfalt der Insel.",
+                  "category": "museum",
+                  "coords": [
+                        9.139871,
+                        39.20223
+                  ]
+            },
+            {
+                  "name": "Cripta di Sant'Agostino",
+                  "text": "Unterirdische archäologische Stätte in Cagliari, die mit der Geschichte des Heiligen Augustinus verbunden ist.",
+                  "category": "historical",
+                  "coords": [
+                        9.111145,
+                        39.215427
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Giorgino",
+                  "text": "Ein traditioneller Strandabschnitt in Cagliari, der nahe dem Industriehafen liegt und bei Einheimischen beliebt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        9.091567,
+                        39.211984
+                  ]
+            },
+            {
+                  "name": "Chiesa di Santa Lucia",
+                  "text": "Archäologische Überreste der ehemaligen Kirche Santa Lucia im historischen Zentrum von Cagliari.",
+                  "category": "historical",
+                  "coords": [
+                        9.112887,
+                        39.214552
+                  ]
+            },
+            {
+                  "name": "Resti della tenuta Serra",
+                  "text": "Ausgrabungsstätte mit den Überresten eines historischen Anwesens, die Einblicke in die ländliche Architektur bieten.",
+                  "category": "historical",
+                  "coords": [
+                        9.13249,
+                        39.23163
+                  ]
+            },
+            {
+                  "name": "Area Archeologica di Santa Caterina",
+                  "text": "Zentrale archäologische Zone in Cagliari, die Funde aus verschiedenen historischen Siedlungsphasen umfasst.",
+                  "category": "historical",
+                  "coords": [
+                        9.116498,
+                        39.216729
+                  ]
+            },
+            {
+                  "name": "Spiaggia della Diga",
+                  "text": "Ein Küstenbereich am Wellenbrecher von Cagliari, der als Ort für Spaziergänge und zur Entspannung am Meer dient.",
+                  "category": "recreational",
+                  "coords": [
+                        9.128363,
+                        39.199738
+                  ]
+            },
+            {
+                  "name": "Città fenicia",
+                  "text": "Überreste der antiken phönizischen Siedlung auf dem Stadtgebiet von Cagliari.",
+                  "category": "historical",
+                  "coords": [
+                        9.098066,
+                        39.223517
+                  ]
+            },
+            {
+                  "name": "Tomba dei Pesci e delle Spighe",
+                  "text": "Eine antike Grabstätte in Cagliari, die für ihre symbolischen Verzierungen bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        9.100428,
+                        39.226849
+                  ]
+            },
+            {
+                  "name": "Parco Naturale Regionale \"Molentargius-Saline\"",
+                  "text": "Ein bedeutendes Naturschutzgebiet und Feuchtgebiet, das für seine Rosaflamingos berühmt ist.",
+                  "category": "natural",
+                  "coords": [
+                        9.179025,
+                        39.219294
+                  ]
+            },
+            {
+                  "name": "Necropoli di vico Terzo Lanusei",
+                  "text": "Eine antike Nekropole in Cagliari mit Grabanlagen aus verschiedenen historischen Epochen.",
+                  "category": "historical",
+                  "coords": [
+                        9.118227,
+                        39.213496
+                  ]
+            },
+            {
+                  "name": "Cava romana",
+                  "text": "Ein antiker römischer Steinbruch, der Zeugnis von der historischen Materialgewinnung ablegt.",
+                  "category": "historical",
+                  "coords": [
+                        9.111178,
+                        39.222705
+                  ]
+            },
+            {
+                  "name": "Chiostro di San Francesco",
+                  "text": "Die archäologischen Überreste des ehemaligen Kreuzgangs der Franziskanerkirche.",
+                  "category": "historical",
+                  "coords": [
+                        9.111762,
+                        39.217434
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Romano",
+                  "text": "Ein beeindruckendes römisches Amphitheater aus dem 2. Jahrhundert, das direkt in den Fels geschlagen wurde.",
+                  "category": "historical",
+                  "coords": [
+                        9.113231,
+                        39.223997
+                  ]
+            },
+            {
+                  "name": "Parco di Monte Urpinu",
+                  "text": "Ein weitläufiger Stadtpark auf einem Hügel mit Panoramablick über den Golf von Cagliari.",
+                  "category": "park",
+                  "coords": [
+                        9.134456,
+                        39.215435
+                  ]
+            },
+            {
+                  "name": "Orto dei Cappuccini",
+                  "text": "Ein historischer Garten, der ursprünglich als Nutzgarten der Kapuzinermönche diente.",
+                  "category": "park",
+                  "coords": [
+                        9.111396,
+                        39.224858
+                  ]
+            },
+            {
+                  "name": "Parco di Monte Claro",
+                  "text": "Eine weitläufige Parkanlage in Cagliari, die sich ideal für Spaziergänge und Freizeitaktivitäten im Freien eignet.",
+                  "category": "park",
+                  "coords": [
+                        9.115749,
+                        39.234544
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Domenico",
+                  "text": "Eine Kirche mit bedeutenden gotischen und aragonesischen Architekturelementen im Stadtteil Villanova.",
+                  "category": "religious",
+                  "coords": [
+                        9.120199,
+                        39.219157
+                  ]
+            },
+            {
+                  "name": "Torre dello Sperone",
+                  "text": "Ein historischer Verteidigungsturm in Cagliari, der Teil der mittelalterlichen Stadtbefestigung war.",
+                  "category": "tower",
+                  "coords": [
+                        9.111482,
+                        39.218618
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mutseu / Museo Sant'Eulalia",
+                  "text": "Régészeti múzeum és lelőhely Cagliariban, római kori maradványokkal a Sant'Eulalia-templom alatt.",
+                  "category": "museum",
+                  "coords": [
+                        9.114628,
+                        39.214578
+                  ]
+            },
+            {
+                  "name": "Museo dell'arciconfraternita dei Genovesi",
+                  "text": "A genovai testvériség múzeuma Cagliariban, amely vallási művészetet és történelmi dokumentumokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        9.131283,
+                        39.216249
+                  ]
+            },
+            {
+                  "name": "Museo di Bonaria",
+                  "text": "A cagliari Bonaria-szentély múzeuma, amely fogadalmi ajándékokat és szakrális tárgyakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        9.125245,
+                        39.208702
+                  ]
+            },
+            {
+                  "name": "Museo Etnografico Regionale - Collezione Cocco",
+                  "text": "Cagliariban található regionális néprajzi múzeum, amely Luigi Cocco szárd művészeti gyűjteményét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        9.117164,
+                        39.222923
+                  ]
+            },
+            {
+                  "name": "Museo delle cere anatomiche \"Clemente Susini\"",
+                  "text": "Clemente Susini 19. század eleji anatómiai viaszmodelljeit bemutató múzeum Cagliariban.",
+                  "category": "museum",
+                  "coords": [
+                        9.116967,
+                        39.222005
+                  ]
+            },
+            {
+                  "name": "Auditorium del Conservatorio",
+                  "text": "A cagliari zenekonzervatórium hangversenyterme, a klasszikus zenei előadások fontos helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        9.12122,
+                        39.225292
+                  ]
+            },
+            {
+                  "name": "Grotta della Vipera",
+                  "text": "2. századi római síremlék Cagliariban, amely a falaira vésett kígyóreliefekről kapta a nevét.",
+                  "category": "historical",
+                  "coords": [
+                        9.099891,
+                        39.227868
+                  ]
+            },
+            {
+                  "name": "Collezione sarda Luigi Piloni",
+                  "text": "A Cagliari Egyetem tulajdonában lévő gyűjtemény szardíniai műalkotásokat, térképeket, textíliákat és ritka néprajzi tárgyakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        9.11505,
+                        39.217282
+                  ]
+            },
+            {
+                  "name": "Museo Ferroviario Sardo",
+                  "text": "A cagliari-i vasúti múzeum történelmi mozdonyokat, kocsikat és a sziget vasúttörténeti emlékeit mutatja be a látogatóknak.",
+                  "category": "museum",
+                  "coords": [
+                        9.108289,
+                        39.215418
+                  ]
+            },
+            {
+                  "name": "Villa di Tigellio",
+                  "text": "Ez a cagliari-i régészeti lelőhely a Kr. u. 2. századból származó római lakóházak és egy termálfürdő maradványait foglalja magában.",
+                  "category": "historical",
+                  "coords": [
+                        9.108551,
+                        39.220613
+                  ]
+            },
+            {
+                  "name": "ExMà",
+                  "text": "Cagliari egykori városi vágóhídja ma modern kulturális központként működik, kiállításoknak és rendezvényeknek adva otthont.",
+                  "category": "museum",
+                  "coords": [
+                        9.120423,
+                        39.214486
+                  ]
+            },
+            {
+                  "name": "Teatro Alfieri",
+                  "text": "A Teatro Alfieri Cagliari egyik nagy múltú színháza, amely változatos prózai előadásairól és kulturális programjairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        9.133393,
+                        39.207744
+                  ]
+            },
+            {
+                  "name": "Teatro Lirico di Cagliari",
+                  "text": "Cagliari modern operaháza a város kulturális központja, ahol operaelőadásokat, balettet és komolyzenei koncerteket tartanak.",
+                  "category": "cultural",
+                  "coords": [
+                        9.12338,
+                        39.226279
+                  ]
+            },
+            {
+                  "name": "Teatro delle Saline",
+                  "text": "A Molentargius negyedben található színház avantgárd produkcióiról és kortárs előadásairól ismert Cagliari művészeti életében.",
+                  "category": "cultural",
+                  "coords": [
+                        9.144224,
+                        39.206579
+                  ]
+            },
+            {
+                  "name": "Ghetto degli Ebrei",
+                  "text": "A Castello negyedben található egykori zsidónegyed épülete ma kiállítóközpontként és kulturális rendezvényhelyszínként üzemel.",
+                  "category": "historical",
+                  "coords": [
+                        9.114794,
+                        39.220411
+                  ]
+            },
+            {
+                  "name": "Galleria Comunale d'Arte",
+                  "text": "Városi művészeti galéria a Közkertekben, amely 20. századi olasz alkotások gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        9.115881,
+                        39.225994
+                  ]
+            },
+            {
+                  "name": "Parco archeologico di Tuvixeddu",
+                  "text": "Jelentős pún nekropolisz egy dombon, amely több száz mészkőbe vájt ókori sírt tartalmaz.",
+                  "category": "historical",
+                  "coords": [
+                        9.102891,
+                        39.229336
+                  ]
+            },
+            {
+                  "name": "Necropoli di San Saturnino",
+                  "text": "A Szent Szaturninusz-bazilika melletti ókori régészeti lelőhely római kori keresztény sírokkal.",
+                  "category": "historical",
+                  "coords": [
+                        9.123441,
+                        39.213858
+                  ]
+            },
+            {
+                  "name": "Saline di Molentargius",
+                  "text": "Természetvédelmi terület és vizes élőhely, amely a rózsaszín flamingók fontos fészkelőhelyeként ismert.",
+                  "category": "natural",
+                  "coords": [
+                        9.166855,
+                        39.219295
+                  ]
+            },
+            {
+                  "name": "Museo del Mattoncino Karalisbrick",
+                  "text": "Múzeum kreatív bemutatókkal és modellekkel, amelyek teljes egészében LEGO kockákból készültek.",
+                  "category": "museum",
+                  "coords": [
+                        9.106012,
+                        39.222203
+                  ]
+            },
+            {
+                  "name": "Cubicolo di Munazio Ireneo",
+                  "text": "Római sírkamra falfestményekkel és az ókori Karalisból származó történelmi feliratokkal.",
+                  "category": "historical",
+                  "coords": [
+                        9.12446,
+                        39.210072
+                  ]
+            },
+            {
+                  "name": "Palazzo di Città",
+                  "text": "Történelmi épület a Castello negyedben, amely ma művészeti kiállításoknak és városi gyűjteményeknek ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        9.116568,
+                        39.218631
+                  ]
+            },
+            {
+                  "name": "Tomba di Sid",
+                  "text": "Pún kori régészeti lelőhely, amely betekintést nyújt az ókori temetkezési rítusokba.",
+                  "category": "historical",
+                  "coords": [
+                        9.100924,
+                        39.229059
+                  ]
+            },
+            {
+                  "name": "Casa Massonica",
+                  "text": "Történelmi épület, amely a szabadkőművesség történetét és szimbólumait dokumentálja a szardíniai fővárosban.",
+                  "category": "museum",
+                  "coords": [
+                        9.116692,
+                        39.220825
+                  ]
+            },
+            {
+                  "name": "Pozzo Sacro",
+                  "text": "A nurág-korból származó föld alatti szent kút, amelyet ókori vízi rituálékhoz használtak.",
+                  "category": "historical",
+                  "coords": [
+                        9.115099,
+                        39.232365
+                  ]
+            },
+            {
+                  "name": "Cisterna Medievale",
+                  "text": "Középkori víztározó a Castello negyed alatt, amely egykor a város vízellátását biztosította.",
+                  "category": "historical",
+                  "coords": [
+                        9.115163,
+                        39.219293
+                  ]
+            },
+            {
+                  "name": "Tombe puniche",
+                  "text": "Ókori pun sírok Cagliariban, amelyek betekintést nyújtanak a sziget korai föníciai betelepülésébe.",
+                  "category": "historical",
+                  "coords": [
+                        9.114913,
+                        39.233519
+                  ]
+            },
+            {
+                  "name": "Museo di Antropologia Sarda e di Zoologia",
+                  "text": "A múzeum Szardínia antropológiáját és a sziget állattani sokszínűségét bemutató gyűjteményeket őriz.",
+                  "category": "museum",
+                  "coords": [
+                        9.139871,
+                        39.20223
+                  ]
+            },
+            {
+                  "name": "Cripta di Sant'Agostino",
+                  "text": "Föld alatti régészeti lelőhely Cagliariban, amely Szent Ágoston történetéhez kapcsolódik.",
+                  "category": "historical",
+                  "coords": [
+                        9.111145,
+                        39.215427
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Giorgino",
+                  "text": "Hagyományos tengerparti szakasz Cagliariban az ipari kikötő közelében, amely népszerű a helyiek körében.",
+                  "category": "recreational",
+                  "coords": [
+                        9.091567,
+                        39.211984
+                  ]
+            },
+            {
+                  "name": "Chiesa di Santa Lucia",
+                  "text": "Az egykori Santa Lucia-templom régészeti maradványai Cagliari történelmi központjában.",
+                  "category": "historical",
+                  "coords": [
+                        9.112887,
+                        39.214552
+                  ]
+            },
+            {
+                  "name": "Resti della tenuta Serra",
+                  "text": "Régészeti lelőhely egy történelmi birtok maradványaival, amelyek a vidéki építészetbe nyújtanak betekintést.",
+                  "category": "historical",
+                  "coords": [
+                        9.13249,
+                        39.23163
+                  ]
+            },
+            {
+                  "name": "Area Archeologica di Santa Caterina",
+                  "text": "Központi régészeti övezet Cagliariban, amely különböző történelmi települési fázisok leleteit tartalmazza.",
+                  "category": "historical",
+                  "coords": [
+                        9.116498,
+                        39.216729
+                  ]
+            },
+            {
+                  "name": "Spiaggia della Diga",
+                  "text": "Tengerparti terület a cagliari hullámtörőnél, amely sétákra és tengerparti kikapcsolódásra szolgál.",
+                  "category": "recreational",
+                  "coords": [
+                        9.128363,
+                        39.199738
+                  ]
+            },
+            {
+                  "name": "Città fenicia",
+                  "text": "Az ókori föníciai település maradványai Cagliari területén.",
+                  "category": "historical",
+                  "coords": [
+                        9.098066,
+                        39.223517
+                  ]
+            },
+            {
+                  "name": "Tomba dei Pesci e delle Spighe",
+                  "text": "Ókori sírhely Cagliariban, amely nevét jellegzetes jelképes díszítéseiről kapta.",
+                  "category": "historical",
+                  "coords": [
+                        9.100428,
+                        39.226849
+                  ]
+            },
+            {
+                  "name": "Parco Naturale Regionale \"Molentargius-Saline\"",
+                  "text": "Fontos természetvédelmi terület és vizes élőhely, amely a rózsás flamingóiról híres.",
+                  "category": "natural",
+                  "coords": [
+                        9.179025,
+                        39.219294
+                  ]
+            },
+            {
+                  "name": "Necropoli di vico Terzo Lanusei",
+                  "text": "Ókori nekropolisz Cagliariban, amely különböző történelmi korszakok sírjait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        9.118227,
+                        39.213496
+                  ]
+            },
+            {
+                  "name": "Cava romana",
+                  "text": "Ókori római kőfejtő, amely a történelmi építőanyag-kitermelésről tanúskodik.",
+                  "category": "historical",
+                  "coords": [
+                        9.111178,
+                        39.222705
+                  ]
+            },
+            {
+                  "name": "Chiostro di San Francesco",
+                  "text": "Az egykori ferences templom kolostorudvarának régészeti maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        9.111762,
+                        39.217434
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Romano",
+                  "text": "Látványos, 2. századi római amfiteátrum, amelyet közvetlenül a sziklába vájtak.",
+                  "category": "historical",
+                  "coords": [
+                        9.113231,
+                        39.223997
+                  ]
+            },
+            {
+                  "name": "Parco di Monte Urpinu",
+                  "text": "Kiterjedt városi park egy dombtetőn, panorámás kilátással a Cagliari-öbölre.",
+                  "category": "park",
+                  "coords": [
+                        9.134456,
+                        39.215435
+                  ]
+            },
+            {
+                  "name": "Orto dei Cappuccini",
+                  "text": "Történelmi kert, amely eredetileg a kapucinus szerzetesek konyhakertjeként szolgált.",
+                  "category": "park",
+                  "coords": [
+                        9.111396,
+                        39.224858
+                  ]
+            },
+            {
+                  "name": "Parco di Monte Claro",
+                  "text": "Cagliari tágas városi parkja, amely zöldterületeivel és sétaútjaival népszerű kikapcsolódási helyszín.",
+                  "category": "park",
+                  "coords": [
+                        9.115749,
+                        39.234544
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Domenico",
+                  "text": "Gótikus-aragon stílusú templom Cagliari Villanova negyedében, amely különleges építészeti részleteiről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        9.120199,
+                        39.219157
+                  ]
+            },
+            {
+                  "name": "Torre dello Sperone",
+                  "text": "Cagliari középkori városfalának részét képező történelmi védőtorony.",
+                  "category": "tower",
+                  "coords": [
+                        9.111482,
+                        39.218618
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mutseu / Museo Sant'Eulalia",
+                  "text": "Muzeu arheologic și sit în Cagliari, prezentând vestigii romane descoperite sub biserica Sant'Eulalia.",
+                  "category": "museum",
+                  "coords": [
+                        9.114628,
+                        39.214578
+                  ]
+            },
+            {
+                  "name": "Museo dell'arciconfraternita dei Genovesi",
+                  "text": "Muzeul arhidubasiei genovezilor din Cagliari, adăpostind artă religioasă și documente istorice.",
+                  "category": "museum",
+                  "coords": [
+                        9.131283,
+                        39.216249
+                  ]
+            },
+            {
+                  "name": "Museo di Bonaria",
+                  "text": "Muzeul din cadrul sanctuarului Bonaria din Cagliari, expunând ofrande votive și obiecte sacre.",
+                  "category": "museum",
+                  "coords": [
+                        9.125245,
+                        39.208702
+                  ]
+            },
+            {
+                  "name": "Museo Etnografico Regionale - Collezione Cocco",
+                  "text": "Muzeul etnografic regional din Cagliari, care găzduiește colecția de artă sardă a lui Luigi Cocco.",
+                  "category": "museum",
+                  "coords": [
+                        9.117164,
+                        39.222923
+                  ]
+            },
+            {
+                  "name": "Museo delle cere anatomiche \"Clemente Susini\"",
+                  "text": "Muzeul de ceruri anatomice din Cagliari, prezentând modelele create de Clemente Susini la începutul secolului al XIX-lea.",
+                  "category": "museum",
+                  "coords": [
+                        9.116967,
+                        39.222005
+                  ]
+            },
+            {
+                  "name": "Auditorium del Conservatorio",
+                  "text": "Sala de concerte a conservatorului de muzică din Cagliari, un loc important pentru spectacole de muzică clasică.",
+                  "category": "cultural",
+                  "coords": [
+                        9.12122,
+                        39.225292
+                  ]
+            },
+            {
+                  "name": "Grotta della Vipera",
+                  "text": "Monument funerar roman din secolul al II-lea în Cagliari, numit după reliefurile cu șerpi de pe pereți.",
+                  "category": "historical",
+                  "coords": [
+                        9.099891,
+                        39.227868
+                  ]
+            },
+            {
+                  "name": "Collezione sarda Luigi Piloni",
+                  "text": "Această colecție aparținând Universității din Cagliari cuprinde opere de artă sardă, hărți, textile și obiecte etnografice rare.",
+                  "category": "museum",
+                  "coords": [
+                        9.11505,
+                        39.217282
+                  ]
+            },
+            {
+                  "name": "Museo Ferroviario Sardo",
+                  "text": "Muzeul feroviar din Cagliari expune locomotive istorice, vagoane și obiecte care reflectă istoria căilor ferate de pe insulă.",
+                  "category": "museum",
+                  "coords": [
+                        9.108289,
+                        39.215418
+                  ]
+            },
+            {
+                  "name": "Villa di Tigellio",
+                  "text": "Acest sit arheologic din Cagliari cuprinde vestigiile unor locuințe romane și ale unui complex termal din secolul al II-lea d.Hr.",
+                  "category": "historical",
+                  "coords": [
+                        9.108551,
+                        39.220613
+                  ]
+            },
+            {
+                  "name": "ExMà",
+                  "text": "Fostul abator municipal din Cagliari funcționează astăzi ca un centru cultural vibrant pentru expoziții, concerte și evenimente.",
+                  "category": "museum",
+                  "coords": [
+                        9.120423,
+                        39.214486
+                  ]
+            },
+            {
+                  "name": "Teatro Alfieri",
+                  "text": "Teatro Alfieri este o sală de spectacole istorică din Cagliari, cunoscută pentru programul său divers de piese de teatru.",
+                  "category": "cultural",
+                  "coords": [
+                        9.133393,
+                        39.207744
+                  ]
+            },
+            {
+                  "name": "Teatro Lirico di Cagliari",
+                  "text": "Opera modernă din Cagliari este inima culturală a orașului pentru spectacole de operă, balet și concerte simfonice.",
+                  "category": "cultural",
+                  "coords": [
+                        9.12338,
+                        39.226279
+                  ]
+            },
+            {
+                  "name": "Teatro delle Saline",
+                  "text": "Situat în zona Molentargius, acest teatru este cunoscut pentru producțiile sale de avangardă și spectacolele contemporane.",
+                  "category": "cultural",
+                  "coords": [
+                        9.144224,
+                        39.206579
+                  ]
+            },
+            {
+                  "name": "Ghetto degli Ebrei",
+                  "text": "Fostul cartier evreiesc din districtul Castello servește astăzi ca centru expozițional și spațiu pentru evenimente culturale.",
+                  "category": "historical",
+                  "coords": [
+                        9.114794,
+                        39.220411
+                  ]
+            },
+            {
+                  "name": "Galleria Comunale d'Arte",
+                  "text": "Galerie municipală de artă din Grădinile Publice, care găzduiește o colecție de lucrări italiene din secolul al XX-lea.",
+                  "category": "museum",
+                  "coords": [
+                        9.115881,
+                        39.225994
+                  ]
+            },
+            {
+                  "name": "Parco archeologico di Tuvixeddu",
+                  "text": "Necropolă punică importantă situată pe un deal, cuprinzând sute de morminte săpate în calcar.",
+                  "category": "historical",
+                  "coords": [
+                        9.102891,
+                        39.229336
+                  ]
+            },
+            {
+                  "name": "Necropoli di San Saturnino",
+                  "text": "Sit arheologic antic de lângă bazilica San Saturnino, conținând morminte creștine din epoca romană.",
+                  "category": "historical",
+                  "coords": [
+                        9.123441,
+                        39.213858
+                  ]
+            },
+            {
+                  "name": "Saline di Molentargius",
+                  "text": "Rezervație naturală și zonă umedă, cunoscută ca habitat important pentru flamingo roz.",
+                  "category": "natural",
+                  "coords": [
+                        9.166855,
+                        39.219295
+                  ]
+            },
+            {
+                  "name": "Museo del Mattoncino Karalisbrick",
+                  "text": "Muzeu cu expoziții creative și modele construite în întregime din piese LEGO.",
+                  "category": "museum",
+                  "coords": [
+                        9.106012,
+                        39.222203
+                  ]
+            },
+            {
+                  "name": "Cubicolo di Munazio Ireneo",
+                  "text": "Cameră funerară romană cu picturi murale și inscripții istorice din anticul Karalis.",
+                  "category": "historical",
+                  "coords": [
+                        9.12446,
+                        39.210072
+                  ]
+            },
+            {
+                  "name": "Palazzo di Città",
+                  "text": "Clădire istorică în cartierul Castello, utilizată astăzi pentru expoziții de artă și colecții civice.",
+                  "category": "museum",
+                  "coords": [
+                        9.116568,
+                        39.218631
+                  ]
+            },
+            {
+                  "name": "Tomba di Sid",
+                  "text": "Sit arheologic din perioada punică, oferind perspective asupra riturilor funerare antice.",
+                  "category": "historical",
+                  "coords": [
+                        9.100924,
+                        39.229059
+                  ]
+            },
+            {
+                  "name": "Casa Massonica",
+                  "text": "Clădire istorică ce documentează istoria și simbolurile francmasoneriei în capitala sardiniană.",
+                  "category": "museum",
+                  "coords": [
+                        9.116692,
+                        39.220825
+                  ]
+            },
+            {
+                  "name": "Pozzo Sacro",
+                  "text": "Puț sacru subteran din epoca nuragică, utilizat pentru ritualuri antice legate de apă.",
+                  "category": "historical",
+                  "coords": [
+                        9.115099,
+                        39.232365
+                  ]
+            },
+            {
+                  "name": "Cisterna Medievale",
+                  "text": "O cisternă medievală situată sub cartierul Castello, utilizată în trecut pentru alimentarea cu apă a orașului.",
+                  "category": "historical",
+                  "coords": [
+                        9.115163,
+                        39.219293
+                  ]
+            },
+            {
+                  "name": "Tombe puniche",
+                  "text": "Morminte punice antice din Cagliari, care oferă informații despre timpuria așezare feniciană de pe insulă.",
+                  "category": "historical",
+                  "coords": [
+                        9.114913,
+                        39.233519
+                  ]
+            },
+            {
+                  "name": "Museo di Antropologia Sarda e di Zoologia",
+                  "text": "Muzeul prezintă colecții de antropologie sardă și diversitatea zoologică a insulei.",
+                  "category": "museum",
+                  "coords": [
+                        9.139871,
+                        39.20223
+                  ]
+            },
+            {
+                  "name": "Cripta di Sant'Agostino",
+                  "text": "Sit arheologic subteran din Cagliari, legat de istoria Sfântului Augustin.",
+                  "category": "historical",
+                  "coords": [
+                        9.111145,
+                        39.215427
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Giorgino",
+                  "text": "O secțiune de plajă tradițională din Cagliari, situată lângă portul industrial și populară printre localnici.",
+                  "category": "recreational",
+                  "coords": [
+                        9.091567,
+                        39.211984
+                  ]
+            },
+            {
+                  "name": "Chiesa di Santa Lucia",
+                  "text": "Vestigii arheologice ale fostei biserici Santa Lucia din centrul istoric al orașului Cagliari.",
+                  "category": "historical",
+                  "coords": [
+                        9.112887,
+                        39.214552
+                  ]
+            },
+            {
+                  "name": "Resti della tenuta Serra",
+                  "text": "Sit arheologic cu rămășițele unei proprietăți istorice, oferind detalii despre arhitectura rurală.",
+                  "category": "historical",
+                  "coords": [
+                        9.13249,
+                        39.23163
+                  ]
+            },
+            {
+                  "name": "Area Archeologica di Santa Caterina",
+                  "text": "Zonă arheologică centrală din Cagliari, care cuprinde descoperiri din diverse faze istorice de așezare.",
+                  "category": "historical",
+                  "coords": [
+                        9.116498,
+                        39.216729
+                  ]
+            },
+            {
+                  "name": "Spiaggia della Diga",
+                  "text": "O zonă de coastă lângă digul din Cagliari, utilizată pentru plimbări și relaxare la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        9.128363,
+                        39.199738
+                  ]
+            },
+            {
+                  "name": "Città fenicia",
+                  "text": "Rămășițele vechiului așezământ fenician din Cagliari.",
+                  "category": "historical",
+                  "coords": [
+                        9.098066,
+                        39.223517
+                  ]
+            },
+            {
+                  "name": "Tomba dei Pesci e delle Spighe",
+                  "text": "Un mormânt antic din Cagliari, cunoscut pentru decorațiunile sale simbolice.",
+                  "category": "historical",
+                  "coords": [
+                        9.100428,
+                        39.226849
+                  ]
+            },
+            {
+                  "name": "Parco Naturale Regionale \"Molentargius-Saline\"",
+                  "text": "O importantă rezervație naturală și zonă umedă, celebră pentru flamingii roz.",
+                  "category": "natural",
+                  "coords": [
+                        9.179025,
+                        39.219294
+                  ]
+            },
+            {
+                  "name": "Necropoli di vico Terzo Lanusei",
+                  "text": "O necropolă antică din Cagliari ce cuprinde morminte din diverse perioade istorice.",
+                  "category": "historical",
+                  "coords": [
+                        9.118227,
+                        39.213496
+                  ]
+            },
+            {
+                  "name": "Cava romana",
+                  "text": "O carieră de piatră romană antică ce atestă metodele istorice de extracție.",
+                  "category": "historical",
+                  "coords": [
+                        9.111178,
+                        39.222705
+                  ]
+            },
+            {
+                  "name": "Chiostro di San Francesco",
+                  "text": "Rămășițele arheologice ale claustrului fostei biserici franciscane.",
+                  "category": "historical",
+                  "coords": [
+                        9.111762,
+                        39.217434
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Romano",
+                  "text": "Un amfiteatru roman spectaculos din secolul al II-lea, săpat direct în stâncă.",
+                  "category": "historical",
+                  "coords": [
+                        9.113231,
+                        39.223997
+                  ]
+            },
+            {
+                  "name": "Parco di Monte Urpinu",
+                  "text": "Un parc urban vast situat pe un deal, oferind vederi panoramice asupra Golfului Cagliari.",
+                  "category": "park",
+                  "coords": [
+                        9.134456,
+                        39.215435
+                  ]
+            },
+            {
+                  "name": "Orto dei Cappuccini",
+                  "text": "O grădină istorică ce a servit inițial ca grădină de legume a călugărilor capucini.",
+                  "category": "park",
+                  "coords": [
+                        9.111396,
+                        39.224858
+                  ]
+            },
+            {
+                  "name": "Parco di Monte Claro",
+                  "text": "Un parc public spațios din Cagliari, oferind zone verzi și alei de plimbare pentru vizitatori.",
+                  "category": "park",
+                  "coords": [
+                        9.115749,
+                        39.234544
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Domenico",
+                  "text": "O biserică cu elemente gotice și aragoneze remarcabile, situată în cartierul Villanova.",
+                  "category": "religious",
+                  "coords": [
+                        9.120199,
+                        39.219157
+                  ]
+            },
+            {
+                  "name": "Torre dello Sperone",
+                  "text": "Un turn defensiv istoric din Cagliari, care a făcut parte din fortificațiile medievale ale orașului.",
+                  "category": "tower",
+                  "coords": [
+                        9.111482,
+                        39.218618
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mutseu / Museo Sant'Eulalia",
+                  "text": "Archaeological museum and site in Cagliari featuring Roman remains found beneath the Sant'Eulalia church.",
+                  "category": "museum",
+                  "coords": [
+                        9.114628,
+                        39.214578
+                  ]
+            },
+            {
+                  "name": "Museo dell'arciconfraternita dei Genovesi",
+                  "text": "Museum of the Genoese brotherhood in Cagliari, housing religious art and historical documents.",
+                  "category": "museum",
+                  "coords": [
+                        9.131283,
+                        39.216249
+                  ]
+            },
+            {
+                  "name": "Museo di Bonaria",
+                  "text": "Museum within the Bonaria Sanctuary complex in Cagliari, displaying votive offerings and sacred objects.",
+                  "category": "museum",
+                  "coords": [
+                        9.125245,
+                        39.208702
+                  ]
+            },
+            {
+                  "name": "Museo Etnografico Regionale - Collezione Cocco",
+                  "text": "Regional ethnographic museum in Cagliari housing the Luigi Cocco collection of Sardinian traditional art.",
+                  "category": "museum",
+                  "coords": [
+                        9.117164,
+                        39.222923
+                  ]
+            },
+            {
+                  "name": "Museo delle cere anatomiche \"Clemente Susini\"",
+                  "text": "Museum in Cagliari featuring early 19th-century anatomical wax models created by Clemente Susini.",
+                  "category": "museum",
+                  "coords": [
+                        9.116967,
+                        39.222005
+                  ]
+            },
+            {
+                  "name": "Auditorium del Conservatorio",
+                  "text": "Concert hall of the music conservatory in Cagliari, an important venue for classical music performances.",
+                  "category": "cultural",
+                  "coords": [
+                        9.12122,
+                        39.225292
+                  ]
+            },
+            {
+                  "name": "Grotta della Vipera",
+                  "text": "2nd-century Roman funerary monument in Cagliari named after the viper reliefs carved on its walls.",
+                  "category": "historical",
+                  "coords": [
+                        9.099891,
+                        39.227868
+                  ]
+            },
+            {
+                  "name": "Collezione sarda Luigi Piloni",
+                  "text": "This collection owned by the University of Cagliari features Sardinian artworks, maps, textiles, and rare ethnographic objects.",
+                  "category": "museum",
+                  "coords": [
+                        9.11505,
+                        39.217282
+                  ]
+            },
+            {
+                  "name": "Museo Ferroviario Sardo",
+                  "text": "This railway museum in Cagliari displays historic locomotives, carriages, and items documenting the island's rail history.",
+                  "category": "museum",
+                  "coords": [
+                        9.108289,
+                        39.215418
+                  ]
+            },
+            {
+                  "name": "Villa di Tigellio",
+                  "text": "This archaeological site in Cagliari features the remains of Roman townhouses and a thermal complex dating back to the 2nd century AD.",
+                  "category": "historical",
+                  "coords": [
+                        9.108551,
+                        39.220613
+                  ]
+            },
+            {
+                  "name": "ExMà",
+                  "text": "Cagliari's former municipal slaughterhouse now serves as a vibrant cultural center hosting exhibitions, concerts, and events.",
+                  "category": "museum",
+                  "coords": [
+                        9.120423,
+                        39.214486
+                  ]
+            },
+            {
+                  "name": "Teatro Alfieri",
+                  "text": "Teatro Alfieri is a long-standing theatre in Cagliari, known for its diverse program of plays and cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        9.133393,
+                        39.207744
+                  ]
+            },
+            {
+                  "name": "Teatro Lirico di Cagliari",
+                  "text": "Cagliari's modern opera house is the city's cultural hub for opera performances, ballet, and classical concerts.",
+                  "category": "cultural",
+                  "coords": [
+                        9.12338,
+                        39.226279
+                  ]
+            },
+            {
+                  "name": "Teatro delle Saline",
+                  "text": "Located in the Molentargius area, this theatre is known for its avant-garde productions and contemporary performances.",
+                  "category": "cultural",
+                  "coords": [
+                        9.144224,
+                        39.206579
+                  ]
+            },
+            {
+                  "name": "Ghetto degli Ebrei",
+                  "text": "The former Jewish ghetto in the Castello district now serves as an exhibition center and space for cultural events.",
+                  "category": "historical",
+                  "coords": [
+                        9.114794,
+                        39.220411
+                  ]
+            },
+            {
+                  "name": "Galleria Comunale d'Arte",
+                  "text": "Municipal art gallery located in the Public Gardens, housing a collection of 20th-century Italian works.",
+                  "category": "museum",
+                  "coords": [
+                        9.115881,
+                        39.225994
+                  ]
+            },
+            {
+                  "name": "Parco archeologico di Tuvixeddu",
+                  "text": "Major Punic necropolis situated on a hill, containing hundreds of ancient tombs carved into the limestone.",
+                  "category": "historical",
+                  "coords": [
+                        9.102891,
+                        39.229336
+                  ]
+            },
+            {
+                  "name": "Necropoli di San Saturnino",
+                  "text": "Ancient archaeological site near the Basilica of San Saturnino featuring Christian burials from the Roman era.",
+                  "category": "historical",
+                  "coords": [
+                        9.123441,
+                        39.213858
+                  ]
+            },
+            {
+                  "name": "Saline di Molentargius",
+                  "text": "Nature reserve and wetland area, well-known as a vital habitat for pink flamingos.",
+                  "category": "natural",
+                  "coords": [
+                        9.166855,
+                        39.219295
+                  ]
+            },
+            {
+                  "name": "Museo del Mattoncino Karalisbrick",
+                  "text": "Museum featuring creative displays and models built entirely from LEGO bricks.",
+                  "category": "museum",
+                  "coords": [
+                        9.106012,
+                        39.222203
+                  ]
+            },
+            {
+                  "name": "Cubicolo di Munazio Ireneo",
+                  "text": "Roman funerary chamber featuring wall paintings and historical inscriptions from ancient Karalis.",
+                  "category": "historical",
+                  "coords": [
+                        9.12446,
+                        39.210072
+                  ]
+            },
+            {
+                  "name": "Palazzo di Città",
+                  "text": "Historical building in the Castello district, now used for art exhibitions and civic collections.",
+                  "category": "museum",
+                  "coords": [
+                        9.116568,
+                        39.218631
+                  ]
+            },
+            {
+                  "name": "Tomba di Sid",
+                  "text": "Archaeological site from the Punic period, providing insights into ancient funerary rites.",
+                  "category": "historical",
+                  "coords": [
+                        9.100924,
+                        39.229059
+                  ]
+            },
+            {
+                  "name": "Casa Massonica",
+                  "text": "Historical building documenting the history and symbols of Freemasonry in the Sardinian capital.",
+                  "category": "museum",
+                  "coords": [
+                        9.116692,
+                        39.220825
+                  ]
+            },
+            {
+                  "name": "Pozzo Sacro",
+                  "text": "Subterranean sacred well from the Nuragic era, used for ancient water-related rituals.",
+                  "category": "historical",
+                  "coords": [
+                        9.115099,
+                        39.232365
+                  ]
+            },
+            {
+                  "name": "Cisterna Medievale",
+                  "text": "A medieval cistern located beneath the Castello district, formerly used for the city's water supply.",
+                  "category": "historical",
+                  "coords": [
+                        9.115163,
+                        39.219293
+                  ]
+            },
+            {
+                  "name": "Tombe puniche",
+                  "text": "Ancient Punic tombs in Cagliari that offer insights into the island's early Phoenician settlement.",
+                  "category": "historical",
+                  "coords": [
+                        9.114913,
+                        39.233519
+                  ]
+            },
+            {
+                  "name": "Museo di Antropologia Sarda e di Zoologia",
+                  "text": "The museum presents collections on Sardinian anthropology and the island's zoological diversity.",
+                  "category": "museum",
+                  "coords": [
+                        9.139871,
+                        39.20223
+                  ]
+            },
+            {
+                  "name": "Cripta di Sant'Agostino",
+                  "text": "Underground archaeological site in Cagliari, linked to the history of Saint Augustine.",
+                  "category": "historical",
+                  "coords": [
+                        9.111145,
+                        39.215427
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Giorgino",
+                  "text": "A traditional beach section in Cagliari located near the industrial port, popular among locals.",
+                  "category": "recreational",
+                  "coords": [
+                        9.091567,
+                        39.211984
+                  ]
+            },
+            {
+                  "name": "Chiesa di Santa Lucia",
+                  "text": "Archaeological remains of the former Santa Lucia church in the historical center of Cagliari.",
+                  "category": "historical",
+                  "coords": [
+                        9.112887,
+                        39.214552
+                  ]
+            },
+            {
+                  "name": "Resti della tenuta Serra",
+                  "text": "Archaeological site featuring the remains of a historic estate, providing insights into rural architecture.",
+                  "category": "historical",
+                  "coords": [
+                        9.13249,
+                        39.23163
+                  ]
+            },
+            {
+                  "name": "Area Archeologica di Santa Caterina",
+                  "text": "Central archaeological zone in Cagliari, containing finds from various historical settlement phases.",
+                  "category": "historical",
+                  "coords": [
+                        9.116498,
+                        39.216729
+                  ]
+            },
+            {
+                  "name": "Spiaggia della Diga",
+                  "text": "A coastal area by the breakwater in Cagliari, serving as a place for strolls and seaside relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        9.128363,
+                        39.199738
+                  ]
+            },
+            {
+                  "name": "Città fenicia",
+                  "text": "Remains of the ancient Phoenician settlement within the city of Cagliari.",
+                  "category": "historical",
+                  "coords": [
+                        9.098066,
+                        39.223517
+                  ]
+            },
+            {
+                  "name": "Tomba dei Pesci e delle Spighe",
+                  "text": "An ancient tomb in Cagliari, named after its characteristic symbolic decorations.",
+                  "category": "historical",
+                  "coords": [
+                        9.100428,
+                        39.226849
+                  ]
+            },
+            {
+                  "name": "Parco Naturale Regionale \"Molentargius-Saline\"",
+                  "text": "A significant nature reserve and wetland, famous for its population of pink flamingos.",
+                  "category": "natural",
+                  "coords": [
+                        9.179025,
+                        39.219294
+                  ]
+            },
+            {
+                  "name": "Necropoli di vico Terzo Lanusei",
+                  "text": "An ancient necropolis in Cagliari featuring tombs from various historical periods.",
+                  "category": "historical",
+                  "coords": [
+                        9.118227,
+                        39.213496
+                  ]
+            },
+            {
+                  "name": "Cava romana",
+                  "text": "An ancient Roman quarry witnessing the city's historical material extraction.",
+                  "category": "historical",
+                  "coords": [
+                        9.111178,
+                        39.222705
+                  ]
+            },
+            {
+                  "name": "Chiostro di San Francesco",
+                  "text": "Archaeological remains of the former Franciscan church's cloister.",
+                  "category": "historical",
+                  "coords": [
+                        9.111762,
+                        39.217434
+                  ]
+            },
+            {
+                  "name": "Roman Amphiteatre",
+                  "text": "An impressive 2nd-century Roman amphitheatre carved directly into the hillside rock.",
+                  "category": "historical",
+                  "coords": [
+                        9.113231,
+                        39.223997
+                  ]
+            },
+            {
+                  "name": "Parco di Monte Urpinu",
+                  "text": "A large urban park on a hill, offering panoramic views over the Gulf of Cagliari.",
+                  "category": "park",
+                  "coords": [
+                        9.134456,
+                        39.215435
+                  ]
+            },
+            {
+                  "name": "Orto dei Cappuccini",
+                  "text": "A historical garden that originally served as the kitchen garden for Capuchin friars.",
+                  "category": "park",
+                  "coords": [
+                        9.111396,
+                        39.224858
+                  ]
+            },
+            {
+                  "name": "Parco di Monte Claro",
+                  "text": "A large public park in Cagliari featuring green spaces and walking paths for outdoor recreation.",
+                  "category": "park",
+                  "coords": [
+                        9.115749,
+                        39.234544
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Domenico",
+                  "text": "A church featuring notable Gothic and Aragonese architectural elements in the Villanova district.",
+                  "category": "religious",
+                  "coords": [
+                        9.120199,
+                        39.219157
+                  ]
+            },
+            {
+                  "name": "Torre dello Sperone",
+                  "text": "A historical defensive tower in Cagliari that was part of the city's medieval fortifications.",
+                  "category": "tower",
+                  "coords": [
+                        9.111482,
+                        39.218618
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IT-88",
     coords: [9.114, 39.216],
@@ -3724,7 +7675,808 @@ export const italyCities: POI[] = [
     },
   },
   {
-    id: "it-amalfi",
+    id: "it-amalfi", "sights": {
+      "de": [
+            {
+                  "name": "Arsenale di Amalfi",
+                  "text": "Eine ehemalige mittelalterliche Werft, in der heute das Schifffahrtsmuseum von Amalfi untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        14.602051,
+                        40.633809
+                  ]
+            },
+            {
+                  "name": "Basilica del Crocifisso - Museo Diocesiano",
+                  "text": "Das Museum in der Basilika del Crocifisso zeigt religiöse Kunstwerke und Schätze der Diözese Amalfi.",
+                  "category": "museum",
+                  "coords": [
+                        14.603091,
+                        40.634608
+                  ]
+            },
+            {
+                  "name": "Museo La Valle dei Mulini",
+                  "text": "Dieses Museum widmet sich der Geschichte der Papierherstellung im Tal der Mühlen von Amalfi.",
+                  "category": "museum",
+                  "coords": [
+                        14.597179,
+                        40.641044
+                  ]
+            },
+            {
+                  "name": "Museo Duomo",
+                  "text": "Das Dommuseum präsentiert die bedeutendsten Kunstschätze und Reliquien der Kathedrale von Amalfi.",
+                  "category": "museum",
+                  "coords": [
+                        14.611876,
+                        40.649278
+                  ]
+            },
+            {
+                  "name": "Auditorium Oscar Niemeyer",
+                  "text": "Dieses moderne Auditorium wurde vom berühmten Architekten Oscar Niemeyer entworfen und dient als Konzertsaal.",
+                  "category": "cultural",
+                  "coords": [
+                        14.614336,
+                        40.650903
+                  ]
+            },
+            {
+                  "name": "Museo della Carta",
+                  "text": "Das Papiermuseum befindet sich in einer historischen Papierfabrik und zeigt die traditionelle Herstellungstechnik.",
+                  "category": "museum",
+                  "coords": [
+                        14.599698,
+                        40.639712
+                  ]
+            },
+            {
+                  "name": "Castello Lauritano",
+                  "text": "Diese historische Festung bietet einen weiten Panoramablick über die Küste von Amalfi.",
+                  "category": "castle",
+                  "coords": [
+                        14.576023,
+                        40.627398
+                  ]
+            },
+            {
+                  "name": "Il Ninfeo - Villa Romana",
+                  "text": "Diese archäologische Stätte umfasst die Überreste eines Nymphäums aus einer antiken römischen Villa.",
+                  "category": "historical",
+                  "coords": [
+                        14.602137,
+                        40.634848
+                  ]
+            },
+            {
+                  "name": "Villa Marittima Archeologica Romana",
+                  "text": "Dieses Museum bewahrt die archäologischen Funde einer antiken römischen Seevilla an der Küste.",
+                  "category": "museum",
+                  "coords": [
+                        14.626073,
+                        40.650569
+                  ]
+            },
+            {
+                  "name": "Pascal",
+                  "text": "Dieses Museum präsentiert die feine lokale Keramikkunst, die für die Region Amalfi charakteristisch ist.",
+                  "category": "museum",
+                  "coords": [
+                        14.611708,
+                        40.65022
+                  ]
+            },
+            {
+                  "name": "Escher in Atrani",
+                  "text": "Dieses Museum widmet sich dem Werk von M.C. Escher, der sich oft von der Architektur in Atrani inspirieren ließ.",
+                  "category": "museum",
+                  "coords": [
+                        14.608432,
+                        40.636602
+                  ]
+            },
+            {
+                  "name": "Spiaggia Duoglio",
+                  "text": "Ein malerischer Kieselstrand in der Nähe von Amalfi, der über eine lange Treppe erreichbar ist.",
+                  "category": "recreational",
+                  "coords": [
+                        14.58833,
+                        40.626
+                  ]
+            },
+            {
+                  "name": "Castiglione",
+                  "text": "Ein kleiner Sand- und Kiesstrand in der Nähe von Atrani an der Amalfiküste.",
+                  "category": "recreational",
+                  "coords": [
+                        14.610896,
+                        40.636836
+                  ]
+            },
+            {
+                  "name": "Spiaggia della Vite",
+                  "text": "Ein abgelegener Strand an der Amalfiküste, der oft nur mit dem Boot erreichbar ist.",
+                  "category": "recreational",
+                  "coords": [
+                        14.577532,
+                        40.618662
+                  ]
+            },
+            {
+                  "name": "Torre Saracena",
+                  "text": "Ein historischer Wehrturm an der Küste von Amalfi, der einst der Verteidigung diente.",
+                  "category": "castle",
+                  "coords": [
+                        14.606956,
+                        40.632933
+                  ]
+            },
+            {
+                  "name": "Castello Mezzacapo",
+                  "text": "Eine markante Burgruine mit Blick auf das Meer in der Nähe von Maiori.",
+                  "category": "castle",
+                  "coords": [
+                        14.633244,
+                        40.648371
+                  ]
+            },
+            {
+                  "name": "Riserva naturale Valle delle Ferriere",
+                  "text": "Ein geschütztes Naturreservat oberhalb von Amalfi mit Wasserfällen und seltener Flora.",
+                  "category": "natural",
+                  "coords": [
+                        14.580061,
+                        40.660224
+                  ]
+            },
+            {
+                  "name": "Balnea",
+                  "text": "Archäologische Überreste antiker Bäder, die Zeugnis von der römischen Geschichte der Region ablegen.",
+                  "category": "historical",
+                  "coords": [
+                        14.613223,
+                        40.648911
+                  ]
+            },
+            {
+                  "name": "Terrazza dell'Infinito",
+                  "text": "Ein berühmter Aussichtspunkt in der Villa Cimbrone in Ravello mit Panoramablick auf das Meer.",
+                  "category": "natural",
+                  "coords": [
+                        14.610113,
+                        40.642101
+                  ]
+            },
+            {
+                  "name": "Basilica di Santa Trofimena",
+                  "text": "Eine bedeutende Barockkirche in Minori, die den Reliquien der Heiligen Trofimena gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        14.627934,
+                        40.650377
+                  ]
+            },
+            {
+                  "name": "Duomo di San Lorenzo",
+                  "text": "Die Hauptkirche von Scala, der ältesten Stadt an der Amalfiküste.",
+                  "category": "religious",
+                  "coords": [
+                        14.608195,
+                        40.653514
+                  ]
+            },
+            {
+                  "name": "Torre di Pogerola",
+                  "text": "Ein historischer Aussichtsturm im Bergdorf Pogerola oberhalb von Amalfi.",
+                  "category": "tower",
+                  "coords": [
+                        14.597813,
+                        40.635427
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Arsenale di Amalfi",
+                  "text": "Egykori középkori hajógyár, amely ma Amalfi tengerészeti múzeumának ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        14.602051,
+                        40.633809
+                  ]
+            },
+            {
+                  "name": "Basilica del Crocifisso - Museo Diocesiano",
+                  "text": "A Basilica del Crocifisso épületében található múzeum Amalfi vallási művészeti kincseit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        14.603091,
+                        40.634608
+                  ]
+            },
+            {
+                  "name": "Museo La Valle dei Mulini",
+                  "text": "Ez a múzeum az amalfi Malmok völgyében zajló papírgyártás történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        14.597179,
+                        40.641044
+                  ]
+            },
+            {
+                  "name": "Museo Duomo",
+                  "text": "A dóm múzeuma az amalfi székesegyház legfontosabb művészeti kincseit és ereklyéit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        14.611876,
+                        40.649278
+                  ]
+            },
+            {
+                  "name": "Auditorium Oscar Niemeyer",
+                  "text": "Ezt a modern auditóriumot a híres építész, Oscar Niemeyer tervezte, és koncertteremként működik.",
+                  "category": "cultural",
+                  "coords": [
+                        14.614336,
+                        40.650903
+                  ]
+            },
+            {
+                  "name": "Museo della Carta",
+                  "text": "A papírmúzeum egy történelmi papírmalomban található, és a hagyományos gyártási technikákat mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        14.599698,
+                        40.639712
+                  ]
+            },
+            {
+                  "name": "Castello Lauritano",
+                  "text": "Ez a történelmi erődítmény széles panorámát kínál az Amalfi-partra.",
+                  "category": "castle",
+                  "coords": [
+                        14.576023,
+                        40.627398
+                  ]
+            },
+            {
+                  "name": "Il Ninfeo - Villa Romana",
+                  "text": "Ez a régészeti lelőhely egy ókori római villa díszkútjának (nymphäum) maradványait foglalja magában.",
+                  "category": "historical",
+                  "coords": [
+                        14.602137,
+                        40.634848
+                  ]
+            },
+            {
+                  "name": "Villa Marittima Archeologica Romana",
+                  "text": "Ez a múzeum egy ókori római tengerparti villa régészeti leleteit őrzi és mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        14.626073,
+                        40.650569
+                  ]
+            },
+            {
+                  "name": "Pascal",
+                  "text": "Ez a múzeum a környékre jellemző finom helyi kerámiaművészetet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        14.611708,
+                        40.65022
+                  ]
+            },
+            {
+                  "name": "Escher in Atrani",
+                  "text": "Ez a múzeum M.C. Escher munkásságának szentelt helyszín, akit gyakran ihletett meg Atrani építészete.",
+                  "category": "museum",
+                  "coords": [
+                        14.608432,
+                        40.636602
+                  ]
+            },
+            {
+                  "name": "Spiaggia Duoglio",
+                  "text": "Egy kavicsos tengerpart Amalfi közelében, amely egy meredek lépcsősoron keresztül érhető el.",
+                  "category": "recreational",
+                  "coords": [
+                        14.58833,
+                        40.626
+                  ]
+            },
+            {
+                  "name": "Castiglione",
+                  "text": "Egy kis homokos és kavicsos strand Atrani közelében, az Amalfi-parton.",
+                  "category": "recreational",
+                  "coords": [
+                        14.610896,
+                        40.636836
+                  ]
+            },
+            {
+                  "name": "Spiaggia della Vite",
+                  "text": "Az Amalfi-part egy félreeső strandja, amely gyakran csak hajóval közelíthető meg.",
+                  "category": "recreational",
+                  "coords": [
+                        14.577532,
+                        40.618662
+                  ]
+            },
+            {
+                  "name": "Torre Saracena",
+                  "text": "Történelmi őrtorony Amalfi partjainál, amely egykor védelmi célokat szolgált.",
+                  "category": "castle",
+                  "coords": [
+                        14.606956,
+                        40.632933
+                  ]
+            },
+            {
+                  "name": "Castello Mezzacapo",
+                  "text": "Egy jellegzetes várkastély a tengerre néző kilátással Maiori közelében.",
+                  "category": "castle",
+                  "coords": [
+                        14.633244,
+                        40.648371
+                  ]
+            },
+            {
+                  "name": "Riserva naturale Valle delle Ferriere",
+                  "text": "Amalfi felett fekvő természetvédelmi terület vízesésekkel és ritka növényvilággal.",
+                  "category": "natural",
+                  "coords": [
+                        14.580061,
+                        40.660224
+                  ]
+            },
+            {
+                  "name": "Balnea",
+                  "text": "Antik fürdők régészeti maradványai, amelyek a régió római kori múltját idézik.",
+                  "category": "historical",
+                  "coords": [
+                        14.613223,
+                        40.648911
+                  ]
+            },
+            {
+                  "name": "Terrazza dell'Infinito",
+                  "text": "A ravellói Villa Cimbrone híres kilátóterasza lenyűgöző tengeri panorámával.",
+                  "category": "natural",
+                  "coords": [
+                        14.610113,
+                        40.642101
+                  ]
+            },
+            {
+                  "name": "Basilica di Santa Trofimena",
+                  "text": "Minori jelentős barokk temploma, amelyet Szent Trofimena ereklyéinek szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        14.627934,
+                        40.650377
+                  ]
+            },
+            {
+                  "name": "Duomo di San Lorenzo",
+                  "text": "Scala központjában található templom, amely az Amalfi-part legrégebbi városa.",
+                  "category": "religious",
+                  "coords": [
+                        14.608195,
+                        40.653514
+                  ]
+            },
+            {
+                  "name": "Torre di Pogerola",
+                  "text": "Történelmi kilátótorony az Amalfi felett fekvő Pogerola hegyi faluban.",
+                  "category": "tower",
+                  "coords": [
+                        14.597813,
+                        40.635427
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Arsenale di Amalfi",
+                  "text": "Un fost șantier naval medieval, care găzduiește astăzi muzeul maritim din Amalfi.",
+                  "category": "museum",
+                  "coords": [
+                        14.602051,
+                        40.633809
+                  ]
+            },
+            {
+                  "name": "Basilica del Crocifisso - Museo Diocesiano",
+                  "text": "Muzeul situat în Basilica del Crocifisso expune obiecte de artă religioasă și comori ale diecezei din Amalfi.",
+                  "category": "museum",
+                  "coords": [
+                        14.603091,
+                        40.634608
+                  ]
+            },
+            {
+                  "name": "Museo La Valle dei Mulini",
+                  "text": "Acest muzeu este dedicat istoriei fabricării hârtiei în Valea Morilor din Amalfi.",
+                  "category": "museum",
+                  "coords": [
+                        14.597179,
+                        40.641044
+                  ]
+            },
+            {
+                  "name": "Museo Duomo",
+                  "text": "Muzeul Domului prezintă cele mai importante comori de artă și relicve ale catedralei din Amalfi.",
+                  "category": "museum",
+                  "coords": [
+                        14.611876,
+                        40.649278
+                  ]
+            },
+            {
+                  "name": "Auditorium Oscar Niemeyer",
+                  "text": "Acest auditorium modern a fost proiectat de celebrul arhitect Oscar Niemeyer și servește drept sală de concerte.",
+                  "category": "cultural",
+                  "coords": [
+                        14.614336,
+                        40.650903
+                  ]
+            },
+            {
+                  "name": "Museo della Carta",
+                  "text": "Muzeul Hârtiei este situat într-o moară istorică și prezintă tehnicile tradiționale de producție.",
+                  "category": "museum",
+                  "coords": [
+                        14.599698,
+                        40.639712
+                  ]
+            },
+            {
+                  "name": "Castello Lauritano",
+                  "text": "Această fortăreață istorică oferă o vedere panoramică vastă asupra coastei Amalfi.",
+                  "category": "castle",
+                  "coords": [
+                        14.576023,
+                        40.627398
+                  ]
+            },
+            {
+                  "name": "Il Ninfeo - Villa Romana",
+                  "text": "Acest sit arheologic cuprinde vestigiile unui nymphaeum dintr-o vilă romană antică.",
+                  "category": "historical",
+                  "coords": [
+                        14.602137,
+                        40.634848
+                  ]
+            },
+            {
+                  "name": "Villa Marittima Archeologica Romana",
+                  "text": "Acest muzeu păstrează vestigiile arheologice ale unei foste vile maritime romane de pe coastă.",
+                  "category": "museum",
+                  "coords": [
+                        14.626073,
+                        40.650569
+                  ]
+            },
+            {
+                  "name": "Pascal",
+                  "text": "Acest muzeu prezintă arta ceramică locală fină, caracteristică regiunii Amalfi.",
+                  "category": "museum",
+                  "coords": [
+                        14.611708,
+                        40.65022
+                  ]
+            },
+            {
+                  "name": "Escher in Atrani",
+                  "text": "Acest muzeu este dedicat operei lui M.C. Escher, care s-a inspirat adesea din arhitectura din Atrani.",
+                  "category": "museum",
+                  "coords": [
+                        14.608432,
+                        40.636602
+                  ]
+            },
+            {
+                  "name": "Spiaggia Duoglio",
+                  "text": "O plajă cu pietriș situată lângă Amalfi, accesibilă printr-o scară lungă.",
+                  "category": "recreational",
+                  "coords": [
+                        14.58833,
+                        40.626
+                  ]
+            },
+            {
+                  "name": "Castiglione",
+                  "text": "O mică plajă cu nisip și pietriș situată lângă Atrani, pe Coasta Amalfi.",
+                  "category": "recreational",
+                  "coords": [
+                        14.610896,
+                        40.636836
+                  ]
+            },
+            {
+                  "name": "Spiaggia della Vite",
+                  "text": "O plajă retrasă de pe Coasta Amalfi, accesibilă adesea doar cu barca.",
+                  "category": "recreational",
+                  "coords": [
+                        14.577532,
+                        40.618662
+                  ]
+            },
+            {
+                  "name": "Torre Saracena",
+                  "text": "Un turn de veghe istoric pe coasta Amalfi, care servea odinioară pentru apărare.",
+                  "category": "castle",
+                  "coords": [
+                        14.606956,
+                        40.632933
+                  ]
+            },
+            {
+                  "name": "Castello Mezzacapo",
+                  "text": "Un castel distinctiv cu vedere la mare situat lângă localitatea Maiori.",
+                  "category": "castle",
+                  "coords": [
+                        14.633244,
+                        40.648371
+                  ]
+            },
+            {
+                  "name": "Riserva naturale Valle delle Ferriere",
+                  "text": "O rezervație naturală protejată deasupra orașului Amalfi, cu cascade și floră rară.",
+                  "category": "natural",
+                  "coords": [
+                        14.580061,
+                        40.660224
+                  ]
+            },
+            {
+                  "name": "Balnea",
+                  "text": "Vestigii arheologice ale unor băi antice care atestă istoria romană a regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        14.613223,
+                        40.648911
+                  ]
+            },
+            {
+                  "name": "Terrazza dell'Infinito",
+                  "text": "Un punct de belvedere faimos în Villa Cimbrone din Ravello, cu vedere panoramică la mare.",
+                  "category": "natural",
+                  "coords": [
+                        14.610113,
+                        40.642101
+                  ]
+            },
+            {
+                  "name": "Basilica di Santa Trofimena",
+                  "text": "O biserică barocă importantă din Minori dedicată moaștelor Sfintei Trofimena.",
+                  "category": "religious",
+                  "coords": [
+                        14.627934,
+                        40.650377
+                  ]
+            },
+            {
+                  "name": "Duomo di San Lorenzo",
+                  "text": "Biserica principală din Scala, cel mai vechi oraș de pe Coasta Amalfi.",
+                  "category": "religious",
+                  "coords": [
+                        14.608195,
+                        40.653514
+                  ]
+            },
+            {
+                  "name": "Torre di Pogerola",
+                  "text": "Un turn istoric de observație în satul de munte Pogerola, situat deasupra orașului Amalfi.",
+                  "category": "tower",
+                  "coords": [
+                        14.597813,
+                        40.635427
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Arsenale di Amalfi",
+                  "text": "A former medieval shipyard that now houses the maritime museum of Amalfi.",
+                  "category": "museum",
+                  "coords": [
+                        14.602051,
+                        40.633809
+                  ]
+            },
+            {
+                  "name": "Basilica del Crocifisso - Museo Diocesiano",
+                  "text": "Located in the Basilica del Crocifisso, this museum displays religious art and treasures of the Diocese of Amalfi.",
+                  "category": "museum",
+                  "coords": [
+                        14.603091,
+                        40.634608
+                  ]
+            },
+            {
+                  "name": "Museo La Valle dei Mulini",
+                  "text": "This museum is dedicated to the history of paper production in Amalfi's Valley of the Mills.",
+                  "category": "museum",
+                  "coords": [
+                        14.597179,
+                        40.641044
+                  ]
+            },
+            {
+                  "name": "Museo Duomo",
+                  "text": "The Cathedral Museum presents the most important art treasures and relics of the Amalfi Cathedral.",
+                  "category": "museum",
+                  "coords": [
+                        14.611876,
+                        40.649278
+                  ]
+            },
+            {
+                  "name": "Auditorium Oscar Niemeyer",
+                  "text": "This modern auditorium was designed by the famous architect Oscar Niemeyer and serves as a concert hall.",
+                  "category": "cultural",
+                  "coords": [
+                        14.614336,
+                        40.650903
+                  ]
+            },
+            {
+                  "name": "Museo della Carta",
+                  "text": "The Paper Museum is located in a historic paper mill and demonstrates traditional production techniques.",
+                  "category": "museum",
+                  "coords": [
+                        14.599698,
+                        40.639712
+                  ]
+            },
+            {
+                  "name": "Castello Lauritano",
+                  "text": "This historic fortress offers a wide panoramic view over the Amalfi Coast.",
+                  "category": "castle",
+                  "coords": [
+                        14.576023,
+                        40.627398
+                  ]
+            },
+            {
+                  "name": "Il Ninfeo - Villa Romana",
+                  "text": "This archaeological site includes the remains of a nymphaeum from an ancient Roman villa.",
+                  "category": "historical",
+                  "coords": [
+                        14.602137,
+                        40.634848
+                  ]
+            },
+            {
+                  "name": "Villa Marittima Archeologica Romana",
+                  "text": "This museum preserves the archaeological findings of an ancient Roman maritime villa on the coast.",
+                  "category": "museum",
+                  "coords": [
+                        14.626073,
+                        40.650569
+                  ]
+            },
+            {
+                  "name": "Pascal",
+                  "text": "This museum showcases the fine local ceramic art characteristic of the Amalfi region.",
+                  "category": "museum",
+                  "coords": [
+                        14.611708,
+                        40.65022
+                  ]
+            },
+            {
+                  "name": "Escher in Atrani",
+                  "text": "This museum is dedicated to the work of M.C. Escher, who was often inspired by the architecture of Atrani.",
+                  "category": "museum",
+                  "coords": [
+                        14.608432,
+                        40.636602
+                  ]
+            },
+            {
+                  "name": "Spiaggia Duoglio",
+                  "text": "A scenic pebble beach near Amalfi accessible via a long flight of steps.",
+                  "category": "recreational",
+                  "coords": [
+                        14.58833,
+                        40.626
+                  ]
+            },
+            {
+                  "name": "Castiglione",
+                  "text": "A small sand and pebble beach located near Atrani on the Amalfi Coast.",
+                  "category": "recreational",
+                  "coords": [
+                        14.610896,
+                        40.636836
+                  ]
+            },
+            {
+                  "name": "Spiaggia della Vite",
+                  "text": "A secluded beach on the Amalfi Coast, often accessible only by boat.",
+                  "category": "recreational",
+                  "coords": [
+                        14.577532,
+                        40.618662
+                  ]
+            },
+            {
+                  "name": "Torre Saracena",
+                  "text": "A historic watchtower on the Amalfi coast that once served defensive purposes.",
+                  "category": "castle",
+                  "coords": [
+                        14.606956,
+                        40.632933
+                  ]
+            },
+            {
+                  "name": "Castello Mezzacapo",
+                  "text": "A distinctive castle overlooking the sea located near the town of Maiori.",
+                  "category": "castle",
+                  "coords": [
+                        14.633244,
+                        40.648371
+                  ]
+            },
+            {
+                  "name": "Riserva naturale Valle delle Ferriere",
+                  "text": "A protected nature reserve above Amalfi featuring waterfalls and rare flora.",
+                  "category": "natural",
+                  "coords": [
+                        14.580061,
+                        40.660224
+                  ]
+            },
+            {
+                  "name": "Balnea",
+                  "text": "Archaeological remains of ancient baths testifying to the Roman history of the region.",
+                  "category": "historical",
+                  "coords": [
+                        14.613223,
+                        40.648911
+                  ]
+            },
+            {
+                  "name": "Terrazza dell'Infinito",
+                  "text": "A famous viewpoint at Villa Cimbrone in Ravello offering panoramic sea views.",
+                  "category": "natural",
+                  "coords": [
+                        14.610113,
+                        40.642101
+                  ]
+            },
+            {
+                  "name": "Basilica di Santa Trofimena",
+                  "text": "A significant Baroque church in Minori dedicated to the relics of Saint Trofimena.",
+                  "category": "religious",
+                  "coords": [
+                        14.627934,
+                        40.650377
+                  ]
+            },
+            {
+                  "name": "Duomo di San Lorenzo",
+                  "text": "The main church of Scala, the oldest town on the Amalfi Coast.",
+                  "category": "religious",
+                  "coords": [
+                        14.608195,
+                        40.653514
+                  ]
+            },
+            {
+                  "name": "Torre di Pogerola",
+                  "text": "A historic observation tower in the mountain village of Pogerola above Amalfi.",
+                  "category": "tower",
+                  "coords": [
+                        14.597813,
+                        40.635427
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IT-72",
     coords: [14.603, 40.634],
