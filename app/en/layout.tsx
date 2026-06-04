@@ -1,21 +1,21 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Plizio: Free Learning for Kids with Tests, Games and Maps",
+  title: "Plizio: Learning, Interactive Maps and City Day Plans",
   description:
-    "Free learning for kids: practice tests, interactive subject games and explorable maps for math, science, history and geography. 4 languages, no sign-up.",
+    "Explore travel destinations and cities with interactive maps and ready-made day plans. Plus free learning and practice tests for kids. 4 languages, no sign-up.",
   openGraph: {
-    title: "Plizio: Free Learning for Kids with Tests, Games and Maps",
+    title: "Plizio: Learning, Interactive Maps and City Day Plans",
     description:
-      "Practice tests, interactive subject games and explorable maps for kids. Math, science, history, geography. 4 languages.",
+      "Travel destinations, cities, interactive maps and day plans. Plus free learning and tests for kids. 4 languages.",
     url: "https://plizio.com/en/",
     locale: "en_US",
     images: ["/logo.png"],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Plizio: Free Learning for Kids with Tests, Games and Maps",
-    description: "Free learning for kids: tests, games and maps. 4 languages, no sign-up.",
+    title: "Plizio: Learning, Interactive Maps and City Day Plans",
+    description: "Travel destinations, maps and day plans, plus learning for kids. 4 languages, no sign-up.",
     images: ["/logo.png"],
   },
   alternates: {

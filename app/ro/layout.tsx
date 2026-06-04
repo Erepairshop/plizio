@@ -1,21 +1,21 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Plizio: Învățare gratuită pentru copii, teste, jocuri, hărți",
+  title: "Plizio: Învățare, hărți interactive și itinerarii de oraș",
   description:
-    "Învățare gratuită pentru copii: teste de exersare, jocuri interactive pe materii și hărți explorabile. Matematică, științe, istorie, geografie. 4 limbi, fără cont.",
+    "Descoperă destinații și orașe cu hărți interactive și itinerarii gata făcute. În plus, învățare gratuită și teste pentru copii. 4 limbi, fără cont.",
   openGraph: {
-    title: "Plizio: Învățare gratuită pentru copii, teste, jocuri, hărți",
+    title: "Plizio: Învățare, hărți interactive și itinerarii de oraș",
     description:
-      "Teste de exersare, jocuri interactive și hărți explorabile pentru copii. Matematică, științe, istorie, geografie. 4 limbi.",
+      "Destinații, orașe, hărți interactive și itinerarii. În plus, învățare gratuită și teste pentru copii. 4 limbi.",
     url: "https://plizio.com/ro/",
     locale: "ro_RO",
     images: ["/logo.png"],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Plizio: Învățare gratuită pentru copii, teste, jocuri, hărți",
-    description: "Învățare gratuită pentru copii: teste, jocuri, hărți. 4 limbi, fără cont.",
+    title: "Plizio: Învățare, hărți interactive și itinerarii de oraș",
+    description: "Destinații, hărți și itinerarii, plus învățare pentru copii. 4 limbi, fără cont.",
     images: ["/logo.png"],
   },
   alternates: {

@@ -204,6 +204,15 @@ try {
 // poi-hr-native.json merge below; renderFAQ uses it for lang === "hr".
 const HR_FAQS: Record<string, FAQItem[]> = {};
 
+// Climate sidecar — 12-month normals (mean/max temp, precip mm) per 0.5° grid
+// cell (NASA POWER climatology). SSR "best time to visit" block; non-duplicate,
+// universal value even for tiny POIs. Keyed by rounded cell coords.
+let CLIMATE: Record<string, { tmean: (number | null)[]; tmax: (number | null)[]; precip: (number | null)[] }> = {};
+try {
+  const fp = path.resolve(process.cwd(), "public", "data", "poi-climate.json");
+  if (fs.existsSync(fp)) CLIMATE = JSON.parse(fs.readFileSync(fp, "utf-8"));
+} catch {}
+
 function renderFAQ(poi: POI, lang: Lang): string {
   const items = (lang === "hr" && HR_FAQS[poi.id]) ? HR_FAQS[poi.id] : FAQS[poi.id];
   if (!items || items.length === 0) return "";
@@ -1593,25 +1602,81 @@ function renderVisitPlanner(poi: POI, lang: Lang, hasPlizioGo: boolean): string 
 // built from the POI's own data (region + country + nearest notable places + distances) + internal
 // links. NOT a Mad-Libs template: region/cities/distances differ per page -> genuinely unique.
 const ROUTE_NOTABLE = new Set(["city", "town", "state-capital", "capital", "landmark", "historical", "monument", "castle", "cathedral", "museum", "mountain", "lake", "island", "beach", "fortress", "palace"]);
+// Cell key must match the Python fetcher: f"{round(lat*2)/2:.1f}_{round(lon*2)/2:.1f}"
+function climateCellKey(lat: number, lon: number): string {
+  let cl = Math.round(lat * 2) / 2; if (cl === 0) cl = 0;
+  let co = Math.round(lon * 2) / 2; if (co === 0) co = 0;
+  return `${cl.toFixed(1)}_${co.toFixed(1)}`;
+}
+const CLIMATE_MON: Partial<Record<Lang, string[]>> = {
+  de: ["Jan","Feb","Mär","Apr","Mai","Jun","Jul","Aug","Sep","Okt","Nov","Dez"],
+  hu: ["Jan","Feb","Már","Ápr","Máj","Jún","Júl","Aug","Sze","Okt","Nov","Dec"],
+  ro: ["Ian","Feb","Mar","Apr","Mai","Iun","Iul","Aug","Sep","Oct","Noi","Dec"],
+  en: ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],
+  fr: ["Jan","Fév","Mar","Avr","Mai","Juin","Juil","Aoû","Sep","Oct","Nov","Déc"],
+  tr: ["Oca","Şub","Mar","Nis","May","Haz","Tem","Ağu","Eyl","Eki","Kas","Ara"],
+  hr: ["Sij","Velj","Ožu","Tra","Svi","Lip","Srp","Kol","Ruj","Lis","Stu","Pro"],
+};
+// Universal climate block: monthly mini-table + "best time to visit" derived from
+// the grid-cell normals. Coordinate-driven, no notability needed.
+function renderClimate(poi: POI, lang: Lang): string {
+  if (!Array.isArray(poi.coords) || poi.coords.length < 2) return "";
+  const c = CLIMATE[climateCellKey(poi.coords[1], poi.coords[0])];
+  if (!c || !Array.isArray(c.tmean) || c.tmean.length !== 12) return "";
+  const tmax = c.tmean, precip = c.precip || [];  // mean temp (T2M) — typical, not extreme
+  // best months: pleasant mean temperature (~ideal 21°C) + low rainfall
+  const scored = tmax.map((tx, i) => {
+    if (tx == null) return { i, s: -1e9 };
+    const pr = precip[i] ?? 0;
+    return { i, s: -Math.abs(tx - 21) - pr / 18 };
+  }).filter((o) => o.s > -1e8);
+  if (scored.length < 6) return "";
+  const best = scored.slice().sort((a, b) => b.s - a.s).slice(0, 3).map((o) => o.i).sort((a, b) => a - b);
+  const mon = CLIMATE_MON[lang] || CLIMATE_MON.en!;
+  const bestStr = (best.length === 3 && best[2] - best[0] === 2) ? `${mon[best[0]]}–${mon[best[2]]}` : best.map((i) => mon[i]).join(", ");
+  const L: Record<string, { title: string; best: (m: string) => string; t: string; p: string }> = {
+    de: { title: "Beste Reisezeit & Klima", best: (m) => `Am angenehmsten reist du im Zeitraum ${m}.`, t: "Ø °C", p: "Regen mm" },
+    hu: { title: "Mikor érdemes menni – éghajlat", best: (m) => `A legkellemesebb időszak: ${m}.`, t: "Átlag °C", p: "Csap. mm" },
+    ro: { title: "Cea mai bună perioadă & climă", best: (m) => `Cea mai plăcută perioadă este ${m}.`, t: "Medie °C", p: "Ploaie mm" },
+    en: { title: "Best time to visit & climate", best: (m) => `The most pleasant time to visit is ${m}.`, t: "Avg °C", p: "Rain mm" },
+    fr: { title: "Meilleure période & climat", best: (m) => `La période la plus agréable est ${m}.`, t: "Moy. °C", p: "Pluie mm" },
+    tr: { title: "En iyi ziyaret zamanı & iklim", best: (m) => `En keyifli dönem: ${m}.`, t: "Ort. °C", p: "Yağmur mm" },
+    hr: { title: "Najbolje vrijeme za posjet & klima", best: (m) => `Najugodnije je razdoblje ${m}.`, t: "Pros. °C", p: "Kiša mm" },
+  };
+  const t = L[lang] || L.en;
+  const bset = new Set(best);
+  const head = mon.map((m, i) => `<th${bset.has(i) ? ' class="b"' : ""}>${escapeHtml(m)}</th>`).join("");
+  const trow = tmax.map((tx, i) => `<td${bset.has(i) ? ' class="b"' : ""}>${tx == null ? "–" : Math.round(tx)}</td>`).join("");
+  const prow = tmax.map((_, i) => { const pr = precip[i]; return `<td${bset.has(i) ? ' class="b"' : ""}>${pr == null ? "–" : Math.round(pr)}</td>`; }).join("");
+  return `<section class="plz-climate" id="sec-climate"><h2>${escapeHtml(t.title)}</h2><p class="plz-climate-best">${escapeHtml(t.best(bestStr))}</p><div class="plz-climate-wrap"><table class="plz-climate-tbl"><thead><tr><th></th>${head}</tr></thead><tbody><tr><td class="rl">${escapeHtml(t.t)}</td>${trow}</tr><tr><td class="rl">${escapeHtml(t.p)}</td>${prow}</tr></tbody></table></div></section>`;
+}
+
 function renderRouteInfo(poi: POI, lang: Lang, countryName: string, regionName: string): string {
   if (!Array.isArray(poi.coords) || poi.coords.length < 2) return "";
   const name = (getLocalized(poi.name, lang) as string) || poi.id;
   const near = getNearbyPois(poi, 14, 130).filter((e) => ROUTE_NOTABLE.has(e.p.type)).slice(0, 4);
   const loc = regionName ? `${regionName}, ${countryName}` : countryName;
-  const L: Record<string, { title: (n: string) => string; lead: (n: string, l: string) => string; nearest: string; modes: (n: string) => string }> = {
-    de: { title: (n) => `Anfahrt & Routenplanung – ${n}`, lead: (n, l) => `${n} liegt in ${l}. Plane deine Anreise und entdecke die Umgebung.`, nearest: "In der Nähe", modes: (n) => `Route nach ${n} planen – mit dem Auto, dem Wohnmobil oder als Wanderung.` },
-    hu: { title: (n) => `Útvonaltervezés és megközelítés – ${n}`, lead: (n, l) => `${n} itt található: ${l}. Tervezd meg az utadat és fedezd fel a környéket.`, nearest: "Közeli helyek", modes: (n) => `Tervezz útvonalat ${n} felé – autóval, lakókocsival vagy gyalogos túraként.` },
-    ro: { title: (n) => `Cum ajungi & planificarea rutei – ${n}`, lead: (n, l) => `${n} se află în ${l}. Planifică-ți călătoria și explorează împrejurimile.`, nearest: "În apropiere", modes: (n) => `Planifică ruta spre ${n} – cu mașina, cu rulota sau pe jos.` },
-    en: { title: (n) => `Getting there & route planning – ${n}`, lead: (n, l) => `${n} is located in ${l}. Plan your trip and explore the surroundings.`, nearest: "Nearby", modes: (n) => `Plan your route to ${n} – by car, by motorhome or as a hike.` },
-    fr: { title: (n) => `Accès & itinéraire – ${n}`, lead: (n, l) => `${n} se situe en ${l}. Planifiez votre trajet et explorez les environs.`, nearest: "À proximité", modes: (n) => `Planifiez votre itinéraire vers ${n} – en voiture, en camping-car ou à pied.` },
-    tr: { title: (n) => `Ulaşım & rota planlama – ${n}`, lead: (n, l) => `${n}, ${l} bölgesinde yer alır. Yolculuğunu planla ve çevreyi keşfet.`, nearest: "Yakında", modes: (n) => `${n} için rota planla – araba, karavan veya yürüyüş ile.` },
-    hr: { title: (n) => `Kako doći & planiranje rute – ${n}`, lead: (n, l) => `${n} se nalazi u ${l}. Isplaniraj put i istraži okolicu.`, nearest: "U blizini", modes: (n) => `Isplaniraj rutu do ${n} – automobilom, kamperom ili pješice.` },
+  const L: Record<string, { title: (n: string) => string; lead: (n: string, l: string) => string; nearest: string; modes: (n: string) => string; mlead: string; car: string; camper: string; hike: string }> = {
+    de: { title: (n) => `Anfahrt & Routenplanung – ${n}`, lead: (n, l) => `${n} liegt in ${l}. Plane deine Anreise und entdecke die Umgebung.`, nearest: "In der Nähe", modes: (n) => `Route nach ${n} planen – mit dem Auto, dem Wohnmobil oder als Wanderung.`, mlead: "Route starten", car: "Auto", camper: "Wohnmobil", hike: "Wanderung" },
+    hu: { title: (n) => `Útvonaltervezés és megközelítés – ${n}`, lead: (n, l) => `${n} itt található: ${l}. Tervezd meg az utadat és fedezd fel a környéket.`, nearest: "Közeli helyek", modes: (n) => `Tervezz útvonalat ${n} felé – autóval, lakókocsival vagy gyalogos túraként.`, mlead: "Útvonal indítása", car: "Autó", camper: "Lakókocsi", hike: "Gyalogtúra" },
+    ro: { title: (n) => `Cum ajungi & planificarea rutei – ${n}`, lead: (n, l) => `${n} se află în ${l}. Planifică-ți călătoria și explorează împrejurimile.`, nearest: "În apropiere", modes: (n) => `Planifică ruta spre ${n} – cu mașina, cu rulota sau pe jos.`, mlead: "Pornește ruta", car: "Mașină", camper: "Rulotă", hike: "Drumeție" },
+    en: { title: (n) => `Getting there & route planning – ${n}`, lead: (n, l) => `${n} is located in ${l}. Plan your trip and explore the surroundings.`, nearest: "Nearby", modes: (n) => `Plan your route to ${n} – by car, by motorhome or as a hike.`, mlead: "Start route", car: "Car", camper: "Motorhome", hike: "Hike" },
+    fr: { title: (n) => `Accès & itinéraire – ${n}`, lead: (n, l) => `${n} se situe en ${l}. Planifiez votre trajet et explorez les environs.`, nearest: "À proximité", modes: (n) => `Planifiez votre itinéraire vers ${n} – en voiture, en camping-car ou à pied.`, mlead: "Lancer l'itinéraire", car: "Voiture", camper: "Camping-car", hike: "Randonnée" },
+    tr: { title: (n) => `Ulaşım & rota planlama – ${n}`, lead: (n, l) => `${n}, ${l} bölgesinde yer alır. Yolculuğunu planla ve çevreyi keşfet.`, nearest: "Yakında", modes: (n) => `${n} için rota planla – araba, karavan veya yürüyüş ile.`, mlead: "Rotayı başlat", car: "Araba", camper: "Karavan", hike: "Yürüyüş" },
+    hr: { title: (n) => `Kako doći & planiranje rute – ${n}`, lead: (n, l) => `${n} se nalazi u ${l}. Isplaniraj put i istraži okolicu.`, nearest: "U blizini", modes: (n) => `Isplaniraj rutu do ${n} – automobilom, kamperom ili pješice.`, mlead: "Pokreni rutu", car: "Auto", camper: "Kamper", hike: "Planinarenje" },
   };
   const t = L[lang] || L.en;
   const nearHtml = near.length
     ? `<p class="plz-route-near"><b>${t.nearest}:</b> ${near.map((e) => `<a href="${poiPathSafe(lang, e.p)}">${escapeHtml((getLocalized(e.p.name, lang) as string) || e.p.id)}</a> (${Math.round(e.km)} km)`).join(", ")}</p>`
     : "";
-  return `<section class="plz-route" id="sec-route"><h2>${escapeHtml(t.title(name))}</h2><p class="plz-route-lead">${escapeHtml(t.lead(name, loc))}</p>${nearHtml}<p class="plz-route-modes">${escapeHtml(t.modes(name))}</p></section>`;
+  const rlat = poi.coords[1], rlon = poi.coords[0];
+  const dir = (tm: string) => `https://www.google.com/maps/dir/?api=1&destination=${rlat},${rlon}&travelmode=${tm}`;
+  const btns = `<div class="plz-route-btns" role="group" aria-label="${escapeHtml(t.mlead)}">`
+    + `<a class="plz-route-btn" href="${dir("driving")}" target="_blank" rel="noopener nofollow">🚗 ${escapeHtml(t.car)}</a>`
+    + `<a class="plz-route-btn" href="${dir("driving")}" target="_blank" rel="noopener nofollow">🚐 ${escapeHtml(t.camper)}</a>`
+    + `<a class="plz-route-btn" href="${dir("walking")}" target="_blank" rel="noopener nofollow">🥾 ${escapeHtml(t.hike)}</a>`
+    + `</div>`;
+  return `<section class="plz-route" id="sec-route"><h2>${escapeHtml(t.title(name))}</h2><p class="plz-route-lead">${escapeHtml(t.lead(name, loc))}</p>${nearHtml}<p class="plz-route-modes">${escapeHtml(t.modes(name))}</p>${btns}</section>`;
 }
 
 // Stats-chip row: compact data summary under the title (mobile-first)
@@ -2319,7 +2384,7 @@ ready();})();</script>
   </div>
   ${renderVisitInfo(poi, lang)}
   ${descText ? `<section><p class="poi-lead-paragraph">${escapeHtml(descText)}</p></section>` : ""}
-  <div id="sec-itin">${renderCityItinerary(poi, lang)}</div>
+  ${renderClimate(poi, lang)}
   <div id="sec-info">
   ${renderPracticalInfo(poi, lang)}
   ${geoItems.length > 0 || historyHtml ? `<section class="plz-geo-history">${historyHtml}${geoItems.length > 0 ? `<div class="plz-geo-box"><h3>${I("geography", lang)}</h3><div class="plz-meta">${geoItems.join("")}</div></div>` : ""}</section>` : ""}
@@ -2329,6 +2394,7 @@ ready();})();</script>
   ${constellationHtml}
   ${renderRouteInfo(poi, lang, countryName, (poi.parent !== countryId && stateRegion) ? slugs.localizedStateName(poi.parent, lang) : "")}
   ${renderVisitPlanner(poi, lang, richness.hasPlizioGo)}
+  <div id="sec-itin">${renderCityItinerary(poi, lang)}</div>
   ${renderFAQ(poi, lang) || faqHtml}
   <div id="sec-sights">
   ${sightsHtml}
@@ -2392,7 +2458,18 @@ ready();})();</script>
 .plz-route-near b{color:#eaf2ff}
 .plz-route-near a{color:#7fb4ff;text-decoration:none}
 .plz-route-near a:hover{text-decoration:underline}
-.plz-route-modes{color:rgba(180,200,235,.78);font-size:.92rem;margin:.2rem 0 0}
+.plz-route-modes{color:rgba(180,200,235,.78);font-size:.92rem;margin:.2rem 0 .6rem}
+.plz-route-btns{display:flex;flex-wrap:wrap;gap:.5rem}
+.plz-route-btn{display:inline-flex;align-items:center;gap:.35rem;padding:.5rem .85rem;border-radius:.6rem;background:rgba(40,70,120,.45);border:1px solid rgba(120,170,255,.3);color:#eaf2ff;font-size:.92rem;font-weight:600;text-decoration:none;transition:background .15s,border-color .15s}
+.plz-route-btn:hover{background:rgba(60,100,165,.6);border-color:rgba(150,190,255,.55)}
+.plz-climate{margin:1.4rem 0}
+.plz-climate h2{font-size:1.12rem;color:#eaf2ff;margin:0 0 .4rem}
+.plz-climate-best{color:rgba(200,215,240,.9);margin:0 0 .55rem}
+.plz-climate-wrap{overflow-x:auto;-webkit-overflow-scrolling:touch}
+.plz-climate-tbl{border-collapse:collapse;font-size:.82rem;min-width:100%}
+.plz-climate-tbl th,.plz-climate-tbl td{padding:.32rem .42rem;text-align:center;color:rgba(205,218,240,.85);border-bottom:1px solid rgba(120,150,210,.12);white-space:nowrap}
+.plz-climate-tbl td.rl{text-align:left;color:rgba(170,190,225,.7);font-size:.78rem}
+.plz-climate-tbl th.b,.plz-climate-tbl td.b{background:rgba(80,155,95,.22);color:#d8f5dd;font-weight:600}
 .plz-visit{margin:1.4rem 0}
 .plz-vi-h{font-size:1.05rem;font-weight:700;color:#eaf2ff;margin:0 0 .7rem}
 .plz-vi-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:.6rem}

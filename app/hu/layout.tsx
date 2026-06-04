@@ -1,21 +1,21 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Plizio: Ingyenes tanulás gyerekeknek, tesztek, játékok, térképek",
+  title: "Plizio: Tanulás, interaktív térképek és városi útitervek",
   description:
-    "Ingyenes tanulás gyerekeknek: gyakorló tesztek, interaktív tantárgyi játékok és felfedezhető térképek. Matek, természettudomány, történelem, földrajz. 4 nyelv, regisztráció nélkül.",
+    "Fedezz fel úti célokat és városokat interaktív térképekkel és kész napi útitervekkel. Mellette ingyenes tanulás és gyakorló tesztek gyerekeknek. 4 nyelv, regisztráció nélkül.",
   openGraph: {
-    title: "Plizio: Ingyenes tanulás gyerekeknek, tesztek, játékok, térképek",
+    title: "Plizio: Tanulás, interaktív térképek és városi útitervek",
     description:
-      "Gyakorló tesztek, interaktív tantárgyi játékok és felfedezhető térképek gyerekeknek. Matek, természettudomány, történelem, földrajz. 4 nyelv.",
+      "Úti célok, városok, interaktív térképek és napi útitervek. Mellette ingyenes tanulás és tesztek gyerekeknek. 4 nyelv.",
     url: "https://plizio.com/hu/",
     locale: "hu_HU",
     images: ["/logo.png"],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Plizio: Ingyenes tanulás gyerekeknek, tesztek, játékok, térképek",
-    description: "Ingyenes tanulás gyerekeknek: tesztek, játékok, térképek. 4 nyelv, regisztráció nélkül.",
+    title: "Plizio: Tanulás, interaktív térképek és városi útitervek",
+    description: "Úti célok, térképek és napi útitervek, mellette tanulás gyerekeknek. 4 nyelv, regisztráció nélkül.",
     images: ["/logo.png"],
   },
   alternates: {

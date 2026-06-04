@@ -19,28 +19,28 @@ const caveat = Caveat({
 export const metadata: Metadata = {
   metadataBase: new URL("https://plizio.com"),
   title: {
-    default: "Plizio: Free Learning for Kids with Tests, Games and Maps",
+    default: "Plizio: Learning, Interactive Maps and City Day Plans",
     template: "%s | PLIZIO",
   },
   description:
-    "Free learning for kids: practice tests, interactive subject games and explorable maps for math, science, history and geography. 4 languages, no sign-up.",
+    "Explore travel destinations and cities with interactive maps and ready-made day plans. Plus free learning and practice tests for kids. 4 languages, no sign-up.",
   keywords: [
     // English
-    "free learning games for kids", "online school tests", "interactive map for kids",
-    "math games for kids", "science games", "history quiz", "geography map",
-    "educational games free", "learn online free", "study games", "exam practice tests",
+    "travel destinations", "city travel guide", "things to do", "city day plan", "interactive travel map",
+    "free learning for kids", "online school tests", "interactive map for kids",
+    "history quiz", "geography map", "learn online free", "exam practice tests",
     // Magyar (Hungarian)
-    "ingyenes tanulójátékok", "online teszt gyerekeknek", "interaktív térkép",
-    "matek játék gyerekeknek", "természettudomány játék", "történelem kvíz", "földrajz térkép",
-    "oktató játékok ingyen", "tanulás online", "gyakorló teszt",
+    "úti célok", "városnéző útiterv", "látnivalók", "egy nap a városban", "interaktív térkép",
+    "ingyenes tanulás gyerekeknek", "online teszt gyerekeknek",
+    "történelem kvíz", "földrajz térkép", "tanulás online", "gyakorló teszt",
     // Deutsch (German)
-    "kostenlose Lernspiele für Kinder", "Online-Tests Schule", "interaktive Karte für Kinder",
-    "Mathe-Spiele Kinder", "Wissenschaftsspiele", "Geschichte Quiz", "Geografie Karte",
-    "Lernspiele kostenlos", "online lernen kostenlos", "Übungstests Schule",
+    "Reiseziele", "Städtereise Tipps", "Sehenswürdigkeiten", "Tagesplan Stadt", "interaktive Karte",
+    "kostenlos lernen für Kinder", "Online-Tests Schule",
+    "Geschichte Quiz", "Geografie Karte", "online lernen kostenlos", "Übungstests Schule",
     // Română (Romanian)
-    "jocuri educative gratuite", "teste școlare online", "hartă interactivă pentru copii",
-    "jocuri matematică copii", "jocuri știință", "quiz istorie", "hartă geografie",
-    "învățare online gratuit", "teste de exersare", "jocuri pentru copii",
+    "destinații de călătorie", "ghid oraș", "obiective turistice", "itinerar de oraș", "hartă interactivă",
+    "învățare gratuită pentru copii", "teste școlare online",
+    "quiz istorie", "hartă geografie", "învățare online gratuit", "teste de exersare",
   ],
   manifest: "/manifest.json",
   appleWebApp: {
@@ -51,24 +51,24 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     siteName: "PLIZIO",
-    title: "Plizio: Free Learning for Kids with Tests, Games and Maps",
+    title: "Plizio: Learning, Interactive Maps and City Day Plans",
     description:
-      "Free learning for kids: practice tests, interactive subject games and explorable maps for math, science, history and geography. 4 languages, no sign-up.",
+      "Explore travel destinations and cities with interactive maps and ready-made day plans. Plus free learning and practice tests for kids. 4 languages, no sign-up.",
     url: "https://plizio.com",
     images: [
       {
         url: "/logo.png",
         width: 600,
         height: 409,
-        alt: "Plizio: learning for kids with tests, games and maps",
+        alt: "Plizio: interactive maps, city day plans and learning for kids",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Plizio: Free Learning for Kids with Tests, Games and Maps",
+    title: "Plizio: Learning, Interactive Maps and City Day Plans",
     description:
-      "Free learning for kids: practice tests, interactive games and explorable maps. Math, science, history, geography. 4 languages, no sign-up.",
+      "Travel destinations, interactive maps and city day plans, plus free learning and tests for kids. 4 languages, no sign-up.",
     images: ["/logo.png"],
   },
   robots: {
