@@ -8901,7 +8901,592 @@ export const franceCities: POI[] = [
     },
   },
   {
-    id: "fr-calanques",
+    id: "fr-calanques", "sights": {
+      "de": [
+            {
+                  "name": "Queyrons",
+                  "text": "Queyrons ist ein schöner Strand in der Küstenstadt Cassis.",
+                  "category": "recreational",
+                  "coords": [
+                        5.462228,
+                        43.210098
+                  ]
+            },
+            {
+                  "name": "Plage du Bestouan",
+                  "text": "Plage du Bestouan ist ein beliebter Strand, der in Cassis liegt.",
+                  "category": "recreational",
+                  "coords": [
+                        5.531278,
+                        43.212949
+                  ]
+            },
+            {
+                  "name": "Plage La Grande Mer",
+                  "text": "Plage La Grande Mer ist ein weitläufiger Strand im Zentrum von Cassis.",
+                  "category": "recreational",
+                  "coords": [
+                        5.537541,
+                        43.212792
+                  ]
+            },
+            {
+                  "name": "Plage d'En Vau",
+                  "text": "Plage d'En Vau ist ein atemberaubender Strandabschnitt in den Calanques von Cassis.",
+                  "category": "recreational",
+                  "coords": [
+                        5.498097,
+                        43.202344
+                  ]
+            },
+            {
+                  "name": "Plage naturiste des Pierres Tombées",
+                  "text": "Plage naturiste des Pierres Tombées ist ein FKK-Strand in Cassis.",
+                  "category": "recreational",
+                  "coords": [
+                        5.457126,
+                        43.211454
+                  ]
+            },
+            {
+                  "name": "Plage des Capucins",
+                  "text": "Plage des Capucins ist ein entspannender Strand, der sich in Cassis befindet.",
+                  "category": "recreational",
+                  "coords": [
+                        5.614369,
+                        43.181643
+                  ]
+            },
+            {
+                  "name": "Calanque de Figuerolles",
+                  "text": "Calanque de Figuerolles ist eine faszinierende Felsbucht mit Strand in Cassis.",
+                  "category": "recreational",
+                  "coords": [
+                        5.597284,
+                        43.166952
+                  ]
+            },
+            {
+                  "name": "Plage Calanque du Grand Mugel",
+                  "text": "Plage Calanque du Grand Mugel ist ein idyllischer Strand in einer Bucht von Cassis.",
+                  "category": "recreational",
+                  "coords": [
+                        5.606057,
+                        43.166241
+                  ]
+            },
+            {
+                  "name": "Plage du Corton",
+                  "text": "Plage du Corton ist ein ruhiger kleiner Strand, der in Cassis liegt.",
+                  "category": "recreational",
+                  "coords": [
+                        5.544791,
+                        43.210657
+                  ]
+            },
+            {
+                  "name": "Plage de Port Pin",
+                  "text": "Plage de Port Pin ist ein landschaftlich reizvoller Strand in der Region Cassis.",
+                  "category": "recreational",
+                  "coords": [
+                        5.510675,
+                        43.203952
+                  ]
+            },
+            {
+                  "name": "Plage Lumière",
+                  "text": "Plage Lumière ist ein Strand in der Stadt Cassis.",
+                  "category": "recreational",
+                  "coords": [
+                        5.621205,
+                        43.18566
+                  ]
+            },
+            {
+                  "name": "Plage Canine",
+                  "text": "Plage Canine ist ein Strand in der Stadt Cassis.",
+                  "category": "recreational",
+                  "coords": [
+                        5.615552,
+                        43.18229
+                  ]
+            },
+            {
+                  "name": "Plage Calanque du Petit Mugel",
+                  "text": "Plage Calanque du Petit Mugel ist ein Strand in der Stadt Cassis.",
+                  "category": "recreational",
+                  "coords": [
+                        5.60605,
+                        43.164987
+                  ]
+            },
+            {
+                  "name": "Plage Cyrnos",
+                  "text": "Plage Cyrnos ist ein Strand in der Stadt Cassis.",
+                  "category": "recreational",
+                  "coords": [
+                        5.618543,
+                        43.184221
+                  ]
+            },
+            {
+                  "name": "Plage de l’Arène",
+                  "text": "Plage de l’Arène ist ein Strand in Cassis, nahe Cap Naia.",
+                  "category": "recreational",
+                  "coords": [
+                        5.548667,
+                        43.208181
+                  ]
+            },
+            {
+                  "name": "Plage Bleue",
+                  "text": "Plage Bleue ist ein Strand in der Stadt Cassis.",
+                  "category": "recreational",
+                  "coords": [
+                        5.518574,
+                        43.205159
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Queyrons",
+                  "text": "A Queyrons egy szép strand Cassis tengerparti városában.",
+                  "category": "recreational",
+                  "coords": [
+                        5.462228,
+                        43.210098
+                  ]
+            },
+            {
+                  "name": "Plage du Bestouan",
+                  "text": "A Plage du Bestouan egy népszerű strand, amely Cassis-ban fekszik.",
+                  "category": "recreational",
+                  "coords": [
+                        5.531278,
+                        43.212949
+                  ]
+            },
+            {
+                  "name": "Plage La Grande Mer",
+                  "text": "A Plage La Grande Mer egy tágas strand Cassis központjában.",
+                  "category": "recreational",
+                  "coords": [
+                        5.537541,
+                        43.212792
+                  ]
+            },
+            {
+                  "name": "Plage d'En Vau",
+                  "text": "A Plage d'En Vau egy lélegzetelállító partszakasz Cassis calanque-jai között.",
+                  "category": "recreational",
+                  "coords": [
+                        5.498097,
+                        43.202344
+                  ]
+            },
+            {
+                  "name": "Plage naturiste des Pierres Tombées",
+                  "text": "A Plage naturiste des Pierres Tombées egy naturista strand Cassis-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        5.457126,
+                        43.211454
+                  ]
+            },
+            {
+                  "name": "Plage des Capucins",
+                  "text": "A Plage des Capucins egy pihentető strand, amely Cassis városában található.",
+                  "category": "recreational",
+                  "coords": [
+                        5.614369,
+                        43.181643
+                  ]
+            },
+            {
+                  "name": "Calanque de Figuerolles",
+                  "text": "A Calanque de Figuerolles egy lenyűgöző sziklás öböl és strand Cassis-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        5.597284,
+                        43.166952
+                  ]
+            },
+            {
+                  "name": "Plage Calanque du Grand Mugel",
+                  "text": "A Plage Calanque du Grand Mugel egy idilli strand Cassis egyik öblében.",
+                  "category": "recreational",
+                  "coords": [
+                        5.606057,
+                        43.166241
+                  ]
+            },
+            {
+                  "name": "Plage du Corton",
+                  "text": "A Plage du Corton egy csendes kis strand, amely Cassis-ban található.",
+                  "category": "recreational",
+                  "coords": [
+                        5.544791,
+                        43.210657
+                  ]
+            },
+            {
+                  "name": "Plage de Port Pin",
+                  "text": "A Plage de Port Pin egy festői szépségű strand Cassis térségében.",
+                  "category": "recreational",
+                  "coords": [
+                        5.510675,
+                        43.203952
+                  ]
+            },
+            {
+                  "name": "Plage Lumière",
+                  "text": "A Plage Lumière egy strand Cassis városában.",
+                  "category": "recreational",
+                  "coords": [
+                        5.621205,
+                        43.18566
+                  ]
+            },
+            {
+                  "name": "Plage Canine",
+                  "text": "A Plage Canine egy strand Cassis városában.",
+                  "category": "recreational",
+                  "coords": [
+                        5.615552,
+                        43.18229
+                  ]
+            },
+            {
+                  "name": "Plage Calanque du Petit Mugel",
+                  "text": "A Plage Calanque du Petit Mugel egy strand Cassis városában.",
+                  "category": "recreational",
+                  "coords": [
+                        5.60605,
+                        43.164987
+                  ]
+            },
+            {
+                  "name": "Plage Cyrnos",
+                  "text": "A Plage Cyrnos egy strand Cassis városában.",
+                  "category": "recreational",
+                  "coords": [
+                        5.618543,
+                        43.184221
+                  ]
+            },
+            {
+                  "name": "Plage de l’Arène",
+                  "text": "A Plage de l’Arène egy strand Cassis városában, a Cap Naia közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        5.548667,
+                        43.208181
+                  ]
+            },
+            {
+                  "name": "Plage Bleue",
+                  "text": "A Plage Bleue egy strand Cassis városában.",
+                  "category": "recreational",
+                  "coords": [
+                        5.518574,
+                        43.205159
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Queyrons",
+                  "text": "Queyrons este o plajă frumoasă din orașul de coastă Cassis.",
+                  "category": "recreational",
+                  "coords": [
+                        5.462228,
+                        43.210098
+                  ]
+            },
+            {
+                  "name": "Plage du Bestouan",
+                  "text": "Plage du Bestouan este o plajă populară situată în Cassis.",
+                  "category": "recreational",
+                  "coords": [
+                        5.531278,
+                        43.212949
+                  ]
+            },
+            {
+                  "name": "Plage La Grande Mer",
+                  "text": "Plage La Grande Mer este o plajă spațioasă în centrul orașului Cassis.",
+                  "category": "recreational",
+                  "coords": [
+                        5.537541,
+                        43.212792
+                  ]
+            },
+            {
+                  "name": "Plage d'En Vau",
+                  "text": "Plage d'En Vau este o plajă uluitoare printre calanque-urile din Cassis.",
+                  "category": "recreational",
+                  "coords": [
+                        5.498097,
+                        43.202344
+                  ]
+            },
+            {
+                  "name": "Plage naturiste des Pierres Tombées",
+                  "text": "Plage naturiste des Pierres Tombées este o plajă de nudiști în Cassis.",
+                  "category": "recreational",
+                  "coords": [
+                        5.457126,
+                        43.211454
+                  ]
+            },
+            {
+                  "name": "Plage des Capucins",
+                  "text": "Plage des Capucins este o plajă relaxantă situată în orașul Cassis.",
+                  "category": "recreational",
+                  "coords": [
+                        5.614369,
+                        43.181643
+                  ]
+            },
+            {
+                  "name": "Calanque de Figuerolles",
+                  "text": "Calanque de Figuerolles este un golf stâncos fascinant cu plajă din Cassis.",
+                  "category": "recreational",
+                  "coords": [
+                        5.597284,
+                        43.166952
+                  ]
+            },
+            {
+                  "name": "Plage Calanque du Grand Mugel",
+                  "text": "Plage Calanque du Grand Mugel este o plajă idilică într-un golfuleț din Cassis.",
+                  "category": "recreational",
+                  "coords": [
+                        5.606057,
+                        43.166241
+                  ]
+            },
+            {
+                  "name": "Plage du Corton",
+                  "text": "Plage du Corton este o plajă mică și liniștită situată în Cassis.",
+                  "category": "recreational",
+                  "coords": [
+                        5.544791,
+                        43.210657
+                  ]
+            },
+            {
+                  "name": "Plage de Port Pin",
+                  "text": "Plage de Port Pin este o plajă pitorească în regiunea Cassis.",
+                  "category": "recreational",
+                  "coords": [
+                        5.510675,
+                        43.203952
+                  ]
+            },
+            {
+                  "name": "Plage Lumière",
+                  "text": "Plage Lumière este o plajă din orașul Cassis.",
+                  "category": "recreational",
+                  "coords": [
+                        5.621205,
+                        43.18566
+                  ]
+            },
+            {
+                  "name": "Plage Canine",
+                  "text": "Plage Canine este o plajă din orașul Cassis.",
+                  "category": "recreational",
+                  "coords": [
+                        5.615552,
+                        43.18229
+                  ]
+            },
+            {
+                  "name": "Plage Calanque du Petit Mugel",
+                  "text": "Plage Calanque du Petit Mugel este o plajă din orașul Cassis.",
+                  "category": "recreational",
+                  "coords": [
+                        5.60605,
+                        43.164987
+                  ]
+            },
+            {
+                  "name": "Plage Cyrnos",
+                  "text": "Plage Cyrnos este o plajă din orașul Cassis.",
+                  "category": "recreational",
+                  "coords": [
+                        5.618543,
+                        43.184221
+                  ]
+            },
+            {
+                  "name": "Plage de l’Arène",
+                  "text": "Plage de l’Arène este o plajă din Cassis, situată lângă Cap Naia.",
+                  "category": "recreational",
+                  "coords": [
+                        5.548667,
+                        43.208181
+                  ]
+            },
+            {
+                  "name": "Plage Bleue",
+                  "text": "Plage Bleue este o plajă din orașul Cassis.",
+                  "category": "recreational",
+                  "coords": [
+                        5.518574,
+                        43.205159
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Queyrons",
+                  "text": "Queyrons is a beautiful beach in the coastal town of Cassis.",
+                  "category": "recreational",
+                  "coords": [
+                        5.462228,
+                        43.210098
+                  ]
+            },
+            {
+                  "name": "Plage du Bestouan",
+                  "text": "Plage du Bestouan is a popular beach located in Cassis.",
+                  "category": "recreational",
+                  "coords": [
+                        5.531278,
+                        43.212949
+                  ]
+            },
+            {
+                  "name": "Plage La Grande Mer",
+                  "text": "Plage La Grande Mer is a spacious beach in the center of Cassis.",
+                  "category": "recreational",
+                  "coords": [
+                        5.537541,
+                        43.212792
+                  ]
+            },
+            {
+                  "name": "Plage d'En Vau",
+                  "text": "Plage d'En Vau is a stunning beach area nestled within the calanques of Cassis.",
+                  "category": "recreational",
+                  "coords": [
+                        5.498097,
+                        43.202344
+                  ]
+            },
+            {
+                  "name": "Plage naturiste des Pierres Tombées",
+                  "text": "Plage naturiste des Pierres Tombées is a naturist beach located in Cassis.",
+                  "category": "recreational",
+                  "coords": [
+                        5.457126,
+                        43.211454
+                  ]
+            },
+            {
+                  "name": "Plage des Capucins",
+                  "text": "Plage des Capucins is a relaxing beach situated in the town of Cassis.",
+                  "category": "recreational",
+                  "coords": [
+                        5.614369,
+                        43.181643
+                  ]
+            },
+            {
+                  "name": "Calanque de Figuerolles",
+                  "text": "Calanque de Figuerolles is a fascinating rocky cove and beach in Cassis.",
+                  "category": "recreational",
+                  "coords": [
+                        5.597284,
+                        43.166952
+                  ]
+            },
+            {
+                  "name": "Plage Calanque du Grand Mugel",
+                  "text": "Plage Calanque du Grand Mugel is an idyllic beach in a cove of Cassis.",
+                  "category": "recreational",
+                  "coords": [
+                        5.606057,
+                        43.166241
+                  ]
+            },
+            {
+                  "name": "Plage du Corton",
+                  "text": "Plage du Corton is a quiet little beach located in Cassis.",
+                  "category": "recreational",
+                  "coords": [
+                        5.544791,
+                        43.210657
+                  ]
+            },
+            {
+                  "name": "Plage de Port Pin",
+                  "text": "Plage de Port Pin is a highly scenic beach in the Cassis area.",
+                  "category": "recreational",
+                  "coords": [
+                        5.510675,
+                        43.203952
+                  ]
+            },
+            {
+                  "name": "Plage Lumière",
+                  "text": "Plage Lumière is a beach located in the city of Cassis.",
+                  "category": "recreational",
+                  "coords": [
+                        5.621205,
+                        43.18566
+                  ]
+            },
+            {
+                  "name": "Plage Canine",
+                  "text": "Plage Canine is a beach located in the city of Cassis.",
+                  "category": "recreational",
+                  "coords": [
+                        5.615552,
+                        43.18229
+                  ]
+            },
+            {
+                  "name": "Plage Calanque du Petit Mugel",
+                  "text": "Plage Calanque du Petit Mugel is a beach located in the city of Cassis.",
+                  "category": "recreational",
+                  "coords": [
+                        5.60605,
+                        43.164987
+                  ]
+            },
+            {
+                  "name": "Plage Cyrnos",
+                  "text": "Plage Cyrnos is a beach located in the city of Cassis.",
+                  "category": "recreational",
+                  "coords": [
+                        5.618543,
+                        43.184221
+                  ]
+            },
+            {
+                  "name": "Plage de l’Arène",
+                  "text": "Plage de l’Arène is a beach located in Cassis near Cap Naia.",
+                  "category": "recreational",
+                  "coords": [
+                        5.548667,
+                        43.208181
+                  ]
+            },
+            {
+                  "name": "Plage Bleue",
+                  "text": "Plage Bleue is a beach located in the city of Cassis.",
+                  "category": "recreational",
+                  "coords": [
+                        5.518574,
+                        43.205159
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "FR-PAC",
     coords: [5.4633, 43.2150],

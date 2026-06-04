@@ -509,7 +509,52 @@ imageHint: "Vilnius University Botanical Garden Kairėnai",
     },
     image: "/poi-images/lithuania-vilnius-university-botanical-garden-life-v2.webp",
 },  {
-    id: "lithuania-kaunas-botanical-garden-life-v2",
+    id: "lithuania-kaunas-botanical-garden-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Šančių paplūdimys",
+                  "text": "Badestelle Šančiai, in der Nähe des Botanischen Gartens Kaunas.",
+                  "category": "recreational",
+                  "coords": [
+                        23.931287,
+                        54.863839
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Šančių paplūdimys",
+                  "text": "Šančiai fürdőhely, a Kaunasi Botanikus Kert közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        23.931287,
+                        54.863839
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Šančių paplūdimys",
+                  "text": "Loc de scăldat Šančiai, în apropierea Grădinii Botanice din Kaunas.",
+                  "category": "recreational",
+                  "coords": [
+                        23.931287,
+                        54.863839
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Šančių paplūdimys",
+                  "text": "Šančiai beach, near the Kaunas Botanical Garden.",
+                  "category": "recreational",
+                  "coords": [
+                        23.931287,
+                        54.863839
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "park",
     name: { de: "Botanischer Garten Kaunas", hu: "Kaunasi Botanikus Kert", ro: "Grădina Botanică din Kaunas", en: "Kaunas Botanical Garden"},
@@ -877,7 +922,52 @@ imageHint: "Pūčkoriai outcrop Pavilniai park",
     },
     image: "/poi-images/lithuania-pavilniai-regional-park-life-v2.webp",
 },  {
-    id: "lithuania-verkiu-regional-park-life-v2",
+    id: "lithuania-verkiu-regional-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Valakampių nudistų paplūdimys",
+                  "text": "Der FKK-Strand Valakampiai im Regionalpark Verkiai.",
+                  "category": "recreational",
+                  "coords": [
+                        25.295582,
+                        54.745636
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Valakampių nudistų paplūdimys",
+                  "text": "Valakampiai nudista strand a Verkiai Regionális Parkban.",
+                  "category": "recreational",
+                  "coords": [
+                        25.295582,
+                        54.745636
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Valakampių nudistų paplūdimys",
+                  "text": "Plaja de nudiști Valakampiai din parcul regional Verkiai.",
+                  "category": "recreational",
+                  "coords": [
+                        25.295582,
+                        54.745636
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Valakampių nudistų paplūdimys",
+                  "text": "Valakampių nudist beach in Verkiai Regional Park.",
+                  "category": "recreational",
+                  "coords": [
+                        25.295582,
+                        54.745636
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "park",
     name: { de: "Regionalpark Verkiai", hu: "Verkiai Regionális Park", ro: "Parcul Regional Verkiai", en: "Verkių Regional Park"},
@@ -1147,7 +1237,52 @@ imageHint: "Sirvėta hilly landscape and forest",
     },
     image: "/poi-images/lithuania-sirveta-regional-park-life-v2.webp",
 },  {
-    id: "lithuania-tytuvenai-regional-park-life-v2",
+    id: "lithuania-tytuvenai-regional-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pietinis pliažas",
+                  "text": "Der südliche Strand im Regionalpark Tytuvėnai.",
+                  "category": "recreational",
+                  "coords": [
+                        23.19721,
+                        55.605655
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pietinis pliažas",
+                  "text": "Déli strand a Tytuvėnai Regionális Parkban.",
+                  "category": "recreational",
+                  "coords": [
+                        23.19721,
+                        55.605655
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pietinis pliažas",
+                  "text": "Plaja sudică în parcul regional Tytuvėnai.",
+                  "category": "recreational",
+                  "coords": [
+                        23.19721,
+                        55.605655
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pietinis pliažas",
+                  "text": "Southern beach in Tytuvėnai Regional Park.",
+                  "category": "recreational",
+                  "coords": [
+                        23.19721,
+                        55.605655
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "park",
     name: { de: "Regionalpark Tytuvėnai", hu: "Tytuvėnai Regionális Park", ro: "Parcul Regional Tytuvenai", en: "Tytuvėnai Regional Park"},

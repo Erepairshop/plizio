@@ -707,7 +707,52 @@ export const maltaPoi: POI[] = [
 
   // MT-003 Sliema
   {
-    id: "poi-mt-sliema-promenade",
+    id: "poi-mt-sliema-promenade", "sights": {
+      "de": [
+            {
+                  "name": "Il-Bajja ta' Fond Għadir",
+                  "text": "Il-Bajja ta' Fond Għadir ist ein felsiger Küstenabschnitt entlang der Sliema Promenade.",
+                  "category": "recreational",
+                  "coords": [
+                        14.505669,
+                        35.915472
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Il-Bajja ta' Fond Għadir",
+                  "text": "Il-Bajja ta' Fond Għadir egy sziklás partszakasz a Sliema sétány mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        14.505669,
+                        35.915472
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Il-Bajja ta' Fond Għadir",
+                  "text": "Il-Bajja ta' Fond Għadir este o zonă de coastă stâncoasă de-a lungul promenadei din Sliema.",
+                  "category": "recreational",
+                  "coords": [
+                        14.505669,
+                        35.915472
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Il-Bajja ta' Fond Għadir",
+                  "text": "Il-Bajja ta' Fond Għadir is a rocky coastal area along the Sliema Promenade.",
+                  "category": "recreational",
+                  "coords": [
+                        14.505669,
+                        35.915472
+                  ]
+            }
+      ]
+},
     name: { de: "Sliema Promenade", hu: "Sliema sétány", ro: "Promenada Sliema", en: "Sliema Promenade" },
     type: "landmark",
     parent: "MT-003",
@@ -1147,7 +1192,52 @@ export const maltaPoi: POI[] = [
     },
   },
   {
-    id: "poi-mt-wignacourt-tower",
+    id: "poi-mt-wignacourt-tower", "sights": {
+      "de": [
+            {
+                  "name": "Bajja tal-Għażżelin",
+                  "text": "Die Bajja tal-Għażżelin ist eine Bucht nahe dem Wignacourt-Turm.",
+                  "category": "recreational",
+                  "coords": [
+                        14.397896,
+                        35.949861
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bajja tal-Għażżelin",
+                  "text": "A Bajja tal-Għażżelin egy öböl a Wignacourt-torony közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        14.397896,
+                        35.949861
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bajja tal-Għażżelin",
+                  "text": "Bajja tal-Għażżelin este un golf situat în apropierea turnului Wignacourt.",
+                  "category": "recreational",
+                  "coords": [
+                        14.397896,
+                        35.949861
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bajja tal-Għażżelin",
+                  "text": "Bajja tal-Għażżelin is a bay located near the Wignacourt Tower.",
+                  "category": "recreational",
+                  "coords": [
+                        14.397896,
+                        35.949861
+                  ]
+            }
+      ]
+},
     name: { de: "Wignacourt Tower", hu: "Wignacourt-torony", ro: "Turnul Wignacourt", en: "Wignacourt Tower" },
     type: "historical",
     parent: "MT-007",
@@ -1322,7 +1412,52 @@ export const maltaPoi: POI[] = [
     },
   },
   {
-    id: "poi-mt-ghadira-nature",
+    id: "poi-mt-ghadira-nature", "sights": {
+      "de": [
+            {
+                  "name": "Il-Bajja tal-Għadira",
+                  "text": "Die Bajja tal-Għadira ist der größte Sandstrand Maltas nahe einem Naturschutzgebiet.",
+                  "category": "recreational",
+                  "coords": [
+                        14.350353,
+                        35.971054
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Il-Bajja tal-Għadira",
+                  "text": "A Bajja tal-Għadira Málta legnagyobb homokos strandja egy természetvédelmi terület mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        14.350353,
+                        35.971054
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Il-Bajja tal-Għadira",
+                  "text": "Bajja tal-Għadira este cea mai mare plajă cu nisip din Malta, situată lângă o rezervație naturală.",
+                  "category": "recreational",
+                  "coords": [
+                        14.350353,
+                        35.971054
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Il-Bajja tal-Għadira",
+                  "text": "Bajja tal-Għadira is the largest sandy beach in Malta, located next to a nature reserve.",
+                  "category": "recreational",
+                  "coords": [
+                        14.350353,
+                        35.971054
+                  ]
+            }
+      ]
+},
     name: { de: "Għadira Naturschutzgebiet", hu: "Għadira természetvédelmi terület", ro: "Rezervația Naturală Għadira", en: "Għadira Nature Reserve" },
     type: "landmark",
     parent: "MT-008",
@@ -1769,7 +1904,52 @@ export const maltaPoi: POI[] = [
 
   // MT-015 Birżebbuġa
   {
-    id: "poi-mt-ghar-dalam",
+    id: "poi-mt-ghar-dalam", "sights": {
+      "de": [
+            {
+                  "name": "Il-Bajja ta' San Ġorġ",
+                  "text": "Die Bajja ta' San Ġorġ liegt nahe der archäologischen Stätte Għar Dalam.",
+                  "category": "recreational",
+                  "coords": [
+                        14.530636,
+                        35.832031
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Il-Bajja ta' San Ġorġ",
+                  "text": "A Bajja ta' San Ġorġ a Għar Dalam régészeti lelőhely közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        14.530636,
+                        35.832031
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Il-Bajja ta' San Ġorġ",
+                  "text": "Bajja ta' San Ġorġ este situată în apropierea sitului arheologic Għar Dalam.",
+                  "category": "recreational",
+                  "coords": [
+                        14.530636,
+                        35.832031
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Il-Bajja ta' San Ġorġ",
+                  "text": "Bajja ta' San Ġorġ is located near the Għar Dalam archaeological site.",
+                  "category": "recreational",
+                  "coords": [
+                        14.530636,
+                        35.832031
+                  ]
+            }
+      ]
+},
     name: { de: "Għar Dalam Höhle", hu: "Għar Dalam barlang", ro: "Peștera Għar Dalam", en: "Għar Dalam Cave" },
     type: "historical",
     parent: "MT-015",
@@ -1813,7 +1993,88 @@ export const maltaPoi: POI[] = [
     image: "/poi-images/poi-mt-ghar-dalam.webp",
   },
   {
-    id: "poi-mt-pretty-bay",
+    id: "poi-mt-pretty-bay", "sights": {
+      "de": [
+            {
+                  "name": "Pretty Bay",
+                  "text": "Pretty Bay ist ein beliebter Stadtstrand in Birżebbuġa.",
+                  "category": "recreational",
+                  "coords": [
+                        14.529635,
+                        35.824993
+                  ]
+            },
+            {
+                  "name": "Wied Ix-Xoqqa",
+                  "text": "Wied Ix-Xoqqa ist eine Küstenbucht bei der Pretty Bay.",
+                  "category": "recreational",
+                  "coords": [
+                        14.538615,
+                        35.811468
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pretty Bay",
+                  "text": "A Pretty Bay egy népszerű városi strand Birżebbuġában.",
+                  "category": "recreational",
+                  "coords": [
+                        14.529635,
+                        35.824993
+                  ]
+            },
+            {
+                  "name": "Wied Ix-Xoqqa",
+                  "text": "Wied Ix-Xoqqa egy tengerparti öböl Pretty Bay közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        14.538615,
+                        35.811468
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pretty Bay",
+                  "text": "Pretty Bay este o plajă urbană populară din Birżebbuġa.",
+                  "category": "recreational",
+                  "coords": [
+                        14.529635,
+                        35.824993
+                  ]
+            },
+            {
+                  "name": "Wied Ix-Xoqqa",
+                  "text": "Wied Ix-Xoqqa este un golf de coastă lângă Pretty Bay.",
+                  "category": "recreational",
+                  "coords": [
+                        14.538615,
+                        35.811468
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pretty Bay",
+                  "text": "Pretty Bay is a popular urban beach in Birżebbuġa.",
+                  "category": "recreational",
+                  "coords": [
+                        14.529635,
+                        35.824993
+                  ]
+            },
+            {
+                  "name": "Wied Ix-Xoqqa",
+                  "text": "Wied Ix-Xoqqa is a coastal cove near Pretty Bay.",
+                  "category": "recreational",
+                  "coords": [
+                        14.538615,
+                        35.811468
+                  ]
+            }
+      ]
+},
     name: { de: "Pretty Bay", hu: "Pretty Bay", ro: "Pretty Bay", en: "Pretty Bay" },
     type: "landmark",
     parent: "MT-015",
@@ -2305,7 +2566,52 @@ export const maltaPoi: POI[] = [
 
   // MT-022 Munxar
   {
-    id: "poi-mt-xlendi",
+    id: "poi-mt-xlendi", "sights": {
+      "de": [
+            {
+                  "name": "Xlendi",
+                  "text": "Xlendi ist eine malerische Bucht im Südwesten von Gozo.",
+                  "category": "recreational",
+                  "coords": [
+                        14.216881,
+                        36.030394
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Xlendi",
+                  "text": "Xlendi egy festői öböl Gozo délnyugati részén.",
+                  "category": "recreational",
+                  "coords": [
+                        14.216881,
+                        36.030394
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Xlendi",
+                  "text": "Xlendi este un golf pitoresc situat în sud-vestul insulei Gozo.",
+                  "category": "recreational",
+                  "coords": [
+                        14.216881,
+                        36.030394
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Xlendi",
+                  "text": "Xlendi is a picturesque bay in the southwest of Gozo.",
+                  "category": "recreational",
+                  "coords": [
+                        14.216881,
+                        36.030394
+                  ]
+            }
+      ]
+},
     name: { de: "Xlendi Bay", hu: "Xlendi-öböl", ro: "Golful Xlendi", en: "Xlendi Bay" },
     type: "landmark",
     parent: "MT-022",
@@ -2394,7 +2700,52 @@ export const maltaPoi: POI[] = [
 
   // MT-023 Sannat
   {
-    id: "poi-mt-mgarr-ix-xini",
+    id: "poi-mt-mgarr-ix-xini", "sights": {
+      "de": [
+            {
+                  "name": "Mġarr ix-Xini",
+                  "text": "Mġarr ix-Xini ist eine abgelegene Bucht auf der Insel Gozo.",
+                  "category": "recreational",
+                  "coords": [
+                        14.27288,
+                        36.017765
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mġarr ix-Xini",
+                  "text": "Mġarr ix-Xini egy eldugott öböl Gozo szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        14.27288,
+                        36.017765
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mġarr ix-Xini",
+                  "text": "Mġarr ix-Xini este un golf retras pe insula Gozo.",
+                  "category": "recreational",
+                  "coords": [
+                        14.27288,
+                        36.017765
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mġarr ix-Xini",
+                  "text": "Mġarr ix-Xini is a secluded bay on the island of Gozo.",
+                  "category": "recreational",
+                  "coords": [
+                        14.27288,
+                        36.017765
+                  ]
+            }
+      ]
+},
     name: { de: "Mġarr ix-Xini", hu: "Mġarr ix-Xini", ro: "Mġarr ix-Xini", en: "Mġarr ix-Xini" },
     type: "landmark",
     parent: "MT-023",
@@ -2483,7 +2834,52 @@ export const maltaPoi: POI[] = [
     image: "/poi-images/poi-mt-blue-lagoon.webp",
   },
   {
-    id: "poi-mt-fort-chambray",
+    id: "poi-mt-fort-chambray", "sights": {
+      "de": [
+            {
+                  "name": "Bajja ta' Gorgun",
+                  "text": "Bajja ta' Gorgun ist eine Bucht in der Umgebung von Fort Chambray.",
+                  "category": "recreational",
+                  "coords": [
+                        14.296948,
+                        36.021488
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bajja ta' Gorgun",
+                  "text": "Bajja ta' Gorgun egy öböl Fort Chambray környékén.",
+                  "category": "recreational",
+                  "coords": [
+                        14.296948,
+                        36.021488
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bajja ta' Gorgun",
+                  "text": "Bajja ta' Gorgun este un golf în zona Fort Chambray.",
+                  "category": "recreational",
+                  "coords": [
+                        14.296948,
+                        36.021488
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bajja ta' Gorgun",
+                  "text": "Bajja ta' Gorgun is a cove in the vicinity of Fort Chambray.",
+                  "category": "recreational",
+                  "coords": [
+                        14.296948,
+                        36.021488
+                  ]
+            }
+      ]
+},
     name: { de: "Fort Chambray", hu: "Chambray-erőd", ro: "Fortul Chambray", en: "Fort Chambray" },
     type: "historical",
     parent: "MT-024",
@@ -2528,7 +2924,52 @@ export const maltaPoi: POI[] = [
 
   // MT-025 Qala
   {
-    id: "poi-mt-hondoq",
+    id: "poi-mt-hondoq", "sights": {
+      "de": [
+            {
+                  "name": "Ħondoq ir-Rummien",
+                  "text": "Ħondoq ir-Rummien ist eine malerische Bucht auf der Insel Gozo.",
+                  "category": "recreational",
+                  "coords": [
+                        14.322082,
+                        36.027946
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ħondoq ir-Rummien",
+                  "text": "Ħondoq ir-Rummien egy festői öböl Gozo szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        14.322082,
+                        36.027946
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ħondoq ir-Rummien",
+                  "text": "Ħondoq ir-Rummien este un golf pitoresc pe insula Gozo.",
+                  "category": "recreational",
+                  "coords": [
+                        14.322082,
+                        36.027946
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ħondoq ir-Rummien",
+                  "text": "Ħondoq ir-Rummien is a picturesque bay on the island of Gozo.",
+                  "category": "recreational",
+                  "coords": [
+                        14.322082,
+                        36.027946
+                  ]
+            }
+      ]
+},
     name: { de: "Ħondoq ir-Rummien", hu: "Ħondoq ir-Rummien", ro: "Ħondoq ir-Rummien", en: "Ħondoq ir-Rummien" },
     type: "landmark",
     parent: "MT-025",
@@ -2617,7 +3058,52 @@ export const maltaPoi: POI[] = [
 
   // MT-026 Nadur
   {
-    id: "poi-mt-san-blas",
+    id: "poi-mt-san-blas", "sights": {
+      "de": [
+            {
+                  "name": "San Blas",
+                  "text": "San Blas ist eine ruhige Bucht auf Gozo, bekannt für ihren rötlichen Sand.",
+                  "category": "recreational",
+                  "coords": [
+                        14.300506,
+                        36.057052
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "San Blas",
+                  "text": "San Blas egy csendes öböl Gozón, amely vöröses homokjáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        14.300506,
+                        36.057052
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "San Blas",
+                  "text": "San Blas este un golf liniștit pe Gozo, cunoscut pentru nisipul său roșiatic.",
+                  "category": "recreational",
+                  "coords": [
+                        14.300506,
+                        36.057052
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "San Blas",
+                  "text": "San Blas is a quiet bay on Gozo, known for its reddish sand.",
+                  "category": "recreational",
+                  "coords": [
+                        14.300506,
+                        36.057052
+                  ]
+            }
+      ]
+},
     name: { de: "San Blas Bay", hu: "San Blas-öböl", ro: "Golful San Blas", en: "San Blas Bay" },
     type: "landmark",
     parent: "MT-026",
@@ -2751,7 +3237,52 @@ export const maltaPoi: POI[] = [
     image: "/poi-images/poi-mt-ggantija.webp",
   },
   {
-    id: "poi-mt-ramla",
+    id: "poi-mt-ramla", "sights": {
+      "de": [
+            {
+                  "name": "Ir-Ramla l-Ħamra",
+                  "text": "Ir-Ramla l-Ħamra ist der berühmteste Sandstrand auf Gozo.",
+                  "category": "recreational",
+                  "coords": [
+                        14.28412,
+                        36.061663
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ir-Ramla l-Ħamra",
+                  "text": "Ir-Ramla l-Ħamra Gozo leghíresebb homokos strandja.",
+                  "category": "recreational",
+                  "coords": [
+                        14.28412,
+                        36.061663
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ir-Ramla l-Ħamra",
+                  "text": "Ir-Ramla l-Ħamra este cea mai faimoasă plajă cu nisip de pe insula Gozo.",
+                  "category": "recreational",
+                  "coords": [
+                        14.28412,
+                        36.061663
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ir-Ramla l-Ħamra",
+                  "text": "Ir-Ramla l-Ħamra is the most famous sandy beach on Gozo.",
+                  "category": "recreational",
+                  "coords": [
+                        14.28412,
+                        36.061663
+                  ]
+            }
+      ]
+},
     name: { de: "Ramla Bay", hu: "Ramla-öböl", ro: "Golful Ramla", en: "Ramla Bay" },
     type: "landmark",
     coords: [14.2831, 36.0617],
@@ -2794,7 +3325,52 @@ export const maltaPoi: POI[] = [
     },
   },
   {
-    id: "poi-mt-marsalforn-salt-pans",
+    id: "poi-mt-marsalforn-salt-pans", "sights": {
+      "de": [
+            {
+                  "name": "Il-Bajja tax-Xwejni",
+                  "text": "Xwejni Bay liegt bei den Salinen von Marsalforn auf Gozo.",
+                  "category": "recreational",
+                  "coords": [
+                        14.248085,
+                        36.079171
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Il-Bajja tax-Xwejni",
+                  "text": "Xwejni Bay a marsalforni sólepárlók közelében található Gozón.",
+                  "category": "recreational",
+                  "coords": [
+                        14.248085,
+                        36.079171
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Il-Bajja tax-Xwejni",
+                  "text": "Golful Xwejni este situat în apropierea salinei din Marsalforn, Gozo.",
+                  "category": "recreational",
+                  "coords": [
+                        14.248085,
+                        36.079171
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Il-Bajja tax-Xwejni",
+                  "text": "Xwejni Bay is located near the salt pans in Marsalforn, Gozo.",
+                  "category": "recreational",
+                  "coords": [
+                        14.248085,
+                        36.079171
+                  ]
+            }
+      ]
+},
     name: { de: "Salzpfannen von Marsalforn", hu: "Marsalforni sólepárlók", ro: "Salinele din Marsalforn", en: "Marsalforn Salt Pans" },
     type: "landmark",
     parent: "MT-028",
@@ -2839,7 +3415,52 @@ export const maltaPoi: POI[] = [
 
   // MT-029 Għasri
   {
-    id: "poi-mt-wied-il-ghasri",
+    id: "poi-mt-wied-il-ghasri", "sights": {
+      "de": [
+            {
+                  "name": "Wied il-Għasri",
+                  "text": "Wied il-Għasri ist eine abgelegene Schluchtbucht nahe Wied Il Ghasri.",
+                  "category": "recreational",
+                  "coords": [
+                        14.228227,
+                        36.078696
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wied il-Għasri",
+                  "text": "Wied il-Għasri egy elszigetelt kanyonöböl Wied Il Ghasri közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        14.228227,
+                        36.078696
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wied il-Għasri",
+                  "text": "Wied il-Għasri este un golf tip canion retras situat lângă Wied Il Ghasri.",
+                  "category": "recreational",
+                  "coords": [
+                        14.228227,
+                        36.078696
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wied il-Għasri",
+                  "text": "Wied il-Għasri is a secluded canyon cove near Wied Il Ghasri.",
+                  "category": "recreational",
+                  "coords": [
+                        14.228227,
+                        36.078696
+                  ]
+            }
+      ]
+},
     name: { de: "Wied il-Għasri", hu: "Wied il-Għasri", ro: "Wied il-Għasri", en: "Wied il-Għasri" },
     type: "landmark",
     parent: "MT-029",

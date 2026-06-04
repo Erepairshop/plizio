@@ -187,7 +187,52 @@ imageHint: "Valbona Valley river and high peaks",
     },
     image: "/poi-images/albania-valbona-valley-national-park-life-v2.webp",
 },  {
-    id: "albania-divjaka-karavasta-national-park-life-v2",
+    id: "albania-divjaka-karavasta-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Samuel King seaside",
+                  "text": "Samuel King seaside liegt im Nationalpark Divjaka-Karavasta.",
+                  "category": "recreational",
+                  "coords": [
+                        19.407812,
+                        40.897079
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Samuel King seaside",
+                  "text": "Samuel King seaside a Divjaka-Karavasta Nemzeti Parkban található.",
+                  "category": "recreational",
+                  "coords": [
+                        19.407812,
+                        40.897079
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Samuel King seaside",
+                  "text": "Samuel King seaside se află în Parcul Național Divjaka-Karavasta.",
+                  "category": "recreational",
+                  "coords": [
+                        19.407812,
+                        40.897079
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Samuel King seaside",
+                  "text": "Samuel King seaside is located in the Divjaka-Karavasta National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        19.407812,
+                        40.897079
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "wildlife",
     name: { de: "Nationalpark Divjaka-Karavasta", hu: "Divjaka-Karavasta Nemzeti Park", ro: "Parcul Național Divjaka-Karavasta", en: "Divjaka-Karavasta National Park"},
@@ -923,7 +968,52 @@ imageHint: "Orikum Lagoon and coastal reeds",
     },
     image: "/poi-images/albania-orikum-lagoon-life-v2.webp",
 },  {
-    id: "albania-butrint-wetland-life-v2",
+    id: "albania-butrint-wetland-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plazhi Diaporit",
+                  "text": "Strand bei den Butrint-Feuchtgebieten.",
+                  "category": "recreational",
+                  "coords": [
+                        19.981232,
+                        39.743268
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plazhi Diaporit",
+                  "text": "Strand a Butrint vizes élőhelyek közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        19.981232,
+                        39.743268
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plazhi Diaporit",
+                  "text": "Plajă lângă zonele umede Butrint.",
+                  "category": "recreational",
+                  "coords": [
+                        19.981232,
+                        39.743268
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plazhi Diaporit",
+                  "text": "Beach near the Butrint wetlands.",
+                  "category": "recreational",
+                  "coords": [
+                        19.981232,
+                        39.743268
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "wildlife",
     name: { de: "Butrint-Feuchtgebiet", hu: "Butrinti vizes élőhelyek", ro: "Zona Umedă Butrint", en: "Butrint Wetland"},
@@ -1653,7 +1743,52 @@ imageHint: "Cukal mountains karst landscape Albania",
     image: "/poi-images/albania-vilun-lagoon-life-v2.webp",
   },
   {
-    id: "albania-pishe-poro-life-v2",
+    id: "albania-pishe-poro-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plazhi i Akernisë",
+                  "text": "Strand in Pishe Poro.",
+                  "category": "recreational",
+                  "coords": [
+                        19.37375,
+                        40.56146
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plazhi i Akernisë",
+                  "text": "Strand Pishe Poróban.",
+                  "category": "recreational",
+                  "coords": [
+                        19.37375,
+                        40.56146
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plazhi i Akernisë",
+                  "text": "Plajă în Pishe Poro.",
+                  "category": "recreational",
+                  "coords": [
+                        19.37375,
+                        40.56146
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plazhi i Akernisë",
+                  "text": "Beach in Pishe Poro.",
+                  "category": "recreational",
+                  "coords": [
+                        19.37375,
+                        40.56146
+                  ]
+            }
+      ]
+},
     type: "wildlife",
     parent: "AL",
     name: { de: "Naturschutzgebiet Pishë Poro", hu: "Pishë Poro Természetvédelmi Terület", ro: "Rezervația Naturală Pishë Poro", en: "Pishë Poro Nature Reserve" },

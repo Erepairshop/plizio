@@ -254,7 +254,52 @@ export const denmarkRegions: POI[] = [
  image: "/geo-images/denmark/jutland.webp",
  },
  {
- id: "reg-zealand",
+ id: "reg-zealand", "sights": {
+      "de": [
+            {
+                  "name": "Hallingelille Strand",
+                  "text": "Hallingelille Strand liegt in der Region Seeland.",
+                  "category": "recreational",
+                  "coords": [
+                        11.818346,
+                        55.494821
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hallingelille Strand",
+                  "text": "A Hallingelille Strand Sjælland régióban található.",
+                  "category": "recreational",
+                  "coords": [
+                        11.818346,
+                        55.494821
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hallingelille Strand",
+                  "text": "Plaja Hallingelille este situată în regiunea Zealand.",
+                  "category": "recreational",
+                  "coords": [
+                        11.818346,
+                        55.494821
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hallingelille Strand",
+                  "text": "Hallingelille Strand is located in the Zealand region.",
+                  "category": "recreational",
+                  "coords": [
+                        11.818346,
+                        55.494821
+                  ]
+            }
+      ]
+},
  type: "region",
  parent: "denmark",
  coords: [11.7600, 55.4800],
@@ -331,7 +376,124 @@ export const denmarkCities: POI[] = [
  image: "/geo-images/denmark/aalborg.webp",
  },
  {
- id: "city-helsingor",
+ id: "city-helsingor", "sights": {
+      "de": [
+            {
+                  "name": "Gummistranden",
+                  "text": "Ein Strand nahe der Stadt Helsingør.",
+                  "category": "recreational",
+                  "coords": [
+                        12.608653,
+                        56.043667
+                  ]
+            },
+            {
+                  "name": "Snekkersten Strand",
+                  "text": "Snekkersten Strand bei Helsingør ist ein beliebter Küstenabschnitt.",
+                  "category": "recreational",
+                  "coords": [
+                        12.581387,
+                        56.005347
+                  ]
+            },
+            {
+                  "name": "Julebæk Strand",
+                  "text": "Julebæk Strand befindet sich in der malerischen Umgebung von Helsingør.",
+                  "category": "recreational",
+                  "coords": [
+                        12.574621,
+                        56.059753
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gummistranden",
+                  "text": "Strand Helsingør városa közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        12.608653,
+                        56.043667
+                  ]
+            },
+            {
+                  "name": "Snekkersten Strand",
+                  "text": "A Helsingør melletti Snekkersten Strand egy népszerű tengerparti szakasz.",
+                  "category": "recreational",
+                  "coords": [
+                        12.581387,
+                        56.005347
+                  ]
+            },
+            {
+                  "name": "Julebæk Strand",
+                  "text": "A Julebæk Strand Helsingør festői környezetében található.",
+                  "category": "recreational",
+                  "coords": [
+                        12.574621,
+                        56.059753
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gummistranden",
+                  "text": "O plajă lângă orașul Helsingør.",
+                  "category": "recreational",
+                  "coords": [
+                        12.608653,
+                        56.043667
+                  ]
+            },
+            {
+                  "name": "Snekkersten Strand",
+                  "text": "Plaja Snekkersten de lângă Helsingør este o porțiune populară de coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        12.581387,
+                        56.005347
+                  ]
+            },
+            {
+                  "name": "Julebæk Strand",
+                  "text": "Plaja Julebæk este situată în împrejurimile pitorești ale orașului Helsingør.",
+                  "category": "recreational",
+                  "coords": [
+                        12.574621,
+                        56.059753
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gummistranden",
+                  "text": "A beach near the town of Helsingør.",
+                  "category": "recreational",
+                  "coords": [
+                        12.608653,
+                        56.043667
+                  ]
+            },
+            {
+                  "name": "Snekkersten Strand",
+                  "text": "Snekkersten Strand near Helsingør is a popular coastal area.",
+                  "category": "recreational",
+                  "coords": [
+                        12.581387,
+                        56.005347
+                  ]
+            },
+            {
+                  "name": "Julebæk Strand",
+                  "text": "Julebæk Strand is located in the picturesque surroundings of Helsingør.",
+                  "category": "recreational",
+                  "coords": [
+                        12.574621,
+                        56.059753
+                  ]
+            }
+      ]
+},
  type: "city",
  parent: "denmark",
  coords: [12.6136, 56.0361],
@@ -589,7 +751,52 @@ export const denmarkCities: POI[] = [
  image: "/geo-images/denmark/silkeborg.webp",
  },
  {
- id: "city-hilleroed",
+ id: "city-hilleroed", "sights": {
+      "de": [
+            {
+                  "name": "Teglgårdssøens badestrand",
+                  "text": "Badestrand am Teglgård-See in Hillerød.",
+                  "category": "recreational",
+                  "coords": [
+                        12.314212,
+                        55.924806
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teglgårdssøens badestrand",
+                  "text": "Fürdőstrand a Teglgård-tónál, Hillerød.",
+                  "category": "recreational",
+                  "coords": [
+                        12.314212,
+                        55.924806
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teglgårdssøens badestrand",
+                  "text": "Plajă de înot pe lacul Teglgård din Hillerød.",
+                  "category": "recreational",
+                  "coords": [
+                        12.314212,
+                        55.924806
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teglgårdssøens badestrand",
+                  "text": "Swimming beach at Teglgård Lake in Hillerød.",
+                  "category": "recreational",
+                  "coords": [
+                        12.314212,
+                        55.924806
+                  ]
+            }
+      ]
+},
  type: "city",
  parent: "DK",
  coords: [12.3020, 55.9260],
@@ -1023,7 +1230,52 @@ export const denmarkCulture: POI[] = [
  image: "/geo-images/denmark/round-tower.webp",
  },
  {
- id: "land-copenhagen-opera-house",
+ id: "land-copenhagen-opera-house", "sights": {
+      "de": [
+            {
+                  "name": "Christiania Beach",
+                  "text": "Christiania Beach ist ein Uferbereich in der Nähe des Opernhauses Kopenhagen.",
+                  "category": "recreational",
+                  "coords": [
+                        12.609349,
+                        55.67942
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Christiania Beach",
+                  "text": "A Christiania Beach egy vízparti terület a Koppenhágai Operaház közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        12.609349,
+                        55.67942
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Christiania Beach",
+                  "text": "Christiania Beach este o zonă de țărm din apropierea Operei din Copenhaga.",
+                  "category": "recreational",
+                  "coords": [
+                        12.609349,
+                        55.67942
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Christiania Beach",
+                  "text": "Christiania Beach is a waterfront area near the Copenhagen Opera House.",
+                  "category": "recreational",
+                  "coords": [
+                        12.609349,
+                        55.67942
+                  ]
+            }
+      ]
+},
  type: "landmark",
  parent: "DK",
  coords: [12.6032, 55.6829],
@@ -1066,7 +1318,124 @@ export const denmarkCulture: POI[] = [
  image: "/geo-images/denmark/copenhagen-opera-house.webp",
  },
  {
- id: "land-louisiana-museum",
+ id: "land-louisiana-museum", "sights": {
+      "de": [
+            {
+                  "name": "Babylone Strand",
+                  "text": "Babylone Strand liegt in der Nähe des bekannten Louisiana Museum of Modern Art.",
+                  "category": "recreational",
+                  "coords": [
+                        12.547373,
+                        55.975613
+                  ]
+            },
+            {
+                  "name": "Stranden ved Ida Tesdorpfs Vej",
+                  "text": "Die Stranden ved Ida Tesdorpfs Vej liegt unweit des Louisiana Museum of Modern Art.",
+                  "category": "recreational",
+                  "coords": [
+                        12.5401,
+                        55.960836
+                  ]
+            },
+            {
+                  "name": "Bjerre Strand",
+                  "text": "Strand in der Nähe des Louisiana Museums für moderne Kunst.",
+                  "category": "recreational",
+                  "coords": [
+                        12.536834,
+                        55.957249
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Babylone Strand",
+                  "text": "A Babylone Strand a híres Louisiana Modern Művészeti Múzeum közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        12.547373,
+                        55.975613
+                  ]
+            },
+            {
+                  "name": "Stranden ved Ida Tesdorpfs Vej",
+                  "text": "A Stranden ved Ida Tesdorpfs Vej nem messze található a Louisiana Modern Művészeti Múzeumtól.",
+                  "category": "recreational",
+                  "coords": [
+                        12.5401,
+                        55.960836
+                  ]
+            },
+            {
+                  "name": "Bjerre Strand",
+                  "text": "Strand a Louisiana Modern Művészeti Múzeum közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        12.536834,
+                        55.957249
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Babylone Strand",
+                  "text": "Plaja Babylone este situată în apropierea cunoscutului Muzeu de Artă Modernă Louisiana.",
+                  "category": "recreational",
+                  "coords": [
+                        12.547373,
+                        55.975613
+                  ]
+            },
+            {
+                  "name": "Stranden ved Ida Tesdorpfs Vej",
+                  "text": "Plaja Stranden ved Ida Tesdorpfs Vej se află nu departe de Muzeul de Artă Modernă Louisiana.",
+                  "category": "recreational",
+                  "coords": [
+                        12.5401,
+                        55.960836
+                  ]
+            },
+            {
+                  "name": "Bjerre Strand",
+                  "text": "Plajă în apropierea Muzeului de Artă Modernă Louisiana.",
+                  "category": "recreational",
+                  "coords": [
+                        12.536834,
+                        55.957249
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Babylone Strand",
+                  "text": "Babylone Strand is situated near the well-known Louisiana Museum of Modern Art.",
+                  "category": "recreational",
+                  "coords": [
+                        12.547373,
+                        55.975613
+                  ]
+            },
+            {
+                  "name": "Stranden ved Ida Tesdorpfs Vej",
+                  "text": "Stranden ved Ida Tesdorpfs Vej is located not far from the Louisiana Museum of Modern Art.",
+                  "category": "recreational",
+                  "coords": [
+                        12.5401,
+                        55.960836
+                  ]
+            },
+            {
+                  "name": "Bjerre Strand",
+                  "text": "Beach near the Louisiana Museum of Modern Art.",
+                  "category": "recreational",
+                  "coords": [
+                        12.536834,
+                        55.957249
+                  ]
+            }
+      ]
+},
  type: "landmark",
  parent: "DK",
  coords: [12.5317, 55.9689],
@@ -1281,7 +1650,52 @@ export const denmarkCulture: POI[] = [
  image: "/geo-images/denmark/statens-museum-for-kunst.webp",
  },
  {
- id: "land-viking-ship-museum",
+ id: "land-viking-ship-museum", "sights": {
+      "de": [
+            {
+                  "name": "Vigen Strandpark",
+                  "text": "Vigen Strandpark liegt bei Roskilde, nahe dem Vikingerschiffsmuseum.",
+                  "category": "recreational",
+                  "coords": [
+                        12.076966,
+                        55.67369
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vigen Strandpark",
+                  "text": "A Vigen Strandpark Roskilde mellett, a Viking Hajómúzeum közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        12.076966,
+                        55.67369
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vigen Strandpark",
+                  "text": "Parcul de plajă Vigen este situat lângă Roskilde, în apropierea Muzeului Navelor Vikinge.",
+                  "category": "recreational",
+                  "coords": [
+                        12.076966,
+                        55.67369
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vigen Strandpark",
+                  "text": "Vigen Strandpark is located near Roskilde, close to the Viking Ship Museum.",
+                  "category": "recreational",
+                  "coords": [
+                        12.076966,
+                        55.67369
+                  ]
+            }
+      ]
+},
  type: "landmark",
  parent: "DK",
  coords: [12.0855, 55.6524],
@@ -1453,7 +1867,88 @@ export const denmarkCulture: POI[] = [
  image: "/geo-images/denmark/port-esbjerg.webp",
  },
  {
- id: "port-frederikshavn",
+ id: "port-frederikshavn", "sights": {
+      "de": [
+            {
+                  "name": "Palmestranden",
+                  "text": "Ein Strand nahe dem Hafen von Frederikshavn.",
+                  "category": "recreational",
+                  "coords": [
+                        10.540579,
+                        57.461464
+                  ]
+            },
+            {
+                  "name": "Strandby Strand",
+                  "text": "Strandby Strand befindet sich nahe dem Hafen von Frederikshavn.",
+                  "category": "recreational",
+                  "coords": [
+                        10.515973,
+                        57.480671
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Palmestranden",
+                  "text": "Strand Frederikshavn kikötőjének közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        10.540579,
+                        57.461464
+                  ]
+            },
+            {
+                  "name": "Strandby Strand",
+                  "text": "A Strandby Strand a frederikshavni kikötő közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        10.515973,
+                        57.480671
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Palmestranden",
+                  "text": "O plajă lângă portul Frederikshavn.",
+                  "category": "recreational",
+                  "coords": [
+                        10.540579,
+                        57.461464
+                  ]
+            },
+            {
+                  "name": "Strandby Strand",
+                  "text": "Plaja Strandby este situată în apropierea portului Frederikshavn.",
+                  "category": "recreational",
+                  "coords": [
+                        10.515973,
+                        57.480671
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Palmestranden",
+                  "text": "A beach near the port of Frederikshavn.",
+                  "category": "recreational",
+                  "coords": [
+                        10.540579,
+                        57.461464
+                  ]
+            },
+            {
+                  "name": "Strandby Strand",
+                  "text": "Strandby Strand is located near the port of Frederikshavn.",
+                  "category": "recreational",
+                  "coords": [
+                        10.515973,
+                        57.480671
+                  ]
+            }
+      ]
+},
  type: "port",
  parent: "DK",
  coords: [10.5402, 57.4460],
@@ -1807,7 +2302,88 @@ export const denmarkCulture: POI[] = [
  image: "/geo-images/denmark/christiansfeld.webp",
  },
  {
- id: "hist-dybbol-banke",
+ id: "hist-dybbol-banke", "sights": {
+      "de": [
+            {
+                  "name": "Vemmingbund",
+                  "text": "Vemmingbund ist ein Strand in der Nähe von Dybbøl Banke.",
+                  "category": "recreational",
+                  "coords": [
+                        9.704018,
+                        54.897486
+                  ]
+            },
+            {
+                  "name": "Adsbøl Strand",
+                  "text": "Strand in der Nähe von Historiecenter Dybbøl Banke.",
+                  "category": "recreational",
+                  "coords": [
+                        9.62693,
+                        54.935135
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vemmingbund",
+                  "text": "Vemmingbund egy strand a Dybbøl Banke közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        9.704018,
+                        54.897486
+                  ]
+            },
+            {
+                  "name": "Adsbøl Strand",
+                  "text": "Strand a Historiecenter Dybbøl Banke közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        9.62693,
+                        54.935135
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vemmingbund",
+                  "text": "Vemmingbund este o plajă situată în apropiere de Dybbøl Banke.",
+                  "category": "recreational",
+                  "coords": [
+                        9.704018,
+                        54.897486
+                  ]
+            },
+            {
+                  "name": "Adsbøl Strand",
+                  "text": "Plajă în apropierea centrului istoric Dybbøl Banke.",
+                  "category": "recreational",
+                  "coords": [
+                        9.62693,
+                        54.935135
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vemmingbund",
+                  "text": "Vemmingbund is a beach near Dybbøl Banke.",
+                  "category": "recreational",
+                  "coords": [
+                        9.704018,
+                        54.897486
+                  ]
+            },
+            {
+                  "name": "Adsbøl Strand",
+                  "text": "Beach near the Historiecenter Dybbøl Banke.",
+                  "category": "recreational",
+                  "coords": [
+                        9.62693,
+                        54.935135
+                  ]
+            }
+      ]
+},
  type: "historical",
  parent: "DK",
  coords: [9.6837, 54.9124],
@@ -2208,7 +2784,52 @@ export const denmarkNature: POI[] = [
  image: "/geo-images/denmark/mollehoj.webp",
  },
  {
- id: "nat-himmelbjerget",
+ id: "nat-himmelbjerget", "sights": {
+      "de": [
+            {
+                  "name": "Knudhule",
+                  "text": "Knudhule ist ein Badebereich in der Nähe des Himmelbjerget.",
+                  "category": "recreational",
+                  "coords": [
+                        9.784088,
+                        56.101495
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Knudhule",
+                  "text": "A Knudhule egy fürdőhely a Himmelbjerget közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        9.784088,
+                        56.101495
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Knudhule",
+                  "text": "Knudhule este o zonă de scăldat lângă Himmelbjerget.",
+                  "category": "recreational",
+                  "coords": [
+                        9.784088,
+                        56.101495
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Knudhule",
+                  "text": "Knudhule is a swimming area near the Himmelbjerget.",
+                  "category": "recreational",
+                  "coords": [
+                        9.784088,
+                        56.101495
+                  ]
+            }
+      ]
+},
  type: "mountain",
  parent: "DK",
  coords: [9.8440, 56.1019],
@@ -2251,7 +2872,88 @@ export const denmarkNature: POI[] = [
  image: "/geo-images/denmark/himmelbjerget.webp",
  },
  {
- id: "nat-arreso",
+ id: "nat-arreso", "sights": {
+      "de": [
+            {
+                  "name": "Stængehus Strand",
+                  "text": "Stængehus Strand liegt bei den Arresø-Naturgebieten.",
+                  "category": "recreational",
+                  "coords": [
+                        12.024885,
+                        56.039131
+                  ]
+            },
+            {
+                  "name": "Stængehus - Melby Strand",
+                  "text": "Stængehus - Melby Strand ist Teil der Naturlandschaft nahe Arresø.",
+                  "category": "recreational",
+                  "coords": [
+                        11.994233,
+                        56.025242
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stængehus Strand",
+                  "text": "A Stængehus Strand az Arresø természeti területek közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        12.024885,
+                        56.039131
+                  ]
+            },
+            {
+                  "name": "Stængehus - Melby Strand",
+                  "text": "A Stængehus - Melby Strand az Arresø melletti természetvédelmi terület része.",
+                  "category": "recreational",
+                  "coords": [
+                        11.994233,
+                        56.025242
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stængehus Strand",
+                  "text": "Plaja Stængehus este situată lângă zonele naturale Arresø.",
+                  "category": "recreational",
+                  "coords": [
+                        12.024885,
+                        56.039131
+                  ]
+            },
+            {
+                  "name": "Stængehus - Melby Strand",
+                  "text": "Plaja Stængehus - Melby face parte din peisajul natural de lângă Arresø.",
+                  "category": "recreational",
+                  "coords": [
+                        11.994233,
+                        56.025242
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stængehus Strand",
+                  "text": "Stængehus Strand is located near the Arresø natural areas.",
+                  "category": "recreational",
+                  "coords": [
+                        12.024885,
+                        56.039131
+                  ]
+            },
+            {
+                  "name": "Stængehus - Melby Strand",
+                  "text": "Stængehus - Melby Strand is part of the natural landscape near Arresø.",
+                  "category": "recreational",
+                  "coords": [
+                        11.994233,
+                        56.025242
+                  ]
+            }
+      ]
+},
  type: "lake",
  parent: "DK",
  coords: [12.05, 56.03],

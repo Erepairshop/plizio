@@ -3,7 +3,88 @@ import { POI } from './poi';
 export const ukLifeV2: POI[] = [
 
   {
-    id: "uk-kew-gardens-life-v2",
+    id: "uk-kew-gardens-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "The Hollows",
+                  "text": "The Hollows ist ein Uferbereich bei den Kew Gardens.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.292826,
+                        51.487013
+                  ]
+            },
+            {
+                  "name": "Hog Hole",
+                  "text": "Hog Hole ist ein Uferbereich bei den Kew Gardens.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.294668,
+                        51.486041
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The Hollows",
+                  "text": "A The Hollows egy vízparti terület a Kew Gardens közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.292826,
+                        51.487013
+                  ]
+            },
+            {
+                  "name": "Hog Hole",
+                  "text": "A Hog Hole egy vízparti terület a Kew Gardens közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.294668,
+                        51.486041
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The Hollows",
+                  "text": "The Hollows este o zonă riverană lângă Kew Gardens.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.292826,
+                        51.487013
+                  ]
+            },
+            {
+                  "name": "Hog Hole",
+                  "text": "Hog Hole este o zonă riverană lângă Kew Gardens.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.294668,
+                        51.486041
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Hollows",
+                  "text": "The Hollows is a waterfront area near Kew Gardens.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.292826,
+                        51.487013
+                  ]
+            },
+            {
+                  "name": "Hog Hole",
+                  "text": "Hog Hole is a waterfront area near Kew Gardens.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.294668,
+                        51.486041
+                  ]
+            }
+      ]
+},
     parent: "GB",
     type: "park",
     name: { de: "Kew Gardens", hu: "Kew Gardens", ro: "Grădinile Kew", en: "Kew Gardens"},
@@ -325,7 +406,52 @@ imageHint: "Slimbridge Wetland Centre with flamingos",
     },
     image: "/poi-images/uk-slimbridge-wetland-life-v2.webp",
 },  {
-    id: "uk-eden-project-life-v2",
+    id: "uk-eden-project-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Crinnis Beach",
+                  "text": "Crinnis Beach befindet sich nahe dem Eden Project.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.731422,
+                        50.336813
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Crinnis Beach",
+                  "text": "A Crinnis Beach az Eden Project közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.731422,
+                        50.336813
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Crinnis Beach",
+                  "text": "Crinnis Beach se află în apropierea Eden Project.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.731422,
+                        50.336813
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Crinnis Beach",
+                  "text": "Crinnis Beach is located near the Eden Project.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.731422,
+                        50.336813
+                  ]
+            }
+      ]
+},
     parent: "GB",
     type: "park",
     name: { de: "Eden Project", hu: "Eden Projekt", ro: "Proiectul Eden", en: "Eden Project"},
@@ -371,7 +497,52 @@ imageHint: "Eden Project geodesic biomes at dusk",
     },
     image: "/poi-images/uk-eden-project-life-v2.webp",
 },  {
-    id: "uk-new-forest-life-v2",
+    id: "uk-new-forest-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Brockenhurst Beach",
+                  "text": "Brockenhurst Beach liegt in der Nähe des New Forest.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.570858,
+                        50.826553
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Brockenhurst Beach",
+                  "text": "Brockenhurst strand New Forest közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.570858,
+                        50.826553
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Brockenhurst Beach",
+                  "text": "Plaja Brockenhurst lângă New Forest.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.570858,
+                        50.826553
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Brockenhurst Beach",
+                  "text": "Brockenhurst Beach is near the New Forest.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.570858,
+                        50.826553
+                  ]
+            }
+      ]
+},
     parent: "GB",
     type: "forest",
     name: { de: "New-Forest-Nationalpark", hu: "New Forest Nemzeti Park", ro: "Parcul Național New Forest", en: "New Forest National Park"},
@@ -510,7 +681,88 @@ imageHint: "Loch Lomond lake with mountains in Scotland",
     },
   },
   {
-    id: "uk-royal-botanic-garden-edinburgh-life-v2",
+    id: "uk-royal-botanic-garden-edinburgh-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wardie Bay Beach",
+                  "text": "Ein Stadtstrand bei Edinburgh, ideal für Spaziergänge mit Blick auf das Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.217084,
+                        55.980876
+                  ]
+            },
+            {
+                  "name": "Royston Beach",
+                  "text": "Ein Strand nahe dem Royal Botanic Garden Edinburgh.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.239162,
+                        55.983596
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wardie Bay Beach",
+                  "text": "Városi strand Edinburgh közelében, ideális tengerre néző sétákhoz.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.217084,
+                        55.980876
+                  ]
+            },
+            {
+                  "name": "Royston Beach",
+                  "text": "Strand a Royal Botanic Garden Edinburgh közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.239162,
+                        55.983596
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wardie Bay Beach",
+                  "text": "O plajă urbană lângă Edinburgh, ideală pentru plimbări cu vedere la mare.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.217084,
+                        55.980876
+                  ]
+            },
+            {
+                  "name": "Royston Beach",
+                  "text": "O plajă lângă Royal Botanic Garden Edinburgh.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.239162,
+                        55.983596
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wardie Bay Beach",
+                  "text": "An urban beach near Edinburgh, ideal for walks with sea views.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.217084,
+                        55.980876
+                  ]
+            },
+            {
+                  "name": "Royston Beach",
+                  "text": "A beach near the Royal Botanic Garden Edinburgh.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.239162,
+                        55.983596
+                  ]
+            }
+      ]
+},
     parent: "GB",
     type: "park",
     name: { de: "Königlicher Botanischer Garten Edinburgh", hu: "Edinburgh-i Királyi Botanikus Kert", ro: "Grădina Botanică Regală din Edinburgh", en: "Royal Botanic Garden Edinburgh"},
@@ -602,7 +854,124 @@ imageHint: "Strangford Lough aerial view with islands",
     },
     image: "/poi-images/uk-strangford-lough-life-v2.webp",
 },  {
-    id: "uk-bempton-cliffs-life-v2",
+    id: "uk-bempton-cliffs-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Thornwick Bay",
+                  "text": "Thornwick Bay Strand bei den Bempton Cliffs.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.113309,
+                        54.130994
+                  ]
+            },
+            {
+                  "name": "Speeton Sands",
+                  "text": "Ein Strand an den Klippen von Bempton.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.23277,
+                        54.163503
+                  ]
+            },
+            {
+                  "name": "Little Thornwick Bay",
+                  "text": "Little Thornwick Bay ist ein Strand bei den Bempton Cliffs.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.116603,
+                        54.13239
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Thornwick Bay",
+                  "text": "Thornwick Bay strand Bempton Cliffs közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.113309,
+                        54.130994
+                  ]
+            },
+            {
+                  "name": "Speeton Sands",
+                  "text": "Strand a Bempton-szikláknál.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.23277,
+                        54.163503
+                  ]
+            },
+            {
+                  "name": "Little Thornwick Bay",
+                  "text": "Little Thornwick Bay egy strand a Bempton Cliffs-nél.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.116603,
+                        54.13239
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Thornwick Bay",
+                  "text": "Plaja Thornwick Bay lângă Bempton Cliffs.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.113309,
+                        54.130994
+                  ]
+            },
+            {
+                  "name": "Speeton Sands",
+                  "text": "O plajă lângă stâncile din Bempton.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.23277,
+                        54.163503
+                  ]
+            },
+            {
+                  "name": "Little Thornwick Bay",
+                  "text": "Little Thornwick Bay este o plajă lângă Bempton Cliffs.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.116603,
+                        54.13239
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Thornwick Bay",
+                  "text": "Thornwick Bay beach near Bempton Cliffs.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.113309,
+                        54.130994
+                  ]
+            },
+            {
+                  "name": "Speeton Sands",
+                  "text": "A beach by the Bempton Cliffs.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.23277,
+                        54.163503
+                  ]
+            },
+            {
+                  "name": "Little Thornwick Bay",
+                  "text": "Little Thornwick Bay is a beach near Bempton Cliffs.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.116603,
+                        54.13239
+                  ]
+            }
+      ]
+},
     parent: "GB",
     type: "wildlife",
     name: { de: "Bempton Cliffs", hu: "Bempton-sziklák", ro: "Stâncile Bempton", en: "Bempton Cliffs"},

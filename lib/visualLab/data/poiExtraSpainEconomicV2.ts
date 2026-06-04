@@ -142,7 +142,232 @@ imageHint: "Barcelona port logistics area and cruise terminal",
     },
     image: "/poi-images/spain-port-barcelona-economic-v2.webp",
 },  {
-    id: "spain-port-bilbao-economic-v2",
+    id: "spain-port-bilbao-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ereaga",
+                  "text": "Ereaga ist ein bekannter Stadtstrand in Getxo.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.013355,
+                        43.344215
+                  ]
+            },
+            {
+                  "name": "Meñakoz",
+                  "text": "Meñakoz ist ein Strand in der Gemeinde Getxo.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.98607,
+                        43.395223
+                  ]
+            },
+            {
+                  "name": "Barinatxe",
+                  "text": "Barinatxe ist ein lokaler Strand in Getxo.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.007083,
+                        43.383783
+                  ]
+            },
+            {
+                  "name": "Gorrondatxe - Azkorri",
+                  "text": "Gorrondatxe - Azkorri ist ein Strandbereich in Getxo.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.017253,
+                        43.380513
+                  ]
+            },
+            {
+                  "name": "Areetako Hondartza",
+                  "text": "Areetako Hondartza, auch bekannt als Las Arenas, ist ein Strand in Getxo.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.017374,
+                        43.327023
+                  ]
+            },
+            {
+                  "name": "Arrigunaga",
+                  "text": "Arrigunaga ist ein bekannter Strand in der Gemeinde Getxo.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.019785,
+                        43.355805
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ereaga",
+                  "text": "Az Ereaga egy ismert városi strand Getxóban.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.013355,
+                        43.344215
+                  ]
+            },
+            {
+                  "name": "Meñakoz",
+                  "text": "A Meñakoz egy strand Getxo településen.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.98607,
+                        43.395223
+                  ]
+            },
+            {
+                  "name": "Barinatxe",
+                  "text": "A Barinatxe egy helyi strand Getxóban.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.007083,
+                        43.383783
+                  ]
+            },
+            {
+                  "name": "Gorrondatxe - Azkorri",
+                  "text": "A Gorrondatxe - Azkorri egy strandterület Getxóban.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.017253,
+                        43.380513
+                  ]
+            },
+            {
+                  "name": "Areetako Hondartza",
+                  "text": "Az Areetako Hondartza, más néven Las Arenas, egy strand Getxóban.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.017374,
+                        43.327023
+                  ]
+            },
+            {
+                  "name": "Arrigunaga",
+                  "text": "Az Arrigunaga egy ismert strand Getxo településen.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.019785,
+                        43.355805
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ereaga",
+                  "text": "Ereaga este o plajă urbană recunoscută situată în Getxo.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.013355,
+                        43.344215
+                  ]
+            },
+            {
+                  "name": "Meñakoz",
+                  "text": "Meñakoz este o plajă situată în municipiul Getxo.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.98607,
+                        43.395223
+                  ]
+            },
+            {
+                  "name": "Barinatxe",
+                  "text": "Barinatxe este o plajă locală din Getxo.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.007083,
+                        43.383783
+                  ]
+            },
+            {
+                  "name": "Gorrondatxe - Azkorri",
+                  "text": "Gorrondatxe - Azkorri este o zonă de plajă din Getxo.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.017253,
+                        43.380513
+                  ]
+            },
+            {
+                  "name": "Areetako Hondartza",
+                  "text": "Areetako Hondartza, cunoscută și sub numele de Las Arenas, este o plajă situată în Getxo.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.017374,
+                        43.327023
+                  ]
+            },
+            {
+                  "name": "Arrigunaga",
+                  "text": "Arrigunaga este o plajă recunoscută din municipiul Getxo.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.019785,
+                        43.355805
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ereaga",
+                  "text": "Ereaga is a well-known urban beach located in Getxo.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.013355,
+                        43.344215
+                  ]
+            },
+            {
+                  "name": "Meñakoz",
+                  "text": "Meñakoz is a beach situated in the municipality of Getxo.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.98607,
+                        43.395223
+                  ]
+            },
+            {
+                  "name": "Barinatxe",
+                  "text": "Barinatxe is a local beach found in Getxo.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.007083,
+                        43.383783
+                  ]
+            },
+            {
+                  "name": "Gorrondatxe - Azkorri",
+                  "text": "Gorrondatxe - Azkorri is a beach area located in Getxo.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.017253,
+                        43.380513
+                  ]
+            },
+            {
+                  "name": "Areetako Hondartza",
+                  "text": "Areetako Hondartza, also known as Las Arenas, is a beach located in Getxo.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.017374,
+                        43.327023
+                  ]
+            },
+            {
+                  "name": "Arrigunaga",
+                  "text": "Arrigunaga is a recognized beach located in the municipality of Getxo.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.019785,
+                        43.355805
+                  ]
+            }
+      ]
+},
     parent: "ES",
     type: "port",
     name: { de: "Hafen von Bilbao", hu: "Bilbaói kikötő", ro: "Portul Bilbao", en: "Port of Bilbao"},

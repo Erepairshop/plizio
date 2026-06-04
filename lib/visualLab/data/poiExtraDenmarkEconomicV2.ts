@@ -363,7 +363,52 @@ export const denmarkEconomicV2: POI[] = [
     image: "/poi-images/denmark-billund-airport-economic-v2.webp",
   },
   {
-    id: "denmark-aarhus-university-park-economic-v2",
+    id: "denmark-aarhus-university-park-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bellevue Strand",
+                  "text": "Ein Strand nahe dem Universitätsgelände von Aarhus.",
+                  "category": "recreational",
+                  "coords": [
+                        10.248009,
+                        56.189882
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bellevue Strand",
+                  "text": "Strand az aarhusi egyetemi park közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        10.248009,
+                        56.189882
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bellevue Strand",
+                  "text": "O plajă lângă parcul universitar din Aarhus.",
+                  "category": "recreational",
+                  "coords": [
+                        10.248009,
+                        56.189882
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bellevue Strand",
+                  "text": "A beach near the University Park in Aarhus.",
+                  "category": "recreational",
+                  "coords": [
+                        10.248009,
+                        56.189882
+                  ]
+            }
+      ]
+},
     type: "university",
     parent: "DK",
     name: { de: "Universitätspark Aarhus", hu: "Aarhusi Egyetemi Park", ro: "Parcul Universitar Aarhus", en: "Aarhus University Park" },
@@ -858,7 +903,52 @@ export const denmarkEconomicV2: POI[] = [
     image: "/poi-images/denmark-odsherred-agri-economic-v2.webp",
   },
   {
-    id: "denmark-svendborg-shipyard-economic-v2",
+    id: "denmark-svendborg-shipyard-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Karlas Plads",
+                  "text": "Karlas Plads ist ein Uferbereich bei Svendborg.",
+                  "category": "recreational",
+                  "coords": [
+                        10.616504,
+                        55.049495
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Karlas Plads",
+                  "text": "A Karlas Plads egy vízparti terület Svendborg közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        10.616504,
+                        55.049495
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Karlas Plads",
+                  "text": "Karlas Plads este o zonă de țărm lângă Svendborg.",
+                  "category": "recreational",
+                  "coords": [
+                        10.616504,
+                        55.049495
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Karlas Plads",
+                  "text": "Karlas Plads is a waterfront area near Svendborg.",
+                  "category": "recreational",
+                  "coords": [
+                        10.616504,
+                        55.049495
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "DK",
     name: { de: "Svendborg Werft", hu: "Svendborgi hajógyár", ro: "Șantierul naval Svendborg", en: "Svendborg Shipyard" },
@@ -993,7 +1083,52 @@ export const denmarkEconomicV2: POI[] = [
     image: "/poi-images/denmark-green-lab-skive-economic-v2.webp",
   },
   {
-    id: "denmark-fredericia-port-economic-v2",
+    id: "denmark-fredericia-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Østerstrand",
+                  "text": "Der Østerstrand befindet sich in Fredericia und bietet Zugang zum Wasser in der Nähe des Hafens.",
+                  "category": "recreational",
+                  "coords": [
+                        9.769118,
+                        55.564479
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Østerstrand",
+                  "text": "Az Østerstrand Fredericiában található, hozzáférést biztosítva a vízhez a kikötő közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        9.769118,
+                        55.564479
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Østerstrand",
+                  "text": "Østerstrand este situată în Fredericia și oferă acces la apă în apropierea portului.",
+                  "category": "recreational",
+                  "coords": [
+                        9.769118,
+                        55.564479
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Østerstrand",
+                  "text": "Østerstrand is located in Fredericia, providing water access near the port.",
+                  "category": "recreational",
+                  "coords": [
+                        9.769118,
+                        55.564479
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "DK",
     name: { de: "Hafen Fredericia", hu: "Fredericiai kikötő", ro: "Portul Fredericia", en: "Port of Fredericia" },

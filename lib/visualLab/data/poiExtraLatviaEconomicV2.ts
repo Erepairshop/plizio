@@ -363,7 +363,160 @@ export const latviaEconomicV2: POI[] = [
     image: "/poi-images/latvia-jelgava-bioenergy-economic-v2.webp",
   },
   {
-    id: "latvia-ventspils-chemical-terminal-economic-v2",
+    id: "latvia-ventspils-chemical-terminal-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nūdistu pludmale",
+                  "text": "Dies ist ein FKK-Strand in der Nähe von Ventspils.",
+                  "category": "recreational",
+                  "coords": [
+                        21.522811,
+                        57.384532
+                  ]
+            },
+            {
+                  "name": "Sērfotāju pludmales zona",
+                  "text": "Ein ausgewiesener Bereich für Surfer in der Nähe von Ventspils.",
+                  "category": "recreational",
+                  "coords": [
+                        21.525859,
+                        57.387667
+                  ]
+            },
+            {
+                  "name": "Pludmales volejbola zona",
+                  "text": "Ein Bereich für Beachvolleyball in der Nähe von Ventspils.",
+                  "category": "recreational",
+                  "coords": [
+                        21.527576,
+                        57.389444
+                  ]
+            },
+            {
+                  "name": "Peldvietas zona",
+                  "text": "Dieser Strandabschnitt befindet sich beim Chemieterminal Ventspils.",
+                  "category": "recreational",
+                  "coords": [
+                        21.529579,
+                        57.393682
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nūdistu pludmale",
+                  "text": "Ez egy nudista strand Ventspils közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        21.522811,
+                        57.384532
+                  ]
+            },
+            {
+                  "name": "Sērfotāju pludmales zona",
+                  "text": "Kijelölt szörfös terület Ventspils közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        21.525859,
+                        57.387667
+                  ]
+            },
+            {
+                  "name": "Pludmales volejbola zona",
+                  "text": "Strandröplabda terület Ventspils közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        21.527576,
+                        57.389444
+                  ]
+            },
+            {
+                  "name": "Peldvietas zona",
+                  "text": "Ez a partszakasz a Ventspilsi Vegyi Terminál mellett található.",
+                  "category": "recreational",
+                  "coords": [
+                        21.529579,
+                        57.393682
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nūdistu pludmale",
+                  "text": "Aceasta este o plajă pentru nudiști situată lângă Ventspils.",
+                  "category": "recreational",
+                  "coords": [
+                        21.522811,
+                        57.384532
+                  ]
+            },
+            {
+                  "name": "Sērfotāju pludmales zona",
+                  "text": "O zonă desemnată pentru surferi situată lângă Ventspils.",
+                  "category": "recreational",
+                  "coords": [
+                        21.525859,
+                        57.387667
+                  ]
+            },
+            {
+                  "name": "Pludmales volejbola zona",
+                  "text": "O zonă pentru volei pe plajă lângă Ventspils.",
+                  "category": "recreational",
+                  "coords": [
+                        21.527576,
+                        57.389444
+                  ]
+            },
+            {
+                  "name": "Peldvietas zona",
+                  "text": "Această zonă de plajă este situată lângă Terminalul Chimic Ventspils.",
+                  "category": "recreational",
+                  "coords": [
+                        21.529579,
+                        57.393682
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nūdistu pludmale",
+                  "text": "This is a nudist beach near Ventspils.",
+                  "category": "recreational",
+                  "coords": [
+                        21.522811,
+                        57.384532
+                  ]
+            },
+            {
+                  "name": "Sērfotāju pludmales zona",
+                  "text": "A designated surfing area near Ventspils.",
+                  "category": "recreational",
+                  "coords": [
+                        21.525859,
+                        57.387667
+                  ]
+            },
+            {
+                  "name": "Pludmales volejbola zona",
+                  "text": "An area for beach volleyball near Ventspils.",
+                  "category": "recreational",
+                  "coords": [
+                        21.527576,
+                        57.389444
+                  ]
+            },
+            {
+                  "name": "Peldvietas zona",
+                  "text": "This beach area is located by the Ventspils Chemical Terminal.",
+                  "category": "recreational",
+                  "coords": [
+                        21.529579,
+                        57.393682
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "LV",
     name: { de: "Ventspils Chemienterminal", hu: "Ventspilsi vegyitermék-terminál", ro: "Terminal chimic Ventspils", en: "Ventspils Chemical Terminal" },
@@ -498,7 +651,52 @@ export const latviaEconomicV2: POI[] = [
     image: "/poi-images/latvia-daugavpils-locomotive-economic-v2.webp",
   },
   {
-    id: "latvia-tukums-food-processing-economic-v2",
+    id: "latvia-tukums-food-processing-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jumpravas ezera peldvieta",
+                  "text": "Ein Badeplatz am Jumpravas-See bei Tukums.",
+                  "category": "recreational",
+                  "coords": [
+                        23.128761,
+                        56.991975
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jumpravas ezera peldvieta",
+                  "text": "Fürdőhely a Jumpravas-tónál, Tukums mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        23.128761,
+                        56.991975
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jumpravas ezera peldvieta",
+                  "text": "O zonă de scăldat la lacul Jumpravas, lângă Tukums.",
+                  "category": "recreational",
+                  "coords": [
+                        23.128761,
+                        56.991975
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jumpravas ezera peldvieta",
+                  "text": "A swimming spot at Lake Jumpravas near Tukums.",
+                  "category": "recreational",
+                  "coords": [
+                        23.128761,
+                        56.991975
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "LV",
     name: { de: "Tukums Lebensmittelverarbeitung", hu: "Tukumsi élelmiszeripar", ro: "Procesarea alimentelor Tukums", en: "Tukums Food Processing Cluster" },
@@ -633,7 +831,52 @@ export const latviaEconomicV2: POI[] = [
     image: "/poi-images/latvia-kekava-poultry-economic-v2.webp",
   },
   {
-    id: "latvia-grobina-wind-energy-economic-v2",
+    id: "latvia-grobina-wind-energy-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dzirnavas dīķa peldētava",
+                  "text": "Dzirnavas dīķa peldētava ist ein Badeplatz in Grobiņa.",
+                  "category": "recreational",
+                  "coords": [
+                        21.155364,
+                        56.534015
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dzirnavas dīķa peldētava",
+                  "text": "A Dzirnavas dīķa peldētava egy fürdőhely Grobiňában.",
+                  "category": "recreational",
+                  "coords": [
+                        21.155364,
+                        56.534015
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dzirnavas dīķa peldētava",
+                  "text": "Dzirnavas dīķa peldētava este o zonă de scăldat în Grobiņa.",
+                  "category": "recreational",
+                  "coords": [
+                        21.155364,
+                        56.534015
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dzirnavas dīķa peldētava",
+                  "text": "Dzirnavas dīķa peldētava is a swimming spot in Grobiņa.",
+                  "category": "recreational",
+                  "coords": [
+                        21.155364,
+                        56.534015
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "LV",
     name: { de: "Grobiņa Windpark", hu: "Grobiņai szélerőműpark", ro: "Parcul eolian Grobiņa", en: "Grobiņa Wind Park" },

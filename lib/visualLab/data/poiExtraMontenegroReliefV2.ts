@@ -183,7 +183,88 @@ export const montenegroReliefV2: POI[] = [
     image: "/poi-images/montenegro-stavor-hill-relief-v2.webp",
   },
   {
-    id: "montenegro-zeletin-mountain-relief-v2",
+    id: "montenegro-zeletin-mountain-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plaža Lukin fir",
+                  "text": "Plaža Lukin fir liegt bei den Bergen von Zeletin.",
+                  "category": "recreational",
+                  "coords": [
+                        19.822326,
+                        42.766294
+                  ]
+            },
+            {
+                  "name": "Plaža Rijeka Marsenića",
+                  "text": "Der Strand am Fluss Rijeka Marsenića liegt am Berg Zeletin.",
+                  "category": "recreational",
+                  "coords": [
+                        19.835089,
+                        42.782836
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plaža Lukin fir",
+                  "text": "Plaža Lukin fir a Zeletin-hegységnél található.",
+                  "category": "recreational",
+                  "coords": [
+                        19.822326,
+                        42.766294
+                  ]
+            },
+            {
+                  "name": "Plaža Rijeka Marsenića",
+                  "text": "A Rijeka Marsenića folyóparti strand a Zeletin-hegynél található.",
+                  "category": "recreational",
+                  "coords": [
+                        19.835089,
+                        42.782836
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plaža Lukin fir",
+                  "text": "Plaža Lukin fir este situată lângă munții Zeletin.",
+                  "category": "recreational",
+                  "coords": [
+                        19.822326,
+                        42.766294
+                  ]
+            },
+            {
+                  "name": "Plaža Rijeka Marsenića",
+                  "text": "Plaja de pe râul Rijeka Marsenića se află lângă muntele Zeletin.",
+                  "category": "recreational",
+                  "coords": [
+                        19.835089,
+                        42.782836
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plaža Lukin fir",
+                  "text": "Plaža Lukin fir is located by the Zeletin mountains.",
+                  "category": "recreational",
+                  "coords": [
+                        19.822326,
+                        42.766294
+                  ]
+            },
+            {
+                  "name": "Plaža Rijeka Marsenića",
+                  "text": "The Rijeka Marsenića river beach is located near Zeletin Mountain.",
+                  "category": "recreational",
+                  "coords": [
+                        19.835089,
+                        42.782836
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "ME",
     name: { de: "Zeletin-Gebirge", hu: "Zeletin-hegység", ro: "Munții Zeletin", en: "Zeletin Mountain" },

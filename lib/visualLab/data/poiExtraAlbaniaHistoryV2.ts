@@ -310,7 +310,232 @@ imageHint: "Bashtove Castle walls in the field",
       fr: "Le château de Bashtovë est un monument médiéval unique en Albanie, car il est la seule forteresse du pays à avoir été construite sur une plaine et non sur une colline. Il est situé près de l'embouchure du fleuve Shkumbin dans la mer Adriatique et a été construit au XVe siècle, probablement par les Vénitiens, pour protéger les exportations de céréales et la région côtière stratégique. Le château présente un plan rectangulaire d'environ 60 mètres sur 90, avec des murs de neuf mètres de haut et des tours rondes et carrées aux angles et au milieu des côtés. Après la conquête ottomane, la forteresse a continué d'être utilisée et a été modifiée architecturalement pour répondre aux nouvelles exigences militaires. Son emplacement isolé au milieu des forêts de pins et des terres agricoles confère au site une atmosphère particulière. Bashtovë est aujourd'hui un monument culturel protégé et figure sur la liste indicative du patrimoine mondial de l'UNESCO en raison de sa singularité architecturale.",
     },
   },
-  { id: "albania-porto-palermo-castle-history-v2",
+  { id: "albania-porto-palermo-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Porto Palermo Beach",
+                  "text": "Strand direkt unterhalb der Burg von Porto Palermo.",
+                  "category": "recreational",
+                  "coords": [
+                        19.793402,
+                        40.062494
+                  ]
+            },
+            {
+                  "name": "Plazhi i Llamanit",
+                  "text": "Strand bei der Burg Porto Palermo.",
+                  "category": "recreational",
+                  "coords": [
+                        19.766967,
+                        40.08038
+                  ]
+            },
+            {
+                  "name": "Plazhi i Panormasë",
+                  "text": "Strand in der Nähe der Burg von Porto Palermo.",
+                  "category": "recreational",
+                  "coords": [
+                        19.802949,
+                        40.052449
+                  ]
+            },
+            {
+                  "name": "Nemo Beach",
+                  "text": "Strand nahe der Burg von Porto Palermo.",
+                  "category": "recreational",
+                  "coords": [
+                        19.803024,
+                        40.056569
+                  ]
+            },
+            {
+                  "name": "Plazhi i Porto Palermo",
+                  "text": "Strand bei der historischen Burg von Porto Palermo.",
+                  "category": "recreational",
+                  "coords": [
+                        19.789077,
+                        40.069101
+                  ]
+            },
+            {
+                  "name": "Mateus beach",
+                  "text": "Strand bei der Burg Porto Palermo.",
+                  "category": "recreational",
+                  "coords": [
+                        19.768163,
+                        40.069511
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Porto Palermo Beach",
+                  "text": "Strand közvetlenül a Porto Palermo vár alatt.",
+                  "category": "recreational",
+                  "coords": [
+                        19.793402,
+                        40.062494
+                  ]
+            },
+            {
+                  "name": "Plazhi i Llamanit",
+                  "text": "Strand a Porto Palermo vár közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        19.766967,
+                        40.08038
+                  ]
+            },
+            {
+                  "name": "Plazhi i Panormasë",
+                  "text": "Strand a Porto Palermo-i vár közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        19.802949,
+                        40.052449
+                  ]
+            },
+            {
+                  "name": "Nemo Beach",
+                  "text": "Strand a Porto Palermo-i vár közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        19.803024,
+                        40.056569
+                  ]
+            },
+            {
+                  "name": "Plazhi i Porto Palermo",
+                  "text": "Strand a történelmi Porto Palermo-i várnál.",
+                  "category": "recreational",
+                  "coords": [
+                        19.789077,
+                        40.069101
+                  ]
+            },
+            {
+                  "name": "Mateus beach",
+                  "text": "Strand a Porto Palermo-várnál.",
+                  "category": "recreational",
+                  "coords": [
+                        19.768163,
+                        40.069511
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Porto Palermo Beach",
+                  "text": "Plajă situată chiar sub castelul Porto Palermo.",
+                  "category": "recreational",
+                  "coords": [
+                        19.793402,
+                        40.062494
+                  ]
+            },
+            {
+                  "name": "Plazhi i Llamanit",
+                  "text": "Plajă lângă Castelul Porto Palermo.",
+                  "category": "recreational",
+                  "coords": [
+                        19.766967,
+                        40.08038
+                  ]
+            },
+            {
+                  "name": "Plazhi i Panormasë",
+                  "text": "Plajă lângă castelul Porto Palermo.",
+                  "category": "recreational",
+                  "coords": [
+                        19.802949,
+                        40.052449
+                  ]
+            },
+            {
+                  "name": "Nemo Beach",
+                  "text": "Plajă lângă castelul Porto Palermo.",
+                  "category": "recreational",
+                  "coords": [
+                        19.803024,
+                        40.056569
+                  ]
+            },
+            {
+                  "name": "Plazhi i Porto Palermo",
+                  "text": "Plajă lângă castelul istoric Porto Palermo.",
+                  "category": "recreational",
+                  "coords": [
+                        19.789077,
+                        40.069101
+                  ]
+            },
+            {
+                  "name": "Mateus beach",
+                  "text": "Plajă lângă Castelul Porto Palermo.",
+                  "category": "recreational",
+                  "coords": [
+                        19.768163,
+                        40.069511
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Porto Palermo Beach",
+                  "text": "Beach located directly below Porto Palermo Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        19.793402,
+                        40.062494
+                  ]
+            },
+            {
+                  "name": "Plazhi i Llamanit",
+                  "text": "Beach near Porto Palermo Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        19.766967,
+                        40.08038
+                  ]
+            },
+            {
+                  "name": "Plazhi i Panormasë",
+                  "text": "Beach near the Porto Palermo Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        19.802949,
+                        40.052449
+                  ]
+            },
+            {
+                  "name": "Nemo Beach",
+                  "text": "Beach near the Porto Palermo Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        19.803024,
+                        40.056569
+                  ]
+            },
+            {
+                  "name": "Plazhi i Porto Palermo",
+                  "text": "Beach near the historic Porto Palermo Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        19.789077,
+                        40.069101
+                  ]
+            },
+            {
+                  "name": "Mateus beach",
+                  "text": "Beach near Porto Palermo Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        19.768163,
+                        40.069511
+                  ]
+            }
+      ]
+},
     parent: "AL",    type: "castle",
     name: { de: "Burg Porto Palermo", hu: "Porto Palermo vár", ro: "Castelul Porto Palermo", en: "Porto Palermo Castle"},
     image: "/poi-images/albania-porto-palermo-castle-history-v2.webp",
@@ -442,7 +667,124 @@ imageHint: "Kanine Castle ruins overlooking Vlora bay",
       fr: "Le château de Kaninë trône sur le mont Shushica, à environ 380 mètres au-dessus du niveau de la mer, près de la ville portuaire de Vlorë, au sud-ouest de l'Albanie. Les origines du site remontent au IVe siècle avant J.-C., lorsqu'il fut fondé comme établissement illyrien des Chaoniens. Au VIe siècle après J.-C., l'empereur byzantin Justinien Ier fit agrandir considérablement la forteresse afin de surveiller la route maritime vers l'Italie. Au cours du Moyen Âge, le château changea plusieurs fois de mains entre Byzantins, Normands, Bulgares et Vénitiens, avant de tomber aux mains des Ottomans en 1417. La forteresse s'étend sur une surface de près de 4 hectares et offre, grâce à sa situation exposée, une vue panoramique étendue sur la baie de Vlorë et la péninsule de Karaburun. Le lien avec la famille des Arianiti, qui y résida au XVe siècle, est également d'une grande importance historique. Aujourd'hui, les vestiges de murs et de tours conservés constituent un témoignage archéologique important de l'importance militaire millénaire de ce site.",
     },
   },
-  { id: "albania-himara-castle-history-v2",
+  { id: "albania-himara-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Guma",
+                  "text": "Guma Strand nahe der Burg Himara.",
+                  "category": "recreational",
+                  "coords": [
+                        19.711031,
+                        40.113359
+                  ]
+            },
+            {
+                  "name": "Plazhi i Livadhit",
+                  "text": "Strand bei der Burg Himara.",
+                  "category": "recreational",
+                  "coords": [
+                        19.724829,
+                        40.106854
+                  ]
+            },
+            {
+                  "name": "Plazhi i Akuariumit",
+                  "text": "Versteckter Strand unterhalb der Burg von Himarë.",
+                  "category": "recreational",
+                  "coords": [
+                        19.712141,
+                        40.112925
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Guma",
+                  "text": "Guma strand a Himara vár közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        19.711031,
+                        40.113359
+                  ]
+            },
+            {
+                  "name": "Plazhi i Livadhit",
+                  "text": "Strand a Himara vár közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        19.724829,
+                        40.106854
+                  ]
+            },
+            {
+                  "name": "Plazhi i Akuariumit",
+                  "text": "Rejtett strand Himarë vára alatt.",
+                  "category": "recreational",
+                  "coords": [
+                        19.712141,
+                        40.112925
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Guma",
+                  "text": "Plaja Guma lângă Castelul Himara.",
+                  "category": "recreational",
+                  "coords": [
+                        19.711031,
+                        40.113359
+                  ]
+            },
+            {
+                  "name": "Plazhi i Livadhit",
+                  "text": "Plajă lângă Castelul Himara.",
+                  "category": "recreational",
+                  "coords": [
+                        19.724829,
+                        40.106854
+                  ]
+            },
+            {
+                  "name": "Plazhi i Akuariumit",
+                  "text": "Plajă ascunsă sub castelul din Himarë.",
+                  "category": "recreational",
+                  "coords": [
+                        19.712141,
+                        40.112925
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Guma",
+                  "text": "Guma beach near Himara Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        19.711031,
+                        40.113359
+                  ]
+            },
+            {
+                  "name": "Plazhi i Livadhit",
+                  "text": "Beach near Himara Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        19.724829,
+                        40.106854
+                  ]
+            },
+            {
+                  "name": "Plazhi i Akuariumit",
+                  "text": "Hidden beach below Himara Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        19.712141,
+                        40.112925
+                  ]
+            }
+      ]
+},
     parent: "AL",    type: "castle",
     name: { de: "Burg von Himara", hu: "Himarai vár", ro: "Castelul Himara", en: "Himara Castle"},
     image: "/poi-images/albania-himara-castle-history-v2.webp",
@@ -618,7 +960,52 @@ imageHint: "Peqin Castle fortress walls in Albania",
       fr: "Le château de Peqin, situé dans la région centrale du Shkumbin, possède une longue histoire remontant à l'Antiquité romaine. Il fut initialement érigé comme forteresse illyrienne sous le nom de Claudiana, servant de halte cruciale sur la célèbre route commerciale Via Egnatia. La structure ottomane actuelle a été construite au XVe siècle sur les fondations antiques et considérablement agrandie au XVIIIe siècle sous un gouvernement local. La forteresse se distingue par sa forme carrée et ses hauts murs autrefois garnis de canons. Un élément architectural particulier est la tour de l'horloge, ajoutée plus tard, qui symbolise le lien entre architecture militaire et vie urbaine. Peqin a joué un rôle central dans le contrôle du commerce entre la côte adriatique et l'intérieur des Balkans. Les ruines du château conservent des traces des différentes phases de construction, des assises de pierre romaines aux briques ottomanes.",
     },
   },
-  { id: "albania-ishmi-castle-history-v2",
+  { id: "albania-ishmi-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Malibu beach",
+                  "text": "Malibu Beach liegt in der Nähe der Burg Ishmi.",
+                  "category": "recreational",
+                  "coords": [
+                        19.511084,
+                        41.533481
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Malibu beach",
+                  "text": "Malibu Beach az Ishmi vár közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        19.511084,
+                        41.533481
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Malibu beach",
+                  "text": "Malibu Beach se află lângă castelul Ishmi.",
+                  "category": "recreational",
+                  "coords": [
+                        19.511084,
+                        41.533481
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Malibu beach",
+                  "text": "Malibu Beach is located near Ishmi Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        19.511084,
+                        41.533481
+                  ]
+            }
+      ]
+},
     parent: "AL",    type: "castle",
     name: { de: "Burg von Ishmi", hu: "Ishmi vár", ro: "Castelul Ishmi", en: "Ishmi Castle"},
     image: "/poi-images/albania-ishmi-castle-history-v2.webp",
@@ -662,7 +1049,52 @@ imageHint: "Ishmi Castle ruins and Ibrahim Kodra grave",
       fr: "Le château d'Ishmi a été érigé entre 1572 et 1574 par l'Empire ottoman pour protéger la côte des raids de pirates et des soulèvements de la population locale. Il est stratégiquement situé sur une colline près de l'embouchure du fleuve Ishm, à mi-chemin environ entre Durrës et Kruja. La forteresse se caractérise par sa structure carrée avec quatre tours d'angle marquantes, typiques de l'architecture militaire ottomane du XVIe siècle. À l'intérieur des murs se trouvaient des casernes et des entrepôts pour la garnison qui contrôlait l'accès à l'arrière-pays. Historiquement, le lieu a acquis une importance supplémentaire à l'époque moderne en tant que lieu de sépulture du peintre albanais de renommée mondiale Ibrahim Kodra, dont la tombe se trouve aujourd'hui dans l'enceinte du château. La vue depuis le château s'étend sur les plaines fertiles de l'Albanie centrale jusqu'à la mer Adriatique. Bien qu'une grande partie des bâtiments intérieurs soit détruite, les murs extérieurs donnent encore une impression de l'ancienne puissance militaire. Le château d'Ishmi est aujourd'hui un lieu de réflexion paisible et un monument culturel important de la région.",
     },
   },
-  { id: "albania-rodoni-castle-history-v2",
+  { id: "albania-rodoni-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plazhi i Bunkerit",
+                  "text": "Strand bei der Burg Rodoni.",
+                  "category": "recreational",
+                  "coords": [
+                        19.459582,
+                        41.583407
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plazhi i Bunkerit",
+                  "text": "Strand a Rodoni vár közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        19.459582,
+                        41.583407
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plazhi i Bunkerit",
+                  "text": "Plajă lângă Castelul Rodoni.",
+                  "category": "recreational",
+                  "coords": [
+                        19.459582,
+                        41.583407
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plazhi i Bunkerit",
+                  "text": "Beach near Rodoni Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        19.459582,
+                        41.583407
+                  ]
+            }
+      ]
+},
     parent: "AL",    type: "castle",
     name: { de: "Burg von Rodoni", hu: "Rodoni vár", ro: "Castelul Rodoni", en: "Rodoni Castle"},
     image: "/poi-images/albania-rodoni-castle-history-v2.webp",
@@ -884,7 +1316,52 @@ imageHint: "Roman theater of Hadrianopolis Sofratika",
   }
 ,
   {
-    id: "albania-lekuresi-castle-history-v2",
+    id: "albania-lekuresi-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plazhi Mango",
+                  "text": "Mango Strand bei der Burg Lekuresi.",
+                  "category": "recreational",
+                  "coords": [
+                        20.020531,
+                        39.852734
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plazhi Mango",
+                  "text": "Mango strand a Lekuresi vár közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        20.020531,
+                        39.852734
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plazhi Mango",
+                  "text": "Plaja Mango lângă Castelul Lekuresi.",
+                  "category": "recreational",
+                  "coords": [
+                        20.020531,
+                        39.852734
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plazhi Mango",
+                  "text": "Mango Beach near Lekuresi Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        20.020531,
+                        39.852734
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "AL",
     name: { de: "Burg Lëkurësi", hu: "Lëkurësi vár", ro: "Castelul Lëkurësi", en: "Lëkurësi Castle" },
@@ -974,7 +1451,52 @@ imageHint: "Roman theater of Hadrianopolis Sofratika",
     image: "/poi-images/albania-drisht-castle-history-v2.webp",
   },
   {
-    id: "albania-sarda-castle-history-v2",
+    id: "albania-sarda-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plazhi i Rragamit",
+                  "text": "Strand bei der Burg Sarda.",
+                  "category": "recreational",
+                  "coords": [
+                        19.607362,
+                        42.064645
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plazhi i Rragamit",
+                  "text": "Strand a Sarda vár közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        19.607362,
+                        42.064645
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plazhi i Rragamit",
+                  "text": "Plajă lângă Castelul Sarda.",
+                  "category": "recreational",
+                  "coords": [
+                        19.607362,
+                        42.064645
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plazhi i Rragamit",
+                  "text": "Beach near Sarda Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        19.607362,
+                        42.064645
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "AL",
     name: { de: "Burg Sarda", hu: "Sarda vára", ro: "Castelul Sarda", en: "Castle of Sarda" },
@@ -1244,7 +1766,52 @@ imageHint: "Roman theater of Hadrianopolis Sofratika",
     image: "/poi-images/albania-mesopotam-monastery-history-v2.webp",
   },
   {
-    id: "albania-forty-saints-monastery-history-v2",
+    id: "albania-forty-saints-monastery-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maestral",
+                  "text": "Maestral Strand in der Nähe des Klosters der Vierzig Heiligen.",
+                  "category": "recreational",
+                  "coords": [
+                        20.016122,
+                        39.866578
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maestral",
+                  "text": "Maestral strand a Negyven Szent kolostorának közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        20.016122,
+                        39.866578
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maestral",
+                  "text": "Plaja Maestral lângă Mănăstirea celor Patruzeci de Sfinți.",
+                  "category": "recreational",
+                  "coords": [
+                        20.016122,
+                        39.866578
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maestral",
+                  "text": "Maestral beach near the Forty Saints Monastery.",
+                  "category": "recreational",
+                  "coords": [
+                        20.016122,
+                        39.866578
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "AL",
     name: { de: "Kloster der 40 Märtyrer", hu: "40 Szent kolostora", ro: "Mănăstirea celor 40 de Sfinți", en: "Monastery of the Forty Saints" },
@@ -1334,7 +1901,88 @@ imageHint: "Roman theater of Hadrianopolis Sofratika",
     image: "/poi-images/albania-labove-kryqit-church-history-v2.webp",
   },
   {
-    id: "albania-zvernec-monastery-history-v2",
+    id: "albania-zvernec-monastery-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Porto Novo Beach",
+                  "text": "Strand nahe dem Kloster Zvërnec.",
+                  "category": "recreational",
+                  "coords": [
+                        19.379404,
+                        40.535682
+                  ]
+            },
+            {
+                  "name": "Zvërnec Beach",
+                  "text": "Strand nahe dem Kloster Zvërnec.",
+                  "category": "recreational",
+                  "coords": [
+                        19.387915,
+                        40.526078
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Porto Novo Beach",
+                  "text": "Strand a Zvërnec kolostor közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        19.379404,
+                        40.535682
+                  ]
+            },
+            {
+                  "name": "Zvërnec Beach",
+                  "text": "Strand a Zvërnec kolostor közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        19.387915,
+                        40.526078
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Porto Novo Beach",
+                  "text": "Plajă lângă Mănăstirea Zvërnec.",
+                  "category": "recreational",
+                  "coords": [
+                        19.379404,
+                        40.535682
+                  ]
+            },
+            {
+                  "name": "Zvërnec Beach",
+                  "text": "Plajă lângă Mănăstirea Zvërnec.",
+                  "category": "recreational",
+                  "coords": [
+                        19.387915,
+                        40.526078
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Porto Novo Beach",
+                  "text": "Beach near Zvërnec Monastery.",
+                  "category": "recreational",
+                  "coords": [
+                        19.379404,
+                        40.535682
+                  ]
+            },
+            {
+                  "name": "Zvërnec Beach",
+                  "text": "Beach near Zvërnec Monastery.",
+                  "category": "recreational",
+                  "coords": [
+                        19.387915,
+                        40.526078
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "AL",
     name: { de: "Kloster Zvërnec", hu: "Zvërnec-kolostor", ro: "Mănăstirea Zvërnec", en: "Zvërnec Monastery" },
@@ -1874,7 +2522,52 @@ imageHint: "Roman theater of Hadrianopolis Sofratika",
     image: "/poi-images/albania-pogradec-fortress-history-v2.webp",
   },
   {
-    id: "albania-grezhdan-castle-history-v2",
+    id: "albania-grezhdan-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rera per Plazh",
+                  "text": "Rera per Plazh befindet sich nahe der Burg Grezhdan.",
+                  "category": "recreational",
+                  "coords": [
+                        20.426384,
+                        41.618366
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rera per Plazh",
+                  "text": "Rera per Plazh a Grezhdan vár közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        20.426384,
+                        41.618366
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rera per Plazh",
+                  "text": "Rera per Plazh se află lângă castelul Grezhdan.",
+                  "category": "recreational",
+                  "coords": [
+                        20.426384,
+                        41.618366
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rera per Plazh",
+                  "text": "Rera per Plazh is located near Grezhdan Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        20.426384,
+                        41.618366
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "AL",
     name: { de: "Burg Grezhdan", hu: "Grezhdani vár", ro: "Castelul Grezhdan", en: "Grezhdan Castle" },

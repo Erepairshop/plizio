@@ -543,7 +543,196 @@ export const bulgariaLifeV2: POI[] = [
     image: "/poi-images/bulgaria-rosen-park-life-v2.webp",
   },
   {
-    id: "bulgaria-pomorie-lake-life-v2",
+    id: "bulgaria-pomorie-lake-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Anhialo",
+                  "text": "Ein Strand nahe dem Pomorie-See am Schwarzen Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        27.590953,
+                        42.564535
+                  ]
+            },
+            {
+                  "name": "Diyana",
+                  "text": "Ein Strand nahe dem Pomorie-See am Schwarzen Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        27.595813,
+                        42.562578
+                  ]
+            },
+            {
+                  "name": "Severen plazh Pomorie",
+                  "text": "Ein Strandabschnitt am Pomorie-See am Schwarzen Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        27.640121,
+                        42.566482
+                  ]
+            },
+            {
+                  "name": "Galera",
+                  "text": "Ein Strand am Pomorie-See am Schwarzen Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        27.596539,
+                        42.561535
+                  ]
+            },
+            {
+                  "name": "Plazh \"Cheren pyasak\"",
+                  "text": "Ein Strand am Pomorie-See am Schwarzen Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        27.63312,
+                        42.602869
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Anhialo",
+                  "text": "Egy strand a Pomorie-tó közelében, a Fekete-tengeren.",
+                  "category": "recreational",
+                  "coords": [
+                        27.590953,
+                        42.564535
+                  ]
+            },
+            {
+                  "name": "Diyana",
+                  "text": "Egy strand a Pomorie-tó közelében, a Fekete-tengeren.",
+                  "category": "recreational",
+                  "coords": [
+                        27.595813,
+                        42.562578
+                  ]
+            },
+            {
+                  "name": "Severen plazh Pomorie",
+                  "text": "Strand a Pomorie-tónál, a Fekete-tenger mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        27.640121,
+                        42.566482
+                  ]
+            },
+            {
+                  "name": "Galera",
+                  "text": "Strand a Pomorie-tónál, a Fekete-tenger mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        27.596539,
+                        42.561535
+                  ]
+            },
+            {
+                  "name": "Plazh \"Cheren pyasak\"",
+                  "text": "Strand a Pomorie-tónál, a Fekete-tenger mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        27.63312,
+                        42.602869
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Anhialo",
+                  "text": "O plajă lângă Lacul Pomorie la Marea Neagră.",
+                  "category": "recreational",
+                  "coords": [
+                        27.590953,
+                        42.564535
+                  ]
+            },
+            {
+                  "name": "Diyana",
+                  "text": "O plajă lângă Lacul Pomorie la Marea Neagră.",
+                  "category": "recreational",
+                  "coords": [
+                        27.595813,
+                        42.562578
+                  ]
+            },
+            {
+                  "name": "Severen plazh Pomorie",
+                  "text": "O plajă lângă lacul Pomorie, la Marea Neagră.",
+                  "category": "recreational",
+                  "coords": [
+                        27.640121,
+                        42.566482
+                  ]
+            },
+            {
+                  "name": "Galera",
+                  "text": "O plajă lângă lacul Pomorie, la Marea Neagră.",
+                  "category": "recreational",
+                  "coords": [
+                        27.596539,
+                        42.561535
+                  ]
+            },
+            {
+                  "name": "Plazh \"Cheren pyasak\"",
+                  "text": "O plajă lângă lacul Pomorie, la Marea Neagră.",
+                  "category": "recreational",
+                  "coords": [
+                        27.63312,
+                        42.602869
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Anhialo",
+                  "text": "A beach near Pomorie Lake on the Black Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        27.590953,
+                        42.564535
+                  ]
+            },
+            {
+                  "name": "Diyana",
+                  "text": "A beach near Pomorie Lake on the Black Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        27.595813,
+                        42.562578
+                  ]
+            },
+            {
+                  "name": "Severen plazh Pomorie",
+                  "text": "A beach section at Pomorie Lake on the Black Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        27.640121,
+                        42.566482
+                  ]
+            },
+            {
+                  "name": "Galera",
+                  "text": "A beach at Pomorie Lake on the Black Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        27.596539,
+                        42.561535
+                  ]
+            },
+            {
+                  "name": "Plazh \"Cheren pyasak\"",
+                  "text": "A beach at Pomorie Lake on the Black Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        27.63312,
+                        42.602869
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "BG",
     name: { de: "Pomorie-See", hu: "Pomoriei-tó", ro: "Lacul Pomorie", en: "Pomorie Lake" },
@@ -588,7 +777,52 @@ export const bulgariaLifeV2: POI[] = [
     image: "/poi-images/bulgaria-pomorie-lake-life-v2.webp",
   },
   {
-    id: "bulgaria-kamchia-reserve-life-v2",
+    id: "bulgaria-kamchia-reserve-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kamchiya",
+                  "text": "Ein Strand im Naturschutzgebiet Kamchia am Schwarzen Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        27.889367,
+                        43.033718
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kamchiya",
+                  "text": "Strand a Kamchia Természetvédelmi Területen a Fekete-tengeren.",
+                  "category": "recreational",
+                  "coords": [
+                        27.889367,
+                        43.033718
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kamchiya",
+                  "text": "O plajă în Rezervația Kamchia la Marea Neagră.",
+                  "category": "recreational",
+                  "coords": [
+                        27.889367,
+                        43.033718
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kamchiya",
+                  "text": "A beach in the Kamchia Reserve on the Black Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        27.889367,
+                        43.033718
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "BG",
     name: { de: "Kamtschija-Reservat", hu: "Kamcsija-rezervátum", ro: "Rezervația Kamchia", en: "Kamchia Reserve" },
@@ -813,7 +1047,124 @@ export const bulgariaLifeV2: POI[] = [
     image: "/poi-images/bulgaria-yagodina-karst-life-v2.webp",
   },
   {
-    id: "bulgaria-zlatni-pyasatsi-park-life-v2",
+    id: "bulgaria-zlatni-pyasatsi-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "plazh Kabakum Sever",
+                  "text": "Ein Strand nahe dem Goldstrand am Schwarzen Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        28.032213,
+                        43.258537
+                  ]
+            },
+            {
+                  "name": "Riviera",
+                  "text": "Ein Strand im Park Slatni Pjasazi am Schwarzen Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        28.041081,
+                        43.273464
+                  ]
+            },
+            {
+                  "name": "Chayka Sever",
+                  "text": "Ein Strand im Park Slatni Pjasazi am Schwarzen Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        28.038794,
+                        43.269653
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "plazh Kabakum Sever",
+                  "text": "Egy strand az Aranyhomok közelében, a Fekete-tengeren.",
+                  "category": "recreational",
+                  "coords": [
+                        28.032213,
+                        43.258537
+                  ]
+            },
+            {
+                  "name": "Riviera",
+                  "text": "Strand a Zlatni Pyasatsi Parkban, a Fekete-tengeren.",
+                  "category": "recreational",
+                  "coords": [
+                        28.041081,
+                        43.273464
+                  ]
+            },
+            {
+                  "name": "Chayka Sever",
+                  "text": "Strand a Zlatni Pyasatsi Parkban, a Fekete-tengeren.",
+                  "category": "recreational",
+                  "coords": [
+                        28.038794,
+                        43.269653
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "plazh Kabakum Sever",
+                  "text": "O plajă lângă Nisipurile de Aur la Marea Neagră.",
+                  "category": "recreational",
+                  "coords": [
+                        28.032213,
+                        43.258537
+                  ]
+            },
+            {
+                  "name": "Riviera",
+                  "text": "O plajă în parcul Zlatni Pyasatsi, la Marea Neagră.",
+                  "category": "recreational",
+                  "coords": [
+                        28.041081,
+                        43.273464
+                  ]
+            },
+            {
+                  "name": "Chayka Sever",
+                  "text": "O plajă în parcul Zlatni Pyasatsi, la Marea Neagră.",
+                  "category": "recreational",
+                  "coords": [
+                        28.038794,
+                        43.269653
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "plazh Kabakum Sever",
+                  "text": "A beach near Golden Sands on the Black Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        28.032213,
+                        43.258537
+                  ]
+            },
+            {
+                  "name": "Riviera",
+                  "text": "A beach in Zlatni Pyasatsi Park on the Black Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        28.041081,
+                        43.273464
+                  ]
+            },
+            {
+                  "name": "Chayka Sever",
+                  "text": "A beach in Zlatni Pyasatsi Park on the Black Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        28.038794,
+                        43.269653
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "BG",
     name: { de: "Naturpark Goldstrand", hu: "Aranyhomok Natúrpark", ro: "Parcul Natural Nisipurile de Aur", en: "Golden Sands Nature Park" },

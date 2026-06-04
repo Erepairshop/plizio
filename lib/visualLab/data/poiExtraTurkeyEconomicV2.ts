@@ -75,7 +75,52 @@ export const poiExtraTurkeyEconomicV2: POI[] = [
     },
   },
   {
-    id: "mersin-international-port-economic-v2",
+    id: "mersin-international-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Karaduvar Sahili",
+                  "text": "Karaduvar Sahili ist ein Strandabschnitt in der Nähe von International Port.",
+                  "category": "recreational",
+                  "coords": [
+                        34.688846,
+                        36.807923
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Karaduvar Sahili",
+                  "text": "A Karaduvar Sahili egy strandterület az International Port közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        34.688846,
+                        36.807923
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Karaduvar Sahili",
+                  "text": "Karaduvar Sahili este o zonă de plajă situată în apropiere de International Port.",
+                  "category": "recreational",
+                  "coords": [
+                        34.688846,
+                        36.807923
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Karaduvar Sahili",
+                  "text": "Karaduvar Sahili is a beach area located near the International Port.",
+                  "category": "recreational",
+                  "coords": [
+                        34.688846,
+                        36.807923
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "TR-33",
     coords: [34.646, 36.795],

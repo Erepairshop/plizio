@@ -93,7 +93,88 @@ export const denmarkHistoryV2: POI[] = [
     image: "/poi-images/denmark-borreby-castle-history-v2.webp",
   },
   {
-    id: "denmark-svendborg-history-museum-v2",
+    id: "denmark-svendborg-history-museum-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vindebyøre strand",
+                  "text": "Vindebyøre Strand ist eine Küste nahe Svendborg.",
+                  "category": "recreational",
+                  "coords": [
+                        10.630638,
+                        55.055152
+                  ]
+            },
+            {
+                  "name": "Christiansminde Badestrand",
+                  "text": "Christiansminde Badestrand ist ein Strand bei Svendborg.",
+                  "category": "recreational",
+                  "coords": [
+                        10.638957,
+                        55.058099
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vindebyøre strand",
+                  "text": "A Vindebyøre Strand egy tengerparti terület Svendborg mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        10.630638,
+                        55.055152
+                  ]
+            },
+            {
+                  "name": "Christiansminde Badestrand",
+                  "text": "A Christiansminde Badestrand egy strand Svendborg mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        10.638957,
+                        55.058099
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vindebyøre strand",
+                  "text": "Vindebyøre Strand este o zonă de coastă lângă Svendborg.",
+                  "category": "recreational",
+                  "coords": [
+                        10.630638,
+                        55.055152
+                  ]
+            },
+            {
+                  "name": "Christiansminde Badestrand",
+                  "text": "Christiansminde Badestrand este o plajă lângă Svendborg.",
+                  "category": "recreational",
+                  "coords": [
+                        10.638957,
+                        55.058099
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vindebyøre strand",
+                  "text": "Vindebyøre Strand is a coastal area near Svendborg.",
+                  "category": "recreational",
+                  "coords": [
+                        10.630638,
+                        55.055152
+                  ]
+            },
+            {
+                  "name": "Christiansminde Badestrand",
+                  "text": "Christiansminde Badestrand is a beach near Svendborg.",
+                  "category": "recreational",
+                  "coords": [
+                        10.638957,
+                        55.058099
+                  ]
+            }
+      ]
+},
     type: "museum",
     parent: "DK",
     name: { de: "Geschichtsmuseum Svendborg", hu: "Svendborgi Történeti Múzeum", ro: "Muzeul de Istorie Svendborg", en: "Svendborg History Museum" },
@@ -138,7 +219,124 @@ export const denmarkHistoryV2: POI[] = [
     image: "/poi-images/denmark-svendborg-history-museum-v2.webp",
   },
   {
-    id: "denmark-spottrup-castle-history-v2",
+    id: "denmark-spottrup-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nymølle Strand",
+                  "text": "Ein Strand in der Nähe von Schloss Spottrup.",
+                  "category": "recreational",
+                  "coords": [
+                        8.789732,
+                        56.678092
+                  ]
+            },
+            {
+                  "name": "Vadum Strand",
+                  "text": "Ein Strand in der Nähe von Schloss Spottrup.",
+                  "category": "recreational",
+                  "coords": [
+                        8.758379,
+                        56.641488
+                  ]
+            },
+            {
+                  "name": "Ålbæk Strand",
+                  "text": "Strand in der Nähe der Burg Spøttrup.",
+                  "category": "recreational",
+                  "coords": [
+                        8.728049,
+                        56.625132
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nymølle Strand",
+                  "text": "Strand a Spottrup-kastély közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        8.789732,
+                        56.678092
+                  ]
+            },
+            {
+                  "name": "Vadum Strand",
+                  "text": "Strand a Spottrup-kastély közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        8.758379,
+                        56.641488
+                  ]
+            },
+            {
+                  "name": "Ålbæk Strand",
+                  "text": "Strand a Spøttrup vár közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        8.728049,
+                        56.625132
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nymølle Strand",
+                  "text": "O plajă lângă Castelul Spottrup.",
+                  "category": "recreational",
+                  "coords": [
+                        8.789732,
+                        56.678092
+                  ]
+            },
+            {
+                  "name": "Vadum Strand",
+                  "text": "O plajă lângă Castelul Spottrup.",
+                  "category": "recreational",
+                  "coords": [
+                        8.758379,
+                        56.641488
+                  ]
+            },
+            {
+                  "name": "Ålbæk Strand",
+                  "text": "Plajă în apropierea castelului Spøttrup.",
+                  "category": "recreational",
+                  "coords": [
+                        8.728049,
+                        56.625132
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nymølle Strand",
+                  "text": "A beach located near Spottrup Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        8.789732,
+                        56.678092
+                  ]
+            },
+            {
+                  "name": "Vadum Strand",
+                  "text": "A beach located near Spottrup Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        8.758379,
+                        56.641488
+                  ]
+            },
+            {
+                  "name": "Ålbæk Strand",
+                  "text": "Beach near Spøttrup Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        8.728049,
+                        56.625132
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "DK",
     name: { de: "Burg Spøttrup", hu: "Spøttrup vár", ro: "Castelul Spøttrup", en: "Spøttrup Castle" },
@@ -318,7 +516,304 @@ export const denmarkHistoryV2: POI[] = [
     image: "/poi-images/denmark-nysoe-manor-history-v2.webp",
   },
   {
-    id: "denmark-viking-ring-fortress-fyrkat-history-v2",
+    id: "denmark-viking-ring-fortress-fyrkat-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gribtørven",
+                  "text": "Gribtørven liegt in der Nähe der Wikingerburg Fyrkat.",
+                  "category": "recreational",
+                  "coords": [
+                        9.839805,
+                        56.647112
+                  ]
+            },
+            {
+                  "name": "Sandskredet",
+                  "text": "Strand in der Nähe der Wikingerburg Fyrkat.",
+                  "category": "recreational",
+                  "coords": [
+                        9.826229,
+                        56.646847
+                  ]
+            },
+            {
+                  "name": "Sildeborghage",
+                  "text": "Strand in der Nähe der Wikingerburg Fyrkat.",
+                  "category": "recreational",
+                  "coords": [
+                        9.814459,
+                        56.643771
+                  ]
+            },
+            {
+                  "name": "Skovsgårdland",
+                  "text": "Strand in der Nähe der Wikingerburg Fyrkat.",
+                  "category": "recreational",
+                  "coords": [
+                        9.850931,
+                        56.639461
+                  ]
+            },
+            {
+                  "name": "Lille Skovgård Hage",
+                  "text": "Strand in der Nähe der Wikingerburg Fyrkat.",
+                  "category": "recreational",
+                  "coords": [
+                        9.845503,
+                        56.646132
+                  ]
+            },
+            {
+                  "name": "Dalleren",
+                  "text": "Strand in der Nähe der Wikingerburg Fyrkat.",
+                  "category": "recreational",
+                  "coords": [
+                        9.820493,
+                        56.646003
+                  ]
+            },
+            {
+                  "name": "Fyrbøjen",
+                  "text": "Strand in der Nähe der Wikingerburg Fyrkat.",
+                  "category": "recreational",
+                  "coords": [
+                        9.830896,
+                        56.646425
+                  ]
+            },
+            {
+                  "name": "Annekjeld",
+                  "text": "Strand in der Nähe der Wikingerburg Fyrkat.",
+                  "category": "recreational",
+                  "coords": [
+                        9.8313,
+                        56.639522
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gribtørven",
+                  "text": "Gribtørven a Fyrkat viking erőd közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        9.839805,
+                        56.647112
+                  ]
+            },
+            {
+                  "name": "Sandskredet",
+                  "text": "Strand a Fyrkat viking erőd közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        9.826229,
+                        56.646847
+                  ]
+            },
+            {
+                  "name": "Sildeborghage",
+                  "text": "Strand a Fyrkat viking erőd közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        9.814459,
+                        56.643771
+                  ]
+            },
+            {
+                  "name": "Skovsgårdland",
+                  "text": "Strand a Fyrkat viking erőd közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        9.850931,
+                        56.639461
+                  ]
+            },
+            {
+                  "name": "Lille Skovgård Hage",
+                  "text": "Strand a Fyrkat viking erőd közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        9.845503,
+                        56.646132
+                  ]
+            },
+            {
+                  "name": "Dalleren",
+                  "text": "Strand a Fyrkat viking erőd közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        9.820493,
+                        56.646003
+                  ]
+            },
+            {
+                  "name": "Fyrbøjen",
+                  "text": "Strand a Fyrkat viking erőd közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        9.830896,
+                        56.646425
+                  ]
+            },
+            {
+                  "name": "Annekjeld",
+                  "text": "Strand a Fyrkat viking erőd közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        9.8313,
+                        56.639522
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gribtørven",
+                  "text": "Gribtørven este situată în apropierea cetății vikinge Fyrkat.",
+                  "category": "recreational",
+                  "coords": [
+                        9.839805,
+                        56.647112
+                  ]
+            },
+            {
+                  "name": "Sandskredet",
+                  "text": "Plajă în apropierea fortăreței vikinge Fyrkat.",
+                  "category": "recreational",
+                  "coords": [
+                        9.826229,
+                        56.646847
+                  ]
+            },
+            {
+                  "name": "Sildeborghage",
+                  "text": "Plajă în apropierea fortăreței vikinge Fyrkat.",
+                  "category": "recreational",
+                  "coords": [
+                        9.814459,
+                        56.643771
+                  ]
+            },
+            {
+                  "name": "Skovsgårdland",
+                  "text": "Plajă în apropierea fortăreței vikinge Fyrkat.",
+                  "category": "recreational",
+                  "coords": [
+                        9.850931,
+                        56.639461
+                  ]
+            },
+            {
+                  "name": "Lille Skovgård Hage",
+                  "text": "Plajă în apropierea fortăreței vikinge Fyrkat.",
+                  "category": "recreational",
+                  "coords": [
+                        9.845503,
+                        56.646132
+                  ]
+            },
+            {
+                  "name": "Dalleren",
+                  "text": "Plajă în apropierea fortăreței vikinge Fyrkat.",
+                  "category": "recreational",
+                  "coords": [
+                        9.820493,
+                        56.646003
+                  ]
+            },
+            {
+                  "name": "Fyrbøjen",
+                  "text": "Plajă în apropierea fortăreței vikinge Fyrkat.",
+                  "category": "recreational",
+                  "coords": [
+                        9.830896,
+                        56.646425
+                  ]
+            },
+            {
+                  "name": "Annekjeld",
+                  "text": "Plajă în apropierea fortăreței vikinge Fyrkat.",
+                  "category": "recreational",
+                  "coords": [
+                        9.8313,
+                        56.639522
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gribtørven",
+                  "text": "Gribtørven is located near the Viking ring fortress Fyrkat.",
+                  "category": "recreational",
+                  "coords": [
+                        9.839805,
+                        56.647112
+                  ]
+            },
+            {
+                  "name": "Sandskredet",
+                  "text": "Beach near the Viking Ring Fortress Fyrkat.",
+                  "category": "recreational",
+                  "coords": [
+                        9.826229,
+                        56.646847
+                  ]
+            },
+            {
+                  "name": "Sildeborghage",
+                  "text": "Beach near the Viking Ring Fortress Fyrkat.",
+                  "category": "recreational",
+                  "coords": [
+                        9.814459,
+                        56.643771
+                  ]
+            },
+            {
+                  "name": "Skovsgårdland",
+                  "text": "Beach near the Viking Ring Fortress Fyrkat.",
+                  "category": "recreational",
+                  "coords": [
+                        9.850931,
+                        56.639461
+                  ]
+            },
+            {
+                  "name": "Lille Skovgård Hage",
+                  "text": "Beach near the Viking Ring Fortress Fyrkat.",
+                  "category": "recreational",
+                  "coords": [
+                        9.845503,
+                        56.646132
+                  ]
+            },
+            {
+                  "name": "Dalleren",
+                  "text": "Beach near the Viking Ring Fortress Fyrkat.",
+                  "category": "recreational",
+                  "coords": [
+                        9.820493,
+                        56.646003
+                  ]
+            },
+            {
+                  "name": "Fyrbøjen",
+                  "text": "Beach near the Viking Ring Fortress Fyrkat.",
+                  "category": "recreational",
+                  "coords": [
+                        9.830896,
+                        56.646425
+                  ]
+            },
+            {
+                  "name": "Annekjeld",
+                  "text": "Beach near the Viking Ring Fortress Fyrkat.",
+                  "category": "recreational",
+                  "coords": [
+                        9.8313,
+                        56.639522
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "DK",
     name: { de: "Wikinger-Ringburg Fyrkat", hu: "Fyrkat viking körvár", ro: "Fortăreața inelară vikingă Fyrkat", en: "Viking Ring Fortress Fyrkat" },
@@ -903,7 +1398,52 @@ export const denmarkHistoryV2: POI[] = [
     image: "/poi-images/denmark-liselund-castle-history-v2.webp",
   },
   {
-    id: "denmark-esbjerg-water-tower-history-v2",
+    id: "denmark-esbjerg-water-tower-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dokken City Beach",
+                  "text": "Dokken City Beach befindet sich nahe dem Wasserturm in Esbjerg.",
+                  "category": "recreational",
+                  "coords": [
+                        8.443802,
+                        55.461689
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dokken City Beach",
+                  "text": "A Dokken City Beach az esbjergi víztorony közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        8.443802,
+                        55.461689
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dokken City Beach",
+                  "text": "Dokken City Beach este situată în apropierea turnului de apă din Esbjerg.",
+                  "category": "recreational",
+                  "coords": [
+                        8.443802,
+                        55.461689
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dokken City Beach",
+                  "text": "Dokken City Beach is located near the water tower in Esbjerg.",
+                  "category": "recreational",
+                  "coords": [
+                        8.443802,
+                        55.461689
+                  ]
+            }
+      ]
+},
     type: "tower",
     parent: "DK",
     name: { de: "Wasserturm Esbjerg", hu: "Esbjergi víztorony", ro: "Turnul de apă din Esbjerg", en: "Esbjerg Water Tower" },
@@ -1308,7 +1848,52 @@ export const denmarkHistoryV2: POI[] = [
     image: "/poi-images/denmark-skagen-old-lighthouse-history-v2.webp",
   },
   {
-    id: "denmark-trapholt-museum-history-v2",
+    id: "denmark-trapholt-museum-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rebæk Strand",
+                  "text": "Ein Strand in der Nähe des Trapholt Museums.",
+                  "category": "recreational",
+                  "coords": [
+                        9.526459,
+                        55.487164
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rebæk Strand",
+                  "text": "Strand a Trapholt Múzeum közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        9.526459,
+                        55.487164
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rebæk Strand",
+                  "text": "O plajă lângă Muzeul Trapholt.",
+                  "category": "recreational",
+                  "coords": [
+                        9.526459,
+                        55.487164
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rebæk Strand",
+                  "text": "A beach located near the Trapholt Museum.",
+                  "category": "recreational",
+                  "coords": [
+                        9.526459,
+                        55.487164
+                  ]
+            }
+      ]
+},
     type: "museum",
     parent: "DK",
     name: { de: "Museum Trapholt", hu: "Trapholt Múzeum", ro: "Muzeul Trapholt", en: "Trapholt Museum" },
@@ -1353,7 +1938,52 @@ export const denmarkHistoryV2: POI[] = [
     image: "/poi-images/denmark-trapholt-museum-history-v2.webp",
   },
   {
-    id: "denmark-faaborg-museum-history-v2",
+    id: "denmark-faaborg-museum-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Klinten Strand",
+                  "text": "Klinten Strand liegt in der Nähe von Faaborg.",
+                  "category": "recreational",
+                  "coords": [
+                        10.255384,
+                        55.087859
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Klinten Strand",
+                  "text": "A Klinten Strand Faaborg közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        10.255384,
+                        55.087859
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Klinten Strand",
+                  "text": "Klinten Strand este situată lângă Faaborg.",
+                  "category": "recreational",
+                  "coords": [
+                        10.255384,
+                        55.087859
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Klinten Strand",
+                  "text": "Klinten Strand is located near Faaborg.",
+                  "category": "recreational",
+                  "coords": [
+                        10.255384,
+                        55.087859
+                  ]
+            }
+      ]
+},
     type: "museum",
     parent: "DK",
     name: { de: "Museum Faaborg", hu: "Faaborgi Múzeum", ro: "Muzeul Faaborg", en: "Faaborg Museum" },

@@ -49,7 +49,124 @@ imageHint: "Stockholm Royal Palace facade at day",
     },
     image: "/poi-images/sweden-stockholm-palace-landmarks-v2.webp",
 },  {
-    id: "sweden-stockholm-city-hall-landmarks-v2",
+    id: "sweden-stockholm-city-hall-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Långholmens klippbad",
+                  "text": "Långholmens klippbad ist ein Felsenstrand bei Stockholm.",
+                  "category": "recreational",
+                  "coords": [
+                        18.034881,
+                        59.322886
+                  ]
+            },
+            {
+                  "name": "Tanto strandbad",
+                  "text": "Tanto strandbad ist ein Strand bei Stockholm.",
+                  "category": "recreational",
+                  "coords": [
+                        18.038447,
+                        59.311875
+                  ]
+            },
+            {
+                  "name": "Vintervikens badplats",
+                  "text": "Vintervikens Badplats befindet sich in Stockholm.",
+                  "category": "recreational",
+                  "coords": [
+                        17.987857,
+                        59.311304
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Långholmens klippbad",
+                  "text": "Långholmens klippbad egy sziklás fürdőhely Stockholmban.",
+                  "category": "recreational",
+                  "coords": [
+                        18.034881,
+                        59.322886
+                  ]
+            },
+            {
+                  "name": "Tanto strandbad",
+                  "text": "Tanto strandbad egy strand Stockholm közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.038447,
+                        59.311875
+                  ]
+            },
+            {
+                  "name": "Vintervikens badplats",
+                  "text": "Vintervikens Badplats Stockholmban található.",
+                  "category": "recreational",
+                  "coords": [
+                        17.987857,
+                        59.311304
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Långholmens klippbad",
+                  "text": "Långholmens klippbad este o plajă stâncoasă lângă Stockholm.",
+                  "category": "recreational",
+                  "coords": [
+                        18.034881,
+                        59.322886
+                  ]
+            },
+            {
+                  "name": "Tanto strandbad",
+                  "text": "Tanto strandbad este o plajă lângă Stockholm.",
+                  "category": "recreational",
+                  "coords": [
+                        18.038447,
+                        59.311875
+                  ]
+            },
+            {
+                  "name": "Vintervikens badplats",
+                  "text": "Vintervikens Badplats este situată în Stockholm.",
+                  "category": "recreational",
+                  "coords": [
+                        17.987857,
+                        59.311304
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Långholmens klippbad",
+                  "text": "Långholmens klippbad is a rocky beach near Stockholm.",
+                  "category": "recreational",
+                  "coords": [
+                        18.034881,
+                        59.322886
+                  ]
+            },
+            {
+                  "name": "Tanto strandbad",
+                  "text": "Tanto strandbad is a beach near Stockholm.",
+                  "category": "recreational",
+                  "coords": [
+                        18.038447,
+                        59.311875
+                  ]
+            },
+            {
+                  "name": "Vintervikens badplats",
+                  "text": "Vintervikens Badplats is located in Stockholm.",
+                  "category": "recreational",
+                  "coords": [
+                        17.987857,
+                        59.311304
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "landmark",
     name: { de: "Stockholmer Rathaus", hu: "Stockholmi városháza", ro: "Primăria din Stockholm", en: "Stockholm City Hall"},
@@ -141,7 +258,52 @@ imageHint: "Skansen open air museum traditional wooden houses",
     },
     image: "/poi-images/sweden-skansen-landmarks-v2.webp",
 },  {
-    id: "sweden-turning-torso-landmarks-v2",
+    id: "sweden-turning-torso-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ribersborgsstranden",
+                  "text": "Ribersborgsstranden ist ein Strand bei Malmö, berühmt für seine Nähe zum Turning Torso.",
+                  "category": "recreational",
+                  "coords": [
+                        12.960453,
+                        55.602398
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ribersborgsstranden",
+                  "text": "Ribersborgsstranden egy strand Malmőben, híres a Turning Torso közelségéről.",
+                  "category": "recreational",
+                  "coords": [
+                        12.960453,
+                        55.602398
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ribersborgsstranden",
+                  "text": "Ribersborgsstranden este o plajă în Malmö, faimoasă pentru proximitatea de Turning Torso.",
+                  "category": "recreational",
+                  "coords": [
+                        12.960453,
+                        55.602398
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ribersborgsstranden",
+                  "text": "Ribersborgsstranden is a beach in Malmö, famous for its proximity to Turning Torso.",
+                  "category": "recreational",
+                  "coords": [
+                        12.960453,
+                        55.602398
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "tower",
     name: { de: "Turning Torso", hu: "Turning Torso", ro: "Turning Torso", en: "Turning Torso"},
@@ -279,7 +441,52 @@ imageHint: "Avicii Arena globe building Stockholm",
     },
     image: "/poi-images/sweden-avicii-arena-landmarks-v2.webp",
 },  {
-    id: "sweden-gota-canal-landmarks-v2",
+    id: "sweden-gota-canal-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jerusalemsbadet",
+                  "text": "Jerusalemsbadet liegt am Göta-Kanal.",
+                  "category": "recreational",
+                  "coords": [
+                        15.013311,
+                        58.513772
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jerusalemsbadet",
+                  "text": "Jerusalemsbadet a Göta-csatorna mellett található.",
+                  "category": "recreational",
+                  "coords": [
+                        15.013311,
+                        58.513772
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jerusalemsbadet",
+                  "text": "Jerusalemsbadet este situată pe canalul Göta.",
+                  "category": "recreational",
+                  "coords": [
+                        15.013311,
+                        58.513772
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jerusalemsbadet",
+                  "text": "Jerusalemsbadet is located by the Göta Canal.",
+                  "category": "recreational",
+                  "coords": [
+                        15.013311,
+                        58.513772
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "landmark",
     name: { de: "Göta-Kanal", hu: "Göta-csatorna", ro: "Canalul Göta", en: "Göta Canal"},
@@ -1271,7 +1478,124 @@ imageHint: "Älvsborgsbron suspension bridge Gothenburg green towers",
       fr: ["Inauguration en 1882", "Architecte Helgo Zettervall", "Style néoclassique", "4 statues de sphinx sur le toit", "Siège du rectorat de l'université", "Aula avec 1000 places"],
     }, image: "/poi-images/sweden-lund-university-building-landmarks-v2.webp"},
   {
-    id: "sweden-sofiero-palace-landmarks-v2",
+    id: "sweden-sofiero-palace-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tinkarpsbadet",
+                  "text": "Tinkarpsbadet liegt in der Nähe von Schloss Sofiero.",
+                  "category": "recreational",
+                  "coords": [
+                        12.665672,
+                        56.074568
+                  ]
+            },
+            {
+                  "name": "Pålsjöbaden",
+                  "text": "Pålsjöbaden ist eine historische Badeanstalt bei Schloss Sofiero.",
+                  "category": "recreational",
+                  "coords": [
+                        12.676677,
+                        56.065099
+                  ]
+            },
+            {
+                  "name": "Vikingstrand",
+                  "text": "Vikingstrand befindet sich bei Schloss Sofiero.",
+                  "category": "recreational",
+                  "coords": [
+                        12.669387,
+                        56.071366
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tinkarpsbadet",
+                  "text": "Tinkarpsbadet a Sofiero-kastély közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        12.665672,
+                        56.074568
+                  ]
+            },
+            {
+                  "name": "Pålsjöbaden",
+                  "text": "Pålsjöbaden egy történelmi fürdőhely a Sofiero-kastély közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        12.676677,
+                        56.065099
+                  ]
+            },
+            {
+                  "name": "Vikingstrand",
+                  "text": "Vikingstrand a Sofiero-kastély közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        12.669387,
+                        56.071366
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tinkarpsbadet",
+                  "text": "Tinkarpsbadet este situată în apropierea Castelului Sofiero.",
+                  "category": "recreational",
+                  "coords": [
+                        12.665672,
+                        56.074568
+                  ]
+            },
+            {
+                  "name": "Pålsjöbaden",
+                  "text": "Pålsjöbaden este o baie istorică lângă Castelul Sofiero.",
+                  "category": "recreational",
+                  "coords": [
+                        12.676677,
+                        56.065099
+                  ]
+            },
+            {
+                  "name": "Vikingstrand",
+                  "text": "Vikingstrand este situată lângă Castelul Sofiero.",
+                  "category": "recreational",
+                  "coords": [
+                        12.669387,
+                        56.071366
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tinkarpsbadet",
+                  "text": "Tinkarpsbadet is located near Sofiero Palace.",
+                  "category": "recreational",
+                  "coords": [
+                        12.665672,
+                        56.074568
+                  ]
+            },
+            {
+                  "name": "Pålsjöbaden",
+                  "text": "Pålsjöbaden is a historic bathing facility near Sofiero Palace.",
+                  "category": "recreational",
+                  "coords": [
+                        12.676677,
+                        56.065099
+                  ]
+            },
+            {
+                  "name": "Vikingstrand",
+                  "text": "Vikingstrand is located near Sofiero Palace.",
+                  "category": "recreational",
+                  "coords": [
+                        12.669387,
+                        56.071366
+                  ]
+            }
+      ]
+},
     type: "palace",
     parent: "SE",
     name: { de: "Schloss Sofiero", hu: "Sofiero-kastély", ro: "Castelul Sofiero", en: "Sofiero Palace" },

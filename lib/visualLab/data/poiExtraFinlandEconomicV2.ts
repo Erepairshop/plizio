@@ -3,7 +3,52 @@ import { POI } from './poi';
 export const finlandEconomicV2: POI[] = [
 
   {
-    id: "finland-kirkkonummi-logistics-v2",
+    id: "finland-kirkkonummi-logistics-v2", "sights": {
+      "de": [
+            {
+                  "name": "Syväjärven uimaranta",
+                  "text": "Syväjärven uimaranta ist ein Strand in der Nähe von Kirkkonummi.",
+                  "category": "recreational",
+                  "coords": [
+                        24.423071,
+                        60.099899
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Syväjärven uimaranta",
+                  "text": "A Syväjärven uimaranta egy strand Kirkkonummi közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        24.423071,
+                        60.099899
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Syväjärven uimaranta",
+                  "text": "Syväjärven uimaranta este o plajă lângă Kirkkonummi.",
+                  "category": "recreational",
+                  "coords": [
+                        24.423071,
+                        60.099899
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Syväjärven uimaranta",
+                  "text": "Syväjärven uimaranta is a beach near Kirkkonummi.",
+                  "category": "recreational",
+                  "coords": [
+                        24.423071,
+                        60.099899
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "FI",
     name: { de: "Kirkkonummi Logistikzentrum", hu: "Kirkkonummi Logisztikai Központ", ro: "Centrul Logistic Kirkkonummi", en: "Kirkkonummi Logistics Center" },
@@ -183,7 +228,160 @@ export const finlandEconomicV2: POI[] = [
     image: "/poi-images/finland-sipoo-data-center-v2.webp",
   },
   {
-    id: "finland-seinajoki-food-hub-v2",
+    id: "finland-seinajoki-food-hub-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sahalammen uimaranta",
+                  "text": "Sahalammen uimaranta ist ein Strand in der Nähe von Seinäjoki.",
+                  "category": "recreational",
+                  "coords": [
+                        22.838362,
+                        62.776992
+                  ]
+            },
+            {
+                  "name": "Kyrkösjärven uimaranta",
+                  "text": "Kyrkösjärven uimaranta ist ein Strand in der Nähe von Seinäjoki.",
+                  "category": "recreational",
+                  "coords": [
+                        22.812871,
+                        62.768687
+                  ]
+            },
+            {
+                  "name": "Törnävän uimaranta",
+                  "text": "Strand nahe des Zentrums von Seinäjoki.",
+                  "category": "recreational",
+                  "coords": [
+                        22.83715,
+                        62.76086
+                  ]
+            },
+            {
+                  "name": "Bullerin Uimaranta",
+                  "text": "Ein Strand in der Nähe des Lebensmittelzentrums von Seinäjoki.",
+                  "category": "recreational",
+                  "coords": [
+                        22.811445,
+                        62.751761
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sahalammen uimaranta",
+                  "text": "A Sahalammen uimaranta egy strand Seinäjoki közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        22.838362,
+                        62.776992
+                  ]
+            },
+            {
+                  "name": "Kyrkösjärven uimaranta",
+                  "text": "A Kyrkösjärven uimaranta egy strand Seinäjoki közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        22.812871,
+                        62.768687
+                  ]
+            },
+            {
+                  "name": "Törnävän uimaranta",
+                  "text": "Strand Seinäjoki központjának közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        22.83715,
+                        62.76086
+                  ]
+            },
+            {
+                  "name": "Bullerin Uimaranta",
+                  "text": "Strand a Seinäjoki élelmiszerközpont közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        22.811445,
+                        62.751761
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sahalammen uimaranta",
+                  "text": "Sahalammen uimaranta este o plajă lângă Seinäjoki.",
+                  "category": "recreational",
+                  "coords": [
+                        22.838362,
+                        62.776992
+                  ]
+            },
+            {
+                  "name": "Kyrkösjärven uimaranta",
+                  "text": "Kyrkösjärven uimaranta este o plajă lângă Seinäjoki.",
+                  "category": "recreational",
+                  "coords": [
+                        22.812871,
+                        62.768687
+                  ]
+            },
+            {
+                  "name": "Törnävän uimaranta",
+                  "text": "Plajă aproape de centrul orașului Seinäjoki.",
+                  "category": "recreational",
+                  "coords": [
+                        22.83715,
+                        62.76086
+                  ]
+            },
+            {
+                  "name": "Bullerin Uimaranta",
+                  "text": "O plajă lângă centrul alimentar din Seinäjoki.",
+                  "category": "recreational",
+                  "coords": [
+                        22.811445,
+                        62.751761
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sahalammen uimaranta",
+                  "text": "Sahalammen uimaranta is a beach near Seinäjoki.",
+                  "category": "recreational",
+                  "coords": [
+                        22.838362,
+                        62.776992
+                  ]
+            },
+            {
+                  "name": "Kyrkösjärven uimaranta",
+                  "text": "Kyrkösjärven uimaranta is a beach near Seinäjoki.",
+                  "category": "recreational",
+                  "coords": [
+                        22.812871,
+                        62.768687
+                  ]
+            },
+            {
+                  "name": "Törnävän uimaranta",
+                  "text": "Beach near the center of Seinäjoki.",
+                  "category": "recreational",
+                  "coords": [
+                        22.83715,
+                        62.76086
+                  ]
+            },
+            {
+                  "name": "Bullerin Uimaranta",
+                  "text": "A beach near the food hub in Seinäjoki.",
+                  "category": "recreational",
+                  "coords": [
+                        22.811445,
+                        62.751761
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "FI",
     name: { de: "Seinäjoki Nahrungsmittelzentrum", hu: "Seinäjoki Élelmiszeripari Központ", ro: "Centrul Alimentar Seinäjoki", en: "Seinäjoki Food Processing Hub" },
@@ -273,7 +471,52 @@ export const finlandEconomicV2: POI[] = [
     image: "/poi-images/finland-pyhajoki-energy-zone-v2.webp",
   },
   {
-    id: "finland-harjavalta-metal-works-v2",
+    id: "finland-harjavalta-metal-works-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kultakoukku",
+                  "text": "Kultakoukku ist ein Strand in der Nähe von Harjavalta.",
+                  "category": "recreational",
+                  "coords": [
+                        22.156165,
+                        61.319405
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kultakoukku",
+                  "text": "A Kultakoukku egy strand Harjavalta közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        22.156165,
+                        61.319405
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kultakoukku",
+                  "text": "Kultakoukku este o plajă lângă Harjavalta.",
+                  "category": "recreational",
+                  "coords": [
+                        22.156165,
+                        61.319405
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kultakoukku",
+                  "text": "Kultakoukku is a beach near Harjavalta.",
+                  "category": "recreational",
+                  "coords": [
+                        22.156165,
+                        61.319405
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "FI",
     name: { de: "Harjavalta Metallhütte", hu: "Harjavalta Kohászati Művek", ro: "Uzinele Metalurgice Harjavalta", en: "Harjavalta Metal Works" },
@@ -363,7 +606,52 @@ export const finlandEconomicV2: POI[] = [
     image: "/poi-images/finland-kilpilahti-industrial-park-v2.webp",
   },
   {
-    id: "finland-oulu-tech-hub-v2",
+    id: "finland-oulu-tech-hub-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kiikelin uimaranta",
+                  "text": "Kiikelin Strand liegt nahe dem Oulu Tech Hub.",
+                  "category": "recreational",
+                  "coords": [
+                        25.458587,
+                        65.013491
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kiikelin uimaranta",
+                  "text": "Kiikelin strandja az Oulu Tech Hub közelében fekszik.",
+                  "category": "recreational",
+                  "coords": [
+                        25.458587,
+                        65.013491
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kiikelin uimaranta",
+                  "text": "Plaja Kiikelin este situată lângă Oulu Tech Hub.",
+                  "category": "recreational",
+                  "coords": [
+                        25.458587,
+                        65.013491
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kiikelin uimaranta",
+                  "text": "Kiikelin beach is located near Oulu Tech Hub.",
+                  "category": "recreational",
+                  "coords": [
+                        25.458587,
+                        65.013491
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "FI",
     name: { de: "Oulu Technologiezentrum", hu: "Oulu Technológiai Központ", ro: "Centrul Tehnologic Oulu", en: "Oulu Technology Hub" },
@@ -408,7 +696,124 @@ export const finlandEconomicV2: POI[] = [
     image: "/poi-images/finland-oulu-tech-hub-v2.webp",
   },
   {
-    id: "finland-rauma-shipyard-v2",
+    id: "finland-rauma-shipyard-v2", "sights": {
+      "de": [
+            {
+                  "name": "Otanlahti",
+                  "text": "Strand bei der Werft in Rauma.",
+                  "category": "recreational",
+                  "coords": [
+                        21.473418,
+                        61.136264
+                  ]
+            },
+            {
+                  "name": "Meriristin uimaranta",
+                  "text": "Meriristin uimaranta ist ein Strand nahe der Werft von Rauma.",
+                  "category": "recreational",
+                  "coords": [
+                        21.463551,
+                        61.149737
+                  ]
+            },
+            {
+                  "name": "Saharanta",
+                  "text": "Saharanta ist ein Strand nahe der Werft von Rauma.",
+                  "category": "recreational",
+                  "coords": [
+                        21.472123,
+                        61.142874
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Otanlahti",
+                  "text": "Strand a raumai hajógyár közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        21.473418,
+                        61.136264
+                  ]
+            },
+            {
+                  "name": "Meriristin uimaranta",
+                  "text": "Meriristin uimaranta egy strand a raumai hajógyár közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        21.463551,
+                        61.149737
+                  ]
+            },
+            {
+                  "name": "Saharanta",
+                  "text": "Saharanta egy strand a raumai hajógyár közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        21.472123,
+                        61.142874
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Otanlahti",
+                  "text": "Plajă în apropierea șantierului naval din Rauma.",
+                  "category": "recreational",
+                  "coords": [
+                        21.473418,
+                        61.136264
+                  ]
+            },
+            {
+                  "name": "Meriristin uimaranta",
+                  "text": "Meriristin uimaranta este o plajă situată lângă șantierul naval din Rauma.",
+                  "category": "recreational",
+                  "coords": [
+                        21.463551,
+                        61.149737
+                  ]
+            },
+            {
+                  "name": "Saharanta",
+                  "text": "Saharanta este o plajă situată lângă șantierul naval din Rauma.",
+                  "category": "recreational",
+                  "coords": [
+                        21.472123,
+                        61.142874
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Otanlahti",
+                  "text": "Beach near the Rauma shipyard.",
+                  "category": "recreational",
+                  "coords": [
+                        21.473418,
+                        61.136264
+                  ]
+            },
+            {
+                  "name": "Meriristin uimaranta",
+                  "text": "Meriristin uimaranta is a beach near the Rauma Shipyard.",
+                  "category": "recreational",
+                  "coords": [
+                        21.463551,
+                        61.149737
+                  ]
+            },
+            {
+                  "name": "Saharanta",
+                  "text": "Saharanta is a beach near the Rauma Shipyard.",
+                  "category": "recreational",
+                  "coords": [
+                        21.472123,
+                        61.142874
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "FI",
     name: { de: "Rauma Werft", hu: "Rauma Hajógyár", ro: "Șantierul Naval Rauma", en: "Rauma Shipyard" },
@@ -498,7 +903,52 @@ export const finlandEconomicV2: POI[] = [
     image: "/poi-images/finland-kokkola-chem-park-v2.webp",
   },
   {
-    id: "finland-jyvaskyla-tech-factory-v2",
+    id: "finland-jyvaskyla-tech-factory-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kaakkolammen uimaranta",
+                  "text": "Badestrand Kaakkolammen beim Technologiepark Jyväskylä.",
+                  "category": "recreational",
+                  "coords": [
+                        25.820199,
+                        62.269685
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kaakkolammen uimaranta",
+                  "text": "Kaakkolammen strand a Jyväskyläi technológiai gyár közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        25.820199,
+                        62.269685
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kaakkolammen uimaranta",
+                  "text": "Plaja Kaakkolammen lângă parcul tehnologic Jyväskylä.",
+                  "category": "recreational",
+                  "coords": [
+                        25.820199,
+                        62.269685
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kaakkolammen uimaranta",
+                  "text": "Kaakkolammen beach near Jyväskylä Tech Factory.",
+                  "category": "recreational",
+                  "coords": [
+                        25.820199,
+                        62.269685
+                  ]
+            }
+      ]
+},
     type: "factory",
     parent: "FI",
     name: { de: "Jyväskylä Industrietechnologie-Standort", hu: "Jyväskylä Ipartechnológiai Helyszín", ro: "Locație Jyväskylä de Tehnologie Industrială", en: "Jyväskylä Industrial Tech Site" },
@@ -588,7 +1038,196 @@ export const finlandEconomicV2: POI[] = [
     image: "/poi-images/finland-tampere-industrial-hub-v2.webp",
   },
   {
-    id: "finland-lahti-cleantech-park-v2",
+    id: "finland-lahti-cleantech-park-v2", "sights": {
+      "de": [
+            {
+                  "name": "Teivaan sataman koiraranta",
+                  "text": "Teivaan sataman koiraranta ist ein Hundestrand in der Nähe des Lahti Cleantech Parks.",
+                  "category": "recreational",
+                  "coords": [
+                        25.635812,
+                        60.990444
+                  ]
+            },
+            {
+                  "name": "Koiraranta",
+                  "text": "Koiraranta ist ein Bereich bei Lahti.",
+                  "category": "recreational",
+                  "coords": [
+                        25.609832,
+                        60.991485
+                  ]
+            },
+            {
+                  "name": "Ank­ku­rin Ran­ta­puis­ton ui­ma­ran­ta",
+                  "text": "Ankkurin Rantapuiston Strandbad liegt nahe dem Lahti Cleantech Park.",
+                  "category": "recreational",
+                  "coords": [
+                        25.647226,
+                        61.001082
+                  ]
+            },
+            {
+                  "name": "Mytäjäisten uimaranta",
+                  "text": "Mytäjäisten Strand liegt nahe dem Lahti Cleantech Park.",
+                  "category": "recreational",
+                  "coords": [
+                        25.63645,
+                        60.978517
+                  ]
+            },
+            {
+                  "name": "Kan­ko­lan vir­kis­tys­ran­ta",
+                  "text": "Erholungsstrand in Lahti.",
+                  "category": "recreational",
+                  "coords": [
+                        25.599044,
+                        61.001089
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teivaan sataman koiraranta",
+                  "text": "A Teivaan sataman koiraranta egy kutyás strand a Lahti Cleantech Park közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        25.635812,
+                        60.990444
+                  ]
+            },
+            {
+                  "name": "Koiraranta",
+                  "text": "Koiraranta egy terület Lahti közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        25.609832,
+                        60.991485
+                  ]
+            },
+            {
+                  "name": "Ank­ku­rin Ran­ta­puis­ton ui­ma­ran­ta",
+                  "text": "Az Ankkurin Rantapuiston strand a Lahti Cleantech Park közelében fekszik.",
+                  "category": "recreational",
+                  "coords": [
+                        25.647226,
+                        61.001082
+                  ]
+            },
+            {
+                  "name": "Mytäjäisten uimaranta",
+                  "text": "Mytäjäisten strandja a Lahti Cleantech Park közelében fekszik.",
+                  "category": "recreational",
+                  "coords": [
+                        25.63645,
+                        60.978517
+                  ]
+            },
+            {
+                  "name": "Kan­ko­lan vir­kis­tys­ran­ta",
+                  "text": "Pihenőstrand Lahtiban.",
+                  "category": "recreational",
+                  "coords": [
+                        25.599044,
+                        61.001089
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teivaan sataman koiraranta",
+                  "text": "Teivaan sataman koiraranta este o plajă pentru câini lângă Lahti Cleantech Park.",
+                  "category": "recreational",
+                  "coords": [
+                        25.635812,
+                        60.990444
+                  ]
+            },
+            {
+                  "name": "Koiraranta",
+                  "text": "Koiraranta este o zonă lângă Lahti.",
+                  "category": "recreational",
+                  "coords": [
+                        25.609832,
+                        60.991485
+                  ]
+            },
+            {
+                  "name": "Ank­ku­rin Ran­ta­puis­ton ui­ma­ran­ta",
+                  "text": "Plaja Ankkurin Rantapuisto este situată lângă Lahti Cleantech Park.",
+                  "category": "recreational",
+                  "coords": [
+                        25.647226,
+                        61.001082
+                  ]
+            },
+            {
+                  "name": "Mytäjäisten uimaranta",
+                  "text": "Plaja Mytäjäisten este situată lângă Lahti Cleantech Park.",
+                  "category": "recreational",
+                  "coords": [
+                        25.63645,
+                        60.978517
+                  ]
+            },
+            {
+                  "name": "Kan­ko­lan vir­kis­tys­ran­ta",
+                  "text": "Plajă de recreere în Lahti.",
+                  "category": "recreational",
+                  "coords": [
+                        25.599044,
+                        61.001089
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teivaan sataman koiraranta",
+                  "text": "Teivaan sataman koiraranta is a dog beach near the Lahti Cleantech Park.",
+                  "category": "recreational",
+                  "coords": [
+                        25.635812,
+                        60.990444
+                  ]
+            },
+            {
+                  "name": "Koiraranta",
+                  "text": "Koiraranta is an area near Lahti.",
+                  "category": "recreational",
+                  "coords": [
+                        25.609832,
+                        60.991485
+                  ]
+            },
+            {
+                  "name": "Ank­ku­rin Ran­ta­puis­ton ui­ma­ran­ta",
+                  "text": "Ankkurin Rantapuisto beach is located near Lahti Cleantech Park.",
+                  "category": "recreational",
+                  "coords": [
+                        25.647226,
+                        61.001082
+                  ]
+            },
+            {
+                  "name": "Mytäjäisten uimaranta",
+                  "text": "Mytäjäisten beach is located near Lahti Cleantech Park.",
+                  "category": "recreational",
+                  "coords": [
+                        25.63645,
+                        60.978517
+                  ]
+            },
+            {
+                  "name": "Kan­ko­lan vir­kis­tys­ran­ta",
+                  "text": "Recreational beach in Lahti.",
+                  "category": "recreational",
+                  "coords": [
+                        25.599044,
+                        61.001089
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "FI",
     name: { de: "Lahti Cleantech Park", hu: "Lahti Cleantech Park", ro: "Parcul Cleantech Lahti", en: "Lahti Cleantech Park" },
@@ -633,7 +1272,196 @@ export const finlandEconomicV2: POI[] = [
     image: "/poi-images/finland-lahti-cleantech-park-v2.webp",
   },
   {
-    id: "finland-joensuu-forestry-center-v2",
+    id: "finland-joensuu-forestry-center-v2", "sights": {
+      "de": [
+            {
+                  "name": "Linnunlahden uimaranta",
+                  "text": "Linnunlahden Strand befindet sich beim Joensuu Forstzentrum.",
+                  "category": "recreational",
+                  "coords": [
+                        29.738602,
+                        62.594715
+                  ]
+            },
+            {
+                  "name": "Aavarannan uimaranta",
+                  "text": "Aavarannan Strand liegt beim Joensuu Forstzentrum.",
+                  "category": "recreational",
+                  "coords": [
+                        29.696065,
+                        62.612359
+                  ]
+            },
+            {
+                  "name": "Ilosaaren uimaranta",
+                  "text": "Ilosaaren Strand befindet sich beim Joensuu Forstzentrum.",
+                  "category": "recreational",
+                  "coords": [
+                        29.770286,
+                        62.598907
+                  ]
+            },
+            {
+                  "name": "Vehkalahden uimaranta",
+                  "text": "Vehkalahden uimaranta ist ein Strand nahe dem Joensuu Forstzentrum.",
+                  "category": "recreational",
+                  "coords": [
+                        29.765411,
+                        62.579988
+                  ]
+            },
+            {
+                  "name": "Koivuniemen uimaranta",
+                  "text": "Strand Koivuniemi in Joensuu.",
+                  "category": "recreational",
+                  "coords": [
+                        29.780705,
+                        62.573619
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Linnunlahden uimaranta",
+                  "text": "Linnunlahden strandja a Joensuu Erdészeti Központnál található.",
+                  "category": "recreational",
+                  "coords": [
+                        29.738602,
+                        62.594715
+                  ]
+            },
+            {
+                  "name": "Aavarannan uimaranta",
+                  "text": "Aavarannan strandja a Joensuu Erdészeti Központnál fekszik.",
+                  "category": "recreational",
+                  "coords": [
+                        29.696065,
+                        62.612359
+                  ]
+            },
+            {
+                  "name": "Ilosaaren uimaranta",
+                  "text": "Ilosaaren strandja a Joensuu Erdészeti Központnál található.",
+                  "category": "recreational",
+                  "coords": [
+                        29.770286,
+                        62.598907
+                  ]
+            },
+            {
+                  "name": "Vehkalahden uimaranta",
+                  "text": "Vehkalahden uimaranta egy strand a Joensuu Erdészeti Központ közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        29.765411,
+                        62.579988
+                  ]
+            },
+            {
+                  "name": "Koivuniemen uimaranta",
+                  "text": "Koivuniemi strand Joensuuban.",
+                  "category": "recreational",
+                  "coords": [
+                        29.780705,
+                        62.573619
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Linnunlahden uimaranta",
+                  "text": "Plaja Linnunlahden este situată lângă Centrul Forestier din Joensuu.",
+                  "category": "recreational",
+                  "coords": [
+                        29.738602,
+                        62.594715
+                  ]
+            },
+            {
+                  "name": "Aavarannan uimaranta",
+                  "text": "Plaja Aavarannan este situată lângă Centrul Forestier din Joensuu.",
+                  "category": "recreational",
+                  "coords": [
+                        29.696065,
+                        62.612359
+                  ]
+            },
+            {
+                  "name": "Ilosaaren uimaranta",
+                  "text": "Plaja Ilosaaren este situată lângă Centrul Forestier din Joensuu.",
+                  "category": "recreational",
+                  "coords": [
+                        29.770286,
+                        62.598907
+                  ]
+            },
+            {
+                  "name": "Vehkalahden uimaranta",
+                  "text": "Vehkalahden uimaranta este o plajă lângă Centrul Forestier Joensuu.",
+                  "category": "recreational",
+                  "coords": [
+                        29.765411,
+                        62.579988
+                  ]
+            },
+            {
+                  "name": "Koivuniemen uimaranta",
+                  "text": "Plaja Koivuniemi din Joensuu.",
+                  "category": "recreational",
+                  "coords": [
+                        29.780705,
+                        62.573619
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Linnunlahden uimaranta",
+                  "text": "Linnunlahden beach is located at the Joensuu Forestry Center.",
+                  "category": "recreational",
+                  "coords": [
+                        29.738602,
+                        62.594715
+                  ]
+            },
+            {
+                  "name": "Aavarannan uimaranta",
+                  "text": "Aavarannan beach is located at the Joensuu Forestry Center.",
+                  "category": "recreational",
+                  "coords": [
+                        29.696065,
+                        62.612359
+                  ]
+            },
+            {
+                  "name": "Ilosaaren uimaranta",
+                  "text": "Ilosaaren beach is located at the Joensuu Forestry Center.",
+                  "category": "recreational",
+                  "coords": [
+                        29.770286,
+                        62.598907
+                  ]
+            },
+            {
+                  "name": "Vehkalahden uimaranta",
+                  "text": "Vehkalahden uimaranta is a beach near the Joensuu Forestry Center.",
+                  "category": "recreational",
+                  "coords": [
+                        29.765411,
+                        62.579988
+                  ]
+            },
+            {
+                  "name": "Koivuniemen uimaranta",
+                  "text": "Koivuniemi beach in Joensuu.",
+                  "category": "recreational",
+                  "coords": [
+                        29.780705,
+                        62.573619
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "FI",
     name: { de: "Joensuu Forstindustrie-Zentrum", hu: "Joensuu Erdőipari Központ", ro: "Centrul Industriei Forestiere Joensuu", en: "Joensuu Forestry Industry Hub" },
@@ -768,7 +1596,88 @@ export const finlandEconomicV2: POI[] = [
     image: "/poi-images/finland-turku-innovation-district-v2.webp",
   },
   {
-    id: "finland-vaasa-energy-cluster-v2",
+    id: "finland-vaasa-energy-cluster-v2", "sights": {
+      "de": [
+            {
+                  "name": "Isolahden uimaranta",
+                  "text": "Isolahden uimaranta liegt beim Energiezentrum Vaasa.",
+                  "category": "recreational",
+                  "coords": [
+                        21.601487,
+                        63.120202
+                  ]
+            },
+            {
+                  "name": "Viikingan uimaranta",
+                  "text": "Viikingan uimaranta ist ein Strand in der Nähe von Vaasa.",
+                  "category": "recreational",
+                  "coords": [
+                        21.595432,
+                        63.116256
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Isolahden uimaranta",
+                  "text": "Isolahden uimaranta a Vaasa Energia-központ közelében van.",
+                  "category": "recreational",
+                  "coords": [
+                        21.601487,
+                        63.120202
+                  ]
+            },
+            {
+                  "name": "Viikingan uimaranta",
+                  "text": "A Viikingan uimaranta egy strand Vaasa közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        21.595432,
+                        63.116256
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Isolahden uimaranta",
+                  "text": "Isolahden uimaranta se află lângă hub-ul energetic Vaasa.",
+                  "category": "recreational",
+                  "coords": [
+                        21.601487,
+                        63.120202
+                  ]
+            },
+            {
+                  "name": "Viikingan uimaranta",
+                  "text": "Viikingan uimaranta este o plajă lângă Vaasa.",
+                  "category": "recreational",
+                  "coords": [
+                        21.595432,
+                        63.116256
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Isolahden uimaranta",
+                  "text": "Isolahden uimaranta is near the Vaasa Energy Hub.",
+                  "category": "recreational",
+                  "coords": [
+                        21.601487,
+                        63.120202
+                  ]
+            },
+            {
+                  "name": "Viikingan uimaranta",
+                  "text": "Viikingan uimaranta is a beach near Vaasa.",
+                  "category": "recreational",
+                  "coords": [
+                        21.595432,
+                        63.116256
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "FI",
     name: { de: "Vaasa Energie-Cluster", hu: "Vaasa Energia Klaszter", ro: "Clusterul Energetic Vaasa", en: "Vaasa Energy Cluster" },
@@ -813,7 +1722,52 @@ export const finlandEconomicV2: POI[] = [
     image: "/poi-images/finland-vaasa-energy-cluster-v2.webp",
   },
   {
-    id: "finland-vantaa-logistics-hub-v2",
+    id: "finland-vantaa-logistics-hub-v2", "sights": {
+      "de": [
+            {
+                  "name": "Odilampi",
+                  "text": "Strand bei Odilampi, Vantaa.",
+                  "category": "recreational",
+                  "coords": [
+                        24.769047,
+                        60.303921
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Odilampi",
+                  "text": "Strand Odilampinál, Vantaa.",
+                  "category": "recreational",
+                  "coords": [
+                        24.769047,
+                        60.303921
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Odilampi",
+                  "text": "Plajă lângă Odilampi, Vantaa.",
+                  "category": "recreational",
+                  "coords": [
+                        24.769047,
+                        60.303921
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Odilampi",
+                  "text": "Beach near Odilampi, Vantaa.",
+                  "category": "recreational",
+                  "coords": [
+                        24.769047,
+                        60.303921
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "FI",
     name: { de: "Vantaa Logistikzentrum", hu: "Vantaa Logisztikai Központ", ro: "Centrul Logistic Vantaa", en: "Vantaa Logistics Hub" },

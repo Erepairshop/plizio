@@ -141,7 +141,412 @@ imageHint: "Ptuj old town with castle and Drava river",
     },
     image: "/poi-images/slovenia-ptuj-cities-v2.webp",
 },  {
-    id: "slovenia-kamnik-cities-v2",
+    id: "slovenia-kamnik-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Grad Zaprice",
+                  "text": "Historisches Schloss in Kamnik.",
+                  "category": "castle",
+                  "coords": [
+                        14.605664,
+                        46.223111
+                  ]
+            },
+            {
+                  "name": "Rojstna hiša Rudolfa Maistra",
+                  "text": "Museum über Rudolf Maister in Kamnik.",
+                  "category": "museum",
+                  "coords": [
+                        14.608535,
+                        46.223121
+                  ]
+            },
+            {
+                  "name": "Samostan Mekinje",
+                  "text": "Kloster in Kamnik.",
+                  "category": "religious",
+                  "coords": [
+                        14.615292,
+                        46.234812
+                  ]
+            },
+            {
+                  "name": "Dom kulture Kamnik",
+                  "text": "Theater in Kamnik.",
+                  "category": "cultural",
+                  "coords": [
+                        14.609378,
+                        46.230805
+                  ]
+            },
+            {
+                  "name": "Galerija Miha Maleš",
+                  "text": "Kunstmuseum in Kamnik.",
+                  "category": "museum",
+                  "coords": [
+                        14.611979,
+                        46.225474
+                  ]
+            },
+            {
+                  "name": "Arboretum Volčji Potok",
+                  "text": "Weitläufiger botanischer Garten bei Kamnik.",
+                  "category": "park",
+                  "coords": [
+                        14.6129,
+                        46.188043
+                  ]
+            },
+            {
+                  "name": "Budnarjeva muzejska hiša",
+                  "text": "Traditionelles Museumsgebäude in Kamnik.",
+                  "category": "landmark",
+                  "coords": [
+                        14.649508,
+                        46.21301
+                  ]
+            },
+            {
+                  "name": "Stari grad",
+                  "text": "Aussichtspunkt bei der Burgruine in Kamnik.",
+                  "category": "natural",
+                  "coords": [
+                        14.61686,
+                        46.22388
+                  ]
+            },
+            {
+                  "name": "Stari grad (Arboretum)",
+                  "text": "Der Stari grad in Kamnik ist ein beliebter Aussichtspunkt mit historischem Flair.",
+                  "category": "natural",
+                  "coords": [
+                        14.61302,
+                        46.189056
+                  ]
+            },
+            {
+                  "name": "Cerkev svete Ane",
+                  "text": "Die St.-Anna-Kirche in Tunjice ist ein schlichter, historischer Sakralbau.",
+                  "category": "religious",
+                  "coords": [
+                        14.577861,
+                        46.231438
+                  ]
+            },
+            {
+                  "name": "Sveti Ožbolt",
+                  "text": "St. Oswald in Kamnik ist eine historische Kirche, die dem heiligen Oswald gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        14.605723,
+                        46.190681
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Grad Zaprice",
+                  "text": "Történelmi kastély Kamnikban.",
+                  "category": "castle",
+                  "coords": [
+                        14.605664,
+                        46.223111
+                  ]
+            },
+            {
+                  "name": "Rojstna hiša Rudolfa Maistra",
+                  "text": "Rudolf Maister múzeum Kamnikban.",
+                  "category": "museum",
+                  "coords": [
+                        14.608535,
+                        46.223121
+                  ]
+            },
+            {
+                  "name": "Samostan Mekinje",
+                  "text": "Kolostor Kamnikban.",
+                  "category": "religious",
+                  "coords": [
+                        14.615292,
+                        46.234812
+                  ]
+            },
+            {
+                  "name": "Dom kulture Kamnik",
+                  "text": "Színház Kamnikban.",
+                  "category": "cultural",
+                  "coords": [
+                        14.609378,
+                        46.230805
+                  ]
+            },
+            {
+                  "name": "Galerija Miha Maleš",
+                  "text": "Művészeti múzeum Kamnikban.",
+                  "category": "museum",
+                  "coords": [
+                        14.611979,
+                        46.225474
+                  ]
+            },
+            {
+                  "name": "Arboretum Volčji Potok",
+                  "text": "Kiterjedt botanikus kert Kamniknál.",
+                  "category": "park",
+                  "coords": [
+                        14.6129,
+                        46.188043
+                  ]
+            },
+            {
+                  "name": "Budnarjeva muzejska hiša",
+                  "text": "Hagyományos múzeumi épület Kamnikban.",
+                  "category": "landmark",
+                  "coords": [
+                        14.649508,
+                        46.21301
+                  ]
+            },
+            {
+                  "name": "Stari grad",
+                  "text": "Kilátópont Kamnik romjainál.",
+                  "category": "natural",
+                  "coords": [
+                        14.61686,
+                        46.22388
+                  ]
+            },
+            {
+                  "name": "Stari grad (Arboretum)",
+                  "text": "A kamniki Stari grad egy népszerű kilátóhely történelmi hangulattal.",
+                  "category": "natural",
+                  "coords": [
+                        14.61302,
+                        46.189056
+                  ]
+            },
+            {
+                  "name": "Cerkev svete Ane",
+                  "text": "A tunjicei Szent Anna-templom egy egyszerű, történelmi szakrális épület.",
+                  "category": "religious",
+                  "coords": [
+                        14.577861,
+                        46.231438
+                  ]
+            },
+            {
+                  "name": "Sveti Ožbolt",
+                  "text": "A kamniki Szent Ožbolt egy történelmi templom, amelyet Szent Oszwaldnak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        14.605723,
+                        46.190681
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Grad Zaprice",
+                  "text": "Castel istoric în Kamnik.",
+                  "category": "castle",
+                  "coords": [
+                        14.605664,
+                        46.223111
+                  ]
+            },
+            {
+                  "name": "Rojstna hiša Rudolfa Maistra",
+                  "text": "Muzeu dedicat lui Rudolf Maister în Kamnik.",
+                  "category": "museum",
+                  "coords": [
+                        14.608535,
+                        46.223121
+                  ]
+            },
+            {
+                  "name": "Samostan Mekinje",
+                  "text": "Mănăstire în Kamnik.",
+                  "category": "religious",
+                  "coords": [
+                        14.615292,
+                        46.234812
+                  ]
+            },
+            {
+                  "name": "Dom kulture Kamnik",
+                  "text": "Teatru în Kamnik.",
+                  "category": "cultural",
+                  "coords": [
+                        14.609378,
+                        46.230805
+                  ]
+            },
+            {
+                  "name": "Galerija Miha Maleš",
+                  "text": "Muzeu de artă în Kamnik.",
+                  "category": "museum",
+                  "coords": [
+                        14.611979,
+                        46.225474
+                  ]
+            },
+            {
+                  "name": "Arboretum Volčji Potok",
+                  "text": "Grădină botanică întinsă lângă Kamnik.",
+                  "category": "park",
+                  "coords": [
+                        14.6129,
+                        46.188043
+                  ]
+            },
+            {
+                  "name": "Budnarjeva muzejska hiša",
+                  "text": "Clădire muzeală tradițională în Kamnik.",
+                  "category": "landmark",
+                  "coords": [
+                        14.649508,
+                        46.21301
+                  ]
+            },
+            {
+                  "name": "Stari grad",
+                  "text": "Punct de belvedere la ruinele castelului din Kamnik.",
+                  "category": "natural",
+                  "coords": [
+                        14.61686,
+                        46.22388
+                  ]
+            },
+            {
+                  "name": "Stari grad (Arboretum)",
+                  "text": "Stari grad din Kamnik este un punct de belvedere popular cu o atmosferă istorică.",
+                  "category": "natural",
+                  "coords": [
+                        14.61302,
+                        46.189056
+                  ]
+            },
+            {
+                  "name": "Cerkev svete Ane",
+                  "text": "Biserica Sfânta Ana din Tunjice este o clădire sacră simplă și istorică.",
+                  "category": "religious",
+                  "coords": [
+                        14.577861,
+                        46.231438
+                  ]
+            },
+            {
+                  "name": "Sveti Ožbolt",
+                  "text": "Sfântul Ožbolt din Kamnik este o biserică istorică dedicată Sfântului Oswald.",
+                  "category": "religious",
+                  "coords": [
+                        14.605723,
+                        46.190681
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Grad Zaprice",
+                  "text": "Historic castle in Kamnik.",
+                  "category": "castle",
+                  "coords": [
+                        14.605664,
+                        46.223111
+                  ]
+            },
+            {
+                  "name": "Rojstna hiša Rudolfa Maistra",
+                  "text": "Museum dedicated to Rudolf Maister in Kamnik.",
+                  "category": "museum",
+                  "coords": [
+                        14.608535,
+                        46.223121
+                  ]
+            },
+            {
+                  "name": "Samostan Mekinje",
+                  "text": "Monastery in Kamnik.",
+                  "category": "religious",
+                  "coords": [
+                        14.615292,
+                        46.234812
+                  ]
+            },
+            {
+                  "name": "Dom kulture Kamnik",
+                  "text": "Theatre in Kamnik.",
+                  "category": "cultural",
+                  "coords": [
+                        14.609378,
+                        46.230805
+                  ]
+            },
+            {
+                  "name": "Galerija Miha Maleš",
+                  "text": "Art museum in Kamnik.",
+                  "category": "museum",
+                  "coords": [
+                        14.611979,
+                        46.225474
+                  ]
+            },
+            {
+                  "name": "Arboretum Volčji Potok",
+                  "text": "Extensive botanical garden near Kamnik.",
+                  "category": "park",
+                  "coords": [
+                        14.6129,
+                        46.188043
+                  ]
+            },
+            {
+                  "name": "Budnarjeva muzejska hiša",
+                  "text": "Traditional museum building in Kamnik.",
+                  "category": "landmark",
+                  "coords": [
+                        14.649508,
+                        46.21301
+                  ]
+            },
+            {
+                  "name": "Stari grad",
+                  "text": "Viewpoint at the castle ruins in Kamnik.",
+                  "category": "natural",
+                  "coords": [
+                        14.61686,
+                        46.22388
+                  ]
+            },
+            {
+                  "name": "Stari grad (Arboretum)",
+                  "text": "The Stari grad in Kamnik is a popular viewpoint with historical charm.",
+                  "category": "natural",
+                  "coords": [
+                        14.61302,
+                        46.189056
+                  ]
+            },
+            {
+                  "name": "Cerkev svete Ane",
+                  "text": "The Church of St. Anne in Tunjice is a simple, historical sacred building.",
+                  "category": "religious",
+                  "coords": [
+                        14.577861,
+                        46.231438
+                  ]
+            },
+            {
+                  "name": "Sveti Ožbolt",
+                  "text": "St. Oswald's in Kamnik is a historical church dedicated to Saint Oswald.",
+                  "category": "religious",
+                  "coords": [
+                        14.605723,
+                        46.190681
+                  ]
+            }
+      ]
+},
     parent: "SI",
     type: "town",
     name: { de: "Kamnik", hu: "Kamnik", ro: "Kamnik", en: "Kamnik"},
@@ -417,7 +822,880 @@ imageHint: "Domzale town center and sports park",
     },
     image: "/poi-images/slovenia-domzale-cities-v2.webp",
 },  {
-    id: "slovenia-izola-cities-v2",
+    id: "slovenia-izola-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rimska vila in pristanišče Haliaetum Izola",
+                  "text": "Haliaetum ist eine archäologische Stätte in Izola, die die Überreste einer antiken römischen Villa und eines Hafens zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        13.646995,
+                        45.533197
+                  ]
+            },
+            {
+                  "name": "Krajinski park Strunjan",
+                  "text": "Der Krajinski Park Strunjan ist ein geschütztes Naturschutzgebiet im Küstengebiet von Izola.",
+                  "category": "natural",
+                  "coords": [
+                        13.615461,
+                        45.534123
+                  ]
+            },
+            {
+                  "name": "Izola",
+                  "text": "Der Leuchtturm von Izola dient als navigatorisches Wahrzeichen in der Küstenstadt Izola.",
+                  "category": "landmark",
+                  "coords": [
+                        13.656042,
+                        45.541589
+                  ]
+            },
+            {
+                  "name": "Arheološko najdišče Viližan",
+                  "text": "Arheološko najdišče Viližan ist eine lokale archäologische Ausgrabungsstätte in Izola.",
+                  "category": "historical",
+                  "coords": [
+                        13.675901,
+                        45.542701
+                  ]
+            },
+            {
+                  "name": "Muzej na prostem Mala barka Biser",
+                  "text": "Das Muzej na prostem Mala barka Biser ist ein maritimes Freilichtmuseum in Izola.",
+                  "category": "museum",
+                  "coords": [
+                        13.648179,
+                        45.532477
+                  ]
+            },
+            {
+                  "name": "Plaža na Svetilniku",
+                  "text": "Plaža na Svetilniku ist ein beliebtes Strandbad am Leuchtturm von Izola.",
+                  "category": "recreational",
+                  "coords": [
+                        13.657299,
+                        45.541536
+                  ]
+            },
+            {
+                  "name": "Plaža doma \"Dva topola\" za slepe in slabovidne",
+                  "text": "Dieser spezielle Strand in Izola ist für sehbehinderte Besucher konzipiert.",
+                  "category": "recreational",
+                  "coords": [
+                        13.659159,
+                        45.541994
+                  ]
+            },
+            {
+                  "name": "kulturni dom Izola",
+                  "text": "Das Kulturni dom Izola ist ein lokales Kulturzentrum und Theater in der Stadt Izola.",
+                  "category": "cultural",
+                  "coords": [
+                        13.661996,
+                        45.535399
+                  ]
+            },
+            {
+                  "name": "Tobogan Simonov zaliv",
+                  "text": "Tobogan Simonov zaliv ist eine Freizeit-Wasserparkanlage in der Simonbucht von Izola.",
+                  "category": "recreational",
+                  "coords": [
+                        13.645736,
+                        45.532358
+                  ]
+            },
+            {
+                  "name": "Muzej Parenzana",
+                  "text": "Muzej Parenzana ist ein Museum in der Stadt Izola.",
+                  "category": "museum",
+                  "coords": [
+                        13.659497,
+                        45.538315
+                  ]
+            },
+            {
+                  "name": "plaža Delfin",
+                  "text": "Plaža Delfin ist ein Strand in der Küstenstadt Izola.",
+                  "category": "recreational",
+                  "coords": [
+                        13.649226,
+                        45.533945
+                  ]
+            },
+            {
+                  "name": "Roman pier of Halietum port - submerged",
+                  "text": "Der versunkene römische Pier des Hafens Halietum ist eine archäologische Stätte in Izola.",
+                  "category": "historical",
+                  "coords": [
+                        13.645621,
+                        45.533475
+                  ]
+            },
+            {
+                  "name": "Zaliv Svetega Križa / Baia di Santa Croce",
+                  "text": "Zaliv Svetega Križa, auch bekannt als Baia di Santa Croce, ist eine Bucht in Izola.",
+                  "category": "landmark",
+                  "coords": [
+                        13.610415,
+                        45.538476
+                  ]
+            },
+            {
+                  "name": "Markovec / S. Marco",
+                  "text": "Markovec (S. Marco) ist ein Gipfel in der Region von Izola.",
+                  "category": "natural",
+                  "coords": [
+                        13.701216,
+                        45.537301
+                  ]
+            },
+            {
+                  "name": "Simonov zaliv / Baia di San Simone",
+                  "text": "Simonov zaliv ist eine Bucht in Izola, bekannt für ihren beliebten Strand und die Überreste einer römischen Villa.",
+                  "category": "landmark",
+                  "coords": [
+                        13.643638,
+                        45.533286
+                  ]
+            },
+            {
+                  "name": "Zaliv Viližan",
+                  "text": "Zaliv Viližan ist eine lokale Bucht in Izola.",
+                  "category": "landmark",
+                  "coords": [
+                        13.669616,
+                        45.542201
+                  ]
+            },
+            {
+                  "name": "Razgledna točka s klopco",
+                  "text": "Dieser Ort in Izola dient als malerischer Aussichtspunkt mit einer Bank.",
+                  "category": "natural",
+                  "coords": [
+                        13.61588,
+                        45.539614
+                  ]
+            },
+            {
+                  "name": "Strunjanska dolina",
+                  "text": "Strunjanska dolina bietet einen malerischen Aussichtspunkt in Izola.",
+                  "category": "natural",
+                  "coords": [
+                        13.637104,
+                        45.525094
+                  ]
+            },
+            {
+                  "name": "Atelje, galerija Rex",
+                  "text": "Atelje, galerija Rex ist eine Kunstgalerie in Izola.",
+                  "category": "museum",
+                  "coords": [
+                        13.657606,
+                        45.538074
+                  ]
+            },
+            {
+                  "name": "Ex Tovarna Argo",
+                  "text": "Ex Tovarna Argo umfasst die Ruinen einer ehemaligen Fabrik in Izola.",
+                  "category": "historical",
+                  "coords": [
+                        13.655447,
+                        45.533467
+                  ]
+            },
+            {
+                  "name": "Cerkev Sv. Janeza Evangelista",
+                  "text": "Die Cerkev Sv. Janeza Evangelista ist eine religiöse Kultstätte in Izola.",
+                  "category": "religious",
+                  "coords": [
+                        13.658062,
+                        45.53963
+                  ]
+            },
+            {
+                  "name": "Cerkev Sv. Dominika",
+                  "text": "Die Cerkev Sv. Dominika ist eine historische Kultstätte in Izola.",
+                  "category": "religious",
+                  "coords": [
+                        13.660281,
+                        45.537216
+                  ]
+            },
+            {
+                  "name": "Parna lokomotiva BBÖ P3",
+                  "text": "Die Parna lokomotiva BBÖ P3 ist eine historische Dampflokomotive, die in Izola erhalten ist.",
+                  "category": "landmark",
+                  "coords": [
+                        13.668919,
+                        45.538164
+                  ]
+            },
+            {
+                  "name": "Nardi - technical heritage",
+                  "text": "Nardi - technical heritage ist die Ausstellung eines historischen Fahrzeugs in Izola.",
+                  "category": "landmark",
+                  "coords": [
+                        13.684071,
+                        45.5427
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rimska vila in pristanišče Haliaetum Izola",
+                  "text": "A Haliaetum egy régészeti lelőhely Izolában, amely egy ókori római villa és kikötő maradványait mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        13.646995,
+                        45.533197
+                  ]
+            },
+            {
+                  "name": "Krajinski park Strunjan",
+                  "text": "A Krajinski park Strunjan egy védett természetvédelmi terület Izola partvidékén.",
+                  "category": "natural",
+                  "coords": [
+                        13.615461,
+                        45.534123
+                  ]
+            },
+            {
+                  "name": "Izola",
+                  "text": "Az izolai világítótorony navigációs tájékozódási pontként szolgál a tengerparti Izola városában.",
+                  "category": "landmark",
+                  "coords": [
+                        13.656042,
+                        45.541589
+                  ]
+            },
+            {
+                  "name": "Arheološko najdišče Viližan",
+                  "text": "Az Arheološko najdišče Viližan egy helyi régészeti lelőhely Izolában.",
+                  "category": "historical",
+                  "coords": [
+                        13.675901,
+                        45.542701
+                  ]
+            },
+            {
+                  "name": "Muzej na prostem Mala barka Biser",
+                  "text": "A Muzej na prostem Mala barka Biser egy szabadtéri tengerészeti múzeum Izolában.",
+                  "category": "museum",
+                  "coords": [
+                        13.648179,
+                        45.532477
+                  ]
+            },
+            {
+                  "name": "Plaža na Svetilniku",
+                  "text": "A Plaža na Svetilniku egy népszerű strand Izola világítótornya mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        13.657299,
+                        45.541536
+                  ]
+            },
+            {
+                  "name": "Plaža doma \"Dva topola\" za slepe in slabovidne",
+                  "text": "Ezt a speciális izolai strandot látássérült látogatók számára alakították ki.",
+                  "category": "recreational",
+                  "coords": [
+                        13.659159,
+                        45.541994
+                  ]
+            },
+            {
+                  "name": "kulturni dom Izola",
+                  "text": "A Kulturni dom Izola egy helyi kulturális központ és színház Izola városában.",
+                  "category": "cultural",
+                  "coords": [
+                        13.661996,
+                        45.535399
+                  ]
+            },
+            {
+                  "name": "Tobogan Simonov zaliv",
+                  "text": "A Tobogan Simonov zaliv egy vízipark jellegű szórakozási lehetőség Izola Simon-öböl nevű részén.",
+                  "category": "recreational",
+                  "coords": [
+                        13.645736,
+                        45.532358
+                  ]
+            },
+            {
+                  "name": "Muzej Parenzana",
+                  "text": "A Muzej Parenzana egy múzeum Izola városában.",
+                  "category": "museum",
+                  "coords": [
+                        13.659497,
+                        45.538315
+                  ]
+            },
+            {
+                  "name": "plaža Delfin",
+                  "text": "A plaža Delfin egy strand Izolában.",
+                  "category": "recreational",
+                  "coords": [
+                        13.649226,
+                        45.533945
+                  ]
+            },
+            {
+                  "name": "Roman pier of Halietum port - submerged",
+                  "text": "A Halietum kikötő víz alatti római mólója egy régészeti lelőhely Izolában.",
+                  "category": "historical",
+                  "coords": [
+                        13.645621,
+                        45.533475
+                  ]
+            },
+            {
+                  "name": "Zaliv Svetega Križa / Baia di Santa Croce",
+                  "text": "A Zaliv Svetega Križa, vagy Baia di Santa Croce, egy öböl Izolában.",
+                  "category": "landmark",
+                  "coords": [
+                        13.610415,
+                        45.538476
+                  ]
+            },
+            {
+                  "name": "Markovec / S. Marco",
+                  "text": "A Markovec (S. Marco) egy hegycsúcs Izola térségében.",
+                  "category": "natural",
+                  "coords": [
+                        13.701216,
+                        45.537301
+                  ]
+            },
+            {
+                  "name": "Simonov zaliv / Baia di San Simone",
+                  "text": "A Simonov zaliv egy öböl Izolában, amely népszerű strandjáról és egy ókori római villa romjairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        13.643638,
+                        45.533286
+                  ]
+            },
+            {
+                  "name": "Zaliv Viližan",
+                  "text": "A Zaliv Viližan egy öböl Izola partjainál.",
+                  "category": "landmark",
+                  "coords": [
+                        13.669616,
+                        45.542201
+                  ]
+            },
+            {
+                  "name": "Razgledna točka s klopco",
+                  "text": "Ez a helyszín egy pados kilátó Izola városában.",
+                  "category": "natural",
+                  "coords": [
+                        13.61588,
+                        45.539614
+                  ]
+            },
+            {
+                  "name": "Strunjanska dolina",
+                  "text": "A Strunjanska dolina egy festői kilátóhely Izola területén.",
+                  "category": "natural",
+                  "coords": [
+                        13.637104,
+                        45.525094
+                  ]
+            },
+            {
+                  "name": "Atelje, galerija Rex",
+                  "text": "Az Atelje, galerija Rex egy művészeti galéria Izolában.",
+                  "category": "museum",
+                  "coords": [
+                        13.657606,
+                        45.538074
+                  ]
+            },
+            {
+                  "name": "Ex Tovarna Argo",
+                  "text": "Az Ex Tovarna Argo egy egykori gyár romjait őrzi Izolában.",
+                  "category": "historical",
+                  "coords": [
+                        13.655447,
+                        45.533467
+                  ]
+            },
+            {
+                  "name": "Cerkev Sv. Janeza Evangelista",
+                  "text": "A Cerkev Sv. Janeza Evangelista egy vallási épület Izola városában.",
+                  "category": "religious",
+                  "coords": [
+                        13.658062,
+                        45.53963
+                  ]
+            },
+            {
+                  "name": "Cerkev Sv. Dominika",
+                  "text": "A Cerkev Sv. Dominika egy történelmi vallási épület Izola városában.",
+                  "category": "religious",
+                  "coords": [
+                        13.660281,
+                        45.537216
+                  ]
+            },
+            {
+                  "name": "Parna lokomotiva BBÖ P3",
+                  "text": "A Parna lokomotiva BBÖ P3 egy történelmi gőzmozdony, amely Izola városában található.",
+                  "category": "landmark",
+                  "coords": [
+                        13.668919,
+                        45.538164
+                  ]
+            },
+            {
+                  "name": "Nardi - technical heritage",
+                  "text": "A Nardi - technical heritage egy történelmi járművet bemutató látványosság Izola városában.",
+                  "category": "landmark",
+                  "coords": [
+                        13.684071,
+                        45.5427
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rimska vila in pristanišče Haliaetum Izola",
+                  "text": "Haliaetum este un sit arheologic din Izola care prezintă rămășițele unei vechi vile și ale unui port roman.",
+                  "category": "historical",
+                  "coords": [
+                        13.646995,
+                        45.533197
+                  ]
+            },
+            {
+                  "name": "Krajinski park Strunjan",
+                  "text": "Parcul peisagistic Strunjan este o rezervație naturală protejată situată în zona de coastă a Izolei.",
+                  "category": "natural",
+                  "coords": [
+                        13.615461,
+                        45.534123
+                  ]
+            },
+            {
+                  "name": "Izola",
+                  "text": "Farul din Izola servește drept punct de reper pentru navigație în orașul de coastă Izola.",
+                  "category": "landmark",
+                  "coords": [
+                        13.656042,
+                        45.541589
+                  ]
+            },
+            {
+                  "name": "Arheološko najdišče Viližan",
+                  "text": "Arheološko najdišče Viližan este un sit arheologic local situat în Izola.",
+                  "category": "historical",
+                  "coords": [
+                        13.675901,
+                        45.542701
+                  ]
+            },
+            {
+                  "name": "Muzej na prostem Mala barka Biser",
+                  "text": "Muzej na prostem Mala barka Biser este un muzeu maritim în aer liber situat în Izola.",
+                  "category": "museum",
+                  "coords": [
+                        13.648179,
+                        45.532477
+                  ]
+            },
+            {
+                  "name": "Plaža na Svetilniku",
+                  "text": "Plaža na Svetilniku este o plajă populară situată lângă farul din Izola.",
+                  "category": "recreational",
+                  "coords": [
+                        13.657299,
+                        45.541536
+                  ]
+            },
+            {
+                  "name": "Plaža doma \"Dva topola\" za slepe in slabovidne",
+                  "text": "Această plajă specializată din Izola este concepută pentru a găzdui vizitatorii cu deficiențe de vedere.",
+                  "category": "recreational",
+                  "coords": [
+                        13.659159,
+                        45.541994
+                  ]
+            },
+            {
+                  "name": "kulturni dom Izola",
+                  "text": "Kulturni dom Izola este un centru cultural și un teatru local din orașul Izola.",
+                  "category": "cultural",
+                  "coords": [
+                        13.661996,
+                        45.535399
+                  ]
+            },
+            {
+                  "name": "Tobogan Simonov zaliv",
+                  "text": "Tobogan Simonov zaliv este o facilitate de agrement dintr-un parc acvatic situat în zona Golfului Simon din Izola.",
+                  "category": "recreational",
+                  "coords": [
+                        13.645736,
+                        45.532358
+                  ]
+            },
+            {
+                  "name": "Muzej Parenzana",
+                  "text": "Muzej Parenzana este un muzeu situat în orașul Izola.",
+                  "category": "museum",
+                  "coords": [
+                        13.659497,
+                        45.538315
+                  ]
+            },
+            {
+                  "name": "plaža Delfin",
+                  "text": "Plaža Delfin este o plajă situată în Izola.",
+                  "category": "recreational",
+                  "coords": [
+                        13.649226,
+                        45.533945
+                  ]
+            },
+            {
+                  "name": "Roman pier of Halietum port - submerged",
+                  "text": "Digul roman scufundat al portului Halietum este un sit arheologic din Izola.",
+                  "category": "historical",
+                  "coords": [
+                        13.645621,
+                        45.533475
+                  ]
+            },
+            {
+                  "name": "Zaliv Svetega Križa / Baia di Santa Croce",
+                  "text": "Zaliv Svetega Križa, cunoscută și sub numele de Baia di Santa Croce, este un golf din Izola.",
+                  "category": "landmark",
+                  "coords": [
+                        13.610415,
+                        45.538476
+                  ]
+            },
+            {
+                  "name": "Markovec / S. Marco",
+                  "text": "Markovec (S. Marco) este un vârf din zona Izola.",
+                  "category": "natural",
+                  "coords": [
+                        13.701216,
+                        45.537301
+                  ]
+            },
+            {
+                  "name": "Simonov zaliv / Baia di San Simone",
+                  "text": "Simonov zaliv este un golf din Izola, remarcabil pentru plaja sa și vestigiile unei vile romane antice.",
+                  "category": "landmark",
+                  "coords": [
+                        13.643638,
+                        45.533286
+                  ]
+            },
+            {
+                  "name": "Zaliv Viližan",
+                  "text": "Zaliv Viližan este un golf situat în Izola.",
+                  "category": "landmark",
+                  "coords": [
+                        13.669616,
+                        45.542201
+                  ]
+            },
+            {
+                  "name": "Razgledna točka s klopco",
+                  "text": "Acest loc din Izola servește ca un punct de belvedere dotat cu o bancă.",
+                  "category": "natural",
+                  "coords": [
+                        13.61588,
+                        45.539614
+                  ]
+            },
+            {
+                  "name": "Strunjanska dolina",
+                  "text": "Strunjanska dolina oferă un punct de belvedere panoramic în Izola.",
+                  "category": "natural",
+                  "coords": [
+                        13.637104,
+                        45.525094
+                  ]
+            },
+            {
+                  "name": "Atelje, galerija Rex",
+                  "text": "Atelje, galerija Rex este o galerie de artă situată în Izola.",
+                  "category": "museum",
+                  "coords": [
+                        13.657606,
+                        45.538074
+                  ]
+            },
+            {
+                  "name": "Ex Tovarna Argo",
+                  "text": "Ex Tovarna Argo reprezintă ruinele unei foste fabrici din Izola.",
+                  "category": "historical",
+                  "coords": [
+                        13.655447,
+                        45.533467
+                  ]
+            },
+            {
+                  "name": "Cerkev Sv. Janeza Evangelista",
+                  "text": "Cerkev Sv. Janeza Evangelista este un lăcaș de cult situat în Izola.",
+                  "category": "religious",
+                  "coords": [
+                        13.658062,
+                        45.53963
+                  ]
+            },
+            {
+                  "name": "Cerkev Sv. Dominika",
+                  "text": "Cerkev Sv. Dominika este un lăcaș de cult istoric din Izola.",
+                  "category": "religious",
+                  "coords": [
+                        13.660281,
+                        45.537216
+                  ]
+            },
+            {
+                  "name": "Parna lokomotiva BBÖ P3",
+                  "text": "Parna lokomotiva BBÖ P3 este o locomotivă cu abur istorică expusă în Izola.",
+                  "category": "landmark",
+                  "coords": [
+                        13.668919,
+                        45.538164
+                  ]
+            },
+            {
+                  "name": "Nardi - technical heritage",
+                  "text": "Nardi - technical heritage prezintă un vehicul istoric conservat în Izola.",
+                  "category": "landmark",
+                  "coords": [
+                        13.684071,
+                        45.5427
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Roman villa and port Haliaetum Isola",
+                  "text": "Haliaetum is an archaeological site in Izola featuring the remains of an ancient Roman villa and port.",
+                  "category": "historical",
+                  "coords": [
+                        13.646995,
+                        45.533197
+                  ]
+            },
+            {
+                  "name": "Krajinski park Strunjan",
+                  "text": "Krajinski park Strunjan is a protected nature reserve located in the coastal area of Izola.",
+                  "category": "natural",
+                  "coords": [
+                        13.615461,
+                        45.534123
+                  ]
+            },
+            {
+                  "name": "Izola",
+                  "text": "The Izola lighthouse serves as a navigational landmark in the coastal town of Izola.",
+                  "category": "landmark",
+                  "coords": [
+                        13.656042,
+                        45.541589
+                  ]
+            },
+            {
+                  "name": "Arheološko najdišče Viližan",
+                  "text": "Arheološko najdišče Viližan is a local archaeological site situated in Izola.",
+                  "category": "historical",
+                  "coords": [
+                        13.675901,
+                        45.542701
+                  ]
+            },
+            {
+                  "name": "Muzej na prostem Mala barka Biser",
+                  "text": "Muzej na prostem Mala barka Biser is an open-air maritime museum located in Izola.",
+                  "category": "museum",
+                  "coords": [
+                        13.648179,
+                        45.532477
+                  ]
+            },
+            {
+                  "name": "Plaža na Svetilniku",
+                  "text": "Plaža na Svetilniku is a popular beach destination located by the lighthouse in Izola.",
+                  "category": "recreational",
+                  "coords": [
+                        13.657299,
+                        45.541536
+                  ]
+            },
+            {
+                  "name": "Beach for visually impaireds",
+                  "text": "This specialized beach in Izola is designed to accommodate visually impaired visitors.",
+                  "category": "recreational",
+                  "coords": [
+                        13.659159,
+                        45.541994
+                  ]
+            },
+            {
+                  "name": "kulturni dom Izola",
+                  "text": "The Kulturni dom Izola is a local cultural center and theatre in the city of Izola.",
+                  "category": "cultural",
+                  "coords": [
+                        13.661996,
+                        45.535399
+                  ]
+            },
+            {
+                  "name": "Tobogan Simonov zaliv",
+                  "text": "Tobogan Simonov zaliv is a recreational water park feature located in the Simon's Bay area of Izola.",
+                  "category": "recreational",
+                  "coords": [
+                        13.645736,
+                        45.532358
+                  ]
+            },
+            {
+                  "name": "Muzej Parenzana",
+                  "text": "Muzej Parenzana is a museum located in the city of Izola.",
+                  "category": "museum",
+                  "coords": [
+                        13.659497,
+                        45.538315
+                  ]
+            },
+            {
+                  "name": "plaža Delfin",
+                  "text": "Plaža Delfin is a beach located in the coastal city of Izola.",
+                  "category": "recreational",
+                  "coords": [
+                        13.649226,
+                        45.533945
+                  ]
+            },
+            {
+                  "name": "Roman pier of Halietum port- submerged",
+                  "text": "The submerged Roman pier of Halietum port is an archaeological site in Izola.",
+                  "category": "historical",
+                  "coords": [
+                        13.645621,
+                        45.533475
+                  ]
+            },
+            {
+                  "name": "Zaliv Svetega Križa / Baia di Santa Croce",
+                  "text": "Zaliv Svetega Križa, also known as Baia di Santa Croce, is a bay situated in Izola.",
+                  "category": "landmark",
+                  "coords": [
+                        13.610415,
+                        45.538476
+                  ]
+            },
+            {
+                  "name": "Markovec / S. Marco",
+                  "text": "Markovec (S. Marco) is a peak located in the area of Izola.",
+                  "category": "natural",
+                  "coords": [
+                        13.701216,
+                        45.537301
+                  ]
+            },
+            {
+                  "name": "Simonov zaliv / Baia di San Simone",
+                  "text": "Simonov zaliv is a bay in Izola, known for its popular beach and the archaeological remains of a Roman maritime villa.",
+                  "category": "landmark",
+                  "coords": [
+                        13.643638,
+                        45.533286
+                  ]
+            },
+            {
+                  "name": "Zaliv Viližan",
+                  "text": "Zaliv Viližan is a local bay situated in Izola.",
+                  "category": "landmark",
+                  "coords": [
+                        13.669616,
+                        45.542201
+                  ]
+            },
+            {
+                  "name": "Viewpoint with bench",
+                  "text": "This location in Izola serves as a scenic viewpoint equipped with a bench.",
+                  "category": "natural",
+                  "coords": [
+                        13.61588,
+                        45.539614
+                  ]
+            },
+            {
+                  "name": "Strunjanska dolina",
+                  "text": "Strunjanska dolina offers a scenic viewpoint in the Izola area.",
+                  "category": "natural",
+                  "coords": [
+                        13.637104,
+                        45.525094
+                  ]
+            },
+            {
+                  "name": "Atelje, galerija Rex",
+                  "text": "Atelje, galerija Rex is an art gallery located in Izola.",
+                  "category": "museum",
+                  "coords": [
+                        13.657606,
+                        45.538074
+                  ]
+            },
+            {
+                  "name": "Ex Tovarna Argo",
+                  "text": "Ex Tovarna Argo features the ruins of a former factory in Izola.",
+                  "category": "historical",
+                  "coords": [
+                        13.655447,
+                        45.533467
+                  ]
+            },
+            {
+                  "name": "Cerkev Sv. Janeza Evangelista",
+                  "text": "The Cerkev Sv. Janeza Evangelista is a place of worship located in Izola.",
+                  "category": "religious",
+                  "coords": [
+                        13.658062,
+                        45.53963
+                  ]
+            },
+            {
+                  "name": "Cerkev Sv. Dominika",
+                  "text": "Cerkev Sv. Dominika is a historic place of worship situated in Izola.",
+                  "category": "religious",
+                  "coords": [
+                        13.660281,
+                        45.537216
+                  ]
+            },
+            {
+                  "name": "Parna lokomotiva BBÖ P3",
+                  "text": "The Parna lokomotiva BBÖ P3 is a historical steam locomotive preserved in Izola.",
+                  "category": "landmark",
+                  "coords": [
+                        13.668919,
+                        45.538164
+                  ]
+            },
+            {
+                  "name": "Nardi - technical heritage",
+                  "text": "Nardi - technical heritage is an exhibition of a historical vehicle in Izola.",
+                  "category": "landmark",
+                  "coords": [
+                        13.684071,
+                        45.5427
+                  ]
+            }
+      ]
+},
     parent: "SI",
     type: "town",
     name: { de: "Izola", hu: "Izola", ro: "Izola", en: "Izola"},
@@ -463,7 +1741,52 @@ imageHint: "Izola coastal town view with marina",
     },
     image: "/poi-images/slovenia-izola-cities-v2.webp",
 },  {
-    id: "slovenia-kocevje-cities-v2",
+    id: "slovenia-kocevje-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Glavna plaža Jezero",
+                  "text": "Hauptstrand am See in Kočevje.",
+                  "category": "recreational",
+                  "coords": [
+                        14.874735,
+                        45.64691
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Glavna plaža Jezero",
+                  "text": "Fő strand a Kočevje-tónál.",
+                  "category": "recreational",
+                  "coords": [
+                        14.874735,
+                        45.64691
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Glavna plaža Jezero",
+                  "text": "Plaja principală la lacul din Kočevje.",
+                  "category": "recreational",
+                  "coords": [
+                        14.874735,
+                        45.64691
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Glavna plaža Jezero",
+                  "text": "Main beach at the lake in Kočevje.",
+                  "category": "recreational",
+                  "coords": [
+                        14.874735,
+                        45.64691
+                  ]
+            }
+      ]
+},
     parent: "SI",
     type: "town",
     name: { de: "Kočevje", hu: "Kočevje", ro: "Kočevje", en: "Kočevje"},
@@ -739,7 +2062,340 @@ imageHint: "Krško city view with Sava river and power plant",
     },
     image: "/poi-images/slovenia-krsko-cities-v2.webp",
 },  {
-    id: "slovenia-brezice-cities-v2",
+    id: "slovenia-brezice-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Posavski muzej Brežice",
+                  "text": "Posavski muzej Brežice ist ein lokales Museum in Brezice.",
+                  "category": "museum",
+                  "coords": [
+                        15.592585,
+                        45.901866
+                  ]
+            },
+            {
+                  "name": "Termalna Riviera",
+                  "text": "Termalna Riviera ist ein Wasserpark mit Freizeitangeboten in Brezice.",
+                  "category": "recreational",
+                  "coords": [
+                        15.627507,
+                        45.891445
+                  ]
+            },
+            {
+                  "name": "Terme Čatež",
+                  "text": "Terme Čatež ist ein beliebter Wasserpark und Thermalkomplex in Brezice.",
+                  "category": "recreational",
+                  "coords": [
+                        15.625784,
+                        45.890396
+                  ]
+            },
+            {
+                  "name": "WW2 grave site",
+                  "text": "Die Grabstätte aus dem Zweiten Weltkrieg ist eine archäologische und historische Stätte in Brezice.",
+                  "category": "historical",
+                  "coords": [
+                        15.636347,
+                        45.892229
+                  ]
+            },
+            {
+                  "name": "Straža Mansion",
+                  "text": "Das Herrenhaus Straža ist ein historisches Anwesen in Brezice.",
+                  "category": "historical",
+                  "coords": [
+                        15.607103,
+                        45.87865
+                  ]
+            },
+            {
+                  "name": "Vodovodni stolp Brežice",
+                  "text": "Vodovodni stolp Brežice ist eine bemerkenswerte Sehenswürdigkeit in Brezice.",
+                  "category": "landmark",
+                  "coords": [
+                        15.593663,
+                        45.903885
+                  ]
+            },
+            {
+                  "name": "Sava Rapids",
+                  "text": "Sava Rapids ist ein natürlicher Aussichtspunkt in Brezice.",
+                  "category": "natural",
+                  "coords": [
+                        15.61774,
+                        45.896706
+                  ]
+            },
+            {
+                  "name": "Obelisk zmage 1991",
+                  "text": "Der Obelisk zmage 1991 ist ein Denkmal in Brezice.",
+                  "category": "historical",
+                  "coords": [
+                        15.59153,
+                        45.908085
+                  ]
+            },
+            {
+                  "name": "Kapela Božjega groba",
+                  "text": "Die Kapela Božjega groba ist eine religiöse Stätte in der Stadt Brezice.",
+                  "category": "religious",
+                  "coords": [
+                        15.586498,
+                        45.919782
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Posavski muzej Brežice",
+                  "text": "A Posavski muzej Brežice egy helyi múzeum Brezice városában.",
+                  "category": "museum",
+                  "coords": [
+                        15.592585,
+                        45.901866
+                  ]
+            },
+            {
+                  "name": "Termalna Riviera",
+                  "text": "A Termalna Riviera egy rekreációs lehetőségeket kínáló vízi park Brezice városában.",
+                  "category": "recreational",
+                  "coords": [
+                        15.627507,
+                        45.891445
+                  ]
+            },
+            {
+                  "name": "Terme Čatež",
+                  "text": "A Terme Čatež egy népszerű vízi park és termálfürdő Brezice területén.",
+                  "category": "recreational",
+                  "coords": [
+                        15.625784,
+                        45.890396
+                  ]
+            },
+            {
+                  "name": "WW2 grave site",
+                  "text": "A második világháborús sírhely egy régészeti és történelmi helyszín Brezice városában.",
+                  "category": "historical",
+                  "coords": [
+                        15.636347,
+                        45.892229
+                  ]
+            },
+            {
+                  "name": "Straža Mansion",
+                  "text": "A Straža Mansion egy történelmi udvarház Brezice városában.",
+                  "category": "historical",
+                  "coords": [
+                        15.607103,
+                        45.87865
+                  ]
+            },
+            {
+                  "name": "Vodovodni stolp Brežice",
+                  "text": "A Vodovodni stolp Brežice egy nevezetes látványosság Brezice területén.",
+                  "category": "landmark",
+                  "coords": [
+                        15.593663,
+                        45.903885
+                  ]
+            },
+            {
+                  "name": "Sava Rapids",
+                  "text": "A Sava Rapids egy természetes kilátópont Brezice városában.",
+                  "category": "natural",
+                  "coords": [
+                        15.61774,
+                        45.896706
+                  ]
+            },
+            {
+                  "name": "Obelisk zmage 1991",
+                  "text": "Az Obelisk zmage 1991 egy műemlék Brezice városában.",
+                  "category": "historical",
+                  "coords": [
+                        15.59153,
+                        45.908085
+                  ]
+            },
+            {
+                  "name": "Kapela Božjega groba",
+                  "text": "A Kapela Božjega groba egy vallási imahely Brezice városában.",
+                  "category": "religious",
+                  "coords": [
+                        15.586498,
+                        45.919782
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Posavski muzej Brežice",
+                  "text": "Posavski muzej Brežice este un muzeu local situat în Brezice.",
+                  "category": "museum",
+                  "coords": [
+                        15.592585,
+                        45.901866
+                  ]
+            },
+            {
+                  "name": "Termalna Riviera",
+                  "text": "Termalna Riviera este un parc acvatic ce oferă activități recreative în Brezice.",
+                  "category": "recreational",
+                  "coords": [
+                        15.627507,
+                        45.891445
+                  ]
+            },
+            {
+                  "name": "Terme Čatež",
+                  "text": "Terme Čatež este un popular parc acvatic și complex termal din Brezice.",
+                  "category": "recreational",
+                  "coords": [
+                        15.625784,
+                        45.890396
+                  ]
+            },
+            {
+                  "name": "WW2 grave site",
+                  "text": "Mormântul din Al Doilea Război Mondial este un sit arheologic și istoric din Brezice.",
+                  "category": "historical",
+                  "coords": [
+                        15.636347,
+                        45.892229
+                  ]
+            },
+            {
+                  "name": "Straža Mansion",
+                  "text": "Conacul Straža este un conac istoric situat în Brezice.",
+                  "category": "historical",
+                  "coords": [
+                        15.607103,
+                        45.87865
+                  ]
+            },
+            {
+                  "name": "Vodovodni stolp Brežice",
+                  "text": "Vodovodni stolp Brežice este o atracție notabilă din Brezice.",
+                  "category": "landmark",
+                  "coords": [
+                        15.593663,
+                        45.903885
+                  ]
+            },
+            {
+                  "name": "Sava Rapids",
+                  "text": "Sava Rapids este un punct de belvedere natural în Brezice.",
+                  "category": "natural",
+                  "coords": [
+                        15.61774,
+                        45.896706
+                  ]
+            },
+            {
+                  "name": "Obelisk zmage 1991",
+                  "text": "Obelisk zmage 1991 este un monument din Brezice.",
+                  "category": "historical",
+                  "coords": [
+                        15.59153,
+                        45.908085
+                  ]
+            },
+            {
+                  "name": "Kapela Božjega groba",
+                  "text": "Kapela Božjega groba este un lăcaș de cult situat în orașul Brezice.",
+                  "category": "religious",
+                  "coords": [
+                        15.586498,
+                        45.919782
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Posavski muzej Brežice",
+                  "text": "Posavski muzej Brežice is a local museum located in Brezice.",
+                  "category": "museum",
+                  "coords": [
+                        15.592585,
+                        45.901866
+                  ]
+            },
+            {
+                  "name": "Termalna Riviera",
+                  "text": "Termalna Riviera is a water park offering recreational activities in Brezice.",
+                  "category": "recreational",
+                  "coords": [
+                        15.627507,
+                        45.891445
+                  ]
+            },
+            {
+                  "name": "Terme Čatež",
+                  "text": "Terme Čatež is a popular water park and thermal spa complex situated in Brezice.",
+                  "category": "recreational",
+                  "coords": [
+                        15.625784,
+                        45.890396
+                  ]
+            },
+            {
+                  "name": "WW2 grave site",
+                  "text": "The WW2 grave site is an archaeological and historical site in Brezice.",
+                  "category": "historical",
+                  "coords": [
+                        15.636347,
+                        45.892229
+                  ]
+            },
+            {
+                  "name": "Straža Mansion",
+                  "text": "Straža Mansion is a historic manor located in Brezice.",
+                  "category": "historical",
+                  "coords": [
+                        15.607103,
+                        45.87865
+                  ]
+            },
+            {
+                  "name": "Vodovodni stolp Brežice",
+                  "text": "Vodovodni stolp Brežice is a notable attraction situated in Brezice.",
+                  "category": "landmark",
+                  "coords": [
+                        15.593663,
+                        45.903885
+                  ]
+            },
+            {
+                  "name": "Sava Rapids",
+                  "text": "Sava Rapids is a natural viewpoint in Brezice.",
+                  "category": "natural",
+                  "coords": [
+                        15.61774,
+                        45.896706
+                  ]
+            },
+            {
+                  "name": "Obelisk zmage 1991",
+                  "text": "Obelisk zmage 1991 is a monument in Brezice.",
+                  "category": "historical",
+                  "coords": [
+                        15.59153,
+                        45.908085
+                  ]
+            },
+            {
+                  "name": "Kapela Božjega groba",
+                  "text": "Kapela Božjega groba is a place of worship located in the city of Brezice.",
+                  "category": "religious",
+                  "coords": [
+                        15.586498,
+                        45.919782
+                  ]
+            }
+      ]
+},
     parent: "SI",
     type: "town",
     name: { de: "Brežice", hu: "Brežice", ro: "Brežice", en: "Brežice"},
@@ -877,7 +2533,808 @@ imageHint: "Ajdovscina Roman walls and city center",
     },
     image: "/poi-images/slovenia-ajdovscina-cities-v2.webp",
 },  {
-    id: "slovenia-sezana-cities-v2",
+    id: "slovenia-sezana-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Živi muzej Krasa",
+                  "text": "Der Lebendige Karst-Museum in Sežana bietet Einblicke in die geologischen Besonderheiten der Region.",
+                  "category": "museum",
+                  "coords": [
+                        13.869856,
+                        45.698764
+                  ]
+            },
+            {
+                  "name": "Pastirska hiška",
+                  "text": "Die Schäferhütte in Sežana zeigt traditionelle Architekturformen der Karstregion.",
+                  "category": "museum",
+                  "coords": [
+                        13.853582,
+                        45.677909
+                  ]
+            },
+            {
+                  "name": "Regionales Naturschutzgebiet Monte Orsario",
+                  "text": "Das Naturschutzgebiet Monte Orsario bei Sežana ist bekannt für seine vielfältige Flora und Fauna.",
+                  "category": "natural",
+                  "coords": [
+                        13.821271,
+                        45.711483
+                  ]
+            },
+            {
+                  "name": "Riparo di Monrupino",
+                  "text": "Der Riparo di Monrupino ist eine bedeutende archäologische Fundstelle nahe Sežana.",
+                  "category": "historical",
+                  "coords": [
+                        13.814172,
+                        45.704718
+                  ]
+            },
+            {
+                  "name": "Pastirsko zavetje",
+                  "text": "Dieses Pastirsko zavetje in Sežana ist ein historischer Schutzraum für Hirten.",
+                  "category": "museum",
+                  "coords": [
+                        13.865649,
+                        45.695873
+                  ]
+            },
+            {
+                  "name": "Prazgodovinske lovske megastrukture - stranska past",
+                  "text": "Die prähistorischen Jagdstrukturen bei Sežana sind archäologisch von hohem Interesse.",
+                  "category": "historical",
+                  "coords": [
+                        13.892317,
+                        45.68603
+                  ]
+            },
+            {
+                  "name": "Prazgodovinske lovske megastrukture - osrednja past",
+                  "text": "Archäologische Stätte in Sezana.",
+                  "category": "historical",
+                  "coords": [
+                        13.895702,
+                        45.678501
+                  ]
+            },
+            {
+                  "name": "Kosovelov dom",
+                  "text": "Theater in Sezana.",
+                  "category": "cultural",
+                  "coords": [
+                        13.870166,
+                        45.706759
+                  ]
+            },
+            {
+                  "name": "Grotta di Trebiciano / Labadnìca",
+                  "text": "Höhleneingang in Sezana; bekannt für die Tiefe des Abgrunds.",
+                  "category": "natural",
+                  "coords": [
+                        13.833542,
+                        45.685328
+                  ]
+            },
+            {
+                  "name": "Golokratna jama",
+                  "text": "Höhleneingang in Sezana.",
+                  "category": "natural",
+                  "coords": [
+                        13.862938,
+                        45.680568
+                  ]
+            },
+            {
+                  "name": "Monte Franco / Frankovec",
+                  "text": "Berggipfel in Sezana.",
+                  "category": "natural",
+                  "coords": [
+                        13.836612,
+                        45.681764
+                  ]
+            },
+            {
+                  "name": "Jama Malanca",
+                  "text": "Höhleneingang in Sezana.",
+                  "category": "natural",
+                  "coords": [
+                        13.880017,
+                        45.685049
+                  ]
+            },
+            {
+                  "name": "Napoleonov hrast",
+                  "text": "Sehenswürdigkeit in Sezana.",
+                  "category": "landmark",
+                  "coords": [
+                        13.862935,
+                        45.66893
+                  ]
+            },
+            {
+                  "name": "Orlek, mejni kamen",
+                  "text": "Denkmal in Sezana.",
+                  "category": "historical",
+                  "coords": [
+                        13.834748,
+                        45.687679
+                  ]
+            },
+            {
+                  "name": "Dolina dei Druidi",
+                  "text": "Ruinen in Sezana.",
+                  "category": "historical",
+                  "coords": [
+                        13.824055,
+                        45.701576
+                  ]
+            },
+            {
+                  "name": "Razgledišče na Kosovelovi poti",
+                  "text": "Aussichtspunkt in Sezana.",
+                  "category": "natural",
+                  "coords": [
+                        13.864434,
+                        45.714351
+                  ]
+            },
+            {
+                  "name": "Naravno okno",
+                  "text": "Sehenswürdigkeit in Sezana.",
+                  "category": "landmark",
+                  "coords": [
+                        13.856743,
+                        45.670317
+                  ]
+            },
+            {
+                  "name": "Sežana, mejni kamen",
+                  "text": "Denkmal in Sezana.",
+                  "category": "historical",
+                  "coords": [
+                        13.894568,
+                        45.687129
+                  ]
+            },
+            {
+                  "name": "Sežana, kamniti osamelec",
+                  "text": "Denkmal in Sezana.",
+                  "category": "historical",
+                  "coords": [
+                        13.890186,
+                        45.680676
+                  ]
+            },
+            {
+                  "name": "Arheološko najdišče Tabor",
+                  "text": "Ruinen in Sezana.",
+                  "category": "historical",
+                  "coords": [
+                        13.867536,
+                        45.712236
+                  ]
+            },
+            {
+                  "name": "Cerkev Marijinega Vnebovzetja",
+                  "text": "Gotteshaus in Sezana.",
+                  "category": "religious",
+                  "coords": [
+                        13.866815,
+                        45.721975
+                  ]
+            },
+            {
+                  "name": "Cerkev Svetega Andreja",
+                  "text": "Gotteshaus in Sezana.",
+                  "category": "religious",
+                  "coords": [
+                        13.901166,
+                        45.703815
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Živi muzej Krasa",
+                  "text": "A Sežana-i Élő Karszt Múzeum betekintést nyújt a régió geológiai különlegességeibe.",
+                  "category": "museum",
+                  "coords": [
+                        13.869856,
+                        45.698764
+                  ]
+            },
+            {
+                  "name": "Pastirska hiška",
+                  "text": "A Sežana-i pásztorkunyhó a karsztvidék hagyományos építészeti formáit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        13.853582,
+                        45.677909
+                  ]
+            },
+            {
+                  "name": "Riserva naturale regionale del Monte Orsario / Deželni naravni rezervat Medvedjak",
+                  "text": "A Sežana melletti Monte Orsario természetvédelmi terület változatos növény- és állatvilágáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        13.821271,
+                        45.711483
+                  ]
+            },
+            {
+                  "name": "Riparo di Monrupino",
+                  "text": "A Riparo di Monrupino egy jelentős régészeti lelőhely Sežana közelében.",
+                  "category": "historical",
+                  "coords": [
+                        13.814172,
+                        45.704718
+                  ]
+            },
+            {
+                  "name": "Pastirsko zavetje",
+                  "text": "Ez a Sežana-i pásztor menedékhely egy történelmi védőépület a pásztorok számára.",
+                  "category": "museum",
+                  "coords": [
+                        13.865649,
+                        45.695873
+                  ]
+            },
+            {
+                  "name": "Prazgodovinske lovske megastrukture - stranska past",
+                  "text": "A Sežana melletti őskori vadászati struktúrák nagy régészeti érdeklődésre tartanak számot.",
+                  "category": "historical",
+                  "coords": [
+                        13.892317,
+                        45.68603
+                  ]
+            },
+            {
+                  "name": "Prazgodovinske lovske megastrukture - osrednja past",
+                  "text": "Régészeti lelőhely Sezanában.",
+                  "category": "historical",
+                  "coords": [
+                        13.895702,
+                        45.678501
+                  ]
+            },
+            {
+                  "name": "Kosovelov dom",
+                  "text": "Színház Sezanában.",
+                  "category": "cultural",
+                  "coords": [
+                        13.870166,
+                        45.706759
+                  ]
+            },
+            {
+                  "name": "Grotta di Trebiciano / Labadnìca",
+                  "text": "Barlangbejárat Sezanában; mélységéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        13.833542,
+                        45.685328
+                  ]
+            },
+            {
+                  "name": "Golokratna jama",
+                  "text": "Barlangbejárat Sezanában.",
+                  "category": "natural",
+                  "coords": [
+                        13.862938,
+                        45.680568
+                  ]
+            },
+            {
+                  "name": "Monte Franco / Frankovec",
+                  "text": "Hegycsúcs Sezanában.",
+                  "category": "natural",
+                  "coords": [
+                        13.836612,
+                        45.681764
+                  ]
+            },
+            {
+                  "name": "Jama Malanca",
+                  "text": "Barlangbejárat Sezanában.",
+                  "category": "natural",
+                  "coords": [
+                        13.880017,
+                        45.685049
+                  ]
+            },
+            {
+                  "name": "Napoleonov hrast",
+                  "text": "Látnivaló Sezanában.",
+                  "category": "landmark",
+                  "coords": [
+                        13.862935,
+                        45.66893
+                  ]
+            },
+            {
+                  "name": "Orlek, mejni kamen",
+                  "text": "Emlékmű Sezanában.",
+                  "category": "historical",
+                  "coords": [
+                        13.834748,
+                        45.687679
+                  ]
+            },
+            {
+                  "name": "Dolina dei Druidi",
+                  "text": "Romok Sezanában.",
+                  "category": "historical",
+                  "coords": [
+                        13.824055,
+                        45.701576
+                  ]
+            },
+            {
+                  "name": "Razgledišče na Kosovelovi poti",
+                  "text": "Kilátópont Sezanában.",
+                  "category": "natural",
+                  "coords": [
+                        13.864434,
+                        45.714351
+                  ]
+            },
+            {
+                  "name": "Naravno okno",
+                  "text": "Látnivaló Sezanában.",
+                  "category": "landmark",
+                  "coords": [
+                        13.856743,
+                        45.670317
+                  ]
+            },
+            {
+                  "name": "Sežana, mejni kamen",
+                  "text": "Emlékmű Sezanában.",
+                  "category": "historical",
+                  "coords": [
+                        13.894568,
+                        45.687129
+                  ]
+            },
+            {
+                  "name": "Sežana, kamniti osamelec",
+                  "text": "Emlékmű Sezanában.",
+                  "category": "historical",
+                  "coords": [
+                        13.890186,
+                        45.680676
+                  ]
+            },
+            {
+                  "name": "Arheološko najdišče Tabor",
+                  "text": "Romok Sezanában.",
+                  "category": "historical",
+                  "coords": [
+                        13.867536,
+                        45.712236
+                  ]
+            },
+            {
+                  "name": "Cerkev Marijinega Vnebovzetja",
+                  "text": "Imaház Sezanában.",
+                  "category": "religious",
+                  "coords": [
+                        13.866815,
+                        45.721975
+                  ]
+            },
+            {
+                  "name": "Cerkev Svetega Andreja",
+                  "text": "Imaház Sezanában.",
+                  "category": "religious",
+                  "coords": [
+                        13.901166,
+                        45.703815
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Živi muzej Krasa",
+                  "text": "Muzeul viu al carstului din Sežana oferă perspective asupra particularităților geologice ale regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        13.869856,
+                        45.698764
+                  ]
+            },
+            {
+                  "name": "Pastirska hiška",
+                  "text": "Coliba păstorului din Sežana prezintă forme tradiționale de arhitectură ale regiunii carstice.",
+                  "category": "museum",
+                  "coords": [
+                        13.853582,
+                        45.677909
+                  ]
+            },
+            {
+                  "name": "Riserva naturale regionale del Monte Orsario / Deželni naravni rezervat Medvedjak",
+                  "text": "Rezervația naturală Monte Orsario de lângă Sežana este cunoscută pentru flora și fauna sa diversă.",
+                  "category": "natural",
+                  "coords": [
+                        13.821271,
+                        45.711483
+                  ]
+            },
+            {
+                  "name": "Riparo di Monrupino",
+                  "text": "Riparo di Monrupino este un sit arheologic semnificativ de lângă Sežana.",
+                  "category": "historical",
+                  "coords": [
+                        13.814172,
+                        45.704718
+                  ]
+            },
+            {
+                  "name": "Pastirsko zavetje",
+                  "text": "Acest adăpost al păstorilor din Sežana este un refugiu istoric pentru păstori.",
+                  "category": "museum",
+                  "coords": [
+                        13.865649,
+                        45.695873
+                  ]
+            },
+            {
+                  "name": "Prazgodovinske lovske megastrukture - stranska past",
+                  "text": "Structurile de vânătoare preistorice de lângă Sežana sunt de mare interes arheologic.",
+                  "category": "historical",
+                  "coords": [
+                        13.892317,
+                        45.68603
+                  ]
+            },
+            {
+                  "name": "Prazgodovinske lovske megastrukture - osrednja past",
+                  "text": "Sit arheologic în Sezana.",
+                  "category": "historical",
+                  "coords": [
+                        13.895702,
+                        45.678501
+                  ]
+            },
+            {
+                  "name": "Kosovelov dom",
+                  "text": "Teatru în Sezana.",
+                  "category": "cultural",
+                  "coords": [
+                        13.870166,
+                        45.706759
+                  ]
+            },
+            {
+                  "name": "Grotta di Trebiciano / Labadnìca",
+                  "text": "Intrare de peșteră în Sezana; cunoscută pentru adâncimea abisului.",
+                  "category": "natural",
+                  "coords": [
+                        13.833542,
+                        45.685328
+                  ]
+            },
+            {
+                  "name": "Golokratna jama",
+                  "text": "Intrare de peșteră în Sezana.",
+                  "category": "natural",
+                  "coords": [
+                        13.862938,
+                        45.680568
+                  ]
+            },
+            {
+                  "name": "Monte Franco / Frankovec",
+                  "text": "Vârf montan în Sezana.",
+                  "category": "natural",
+                  "coords": [
+                        13.836612,
+                        45.681764
+                  ]
+            },
+            {
+                  "name": "Jama Malanca",
+                  "text": "Intrare de peșteră în Sezana.",
+                  "category": "natural",
+                  "coords": [
+                        13.880017,
+                        45.685049
+                  ]
+            },
+            {
+                  "name": "Napoleonov hrast",
+                  "text": "Atracție în Sezana.",
+                  "category": "landmark",
+                  "coords": [
+                        13.862935,
+                        45.66893
+                  ]
+            },
+            {
+                  "name": "Orlek, mejni kamen",
+                  "text": "Monument în Sezana.",
+                  "category": "historical",
+                  "coords": [
+                        13.834748,
+                        45.687679
+                  ]
+            },
+            {
+                  "name": "Dolina dei Druidi",
+                  "text": "Ruine în Sezana.",
+                  "category": "historical",
+                  "coords": [
+                        13.824055,
+                        45.701576
+                  ]
+            },
+            {
+                  "name": "Razgledišče na Kosovelovi poti",
+                  "text": "Punct de observație în Sezana.",
+                  "category": "natural",
+                  "coords": [
+                        13.864434,
+                        45.714351
+                  ]
+            },
+            {
+                  "name": "Naravno okno",
+                  "text": "Atracție în Sezana.",
+                  "category": "landmark",
+                  "coords": [
+                        13.856743,
+                        45.670317
+                  ]
+            },
+            {
+                  "name": "Sežana, mejni kamen",
+                  "text": "Monument în Sezana.",
+                  "category": "historical",
+                  "coords": [
+                        13.894568,
+                        45.687129
+                  ]
+            },
+            {
+                  "name": "Sežana, kamniti osamelec",
+                  "text": "Monument în Sezana.",
+                  "category": "historical",
+                  "coords": [
+                        13.890186,
+                        45.680676
+                  ]
+            },
+            {
+                  "name": "Arheološko najdišče Tabor",
+                  "text": "Ruine în Sezana.",
+                  "category": "historical",
+                  "coords": [
+                        13.867536,
+                        45.712236
+                  ]
+            },
+            {
+                  "name": "Cerkev Marijinega Vnebovzetja",
+                  "text": "Lăcaș de cult în Sezana.",
+                  "category": "religious",
+                  "coords": [
+                        13.866815,
+                        45.721975
+                  ]
+            },
+            {
+                  "name": "Cerkev Svetega Andreja",
+                  "text": "Lăcaș de cult în Sezana.",
+                  "category": "religious",
+                  "coords": [
+                        13.901166,
+                        45.703815
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Živi muzej Krasa",
+                  "text": "The Living Karst Museum in Sežana offers insights into the geological features of the region.",
+                  "category": "museum",
+                  "coords": [
+                        13.869856,
+                        45.698764
+                  ]
+            },
+            {
+                  "name": "Shepherd’s corbelled hut",
+                  "text": "The shepherd’s hut in Sežana showcases traditional architectural forms of the Karst region.",
+                  "category": "museum",
+                  "coords": [
+                        13.853582,
+                        45.677909
+                  ]
+            },
+            {
+                  "name": "Riserva naturale regionale del Monte Orsario / Deželni naravni rezervat Medvedjak",
+                  "text": "The Monte Orsario nature reserve near Sežana is known for its diverse flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        13.821271,
+                        45.711483
+                  ]
+            },
+            {
+                  "name": "Riparo di Monrupino",
+                  "text": "The Riparo di Monrupino is a significant archaeological site near Sežana.",
+                  "category": "historical",
+                  "coords": [
+                        13.814172,
+                        45.704718
+                  ]
+            },
+            {
+                  "name": "Pastirsko zavetje",
+                  "text": "This shepherd shelter in Sežana is a historical refuge for shepherds.",
+                  "category": "museum",
+                  "coords": [
+                        13.865649,
+                        45.695873
+                  ]
+            },
+            {
+                  "name": "Prazgodovinske lovske megastrukture - stranska past",
+                  "text": "The prehistoric hunting structures near Sežana are of high archaeological interest.",
+                  "category": "historical",
+                  "coords": [
+                        13.892317,
+                        45.68603
+                  ]
+            },
+            {
+                  "name": "Prazgodovinske lovske megastrukture - osrednja past",
+                  "text": "Archaeological site in Sezana.",
+                  "category": "historical",
+                  "coords": [
+                        13.895702,
+                        45.678501
+                  ]
+            },
+            {
+                  "name": "Kosovelov dom",
+                  "text": "Theatre in Sezana.",
+                  "category": "cultural",
+                  "coords": [
+                        13.870166,
+                        45.706759
+                  ]
+            },
+            {
+                  "name": "Grotta di Trebiciano / Labadnìca",
+                  "text": "Cave entrance in Sezana; known for the depth of the abyss.",
+                  "category": "natural",
+                  "coords": [
+                        13.833542,
+                        45.685328
+                  ]
+            },
+            {
+                  "name": "Golokratna jama",
+                  "text": "Cave entrance in Sezana.",
+                  "category": "natural",
+                  "coords": [
+                        13.862938,
+                        45.680568
+                  ]
+            },
+            {
+                  "name": "Monte Franco / Frankovec",
+                  "text": "Mountain peak in Sezana.",
+                  "category": "natural",
+                  "coords": [
+                        13.836612,
+                        45.681764
+                  ]
+            },
+            {
+                  "name": "Jama Malanca",
+                  "text": "Cave entrance in Sezana.",
+                  "category": "natural",
+                  "coords": [
+                        13.880017,
+                        45.685049
+                  ]
+            },
+            {
+                  "name": "Napoleonov hrast",
+                  "text": "Attraction in Sezana.",
+                  "category": "landmark",
+                  "coords": [
+                        13.862935,
+                        45.66893
+                  ]
+            },
+            {
+                  "name": "Orlek, mejni kamen",
+                  "text": "Monument in Sezana.",
+                  "category": "historical",
+                  "coords": [
+                        13.834748,
+                        45.687679
+                  ]
+            },
+            {
+                  "name": "Dolina dei Druidi",
+                  "text": "Ruins in Sezana.",
+                  "category": "historical",
+                  "coords": [
+                        13.824055,
+                        45.701576
+                  ]
+            },
+            {
+                  "name": "Razgledišče na Kosovelovi poti",
+                  "text": "Viewpoint in Sezana.",
+                  "category": "natural",
+                  "coords": [
+                        13.864434,
+                        45.714351
+                  ]
+            },
+            {
+                  "name": "Naravno okno",
+                  "text": "Attraction in Sezana.",
+                  "category": "landmark",
+                  "coords": [
+                        13.856743,
+                        45.670317
+                  ]
+            },
+            {
+                  "name": "Sežana, mejni kamen",
+                  "text": "Monument in Sezana.",
+                  "category": "historical",
+                  "coords": [
+                        13.894568,
+                        45.687129
+                  ]
+            },
+            {
+                  "name": "Sežana, kamniti osamelec",
+                  "text": "Monument in Sezana.",
+                  "category": "historical",
+                  "coords": [
+                        13.890186,
+                        45.680676
+                  ]
+            },
+            {
+                  "name": "Arheološko najdišče Tabor",
+                  "text": "Ruins in Sezana.",
+                  "category": "historical",
+                  "coords": [
+                        13.867536,
+                        45.712236
+                  ]
+            },
+            {
+                  "name": "Cerkev Marijinega Vnebovzetja",
+                  "text": "Place of worship in Sezana.",
+                  "category": "religious",
+                  "coords": [
+                        13.866815,
+                        45.721975
+                  ]
+            },
+            {
+                  "name": "Cerkev Svetega Andreja",
+                  "text": "Place of worship in Sezana.",
+                  "category": "religious",
+                  "coords": [
+                        13.901166,
+                        45.703815
+                  ]
+            }
+      ]
+},
     parent: "SI",
     type: "town",
     name: { de: "Sežana", hu: "Sežana", ro: "Sežana", en: "Sežana"},
@@ -969,7 +3426,628 @@ imageHint: "Radovljica medieval square with frescoes",
     },
     image: "/poi-images/slovenia-radovljica-cities-v2.webp",
 },  {
-    id: "slovenia-idrija-cities-v2",
+    id: "slovenia-idrija-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Antonijev Rov",
+                  "text": "Der Antonischacht ist ein Museum und ein historischer Teil des Quecksilberbergwerks in Idrija.",
+                  "category": "museum",
+                  "coords": [
+                        14.022565,
+                        45.999647
+                  ]
+            },
+            {
+                  "name": "Kamšt",
+                  "text": "Kamšt ist ein Museum in Idrija mit einem bemerkenswerten hölzernen Wasserrad.",
+                  "category": "museum",
+                  "coords": [
+                        14.032461,
+                        45.998741
+                  ]
+            },
+            {
+                  "name": "Mestni muzej Idrija",
+                  "text": "Das Stadtmuseum Idrija ist eine Einrichtung zur Bewahrung des lokalen Erbes in Idrija.",
+                  "category": "museum",
+                  "coords": [
+                        14.018404,
+                        46.000779
+                  ]
+            },
+            {
+                  "name": "Tehniški oddelek muzeja v Frančiškovem jašku",
+                  "text": "Diese technische Museumsabteilung befindet sich am Franziskusschacht in Idrija.",
+                  "category": "museum",
+                  "coords": [
+                        14.024704,
+                        46.002426
+                  ]
+            },
+            {
+                  "name": "Gozdni rezervat Strug",
+                  "text": "Das Waldreservat Strug ist ein geschütztes Naturschutzgebiet in Idrija.",
+                  "category": "natural",
+                  "coords": [
+                        14.005787,
+                        45.971819
+                  ]
+            },
+            {
+                  "name": "Gozdni rezervat Divje jezero",
+                  "text": "Divje jezero ist ein Naturschutzgebiet in Idrija, dessen Zentrum ein bekannter Karstsee ist.",
+                  "category": "natural",
+                  "coords": [
+                        14.028052,
+                        45.982175
+                  ]
+            },
+            {
+                  "name": "Hleviška planina",
+                  "text": "Hleviška planina ist ein natürlicher Berggipfel in der Umgebung von Idrija.",
+                  "category": "natural",
+                  "coords": [
+                        13.994368,
+                        45.984466
+                  ]
+            },
+            {
+                  "name": "Prižnica",
+                  "text": "Prižnica ist ein Aussichtspunkt, der malerische Ausblicke in der Umgebung von Idrija bietet.",
+                  "category": "natural",
+                  "coords": [
+                        14.007996,
+                        45.970855
+                  ]
+            },
+            {
+                  "name": "Tičnica",
+                  "text": "Tičnica ist ein etablierter Aussichtspunkt in der Stadt Idrija.",
+                  "category": "natural",
+                  "coords": [
+                        14.02443,
+                        45.993366
+                  ]
+            },
+            {
+                  "name": "Spomenik osamosvojitvene vojne",
+                  "text": "Dieses Denkmal in Idrija erinnert an den Unabhängigkeitskrieg.",
+                  "category": "historical",
+                  "coords": [
+                        14.027437,
+                        46.002321
+                  ]
+            },
+            {
+                  "name": "Ruševine nekdanjega jezu pri Kobili",
+                  "text": "Die Ruinen des ehemaligen Staudamms bei Kobila sind eine historische Stätte in Idrija.",
+                  "category": "historical",
+                  "coords": [
+                        14.024171,
+                        45.980866
+                  ]
+            },
+            {
+                  "name": "Cerkev Svetega Antona",
+                  "text": "Die St.-Antonius-Kirche ist ein bemerkenswertes Gotteshaus in Idrija.",
+                  "category": "religious",
+                  "coords": [
+                        14.02628,
+                        46.004819
+                  ]
+            },
+            {
+                  "name": "sv. Jožef Delavec",
+                  "text": "St. Josef der Arbeiter ist ein Gotteshaus in Idrija.",
+                  "category": "religious",
+                  "coords": [
+                        14.028805,
+                        46.002971
+                  ]
+            },
+            {
+                  "name": "Župnijska cerkev Marijinega vnebovzetja",
+                  "text": "Die Pfarrkirche Mariä Himmelfahrt ist ein Gotteshaus in Idrija.",
+                  "category": "religious",
+                  "coords": [
+                        14.025461,
+                        46.031447
+                  ]
+            },
+            {
+                  "name": "Kapelica sv. Janeza Nepomuka",
+                  "text": "Die Johannes-Nepomuk-Kapelle ist eine religiöse Stätte und ein Gotteshaus in Idrija.",
+                  "category": "religious",
+                  "coords": [
+                        14.019928,
+                        46.000755
+                  ]
+            },
+            {
+                  "name": "Cerkev Žalostne Matere Božje",
+                  "text": "Die Kirche der Schmerzhaften Muttergottes ist ein Gotteshaus in Idrija.",
+                  "category": "religious",
+                  "coords": [
+                        14.03501,
+                        45.994406
+                  ]
+            },
+            {
+                  "name": "Raufnk",
+                  "text": "Raufnk ist ein markanter historischer Schornstein in Idrija.",
+                  "category": "landmark",
+                  "coords": [
+                        14.033021,
+                        46.008451
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Antonijev Rov",
+                  "text": "Az Antal-akna egy múzeum és az idrijai higanybánya egy történelmi része.",
+                  "category": "museum",
+                  "coords": [
+                        14.022565,
+                        45.999647
+                  ]
+            },
+            {
+                  "name": "Kamšt",
+                  "text": "A Kamšt egy múzeum Idrijában, amely egy nevezetes fa vízikerekéről ismert.",
+                  "category": "museum",
+                  "coords": [
+                        14.032461,
+                        45.998741
+                  ]
+            },
+            {
+                  "name": "Mestni muzej Idrija",
+                  "text": "Az Idrijai Városi Múzeum a helyi örökséget megőrző intézmény Idrijában.",
+                  "category": "museum",
+                  "coords": [
+                        14.018404,
+                        46.000779
+                  ]
+            },
+            {
+                  "name": "Tehniški oddelek muzeja v Frančiškovem jašku",
+                  "text": "Ez a műszaki múzeumi részleg az idrijai Ferenc-aknában található.",
+                  "category": "museum",
+                  "coords": [
+                        14.024704,
+                        46.002426
+                  ]
+            },
+            {
+                  "name": "Gozdni rezervat Strug",
+                  "text": "A Strug Erdőrezervátum egy védett természeti terület Idrijában.",
+                  "category": "natural",
+                  "coords": [
+                        14.005787,
+                        45.971819
+                  ]
+            },
+            {
+                  "name": "Gozdni rezervat Divje jezero",
+                  "text": "A Divje jezero egy természetvédelmi terület Idrijában, amelynek középpontjában egy híres karszttó áll.",
+                  "category": "natural",
+                  "coords": [
+                        14.028052,
+                        45.982175
+                  ]
+            },
+            {
+                  "name": "Hleviška planina",
+                  "text": "A Hleviška planina egy természetes hegycsúcs Idrija környékén.",
+                  "category": "natural",
+                  "coords": [
+                        13.994368,
+                        45.984466
+                  ]
+            },
+            {
+                  "name": "Prižnica",
+                  "text": "A Prižnica egy festői kilátást nyújtó kilátópont Idrija térségében.",
+                  "category": "natural",
+                  "coords": [
+                        14.007996,
+                        45.970855
+                  ]
+            },
+            {
+                  "name": "Tičnica",
+                  "text": "A Tičnica egy bevált kilátópont Idrija városában.",
+                  "category": "natural",
+                  "coords": [
+                        14.02443,
+                        45.993366
+                  ]
+            },
+            {
+                  "name": "Spomenik osamosvojitvene vojne",
+                  "text": "Ez az idrijai emlékmű a függetlenségi háborúnak állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        14.027437,
+                        46.002321
+                  ]
+            },
+            {
+                  "name": "Ruševine nekdanjega jezu pri Kobili",
+                  "text": "Az egykori gát romjai Kobilánál egy történelmi helyszín Idrijában.",
+                  "category": "historical",
+                  "coords": [
+                        14.024171,
+                        45.980866
+                  ]
+            },
+            {
+                  "name": "Cerkev Svetega Antona",
+                  "text": "A Szent Antal-templom egy figyelemre méltó istentiszteleti hely Idrijában.",
+                  "category": "religious",
+                  "coords": [
+                        14.02628,
+                        46.004819
+                  ]
+            },
+            {
+                  "name": "sv. Jožef Delavec",
+                  "text": "A Munkás Szent József egy istentiszteleti hely Idrijában.",
+                  "category": "religious",
+                  "coords": [
+                        14.028805,
+                        46.002971
+                  ]
+            },
+            {
+                  "name": "Župnijska cerkev Marijinega vnebovzetja",
+                  "text": "A Mária Mennybevétele plébániatemplom egy istentiszteleti hely Idrijában.",
+                  "category": "religious",
+                  "coords": [
+                        14.025461,
+                        46.031447
+                  ]
+            },
+            {
+                  "name": "Kapelica sv. Janeza Nepomuka",
+                  "text": "A Nepomuki Szent János-kápolna egy vallási és istentiszteleti hely Idrijában.",
+                  "category": "religious",
+                  "coords": [
+                        14.019928,
+                        46.000755
+                  ]
+            },
+            {
+                  "name": "Cerkev Žalostne Matere Božje",
+                  "text": "A Fájdalmas Anya-templom egy istentiszteleti hely Idrijában.",
+                  "category": "religious",
+                  "coords": [
+                        14.03501,
+                        45.994406
+                  ]
+            },
+            {
+                  "name": "Raufnk",
+                  "text": "A Raufnk egy kiemelkedő történelmi kémény Idrijában.",
+                  "category": "landmark",
+                  "coords": [
+                        14.033021,
+                        46.008451
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Antonijev Rov",
+                  "text": "Puțul lui Anton este un muzeu și o secțiune istorică a minei de mercur din Idrija.",
+                  "category": "museum",
+                  "coords": [
+                        14.022565,
+                        45.999647
+                  ]
+            },
+            {
+                  "name": "Kamšt",
+                  "text": "Kamšt este un muzeu din Idrija care găzduiește o remarcabilă roată de apă din lemn.",
+                  "category": "museum",
+                  "coords": [
+                        14.032461,
+                        45.998741
+                  ]
+            },
+            {
+                  "name": "Mestni muzej Idrija",
+                  "text": "Muzeul Municipal din Idrija este o instituție care păstrează patrimoniul local din Idrija.",
+                  "category": "museum",
+                  "coords": [
+                        14.018404,
+                        46.000779
+                  ]
+            },
+            {
+                  "name": "Tehniški oddelek muzeja v Frančiškovem jašku",
+                  "text": "Acest departament tehnic al muzeului este situat la Puțul Francis din Idrija.",
+                  "category": "museum",
+                  "coords": [
+                        14.024704,
+                        46.002426
+                  ]
+            },
+            {
+                  "name": "Gozdni rezervat Strug",
+                  "text": "Rezervația Forestieră Strug este o rezervație naturală protejată situată în Idrija.",
+                  "category": "natural",
+                  "coords": [
+                        14.005787,
+                        45.971819
+                  ]
+            },
+            {
+                  "name": "Gozdni rezervat Divje jezero",
+                  "text": "Divje jezero este o rezervație naturală în Idrija, centrată în jurul unui faimos lac carstic.",
+                  "category": "natural",
+                  "coords": [
+                        14.028052,
+                        45.982175
+                  ]
+            },
+            {
+                  "name": "Hleviška planina",
+                  "text": "Hleviška planina este un vârf natural situat în împrejurimile orașului Idrija.",
+                  "category": "natural",
+                  "coords": [
+                        13.994368,
+                        45.984466
+                  ]
+            },
+            {
+                  "name": "Prižnica",
+                  "text": "Prižnica este un punct de belvedere care oferă priveliști pitorești în zona Idrija.",
+                  "category": "natural",
+                  "coords": [
+                        14.007996,
+                        45.970855
+                  ]
+            },
+            {
+                  "name": "Tičnica",
+                  "text": "Tičnica este un punct de belvedere stabilit în orașul Idrija.",
+                  "category": "natural",
+                  "coords": [
+                        14.02443,
+                        45.993366
+                  ]
+            },
+            {
+                  "name": "Spomenik osamosvojitvene vojne",
+                  "text": "Acest monument din Idrija comemorează războiul de independență.",
+                  "category": "historical",
+                  "coords": [
+                        14.027437,
+                        46.002321
+                  ]
+            },
+            {
+                  "name": "Ruševine nekdanjega jezu pri Kobili",
+                  "text": "Ruinele fostului baraj de la Kobila reprezintă un sit istoric situat în Idrija.",
+                  "category": "historical",
+                  "coords": [
+                        14.024171,
+                        45.980866
+                  ]
+            },
+            {
+                  "name": "Cerkev Svetega Antona",
+                  "text": "Biserica Sf. Anton este un lăcaș de cult notabil din Idrija.",
+                  "category": "religious",
+                  "coords": [
+                        14.02628,
+                        46.004819
+                  ]
+            },
+            {
+                  "name": "sv. Jožef Delavec",
+                  "text": "Sfântul Iosif Muncitorul este un lăcaș de cult situat în Idrija.",
+                  "category": "religious",
+                  "coords": [
+                        14.028805,
+                        46.002971
+                  ]
+            },
+            {
+                  "name": "Župnijska cerkev Marijinega vnebovzetja",
+                  "text": "Biserica Parohială Adormirea Maicii Domnului este un lăcaș de cult din Idrija.",
+                  "category": "religious",
+                  "coords": [
+                        14.025461,
+                        46.031447
+                  ]
+            },
+            {
+                  "name": "Kapelica sv. Janeza Nepomuka",
+                  "text": "Capela Sfântul Ioan de Nepomuk este un sit religios și lăcaș de cult din Idrija.",
+                  "category": "religious",
+                  "coords": [
+                        14.019928,
+                        46.000755
+                  ]
+            },
+            {
+                  "name": "Cerkev Žalostne Matere Božje",
+                  "text": "Biserica Maicii Domnului Îndurerată este un lăcaș de cult situat în Idrija.",
+                  "category": "religious",
+                  "coords": [
+                        14.03501,
+                        45.994406
+                  ]
+            },
+            {
+                  "name": "Raufnk",
+                  "text": "Raufnk este un coș de fum istoric proeminent situat în Idrija.",
+                  "category": "landmark",
+                  "coords": [
+                        14.033021,
+                        46.008451
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Anthony's Shaft",
+                  "text": "Anthony's Shaft is a museum and a historic section of the mercury mine in Idrija.",
+                  "category": "museum",
+                  "coords": [
+                        14.022565,
+                        45.999647
+                  ]
+            },
+            {
+                  "name": "Kamšt",
+                  "text": "Kamšt is a museum in Idrija featuring a notable wooden water wheel.",
+                  "category": "museum",
+                  "coords": [
+                        14.032461,
+                        45.998741
+                  ]
+            },
+            {
+                  "name": "Idrija Municipal Museum",
+                  "text": "The Idrija Municipal Museum is an institution preserving local heritage in Idrija.",
+                  "category": "museum",
+                  "coords": [
+                        14.018404,
+                        46.000779
+                  ]
+            },
+            {
+                  "name": "Tehniški oddelek muzeja v Frančiškovem jašku",
+                  "text": "This technical museum department is located at Francis's Shaft in Idrija.",
+                  "category": "museum",
+                  "coords": [
+                        14.024704,
+                        46.002426
+                  ]
+            },
+            {
+                  "name": "Gozdni rezervat Strug",
+                  "text": "Gozdni rezervat Strug is a protected nature reserve located in Idrija.",
+                  "category": "natural",
+                  "coords": [
+                        14.005787,
+                        45.971819
+                  ]
+            },
+            {
+                  "name": "Gozdni rezervat Divje jezero",
+                  "text": "Divje jezero is a nature reserve in Idrija, centered around a famous karst lake.",
+                  "category": "natural",
+                  "coords": [
+                        14.028052,
+                        45.982175
+                  ]
+            },
+            {
+                  "name": "Hleviška planina",
+                  "text": "Hleviška planina is a natural peak situated in the surroundings of Idrija.",
+                  "category": "natural",
+                  "coords": [
+                        13.994368,
+                        45.984466
+                  ]
+            },
+            {
+                  "name": "Prižnica",
+                  "text": "Prižnica is a viewpoint offering scenic vistas in the Idrija area.",
+                  "category": "natural",
+                  "coords": [
+                        14.007996,
+                        45.970855
+                  ]
+            },
+            {
+                  "name": "Tičnica",
+                  "text": "Tičnica is an established viewpoint located in the city of Idrija.",
+                  "category": "natural",
+                  "coords": [
+                        14.02443,
+                        45.993366
+                  ]
+            },
+            {
+                  "name": "Spomenik osamosvojitvene vojne",
+                  "text": "This monument in Idrija commemorates the war of independence.",
+                  "category": "historical",
+                  "coords": [
+                        14.027437,
+                        46.002321
+                  ]
+            },
+            {
+                  "name": "Ruševine nekdanjega jezu pri Kobili",
+                  "text": "The ruins of the former dam at Kobila are a historical site located in Idrija.",
+                  "category": "historical",
+                  "coords": [
+                        14.024171,
+                        45.980866
+                  ]
+            },
+            {
+                  "name": "St. Anthony's church",
+                  "text": "St. Anthony's church is a notable place of worship located in Idrija.",
+                  "category": "religious",
+                  "coords": [
+                        14.02628,
+                        46.004819
+                  ]
+            },
+            {
+                  "name": "St. Joseph the worker",
+                  "text": "St. Joseph the Worker is a place of worship situated in Idrija.",
+                  "category": "religious",
+                  "coords": [
+                        14.028805,
+                        46.002971
+                  ]
+            },
+            {
+                  "name": "Župnijska cerkev Marijinega vnebovzetja",
+                  "text": "The Parish Church of the Assumption of Mary is a place of worship in Idrija.",
+                  "category": "religious",
+                  "coords": [
+                        14.025461,
+                        46.031447
+                  ]
+            },
+            {
+                  "name": "John of Nepomuk Chapel",
+                  "text": "The John of Nepomuk Chapel is a religious site and place of worship in Idrija.",
+                  "category": "religious",
+                  "coords": [
+                        14.019928,
+                        46.000755
+                  ]
+            },
+            {
+                  "name": "Cerkev Žalostne Matere Božje",
+                  "text": "The Church of Our Lady of Sorrows is a place of worship located in Idrija.",
+                  "category": "religious",
+                  "coords": [
+                        14.03501,
+                        45.994406
+                  ]
+            },
+            {
+                  "name": "Raufnk",
+                  "text": "Raufnk is a prominent historical chimney located in Idrija.",
+                  "category": "landmark",
+                  "coords": [
+                        14.033021,
+                        46.008451
+                  ]
+            }
+      ]
+},
     parent: "SI",
     type: "town",
     name: { de: "Idrija", hu: "Idrija", ro: "Idrija", en: "Idrija"},

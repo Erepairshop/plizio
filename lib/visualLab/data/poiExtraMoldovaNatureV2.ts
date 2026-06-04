@@ -237,7 +237,52 @@ export const moldovaNatureV2: POI[] = [
     },
   },
   {
-    id: "moldova-stinca-costesti-reservoir-nature-v2",
+    id: "moldova-stinca-costesti-reservoir-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Marea Nordului",
+                  "text": "Strand am Stausee Costești-Stânca.",
+                  "category": "recreational",
+                  "coords": [
+                        27.214069,
+                        47.834758
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Marea Nordului",
+                  "text": "Strand a Costești-Stânca víztározónál.",
+                  "category": "recreational",
+                  "coords": [
+                        27.214069,
+                        47.834758
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Marea Nordului",
+                  "text": "Plajă la lacul de acumulare Costești-Stânca.",
+                  "category": "recreational",
+                  "coords": [
+                        27.214069,
+                        47.834758
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Marea Nordului",
+                  "text": "Beach at the Costești-Stânca reservoir.",
+                  "category": "recreational",
+                  "coords": [
+                        27.214069,
+                        47.834758
+                  ]
+            }
+      ]
+},
     parent: "MD",
     type: "lake",
     name: { de: "Stausee Stînca-Costești", hu: "Stînca-Costești víztározó", ro: "Lacul de acumulare Stînca-Costești", en: "Stinca-Costesti Reservoir"},

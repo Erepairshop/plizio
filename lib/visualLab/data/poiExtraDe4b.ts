@@ -2285,6 +2285,15 @@ export const poiExtraDe4b: POI[] = [
                         10.190561,
                         53.499614
                   ]
+            },
+            {
+                  "name": "Nordspitze",
+                  "text": "Die Nordspitze ist ein Strandbereich in Bergedorf.",
+                  "category": "recreational",
+                  "coords": [
+                        10.164587,
+                        53.482376
+                  ]
             }
       ],
       "hu": [
@@ -2344,6 +2353,15 @@ export const poiExtraDe4b: POI[] = [
                   "coords": [
                         10.190561,
                         53.499614
+                  ]
+            },
+            {
+                  "name": "Nordspitze",
+                  "text": "A Nordspitze egy strandterület Bergedorfban.",
+                  "category": "recreational",
+                  "coords": [
+                        10.164587,
+                        53.482376
                   ]
             }
       ],
@@ -2405,6 +2423,15 @@ export const poiExtraDe4b: POI[] = [
                         10.190561,
                         53.499614
                   ]
+            },
+            {
+                  "name": "Nordspitze",
+                  "text": "Nordspitze este o zonă de plajă în Bergedorf.",
+                  "category": "recreational",
+                  "coords": [
+                        10.164587,
+                        53.482376
+                  ]
             }
       ],
       "en": [
@@ -2464,6 +2491,15 @@ export const poiExtraDe4b: POI[] = [
                   "coords": [
                         10.190561,
                         53.499614
+                  ]
+            },
+            {
+                  "name": "Nordspitze",
+                  "text": "Nordspitze is a beach area in Bergedorf.",
+                  "category": "recreational",
+                  "coords": [
+                        10.164587,
+                        53.482376
                   ]
             }
       ]

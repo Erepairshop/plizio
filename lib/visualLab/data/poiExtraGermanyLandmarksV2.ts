@@ -248,7 +248,52 @@ export const germanyLandmarksV2: POI[] = [
     image: "/poi-images/germany-achensee-kloster-landmarks-v2.webp",
   },
     {
-    id: "germany-konstanz-konzilgebaeude-landmarks-v2",
+    id: "germany-konstanz-konzilgebaeude-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Schmuggler Bucht",
+                  "text": "Die Schmuggler Bucht befindet sich in Konstanz.",
+                  "category": "recreational",
+                  "coords": [
+                        9.193654,
+                        47.666073
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Schmuggler Bucht",
+                  "text": "A Schmuggler Bucht Konstanzban található.",
+                  "category": "recreational",
+                  "coords": [
+                        9.193654,
+                        47.666073
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Schmuggler Bucht",
+                  "text": "Schmuggler Bucht este situat în Konstanz.",
+                  "category": "recreational",
+                  "coords": [
+                        9.193654,
+                        47.666073
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Schmuggler Bucht",
+                  "text": "Schmuggler Bucht is located in Konstanz.",
+                  "category": "recreational",
+                  "coords": [
+                        9.193654,
+                        47.666073
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "DE",
     name: { de: "Konzilgebäude Konstanz", hu: "Konstanzi konzilépület", ro: "Clădirea Consiliului din Konstanz", en: "Konzilgebäude Konstanz" },

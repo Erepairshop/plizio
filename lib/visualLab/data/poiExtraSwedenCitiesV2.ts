@@ -3,7 +3,88 @@ import { POI } from './poi';
 export const swedenCitiesV2: POI[] = [
 
   {
-    id: "sweden-helsingborg-cities-v2",
+    id: "sweden-helsingborg-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fria Bad",
+                  "text": "Fria Bad ist ein beliebter Stadtstrand in Helsingborg.",
+                  "category": "recreational",
+                  "coords": [
+                        12.681009,
+                        56.05844
+                  ]
+            },
+            {
+                  "name": "Tropical Beach",
+                  "text": "Tropical Beach ist ein Strandabschnitt in Helsingborg.",
+                  "category": "recreational",
+                  "coords": [
+                        12.686914,
+                        56.044109
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fria Bad",
+                  "text": "Fria Bad egy népszerű városi strand Helsingborgban.",
+                  "category": "recreational",
+                  "coords": [
+                        12.681009,
+                        56.05844
+                  ]
+            },
+            {
+                  "name": "Tropical Beach",
+                  "text": "Tropical Beach egy partszakasz Helsingborgban.",
+                  "category": "recreational",
+                  "coords": [
+                        12.686914,
+                        56.044109
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fria Bad",
+                  "text": "Fria Bad este o plajă urbană populară în Helsingborg.",
+                  "category": "recreational",
+                  "coords": [
+                        12.681009,
+                        56.05844
+                  ]
+            },
+            {
+                  "name": "Tropical Beach",
+                  "text": "Tropical Beach este o secțiune de plajă în Helsingborg.",
+                  "category": "recreational",
+                  "coords": [
+                        12.686914,
+                        56.044109
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fria Bad",
+                  "text": "Fria Bad is a popular city beach in Helsingborg.",
+                  "category": "recreational",
+                  "coords": [
+                        12.681009,
+                        56.05844
+                  ]
+            },
+            {
+                  "name": "Tropical Beach",
+                  "text": "Tropical Beach is a beach area in Helsingborg.",
+                  "category": "recreational",
+                  "coords": [
+                        12.686914,
+                        56.044109
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "city",
     name: { de: "Helsingborg", hu: "Helsingborg", ro: "Helsingborg", en: "Helsingborg"},
@@ -141,7 +222,124 @@ imageHint: "Modern street art and sculptures in Borås city center",
     },
     image: "/poi-images/sweden-boras-cities-v2.webp",
 },  {
-    id: "sweden-eskilstuna-cities-v2",
+    id: "sweden-eskilstuna-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Skjulstabadet",
+                  "text": "Strand in der Nähe von Eskilstuna.",
+                  "category": "recreational",
+                  "coords": [
+                        16.491149,
+                        59.339663
+                  ]
+            },
+            {
+                  "name": "Vilsta Badplats",
+                  "text": "Vilsta Badplats ist eine Badestelle in der Nähe von Eskilstuna.",
+                  "category": "recreational",
+                  "coords": [
+                        16.505075,
+                        59.350429
+                  ]
+            },
+            {
+                  "name": "Stadsparkens Strand",
+                  "text": "Stadsparkens Strand ist ein Badeplatz in Eskilstuna.",
+                  "category": "recreational",
+                  "coords": [
+                        16.518494,
+                        59.372406
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Skjulstabadet",
+                  "text": "Part Eskilstuna közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        16.491149,
+                        59.339663
+                  ]
+            },
+            {
+                  "name": "Vilsta Badplats",
+                  "text": "Vilsta Badplats egy strandfürdő Eskilstuna közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        16.505075,
+                        59.350429
+                  ]
+            },
+            {
+                  "name": "Stadsparkens Strand",
+                  "text": "Stadsparkens Strand egy strandfürdő Eskilstunában.",
+                  "category": "recreational",
+                  "coords": [
+                        16.518494,
+                        59.372406
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Skjulstabadet",
+                  "text": "Plajă în apropiere de Eskilstuna.",
+                  "category": "recreational",
+                  "coords": [
+                        16.491149,
+                        59.339663
+                  ]
+            },
+            {
+                  "name": "Vilsta Badplats",
+                  "text": "Vilsta Badplats este o zonă de scăldat lângă Eskilstuna.",
+                  "category": "recreational",
+                  "coords": [
+                        16.505075,
+                        59.350429
+                  ]
+            },
+            {
+                  "name": "Stadsparkens Strand",
+                  "text": "Stadsparkens Strand este o zonă de plajă în Eskilstuna.",
+                  "category": "recreational",
+                  "coords": [
+                        16.518494,
+                        59.372406
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Skjulstabadet",
+                  "text": "Beach near Eskilstuna.",
+                  "category": "recreational",
+                  "coords": [
+                        16.491149,
+                        59.339663
+                  ]
+            },
+            {
+                  "name": "Vilsta Badplats",
+                  "text": "Vilsta Badplats is a swimming area near Eskilstuna.",
+                  "category": "recreational",
+                  "coords": [
+                        16.505075,
+                        59.350429
+                  ]
+            },
+            {
+                  "name": "Stadsparkens Strand",
+                  "text": "Stadsparkens Strand is a beach in Eskilstuna.",
+                  "category": "recreational",
+                  "coords": [
+                        16.518494,
+                        59.372406
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "city",
     name: { de: "Eskilstuna", hu: "Eskilstuna", ro: "Eskilstuna", en: "Eskilstuna"},
@@ -371,7 +569,52 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
     },
     image: "/poi-images/sweden-trollhattan-cities-v2.webp",
 },  {
-    id: "sweden-falun-cities-v2",
+    id: "sweden-falun-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Strandbaden",
+                  "text": "Ein Strand bei Falun.",
+                  "category": "recreational",
+                  "coords": [
+                        15.676236,
+                        60.589799
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Strandbaden",
+                  "text": "Strand Falun közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        15.676236,
+                        60.589799
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Strandbaden",
+                  "text": "O plajă lângă Falun.",
+                  "category": "recreational",
+                  "coords": [
+                        15.676236,
+                        60.589799
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Strandbaden",
+                  "text": "A beach near Falun.",
+                  "category": "recreational",
+                  "coords": [
+                        15.676236,
+                        60.589799
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "city",
     name: { de: "Falun", hu: "Falun", ro: "Falun", en: "Falun"},
@@ -512,7 +755,52 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
     },
   },
   {
-    id: "sweden-kristianstad-cities-v2",
+    id: "sweden-kristianstad-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ekenabben",
+                  "text": "Ekenabben ist ein Badebereich nahe Kristianstad.",
+                  "category": "recreational",
+                  "coords": [
+                        14.190543,
+                        56.011733
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ekenabben",
+                  "text": "Ekenabben egy strandfürdő Kristianstad közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        14.190543,
+                        56.011733
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ekenabben",
+                  "text": "Ekenabben este o zonă de plajă lângă Kristianstad.",
+                  "category": "recreational",
+                  "coords": [
+                        14.190543,
+                        56.011733
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ekenabben",
+                  "text": "Ekenabben is a swimming area near Kristianstad.",
+                  "category": "recreational",
+                  "coords": [
+                        14.190543,
+                        56.011733
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "city",
     name: { de: "Kristianstad", hu: "Kristianstad", ro: "Kristianstad", en: "Kristianstad"},
@@ -559,7 +847,52 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
     },
   },
   {
-    id: "sweden-landskrona-cities-v2",
+    id: "sweden-landskrona-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rolles Beach",
+                  "text": "Rolles Beach ist ein Badeplatz in Landskrona.",
+                  "category": "recreational",
+                  "coords": [
+                        12.852761,
+                        55.856761
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rolles Beach",
+                  "text": "Rolles Beach egy strandfürdő Landskronában.",
+                  "category": "recreational",
+                  "coords": [
+                        12.852761,
+                        55.856761
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rolles Beach",
+                  "text": "Rolles Beach este o plajă în Landskrona.",
+                  "category": "recreational",
+                  "coords": [
+                        12.852761,
+                        55.856761
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rolles Beach",
+                  "text": "Rolles Beach is a beach in Landskrona.",
+                  "category": "recreational",
+                  "coords": [
+                        12.852761,
+                        55.856761
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "city",
     name: { de: "Landskrona", hu: "Landskrona", ro: "Landskrona", en: "Landskrona"},
@@ -606,7 +939,52 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
     },
   },
   {
-    id: "sweden-motala-cities-v2",
+    id: "sweden-motala-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Varamobaden",
+                  "text": "Varamobaden ist ein bekannter Strand bei Motala.",
+                  "category": "recreational",
+                  "coords": [
+                        15.001356,
+                        58.553575
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Varamobaden",
+                  "text": "Varamobaden egy népszerű strand Motala közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        15.001356,
+                        58.553575
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Varamobaden",
+                  "text": "Varamobaden este o plajă populară lângă Motala.",
+                  "category": "recreational",
+                  "coords": [
+                        15.001356,
+                        58.553575
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Varamobaden",
+                  "text": "Varamobaden is a well-known beach near Motala.",
+                  "category": "recreational",
+                  "coords": [
+                        15.001356,
+                        58.553575
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "city",
     name: { de: "Motala", hu: "Motala", ro: "Motala", en: "Motala"},
@@ -653,7 +1031,304 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
     },
   },
   {
-    id: "sweden-karlskrona-cities-v2",
+    id: "sweden-karlskrona-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dragsö Aoursol",
+                  "text": "Dragsö Aoursol ist ein Strand bei Karlskrona.",
+                  "category": "recreational",
+                  "coords": [
+                        15.571064,
+                        56.176837
+                  ]
+            },
+            {
+                  "name": "Stumholmen Badplats",
+                  "text": "Stumholmen Badplats ist ein Strand bei Karlskrona.",
+                  "category": "recreational",
+                  "coords": [
+                        15.598643,
+                        56.159739
+                  ]
+            },
+            {
+                  "name": "Aspö Badplats",
+                  "text": "Aspö Badplats ist ein Strand bei Karlskrona.",
+                  "category": "recreational",
+                  "coords": [
+                        15.565764,
+                        56.121262
+                  ]
+            },
+            {
+                  "name": "Saltö sand",
+                  "text": "Saltö sand ist ein Strand bei Karlskrona.",
+                  "category": "recreational",
+                  "coords": [
+                        15.56287,
+                        56.16624
+                  ]
+            },
+            {
+                  "name": "Långö badplats",
+                  "text": "Långö badplats ist ein Strand bei Karlskrona.",
+                  "category": "recreational",
+                  "coords": [
+                        15.581895,
+                        56.181745
+                  ]
+            },
+            {
+                  "name": "Studentviken Badplats",
+                  "text": "Studentviken Badplats liegt in der Nähe von Karlskrona.",
+                  "category": "recreational",
+                  "coords": [
+                        15.593165,
+                        56.187444
+                  ]
+            },
+            {
+                  "name": "Hästö Badplats",
+                  "text": "Hästö Badplats ist ein Strand bei Karlskrona.",
+                  "category": "recreational",
+                  "coords": [
+                        15.626845,
+                        56.178942
+                  ]
+            },
+            {
+                  "name": "Skönstavik Badplats",
+                  "text": "Skönstavik Badplats ist ein Strand bei Karlskrona.",
+                  "category": "recreational",
+                  "coords": [
+                        15.601988,
+                        56.201416
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dragsö Aoursol",
+                  "text": "Dragsö Aoursol egy strand Karlskrona közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        15.571064,
+                        56.176837
+                  ]
+            },
+            {
+                  "name": "Stumholmen Badplats",
+                  "text": "Stumholmen Badplats egy strand Karlskrona közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        15.598643,
+                        56.159739
+                  ]
+            },
+            {
+                  "name": "Aspö Badplats",
+                  "text": "Aspö Badplats egy strand Karlskrona közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        15.565764,
+                        56.121262
+                  ]
+            },
+            {
+                  "name": "Saltö sand",
+                  "text": "Saltö sand egy strand Karlskrona közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        15.56287,
+                        56.16624
+                  ]
+            },
+            {
+                  "name": "Långö badplats",
+                  "text": "Långö badplats egy strand Karlskrona közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        15.581895,
+                        56.181745
+                  ]
+            },
+            {
+                  "name": "Studentviken Badplats",
+                  "text": "A Studentviken Badplats Karlskrona közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        15.593165,
+                        56.187444
+                  ]
+            },
+            {
+                  "name": "Hästö Badplats",
+                  "text": "Hästö Badplats egy strand Karlskrona közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        15.626845,
+                        56.178942
+                  ]
+            },
+            {
+                  "name": "Skönstavik Badplats",
+                  "text": "Skönstavik Badplats egy strand Karlskrona közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        15.601988,
+                        56.201416
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dragsö Aoursol",
+                  "text": "Dragsö Aoursol este o plajă lângă Karlskrona.",
+                  "category": "recreational",
+                  "coords": [
+                        15.571064,
+                        56.176837
+                  ]
+            },
+            {
+                  "name": "Stumholmen Badplats",
+                  "text": "Stumholmen Badplats este o plajă lângă Karlskrona.",
+                  "category": "recreational",
+                  "coords": [
+                        15.598643,
+                        56.159739
+                  ]
+            },
+            {
+                  "name": "Aspö Badplats",
+                  "text": "Aspö Badplats este o plajă lângă Karlskrona.",
+                  "category": "recreational",
+                  "coords": [
+                        15.565764,
+                        56.121262
+                  ]
+            },
+            {
+                  "name": "Saltö sand",
+                  "text": "Saltö sand este o plajă lângă Karlskrona.",
+                  "category": "recreational",
+                  "coords": [
+                        15.56287,
+                        56.16624
+                  ]
+            },
+            {
+                  "name": "Långö badplats",
+                  "text": "Långö badplats este o plajă lângă Karlskrona.",
+                  "category": "recreational",
+                  "coords": [
+                        15.581895,
+                        56.181745
+                  ]
+            },
+            {
+                  "name": "Studentviken Badplats",
+                  "text": "Studentviken Badplats este situată în apropiere de Karlskrona.",
+                  "category": "recreational",
+                  "coords": [
+                        15.593165,
+                        56.187444
+                  ]
+            },
+            {
+                  "name": "Hästö Badplats",
+                  "text": "Hästö Badplats este o plajă lângă Karlskrona.",
+                  "category": "recreational",
+                  "coords": [
+                        15.626845,
+                        56.178942
+                  ]
+            },
+            {
+                  "name": "Skönstavik Badplats",
+                  "text": "Skönstavik Badplats este o plajă lângă Karlskrona.",
+                  "category": "recreational",
+                  "coords": [
+                        15.601988,
+                        56.201416
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dragsö Aoursol",
+                  "text": "Dragsö Aoursol is a beach near Karlskrona.",
+                  "category": "recreational",
+                  "coords": [
+                        15.571064,
+                        56.176837
+                  ]
+            },
+            {
+                  "name": "Stumholmen Badplats",
+                  "text": "Stumholmen Badplats is a beach near Karlskrona.",
+                  "category": "recreational",
+                  "coords": [
+                        15.598643,
+                        56.159739
+                  ]
+            },
+            {
+                  "name": "Aspö Badplats",
+                  "text": "Aspö Badplats is a beach near Karlskrona.",
+                  "category": "recreational",
+                  "coords": [
+                        15.565764,
+                        56.121262
+                  ]
+            },
+            {
+                  "name": "Saltö sand",
+                  "text": "Saltö sand is a beach near Karlskrona.",
+                  "category": "recreational",
+                  "coords": [
+                        15.56287,
+                        56.16624
+                  ]
+            },
+            {
+                  "name": "Långö badplats",
+                  "text": "Långö badplats is a beach near Karlskrona.",
+                  "category": "recreational",
+                  "coords": [
+                        15.581895,
+                        56.181745
+                  ]
+            },
+            {
+                  "name": "Studentviken Badplats",
+                  "text": "Studentviken Badplats is located near Karlskrona.",
+                  "category": "recreational",
+                  "coords": [
+                        15.593165,
+                        56.187444
+                  ]
+            },
+            {
+                  "name": "Hästö Badplats",
+                  "text": "Hästö Badplats is a beach near Karlskrona.",
+                  "category": "recreational",
+                  "coords": [
+                        15.626845,
+                        56.178942
+                  ]
+            },
+            {
+                  "name": "Skönstavik Badplats",
+                  "text": "Skönstavik Badplats is a beach near Karlskrona.",
+                  "category": "recreational",
+                  "coords": [
+                        15.601988,
+                        56.201416
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "city",
     name: { de: "Karlskrona", hu: "Karlskrona", ro: "Karlskrona", en: "Karlskrona"},
@@ -1076,7 +1751,52 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
     },
   },
   {
-    id: "sweden-angelholm-cities-v2",
+    id: "sweden-angelholm-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sibirien stranden",
+                  "text": "Ein populärer Strand bei Ängelholm.",
+                  "category": "recreational",
+                  "coords": [
+                        12.81422,
+                        56.236907
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sibirien stranden",
+                  "text": "Népszerű strand Ängelholm közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        12.81422,
+                        56.236907
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sibirien stranden",
+                  "text": "O plajă populară lângă Ängelholm.",
+                  "category": "recreational",
+                  "coords": [
+                        12.81422,
+                        56.236907
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sibirien stranden",
+                  "text": "A popular beach near Ängelholm.",
+                  "category": "recreational",
+                  "coords": [
+                        12.81422,
+                        56.236907
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "town",
     name: { de: "Ängelholm", hu: "Ängelholm", ro: "Ängelholm", en: "Ängelholm"},
@@ -1123,7 +1843,52 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
     },
   },
   {
-    id: "sweden-katrineholm-cities-v2",
+    id: "sweden-katrineholm-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Duveholmsbadplats",
+                  "text": "Badestelle in Katrineholm.",
+                  "category": "recreational",
+                  "coords": [
+                        16.173969,
+                        58.98286
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Duveholmsbadplats",
+                  "text": "Fürdőhely Katrineholmban.",
+                  "category": "recreational",
+                  "coords": [
+                        16.173969,
+                        58.98286
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Duveholmsbadplats",
+                  "text": "Loc de îmbăiere în Katrineholm.",
+                  "category": "recreational",
+                  "coords": [
+                        16.173969,
+                        58.98286
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Duveholmsbadplats",
+                  "text": "Bathing spot in Katrineholm.",
+                  "category": "recreational",
+                  "coords": [
+                        16.173969,
+                        58.98286
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "town",
     name: { de: "Katrineholm", hu: "Katrineholm", ro: "Katrineholm", en: "Katrineholm"},
@@ -1170,7 +1935,88 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
     },
   },
   {
-    id: "sweden-vastervik-cities-v2",
+    id: "sweden-vastervik-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Breviksbadet",
+                  "text": "Ein Strand bei Västervik.",
+                  "category": "recreational",
+                  "coords": [
+                        16.623374,
+                        57.769261
+                  ]
+            },
+            {
+                  "name": "Sandviksbadet",
+                  "text": "Strand in der Nähe von Västervik.",
+                  "category": "recreational",
+                  "coords": [
+                        16.708054,
+                        57.737503
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Breviksbadet",
+                  "text": "Strand Västervik közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        16.623374,
+                        57.769261
+                  ]
+            },
+            {
+                  "name": "Sandviksbadet",
+                  "text": "Part Västervik közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        16.708054,
+                        57.737503
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Breviksbadet",
+                  "text": "O plajă lângă Västervik.",
+                  "category": "recreational",
+                  "coords": [
+                        16.623374,
+                        57.769261
+                  ]
+            },
+            {
+                  "name": "Sandviksbadet",
+                  "text": "Plajă în apropiere de Västervik.",
+                  "category": "recreational",
+                  "coords": [
+                        16.708054,
+                        57.737503
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Breviksbadet",
+                  "text": "A beach near Västervik.",
+                  "category": "recreational",
+                  "coords": [
+                        16.623374,
+                        57.769261
+                  ]
+            },
+            {
+                  "name": "Sandviksbadet",
+                  "text": "Beach near Västervik.",
+                  "category": "recreational",
+                  "coords": [
+                        16.708054,
+                        57.737503
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "city",
     name: { de: "Västervik", hu: "Västervik", ro: "Västervik", en: "Västervik"},
@@ -1264,7 +2110,52 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
     },
   },
   {
-    id: "sweden-hudiksvall-cities-v2",
+    id: "sweden-hudiksvall-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gräsmaln",
+                  "text": "Strand in der Nähe von Hudiksvall.",
+                  "category": "recreational",
+                  "coords": [
+                        17.161964,
+                        61.719827
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gräsmaln",
+                  "text": "Part Hudiksvall közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        17.161964,
+                        61.719827
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gräsmaln",
+                  "text": "Plajă în apropiere de Hudiksvall.",
+                  "category": "recreational",
+                  "coords": [
+                        17.161964,
+                        61.719827
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gräsmaln",
+                  "text": "Beach near Hudiksvall.",
+                  "category": "recreational",
+                  "coords": [
+                        17.161964,
+                        61.719827
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "town",
     name: { de: "Hudiksvall", hu: "Hudiksvall", ro: "Hudiksvall", en: "Hudiksvall"},
@@ -1499,7 +2390,52 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
     },
   },
   {
-    id: "sweden-ostersund-cities-v2",
+    id: "sweden-ostersund-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fiskarstranden",
+                  "text": "Fiskarstranden ist ein Badeplatz in Östersund.",
+                  "category": "recreational",
+                  "coords": [
+                        14.628602,
+                        63.203311
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fiskarstranden",
+                  "text": "Fiskarstranden egy strandfürdő Östersundban.",
+                  "category": "recreational",
+                  "coords": [
+                        14.628602,
+                        63.203311
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fiskarstranden",
+                  "text": "Fiskarstranden este o plajă în Östersund.",
+                  "category": "recreational",
+                  "coords": [
+                        14.628602,
+                        63.203311
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fiskarstranden",
+                  "text": "Fiskarstranden is a beach in Östersund.",
+                  "category": "recreational",
+                  "coords": [
+                        14.628602,
+                        63.203311
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "city",
     name: { de: "Östersund", hu: "Östersund", ro: "Östersund", en: "Östersund"},
@@ -1687,7 +2623,52 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
     },
   },
   {
-    id: "sweden-mariestad-cities-v2",
+    id: "sweden-mariestad-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sandvikens badplats",
+                  "text": "Badestelle in Sandviken bei Mariestad.",
+                  "category": "recreational",
+                  "coords": [
+                        13.751712,
+                        58.699628
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sandvikens badplats",
+                  "text": "Fürdőhely Sandvikenben, Mariestad közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        13.751712,
+                        58.699628
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sandvikens badplats",
+                  "text": "Loc de îmbăiere la Sandviken lângă Mariestad.",
+                  "category": "recreational",
+                  "coords": [
+                        13.751712,
+                        58.699628
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sandvikens badplats",
+                  "text": "Bathing spot at Sandviken near Mariestad.",
+                  "category": "recreational",
+                  "coords": [
+                        13.751712,
+                        58.699628
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "town",
     name: { de: "Mariestad", hu: "Mariestad", ro: "Mariestad", en: "Mariestad"},
@@ -2104,7 +3085,52 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
     image: "/poi-images/sweden-skovde-v2-cities-v2.webp",
   },
   {
-    id: "sweden-nassjo-cities-v2",
+    id: "sweden-nassjo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Adela Udde",
+                  "text": "Adela Udde ist ein Strand bei Nässjö.",
+                  "category": "recreational",
+                  "coords": [
+                        14.701629,
+                        57.642826
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Adela Udde",
+                  "text": "Adela Udde egy strand Nässjö közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        14.701629,
+                        57.642826
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Adela Udde",
+                  "text": "Adela Udde este o plajă lângă Nässjö.",
+                  "category": "recreational",
+                  "coords": [
+                        14.701629,
+                        57.642826
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Adela Udde",
+                  "text": "Adela Udde is a beach near Nässjö.",
+                  "category": "recreational",
+                  "coords": [
+                        14.701629,
+                        57.642826
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SE",
     name: { de: "Nässjö", hu: "Nässjö", ro: "Nässjö", en: "Nässjö" },
@@ -2149,7 +3175,52 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
     image: "/poi-images/sweden-nassjo-cities-v2.webp",
   },
   {
-    id: "sweden-karlshamn-v2-cities-v2",
+    id: "sweden-karlshamn-v2-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ekenäs Badplats",
+                  "text": "Strand in der Nähe von Karlshamn.",
+                  "category": "recreational",
+                  "coords": [
+                        15.280065,
+                        56.171729
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ekenäs Badplats",
+                  "text": "Part Karlshamn közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        15.280065,
+                        56.171729
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ekenäs Badplats",
+                  "text": "Plajă în apropiere de Karlshamn.",
+                  "category": "recreational",
+                  "coords": [
+                        15.280065,
+                        56.171729
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ekenäs Badplats",
+                  "text": "Beach near Karlshamn.",
+                  "category": "recreational",
+                  "coords": [
+                        15.280065,
+                        56.171729
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SE",
     name: { de: "Ronneby", hu: "Ronneby", ro: "Ronneby", en: "Ronneby" },
@@ -2374,7 +3445,52 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
     image: "/poi-images/sweden-granna-cities-v2.webp",
   },
   {
-    id: "sweden-trosa-cities-v2",
+    id: "sweden-trosa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Trosa Havsbad",
+                  "text": "Ein schöner Strand bei Trosa am Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        17.575854,
+                        58.871471
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Trosa Havsbad",
+                  "text": "Egy szép tengerparti strand Trosa közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        17.575854,
+                        58.871471
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Trosa Havsbad",
+                  "text": "O plajă frumoasă lângă Trosa.",
+                  "category": "recreational",
+                  "coords": [
+                        17.575854,
+                        58.871471
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Trosa Havsbad",
+                  "text": "A beautiful beach near Trosa.",
+                  "category": "recreational",
+                  "coords": [
+                        17.575854,
+                        58.871471
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SE",
     name: { de: "Trosa", hu: "Trosa", ro: "Trosa", en: "Trosa" },
@@ -2464,7 +3580,232 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
     image: "/poi-images/sweden-mariestad-v2-cities-v2.webp",
   },
   {
-    id: "sweden-vaxholm-cities-v2",
+    id: "sweden-vaxholm-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kadettbryggan",
+                  "text": "Ein Badeplatz bei Vaxholm.",
+                  "category": "recreational",
+                  "coords": [
+                        18.353929,
+                        59.431458
+                  ]
+            },
+            {
+                  "name": "Tenöbadet",
+                  "text": "Tenöbadet liegt bei Vaxholm im Stockholmer Schärengarten.",
+                  "category": "recreational",
+                  "coords": [
+                        18.330403,
+                        59.392584
+                  ]
+            },
+            {
+                  "name": "Eriksöbadet",
+                  "text": "Badestelle in Eriksö, Vaxholm.",
+                  "category": "recreational",
+                  "coords": [
+                        18.304678,
+                        59.404204
+                  ]
+            },
+            {
+                  "name": "Badviken",
+                  "text": "Strand in Vaxholm.",
+                  "category": "recreational",
+                  "coords": [
+                        18.309908,
+                        59.43385
+                  ]
+            },
+            {
+                  "name": "Måldepån",
+                  "text": "Strand in Vaxholm.",
+                  "category": "recreational",
+                  "coords": [
+                        18.430063,
+                        59.401109
+                  ]
+            },
+            {
+                  "name": "Grönviksbadet",
+                  "text": "Grönviksbadet ist ein Badeplatz in Vaxholm.",
+                  "category": "recreational",
+                  "coords": [
+                        18.41412,
+                        59.390465
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kadettbryggan",
+                  "text": "Fürdőhely Vaxholm közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.353929,
+                        59.431458
+                  ]
+            },
+            {
+                  "name": "Tenöbadet",
+                  "text": "Tenöbadet Vaxholm közelében, a stockholmi szigetvilágban található.",
+                  "category": "recreational",
+                  "coords": [
+                        18.330403,
+                        59.392584
+                  ]
+            },
+            {
+                  "name": "Eriksöbadet",
+                  "text": "Fürdőhely Eriksöben, Vaxholmban.",
+                  "category": "recreational",
+                  "coords": [
+                        18.304678,
+                        59.404204
+                  ]
+            },
+            {
+                  "name": "Badviken",
+                  "text": "Strand Vaxholmban.",
+                  "category": "recreational",
+                  "coords": [
+                        18.309908,
+                        59.43385
+                  ]
+            },
+            {
+                  "name": "Måldepån",
+                  "text": "Strand Vaxholmban.",
+                  "category": "recreational",
+                  "coords": [
+                        18.430063,
+                        59.401109
+                  ]
+            },
+            {
+                  "name": "Grönviksbadet",
+                  "text": "Grönviksbadet egy strandfürdő Vaxholmban.",
+                  "category": "recreational",
+                  "coords": [
+                        18.41412,
+                        59.390465
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kadettbryggan",
+                  "text": "Un loc de scăldat lângă Vaxholm.",
+                  "category": "recreational",
+                  "coords": [
+                        18.353929,
+                        59.431458
+                  ]
+            },
+            {
+                  "name": "Tenöbadet",
+                  "text": "Tenöbadet este situată lângă Vaxholm în arhipelagul Stockholm.",
+                  "category": "recreational",
+                  "coords": [
+                        18.330403,
+                        59.392584
+                  ]
+            },
+            {
+                  "name": "Eriksöbadet",
+                  "text": "Loc de îmbăiere la Eriksö, Vaxholm.",
+                  "category": "recreational",
+                  "coords": [
+                        18.304678,
+                        59.404204
+                  ]
+            },
+            {
+                  "name": "Badviken",
+                  "text": "Plajă în Vaxholm.",
+                  "category": "recreational",
+                  "coords": [
+                        18.309908,
+                        59.43385
+                  ]
+            },
+            {
+                  "name": "Måldepån",
+                  "text": "Plajă în Vaxholm.",
+                  "category": "recreational",
+                  "coords": [
+                        18.430063,
+                        59.401109
+                  ]
+            },
+            {
+                  "name": "Grönviksbadet",
+                  "text": "Grönviksbadet este o plajă în Vaxholm.",
+                  "category": "recreational",
+                  "coords": [
+                        18.41412,
+                        59.390465
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kadettbryggan",
+                  "text": "A swimming spot near Vaxholm.",
+                  "category": "recreational",
+                  "coords": [
+                        18.353929,
+                        59.431458
+                  ]
+            },
+            {
+                  "name": "Tenöbadet",
+                  "text": "Tenöbadet is located near Vaxholm in the Stockholm archipelago.",
+                  "category": "recreational",
+                  "coords": [
+                        18.330403,
+                        59.392584
+                  ]
+            },
+            {
+                  "name": "Eriksöbadet",
+                  "text": "Bathing spot at Eriksö, Vaxholm.",
+                  "category": "recreational",
+                  "coords": [
+                        18.304678,
+                        59.404204
+                  ]
+            },
+            {
+                  "name": "Badviken",
+                  "text": "Beach in Vaxholm.",
+                  "category": "recreational",
+                  "coords": [
+                        18.309908,
+                        59.43385
+                  ]
+            },
+            {
+                  "name": "Måldepån",
+                  "text": "Beach in Vaxholm.",
+                  "category": "recreational",
+                  "coords": [
+                        18.430063,
+                        59.401109
+                  ]
+            },
+            {
+                  "name": "Grönviksbadet",
+                  "text": "Grönviksbadet is a beach in Vaxholm.",
+                  "category": "recreational",
+                  "coords": [
+                        18.41412,
+                        59.390465
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SE",
     name: { de: "Vaxholm", hu: "Vaxholm", ro: "Vaxholm", en: "Vaxholm" },
@@ -2554,7 +3895,52 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
     image: "/poi-images/sweden-sundbyberg-cities-v2.webp",
   },
   {
-    id: "sweden-solna-cities-v2",
+    id: "sweden-solna-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Huvudsta strandbad",
+                  "text": "Strand in Solna.",
+                  "category": "recreational",
+                  "coords": [
+                        17.990457,
+                        59.3454
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Huvudsta strandbad",
+                  "text": "Strand Solnában.",
+                  "category": "recreational",
+                  "coords": [
+                        17.990457,
+                        59.3454
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Huvudsta strandbad",
+                  "text": "Plajă în Solna.",
+                  "category": "recreational",
+                  "coords": [
+                        17.990457,
+                        59.3454
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Huvudsta strandbad",
+                  "text": "Beach in Solna.",
+                  "category": "recreational",
+                  "coords": [
+                        17.990457,
+                        59.3454
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SE",
     name: { de: "Solna", hu: "Solna", ro: "Solna", en: "Solna" },
@@ -2599,7 +3985,88 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
     image: "/poi-images/sweden-solna-cities-v2.webp",
   },
   {
-    id: "sweden-lidingo-cities-v2",
+    id: "sweden-lidingo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fågelöuddebadet",
+                  "text": "Fågelöuddebadet ist ein Strand bei Lidingö.",
+                  "category": "recreational",
+                  "coords": [
+                        18.23074,
+                        59.376287
+                  ]
+            },
+            {
+                  "name": "Lilla viken",
+                  "text": "Lilla viken ist ein Strandabschnitt bei Lidingö.",
+                  "category": "recreational",
+                  "coords": [
+                        18.214256,
+                        59.363266
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fågelöuddebadet",
+                  "text": "Fågelöuddebadet egy strand Lidingö közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.23074,
+                        59.376287
+                  ]
+            },
+            {
+                  "name": "Lilla viken",
+                  "text": "Lilla viken egy partszakasz Lidingö közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.214256,
+                        59.363266
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fågelöuddebadet",
+                  "text": "Fågelöuddebadet este o plajă lângă Lidingö.",
+                  "category": "recreational",
+                  "coords": [
+                        18.23074,
+                        59.376287
+                  ]
+            },
+            {
+                  "name": "Lilla viken",
+                  "text": "Lilla viken este o zonă de plajă lângă Lidingö.",
+                  "category": "recreational",
+                  "coords": [
+                        18.214256,
+                        59.363266
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fågelöuddebadet",
+                  "text": "Fågelöuddebadet is a beach near Lidingö.",
+                  "category": "recreational",
+                  "coords": [
+                        18.23074,
+                        59.376287
+                  ]
+            },
+            {
+                  "name": "Lilla viken",
+                  "text": "Lilla viken is a beach area near Lidingö.",
+                  "category": "recreational",
+                  "coords": [
+                        18.214256,
+                        59.363266
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SE",
     name: { de: "Lidingö", hu: "Lidingö", ro: "Lidingö", en: "Lidingö" },
@@ -2644,7 +4111,124 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
     image: "/poi-images/sweden-lidingo-cities-v2.webp",
   },
   {
-    id: "sweden-nacka-cities-v2",
+    id: "sweden-nacka-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sickla strand",
+                  "text": "Ein Strand bei Nacka.",
+                  "category": "recreational",
+                  "coords": [
+                        18.12469,
+                        59.301911
+                  ]
+            },
+            {
+                  "name": "Bastusjöbadet",
+                  "text": "Badestelle am Bastusjön in Nacka.",
+                  "category": "recreational",
+                  "coords": [
+                        18.20695,
+                        59.317307
+                  ]
+            },
+            {
+                  "name": "Långsjöbadet",
+                  "text": "Badestelle am Långsjön in Nacka.",
+                  "category": "recreational",
+                  "coords": [
+                        18.188795,
+                        59.307733
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sickla strand",
+                  "text": "Strand Nacka közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.12469,
+                        59.301911
+                  ]
+            },
+            {
+                  "name": "Bastusjöbadet",
+                  "text": "Fürdőhely a Bastusjön tónál, Nackában.",
+                  "category": "recreational",
+                  "coords": [
+                        18.20695,
+                        59.317307
+                  ]
+            },
+            {
+                  "name": "Långsjöbadet",
+                  "text": "Fürdőhely a Långsjön tónál, Nackában.",
+                  "category": "recreational",
+                  "coords": [
+                        18.188795,
+                        59.307733
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sickla strand",
+                  "text": "O plajă lângă Nacka.",
+                  "category": "recreational",
+                  "coords": [
+                        18.12469,
+                        59.301911
+                  ]
+            },
+            {
+                  "name": "Bastusjöbadet",
+                  "text": "Loc de îmbăiere la lacul Bastusjön în Nacka.",
+                  "category": "recreational",
+                  "coords": [
+                        18.20695,
+                        59.317307
+                  ]
+            },
+            {
+                  "name": "Långsjöbadet",
+                  "text": "Loc de îmbăiere la lacul Långsjön în Nacka.",
+                  "category": "recreational",
+                  "coords": [
+                        18.188795,
+                        59.307733
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sickla strand",
+                  "text": "A beach near Nacka.",
+                  "category": "recreational",
+                  "coords": [
+                        18.12469,
+                        59.301911
+                  ]
+            },
+            {
+                  "name": "Bastusjöbadet",
+                  "text": "Bathing spot at Lake Bastusjön in Nacka.",
+                  "category": "recreational",
+                  "coords": [
+                        18.20695,
+                        59.317307
+                  ]
+            },
+            {
+                  "name": "Långsjöbadet",
+                  "text": "Bathing spot at Lake Långsjön in Nacka.",
+                  "category": "recreational",
+                  "coords": [
+                        18.188795,
+                        59.307733
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SE",
     name: { de: "Nacka", hu: "Nacka", ro: "Nacka", en: "Nacka" },
@@ -2689,7 +4273,52 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
     image: "/poi-images/sweden-nacka-cities-v2.webp",
   },
   {
-    id: "sweden-vallentuna-cities-v2",
+    id: "sweden-vallentuna-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gustavs Udde badplats",
+                  "text": "Badestrand Gustavs Udde in der Nähe von Vallentuna.",
+                  "category": "recreational",
+                  "coords": [
+                        18.063191,
+                        59.521069
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gustavs Udde badplats",
+                  "text": "Gustavs Udde strand, Vallentuna közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.063191,
+                        59.521069
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gustavs Udde badplats",
+                  "text": "Plaja Gustavs Udde lângă Vallentuna.",
+                  "category": "recreational",
+                  "coords": [
+                        18.063191,
+                        59.521069
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gustavs Udde badplats",
+                  "text": "Gustavs Udde beach near Vallentuna.",
+                  "category": "recreational",
+                  "coords": [
+                        18.063191,
+                        59.521069
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SE",
     name: { de: "Vallentuna", hu: "Vallentuna", ro: "Vallentuna", en: "Vallentuna" },
@@ -2734,7 +4363,88 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
     image: "/poi-images/sweden-vallentuna-cities-v2.webp",
   },
   {
-    id: "sweden-upplands-vasby-cities-v2",
+    id: "sweden-upplands-vasby-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Trollholmen",
+                  "text": "Strand in der Nähe von Upplands Väsby.",
+                  "category": "recreational",
+                  "coords": [
+                        17.928465,
+                        59.479985
+                  ]
+            },
+            {
+                  "name": "Bollstanäs strand",
+                  "text": "Strand in Upplands Väsby.",
+                  "category": "recreational",
+                  "coords": [
+                        17.96334,
+                        59.499654
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Trollholmen",
+                  "text": "Part Upplands Väsby közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        17.928465,
+                        59.479985
+                  ]
+            },
+            {
+                  "name": "Bollstanäs strand",
+                  "text": "Strand Upplands Väsby-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        17.96334,
+                        59.499654
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Trollholmen",
+                  "text": "Plajă în apropiere de Upplands Väsby.",
+                  "category": "recreational",
+                  "coords": [
+                        17.928465,
+                        59.479985
+                  ]
+            },
+            {
+                  "name": "Bollstanäs strand",
+                  "text": "Plajă în Upplands Väsby.",
+                  "category": "recreational",
+                  "coords": [
+                        17.96334,
+                        59.499654
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Trollholmen",
+                  "text": "Beach near Upplands Väsby.",
+                  "category": "recreational",
+                  "coords": [
+                        17.928465,
+                        59.479985
+                  ]
+            },
+            {
+                  "name": "Bollstanäs strand",
+                  "text": "Beach in Upplands Väsby.",
+                  "category": "recreational",
+                  "coords": [
+                        17.96334,
+                        59.499654
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SE",
     name: { de: "Upplands Väsby", hu: "Upplands Väsby", ro: "Upplands Väsby", en: "Upplands Väsby" },
@@ -2779,7 +4489,448 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
     image: "/poi-images/sweden-upplands-vasby-cities-v2.webp",
   },
   {
-    id: "sweden-tyreso-cities-v2",
+    id: "sweden-tyreso-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rakstabadet",
+                  "text": "Ein Strand bei Tyresö.",
+                  "category": "recreational",
+                  "coords": [
+                        18.301196,
+                        59.225678
+                  ]
+            },
+            {
+                  "name": "Mörtviksbadet",
+                  "text": "Ein Strand bei Tyresö.",
+                  "category": "recreational",
+                  "coords": [
+                        18.168258,
+                        59.218795
+                  ]
+            },
+            {
+                  "name": "Sjöängsbadet",
+                  "text": "Ein Strand bei Tyresö.",
+                  "category": "recreational",
+                  "coords": [
+                        18.158462,
+                        59.23473
+                  ]
+            },
+            {
+                  "name": "Flatenbadet",
+                  "text": "Flatenbadet ist ein Strand bei Tyresö.",
+                  "category": "recreational",
+                  "coords": [
+                        18.15969,
+                        59.25306
+                  ]
+            },
+            {
+                  "name": "Albybadet",
+                  "text": "Albybadet ist ein Strand bei Tyresö.",
+                  "category": "recreational",
+                  "coords": [
+                        18.276737,
+                        59.229493
+                  ]
+            },
+            {
+                  "name": "Erstaviksbadet",
+                  "text": "Erstaviksbadet ist ein Strand bei Tyresö.",
+                  "category": "recreational",
+                  "coords": [
+                        18.264738,
+                        59.269311
+                  ]
+            },
+            {
+                  "name": "Kumlabadet",
+                  "text": "Kumlabadet ist ein Strand bei Tyresö.",
+                  "category": "recreational",
+                  "coords": [
+                        18.19086,
+                        59.215039
+                  ]
+            },
+            {
+                  "name": "Fornuddsbadet",
+                  "text": "Fornuddsbadet ist ein Strand bei Tyresö.",
+                  "category": "recreational",
+                  "coords": [
+                        18.186798,
+                        59.215313
+                  ]
+            },
+            {
+                  "name": "Hästhagsbadet",
+                  "text": "Hästhagsbadet ist ein Strand bei Tyresö.",
+                  "category": "recreational",
+                  "coords": [
+                        18.185559,
+                        59.228355
+                  ]
+            },
+            {
+                  "name": "Strålsjöbadet",
+                  "text": "Strålsjöbadet ist ein Strand in der Gemeinde Tyresö.",
+                  "category": "recreational",
+                  "coords": [
+                        18.199412,
+                        59.267901
+                  ]
+            },
+            {
+                  "name": "Hoppbryggans bad",
+                  "text": "Strand in der Nähe von Tyresö.",
+                  "category": "recreational",
+                  "coords": [
+                        18.300789,
+                        59.247264
+                  ]
+            },
+            {
+                  "name": "Björkuddens bad",
+                  "text": "Strand in der Nähe von Tyresö.",
+                  "category": "recreational",
+                  "coords": [
+                        18.304404,
+                        59.246808
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rakstabadet",
+                  "text": "Strand Tyresö közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.301196,
+                        59.225678
+                  ]
+            },
+            {
+                  "name": "Mörtviksbadet",
+                  "text": "Strand Tyresö közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.168258,
+                        59.218795
+                  ]
+            },
+            {
+                  "name": "Sjöängsbadet",
+                  "text": "Strand Tyresö közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.158462,
+                        59.23473
+                  ]
+            },
+            {
+                  "name": "Flatenbadet",
+                  "text": "Flatenbadet egy strand Tyresö közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.15969,
+                        59.25306
+                  ]
+            },
+            {
+                  "name": "Albybadet",
+                  "text": "Albybadet egy strand Tyresö közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.276737,
+                        59.229493
+                  ]
+            },
+            {
+                  "name": "Erstaviksbadet",
+                  "text": "Erstaviksbadet egy strand Tyresö közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.264738,
+                        59.269311
+                  ]
+            },
+            {
+                  "name": "Kumlabadet",
+                  "text": "Kumlabadet egy strand Tyresö közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.19086,
+                        59.215039
+                  ]
+            },
+            {
+                  "name": "Fornuddsbadet",
+                  "text": "Fornuddsbadet egy strand Tyresö közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.186798,
+                        59.215313
+                  ]
+            },
+            {
+                  "name": "Hästhagsbadet",
+                  "text": "Hästhagsbadet egy strand Tyresö közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.185559,
+                        59.228355
+                  ]
+            },
+            {
+                  "name": "Strålsjöbadet",
+                  "text": "Strålsjöbadet egy strand Tyresö településen.",
+                  "category": "recreational",
+                  "coords": [
+                        18.199412,
+                        59.267901
+                  ]
+            },
+            {
+                  "name": "Hoppbryggans bad",
+                  "text": "Part Tyresö közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.300789,
+                        59.247264
+                  ]
+            },
+            {
+                  "name": "Björkuddens bad",
+                  "text": "Part Tyresö közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.304404,
+                        59.246808
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rakstabadet",
+                  "text": "O plajă lângă Tyresö.",
+                  "category": "recreational",
+                  "coords": [
+                        18.301196,
+                        59.225678
+                  ]
+            },
+            {
+                  "name": "Mörtviksbadet",
+                  "text": "O plajă lângă Tyresö.",
+                  "category": "recreational",
+                  "coords": [
+                        18.168258,
+                        59.218795
+                  ]
+            },
+            {
+                  "name": "Sjöängsbadet",
+                  "text": "O plajă lângă Tyresö.",
+                  "category": "recreational",
+                  "coords": [
+                        18.158462,
+                        59.23473
+                  ]
+            },
+            {
+                  "name": "Flatenbadet",
+                  "text": "Flatenbadet este o plajă lângă Tyresö.",
+                  "category": "recreational",
+                  "coords": [
+                        18.15969,
+                        59.25306
+                  ]
+            },
+            {
+                  "name": "Albybadet",
+                  "text": "Albybadet este o plajă lângă Tyresö.",
+                  "category": "recreational",
+                  "coords": [
+                        18.276737,
+                        59.229493
+                  ]
+            },
+            {
+                  "name": "Erstaviksbadet",
+                  "text": "Erstaviksbadet este o plajă lângă Tyresö.",
+                  "category": "recreational",
+                  "coords": [
+                        18.264738,
+                        59.269311
+                  ]
+            },
+            {
+                  "name": "Kumlabadet",
+                  "text": "Kumlabadet este o plajă lângă Tyresö.",
+                  "category": "recreational",
+                  "coords": [
+                        18.19086,
+                        59.215039
+                  ]
+            },
+            {
+                  "name": "Fornuddsbadet",
+                  "text": "Fornuddsbadet este o plajă lângă Tyresö.",
+                  "category": "recreational",
+                  "coords": [
+                        18.186798,
+                        59.215313
+                  ]
+            },
+            {
+                  "name": "Hästhagsbadet",
+                  "text": "Hästhagsbadet este o plajă lângă Tyresö.",
+                  "category": "recreational",
+                  "coords": [
+                        18.185559,
+                        59.228355
+                  ]
+            },
+            {
+                  "name": "Strålsjöbadet",
+                  "text": "Strålsjöbadet este o plajă în comuna Tyresö.",
+                  "category": "recreational",
+                  "coords": [
+                        18.199412,
+                        59.267901
+                  ]
+            },
+            {
+                  "name": "Hoppbryggans bad",
+                  "text": "Plajă în apropiere de Tyresö.",
+                  "category": "recreational",
+                  "coords": [
+                        18.300789,
+                        59.247264
+                  ]
+            },
+            {
+                  "name": "Björkuddens bad",
+                  "text": "Plajă în apropiere de Tyresö.",
+                  "category": "recreational",
+                  "coords": [
+                        18.304404,
+                        59.246808
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rakstabadet",
+                  "text": "A beach near Tyresö.",
+                  "category": "recreational",
+                  "coords": [
+                        18.301196,
+                        59.225678
+                  ]
+            },
+            {
+                  "name": "Mörtviksbadet",
+                  "text": "A beach near Tyresö.",
+                  "category": "recreational",
+                  "coords": [
+                        18.168258,
+                        59.218795
+                  ]
+            },
+            {
+                  "name": "Sjöängsbadet",
+                  "text": "A beach near Tyresö.",
+                  "category": "recreational",
+                  "coords": [
+                        18.158462,
+                        59.23473
+                  ]
+            },
+            {
+                  "name": "Flatenbadet",
+                  "text": "Flatenbadet is a beach near Tyresö.",
+                  "category": "recreational",
+                  "coords": [
+                        18.15969,
+                        59.25306
+                  ]
+            },
+            {
+                  "name": "Albybadet",
+                  "text": "Albybadet is a beach near Tyresö.",
+                  "category": "recreational",
+                  "coords": [
+                        18.276737,
+                        59.229493
+                  ]
+            },
+            {
+                  "name": "Erstaviksbadet",
+                  "text": "Erstaviksbadet is a beach near Tyresö.",
+                  "category": "recreational",
+                  "coords": [
+                        18.264738,
+                        59.269311
+                  ]
+            },
+            {
+                  "name": "Kumlabadet",
+                  "text": "Kumlabadet is a beach near Tyresö.",
+                  "category": "recreational",
+                  "coords": [
+                        18.19086,
+                        59.215039
+                  ]
+            },
+            {
+                  "name": "Fornuddsbadet",
+                  "text": "Fornuddsbadet is a beach near Tyresö.",
+                  "category": "recreational",
+                  "coords": [
+                        18.186798,
+                        59.215313
+                  ]
+            },
+            {
+                  "name": "Hästhagsbadet",
+                  "text": "Hästhagsbadet is a beach near Tyresö.",
+                  "category": "recreational",
+                  "coords": [
+                        18.185559,
+                        59.228355
+                  ]
+            },
+            {
+                  "name": "Strålsjöbadet",
+                  "text": "Strålsjöbadet is a beach in the Tyresö municipality.",
+                  "category": "recreational",
+                  "coords": [
+                        18.199412,
+                        59.267901
+                  ]
+            },
+            {
+                  "name": "Hoppbryggans bad",
+                  "text": "Beach near Tyresö.",
+                  "category": "recreational",
+                  "coords": [
+                        18.300789,
+                        59.247264
+                  ]
+            },
+            {
+                  "name": "Björkuddens bad",
+                  "text": "Beach near Tyresö.",
+                  "category": "recreational",
+                  "coords": [
+                        18.304404,
+                        59.246808
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SE",
     name: { de: "Tyresö", hu: "Tyresö", ro: "Tyresö", en: "Tyresö" },
@@ -2824,7 +4975,88 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
     image: "/poi-images/sweden-tyreso-cities-v2.webp",
   },
   {
-    id: "sweden-jarfalla-cities-v2",
+    id: "sweden-jarfalla-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lövstabadet",
+                  "text": "Lövstabadet ist ein Strand bei Järfälla.",
+                  "category": "recreational",
+                  "coords": [
+                        17.780714,
+                        59.387861
+                  ]
+            },
+            {
+                  "name": "Kallhällsbadet",
+                  "text": "Kallhällsbadet ist ein beliebter Strand in Järfälla.",
+                  "category": "recreational",
+                  "coords": [
+                        17.792666,
+                        59.452215
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lövstabadet",
+                  "text": "Lövstabadet egy strand Järfälla közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        17.780714,
+                        59.387861
+                  ]
+            },
+            {
+                  "name": "Kallhällsbadet",
+                  "text": "Kallhällsbadet egy népszerű strand Järfällában.",
+                  "category": "recreational",
+                  "coords": [
+                        17.792666,
+                        59.452215
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lövstabadet",
+                  "text": "Lövstabadet este o plajă lângă Järfälla.",
+                  "category": "recreational",
+                  "coords": [
+                        17.780714,
+                        59.387861
+                  ]
+            },
+            {
+                  "name": "Kallhällsbadet",
+                  "text": "Kallhällsbadet este o plajă populară în Järfälla.",
+                  "category": "recreational",
+                  "coords": [
+                        17.792666,
+                        59.452215
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lövstabadet",
+                  "text": "Lövstabadet is a beach near Järfälla.",
+                  "category": "recreational",
+                  "coords": [
+                        17.780714,
+                        59.387861
+                  ]
+            },
+            {
+                  "name": "Kallhällsbadet",
+                  "text": "Kallhällsbadet is a popular beach in Järfälla.",
+                  "category": "recreational",
+                  "coords": [
+                        17.792666,
+                        59.452215
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SE",
     name: { de: "Järfälla", hu: "Järfälla", ro: "Järfälla", en: "Järfälla" },
@@ -2869,7 +5101,88 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
     image: "/poi-images/sweden-jarfalla-cities-v2.webp",
   },
   {
-    id: "sweden-huddinge-cities-v2",
+    id: "sweden-huddinge-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Långsjöbadet",
+                  "text": "Ein Strand bei Huddinge.",
+                  "category": "recreational",
+                  "coords": [
+                        17.975212,
+                        59.264961
+                  ]
+            },
+            {
+                  "name": "Gömmarens badplats",
+                  "text": "Gömmarens badplats liegt am See Gömmaren in Huddinge.",
+                  "category": "recreational",
+                  "coords": [
+                        17.925466,
+                        59.251797
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Långsjöbadet",
+                  "text": "Strand Huddinge közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        17.975212,
+                        59.264961
+                  ]
+            },
+            {
+                  "name": "Gömmarens badplats",
+                  "text": "Gömmarens badplats a Gömmaren-tó mellett található Huddingében.",
+                  "category": "recreational",
+                  "coords": [
+                        17.925466,
+                        59.251797
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Långsjöbadet",
+                  "text": "O plajă lângă Huddinge.",
+                  "category": "recreational",
+                  "coords": [
+                        17.975212,
+                        59.264961
+                  ]
+            },
+            {
+                  "name": "Gömmarens badplats",
+                  "text": "Gömmarens badplats este situată pe lacul Gömmaren în Huddinge.",
+                  "category": "recreational",
+                  "coords": [
+                        17.925466,
+                        59.251797
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Långsjöbadet",
+                  "text": "A beach near Huddinge.",
+                  "category": "recreational",
+                  "coords": [
+                        17.975212,
+                        59.264961
+                  ]
+            },
+            {
+                  "name": "Gömmarens badplats",
+                  "text": "Gömmarens badplats is located at Lake Gömmaren in Huddinge.",
+                  "category": "recreational",
+                  "coords": [
+                        17.925466,
+                        59.251797
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SE",
     name: { de: "Huddinge", hu: "Huddinge", ro: "Huddinge", en: "Huddinge" },
@@ -2959,7 +5272,196 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
     image: "/poi-images/sweden-botkyrka-cities-v2.webp",
   },
   {
-    id: "sweden-haninge-cities-v2",
+    id: "sweden-haninge-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rudan strand",
+                  "text": "Rudan strand ist ein Strand bei Haninge.",
+                  "category": "recreational",
+                  "coords": [
+                        18.131471,
+                        59.165904
+                  ]
+            },
+            {
+                  "name": "Rudan norra strand (Lillrudan)",
+                  "text": "Rudan norra strand ist ein Badestrand bei Haninge.",
+                  "category": "recreational",
+                  "coords": [
+                        18.136389,
+                        59.171387
+                  ]
+            },
+            {
+                  "name": "Hundbadet",
+                  "text": "Hundestrand in Haninge.",
+                  "category": "recreational",
+                  "coords": [
+                        18.155166,
+                        59.201872
+                  ]
+            },
+            {
+                  "name": "Norrby Holme",
+                  "text": "Norrby Holme ist eine Badestelle in Haninge.",
+                  "category": "recreational",
+                  "coords": [
+                        18.157183,
+                        59.200596
+                  ]
+            },
+            {
+                  "name": "Lilla rudan badplats",
+                  "text": "Lilla Rudan ist eine Badestelle in der Nähe von Haninge.",
+                  "category": "recreational",
+                  "coords": [
+                        18.128561,
+                        59.161733
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rudan strand",
+                  "text": "Rudan strand egy strand Haninge közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.131471,
+                        59.165904
+                  ]
+            },
+            {
+                  "name": "Rudan norra strand (Lillrudan)",
+                  "text": "Rudan norra strand egy fürdőhely Haninge közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.136389,
+                        59.171387
+                  ]
+            },
+            {
+                  "name": "Hundbadet",
+                  "text": "Kutyastrand Haningében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.155166,
+                        59.201872
+                  ]
+            },
+            {
+                  "name": "Norrby Holme",
+                  "text": "Norrby Holme egy strandfürdő Haningében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.157183,
+                        59.200596
+                  ]
+            },
+            {
+                  "name": "Lilla rudan badplats",
+                  "text": "Lilla Rudan egy strandfürdő Haninge közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.128561,
+                        59.161733
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rudan strand",
+                  "text": "Rudan strand este o plajă lângă Haninge.",
+                  "category": "recreational",
+                  "coords": [
+                        18.131471,
+                        59.165904
+                  ]
+            },
+            {
+                  "name": "Rudan norra strand (Lillrudan)",
+                  "text": "Rudan norra strand este o plajă lângă Haninge.",
+                  "category": "recreational",
+                  "coords": [
+                        18.136389,
+                        59.171387
+                  ]
+            },
+            {
+                  "name": "Hundbadet",
+                  "text": "Plajă pentru câini în Haninge.",
+                  "category": "recreational",
+                  "coords": [
+                        18.155166,
+                        59.201872
+                  ]
+            },
+            {
+                  "name": "Norrby Holme",
+                  "text": "Norrby Holme este o zonă de plajă în Haninge.",
+                  "category": "recreational",
+                  "coords": [
+                        18.157183,
+                        59.200596
+                  ]
+            },
+            {
+                  "name": "Lilla rudan badplats",
+                  "text": "Lilla Rudan este o zonă de plajă lângă Haninge.",
+                  "category": "recreational",
+                  "coords": [
+                        18.128561,
+                        59.161733
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rudan strand",
+                  "text": "Rudan strand is a beach near Haninge.",
+                  "category": "recreational",
+                  "coords": [
+                        18.131471,
+                        59.165904
+                  ]
+            },
+            {
+                  "name": "Rudan norra strand (Lillrudan)",
+                  "text": "Rudan norra strand is a swimming beach near Haninge.",
+                  "category": "recreational",
+                  "coords": [
+                        18.136389,
+                        59.171387
+                  ]
+            },
+            {
+                  "name": "Hundbadet",
+                  "text": "Dog beach in Haninge.",
+                  "category": "recreational",
+                  "coords": [
+                        18.155166,
+                        59.201872
+                  ]
+            },
+            {
+                  "name": "Norrby Holme",
+                  "text": "Norrby Holme is a swimming area in Haninge.",
+                  "category": "recreational",
+                  "coords": [
+                        18.157183,
+                        59.200596
+                  ]
+            },
+            {
+                  "name": "Lilla rudan badplats",
+                  "text": "Lilla Rudan is a swimming area near Haninge.",
+                  "category": "recreational",
+                  "coords": [
+                        18.128561,
+                        59.161733
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SE",
     name: { de: "Haninge", hu: "Haninge", ro: "Haninge", en: "Haninge" },

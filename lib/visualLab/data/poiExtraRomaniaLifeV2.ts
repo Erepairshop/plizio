@@ -183,7 +183,52 @@ export const romaniaLifeV2: POI[] = [
     image: "/poi-images/romania-rezervatia-tinovul-mohos-life-v2.webp",
   },
   {
-    id: "romania-parcul-natural-balta-mica-a-brailei-life-v2",
+    id: "romania-parcul-natural-balta-mica-a-brailei-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plaja naturală Măgureni",
+                  "text": "Natürlicher Strand im Naturpark Balta Mică a Brăilei.",
+                  "category": "recreational",
+                  "coords": [
+                        27.905396,
+                        44.774535
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plaja naturală Măgureni",
+                  "text": "Természetes strand a Balta Mică a Brăilei Natúrparkban.",
+                  "category": "recreational",
+                  "coords": [
+                        27.905396,
+                        44.774535
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plaja naturală Măgureni",
+                  "text": "Plajă naturală situată în Parcul Natural Balta Mică a Brăilei.",
+                  "category": "recreational",
+                  "coords": [
+                        27.905396,
+                        44.774535
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plaja naturală Măgureni",
+                  "text": "Natural beach located in the Balta Mică a Brăilei Natural Park.",
+                  "category": "recreational",
+                  "coords": [
+                        27.905396,
+                        44.774535
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "RO",
     name: { de: "Naturpark Balta Mică a Brăilei", hu: "Kis-Braila-szigeti Natúrpark", ro: "Parcul Natural Balta Mică a Brăilei", en: "Balta Mică a Brăilei Natural Park" },

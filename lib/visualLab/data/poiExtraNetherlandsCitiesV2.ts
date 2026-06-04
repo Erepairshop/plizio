@@ -3,7 +3,268 @@ import { POI } from './poi';
 export const netherlandsCitiesV2: POI[] = [
 
   {
-    id: "netherlands-almere-cities-v2",
+    id: "netherlands-almere-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Surfstrand Almere Haven",
+                  "text": "Surfstrand in Almere Haven.",
+                  "category": "recreational",
+                  "coords": [
+                        5.205273,
+                        52.335098
+                  ]
+            },
+            {
+                  "name": "Stedenwijkstrand",
+                  "text": "Stedenwijkstrand in Almere.",
+                  "category": "recreational",
+                  "coords": [
+                        5.213725,
+                        52.365785
+                  ]
+            },
+            {
+                  "name": "Zwemstrand Almere Haven",
+                  "text": "Zwemstrand in Almere Haven.",
+                  "category": "recreational",
+                  "coords": [
+                        5.211119,
+                        52.332874
+                  ]
+            },
+            {
+                  "name": "Lumièrestrand",
+                  "text": "Lumièrestrand in Almere.",
+                  "category": "recreational",
+                  "coords": [
+                        5.23452,
+                        52.362558
+                  ]
+            },
+            {
+                  "name": "Fantasiestrand",
+                  "text": "Fantasiestrand in Almere.",
+                  "category": "recreational",
+                  "coords": [
+                        5.216808,
+                        52.35779
+                  ]
+            },
+            {
+                  "name": "'t Hoofdstrand",
+                  "text": "'t Hoofdstrand in Almere.",
+                  "category": "recreational",
+                  "coords": [
+                        5.21286,
+                        52.394288
+                  ]
+            },
+            {
+                  "name": "Noordenplassenstrand",
+                  "text": "Noordenplassenstrand in Almere.",
+                  "category": "recreational",
+                  "coords": [
+                        5.221926,
+                        52.394512
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Surfstrand Almere Haven",
+                  "text": "Surfstrand Almere Havenban.",
+                  "category": "recreational",
+                  "coords": [
+                        5.205273,
+                        52.335098
+                  ]
+            },
+            {
+                  "name": "Stedenwijkstrand",
+                  "text": "Stedenwijkstrand Almere városában.",
+                  "category": "recreational",
+                  "coords": [
+                        5.213725,
+                        52.365785
+                  ]
+            },
+            {
+                  "name": "Zwemstrand Almere Haven",
+                  "text": "Zwemstrand Almere Havenban.",
+                  "category": "recreational",
+                  "coords": [
+                        5.211119,
+                        52.332874
+                  ]
+            },
+            {
+                  "name": "Lumièrestrand",
+                  "text": "Lumièrestrand Almere városában.",
+                  "category": "recreational",
+                  "coords": [
+                        5.23452,
+                        52.362558
+                  ]
+            },
+            {
+                  "name": "Fantasiestrand",
+                  "text": "Fantasiestrand Almere városában.",
+                  "category": "recreational",
+                  "coords": [
+                        5.216808,
+                        52.35779
+                  ]
+            },
+            {
+                  "name": "'t Hoofdstrand",
+                  "text": "'t Hoofdstrand Almere városában.",
+                  "category": "recreational",
+                  "coords": [
+                        5.21286,
+                        52.394288
+                  ]
+            },
+            {
+                  "name": "Noordenplassenstrand",
+                  "text": "Noordenplassenstrand Almere városában.",
+                  "category": "recreational",
+                  "coords": [
+                        5.221926,
+                        52.394512
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Surfstrand Almere Haven",
+                  "text": "Surfstrand în Almere Haven.",
+                  "category": "recreational",
+                  "coords": [
+                        5.205273,
+                        52.335098
+                  ]
+            },
+            {
+                  "name": "Stedenwijkstrand",
+                  "text": "Stedenwijkstrand în Almere.",
+                  "category": "recreational",
+                  "coords": [
+                        5.213725,
+                        52.365785
+                  ]
+            },
+            {
+                  "name": "Zwemstrand Almere Haven",
+                  "text": "Zwemstrand în Almere Haven.",
+                  "category": "recreational",
+                  "coords": [
+                        5.211119,
+                        52.332874
+                  ]
+            },
+            {
+                  "name": "Lumièrestrand",
+                  "text": "Lumièrestrand în Almere.",
+                  "category": "recreational",
+                  "coords": [
+                        5.23452,
+                        52.362558
+                  ]
+            },
+            {
+                  "name": "Fantasiestrand",
+                  "text": "Fantasiestrand în Almere.",
+                  "category": "recreational",
+                  "coords": [
+                        5.216808,
+                        52.35779
+                  ]
+            },
+            {
+                  "name": "'t Hoofdstrand",
+                  "text": "'t Hoofdstrand în Almere.",
+                  "category": "recreational",
+                  "coords": [
+                        5.21286,
+                        52.394288
+                  ]
+            },
+            {
+                  "name": "Noordenplassenstrand",
+                  "text": "Noordenplassenstrand în Almere.",
+                  "category": "recreational",
+                  "coords": [
+                        5.221926,
+                        52.394512
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Surfstrand Almere Haven",
+                  "text": "Surfstrand in Almere Haven.",
+                  "category": "recreational",
+                  "coords": [
+                        5.205273,
+                        52.335098
+                  ]
+            },
+            {
+                  "name": "Stedenwijkstrand",
+                  "text": "Stedenwijkstrand in Almere.",
+                  "category": "recreational",
+                  "coords": [
+                        5.213725,
+                        52.365785
+                  ]
+            },
+            {
+                  "name": "Zwemstrand Almere Haven",
+                  "text": "Zwemstrand in Almere Haven.",
+                  "category": "recreational",
+                  "coords": [
+                        5.211119,
+                        52.332874
+                  ]
+            },
+            {
+                  "name": "Lumièrestrand",
+                  "text": "Lumièrestrand in Almere.",
+                  "category": "recreational",
+                  "coords": [
+                        5.23452,
+                        52.362558
+                  ]
+            },
+            {
+                  "name": "Fantasiestrand",
+                  "text": "Fantasiestrand in Almere.",
+                  "category": "recreational",
+                  "coords": [
+                        5.216808,
+                        52.35779
+                  ]
+            },
+            {
+                  "name": "'t Hoofdstrand",
+                  "text": "'t Hoofdstrand in Almere.",
+                  "category": "recreational",
+                  "coords": [
+                        5.21286,
+                        52.394288
+                  ]
+            },
+            {
+                  "name": "Noordenplassenstrand",
+                  "text": "Noordenplassenstrand in Almere.",
+                  "category": "recreational",
+                  "coords": [
+                        5.221926,
+                        52.394512
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NL",
     name: { de: "Almere", hu: "Almere", ro: "Almere", en: "Almere" },
@@ -183,7 +444,268 @@ export const netherlandsCitiesV2: POI[] = [
     image: "/poi-images/netherlands-zoetermeer-cities-v2.webp",
   },
   {
-    id: "netherlands-zaanstad-cities-v2",
+    id: "netherlands-zaanstad-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kure-Janstrand",
+                  "text": "Kure-Janstrand in Zaanstad.",
+                  "category": "recreational",
+                  "coords": [
+                        4.89446,
+                        52.456029
+                  ]
+            },
+            {
+                  "name": "Speelsloot",
+                  "text": "Speelsloot Strand in Zaanstad.",
+                  "category": "recreational",
+                  "coords": [
+                        4.897793,
+                        52.460966
+                  ]
+            },
+            {
+                  "name": "Vennegatstrand",
+                  "text": "Vennegatstrand in Zaanstad.",
+                  "category": "recreational",
+                  "coords": [
+                        4.893879,
+                        52.441297
+                  ]
+            },
+            {
+                  "name": "Doesstrand",
+                  "text": "Doesstrand in Zaanstad.",
+                  "category": "recreational",
+                  "coords": [
+                        4.893637,
+                        52.438365
+                  ]
+            },
+            {
+                  "name": "De Leers",
+                  "text": "De Leers Strand in Zaanstad.",
+                  "category": "recreational",
+                  "coords": [
+                        4.886101,
+                        52.450549
+                  ]
+            },
+            {
+                  "name": "'t Schoorlstrand",
+                  "text": "'t Schoorlstrand in Zaanstad.",
+                  "category": "recreational",
+                  "coords": [
+                        4.880428,
+                        52.452535
+                  ]
+            },
+            {
+                  "name": "Baaiegatstrand Naturistenstrand",
+                  "text": "FKK-Strand in der Region Zaanstad, ein ruhiger Ort am Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        4.88224,
+                        52.455875
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kure-Janstrand",
+                  "text": "Kure-Janstrand strand Zaanstadban.",
+                  "category": "recreational",
+                  "coords": [
+                        4.89446,
+                        52.456029
+                  ]
+            },
+            {
+                  "name": "Speelsloot",
+                  "text": "Speelsloot strand Zaanstadban.",
+                  "category": "recreational",
+                  "coords": [
+                        4.897793,
+                        52.460966
+                  ]
+            },
+            {
+                  "name": "Vennegatstrand",
+                  "text": "Vennegatstrand strand Zaanstadban.",
+                  "category": "recreational",
+                  "coords": [
+                        4.893879,
+                        52.441297
+                  ]
+            },
+            {
+                  "name": "Doesstrand",
+                  "text": "Doesstrand strand Zaanstadban.",
+                  "category": "recreational",
+                  "coords": [
+                        4.893637,
+                        52.438365
+                  ]
+            },
+            {
+                  "name": "De Leers",
+                  "text": "De Leers strand Zaanstadban.",
+                  "category": "recreational",
+                  "coords": [
+                        4.886101,
+                        52.450549
+                  ]
+            },
+            {
+                  "name": "'t Schoorlstrand",
+                  "text": "'t Schoorlstrand strand Zaanstadban.",
+                  "category": "recreational",
+                  "coords": [
+                        4.880428,
+                        52.452535
+                  ]
+            },
+            {
+                  "name": "Baaiegatstrand Naturistenstrand",
+                  "text": "Naturista strand Zaanstad régióban, csendes vízparti hely.",
+                  "category": "recreational",
+                  "coords": [
+                        4.88224,
+                        52.455875
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kure-Janstrand",
+                  "text": "Kure-Janstrand în Zaanstad.",
+                  "category": "recreational",
+                  "coords": [
+                        4.89446,
+                        52.456029
+                  ]
+            },
+            {
+                  "name": "Speelsloot",
+                  "text": "Speelsloot în Zaanstad.",
+                  "category": "recreational",
+                  "coords": [
+                        4.897793,
+                        52.460966
+                  ]
+            },
+            {
+                  "name": "Vennegatstrand",
+                  "text": "Vennegatstrand în Zaanstad.",
+                  "category": "recreational",
+                  "coords": [
+                        4.893879,
+                        52.441297
+                  ]
+            },
+            {
+                  "name": "Doesstrand",
+                  "text": "Doesstrand în Zaanstad.",
+                  "category": "recreational",
+                  "coords": [
+                        4.893637,
+                        52.438365
+                  ]
+            },
+            {
+                  "name": "De Leers",
+                  "text": "De Leers în Zaanstad.",
+                  "category": "recreational",
+                  "coords": [
+                        4.886101,
+                        52.450549
+                  ]
+            },
+            {
+                  "name": "'t Schoorlstrand",
+                  "text": "'t Schoorlstrand în Zaanstad.",
+                  "category": "recreational",
+                  "coords": [
+                        4.880428,
+                        52.452535
+                  ]
+            },
+            {
+                  "name": "Baaiegatstrand Naturistenstrand",
+                  "text": "Plajă de nudiști în regiunea Zaanstad, un loc liniștit pe malul apei.",
+                  "category": "recreational",
+                  "coords": [
+                        4.88224,
+                        52.455875
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kure-Janstrand",
+                  "text": "Kure-Janstrand in Zaanstad.",
+                  "category": "recreational",
+                  "coords": [
+                        4.89446,
+                        52.456029
+                  ]
+            },
+            {
+                  "name": "Speelsloot",
+                  "text": "Speelsloot in Zaanstad.",
+                  "category": "recreational",
+                  "coords": [
+                        4.897793,
+                        52.460966
+                  ]
+            },
+            {
+                  "name": "Vennegatstrand",
+                  "text": "Vennegatstrand in Zaanstad.",
+                  "category": "recreational",
+                  "coords": [
+                        4.893879,
+                        52.441297
+                  ]
+            },
+            {
+                  "name": "Doesstrand",
+                  "text": "Doesstrand in Zaanstad.",
+                  "category": "recreational",
+                  "coords": [
+                        4.893637,
+                        52.438365
+                  ]
+            },
+            {
+                  "name": "De Leers",
+                  "text": "De Leers in Zaanstad.",
+                  "category": "recreational",
+                  "coords": [
+                        4.886101,
+                        52.450549
+                  ]
+            },
+            {
+                  "name": "'t Schoorlstrand",
+                  "text": "'t Schoorlstrand in Zaanstad.",
+                  "category": "recreational",
+                  "coords": [
+                        4.880428,
+                        52.452535
+                  ]
+            },
+            {
+                  "name": "Baaiegatstrand Naturistenstrand",
+                  "text": "Naturist beach in the Zaanstad region, a quiet spot by the water.",
+                  "category": "recreational",
+                  "coords": [
+                        4.88224,
+                        52.455875
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NL",
     name: { de: "Zaanstad", hu: "Zaanstad", ro: "Zaanstad", en: "Zaanstad" },
@@ -228,7 +750,88 @@ export const netherlandsCitiesV2: POI[] = [
     image: "/poi-images/netherlands-zaanstad-cities-v2.webp",
   },
   {
-    id: "netherlands-hoofddorp-cities-v2",
+    id: "netherlands-hoofddorp-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Strand Noord",
+                  "text": "Strand Noord bei Hoofddorp.",
+                  "category": "recreational",
+                  "coords": [
+                        4.649809,
+                        52.300687
+                  ]
+            },
+            {
+                  "name": "Grote Strand",
+                  "text": "Grote Strand in der Nähe von Hoofddorp.",
+                  "category": "recreational",
+                  "coords": [
+                        4.670889,
+                        52.325013
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Strand Noord",
+                  "text": "Strand Noord strand, Hoofddorp közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        4.649809,
+                        52.300687
+                  ]
+            },
+            {
+                  "name": "Grote Strand",
+                  "text": "Grote Strand strand a Hoofddorp közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        4.670889,
+                        52.325013
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Strand Noord",
+                  "text": "Plaja Noord, lângă Hoofddorp.",
+                  "category": "recreational",
+                  "coords": [
+                        4.649809,
+                        52.300687
+                  ]
+            },
+            {
+                  "name": "Grote Strand",
+                  "text": "Plaja Grote Strand lângă Hoofddorp.",
+                  "category": "recreational",
+                  "coords": [
+                        4.670889,
+                        52.325013
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Strand Noord",
+                  "text": "Strand Noord near Hoofddorp.",
+                  "category": "recreational",
+                  "coords": [
+                        4.649809,
+                        52.300687
+                  ]
+            },
+            {
+                  "name": "Grote Strand",
+                  "text": "Grote Strand beach near Hoofddorp.",
+                  "category": "recreational",
+                  "coords": [
+                        4.670889,
+                        52.325013
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NL",
     name: { de: "Hoofddorp", hu: "Hoofddorp", ro: "Hoofddorp", en: "Hoofddorp" },
@@ -462,6 +1065,465 @@ export const netherlandsCitiesV2: POI[] = [
                         5.79556,
                         53.2025
                   ]
+            },
+            {
+                  "name": "Fries Landbouwmuseum",
+                  "text": "Das Fries Landbouwmuseum in Leeuwarden zeigt landwirtschaftliche Geschichte.",
+                  "category": "museum",
+                  "coords": [
+                        5.789545,
+                        53.179296
+                  ]
+            },
+            {
+                  "name": "Historisch Centrum Leeuwarden",
+                  "text": "Das Historisch Centrum Leeuwarden ist ein Museum zur Stadtgeschichte.",
+                  "category": "museum",
+                  "coords": [
+                        5.791559,
+                        53.203938
+                  ]
+            },
+            {
+                  "name": "Poptaslot - Azingastate - Heringastate",
+                  "text": "Das Poptaslot bei Leeuwarden ist ein historisches Schlossmuseum.",
+                  "category": "museum",
+                  "coords": [
+                        5.729028,
+                        53.209689
+                  ]
+            },
+            {
+                  "name": "Huis Van Eysinga",
+                  "text": "Das Huis Van Eysinga ist ein Museum in Leeuwarden.",
+                  "category": "museum",
+                  "coords": [
+                        5.80086,
+                        53.202637
+                  ]
+            },
+            {
+                  "name": "Pier Pandertempel",
+                  "text": "Der Pier Pandertempel in Leeuwarden ist ein spezialisiertes Museum.",
+                  "category": "museum",
+                  "coords": [
+                        5.788795,
+                        53.203954
+                  ]
+            },
+            {
+                  "name": "Dekemastate",
+                  "text": "Die Dekemastate ist ein historisches Schloss bei Leeuwarden.",
+                  "category": "castle",
+                  "coords": [
+                        5.783602,
+                        53.233225
+                  ]
+            },
+            {
+                  "name": "Natuurmuseum Fryslân",
+                  "text": "Das Natuurmuseum Fryslân in Leeuwarden zeigt die Natur der Region.",
+                  "category": "museum",
+                  "coords": [
+                        5.795955,
+                        53.204155
+                  ]
+            },
+            {
+                  "name": "Agneskerk",
+                  "text": "Die Agneskerk ist ein Gotteshaus bei Leeuwarden.",
+                  "category": "religious",
+                  "coords": [
+                        5.806829,
+                        53.178524
+                  ]
+            },
+            {
+                  "name": "Terpzigt",
+                  "text": "Terpzigt ist eine historische Windmühle in Leeuwarden.",
+                  "category": "landmark",
+                  "coords": [
+                        5.724506,
+                        53.204151
+                  ]
+            },
+            {
+                  "name": "Kramersmolen",
+                  "text": "Kramersmolen ist eine Windmühle in Leeuwarden.",
+                  "category": "landmark",
+                  "coords": [
+                        5.764975,
+                        53.175923
+                  ]
+            },
+            {
+                  "name": "Molen Hoogland",
+                  "text": "Molen Hoogland ist eine Windmühle in Leeuwarden.",
+                  "category": "landmark",
+                  "coords": [
+                        5.763497,
+                        53.175722
+                  ]
+            },
+            {
+                  "name": "Vrouwenpoortsbrug",
+                  "text": "Vrouwenpoortsbrug ist eine Brücke in Leeuwarden.",
+                  "category": "landmark",
+                  "coords": [
+                        5.788262,
+                        53.202536
+                  ]
+            },
+            {
+                  "name": "Museum de Grutterswinkel",
+                  "text": "Museum de Grutterswinkel ist ein Museum in Leeuwarden.",
+                  "category": "museum",
+                  "coords": [
+                        5.793368,
+                        53.201671
+                  ]
+            },
+            {
+                  "name": "Stadsschouwburg de Harmonie",
+                  "text": "Stadsschouwburg de Harmonie ist ein Theater in Leeuwarden.",
+                  "category": "cultural",
+                  "coords": [
+                        5.790079,
+                        53.200128
+                  ]
+            },
+            {
+                  "name": "De Schakel",
+                  "text": "De Schakel ist ein Gotteshaus in Leeuwarden.",
+                  "category": "religious",
+                  "coords": [
+                        5.836666,
+                        53.210673
+                  ]
+            },
+            {
+                  "name": "Masjied Assalam",
+                  "text": "Masjied Assalam ist ein Gotteshaus in Leeuwarden.",
+                  "category": "religious",
+                  "coords": [
+                        5.822939,
+                        53.204368
+                  ]
+            },
+            {
+                  "name": "Sint-Pontianuskerk",
+                  "text": "Sint-Pontianuskerk ist ein Gotteshaus in Leeuwarden.",
+                  "category": "religious",
+                  "coords": [
+                        5.727862,
+                        53.210738
+                  ]
+            },
+            {
+                  "name": "De Deur",
+                  "text": "De Deur ist ein Gotteshaus in Leeuwarden.",
+                  "category": "religious",
+                  "coords": [
+                        5.817865,
+                        53.193261
+                  ]
+            },
+            {
+                  "name": "Bethelkerk",
+                  "text": "Bethelkerk ist ein Gotteshaus in Leeuwarden.",
+                  "category": "religious",
+                  "coords": [
+                        5.803411,
+                        53.192806
+                  ]
+            },
+            {
+                  "name": "De Morgenster",
+                  "text": "De Morgenster ist ein Gotteshaus in Leeuwarden.",
+                  "category": "religious",
+                  "coords": [
+                        5.814857,
+                        53.212482
+                  ]
+            },
+            {
+                  "name": "Uitzichtgemeente",
+                  "text": "Die Uitzichtgemeente ist ein Gotteshaus in Leeuwarden.",
+                  "category": "religious",
+                  "coords": [
+                        5.818219,
+                        53.20977
+                  ]
+            },
+            {
+                  "name": "Adventkerk",
+                  "text": "Die Adventkerk ist ein Gotteshaus in Leeuwarden.",
+                  "category": "religious",
+                  "coords": [
+                        5.802678,
+                        53.213645
+                  ]
+            },
+            {
+                  "name": "De Fontein",
+                  "text": "De Fontein ist ein Gotteshaus in Leeuwarden.",
+                  "category": "religious",
+                  "coords": [
+                        5.802589,
+                        53.21167
+                  ]
+            },
+            {
+                  "name": "Messiaanse Gemeente Rehoboth",
+                  "text": "Die Messiaanse Gemeente Rehoboth ist ein Gotteshaus in Leeuwarden.",
+                  "category": "religious",
+                  "coords": [
+                        5.809222,
+                        53.20446
+                  ]
+            },
+            {
+                  "name": "Ceciliakerk",
+                  "text": "Die Ceciliakerk ist ein Gotteshaus in Leeuwarden.",
+                  "category": "religious",
+                  "coords": [
+                        5.819315,
+                        53.226451
+                  ]
+            },
+            {
+                  "name": "ISN Ulu Moskee",
+                  "text": "Die ISN Ulu Moskee ist ein islamisches Gotteshaus in Leeuwarden.",
+                  "category": "religious",
+                  "coords": [
+                        5.804099,
+                        53.202931
+                  ]
+            },
+            {
+                  "name": "Evangelisch-Lutherse kerk",
+                  "text": "Die Evangelisch-Lutherse kerk ist ein historisches Gotteshaus in Leeuwarden.",
+                  "category": "religious",
+                  "coords": [
+                        5.801733,
+                        53.200565
+                  ]
+            },
+            {
+                  "name": "Galileakapel",
+                  "text": "Die Galileakapel ist ein Gotteshaus in Leeuwarden.",
+                  "category": "religious",
+                  "coords": [
+                        5.80215,
+                        53.20236
+                  ]
+            },
+            {
+                  "name": "Nieuw-Apostolische Kerk",
+                  "text": "Die Nieuw-Apostolische Kerk ist ein Gotteshaus in Leeuwarden.",
+                  "category": "religious",
+                  "coords": [
+                        5.803766,
+                        53.199796
+                  ]
+            },
+            {
+                  "name": "Sint-Dominicuskerk",
+                  "text": "Die Sint-Dominicuskerk ist ein Gotteshaus in Leeuwarden.",
+                  "category": "religious",
+                  "coords": [
+                        5.785392,
+                        53.203485
+                  ]
+            },
+            {
+                  "name": "Pelikaankerk",
+                  "text": "Die Pelikaankerk ist ein Gotteshaus in Leeuwarden.",
+                  "category": "religious",
+                  "coords": [
+                        5.785781,
+                        53.205462
+                  ]
+            },
+            {
+                  "name": "Kurioskerk",
+                  "text": "Die Kurioskerk ist ein Gotteshaus in Leeuwarden.",
+                  "category": "religious",
+                  "coords": [
+                        5.787729,
+                        53.189158
+                  ]
+            },
+            {
+                  "name": "Verlaatsbrug",
+                  "text": "Die Verlaatsbrug ist eine Brücke in Leeuwarden.",
+                  "category": "landmark",
+                  "coords": [
+                        5.787652,
+                        53.198022
+                  ]
+            },
+            {
+                  "name": "Hermesbrug",
+                  "text": "Die Hermesbrug ist eine Brücke in Leeuwarden.",
+                  "category": "landmark",
+                  "coords": [
+                        5.774552,
+                        53.19785
+                  ]
+            },
+            {
+                  "name": "Hoeksterpijp",
+                  "text": "Die Hoeksterpijp ist eine Brücke in Leeuwarden.",
+                  "category": "landmark",
+                  "coords": [
+                        5.801094,
+                        53.205548
+                  ]
+            },
+            {
+                  "name": "Wirdumerpoortsbrug",
+                  "text": "Die Wirdumerpoortsbrug ist eine Brücke in Leeuwarden.",
+                  "category": "landmark",
+                  "coords": [
+                        5.796694,
+                        53.198337
+                  ]
+            },
+            {
+                  "name": "1e Kanaalsbrug",
+                  "text": "Die 1e Kanaalsbrug ist eine Brücke in Leeuwarden.",
+                  "category": "landmark",
+                  "coords": [
+                        5.802719,
+                        53.199446
+                  ]
+            },
+            {
+                  "name": "Noorderbrug",
+                  "text": "Die Noorderbrug ist eine Brücke in Leeuwarden.",
+                  "category": "landmark",
+                  "coords": [
+                        5.796882,
+                        53.206313
+                  ]
+            },
+            {
+                  "name": "Greunsbrug",
+                  "text": "Die Greunsbrug ist eine Brücke in Leeuwarden.",
+                  "category": "landmark",
+                  "coords": [
+                        5.835877,
+                        53.192974
+                  ]
+            },
+            {
+                  "name": "Oosterbrug",
+                  "text": "Die Oosterbrug ist eine Brücke in Leeuwarden.",
+                  "category": "landmark",
+                  "coords": [
+                        5.802768,
+                        53.200666
+                  ]
+            },
+            {
+                  "name": "Toren",
+                  "text": "Der Toren ist ein Turm in Leeuwarden.",
+                  "category": "tower",
+                  "coords": [
+                        5.80807,
+                        53.201098
+                  ]
+            },
+            {
+                  "name": "Dr. Zamenhofpark",
+                  "text": "Der Dr. Zamenhofpark ist eine öffentliche Grünanlage in Leeuwarden.",
+                  "category": "park",
+                  "coords": [
+                        5.815274,
+                        53.209025
+                  ]
+            },
+            {
+                  "name": "Westerpark",
+                  "text": "Der Westerpark ist eine erholsame Parkanlage in Leeuwarden.",
+                  "category": "park",
+                  "coords": [
+                        5.785653,
+                        53.201383
+                  ]
+            },
+            {
+                  "name": "Noorderplantage",
+                  "text": "Die Noorderplantage ist eine historische Parkanlage in Leeuwarden.",
+                  "category": "park",
+                  "coords": [
+                        5.790056,
+                        53.203792
+                  ]
+            },
+            {
+                  "name": "Rengerspark",
+                  "text": "Der Rengerspark ist eine Grünfläche zur Erholung in Leeuwarden.",
+                  "category": "park",
+                  "coords": [
+                        5.793146,
+                        53.208493
+                  ]
+            },
+            {
+                  "name": "Abbingapark",
+                  "text": "Der Abbingapark ist eine öffentliche Parkanlage in Leeuwarden.",
+                  "category": "park",
+                  "coords": [
+                        5.81093,
+                        53.189873
+                  ]
+            },
+            {
+                  "name": "Museumhaven Leeuwarden",
+                  "text": "Das Museumhaven Leeuwarden zeigt historische Schiffe in Leeuwarden.",
+                  "category": "museum",
+                  "coords": [
+                        5.794746,
+                        53.198293
+                  ]
+            },
+            {
+                  "name": "Traditiekamer Vliegbasis Leeuwarden",
+                  "text": "Die Traditiekamer Vliegbasis Leeuwarden widmet sich der Geschichte des Flugplatzes.",
+                  "category": "museum",
+                  "coords": [
+                        5.766853,
+                        53.221214
+                  ]
+            },
+            {
+                  "name": "Galerie De Roos van Tudor",
+                  "text": "Die Galerie De Roos van Tudor ist eine Kunstgalerie in Leeuwarden.",
+                  "category": "museum",
+                  "coords": [
+                        5.796884,
+                        53.202839
+                  ]
+            },
+            {
+                  "name": "Peter van der Griend",
+                  "text": "Die Peter van der Griend Galerie ist ein Ausstellungsort für Kunst in Leeuwarden.",
+                  "category": "museum",
+                  "coords": [
+                        5.791162,
+                        53.201622
+                  ]
+            },
+            {
+                  "name": "VHDG",
+                  "text": "VHDG ist eine Galerie für zeitgenössische Kunst in Leeuwarden.",
+                  "category": "museum",
+                  "coords": [
+                        5.79725,
+                        53.201098
+                  ]
             }
       ],
       "hu": [
@@ -563,6 +1625,465 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         5.79556,
                         53.2025
+                  ]
+            },
+            {
+                  "name": "Fries Landbouwmuseum",
+                  "text": "A leeuwardeni Fries Landbouwmuseum a mezőgazdaság történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        5.789545,
+                        53.179296
+                  ]
+            },
+            {
+                  "name": "Historisch Centrum Leeuwarden",
+                  "text": "A Historisch Centrum Leeuwarden egy városi múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        5.791559,
+                        53.203938
+                  ]
+            },
+            {
+                  "name": "Poptaslot - Azingastate - Heringastate",
+                  "text": "A leeuwardeni Poptaslot egy történelmi kastélymúzeum.",
+                  "category": "museum",
+                  "coords": [
+                        5.729028,
+                        53.209689
+                  ]
+            },
+            {
+                  "name": "Huis Van Eysinga",
+                  "text": "A Huis Van Eysinga egy múzeum Leeuwardenben.",
+                  "category": "museum",
+                  "coords": [
+                        5.80086,
+                        53.202637
+                  ]
+            },
+            {
+                  "name": "Pier Pandertempel",
+                  "text": "A leeuwardeni Pier Pandertempel egy speciális múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        5.788795,
+                        53.203954
+                  ]
+            },
+            {
+                  "name": "Dekemastate",
+                  "text": "A Dekemastate egy történelmi kastély Leeuwarden közelében.",
+                  "category": "castle",
+                  "coords": [
+                        5.783602,
+                        53.233225
+                  ]
+            },
+            {
+                  "name": "Natuurmuseum Fryslân",
+                  "text": "A leeuwardeni Natuurmuseum Fryslân a régió természetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        5.795955,
+                        53.204155
+                  ]
+            },
+            {
+                  "name": "Agneskerk",
+                  "text": "Az Agneskerk egy templom Leeuwarden közelében.",
+                  "category": "religious",
+                  "coords": [
+                        5.806829,
+                        53.178524
+                  ]
+            },
+            {
+                  "name": "Terpzigt",
+                  "text": "A Terpzigt egy történelmi szélmalom Leeuwardenben.",
+                  "category": "landmark",
+                  "coords": [
+                        5.724506,
+                        53.204151
+                  ]
+            },
+            {
+                  "name": "Kramersmolen",
+                  "text": "A Kramersmolen egy szélmalom Leeuwardenben.",
+                  "category": "landmark",
+                  "coords": [
+                        5.764975,
+                        53.175923
+                  ]
+            },
+            {
+                  "name": "Molen Hoogland",
+                  "text": "A Molen Hoogland egy szélmalom Leeuwardenben.",
+                  "category": "landmark",
+                  "coords": [
+                        5.763497,
+                        53.175722
+                  ]
+            },
+            {
+                  "name": "Vrouwenpoortsbrug",
+                  "text": "A Vrouwenpoortsbrug egy híd Leeuwardenben.",
+                  "category": "landmark",
+                  "coords": [
+                        5.788262,
+                        53.202536
+                  ]
+            },
+            {
+                  "name": "Museum de Grutterswinkel",
+                  "text": "A Museum de Grutterswinkel egy múzeum Leeuwardenben.",
+                  "category": "museum",
+                  "coords": [
+                        5.793368,
+                        53.201671
+                  ]
+            },
+            {
+                  "name": "Stadsschouwburg de Harmonie",
+                  "text": "A Stadsschouwburg de Harmonie egy színház Leeuwardenben.",
+                  "category": "cultural",
+                  "coords": [
+                        5.790079,
+                        53.200128
+                  ]
+            },
+            {
+                  "name": "De Schakel",
+                  "text": "A De Schakel egy istentiszteleti hely Leeuwardenben.",
+                  "category": "religious",
+                  "coords": [
+                        5.836666,
+                        53.210673
+                  ]
+            },
+            {
+                  "name": "Masjied Assalam",
+                  "text": "A Masjied Assalam egy istentiszteleti hely Leeuwardenben.",
+                  "category": "religious",
+                  "coords": [
+                        5.822939,
+                        53.204368
+                  ]
+            },
+            {
+                  "name": "Sint-Pontianuskerk",
+                  "text": "A Sint-Pontianuskerk egy istentiszteleti hely Leeuwardenben.",
+                  "category": "religious",
+                  "coords": [
+                        5.727862,
+                        53.210738
+                  ]
+            },
+            {
+                  "name": "De Deur",
+                  "text": "A De Deur egy istentiszteleti hely Leeuwardenben.",
+                  "category": "religious",
+                  "coords": [
+                        5.817865,
+                        53.193261
+                  ]
+            },
+            {
+                  "name": "Bethelkerk",
+                  "text": "A Bethelkerk egy istentiszteleti hely Leeuwardenben.",
+                  "category": "religious",
+                  "coords": [
+                        5.803411,
+                        53.192806
+                  ]
+            },
+            {
+                  "name": "De Morgenster",
+                  "text": "A De Morgenster egy istentiszteleti hely Leeuwardenben.",
+                  "category": "religious",
+                  "coords": [
+                        5.814857,
+                        53.212482
+                  ]
+            },
+            {
+                  "name": "Uitzichtgemeente",
+                  "text": "A leeuwardeni Uitzichtgemeente egy istentiszteleti hely.",
+                  "category": "religious",
+                  "coords": [
+                        5.818219,
+                        53.20977
+                  ]
+            },
+            {
+                  "name": "Adventkerk",
+                  "text": "A leeuwardeni Adventkerk egy istentiszteleti hely.",
+                  "category": "religious",
+                  "coords": [
+                        5.802678,
+                        53.213645
+                  ]
+            },
+            {
+                  "name": "De Fontein",
+                  "text": "A leeuwardeni De Fontein egy istentiszteleti hely.",
+                  "category": "religious",
+                  "coords": [
+                        5.802589,
+                        53.21167
+                  ]
+            },
+            {
+                  "name": "Messiaanse Gemeente Rehoboth",
+                  "text": "A leeuwardeni Messiaanse Gemeente Rehoboth egy istentiszteleti hely.",
+                  "category": "religious",
+                  "coords": [
+                        5.809222,
+                        53.20446
+                  ]
+            },
+            {
+                  "name": "Ceciliakerk",
+                  "text": "A leeuwardeni Ceciliakerk egy istentiszteleti hely.",
+                  "category": "religious",
+                  "coords": [
+                        5.819315,
+                        53.226451
+                  ]
+            },
+            {
+                  "name": "ISN Ulu Moskee",
+                  "text": "A leeuwardeni ISN Ulu Moskee egy iszlám imaház.",
+                  "category": "religious",
+                  "coords": [
+                        5.804099,
+                        53.202931
+                  ]
+            },
+            {
+                  "name": "Evangelisch-Lutherse kerk",
+                  "text": "Az evangélikus lutheránus templom (Evangelisch-Lutherse kerk) egy történelmi istentiszteleti hely Leeuwardenben.",
+                  "category": "religious",
+                  "coords": [
+                        5.801733,
+                        53.200565
+                  ]
+            },
+            {
+                  "name": "Galileakapel",
+                  "text": "A leeuwardeni Galileakapel egy istentiszteleti hely.",
+                  "category": "religious",
+                  "coords": [
+                        5.80215,
+                        53.20236
+                  ]
+            },
+            {
+                  "name": "Nieuw-Apostolische Kerk",
+                  "text": "A leeuwardeni Nieuw-Apostolische Kerk egy istentiszteleti hely.",
+                  "category": "religious",
+                  "coords": [
+                        5.803766,
+                        53.199796
+                  ]
+            },
+            {
+                  "name": "Sint-Dominicuskerk",
+                  "text": "A leeuwardeni Sint-Dominicuskerk egy istentiszteleti hely.",
+                  "category": "religious",
+                  "coords": [
+                        5.785392,
+                        53.203485
+                  ]
+            },
+            {
+                  "name": "Pelikaankerk",
+                  "text": "A leeuwardeni Pelikaankerk egy istentiszteleti hely.",
+                  "category": "religious",
+                  "coords": [
+                        5.785781,
+                        53.205462
+                  ]
+            },
+            {
+                  "name": "Kurioskerk",
+                  "text": "A Kurioskerk egy istentiszteleti hely Leeuwardenben.",
+                  "category": "religious",
+                  "coords": [
+                        5.787729,
+                        53.189158
+                  ]
+            },
+            {
+                  "name": "Verlaatsbrug",
+                  "text": "A Verlaatsbrug egy híd Leeuwardenben.",
+                  "category": "landmark",
+                  "coords": [
+                        5.787652,
+                        53.198022
+                  ]
+            },
+            {
+                  "name": "Hermesbrug",
+                  "text": "A Hermesbrug egy híd Leeuwardenben.",
+                  "category": "landmark",
+                  "coords": [
+                        5.774552,
+                        53.19785
+                  ]
+            },
+            {
+                  "name": "Hoeksterpijp",
+                  "text": "A Hoeksterpijp egy híd Leeuwardenben.",
+                  "category": "landmark",
+                  "coords": [
+                        5.801094,
+                        53.205548
+                  ]
+            },
+            {
+                  "name": "Wirdumerpoortsbrug",
+                  "text": "A Wirdumerpoortsbrug egy híd Leeuwardenben.",
+                  "category": "landmark",
+                  "coords": [
+                        5.796694,
+                        53.198337
+                  ]
+            },
+            {
+                  "name": "1e Kanaalsbrug",
+                  "text": "Az 1e Kanaalsbrug egy híd Leeuwardenben.",
+                  "category": "landmark",
+                  "coords": [
+                        5.802719,
+                        53.199446
+                  ]
+            },
+            {
+                  "name": "Noorderbrug",
+                  "text": "A Noorderbrug egy híd Leeuwardenben.",
+                  "category": "landmark",
+                  "coords": [
+                        5.796882,
+                        53.206313
+                  ]
+            },
+            {
+                  "name": "Greunsbrug",
+                  "text": "A Greunsbrug egy híd Leeuwardenben.",
+                  "category": "landmark",
+                  "coords": [
+                        5.835877,
+                        53.192974
+                  ]
+            },
+            {
+                  "name": "Oosterbrug",
+                  "text": "Az Oosterbrug egy híd Leeuwardenben.",
+                  "category": "landmark",
+                  "coords": [
+                        5.802768,
+                        53.200666
+                  ]
+            },
+            {
+                  "name": "Toren",
+                  "text": "A Toren egy torony Leeuwardenben.",
+                  "category": "tower",
+                  "coords": [
+                        5.80807,
+                        53.201098
+                  ]
+            },
+            {
+                  "name": "Dr. Zamenhofpark",
+                  "text": "A Dr. Zamenhofpark egy nyilvános zöldterület Leeuwarden városában.",
+                  "category": "park",
+                  "coords": [
+                        5.815274,
+                        53.209025
+                  ]
+            },
+            {
+                  "name": "Westerpark",
+                  "text": "A Westerpark egy pihentető park Leeuwardenben.",
+                  "category": "park",
+                  "coords": [
+                        5.785653,
+                        53.201383
+                  ]
+            },
+            {
+                  "name": "Noorderplantage",
+                  "text": "A Noorderplantage egy történelmi park Leeuwarden városában.",
+                  "category": "park",
+                  "coords": [
+                        5.790056,
+                        53.203792
+                  ]
+            },
+            {
+                  "name": "Rengerspark",
+                  "text": "A Rengerspark egy pihenésre szolgáló zöldterület Leeuwardenben.",
+                  "category": "park",
+                  "coords": [
+                        5.793146,
+                        53.208493
+                  ]
+            },
+            {
+                  "name": "Abbingapark",
+                  "text": "Az Abbingapark egy nyilvános park Leeuwardenben.",
+                  "category": "park",
+                  "coords": [
+                        5.81093,
+                        53.189873
+                  ]
+            },
+            {
+                  "name": "Museumhaven Leeuwarden",
+                  "text": "A Museumhaven Leeuwarden történelmi hajókat mutat be Leeuwardenben.",
+                  "category": "museum",
+                  "coords": [
+                        5.794746,
+                        53.198293
+                  ]
+            },
+            {
+                  "name": "Traditiekamer Vliegbasis Leeuwarden",
+                  "text": "A Traditiekamer Vliegbasis Leeuwarden a repülőtér történetével foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        5.766853,
+                        53.221214
+                  ]
+            },
+            {
+                  "name": "Galerie De Roos van Tudor",
+                  "text": "A Galerie De Roos van Tudor egy művészeti galéria Leeuwardenben.",
+                  "category": "museum",
+                  "coords": [
+                        5.796884,
+                        53.202839
+                  ]
+            },
+            {
+                  "name": "Peter van der Griend",
+                  "text": "A Peter van der Griend galéria egy művészeti kiállítóhely Leeuwardenben.",
+                  "category": "museum",
+                  "coords": [
+                        5.791162,
+                        53.201622
+                  ]
+            },
+            {
+                  "name": "VHDG",
+                  "text": "A VHDG egy kortárs művészeti galéria Leeuwardenben.",
+                  "category": "museum",
+                  "coords": [
+                        5.79725,
+                        53.201098
                   ]
             }
       ],
@@ -666,6 +2187,465 @@ export const netherlandsCitiesV2: POI[] = [
                         5.79556,
                         53.2025
                   ]
+            },
+            {
+                  "name": "Fries Landbouwmuseum",
+                  "text": "Muzeul Fries Landbouwmuseum din Leeuwarden prezintă istoria agricolă.",
+                  "category": "museum",
+                  "coords": [
+                        5.789545,
+                        53.179296
+                  ]
+            },
+            {
+                  "name": "Historisch Centrum Leeuwarden",
+                  "text": "Historisch Centrum Leeuwarden este un muzeu dedicat istoriei orașului.",
+                  "category": "museum",
+                  "coords": [
+                        5.791559,
+                        53.203938
+                  ]
+            },
+            {
+                  "name": "Poptaslot - Azingastate - Heringastate",
+                  "text": "Poptaslot, situat lângă Leeuwarden, este un muzeu-castel istoric.",
+                  "category": "museum",
+                  "coords": [
+                        5.729028,
+                        53.209689
+                  ]
+            },
+            {
+                  "name": "Huis Van Eysinga",
+                  "text": "Huis Van Eysinga este un muzeu situat în Leeuwarden.",
+                  "category": "museum",
+                  "coords": [
+                        5.80086,
+                        53.202637
+                  ]
+            },
+            {
+                  "name": "Pier Pandertempel",
+                  "text": "Pier Pandertempel din Leeuwarden este un muzeu specializat.",
+                  "category": "museum",
+                  "coords": [
+                        5.788795,
+                        53.203954
+                  ]
+            },
+            {
+                  "name": "Dekemastate",
+                  "text": "Dekemastate este un castel istoric situat lângă Leeuwarden.",
+                  "category": "castle",
+                  "coords": [
+                        5.783602,
+                        53.233225
+                  ]
+            },
+            {
+                  "name": "Natuurmuseum Fryslân",
+                  "text": "Natuurmuseum Fryslân din Leeuwarden expune natura regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        5.795955,
+                        53.204155
+                  ]
+            },
+            {
+                  "name": "Agneskerk",
+                  "text": "Agneskerk este un lăcaș de cult situat lângă Leeuwarden.",
+                  "category": "religious",
+                  "coords": [
+                        5.806829,
+                        53.178524
+                  ]
+            },
+            {
+                  "name": "Terpzigt",
+                  "text": "Terpzigt este o moară de vânt istorică din Leeuwarden.",
+                  "category": "landmark",
+                  "coords": [
+                        5.724506,
+                        53.204151
+                  ]
+            },
+            {
+                  "name": "Kramersmolen",
+                  "text": "Kramersmolen este o moară de vânt din Leeuwarden.",
+                  "category": "landmark",
+                  "coords": [
+                        5.764975,
+                        53.175923
+                  ]
+            },
+            {
+                  "name": "Molen Hoogland",
+                  "text": "Molen Hoogland este o moară de vânt din Leeuwarden.",
+                  "category": "landmark",
+                  "coords": [
+                        5.763497,
+                        53.175722
+                  ]
+            },
+            {
+                  "name": "Vrouwenpoortsbrug",
+                  "text": "Vrouwenpoortsbrug este un pod din Leeuwarden.",
+                  "category": "landmark",
+                  "coords": [
+                        5.788262,
+                        53.202536
+                  ]
+            },
+            {
+                  "name": "Museum de Grutterswinkel",
+                  "text": "Museum de Grutterswinkel este un muzeu din Leeuwarden.",
+                  "category": "museum",
+                  "coords": [
+                        5.793368,
+                        53.201671
+                  ]
+            },
+            {
+                  "name": "Stadsschouwburg de Harmonie",
+                  "text": "Stadsschouwburg de Harmonie este un teatru din Leeuwarden.",
+                  "category": "cultural",
+                  "coords": [
+                        5.790079,
+                        53.200128
+                  ]
+            },
+            {
+                  "name": "De Schakel",
+                  "text": "De Schakel este un lăcaș de cult din Leeuwarden.",
+                  "category": "religious",
+                  "coords": [
+                        5.836666,
+                        53.210673
+                  ]
+            },
+            {
+                  "name": "Masjied Assalam",
+                  "text": "Masjied Assalam este un lăcaș de cult din Leeuwarden.",
+                  "category": "religious",
+                  "coords": [
+                        5.822939,
+                        53.204368
+                  ]
+            },
+            {
+                  "name": "Sint-Pontianuskerk",
+                  "text": "Sint-Pontianuskerk este un lăcaș de cult din Leeuwarden.",
+                  "category": "religious",
+                  "coords": [
+                        5.727862,
+                        53.210738
+                  ]
+            },
+            {
+                  "name": "De Deur",
+                  "text": "De Deur este un lăcaș de cult din Leeuwarden.",
+                  "category": "religious",
+                  "coords": [
+                        5.817865,
+                        53.193261
+                  ]
+            },
+            {
+                  "name": "Bethelkerk",
+                  "text": "Bethelkerk este un lăcaș de cult din Leeuwarden.",
+                  "category": "religious",
+                  "coords": [
+                        5.803411,
+                        53.192806
+                  ]
+            },
+            {
+                  "name": "De Morgenster",
+                  "text": "De Morgenster este un lăcaș de cult din Leeuwarden.",
+                  "category": "religious",
+                  "coords": [
+                        5.814857,
+                        53.212482
+                  ]
+            },
+            {
+                  "name": "Uitzichtgemeente",
+                  "text": "Uitzichtgemeente este un lăcaș de cult din Leeuwarden.",
+                  "category": "religious",
+                  "coords": [
+                        5.818219,
+                        53.20977
+                  ]
+            },
+            {
+                  "name": "Adventkerk",
+                  "text": "Adventkerk este un lăcaș de cult din Leeuwarden.",
+                  "category": "religious",
+                  "coords": [
+                        5.802678,
+                        53.213645
+                  ]
+            },
+            {
+                  "name": "De Fontein",
+                  "text": "De Fontein este un lăcaș de cult din Leeuwarden.",
+                  "category": "religious",
+                  "coords": [
+                        5.802589,
+                        53.21167
+                  ]
+            },
+            {
+                  "name": "Messiaanse Gemeente Rehoboth",
+                  "text": "Messiaanse Gemeente Rehoboth este un lăcaș de cult din Leeuwarden.",
+                  "category": "religious",
+                  "coords": [
+                        5.809222,
+                        53.20446
+                  ]
+            },
+            {
+                  "name": "Ceciliakerk",
+                  "text": "Ceciliakerk este un lăcaș de cult din Leeuwarden.",
+                  "category": "religious",
+                  "coords": [
+                        5.819315,
+                        53.226451
+                  ]
+            },
+            {
+                  "name": "ISN Ulu Moskee",
+                  "text": "ISN Ulu Moskee este un lăcaș de cult islamic din Leeuwarden.",
+                  "category": "religious",
+                  "coords": [
+                        5.804099,
+                        53.202931
+                  ]
+            },
+            {
+                  "name": "Evangelisch-Lutherse kerk",
+                  "text": "Evangelisch-Lutherse kerk este un lăcaș de cult istoric din Leeuwarden.",
+                  "category": "religious",
+                  "coords": [
+                        5.801733,
+                        53.200565
+                  ]
+            },
+            {
+                  "name": "Galileakapel",
+                  "text": "Galileakapel este un lăcaș de cult din Leeuwarden.",
+                  "category": "religious",
+                  "coords": [
+                        5.80215,
+                        53.20236
+                  ]
+            },
+            {
+                  "name": "Nieuw-Apostolische Kerk",
+                  "text": "Nieuw-Apostolische Kerk este un lăcaș de cult din Leeuwarden.",
+                  "category": "religious",
+                  "coords": [
+                        5.803766,
+                        53.199796
+                  ]
+            },
+            {
+                  "name": "Sint-Dominicuskerk",
+                  "text": "Sint-Dominicuskerk este un lăcaș de cult din Leeuwarden.",
+                  "category": "religious",
+                  "coords": [
+                        5.785392,
+                        53.203485
+                  ]
+            },
+            {
+                  "name": "Pelikaankerk",
+                  "text": "Pelikaankerk este un lăcaș de cult din Leeuwarden.",
+                  "category": "religious",
+                  "coords": [
+                        5.785781,
+                        53.205462
+                  ]
+            },
+            {
+                  "name": "Kurioskerk",
+                  "text": "Kurioskerk este un lăcaș de cult din Leeuwarden.",
+                  "category": "religious",
+                  "coords": [
+                        5.787729,
+                        53.189158
+                  ]
+            },
+            {
+                  "name": "Verlaatsbrug",
+                  "text": "Verlaatsbrug este un pod în Leeuwarden.",
+                  "category": "landmark",
+                  "coords": [
+                        5.787652,
+                        53.198022
+                  ]
+            },
+            {
+                  "name": "Hermesbrug",
+                  "text": "Hermesbrug este un pod în Leeuwarden.",
+                  "category": "landmark",
+                  "coords": [
+                        5.774552,
+                        53.19785
+                  ]
+            },
+            {
+                  "name": "Hoeksterpijp",
+                  "text": "Hoeksterpijp este un pod în Leeuwarden.",
+                  "category": "landmark",
+                  "coords": [
+                        5.801094,
+                        53.205548
+                  ]
+            },
+            {
+                  "name": "Wirdumerpoortsbrug",
+                  "text": "Wirdumerpoortsbrug este un pod în Leeuwarden.",
+                  "category": "landmark",
+                  "coords": [
+                        5.796694,
+                        53.198337
+                  ]
+            },
+            {
+                  "name": "1e Kanaalsbrug",
+                  "text": "1e Kanaalsbrug este un pod în Leeuwarden.",
+                  "category": "landmark",
+                  "coords": [
+                        5.802719,
+                        53.199446
+                  ]
+            },
+            {
+                  "name": "Noorderbrug",
+                  "text": "Noorderbrug este un pod în Leeuwarden.",
+                  "category": "landmark",
+                  "coords": [
+                        5.796882,
+                        53.206313
+                  ]
+            },
+            {
+                  "name": "Greunsbrug",
+                  "text": "Greunsbrug este un pod în Leeuwarden.",
+                  "category": "landmark",
+                  "coords": [
+                        5.835877,
+                        53.192974
+                  ]
+            },
+            {
+                  "name": "Oosterbrug",
+                  "text": "Oosterbrug este un pod în Leeuwarden.",
+                  "category": "landmark",
+                  "coords": [
+                        5.802768,
+                        53.200666
+                  ]
+            },
+            {
+                  "name": "Toren",
+                  "text": "Toren este un turn în Leeuwarden.",
+                  "category": "tower",
+                  "coords": [
+                        5.80807,
+                        53.201098
+                  ]
+            },
+            {
+                  "name": "Dr. Zamenhofpark",
+                  "text": "Dr. Zamenhofpark este un spațiu verde public din Leeuwarden.",
+                  "category": "park",
+                  "coords": [
+                        5.815274,
+                        53.209025
+                  ]
+            },
+            {
+                  "name": "Westerpark",
+                  "text": "Westerpark este un parc relaxant în Leeuwarden.",
+                  "category": "park",
+                  "coords": [
+                        5.785653,
+                        53.201383
+                  ]
+            },
+            {
+                  "name": "Noorderplantage",
+                  "text": "Noorderplantage este un parc istoric din Leeuwarden.",
+                  "category": "park",
+                  "coords": [
+                        5.790056,
+                        53.203792
+                  ]
+            },
+            {
+                  "name": "Rengerspark",
+                  "text": "Rengerspark este un spațiu verde pentru recreere în Leeuwarden.",
+                  "category": "park",
+                  "coords": [
+                        5.793146,
+                        53.208493
+                  ]
+            },
+            {
+                  "name": "Abbingapark",
+                  "text": "Abbingapark este un parc public din Leeuwarden.",
+                  "category": "park",
+                  "coords": [
+                        5.81093,
+                        53.189873
+                  ]
+            },
+            {
+                  "name": "Museumhaven Leeuwarden",
+                  "text": "Museumhaven Leeuwarden expune nave istorice în Leeuwarden.",
+                  "category": "museum",
+                  "coords": [
+                        5.794746,
+                        53.198293
+                  ]
+            },
+            {
+                  "name": "Traditiekamer Vliegbasis Leeuwarden",
+                  "text": "Traditiekamer Vliegbasis Leeuwarden este dedicat istoriei aerodromului.",
+                  "category": "museum",
+                  "coords": [
+                        5.766853,
+                        53.221214
+                  ]
+            },
+            {
+                  "name": "Galerie De Roos van Tudor",
+                  "text": "Galerie De Roos van Tudor este o galerie de artă din Leeuwarden.",
+                  "category": "museum",
+                  "coords": [
+                        5.796884,
+                        53.202839
+                  ]
+            },
+            {
+                  "name": "Peter van der Griend",
+                  "text": "Galeria Peter van der Griend este un spațiu expozițional de artă din Leeuwarden.",
+                  "category": "museum",
+                  "coords": [
+                        5.791162,
+                        53.201622
+                  ]
+            },
+            {
+                  "name": "VHDG",
+                  "text": "VHDG este o galerie de artă contemporană din Leeuwarden.",
+                  "category": "museum",
+                  "coords": [
+                        5.79725,
+                        53.201098
+                  ]
             }
       ],
       "en": [
@@ -768,12 +2748,516 @@ export const netherlandsCitiesV2: POI[] = [
                         5.79556,
                         53.2025
                   ]
+            },
+            {
+                  "name": "Fries Landbouwmuseum",
+                  "text": "The Fries Landbouwmuseum in Leeuwarden showcases agricultural history.",
+                  "category": "museum",
+                  "coords": [
+                        5.789545,
+                        53.179296
+                  ]
+            },
+            {
+                  "name": "Historisch Centrum Leeuwarden",
+                  "text": "The Historisch Centrum Leeuwarden is a museum dedicated to local history.",
+                  "category": "museum",
+                  "coords": [
+                        5.791559,
+                        53.203938
+                  ]
+            },
+            {
+                  "name": "Poptaslot - Azingastate - Heringastate",
+                  "text": "The Poptaslot near Leeuwarden is a historic castle museum.",
+                  "category": "museum",
+                  "coords": [
+                        5.729028,
+                        53.209689
+                  ]
+            },
+            {
+                  "name": "Huis Van Eysinga",
+                  "text": "The Huis Van Eysinga is a museum in Leeuwarden.",
+                  "category": "museum",
+                  "coords": [
+                        5.80086,
+                        53.202637
+                  ]
+            },
+            {
+                  "name": "Pier Pandertempel",
+                  "text": "The Pier Pandertempel in Leeuwarden is a specialized museum.",
+                  "category": "museum",
+                  "coords": [
+                        5.788795,
+                        53.203954
+                  ]
+            },
+            {
+                  "name": "Dekemastate",
+                  "text": "The Dekemastate is a historic castle near Leeuwarden.",
+                  "category": "castle",
+                  "coords": [
+                        5.783602,
+                        53.233225
+                  ]
+            },
+            {
+                  "name": "Natuurmuseum Fryslân",
+                  "text": "The Natuurmuseum Fryslân in Leeuwarden exhibits the nature of the region.",
+                  "category": "museum",
+                  "coords": [
+                        5.795955,
+                        53.204155
+                  ]
+            },
+            {
+                  "name": "Agneskerk",
+                  "text": "The Agneskerk is a place of worship near Leeuwarden.",
+                  "category": "religious",
+                  "coords": [
+                        5.806829,
+                        53.178524
+                  ]
+            },
+            {
+                  "name": "Terpzigt",
+                  "text": "Terpzigt is a historic windmill in Leeuwarden.",
+                  "category": "landmark",
+                  "coords": [
+                        5.724506,
+                        53.204151
+                  ]
+            },
+            {
+                  "name": "Kramersmolen",
+                  "text": "Kramersmolen is a windmill in Leeuwarden.",
+                  "category": "landmark",
+                  "coords": [
+                        5.764975,
+                        53.175923
+                  ]
+            },
+            {
+                  "name": "Molen Hoogland",
+                  "text": "Molen Hoogland is a windmill in Leeuwarden.",
+                  "category": "landmark",
+                  "coords": [
+                        5.763497,
+                        53.175722
+                  ]
+            },
+            {
+                  "name": "Vrouwenpoortsbrug",
+                  "text": "Vrouwenpoortsbrug is a bridge in Leeuwarden.",
+                  "category": "landmark",
+                  "coords": [
+                        5.788262,
+                        53.202536
+                  ]
+            },
+            {
+                  "name": "Museum de Grutterswinkel",
+                  "text": "Museum de Grutterswinkel is a museum in Leeuwarden.",
+                  "category": "museum",
+                  "coords": [
+                        5.793368,
+                        53.201671
+                  ]
+            },
+            {
+                  "name": "Stadsschouwburg de Harmonie",
+                  "text": "Stadsschouwburg de Harmonie is a theatre in Leeuwarden.",
+                  "category": "cultural",
+                  "coords": [
+                        5.790079,
+                        53.200128
+                  ]
+            },
+            {
+                  "name": "De Schakel",
+                  "text": "De Schakel is a place of worship in Leeuwarden.",
+                  "category": "religious",
+                  "coords": [
+                        5.836666,
+                        53.210673
+                  ]
+            },
+            {
+                  "name": "Masjied Assalam",
+                  "text": "Masjied Assalam is a place of worship in Leeuwarden.",
+                  "category": "religious",
+                  "coords": [
+                        5.822939,
+                        53.204368
+                  ]
+            },
+            {
+                  "name": "Sint-Pontianuskerk",
+                  "text": "Sint-Pontianuskerk is a place of worship in Leeuwarden.",
+                  "category": "religious",
+                  "coords": [
+                        5.727862,
+                        53.210738
+                  ]
+            },
+            {
+                  "name": "De Deur",
+                  "text": "De Deur is a place of worship in Leeuwarden.",
+                  "category": "religious",
+                  "coords": [
+                        5.817865,
+                        53.193261
+                  ]
+            },
+            {
+                  "name": "Bethelkerk",
+                  "text": "Bethelkerk is a place of worship in Leeuwarden.",
+                  "category": "religious",
+                  "coords": [
+                        5.803411,
+                        53.192806
+                  ]
+            },
+            {
+                  "name": "De Morgenster",
+                  "text": "De Morgenster is a place of worship in Leeuwarden.",
+                  "category": "religious",
+                  "coords": [
+                        5.814857,
+                        53.212482
+                  ]
+            },
+            {
+                  "name": "Uitzichtgemeente",
+                  "text": "Uitzichtgemeente is a place of worship in Leeuwarden.",
+                  "category": "religious",
+                  "coords": [
+                        5.818219,
+                        53.20977
+                  ]
+            },
+            {
+                  "name": "Adventkerk",
+                  "text": "Adventkerk is a place of worship in Leeuwarden.",
+                  "category": "religious",
+                  "coords": [
+                        5.802678,
+                        53.213645
+                  ]
+            },
+            {
+                  "name": "De Fontein",
+                  "text": "De Fontein is a place of worship in Leeuwarden.",
+                  "category": "religious",
+                  "coords": [
+                        5.802589,
+                        53.21167
+                  ]
+            },
+            {
+                  "name": "Messiaanse Gemeente Rehoboth",
+                  "text": "Messiaanse Gemeente Rehoboth is a place of worship in Leeuwarden.",
+                  "category": "religious",
+                  "coords": [
+                        5.809222,
+                        53.20446
+                  ]
+            },
+            {
+                  "name": "Ceciliakerk",
+                  "text": "Ceciliakerk is a place of worship in Leeuwarden.",
+                  "category": "religious",
+                  "coords": [
+                        5.819315,
+                        53.226451
+                  ]
+            },
+            {
+                  "name": "ISN Ulu Moskee",
+                  "text": "ISN Ulu Moskee is an Islamic place of worship in Leeuwarden.",
+                  "category": "religious",
+                  "coords": [
+                        5.804099,
+                        53.202931
+                  ]
+            },
+            {
+                  "name": "Evangelisch-Lutherse kerk",
+                  "text": "Evangelisch-Lutherse kerk is a historic place of worship in Leeuwarden.",
+                  "category": "religious",
+                  "coords": [
+                        5.801733,
+                        53.200565
+                  ]
+            },
+            {
+                  "name": "Galileakapel",
+                  "text": "Galileakapel is a place of worship in Leeuwarden.",
+                  "category": "religious",
+                  "coords": [
+                        5.80215,
+                        53.20236
+                  ]
+            },
+            {
+                  "name": "Nieuw-Apostolische Kerk",
+                  "text": "Nieuw-Apostolische Kerk is a place of worship in Leeuwarden.",
+                  "category": "religious",
+                  "coords": [
+                        5.803766,
+                        53.199796
+                  ]
+            },
+            {
+                  "name": "Sint-Dominicuskerk",
+                  "text": "Sint-Dominicuskerk is a place of worship in Leeuwarden.",
+                  "category": "religious",
+                  "coords": [
+                        5.785392,
+                        53.203485
+                  ]
+            },
+            {
+                  "name": "Pelikaankerk",
+                  "text": "Pelikaankerk is a place of worship in Leeuwarden.",
+                  "category": "religious",
+                  "coords": [
+                        5.785781,
+                        53.205462
+                  ]
+            },
+            {
+                  "name": "Kurioskerk",
+                  "text": "Kurioskerk is a place of worship in Leeuwarden.",
+                  "category": "religious",
+                  "coords": [
+                        5.787729,
+                        53.189158
+                  ]
+            },
+            {
+                  "name": "Verlaatsbrug",
+                  "text": "Verlaatsbrug is a bridge in Leeuwarden.",
+                  "category": "landmark",
+                  "coords": [
+                        5.787652,
+                        53.198022
+                  ]
+            },
+            {
+                  "name": "Hermesbrug",
+                  "text": "Hermesbrug is a bridge in Leeuwarden.",
+                  "category": "landmark",
+                  "coords": [
+                        5.774552,
+                        53.19785
+                  ]
+            },
+            {
+                  "name": "Hoeksterpijp",
+                  "text": "Hoeksterpijp is a bridge in Leeuwarden.",
+                  "category": "landmark",
+                  "coords": [
+                        5.801094,
+                        53.205548
+                  ]
+            },
+            {
+                  "name": "Wirdumerpoortsbrug",
+                  "text": "Wirdumerpoortsbrug is a bridge in Leeuwarden.",
+                  "category": "landmark",
+                  "coords": [
+                        5.796694,
+                        53.198337
+                  ]
+            },
+            {
+                  "name": "1e Kanaalsbrug",
+                  "text": "1e Kanaalsbrug is a bridge in Leeuwarden.",
+                  "category": "landmark",
+                  "coords": [
+                        5.802719,
+                        53.199446
+                  ]
+            },
+            {
+                  "name": "Noorderbrug",
+                  "text": "Noorderbrug is a bridge in Leeuwarden.",
+                  "category": "landmark",
+                  "coords": [
+                        5.796882,
+                        53.206313
+                  ]
+            },
+            {
+                  "name": "Greunsbrug",
+                  "text": "Greunsbrug is a bridge in Leeuwarden.",
+                  "category": "landmark",
+                  "coords": [
+                        5.835877,
+                        53.192974
+                  ]
+            },
+            {
+                  "name": "Oosterbrug",
+                  "text": "Oosterbrug is a bridge in Leeuwarden.",
+                  "category": "landmark",
+                  "coords": [
+                        5.802768,
+                        53.200666
+                  ]
+            },
+            {
+                  "name": "Toren",
+                  "text": "Toren is a tower in Leeuwarden.",
+                  "category": "tower",
+                  "coords": [
+                        5.80807,
+                        53.201098
+                  ]
+            },
+            {
+                  "name": "Dr. Zamenhofpark",
+                  "text": "Dr. Zamenhofpark is a public green space in Leeuwarden.",
+                  "category": "park",
+                  "coords": [
+                        5.815274,
+                        53.209025
+                  ]
+            },
+            {
+                  "name": "Westerpark",
+                  "text": "Westerpark is a relaxing park in Leeuwarden.",
+                  "category": "park",
+                  "coords": [
+                        5.785653,
+                        53.201383
+                  ]
+            },
+            {
+                  "name": "Noorderplantage",
+                  "text": "Noorderplantage is a historic park in Leeuwarden.",
+                  "category": "park",
+                  "coords": [
+                        5.790056,
+                        53.203792
+                  ]
+            },
+            {
+                  "name": "Rengerspark",
+                  "text": "Rengerspark is a green space for recreation in Leeuwarden.",
+                  "category": "park",
+                  "coords": [
+                        5.793146,
+                        53.208493
+                  ]
+            },
+            {
+                  "name": "Abbingapark",
+                  "text": "Abbingapark is a public park in Leeuwarden.",
+                  "category": "park",
+                  "coords": [
+                        5.81093,
+                        53.189873
+                  ]
+            },
+            {
+                  "name": "Museumhaven Leeuwarden",
+                  "text": "Museumhaven Leeuwarden showcases historic ships in Leeuwarden.",
+                  "category": "museum",
+                  "coords": [
+                        5.794746,
+                        53.198293
+                  ]
+            },
+            {
+                  "name": "Traditiekamer Vliegbasis Leeuwarden",
+                  "text": "Traditiekamer Vliegbasis Leeuwarden is dedicated to the history of the airfield.",
+                  "category": "museum",
+                  "coords": [
+                        5.766853,
+                        53.221214
+                  ]
+            },
+            {
+                  "name": "Galerie De Roos van Tudor",
+                  "text": "Galerie De Roos van Tudor is an art gallery in Leeuwarden.",
+                  "category": "museum",
+                  "coords": [
+                        5.796884,
+                        53.202839
+                  ]
+            },
+            {
+                  "name": "Peter van der Griend",
+                  "text": "The Peter van der Griend gallery is an art exhibition space in Leeuwarden.",
+                  "category": "museum",
+                  "coords": [
+                        5.791162,
+                        53.201622
+                  ]
+            },
+            {
+                  "name": "VHDG",
+                  "text": "VHDG is a contemporary art gallery in Leeuwarden.",
+                  "category": "museum",
+                  "coords": [
+                        5.79725,
+                        53.201098
+                  ]
             }
       ]
 }
   },
   {
-    id: "netherlands-alphen-aan-den-rijn-cities-v2",
+    id: "netherlands-alphen-aan-den-rijn-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zegerstrand",
+                  "text": "Zegerstrand in Alphen aan den Rijn.",
+                  "category": "recreational",
+                  "coords": [
+                        4.678228,
+                        52.135035
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zegerstrand",
+                  "text": "Zegerstrand Alphen aan den Rijn városában.",
+                  "category": "recreational",
+                  "coords": [
+                        4.678228,
+                        52.135035
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zegerstrand",
+                  "text": "Zegerstrand în Alphen aan den Rijn.",
+                  "category": "recreational",
+                  "coords": [
+                        4.678228,
+                        52.135035
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zegerstrand",
+                  "text": "Zegerstrand in Alphen aan den Rijn.",
+                  "category": "recreational",
+                  "coords": [
+                        4.678228,
+                        52.135035
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NL",
     name: { de: "Alphen aan den Rijn", hu: "Alphen aan den Rijn", ro: "Alphen aan den Rijn", en: "Alphen aan den Rijn" },
@@ -1088,7 +3572,52 @@ export const netherlandsCitiesV2: POI[] = [
     image: "/poi-images/netherlands-oss-cities-v2.webp",
   },
   {
-    id: "netherlands-schiedam-cities-v2",
+    id: "netherlands-schiedam-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Quarantainestrand",
+                  "text": "Quarantainestrand in Schiedam.",
+                  "category": "recreational",
+                  "coords": [
+                        4.409303,
+                        51.897505
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Quarantainestrand",
+                  "text": "Quarantainestrand strand Schiedamban.",
+                  "category": "recreational",
+                  "coords": [
+                        4.409303,
+                        51.897505
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Quarantainestrand",
+                  "text": "Plaja Quarantainestrand din Schiedam.",
+                  "category": "recreational",
+                  "coords": [
+                        4.409303,
+                        51.897505
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Quarantainestrand",
+                  "text": "Quarantainestrand beach in Schiedam.",
+                  "category": "recreational",
+                  "coords": [
+                        4.409303,
+                        51.897505
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NL",
     name: { de: "Schiedam", hu: "Schiedam", ro: "Schiedam", en: "Schiedam" },
@@ -1257,6 +3786,141 @@ export const netherlandsCitiesV2: POI[] = [
                         5.366667,
                         52.45
                   ]
+            },
+            {
+                  "name": "Larservaartbos",
+                  "text": "Das Larservaartbos ist ein Naturschutzgebiet in Lelystad.",
+                  "category": "natural",
+                  "coords": [
+                        5.53585,
+                        52.45865
+                  ]
+            },
+            {
+                  "name": "Flevohout",
+                  "text": "Das Flevohout ist ein Naturschutzgebiet in Lelystad.",
+                  "category": "natural",
+                  "coords": [
+                        5.517267,
+                        52.492673
+                  ]
+            },
+            {
+                  "name": "Theather Posa",
+                  "text": "Das Theather Posa ist ein Theater in Lelystad.",
+                  "category": "cultural",
+                  "coords": [
+                        5.459001,
+                        52.519012
+                  ]
+            },
+            {
+                  "name": "Batavialand",
+                  "text": "Batavialand ist ein Museum in Lelystad.",
+                  "category": "museum",
+                  "coords": [
+                        5.436977,
+                        52.521364
+                  ]
+            },
+            {
+                  "name": "Hollandse Hout",
+                  "text": "Das Hollandse Hout ist ein Naturschutzgebiet in Lelystad.",
+                  "category": "natural",
+                  "coords": [
+                        5.438692,
+                        52.468517
+                  ]
+            },
+            {
+                  "name": "Bataviastrand",
+                  "text": "Der Bataviastrand ist ein Strand in Lelystad.",
+                  "category": "recreational",
+                  "coords": [
+                        5.424323,
+                        52.525525
+                  ]
+            },
+            {
+                  "name": "kinderboerderij \"De Knotwilg\"",
+                  "text": "Die Kinderboerderij \"De Knotwilg\" ist ein Tierpark in Lelystad.",
+                  "category": "recreational",
+                  "coords": [
+                        5.464702,
+                        52.513022
+                  ]
+            },
+            {
+                  "name": "Dierenweide Stadspark",
+                  "text": "Die Dierenweide Stadspark ist ein Tiergehege in Lelystad.",
+                  "category": "recreational",
+                  "coords": [
+                        5.492136,
+                        52.519599
+                  ]
+            },
+            {
+                  "name": "Bataviawerf",
+                  "text": "Die Bataviawerf ist eine Attraktion in Lelystad, die für historische Schiffsrekonstruktionen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        5.436475,
+                        52.522486
+                  ]
+            },
+            {
+                  "name": "De Kubus",
+                  "text": "De Kubus ist ein Kunstzentrum in Lelystad.",
+                  "category": "cultural",
+                  "coords": [
+                        5.476694,
+                        52.512959
+                  ]
+            },
+            {
+                  "name": "Wild zwijn",
+                  "text": "Wild zwijn ist eine Touristenattraktion in Lelystad.",
+                  "category": "landmark",
+                  "coords": [
+                        5.522203,
+                        52.487441
+                  ]
+            },
+            {
+                  "name": "Scheepsarcheologie",
+                  "text": "Scheepsarcheologie ist eine Attraktion in Lelystad.",
+                  "category": "landmark",
+                  "coords": [
+                        5.437969,
+                        52.524326
+                  ]
+            },
+            {
+                  "name": "Evangelische kerk De Pijler",
+                  "text": "Die Evangelische kerk De Pijler ist ein evangelisches Gotteshaus in Lelystad.",
+                  "category": "religious",
+                  "coords": [
+                        5.483335,
+                        52.493375
+                  ]
+            },
+            {
+                  "name": "Ontmoetingskerk",
+                  "text": "Die Ontmoetingskerk ist ein Gotteshaus in Lelystad.",
+                  "category": "religious",
+                  "coords": [
+                        5.493877,
+                        52.512663
+                  ]
+            },
+            {
+                  "name": "Batavia",
+                  "text": "Die Batavia ist ein historisches Schiff in der Stadt Lelystad.",
+                  "category": "landmark",
+                  "coords": [
+                        5.435325,
+                        52.52247
+                  ]
             }
       ],
       "hu": [
@@ -1338,6 +4002,141 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         5.366667,
                         52.45
+                  ]
+            },
+            {
+                  "name": "Larservaartbos",
+                  "text": "A Larservaartbos egy természetvédelmi terület Lelystadban.",
+                  "category": "natural",
+                  "coords": [
+                        5.53585,
+                        52.45865
+                  ]
+            },
+            {
+                  "name": "Flevohout",
+                  "text": "A Flevohout egy természetvédelmi terület Lelystad városában.",
+                  "category": "natural",
+                  "coords": [
+                        5.517267,
+                        52.492673
+                  ]
+            },
+            {
+                  "name": "Theather Posa",
+                  "text": "A Theather Posa egy színház Lelystad városában.",
+                  "category": "cultural",
+                  "coords": [
+                        5.459001,
+                        52.519012
+                  ]
+            },
+            {
+                  "name": "Batavialand",
+                  "text": "A Batavialand egy múzeum Lelystad városában.",
+                  "category": "museum",
+                  "coords": [
+                        5.436977,
+                        52.521364
+                  ]
+            },
+            {
+                  "name": "Hollandse Hout",
+                  "text": "A Hollandse Hout egy természetvédelmi terület Lelystadban.",
+                  "category": "natural",
+                  "coords": [
+                        5.438692,
+                        52.468517
+                  ]
+            },
+            {
+                  "name": "Bataviastrand",
+                  "text": "A Bataviastrand egy strand Lelystad városában.",
+                  "category": "recreational",
+                  "coords": [
+                        5.424323,
+                        52.525525
+                  ]
+            },
+            {
+                  "name": "kinderboerderij \"De Knotwilg\"",
+                  "text": "A \"De Knotwilg\" gyermekfarm egy állatkert Lelystadban.",
+                  "category": "recreational",
+                  "coords": [
+                        5.464702,
+                        52.513022
+                  ]
+            },
+            {
+                  "name": "Dierenweide Stadspark",
+                  "text": "A Dierenweide Stadspark egy állatkert Lelystad városában.",
+                  "category": "recreational",
+                  "coords": [
+                        5.492136,
+                        52.519599
+                  ]
+            },
+            {
+                  "name": "Bataviawerf",
+                  "text": "A Bataviawerf egy történelmi hajórekonstrukcióiról ismert látványosság Lelystadban.",
+                  "category": "landmark",
+                  "coords": [
+                        5.436475,
+                        52.522486
+                  ]
+            },
+            {
+                  "name": "De Kubus",
+                  "text": "A De Kubus egy művészeti központ Lelystad városában.",
+                  "category": "cultural",
+                  "coords": [
+                        5.476694,
+                        52.512959
+                  ]
+            },
+            {
+                  "name": "Wild zwijn",
+                  "text": "A Wild zwijn egy turisztikai látványosság Lelystadban.",
+                  "category": "landmark",
+                  "coords": [
+                        5.522203,
+                        52.487441
+                  ]
+            },
+            {
+                  "name": "Scheepsarcheologie",
+                  "text": "A Scheepsarcheologie egy turisztikai látványosság Lelystad városában.",
+                  "category": "landmark",
+                  "coords": [
+                        5.437969,
+                        52.524326
+                  ]
+            },
+            {
+                  "name": "Evangelische kerk De Pijler",
+                  "text": "Az Evangelische kerk De Pijler egy evangéliumi istentiszteleti hely Lelystadban.",
+                  "category": "religious",
+                  "coords": [
+                        5.483335,
+                        52.493375
+                  ]
+            },
+            {
+                  "name": "Ontmoetingskerk",
+                  "text": "Az Ontmoetingskerk egy istentiszteleti hely Lelystad városában.",
+                  "category": "religious",
+                  "coords": [
+                        5.493877,
+                        52.512663
+                  ]
+            },
+            {
+                  "name": "Batavia",
+                  "text": "A Batavia egy történelmi hajó Lelystad városában.",
+                  "category": "landmark",
+                  "coords": [
+                        5.435325,
+                        52.52247
                   ]
             }
       ],
@@ -1421,6 +4220,141 @@ export const netherlandsCitiesV2: POI[] = [
                         5.366667,
                         52.45
                   ]
+            },
+            {
+                  "name": "Larservaartbos",
+                  "text": "Larservaartbos este o rezervație naturală situată în Lelystad.",
+                  "category": "natural",
+                  "coords": [
+                        5.53585,
+                        52.45865
+                  ]
+            },
+            {
+                  "name": "Flevohout",
+                  "text": "Flevohout este o rezervație naturală din orașul Lelystad.",
+                  "category": "natural",
+                  "coords": [
+                        5.517267,
+                        52.492673
+                  ]
+            },
+            {
+                  "name": "Theather Posa",
+                  "text": "Theather Posa este un teatru situat în Lelystad.",
+                  "category": "cultural",
+                  "coords": [
+                        5.459001,
+                        52.519012
+                  ]
+            },
+            {
+                  "name": "Batavialand",
+                  "text": "Batavialand este un muzeu din Lelystad.",
+                  "category": "museum",
+                  "coords": [
+                        5.436977,
+                        52.521364
+                  ]
+            },
+            {
+                  "name": "Hollandse Hout",
+                  "text": "Hollandse Hout este o rezervație naturală în Lelystad.",
+                  "category": "natural",
+                  "coords": [
+                        5.438692,
+                        52.468517
+                  ]
+            },
+            {
+                  "name": "Bataviastrand",
+                  "text": "Bataviastrand este o plajă situată în Lelystad.",
+                  "category": "recreational",
+                  "coords": [
+                        5.424323,
+                        52.525525
+                  ]
+            },
+            {
+                  "name": "kinderboerderij \"De Knotwilg\"",
+                  "text": "Kinderboerderij \"De Knotwilg\" este un parc de animale din Lelystad.",
+                  "category": "recreational",
+                  "coords": [
+                        5.464702,
+                        52.513022
+                  ]
+            },
+            {
+                  "name": "Dierenweide Stadspark",
+                  "text": "Dierenweide Stadspark este un parc de animale din Lelystad.",
+                  "category": "recreational",
+                  "coords": [
+                        5.492136,
+                        52.519599
+                  ]
+            },
+            {
+                  "name": "Bataviawerf",
+                  "text": "Bataviawerf este o atracție din Lelystad, recunoscută pentru reconstrucțiile sale de nave istorice.",
+                  "category": "landmark",
+                  "coords": [
+                        5.436475,
+                        52.522486
+                  ]
+            },
+            {
+                  "name": "De Kubus",
+                  "text": "De Kubus este un centru de arte situat în Lelystad.",
+                  "category": "cultural",
+                  "coords": [
+                        5.476694,
+                        52.512959
+                  ]
+            },
+            {
+                  "name": "Wild zwijn",
+                  "text": "Wild zwijn este o atracție turistică din Lelystad.",
+                  "category": "landmark",
+                  "coords": [
+                        5.522203,
+                        52.487441
+                  ]
+            },
+            {
+                  "name": "Scheepsarcheologie",
+                  "text": "Scheepsarcheologie este o atracție din Lelystad.",
+                  "category": "landmark",
+                  "coords": [
+                        5.437969,
+                        52.524326
+                  ]
+            },
+            {
+                  "name": "Evangelische kerk De Pijler",
+                  "text": "Evangelische kerk De Pijler este un lăcaș de cult evanghelic din Lelystad.",
+                  "category": "religious",
+                  "coords": [
+                        5.483335,
+                        52.493375
+                  ]
+            },
+            {
+                  "name": "Ontmoetingskerk",
+                  "text": "Ontmoetingskerk este un lăcaș de cult situat în Lelystad.",
+                  "category": "religious",
+                  "coords": [
+                        5.493877,
+                        52.512663
+                  ]
+            },
+            {
+                  "name": "Batavia",
+                  "text": "Batavia este o navă istorică situată în orașul Lelystad.",
+                  "category": "landmark",
+                  "coords": [
+                        5.435325,
+                        52.52247
+                  ]
             }
       ],
       "en": [
@@ -1502,6 +4436,141 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         5.366667,
                         52.45
+                  ]
+            },
+            {
+                  "name": "Larservaartbos",
+                  "text": "Larservaartbos is a nature reserve located in Lelystad.",
+                  "category": "natural",
+                  "coords": [
+                        5.53585,
+                        52.45865
+                  ]
+            },
+            {
+                  "name": "Flevohout",
+                  "text": "Flevohout is a nature reserve in the city of Lelystad.",
+                  "category": "natural",
+                  "coords": [
+                        5.517267,
+                        52.492673
+                  ]
+            },
+            {
+                  "name": "Theather Posa",
+                  "text": "Theather Posa is a theatre located in Lelystad.",
+                  "category": "cultural",
+                  "coords": [
+                        5.459001,
+                        52.519012
+                  ]
+            },
+            {
+                  "name": "Batavialand",
+                  "text": "Batavialand is a museum situated in Lelystad.",
+                  "category": "museum",
+                  "coords": [
+                        5.436977,
+                        52.521364
+                  ]
+            },
+            {
+                  "name": "Hollandse Hout",
+                  "text": "Hollandse Hout is a nature reserve in Lelystad.",
+                  "category": "natural",
+                  "coords": [
+                        5.438692,
+                        52.468517
+                  ]
+            },
+            {
+                  "name": "Bataviastrand",
+                  "text": "Bataviastrand is a beach located in Lelystad.",
+                  "category": "recreational",
+                  "coords": [
+                        5.424323,
+                        52.525525
+                  ]
+            },
+            {
+                  "name": "kinderboerderij \"De Knotwilg\"",
+                  "text": "Kinderboerderij \"De Knotwilg\" is an animal park located in Lelystad.",
+                  "category": "recreational",
+                  "coords": [
+                        5.464702,
+                        52.513022
+                  ]
+            },
+            {
+                  "name": "Dierenweide Stadspark",
+                  "text": "Dierenweide Stadspark is an animal park in Lelystad.",
+                  "category": "recreational",
+                  "coords": [
+                        5.492136,
+                        52.519599
+                  ]
+            },
+            {
+                  "name": "Bataviawerf",
+                  "text": "Bataviawerf is an attraction in Lelystad known for historical ship reconstructions.",
+                  "category": "landmark",
+                  "coords": [
+                        5.436475,
+                        52.522486
+                  ]
+            },
+            {
+                  "name": "De Kubus",
+                  "text": "De Kubus is an arts centre situated in Lelystad.",
+                  "category": "cultural",
+                  "coords": [
+                        5.476694,
+                        52.512959
+                  ]
+            },
+            {
+                  "name": "Wild zwijn",
+                  "text": "Wild zwijn is a tourist attraction in Lelystad.",
+                  "category": "landmark",
+                  "coords": [
+                        5.522203,
+                        52.487441
+                  ]
+            },
+            {
+                  "name": "Scheepsarcheologie",
+                  "text": "Scheepsarcheologie is an attraction in Lelystad.",
+                  "category": "landmark",
+                  "coords": [
+                        5.437969,
+                        52.524326
+                  ]
+            },
+            {
+                  "name": "Evangelische kerk De Pijler",
+                  "text": "Evangelische kerk De Pijler is an evangelical place of worship in Lelystad.",
+                  "category": "religious",
+                  "coords": [
+                        5.483335,
+                        52.493375
+                  ]
+            },
+            {
+                  "name": "Ontmoetingskerk",
+                  "text": "Ontmoetingskerk is a place of worship located in Lelystad.",
+                  "category": "religious",
+                  "coords": [
+                        5.493877,
+                        52.512663
+                  ]
+            },
+            {
+                  "name": "Batavia",
+                  "text": "The Batavia is a historical ship located in the city of Lelystad.",
+                  "category": "landmark",
+                  "coords": [
+                        5.435325,
+                        52.52247
                   ]
             }
       ]
@@ -2388,7 +5457,88 @@ export const netherlandsCitiesV2: POI[] = [
     image: "/poi-images/netherlands-zutphen-cities-v2.webp",
   },
   {
-    id: "netherlands-harderwijk-cities-v2",
+    id: "netherlands-harderwijk-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Harderstrand Noord",
+                  "text": "Harderstrand Noord bei Harderwijk.",
+                  "category": "recreational",
+                  "coords": [
+                        5.64105,
+                        52.388149
+                  ]
+            },
+            {
+                  "name": "Harderstrand Zuid",
+                  "text": "Harderstrand Zuid bei Harderwijk.",
+                  "category": "recreational",
+                  "coords": [
+                        5.62316,
+                        52.378458
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Harderstrand Noord",
+                  "text": "Harderstrand Noord Harderwijk közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        5.64105,
+                        52.388149
+                  ]
+            },
+            {
+                  "name": "Harderstrand Zuid",
+                  "text": "Harderstrand Zuid Harderwijk közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        5.62316,
+                        52.378458
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Harderstrand Noord",
+                  "text": "Harderstrand Noord lângă Harderwijk.",
+                  "category": "recreational",
+                  "coords": [
+                        5.64105,
+                        52.388149
+                  ]
+            },
+            {
+                  "name": "Harderstrand Zuid",
+                  "text": "Harderstrand Zuid lângă Harderwijk.",
+                  "category": "recreational",
+                  "coords": [
+                        5.62316,
+                        52.378458
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Harderstrand Noord",
+                  "text": "Harderstrand Noord near Harderwijk.",
+                  "category": "recreational",
+                  "coords": [
+                        5.64105,
+                        52.388149
+                  ]
+            },
+            {
+                  "name": "Harderstrand Zuid",
+                  "text": "Harderstrand Zuid near Harderwijk.",
+                  "category": "recreational",
+                  "coords": [
+                        5.62316,
+                        52.378458
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NL",
     name: { de: "Harderwijk", hu: "Harderwijk", ro: "Harderwijk", en: "Harderwijk" },
@@ -2614,7 +5764,52 @@ export const netherlandsCitiesV2: POI[] = [
   }
 ,
   {
-    id: "netherlands-drachten-cities-v2",
+    id: "netherlands-drachten-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Smalle Ee Strand",
+                  "text": "Smalle Ee Strand bei Drachten.",
+                  "category": "recreational",
+                  "coords": [
+                        6.021349,
+                        53.106664
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Smalle Ee Strand",
+                  "text": "Smalle Ee strand Drachten közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        6.021349,
+                        53.106664
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Smalle Ee Strand",
+                  "text": "Plaja Smalle Ee, lângă Drachten.",
+                  "category": "recreational",
+                  "coords": [
+                        6.021349,
+                        53.106664
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Smalle Ee Strand",
+                  "text": "Smalle Ee beach near Drachten.",
+                  "category": "recreational",
+                  "coords": [
+                        6.021349,
+                        53.106664
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NL",
     name: { de: "Drachten", hu: "Drachten", ro: "Drachten", en: "Drachten" },
@@ -3514,7 +6709,52 @@ export const netherlandsCitiesV2: POI[] = [
     image: "/poi-images/netherlands-oosterhout-cities-v2.webp",
   },
   {
-    id: "netherlands-valkenswaard-cities-v2",
+    id: "netherlands-valkenswaard-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Center Parcs Beach",
+                  "text": "Strand im Center Parcs bei Valkenswaard.",
+                  "category": "recreational",
+                  "coords": [
+                        5.426207,
+                        51.32826
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Center Parcs Beach",
+                  "text": "Center Parcs strand, Valkenswaard közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        5.426207,
+                        51.32826
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Center Parcs Beach",
+                  "text": "Plajă la Center Parcs, lângă Valkenswaard.",
+                  "category": "recreational",
+                  "coords": [
+                        5.426207,
+                        51.32826
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Center Parcs Beach",
+                  "text": "Beach at Center Parcs near Valkenswaard.",
+                  "category": "recreational",
+                  "coords": [
+                        5.426207,
+                        51.32826
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NL",
     name: { de: "Valkenswaard", hu: "Valkenswaard", ro: "Valkenswaard", en: "Valkenswaard" },
@@ -4009,7 +7249,52 @@ export const netherlandsCitiesV2: POI[] = [
     image: "/poi-images/netherlands-borculo-cities-v2.webp",
   },
   {
-    id: "netherlands-holten-cities-v2",
+    id: "netherlands-holten-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hondenvijver",
+                  "text": "Hondenvijver Strand bei Holten.",
+                  "category": "recreational",
+                  "coords": [
+                        6.458719,
+                        52.286845
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hondenvijver",
+                  "text": "Hondenvijver strand, Holten közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        6.458719,
+                        52.286845
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hondenvijver",
+                  "text": "Plaja Hondenvijver, lângă Holten.",
+                  "category": "recreational",
+                  "coords": [
+                        6.458719,
+                        52.286845
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hondenvijver",
+                  "text": "Hondenvijver beach near Holten.",
+                  "category": "recreational",
+                  "coords": [
+                        6.458719,
+                        52.286845
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NL",
     name: { de: "Holten", hu: "Holten", ro: "Holten", en: "Holten" },
@@ -4144,7 +7429,52 @@ export const netherlandsCitiesV2: POI[] = [
     image: "/poi-images/netherlands-genemuiden-cities-v2.webp",
   },
   {
-    id: "netherlands-wieringen-cities-v2",
+    id: "netherlands-wieringen-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lutjestrand.",
+                  "text": "Strand bei Wieringen, ein ruhiger Ort am Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        4.911898,
+                        52.889145
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lutjestrand.",
+                  "text": "Strand Wieringen mellett, csendes vízparti hely.",
+                  "category": "recreational",
+                  "coords": [
+                        4.911898,
+                        52.889145
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lutjestrand.",
+                  "text": "Plajă lângă Wieringen, un loc liniștit pe malul apei.",
+                  "category": "recreational",
+                  "coords": [
+                        4.911898,
+                        52.889145
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lutjestrand.",
+                  "text": "Beach near Wieringen, a quiet spot by the water.",
+                  "category": "recreational",
+                  "coords": [
+                        4.911898,
+                        52.889145
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NL",
     name: { de: "Hippolytushoef", hu: "Hippolytushoef", ro: "Hippolytushoef", en: "Hippolytushoef" },

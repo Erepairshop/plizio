@@ -423,7 +423,88 @@ export const poiExtraGreeceCities: POI[] = [
       fr: ["Igoumenitsa a été presque entièrement détruite en 1944 lors du retrait des troupes allemandes.", "Le port accueille environ 2,5 millions de passagers et 250 000 camions par an.", "L'autoroute Egnatia Odos relie directement la ville à la frontière turque située à 670 km.", "Les ruines antiques de Gitani se trouvent à environ 10 kilomètres au nord sur le fleuve Kalamas.", "La distance en ferry jusqu'à l'île de Corfou est d'environ 18 milles nautiques.", "Le musée archéologique d'Igoumenitsa a ouvert en 2009 et expose des découvertes de l'Antiquité."],
     }, image: "/poi-images/city-igoumenitsa-extra.webp"},
   {
-    id: "city-preveza-extra",
+    id: "city-preveza-extra", "sights": {
+      "de": [
+            {
+                  "name": "Alonaki",
+                  "text": "Alonaki ist ein malerischer Küstenstrand in der Nähe von Preveza.",
+                  "category": "recreational",
+                  "coords": [
+                        20.72402,
+                        38.95452
+                  ]
+            },
+            {
+                  "name": "Pantokratoras",
+                  "text": "Pantokratoras ist ein Strand in der Küstenstadt Preveza.",
+                  "category": "recreational",
+                  "coords": [
+                        20.733261,
+                        38.948042
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Alonaki",
+                  "text": "Az Alonaki egy festői tengerparti strand Preveza közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        20.72402,
+                        38.95452
+                  ]
+            },
+            {
+                  "name": "Pantokratoras",
+                  "text": "A Pantokratoras egy strand a tengerparti Preveza városában.",
+                  "category": "recreational",
+                  "coords": [
+                        20.733261,
+                        38.948042
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Alonaki",
+                  "text": "Alonaki este o plajă pitorească de coastă situată în apropiere de Preveza.",
+                  "category": "recreational",
+                  "coords": [
+                        20.72402,
+                        38.95452
+                  ]
+            },
+            {
+                  "name": "Pantokratoras",
+                  "text": "Pantokratoras este o plajă în orașul de coastă Preveza.",
+                  "category": "recreational",
+                  "coords": [
+                        20.733261,
+                        38.948042
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Alonaki",
+                  "text": "Alonaki is a scenic coastal beach located near Preveza.",
+                  "category": "recreational",
+                  "coords": [
+                        20.72402,
+                        38.95452
+                  ]
+            },
+            {
+                  "name": "Pantokratoras",
+                  "text": "Pantokratoras is a beach located in the coastal city of Preveza.",
+                  "category": "recreational",
+                  "coords": [
+                        20.733261,
+                        38.948042
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GR-E",
     coords: [20.7522, 38.9553],

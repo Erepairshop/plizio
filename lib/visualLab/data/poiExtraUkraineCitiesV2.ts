@@ -6402,7 +6402,232 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
     image: "/poi-images/ukraine-lebedyn-cities-v2.webp",
   },
   {
-    id: "ukraine-skadovsk-cities-v2",
+    id: "ukraine-skadovsk-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Скадовський дельфінарій \"Акварель\"",
+                  "text": "Das Delphinarium Aquarel ist ein Zoo und Unterhaltungsort in Skadowsk.",
+                  "category": "recreational",
+                  "coords": [
+                        32.881314,
+                        46.116066
+                  ]
+            },
+            {
+                  "name": "Скадовський районний історико-краєзнавчий музей",
+                  "text": "Das Regionalmuseum für Geschichte und Heimatkunde in Skadowsk präsentiert lokale Exponate.",
+                  "category": "museum",
+                  "coords": [
+                        32.894869,
+                        46.111279
+                  ]
+            },
+            {
+                  "name": "Пляж пансіонату \"Зв'язківець\"",
+                  "text": "Der Strand des Pensionats Swjasist ist ein Erholungsort in Skadowsk.",
+                  "category": "recreational",
+                  "coords": [
+                        32.928804,
+                        46.107091
+                  ]
+            },
+            {
+                  "name": "Гусячий пляж",
+                  "text": "Der Gänse-Strand ist ein bekannter Badeplatz in Skadowsk.",
+                  "category": "recreational",
+                  "coords": [
+                        32.938929,
+                        46.107285
+                  ]
+            },
+            {
+                  "name": "östlicher Badestrand (Kinder)",
+                  "text": "Der östliche Stadtstrand ist ein ausgewiesener Bereich für Kinder in Skadowsk.",
+                  "category": "recreational",
+                  "coords": [
+                        32.924657,
+                        46.107468
+                  ]
+            },
+            {
+                  "name": "Оглядове колесо",
+                  "text": "Das Riesenrad ist ein Aussichtspunkt für einen Blick über Skadowsk.",
+                  "category": "natural",
+                  "coords": [
+                        32.906129,
+                        46.109473
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Скадовський дельфінарій \"Акварель\"",
+                  "text": "Az Aquarel Delfinárium egy állatkert és látványosság Szkadovszkban.",
+                  "category": "recreational",
+                  "coords": [
+                        32.881314,
+                        46.116066
+                  ]
+            },
+            {
+                  "name": "Скадовський районний історико-краєзнавчий музей",
+                  "text": "A Szkadovszki Regionális Történeti és Honismereti Múzeum helyi tárlatokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        32.894869,
+                        46.111279
+                  ]
+            },
+            {
+                  "name": "Пляж пансіонату \"Зв'язківець\"",
+                  "text": "A Szvjazkivec Panzió strandja egy üdülőhely Szkadovszkban.",
+                  "category": "recreational",
+                  "coords": [
+                        32.928804,
+                        46.107091
+                  ]
+            },
+            {
+                  "name": "Гусячий пляж",
+                  "text": "A Lúd-strand egy népszerű fürdőhely Szkadovszkban.",
+                  "category": "recreational",
+                  "coords": [
+                        32.938929,
+                        46.107285
+                  ]
+            },
+            {
+                  "name": "Східний міський пляж (дитячий)",
+                  "text": "A keleti városi strand egy kijelölt gyermekstrand Szkadovszkban.",
+                  "category": "recreational",
+                  "coords": [
+                        32.924657,
+                        46.107468
+                  ]
+            },
+            {
+                  "name": "Оглядове колесо",
+                  "text": "Az óriáskerék egy kilátópont, ahonnan belátni Szkadovszkot.",
+                  "category": "natural",
+                  "coords": [
+                        32.906129,
+                        46.109473
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Скадовський дельфінарій \"Акварель\"",
+                  "text": "Delfinariul Aquarel este o grădină zoologică și atracție turistică în Skadovsk.",
+                  "category": "recreational",
+                  "coords": [
+                        32.881314,
+                        46.116066
+                  ]
+            },
+            {
+                  "name": "Скадовський районний історико-краєзнавчий музей",
+                  "text": "Muzeul Regional de Istorie și Etnografie din Skadovsk găzduiește expoziții locale.",
+                  "category": "museum",
+                  "coords": [
+                        32.894869,
+                        46.111279
+                  ]
+            },
+            {
+                  "name": "Пляж пансіонату \"Зв'язківець\"",
+                  "text": "Plaja pensiunii Swiazkiwec este o zonă de recreere în Skadovsk.",
+                  "category": "recreational",
+                  "coords": [
+                        32.928804,
+                        46.107091
+                  ]
+            },
+            {
+                  "name": "Гусячий пляж",
+                  "text": "Plaja Gâștelor este o zonă de îmbăiere populară în Skadovsk.",
+                  "category": "recreational",
+                  "coords": [
+                        32.938929,
+                        46.107285
+                  ]
+            },
+            {
+                  "name": "Східний міський пляж (дитячий)",
+                  "text": "Plaja urbană de est este o zonă special amenajată pentru copii în Skadovsk.",
+                  "category": "recreational",
+                  "coords": [
+                        32.924657,
+                        46.107468
+                  ]
+            },
+            {
+                  "name": "Оглядове колесо",
+                  "text": "Roata panoramică este un punct de belvedere asupra orașului Skadovsk.",
+                  "category": "natural",
+                  "coords": [
+                        32.906129,
+                        46.109473
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Скадовський дельфінарій \"Акварель\"",
+                  "text": "The Aquarel Dolphinarium is a zoo and popular attraction in Skadovsk.",
+                  "category": "recreational",
+                  "coords": [
+                        32.881314,
+                        46.116066
+                  ]
+            },
+            {
+                  "name": "Скадовський районний історико-краєзнавчий музей",
+                  "text": "The Regional Museum of History and Local Lore in Skadovsk displays local historical exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        32.894869,
+                        46.111279
+                  ]
+            },
+            {
+                  "name": "Пляж пансіонату \"Зв'язківець\"",
+                  "text": "The beach of the Swiazkiwec pension is a recreational spot in Skadovsk.",
+                  "category": "recreational",
+                  "coords": [
+                        32.928804,
+                        46.107091
+                  ]
+            },
+            {
+                  "name": "Гусячий пляж",
+                  "text": "Goose Beach is a popular swimming area in Skadovsk.",
+                  "category": "recreational",
+                  "coords": [
+                        32.938929,
+                        46.107285
+                  ]
+            },
+            {
+                  "name": "East city beach (child)",
+                  "text": "The east city beach is a designated area for children in Skadovsk.",
+                  "category": "recreational",
+                  "coords": [
+                        32.924657,
+                        46.107468
+                  ]
+            },
+            {
+                  "name": "Оглядове колесо",
+                  "text": "The Ferris wheel serves as a viewpoint for panoramic sights of Skadovsk.",
+                  "category": "natural",
+                  "coords": [
+                        32.906129,
+                        46.109473
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "UA",
     name: { de: "Skadowsk", hu: "Szkadovszk", ro: "Skadovsk", en: "Skadovsk" },
@@ -6582,7 +6807,196 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
     image: "/poi-images/ukraine-chop-cities-v2.webp",
   },
   {
-    id: "ukraine-ochakiv-cities-v2",
+    id: "ukraine-ochakiv-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Leuchtturm Otschakiw (Unterfeuer)",
+                  "text": "Der vordere Leuchtturm Maiak Berezansko Ochakivskoho ist ein Leuchtfeuer in Otschakiw.",
+                  "category": "landmark",
+                  "coords": [
+                        31.540364,
+                        46.609366
+                  ]
+            },
+            {
+                  "name": "Leuchtturm Otschakiw (Oberfeuer)",
+                  "text": "Der hintere Leuchtturm Maiak Berezansko Ochakivskoho ist ein Leuchtfeuer in Otschakiw.",
+                  "category": "landmark",
+                  "coords": [
+                        31.550615,
+                        46.61208
+                  ]
+            },
+            {
+                  "name": "Будинок культури",
+                  "text": "Das Kulturhaus ist ein Theater in Otschakiw.",
+                  "category": "cultural",
+                  "coords": [
+                        31.549737,
+                        46.609502
+                  ]
+            },
+            {
+                  "name": "Музей імені Р. Судковського",
+                  "text": "Das R. Sudkowsky-Museum ist ein Museum in Otschakiw.",
+                  "category": "museum",
+                  "coords": [
+                        31.546249,
+                        46.612488
+                  ]
+            },
+            {
+                  "name": "Дитячий пляж",
+                  "text": "Der Kinderstrand ist ein Strand in Otschakiw.",
+                  "category": "recreational",
+                  "coords": [
+                        31.544379,
+                        46.605015
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Маяк Березансько-Очаківського коліна передній",
+                  "text": "A Maiak Berezansko Ochakivskoho elülső világítótorony egy jelzőfény Ocsakivban.",
+                  "category": "landmark",
+                  "coords": [
+                        31.540364,
+                        46.609366
+                  ]
+            },
+            {
+                  "name": "Маяк Березансько-Очаківського коліна задній",
+                  "text": "A Maiak Berezansko Ochakivskoho hátsó világítótorony egy jelzőfény Ocsakivban.",
+                  "category": "landmark",
+                  "coords": [
+                        31.550615,
+                        46.61208
+                  ]
+            },
+            {
+                  "name": "Будинок культури",
+                  "text": "A Kultúrház egy színház Ocsakivban.",
+                  "category": "cultural",
+                  "coords": [
+                        31.549737,
+                        46.609502
+                  ]
+            },
+            {
+                  "name": "Музей імені Р. Судковського",
+                  "text": "Az R. Sudkovszkij Múzeum egy múzeum Ocsakivban.",
+                  "category": "museum",
+                  "coords": [
+                        31.546249,
+                        46.612488
+                  ]
+            },
+            {
+                  "name": "Дитячий пляж",
+                  "text": "A Gyermekstrand egy strand Ocsakivban.",
+                  "category": "recreational",
+                  "coords": [
+                        31.544379,
+                        46.605015
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Маяк Березансько-Очаківського коліна передній",
+                  "text": "Farul anterior Maiak Berezansko Ochakivskoho este un far situat în Ociakiv.",
+                  "category": "landmark",
+                  "coords": [
+                        31.540364,
+                        46.609366
+                  ]
+            },
+            {
+                  "name": "Маяк Березансько-Очаківського коліна задній",
+                  "text": "Farul posterior Maiak Berezansko Ochakivskoho este un far situat în Ociakiv.",
+                  "category": "landmark",
+                  "coords": [
+                        31.550615,
+                        46.61208
+                  ]
+            },
+            {
+                  "name": "Будинок культури",
+                  "text": "Casa de Cultură este un teatru situat în Ociakiv.",
+                  "category": "cultural",
+                  "coords": [
+                        31.549737,
+                        46.609502
+                  ]
+            },
+            {
+                  "name": "Музей імені Р. Судковського",
+                  "text": "Muzeul R. Sudkovsky este un muzeu situat în Ociakiv.",
+                  "category": "museum",
+                  "coords": [
+                        31.546249,
+                        46.612488
+                  ]
+            },
+            {
+                  "name": "Дитячий пляж",
+                  "text": "Plaja pentru copii este o plajă situată în Ociakiv.",
+                  "category": "recreational",
+                  "coords": [
+                        31.544379,
+                        46.605015
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maiak Berezansko Ochakivskoho kolina Perednii",
+                  "text": "The front lighthouse Maiak Berezansko Ochakivskoho is a lighthouse in Ochakiv.",
+                  "category": "landmark",
+                  "coords": [
+                        31.540364,
+                        46.609366
+                  ]
+            },
+            {
+                  "name": "Maiak BerezanskoOchakivskoho kolina Zadnii",
+                  "text": "The rear lighthouse Maiak Berezansko Ochakivskoho is a lighthouse in Ochakiv.",
+                  "category": "landmark",
+                  "coords": [
+                        31.550615,
+                        46.61208
+                  ]
+            },
+            {
+                  "name": "Будинок культури",
+                  "text": "The House of Culture is a theatre in Ochakiv.",
+                  "category": "cultural",
+                  "coords": [
+                        31.549737,
+                        46.609502
+                  ]
+            },
+            {
+                  "name": "Музей імені Р. Судковського",
+                  "text": "The R. Sudkovsky Museum is a museum in Ochakiv.",
+                  "category": "museum",
+                  "coords": [
+                        31.546249,
+                        46.612488
+                  ]
+            },
+            {
+                  "name": "Дитячий пляж",
+                  "text": "The Children's Beach is a beach in Ochakiv.",
+                  "category": "recreational",
+                  "coords": [
+                        31.544379,
+                        46.605015
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "UA",
     name: { de: "Otschakiw", hu: "Ocsakiv", ro: "Oceakov", en: "Ochakiv" },

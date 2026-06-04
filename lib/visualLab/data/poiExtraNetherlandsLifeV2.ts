@@ -543,7 +543,52 @@ export const netherlandsLifeV2: POI[] = [
     image: "/poi-images/netherlands-nationaal-park-uilenhorst-life-v2.webp",
   },
   {
-    id: "netherlands-arkemheen-polder-life-v2",
+    id: "netherlands-arkemheen-polder-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Laakse Strand",
+                  "text": "Laakse Strand im Arkemheen Polder.",
+                  "category": "recreational",
+                  "coords": [
+                        5.426907,
+                        52.255362
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Laakse Strand",
+                  "text": "Laakse Strand az Arkemheen Polderben.",
+                  "category": "recreational",
+                  "coords": [
+                        5.426907,
+                        52.255362
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Laakse Strand",
+                  "text": "Laakse Strand în Arkemheen Polder.",
+                  "category": "recreational",
+                  "coords": [
+                        5.426907,
+                        52.255362
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Laakse Strand",
+                  "text": "Laakse Strand in Arkemheen Polder.",
+                  "category": "recreational",
+                  "coords": [
+                        5.426907,
+                        52.255362
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "NL",
     name: { de: "Polder Arkemheen", hu: "Arkemheen Polder", ro: "Polderul Arkemheen", en: "Arkemheen Polder" },
@@ -588,7 +633,52 @@ export const netherlandsLifeV2: POI[] = [
     image: "/poi-images/netherlands-arkemheen-polder-life-v2.webp",
   },
   {
-    id: "netherlands-nationaal-park-oosterschelde-life-v2",
+    id: "netherlands-nationaal-park-oosterschelde-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Stavenisse Badstrand",
+                  "text": "Badstrand in Stavenisse, Nationalpark Oosterschelde.",
+                  "category": "recreational",
+                  "coords": [
+                        4.004534,
+                        51.593781
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stavenisse Badstrand",
+                  "text": "Stavenisse badstrand, Oosterschelde Nemzeti Park.",
+                  "category": "recreational",
+                  "coords": [
+                        4.004534,
+                        51.593781
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stavenisse Badstrand",
+                  "text": "Plajă în Stavenisse, Parcul Național Oosterschelde.",
+                  "category": "recreational",
+                  "coords": [
+                        4.004534,
+                        51.593781
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stavenisse Badstrand",
+                  "text": "Badstrand in Stavenisse, Oosterschelde National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        4.004534,
+                        51.593781
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "NL",
     name: { de: "Nationalpark Oosterschelde", hu: "Oosterschelde Nemzeti Park", ro: "Parcul Național Oosterschelde", en: "Oosterschelde National Park" },

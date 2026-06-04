@@ -500,7 +500,52 @@ export const polandEconomicV2: POI[] = [
     },
   },
   {
-    id: "poland-poznan-international-fair-economic-v2",
+    id: "poland-poznan-international-fair-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plaża Dzika",
+                  "text": "Wilder Strand in der Nähe der Poznaner Messe.",
+                  "category": "recreational",
+                  "coords": [
+                        16.876526,
+                        52.428916
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plaża Dzika",
+                  "text": "Vadstrand a poznańi nemzetközi vásár közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        16.876526,
+                        52.428916
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plaża Dzika",
+                  "text": "Plajă sălbatică lângă Târgul Internațional din Poznań.",
+                  "category": "recreational",
+                  "coords": [
+                        16.876526,
+                        52.428916
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plaża Dzika",
+                  "text": "Wild beach near Poznań International Fair.",
+                  "category": "recreational",
+                  "coords": [
+                        16.876526,
+                        52.428916
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "landmark",
     name: { de: "Internationale Messe Posen", hu: "Poznańi Nemzetközi Vásár", ro: "Târgul Internațional Poznań", en: "Poznań International Fair"},
@@ -635,7 +680,52 @@ export const polandEconomicV2: POI[] = [
       fr: ["Appartient à la plus grande entreprise chimique polonaise, le Grupa Azoty.", "L'un des plus grands producteurs mondiaux de mélamine.", "Produit chaque année plus d'un million de tonnes d'engrais azotés.", "Possède son propre port sur la Vistule.", "La production a débuté à la fin des années 1960.", "Un moteur économique majeur pour la région de Lublin."],
     }, image: "/poi-images/poland-pulawy-nitrogen-works-economic-v2.webp"},
   {
-    id: "poland-police-chemical-plant-economic-v2",
+    id: "poland-police-chemical-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mijanka",
+                  "text": "Strand Mijanka nahe den Chemiewerken in Police.",
+                  "category": "recreational",
+                  "coords": [
+                        14.595303,
+                        53.554112
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mijanka",
+                  "text": "Mijanka strand a Policei vegyiművek közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        14.595303,
+                        53.554112
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mijanka",
+                  "text": "Plaja Mijanka lângă Combinatul Chimic din Police.",
+                  "category": "recreational",
+                  "coords": [
+                        14.595303,
+                        53.554112
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mijanka",
+                  "text": "Mijanka beach near the chemical plant in Police.",
+                  "category": "recreational",
+                  "coords": [
+                        14.595303,
+                        53.554112
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "factory",
     name: { de: "Chemiewerk Police", hu: "Policei Vegyiművek", ro: "Combinatul chimic Police", en: "Police Chemical Plant"},
@@ -995,7 +1085,52 @@ export const polandEconomicV2: POI[] = [
       fr: ["Exploitée par Tauron Wytwarzanie, une grande entreprise énergétique polonaise.", "Située à Jaworzno dans la voïvodie de Silésie.", "Le nouveau bloc de 910 MW est l'une des centrales au charbon les plus modernes d'Europe.", "Utilise du charbon provenant principalement des mines Tauron à proximité.", "Le complexe comprend aussi des capacités de chauffage urbain pour la population locale.", "La construction du nouveau bloc fut un projet de plusieurs milliards de zlotys."],
     }, image: "/poi-images/poland-jaworzno-power-station-economic-v2.webp"},
   {
-    id: "poland-legnica-copper-smelter-economic-v2",
+    id: "poland-legnica-copper-smelter-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kraina Dobrej Energii",
+                  "text": "Strand Kraina Dobrej Energii nahe der Kupferhütte Legnica.",
+                  "category": "recreational",
+                  "coords": [
+                        16.097805,
+                        51.243749
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kraina Dobrej Energii",
+                  "text": "Kraina Dobrej Energii strand a Legnicai rézkohó közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        16.097805,
+                        51.243749
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kraina Dobrej Energii",
+                  "text": "Plaja Kraina Dobrej Energii lângă Combinatul de Cupru din Legnica.",
+                  "category": "recreational",
+                  "coords": [
+                        16.097805,
+                        51.243749
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kraina Dobrej Energii",
+                  "text": "Kraina Dobrej Energii beach near Legnica Copper Smelter.",
+                  "category": "recreational",
+                  "coords": [
+                        16.097805,
+                        51.243749
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "factory",
     name: { de: "Kupferhütte Legnica", hu: "Legnicai rézkohó", ro: "Topitoria de cupru Legnica", en: "Legnica Copper Smelter"},
@@ -1130,7 +1265,52 @@ export const polandEconomicV2: POI[] = [
       fr: ["L'une des plus grandes usines intégrées de pâte et de papier d'Europe.", "Anciennement propriété d'International Paper, aujourd'hui intégrée au groupe Mayr-Melnhof.", "Produit du papier pour copieurs, du carton et des matériaux d'emballage.", "Utilise massivement des matières premières renouvelables et de la biomasse pour la production d'énergie.", "L'usine dispose de machines à papier ultramodernes d'une capacité énorme.", "Un exportateur majeur desservant des clients dans le monde entier."],
     }, image: "/poi-images/poland-kwidzyn-paper-mill-economic-v2.webp"},
   {
-    id: "poland-opole-cement-works-economic-v2",
+    id: "poland-opole-cement-works-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kąpielisko Bolko",
+                  "text": "Strandbad Bolko in Opole.",
+                  "category": "recreational",
+                  "coords": [
+                        17.938681,
+                        50.644255
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kąpielisko Bolko",
+                  "text": "Bolko strand Opoleben.",
+                  "category": "recreational",
+                  "coords": [
+                        17.938681,
+                        50.644255
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kąpielisko Bolko",
+                  "text": "Plaja Bolko din Opole.",
+                  "category": "recreational",
+                  "coords": [
+                        17.938681,
+                        50.644255
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kąpielisko Bolko",
+                  "text": "Bolko beach in Opole.",
+                  "category": "recreational",
+                  "coords": [
+                        17.938681,
+                        50.644255
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "factory",
     name: { de: "Zementwerk Opole", hu: "Opolei cementgyár", ro: "Fabrica de ciment Opole", en: "Opole Cement Works"},
@@ -1175,7 +1355,52 @@ export const polandEconomicV2: POI[] = [
       fr: ["La région d'Opole produit une grande partie de l'ensemble du ciment polonais.", "Les carrières de calcaire de la région figurent parmi les plus prolifiques d'Europe centrale.", "La cimenterie Górażdże est l'une des plus grandes et des plus modernes d'Europe.", "Les usines utilisent largement des déchets recyclés comme combustible alternatif.", "La tradition cimentière à Opole remonte au milieu du XIXe siècle.", "La proximité de l'Oder a historiquement facilité le transport des matériaux de construction."],
     }, image: "/poi-images/poland-opole-cement-works-economic-v2.webp"},
   {
-    id: "poland-starachowice-truck-plant-economic-v2",
+    id: "poland-starachowice-truck-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kąpielisko Lubianka",
+                  "text": "Badeplatz Lubianka bei der Starachowice-LKW-Fabrik.",
+                  "category": "recreational",
+                  "coords": [
+                        21.046966,
+                        51.027177
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kąpielisko Lubianka",
+                  "text": "Lubianka fürdőhely a Starachowice teherautógyár közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        21.046966,
+                        51.027177
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kąpielisko Lubianka",
+                  "text": "Zona de scăldat Lubianka lângă fabrica de camioane din Starachowice.",
+                  "category": "recreational",
+                  "coords": [
+                        21.046966,
+                        51.027177
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kąpielisko Lubianka",
+                  "text": "Lubianka swimming area near the Starachowice truck plant.",
+                  "category": "recreational",
+                  "coords": [
+                        21.046966,
+                        51.027177
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "factory",
     name: { de: "Lkw-Werk Starachowice", hu: "Starachowicei teherautógyár", ro: "Fabrica de camioane Starachowice", en: "Starachowice Truck Plant"},

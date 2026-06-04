@@ -182,7 +182,52 @@ const settlementRows: SettlementRow[] = [
     },
     image: "/poi-images/nl-amersfoort.webp",
   },
-  { id: "nl-amstelveen", parent: "NL-NH", coords: [4.859684, 52.302821], name: "Amstelveen", theme: "suburb",
+  { id: "nl-amstelveen", "sights": {
+      "de": [
+            {
+                  "name": "Nieuwe Meer Westzijde, Oeverlanden",
+                  "text": "Strand am Nieuwe Meer in Amstelveen.",
+                  "category": "recreational",
+                  "coords": [
+                        4.812087,
+                        52.333295
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nieuwe Meer Westzijde, Oeverlanden",
+                  "text": "Strand a Nieuwe Meer-tónál, Amstelveenben.",
+                  "category": "recreational",
+                  "coords": [
+                        4.812087,
+                        52.333295
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nieuwe Meer Westzijde, Oeverlanden",
+                  "text": "Plajă la Nieuwe Meer în Amstelveen.",
+                  "category": "recreational",
+                  "coords": [
+                        4.812087,
+                        52.333295
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nieuwe Meer Westzijde, Oeverlanden",
+                  "text": "Beach at the Nieuwe Meer in Amstelveen.",
+                  "category": "recreational",
+                  "coords": [
+                        4.812087,
+                        52.333295
+                  ]
+            }
+      ]
+}, parent: "NL-NH", coords: [4.859684, 52.302821], name: "Amstelveen", theme: "suburb",
     description: {
       de: "Amstelveen ist eine grüne Vorstadtgemeinde südlich von Amsterdam, die bei Expats sehr beliebt ist.",
       hu: "Amstelveen egy zöld külvárosi önkormányzat közvetlenül Amszterdamtól délre, nagyon népszerű a külföldiek körében.",
@@ -416,7 +461,52 @@ const settlementRows: SettlementRow[] = [
     },
     image: "/poi-images/nl-beverwijk.webp",
   },
-  { id: "nl-biddinghuizen", parent: "NL-FL", coords: [5.69216, 52.455222], name: "Biddinghuizen", theme: "events",
+  { id: "nl-biddinghuizen", "sights": {
+      "de": [
+            {
+                  "name": "Bremerbaaistrand",
+                  "text": "Strand bei Biddinghuizen, gelegen am Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        5.72856,
+                        52.416283
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bremerbaaistrand",
+                  "text": "Strand Biddinghuizen mellett, a vízparton.",
+                  "category": "recreational",
+                  "coords": [
+                        5.72856,
+                        52.416283
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bremerbaaistrand",
+                  "text": "Plajă lângă Biddinghuizen, situată pe malul apei.",
+                  "category": "recreational",
+                  "coords": [
+                        5.72856,
+                        52.416283
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bremerbaaistrand",
+                  "text": "Beach near Biddinghuizen, situated by the water.",
+                  "category": "recreational",
+                  "coords": [
+                        5.72856,
+                        52.416283
+                  ]
+            }
+      ]
+}, parent: "NL-FL", coords: [5.69216, 52.455222], name: "Biddinghuizen", theme: "events",
     description: {
       de: "Ein Dorf in der niederländischen Provinz Flevoland, das für die Ausrichtung von Großveranstaltungen bekannt ist. Es gehört zur Gemeinde Dronten.",
       hu: "Flevoland holland tartomány egyik faluja, amely nagy rendezvényeiről ismert. Dronten község része.",
@@ -494,7 +584,52 @@ const settlementRows: SettlementRow[] = [
     },
     image: "/poi-images/nl-bolsward.webp",
   },
-  { id: "nl-barneveld", parent: "NL-GE", coords: [5.645439, 52.171507], name: "Barneveld", theme: "nature",
+  { id: "nl-barneveld", "sights": {
+      "de": [
+            {
+                  "name": "Recreatiegebied Zeumeren",
+                  "text": "Strand am Erholungsgebiet Zeumeren bei Barneveld.",
+                  "category": "recreational",
+                  "coords": [
+                        5.619938,
+                        52.174823
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Recreatiegebied Zeumeren",
+                  "text": "Strand a Zeumeren üdülőövezetben, Barneveld mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        5.619938,
+                        52.174823
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Recreatiegebied Zeumeren",
+                  "text": "Plajă la zona de recreere Zeumeren lângă Barneveld.",
+                  "category": "recreational",
+                  "coords": [
+                        5.619938,
+                        52.174823
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Recreatiegebied Zeumeren",
+                  "text": "Beach at the Zeumeren recreation area near Barneveld.",
+                  "category": "recreational",
+                  "coords": [
+                        5.619938,
+                        52.174823
+                  ]
+            }
+      ]
+}, parent: "NL-GE", coords: [5.645439, 52.171507], name: "Barneveld", theme: "nature",
     description: {
       de: "Eine Gemeinde und Stadt in der Provinz Gelderland, zentral in den Niederlanden gelegen. Sie hat eine reiche landwirtschaftliche Geschichte.",
       hu: "Egy község és város Gelderland tartományban, Hollandia központi részén. Gazdag mezőgazdasági történelemmel rendelkezik.",
@@ -767,7 +902,232 @@ const settlementRows: SettlementRow[] = [
     },
     image: "/poi-images/nl-edam.webp",
   },
-  { id: "nl-elburg", parent: "NL-GE", coords: [5.841322, 52.415659], name: "Elburg", theme: "fortified",
+  { id: "nl-elburg", "sights": {
+      "de": [
+            {
+                  "name": "Ellerstrand Zuid",
+                  "text": "Ellerstrand Zuid bei Elburg.",
+                  "category": "recreational",
+                  "coords": [
+                        5.773845,
+                        52.427367
+                  ]
+            },
+            {
+                  "name": "Zandenplas",
+                  "text": "Zandenplas bei Elburg.",
+                  "category": "recreational",
+                  "coords": [
+                        5.816854,
+                        52.374096
+                  ]
+            },
+            {
+                  "name": "Ellerstrand Noord (naaktstrand)",
+                  "text": "Naturistenstrand Ellerstrand Noord bei Elburg.",
+                  "category": "recreational",
+                  "coords": [
+                        5.790106,
+                        52.436012
+                  ]
+            },
+            {
+                  "name": "Spijkstrand",
+                  "text": "Spijkstrand bei Elburg.",
+                  "category": "recreational",
+                  "coords": [
+                        5.810542,
+                        52.453999
+                  ]
+            },
+            {
+                  "name": "Beach Noord",
+                  "text": "Strand nahe Elburg am Veluwemeer.",
+                  "category": "recreational",
+                  "coords": [
+                        5.806082,
+                        52.448737
+                  ]
+            },
+            {
+                  "name": "Beach Zuid",
+                  "text": "Beach Zuid in Elburg.",
+                  "category": "recreational",
+                  "coords": [
+                        5.801068,
+                        52.443129
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ellerstrand Zuid",
+                  "text": "Ellerstrand Zuid strand, Elburg közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        5.773845,
+                        52.427367
+                  ]
+            },
+            {
+                  "name": "Zandenplas",
+                  "text": "Zandenplas, Elburg közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        5.816854,
+                        52.374096
+                  ]
+            },
+            {
+                  "name": "Ellerstrand Noord (naaktstrand)",
+                  "text": "Természetes strand Ellerstrand Noord, Elburg közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        5.790106,
+                        52.436012
+                  ]
+            },
+            {
+                  "name": "Spijkstrand",
+                  "text": "Spijkstrand strand, Elburg közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        5.810542,
+                        52.453999
+                  ]
+            },
+            {
+                  "name": "Beach Noord",
+                  "text": "Elburg melletti strand a Veluwemeer-tónál.",
+                  "category": "recreational",
+                  "coords": [
+                        5.806082,
+                        52.448737
+                  ]
+            },
+            {
+                  "name": "Beach Zuid",
+                  "text": "Beach Zuid strand Elburgban.",
+                  "category": "recreational",
+                  "coords": [
+                        5.801068,
+                        52.443129
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ellerstrand Zuid",
+                  "text": "Plaja Ellerstrand Zuid, lângă Elburg.",
+                  "category": "recreational",
+                  "coords": [
+                        5.773845,
+                        52.427367
+                  ]
+            },
+            {
+                  "name": "Zandenplas",
+                  "text": "Plaja Zandenplas, lângă Elburg.",
+                  "category": "recreational",
+                  "coords": [
+                        5.816854,
+                        52.374096
+                  ]
+            },
+            {
+                  "name": "Ellerstrand Noord (naaktstrand)",
+                  "text": "Plajă pentru nudiști Ellerstrand Noord, lângă Elburg.",
+                  "category": "recreational",
+                  "coords": [
+                        5.790106,
+                        52.436012
+                  ]
+            },
+            {
+                  "name": "Spijkstrand",
+                  "text": "Plaja Spijkstrand, lângă Elburg.",
+                  "category": "recreational",
+                  "coords": [
+                        5.810542,
+                        52.453999
+                  ]
+            },
+            {
+                  "name": "Beach Noord",
+                  "text": "Plajă lângă Elburg la Veluwemeer.",
+                  "category": "recreational",
+                  "coords": [
+                        5.806082,
+                        52.448737
+                  ]
+            },
+            {
+                  "name": "Beach Zuid",
+                  "text": "Plaja Beach Zuid din Elburg.",
+                  "category": "recreational",
+                  "coords": [
+                        5.801068,
+                        52.443129
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ellerstrand Zuid",
+                  "text": "Ellerstrand Zuid near Elburg.",
+                  "category": "recreational",
+                  "coords": [
+                        5.773845,
+                        52.427367
+                  ]
+            },
+            {
+                  "name": "Zandenplas",
+                  "text": "Zandenplas near Elburg.",
+                  "category": "recreational",
+                  "coords": [
+                        5.816854,
+                        52.374096
+                  ]
+            },
+            {
+                  "name": "Ellerstrand Noord (naaktstrand)",
+                  "text": "Nudist beach Ellerstrand Noord near Elburg.",
+                  "category": "recreational",
+                  "coords": [
+                        5.790106,
+                        52.436012
+                  ]
+            },
+            {
+                  "name": "Spijkstrand",
+                  "text": "Spijkstrand near Elburg.",
+                  "category": "recreational",
+                  "coords": [
+                        5.810542,
+                        52.453999
+                  ]
+            },
+            {
+                  "name": "Beach Noord",
+                  "text": "Beach near Elburg at Veluwemeer.",
+                  "category": "recreational",
+                  "coords": [
+                        5.806082,
+                        52.448737
+                  ]
+            },
+            {
+                  "name": "Beach Zuid",
+                  "text": "Beach Zuid beach in Elburg.",
+                  "category": "recreational",
+                  "coords": [
+                        5.801068,
+                        52.443129
+                  ]
+            }
+      ]
+}, parent: "NL-GE", coords: [5.841322, 52.415659], name: "Elburg", theme: "fortified",
     description: {
       de: "Elburg ist eine bezaubernde Festungsstadt in Gelderland mit einem gut erhaltenen mittelalterlichen Straßennetz.",
       hu: "Elburg egy bájos erődváros Gelderlandban, jól megőrzött középkori utcaszerkezettel.",
@@ -1040,7 +1400,340 @@ const settlementRows: SettlementRow[] = [
     },
     image: "/poi-images/nl-gorinchem.webp",
   },
-  { id: "nl-harderwijk", parent: "NL-GE", coords: [5.618933, 52.349069], name: "Harderwijk", theme: "historic",
+  { id: "nl-harderwijk", "sights": {
+      "de": [
+            {
+                  "name": "Hanzestrand",
+                  "text": "Hanzestrand in Harderwijk am Veluwemeer.",
+                  "category": "recreational",
+                  "coords": [
+                        5.60976,
+                        52.344543
+                  ]
+            },
+            {
+                  "name": "IJsselmeerstrand",
+                  "text": "Strand am IJsselmeer in Harderwijk.",
+                  "category": "recreational",
+                  "coords": [
+                        5.598889,
+                        52.337116
+                  ]
+            },
+            {
+                  "name": "Rietgorsstrand",
+                  "text": "Rietgorsstrand in Harderwijk.",
+                  "category": "recreational",
+                  "coords": [
+                        5.595656,
+                        52.335151
+                  ]
+            },
+            {
+                  "name": "Oostzeestrand",
+                  "text": "Oostzeestrand in Harderwijk.",
+                  "category": "recreational",
+                  "coords": [
+                        5.607466,
+                        52.342602
+                  ]
+            },
+            {
+                  "name": "Schippersstrand",
+                  "text": "Schippersstrand in Harderwijk.",
+                  "category": "recreational",
+                  "coords": [
+                        5.60622,
+                        52.341738
+                  ]
+            },
+            {
+                  "name": "Muidenstrand",
+                  "text": "Muidenstrand in Harderwijk.",
+                  "category": "recreational",
+                  "coords": [
+                        5.600832,
+                        52.338059
+                  ]
+            },
+            {
+                  "name": "Zuiderzeestrand",
+                  "text": "Zuiderzeestrand in Harderwijk.",
+                  "category": "recreational",
+                  "coords": [
+                        5.604368,
+                        52.340309
+                  ]
+            },
+            {
+                  "name": "Strandeiland",
+                  "text": "Strandeiland in Harderwijk.",
+                  "category": "recreational",
+                  "coords": [
+                        5.613262,
+                        52.351284
+                  ]
+            },
+            {
+                  "name": "Rolstoelstrand",
+                  "text": "Strand in Harderwijk, barrierefrei zugänglich.",
+                  "category": "recreational",
+                  "coords": [
+                        5.61245,
+                        52.347144
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hanzestrand",
+                  "text": "Hanzestrand Harderwijkben, a Veluwemeer-nél.",
+                  "category": "recreational",
+                  "coords": [
+                        5.60976,
+                        52.344543
+                  ]
+            },
+            {
+                  "name": "IJsselmeerstrand",
+                  "text": "Strand az IJsselmeer-nél Harderwijkben.",
+                  "category": "recreational",
+                  "coords": [
+                        5.598889,
+                        52.337116
+                  ]
+            },
+            {
+                  "name": "Rietgorsstrand",
+                  "text": "Rietgorsstrand strand Harderwijkben.",
+                  "category": "recreational",
+                  "coords": [
+                        5.595656,
+                        52.335151
+                  ]
+            },
+            {
+                  "name": "Oostzeestrand",
+                  "text": "Oostzeestrand strand Harderwijkben.",
+                  "category": "recreational",
+                  "coords": [
+                        5.607466,
+                        52.342602
+                  ]
+            },
+            {
+                  "name": "Schippersstrand",
+                  "text": "Schippersstrand strand Harderwijkben.",
+                  "category": "recreational",
+                  "coords": [
+                        5.60622,
+                        52.341738
+                  ]
+            },
+            {
+                  "name": "Muidenstrand",
+                  "text": "Muidenstrand strand Harderwijkben.",
+                  "category": "recreational",
+                  "coords": [
+                        5.600832,
+                        52.338059
+                  ]
+            },
+            {
+                  "name": "Zuiderzeestrand",
+                  "text": "Zuiderzeestrand strand Harderwijkben.",
+                  "category": "recreational",
+                  "coords": [
+                        5.604368,
+                        52.340309
+                  ]
+            },
+            {
+                  "name": "Strandeiland",
+                  "text": "Strandeiland strand Harderwijkben.",
+                  "category": "recreational",
+                  "coords": [
+                        5.613262,
+                        52.351284
+                  ]
+            },
+            {
+                  "name": "Rolstoelstrand",
+                  "text": "Strand Harderwijkben, akadálymentesen megközelíthető.",
+                  "category": "recreational",
+                  "coords": [
+                        5.61245,
+                        52.347144
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hanzestrand",
+                  "text": "Hanzestrand în Harderwijk la Veluwemeer.",
+                  "category": "recreational",
+                  "coords": [
+                        5.60976,
+                        52.344543
+                  ]
+            },
+            {
+                  "name": "IJsselmeerstrand",
+                  "text": "Plajă la IJsselmeer în Harderwijk.",
+                  "category": "recreational",
+                  "coords": [
+                        5.598889,
+                        52.337116
+                  ]
+            },
+            {
+                  "name": "Rietgorsstrand",
+                  "text": "Rietgorsstrand în Harderwijk.",
+                  "category": "recreational",
+                  "coords": [
+                        5.595656,
+                        52.335151
+                  ]
+            },
+            {
+                  "name": "Oostzeestrand",
+                  "text": "Plaja Oostzeestrand din Harderwijk.",
+                  "category": "recreational",
+                  "coords": [
+                        5.607466,
+                        52.342602
+                  ]
+            },
+            {
+                  "name": "Schippersstrand",
+                  "text": "Plaja Schippersstrand din Harderwijk.",
+                  "category": "recreational",
+                  "coords": [
+                        5.60622,
+                        52.341738
+                  ]
+            },
+            {
+                  "name": "Muidenstrand",
+                  "text": "Plaja Muidenstrand din Harderwijk.",
+                  "category": "recreational",
+                  "coords": [
+                        5.600832,
+                        52.338059
+                  ]
+            },
+            {
+                  "name": "Zuiderzeestrand",
+                  "text": "Plaja Zuiderzeestrand din Harderwijk.",
+                  "category": "recreational",
+                  "coords": [
+                        5.604368,
+                        52.340309
+                  ]
+            },
+            {
+                  "name": "Strandeiland",
+                  "text": "Plaja Strandeiland din Harderwijk.",
+                  "category": "recreational",
+                  "coords": [
+                        5.613262,
+                        52.351284
+                  ]
+            },
+            {
+                  "name": "Rolstoelstrand",
+                  "text": "Plajă în Harderwijk, accesibilă persoanelor cu dizabilități.",
+                  "category": "recreational",
+                  "coords": [
+                        5.61245,
+                        52.347144
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hanzestrand",
+                  "text": "Hanzestrand in Harderwijk at Veluwemeer.",
+                  "category": "recreational",
+                  "coords": [
+                        5.60976,
+                        52.344543
+                  ]
+            },
+            {
+                  "name": "IJsselmeerstrand",
+                  "text": "Beach at the IJsselmeer in Harderwijk.",
+                  "category": "recreational",
+                  "coords": [
+                        5.598889,
+                        52.337116
+                  ]
+            },
+            {
+                  "name": "Rietgorsstrand",
+                  "text": "Rietgorsstrand in Harderwijk.",
+                  "category": "recreational",
+                  "coords": [
+                        5.595656,
+                        52.335151
+                  ]
+            },
+            {
+                  "name": "Oostzeestrand",
+                  "text": "Oostzeestrand beach in Harderwijk.",
+                  "category": "recreational",
+                  "coords": [
+                        5.607466,
+                        52.342602
+                  ]
+            },
+            {
+                  "name": "Schippersstrand",
+                  "text": "Schippersstrand beach in Harderwijk.",
+                  "category": "recreational",
+                  "coords": [
+                        5.60622,
+                        52.341738
+                  ]
+            },
+            {
+                  "name": "Muidenstrand",
+                  "text": "Muidenstrand beach in Harderwijk.",
+                  "category": "recreational",
+                  "coords": [
+                        5.600832,
+                        52.338059
+                  ]
+            },
+            {
+                  "name": "Zuiderzeestrand",
+                  "text": "Zuiderzeestrand beach in Harderwijk.",
+                  "category": "recreational",
+                  "coords": [
+                        5.604368,
+                        52.340309
+                  ]
+            },
+            {
+                  "name": "Strandeiland",
+                  "text": "Strandeiland beach in Harderwijk.",
+                  "category": "recreational",
+                  "coords": [
+                        5.613262,
+                        52.351284
+                  ]
+            },
+            {
+                  "name": "Rolstoelstrand",
+                  "text": "Beach in Harderwijk, accessible for disabled persons.",
+                  "category": "recreational",
+                  "coords": [
+                        5.61245,
+                        52.347144
+                  ]
+            }
+      ]
+}, parent: "NL-GE", coords: [5.618933, 52.349069], name: "Harderwijk", theme: "historic",
     description: {
       de: "Harderwijk ist eine historische Hansestadt am Veluwemeer, die eine reiche Vergangenheit mit moderner Erholung verbindet.",
       hu: "Harderwijk egy történelmi Hanza-város a Veluwemeer partján, amely ötvözi a gazdag múltat a modern rekreációval.",
@@ -1274,7 +1967,52 @@ const settlementRows: SettlementRow[] = [
     },
     image: "/poi-images/nl-hoorn.webp",
   },
-  { id: "nl-huizen", parent: "NL-NH", coords: [5.256721, 52.295812], name: "Huizen", theme: "coastal",
+  { id: "nl-huizen", "sights": {
+      "de": [
+            {
+                  "name": "Zomerkade",
+                  "text": "Strand an der Zomerkade in Huizen.",
+                  "category": "recreational",
+                  "coords": [
+                        5.260074,
+                        52.306234
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zomerkade",
+                  "text": "Strand a huizeni Zomerkade-nál.",
+                  "category": "recreational",
+                  "coords": [
+                        5.260074,
+                        52.306234
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zomerkade",
+                  "text": "Plajă la Zomerkade în Huizen.",
+                  "category": "recreational",
+                  "coords": [
+                        5.260074,
+                        52.306234
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zomerkade",
+                  "text": "Beach at the Zomerkade in Huizen.",
+                  "category": "recreational",
+                  "coords": [
+                        5.260074,
+                        52.306234
+                  ]
+            }
+      ]
+}, parent: "NL-NH", coords: [5.256721, 52.295812], name: "Huizen", theme: "coastal",
     description: {
       de: "Huizen ist eine Küstenstadt in Nordholland, bekannt für ihre traditionelle Tracht und ihre Vergangenheit als Fischerdorf.",
       hu: "Huizen tengerparti város Észak-Hollandiában, amely hagyományos népviseletéről és halászfalusi múltjáról ismert.",
@@ -1664,7 +2402,52 @@ const settlementRows: SettlementRow[] = [
     },
     image: "/poi-images/nl-middelburg.webp",
   },
-  { id: "nl-naarden", parent: "NL-NH", coords: [5.163364, 52.295763], name: "Naarden", theme: "fortified",
+  { id: "nl-naarden", "sights": {
+      "de": [
+            {
+                  "name": "Zilverstrand",
+                  "text": "Zilverstrand ist ein Strand bei Naarden.",
+                  "category": "recreational",
+                  "coords": [
+                        5.145607,
+                        52.326057
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zilverstrand",
+                  "text": "A Zilverstrand strand Naarden közelében fekszik.",
+                  "category": "recreational",
+                  "coords": [
+                        5.145607,
+                        52.326057
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zilverstrand",
+                  "text": "Zilverstrand este o plajă situată lângă Naarden.",
+                  "category": "recreational",
+                  "coords": [
+                        5.145607,
+                        52.326057
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zilverstrand",
+                  "text": "Zilverstrand is a beach near Naarden.",
+                  "category": "recreational",
+                  "coords": [
+                        5.145607,
+                        52.326057
+                  ]
+            }
+      ]
+}, parent: "NL-NH", coords: [5.163364, 52.295763], name: "Naarden", theme: "fortified",
     description: {
       de: "Naarden ist eine einzigartige Festungsstadt in Nordholland, berühmt für ihren perfekt erhaltenen sternförmigen Graben und ihre Mauern.",
       hu: "Naarden egyedülálló erődváros Észak-Hollandiában, amely tökéletesen megőrzött csillag alakú várárkáról és falairól híres.",
@@ -2561,7 +3344,52 @@ const settlementRows: SettlementRow[] = [
     },
     image: "/poi-images/nl-wageningen.webp",
   },
-  { id: "nl-weert", parent: "NL-LI", coords: [5.70508, 51.235583], name: "Weert", theme: "historic",
+  { id: "nl-weert", "sights": {
+      "de": [
+            {
+                  "name": "Dagstrand",
+                  "text": "Tagesstrand bei Weert, ein lokaler Erholungsort.",
+                  "category": "recreational",
+                  "coords": [
+                        5.650052,
+                        51.234665
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dagstrand",
+                  "text": "Nappali strand Weert mellett, helyi pihenőhely.",
+                  "category": "recreational",
+                  "coords": [
+                        5.650052,
+                        51.234665
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dagstrand",
+                  "text": "Plajă de zi lângă Weert, un loc de recreere local.",
+                  "category": "recreational",
+                  "coords": [
+                        5.650052,
+                        51.234665
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dagstrand",
+                  "text": "Day beach near Weert, a local recreational spot.",
+                  "category": "recreational",
+                  "coords": [
+                        5.650052,
+                        51.234665
+                  ]
+            }
+      ]
+}, parent: "NL-LI", coords: [5.70508, 51.235583], name: "Weert", theme: "historic",
     description: {
       de: "Weert ist eine historische Stadt in Limburg, umgeben von Naturschutzgebieten, die eine Mischung aus Kultur und Grün bietet.",
       hu: "Weert történelmi város Limburgban, természetvédelmi területekkel körülvéve, amely a kultúra és a zöldövezetek keverékét kínálja.",
@@ -2600,7 +3428,52 @@ const settlementRows: SettlementRow[] = [
     },
     image: "/poi-images/nl-weert.webp",
   },
-  { id: "nl-woerden", parent: "NL-UT", coords: [4.883294, 52.085926], name: "Woerden", theme: "cheese",
+  { id: "nl-woerden", "sights": {
+      "de": [
+            {
+                  "name": "Strand Cattenbroek",
+                  "text": "Strand Cattenbroek bei Woerden.",
+                  "category": "recreational",
+                  "coords": [
+                        4.916616,
+                        52.080221
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Strand Cattenbroek",
+                  "text": "Strand Cattenbroek Woerden közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        4.916616,
+                        52.080221
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Strand Cattenbroek",
+                  "text": "Strand Cattenbroek lângă Woerden.",
+                  "category": "recreational",
+                  "coords": [
+                        4.916616,
+                        52.080221
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Strand Cattenbroek",
+                  "text": "Strand Cattenbroek near Woerden.",
+                  "category": "recreational",
+                  "coords": [
+                        4.916616,
+                        52.080221
+                  ]
+            }
+      ]
+}, parent: "NL-UT", coords: [4.883294, 52.085926], name: "Woerden", theme: "cheese",
     description: {
       de: "Woerden ist eine historische Festungsstadt in Utrecht, die eine starke Tradition als geschäftige Käsemarktstadt pflegt.",
       hu: "Woerden történelmi erődváros Utrechtben, amely erős hagyományokat őriz nyüzsgő sajtpiaci városként.",
@@ -2639,7 +3512,52 @@ const settlementRows: SettlementRow[] = [
     },
     image: "/poi-images/nl-woerden.webp",
   },
-  { id: "nl-yerseke", parent: "NL-ZE", coords: [4.04525, 51.493579], name: "Yerseke", theme: "seafood",
+  { id: "nl-yerseke", "sights": {
+      "de": [
+            {
+                  "name": "Strand Yerseke",
+                  "text": "Strand in Yerseke.",
+                  "category": "recreational",
+                  "coords": [
+                        4.044998,
+                        51.502565
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Strand Yerseke",
+                  "text": "Strand Yerseke városában.",
+                  "category": "recreational",
+                  "coords": [
+                        4.044998,
+                        51.502565
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Strand Yerseke",
+                  "text": "Plajă în Yerseke.",
+                  "category": "recreational",
+                  "coords": [
+                        4.044998,
+                        51.502565
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Strand Yerseke",
+                  "text": "Beach in Yerseke.",
+                  "category": "recreational",
+                  "coords": [
+                        4.044998,
+                        51.502565
+                  ]
+            }
+      ]
+}, parent: "NL-ZE", coords: [4.04525, 51.493579], name: "Yerseke", theme: "seafood",
     description: {
       de: "Yerseke ist ein Dorf in Zeeland, das als Zentrum der niederländischen Austern- und Muschelindustrie gefeiert wird.",
       hu: "Yerseke egy falu Zeelandban, amelyet a holland osztriga- és kagylóipar központjaként ünnepelnek.",
@@ -2756,7 +3674,160 @@ const settlementRows: SettlementRow[] = [
     },
     image: "/poi-images/nl-zierikzee.webp",
   },
-  { id: "nl-zeewolde", parent: "NL-FL", coords: [5.543031, 52.331111], name: "Zeewolde", theme: "polder",
+  { id: "nl-zeewolde", "sights": {
+      "de": [
+            {
+                  "name": "Woldstrand",
+                  "text": "Woldstrand in Zeewolde.",
+                  "category": "recreational",
+                  "coords": [
+                        5.5491,
+                        52.325127
+                  ]
+            },
+            {
+                  "name": "RCN Strand",
+                  "text": "RCN Strand in Zeewolde.",
+                  "category": "recreational",
+                  "coords": [
+                        5.546019,
+                        52.309832
+                  ]
+            },
+            {
+                  "name": "Strand Horst Noord",
+                  "text": "Strand Horst Noord in Zeewolde.",
+                  "category": "recreational",
+                  "coords": [
+                        5.572533,
+                        52.324143
+                  ]
+            },
+            {
+                  "name": "Strand Horst Zuid",
+                  "text": "Strand Horst Zuid in Zeewolde.",
+                  "category": "recreational",
+                  "coords": [
+                        5.557715,
+                        52.30824
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Woldstrand",
+                  "text": "Woldstrand Zeewolde-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        5.5491,
+                        52.325127
+                  ]
+            },
+            {
+                  "name": "RCN Strand",
+                  "text": "RCN Strand Zeewolde-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        5.546019,
+                        52.309832
+                  ]
+            },
+            {
+                  "name": "Strand Horst Noord",
+                  "text": "Strand Horst Noord strand Zeewoldéban.",
+                  "category": "recreational",
+                  "coords": [
+                        5.572533,
+                        52.324143
+                  ]
+            },
+            {
+                  "name": "Strand Horst Zuid",
+                  "text": "Strand Horst Zuid strand Zeewoldéban.",
+                  "category": "recreational",
+                  "coords": [
+                        5.557715,
+                        52.30824
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Woldstrand",
+                  "text": "Plaja Woldstrand în Zeewolde.",
+                  "category": "recreational",
+                  "coords": [
+                        5.5491,
+                        52.325127
+                  ]
+            },
+            {
+                  "name": "RCN Strand",
+                  "text": "Plaja RCN în Zeewolde.",
+                  "category": "recreational",
+                  "coords": [
+                        5.546019,
+                        52.309832
+                  ]
+            },
+            {
+                  "name": "Strand Horst Noord",
+                  "text": "Plaja Strand Horst Noord în Zeewolde.",
+                  "category": "recreational",
+                  "coords": [
+                        5.572533,
+                        52.324143
+                  ]
+            },
+            {
+                  "name": "Strand Horst Zuid",
+                  "text": "Plaja Strand Horst Zuid în Zeewolde.",
+                  "category": "recreational",
+                  "coords": [
+                        5.557715,
+                        52.30824
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Woldstrand",
+                  "text": "Woldstrand in Zeewolde.",
+                  "category": "recreational",
+                  "coords": [
+                        5.5491,
+                        52.325127
+                  ]
+            },
+            {
+                  "name": "RCN Strand",
+                  "text": "RCN beach in Zeewolde.",
+                  "category": "recreational",
+                  "coords": [
+                        5.546019,
+                        52.309832
+                  ]
+            },
+            {
+                  "name": "Strand Horst Noord",
+                  "text": "Strand Horst Noord in Zeewolde.",
+                  "category": "recreational",
+                  "coords": [
+                        5.572533,
+                        52.324143
+                  ]
+            },
+            {
+                  "name": "Strand Horst Zuid",
+                  "text": "Strand Horst Zuid in Zeewolde.",
+                  "category": "recreational",
+                  "coords": [
+                        5.557715,
+                        52.30824
+                  ]
+            }
+      ]
+}, parent: "NL-FL", coords: [5.543031, 52.331111], name: "Zeewolde", theme: "polder",
     description: {
       de: "Zeewolde ist eine der jüngsten Gemeinden der Niederlande, hauptsächlich bekannt für ihre Landwirtschaft und große angrenzende Wälder.",
       hu: "Zeewolde Hollandia egyik legfiatalabb községe, elsősorban mezőgazdaságáról és a szomszédos nagy erdőiről ismert.",

@@ -48,7 +48,52 @@ export const denmarkNatureV2: POI[] = [
     image: "/poi-images/denmark-vildmose-nature-v2.webp",
   },
   {
-    id: "denmark-skjern-aa-nature-v2",
+    id: "denmark-skjern-aa-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Skjern Å Bad",
+                  "text": "Skjern Å Bad ist ein Badebereich am Fluss Skjern Å.",
+                  "category": "recreational",
+                  "coords": [
+                        8.503043,
+                        55.931594
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Skjern Å Bad",
+                  "text": "A Skjern Å Bad egy fürdőhely a Skjern Å folyó mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        8.503043,
+                        55.931594
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Skjern Å Bad",
+                  "text": "Skjern Å Bad este o zonă de scăldat de-a lungul râului Skjern Å.",
+                  "category": "recreational",
+                  "coords": [
+                        8.503043,
+                        55.931594
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Skjern Å Bad",
+                  "text": "Skjern Å Bad is a swimming area along the river Skjern Å.",
+                  "category": "recreational",
+                  "coords": [
+                        8.503043,
+                        55.931594
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "DK",
     name: { de: "Skjern Au", hu: "Skjern-folyó", ro: "Râul Skjern", en: "Skjern River" },

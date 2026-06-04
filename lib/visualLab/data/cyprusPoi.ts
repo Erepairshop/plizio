@@ -270,7 +270,88 @@ export const cyprusRegions: POI[] = [
     },
   },
   {
-    id: "cy-kyrenia",
+    id: "cy-kyrenia", "sights": {
+      "de": [
+            {
+                  "name": "Karaoğlanoğlu Plajı",
+                  "text": "Strand in der Nähe von Kyrenia.",
+                  "category": "recreational",
+                  "coords": [
+                        33.275398,
+                        35.344925
+                  ]
+            },
+            {
+                  "name": "Riviera Beach",
+                  "text": "Riviera Beach ist ein Strand bei Kyrenia.",
+                  "category": "recreational",
+                  "coords": [
+                        33.279888,
+                        35.34528
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Karaoğlanoğlu Plajı",
+                  "text": "Strand Kyrenia közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        33.275398,
+                        35.344925
+                  ]
+            },
+            {
+                  "name": "Riviera Beach",
+                  "text": "Riviera Beach egy strand Kyrenia közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        33.279888,
+                        35.34528
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Karaoğlanoğlu Plajı",
+                  "text": "Plajă lângă Kyrenia.",
+                  "category": "recreational",
+                  "coords": [
+                        33.275398,
+                        35.344925
+                  ]
+            },
+            {
+                  "name": "Riviera Beach",
+                  "text": "Riviera Beach este o plajă lângă Kyrenia.",
+                  "category": "recreational",
+                  "coords": [
+                        33.279888,
+                        35.34528
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Karaoğlanoğlu Plajı",
+                  "text": "Beach near Kyrenia.",
+                  "category": "recreational",
+                  "coords": [
+                        33.275398,
+                        35.344925
+                  ]
+            },
+            {
+                  "name": "Riviera Beach",
+                  "text": "Riviera Beach is a beach near Kyrenia.",
+                  "category": "recreational",
+                  "coords": [
+                        33.279888,
+                        35.34528
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "country-cyprus",
     coords: [33.3167, 35.3333],
@@ -303,7 +384,124 @@ export const cyprusRegions: POI[] = [
       fr: ["Les origines de Kyrenia remontent aux colons achéens après la guerre de Troie.", "La forteresse de Kyrenia fut initialement bâtie par les Romains, puis considérablement agrandie par les Byzantins et les Lusignan.", "L'épave du musée a coulé vers 300 av. J.-C. et fut découverte en 1965 par un plongeur.", "L'abbaye de Bellapais toute proche, impressionnante ruine gothique, offre une vue spectaculaire sur la côte.", "Le château de Saint-Hilarion, situé dans les monts de Kyrenia, aurait inspiré le château de 'Blanche-Neige' de Disney.", "Kyrenia est un centre culturel et économique majeur du nord de Chypre.", "La ville était un port militaire important sous la domination vénitienne."],
     }, image: "/poi-images/cy-kyrenia.webp"},
   {
-    id: "cy-ayianapa",
+    id: "cy-ayianapa", "sights": {
+      "de": [
+            {
+                  "name": "Γλυκύ Νερό",
+                  "text": "Der Strand Glyky Nero liegt bei Ayia Napa.",
+                  "category": "recreational",
+                  "coords": [
+                        34.00844,
+                        34.984219
+                  ]
+            },
+            {
+                  "name": "Paradisos",
+                  "text": "Paradisos ist ein Strand bei Ayia Napa.",
+                  "category": "recreational",
+                  "coords": [
+                        34.004897,
+                        34.98376
+                  ]
+            },
+            {
+                  "name": "Παραλία Λούκκος του Μάντη",
+                  "text": "Strand bei Ayia Napa.",
+                  "category": "recreational",
+                  "coords": [
+                        33.998397,
+                        34.982451
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Γλυκύ Νερό",
+                  "text": "A Glyky Nero strand Ayia Napa közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        34.00844,
+                        34.984219
+                  ]
+            },
+            {
+                  "name": "Paradisos",
+                  "text": "Paradisos egy strand Ayia Napa közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        34.004897,
+                        34.98376
+                  ]
+            },
+            {
+                  "name": "Παραλία Λούκκος του Μάντη",
+                  "text": "Strand Ajía Nápanál.",
+                  "category": "recreational",
+                  "coords": [
+                        33.998397,
+                        34.982451
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Γλυκύ Νερό",
+                  "text": "Plaja Glyky Nero este situată lângă Ayia Napa.",
+                  "category": "recreational",
+                  "coords": [
+                        34.00844,
+                        34.984219
+                  ]
+            },
+            {
+                  "name": "Paradisos",
+                  "text": "Paradisos este o plajă lângă Ayia Napa.",
+                  "category": "recreational",
+                  "coords": [
+                        34.004897,
+                        34.98376
+                  ]
+            },
+            {
+                  "name": "Παραλία Λούκκος του Μάντη",
+                  "text": "Plajă lângă Ayia Napa.",
+                  "category": "recreational",
+                  "coords": [
+                        33.998397,
+                        34.982451
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Γλυκύ Νερό",
+                  "text": "Glyky Nero beach is located near Ayia Napa.",
+                  "category": "recreational",
+                  "coords": [
+                        34.00844,
+                        34.984219
+                  ]
+            },
+            {
+                  "name": "Paradisos",
+                  "text": "Paradisos is a beach near Ayia Napa.",
+                  "category": "recreational",
+                  "coords": [
+                        34.004897,
+                        34.98376
+                  ]
+            },
+            {
+                  "name": "Παραλία Λούκκος του Μάντη",
+                  "text": "Beach near Ayia Napa.",
+                  "category": "recreational",
+                  "coords": [
+                        33.998397,
+                        34.982451
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CY-002",
     coords: [34.0000, 34.9833],
@@ -389,7 +587,232 @@ export const cyprusRegions: POI[] = [
     },
   },
   {
-    id: "cy-tombs-kings",
+    id: "cy-tombs-kings", "sights": {
+      "de": [
+            {
+                  "name": "Lighthouse Beach",
+                  "text": "Lighthouse Beach liegt bei den Königsgräbern.",
+                  "category": "recreational",
+                  "coords": [
+                        32.406249,
+                        34.764387
+                  ]
+            },
+            {
+                  "name": "Faros Beach",
+                  "text": "Strand in der Nähe der Königsgräber.",
+                  "category": "recreational",
+                  "coords": [
+                        32.408521,
+                        34.770279
+                  ]
+            },
+            {
+                  "name": "Kefalos Beach",
+                  "text": "Strand in der Nähe der Königsgräber.",
+                  "category": "recreational",
+                  "coords": [
+                        32.405099,
+                        34.768829
+                  ]
+            },
+            {
+                  "name": "Elysium Beach",
+                  "text": "Elysium Beach liegt nahe den Königsgräbern.",
+                  "category": "recreational",
+                  "coords": [
+                        32.404623,
+                        34.771881
+                  ]
+            },
+            {
+                  "name": "Venus blue beach",
+                  "text": "Venus Blue-Strand bei den Königsgräbern.",
+                  "category": "recreational",
+                  "coords": [
+                        32.402936,
+                        34.779631
+                  ]
+            },
+            {
+                  "name": "Vrexi Beach",
+                  "text": "Strand bei den Königsgräbern von Paphos.",
+                  "category": "recreational",
+                  "coords": [
+                        32.40131,
+                        34.784767
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lighthouse Beach",
+                  "text": "A Lighthouse strand a Királysírok közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        32.406249,
+                        34.764387
+                  ]
+            },
+            {
+                  "name": "Faros Beach",
+                  "text": "Strand a Királysírok közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        32.408521,
+                        34.770279
+                  ]
+            },
+            {
+                  "name": "Kefalos Beach",
+                  "text": "Strand a Királysírok közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        32.405099,
+                        34.768829
+                  ]
+            },
+            {
+                  "name": "Elysium Beach",
+                  "text": "Elysium Beach a Királysírok közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        32.404623,
+                        34.771881
+                  ]
+            },
+            {
+                  "name": "Venus blue beach",
+                  "text": "Venus Blue-part a Királysírok közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        32.402936,
+                        34.779631
+                  ]
+            },
+            {
+                  "name": "Vrexi Beach",
+                  "text": "Strand a páfoszi Királysíroknál.",
+                  "category": "recreational",
+                  "coords": [
+                        32.40131,
+                        34.784767
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lighthouse Beach",
+                  "text": "Plaja Lighthouse este situată lângă Mormintele Regilor.",
+                  "category": "recreational",
+                  "coords": [
+                        32.406249,
+                        34.764387
+                  ]
+            },
+            {
+                  "name": "Faros Beach",
+                  "text": "Plajă lângă Mormintele Regilor.",
+                  "category": "recreational",
+                  "coords": [
+                        32.408521,
+                        34.770279
+                  ]
+            },
+            {
+                  "name": "Kefalos Beach",
+                  "text": "Plajă lângă Mormintele Regilor.",
+                  "category": "recreational",
+                  "coords": [
+                        32.405099,
+                        34.768829
+                  ]
+            },
+            {
+                  "name": "Elysium Beach",
+                  "text": "Elysium Beach este situată lângă Mormintele Regilor.",
+                  "category": "recreational",
+                  "coords": [
+                        32.404623,
+                        34.771881
+                  ]
+            },
+            {
+                  "name": "Venus blue beach",
+                  "text": "Plaja Venus Blue lângă Mormintele Regilor.",
+                  "category": "recreational",
+                  "coords": [
+                        32.402936,
+                        34.779631
+                  ]
+            },
+            {
+                  "name": "Vrexi Beach",
+                  "text": "Plajă lângă Mormintele Regilor din Paphos.",
+                  "category": "recreational",
+                  "coords": [
+                        32.40131,
+                        34.784767
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lighthouse Beach",
+                  "text": "Lighthouse beach is located near the Tombs of the Kings.",
+                  "category": "recreational",
+                  "coords": [
+                        32.406249,
+                        34.764387
+                  ]
+            },
+            {
+                  "name": "Faros Beach",
+                  "text": "Beach near the Tombs of the Kings.",
+                  "category": "recreational",
+                  "coords": [
+                        32.408521,
+                        34.770279
+                  ]
+            },
+            {
+                  "name": "Kefalos Beach",
+                  "text": "Beach near the Tombs of the Kings.",
+                  "category": "recreational",
+                  "coords": [
+                        32.405099,
+                        34.768829
+                  ]
+            },
+            {
+                  "name": "Elysium Beach",
+                  "text": "Elysium Beach is located near the Tombs of the Kings.",
+                  "category": "recreational",
+                  "coords": [
+                        32.404623,
+                        34.771881
+                  ]
+            },
+            {
+                  "name": "Venus blue beach",
+                  "text": "Venus Blue beach near the Tombs of the Kings.",
+                  "category": "recreational",
+                  "coords": [
+                        32.402936,
+                        34.779631
+                  ]
+            },
+            {
+                  "name": "Vrexi Beach",
+                  "text": "Beach near the Tombs of the Kings.",
+                  "category": "recreational",
+                  "coords": [
+                        32.40131,
+                        34.784767
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CY-005",
     coords: [32.4053, 34.7675],
@@ -561,7 +984,52 @@ export const cyprusRegions: POI[] = [
     },
   },
   {
-    id: "cy-salamis",
+    id: "cy-salamis", "sights": {
+      "de": [
+            {
+                  "name": "Silver Beach",
+                  "text": "Silver Beach in der Nähe von Salamis.",
+                  "category": "recreational",
+                  "coords": [
+                        33.909283,
+                        35.171205
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Silver Beach",
+                  "text": "Silver Beach a Salamis közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        33.909283,
+                        35.171205
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Silver Beach",
+                  "text": "Silver Beach lângă Salamis.",
+                  "category": "recreational",
+                  "coords": [
+                        33.909283,
+                        35.171205
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Silver Beach",
+                  "text": "Silver Beach near Salamis.",
+                  "category": "recreational",
+                  "coords": [
+                        33.909283,
+                        35.171205
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CY-002",
     coords: [33.9011, 35.1836],
@@ -895,7 +1363,52 @@ export const cyprusRegions: POI[] = [
     },
   },
   {
-    id: "cy-avakas-gorge",
+    id: "cy-avakas-gorge", "sights": {
+      "de": [
+            {
+                  "name": "Παραλια Ασπροποταμου",
+                  "text": "Παραλια Ασπροποταμου ist ein Strand bei der Avakas-Schlucht.",
+                  "category": "recreational",
+                  "coords": [
+                        32.326024,
+                        34.912006
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Παραλια Ασπροποταμου",
+                  "text": "A Παραλια Ασπροποταμου egy strand az Avakas-szurdok közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        32.326024,
+                        34.912006
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Παραλια Ασπροποταμου",
+                  "text": "Παραλια Ασπροποταμου este o plajă lângă Cheile Avakas.",
+                  "category": "recreational",
+                  "coords": [
+                        32.326024,
+                        34.912006
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Παραλια Ασπροποταμου",
+                  "text": "Παραλια Ασπροποταμου is a beach near Avakas Gorge.",
+                  "category": "recreational",
+                  "coords": [
+                        32.326024,
+                        34.912006
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CY-005",
     coords: [32.3333, 34.9250],
@@ -938,7 +1451,160 @@ export const cyprusRegions: POI[] = [
     },
   },
   {
-    id: "cy-nissi-beach",
+    id: "cy-nissi-beach", "sights": {
+      "de": [
+            {
+                  "name": "Landa Golden Beach",
+                  "text": "Landa Golden Beach liegt bei Nissi Beach.",
+                  "category": "recreational",
+                  "coords": [
+                        33.958957,
+                        34.987242
+                  ]
+            },
+            {
+                  "name": "Nissi",
+                  "text": "Bekannter Strand in Ayia Napa.",
+                  "category": "recreational",
+                  "coords": [
+                        33.96899,
+                        34.98749
+                  ]
+            },
+            {
+                  "name": "Adams beach",
+                  "text": "Strand in der Nähe von Nissi.",
+                  "category": "recreational",
+                  "coords": [
+                        33.965129,
+                        34.986827
+                  ]
+            },
+            {
+                  "name": "Makronissos Beach",
+                  "text": "Makronissos Beach ist ein bekannter Strand nahe Nissi Beach.",
+                  "category": "recreational",
+                  "coords": [
+                        33.955546,
+                        34.982686
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Landa Golden Beach",
+                  "text": "A Landa Golden Beach a Nissi Beach közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        33.958957,
+                        34.987242
+                  ]
+            },
+            {
+                  "name": "Nissi",
+                  "text": "Népszerű strand Ayia Napában.",
+                  "category": "recreational",
+                  "coords": [
+                        33.96899,
+                        34.98749
+                  ]
+            },
+            {
+                  "name": "Adams beach",
+                  "text": "Strand Nissi közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        33.965129,
+                        34.986827
+                  ]
+            },
+            {
+                  "name": "Makronissos Beach",
+                  "text": "Makronissos Beach egy ismert strand Nissi Beach közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        33.955546,
+                        34.982686
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Landa Golden Beach",
+                  "text": "Landa Golden Beach este situată lângă Nissi Beach.",
+                  "category": "recreational",
+                  "coords": [
+                        33.958957,
+                        34.987242
+                  ]
+            },
+            {
+                  "name": "Nissi",
+                  "text": "Plajă populară în Ayia Napa.",
+                  "category": "recreational",
+                  "coords": [
+                        33.96899,
+                        34.98749
+                  ]
+            },
+            {
+                  "name": "Adams beach",
+                  "text": "Plajă lângă Nissi.",
+                  "category": "recreational",
+                  "coords": [
+                        33.965129,
+                        34.986827
+                  ]
+            },
+            {
+                  "name": "Makronissos Beach",
+                  "text": "Makronissos Beach este o plajă cunoscută lângă Nissi Beach.",
+                  "category": "recreational",
+                  "coords": [
+                        33.955546,
+                        34.982686
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Landa Golden Beach",
+                  "text": "Landa Golden Beach is located near Nissi Beach.",
+                  "category": "recreational",
+                  "coords": [
+                        33.958957,
+                        34.987242
+                  ]
+            },
+            {
+                  "name": "Nissi",
+                  "text": "Popular beach in Ayia Napa.",
+                  "category": "recreational",
+                  "coords": [
+                        33.96899,
+                        34.98749
+                  ]
+            },
+            {
+                  "name": "Adams beach",
+                  "text": "Beach near Nissi.",
+                  "category": "recreational",
+                  "coords": [
+                        33.965129,
+                        34.986827
+                  ]
+            },
+            {
+                  "name": "Makronissos Beach",
+                  "text": "Makronissos Beach is a well-known beach near Nissi Beach.",
+                  "category": "recreational",
+                  "coords": [
+                        33.955546,
+                        34.982686
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CY-002",
     coords: [33.9686, 34.9881],
@@ -1024,7 +1690,124 @@ export const cyprusRegions: POI[] = [
     },
   },
   {
-    id: "cy-paphos-aphrodite",
+    id: "cy-paphos-aphrodite", "sights": {
+      "de": [
+            {
+                  "name": "St. George Beach",
+                  "text": "Strand in der Nähe von Paphos.",
+                  "category": "recreational",
+                  "coords": [
+                        32.393744,
+                        34.804018
+                  ]
+            },
+            {
+                  "name": "Kotsia Beach",
+                  "text": "Strand in der Nähe von Paphos.",
+                  "category": "recreational",
+                  "coords": [
+                        32.393842,
+                        34.813081
+                  ]
+            },
+            {
+                  "name": "Alki Beach",
+                  "text": "Alki-Strand bei Paphos.",
+                  "category": "recreational",
+                  "coords": [
+                        32.393701,
+                        34.80559
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "St. George Beach",
+                  "text": "Strand Páfosz közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        32.393744,
+                        34.804018
+                  ]
+            },
+            {
+                  "name": "Kotsia Beach",
+                  "text": "Strand Páfosz közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        32.393842,
+                        34.813081
+                  ]
+            },
+            {
+                  "name": "Alki Beach",
+                  "text": "Alki-part Paphos mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        32.393701,
+                        34.80559
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "St. George Beach",
+                  "text": "Plajă lângă Paphos.",
+                  "category": "recreational",
+                  "coords": [
+                        32.393744,
+                        34.804018
+                  ]
+            },
+            {
+                  "name": "Kotsia Beach",
+                  "text": "Plajă lângă Paphos.",
+                  "category": "recreational",
+                  "coords": [
+                        32.393842,
+                        34.813081
+                  ]
+            },
+            {
+                  "name": "Alki Beach",
+                  "text": "Plaja Alki lângă Paphos.",
+                  "category": "recreational",
+                  "coords": [
+                        32.393701,
+                        34.80559
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "St. George Beach",
+                  "text": "Beach near Paphos.",
+                  "category": "recreational",
+                  "coords": [
+                        32.393744,
+                        34.804018
+                  ]
+            },
+            {
+                  "name": "Kotsia Beach",
+                  "text": "Beach near Paphos.",
+                  "category": "recreational",
+                  "coords": [
+                        32.393842,
+                        34.813081
+                  ]
+            },
+            {
+                  "name": "Alki Beach",
+                  "text": "Alki Beach near Paphos.",
+                  "category": "recreational",
+                  "coords": [
+                        32.393701,
+                        34.80559
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CY-005",
     coords: [32.4240, 34.7770],
@@ -1111,7 +1894,52 @@ export const cyprusRegions: POI[] = [
     },
   },
   {
-    id: "cy-wine-festival",
+    id: "cy-wine-festival", "sights": {
+      "de": [
+            {
+                  "name": "Akti Olympion Beach",
+                  "text": "Der Akti Olympion Beach befindet sich in Limassol.",
+                  "category": "recreational",
+                  "coords": [
+                        33.053556,
+                        34.680034
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Akti Olympion Beach",
+                  "text": "Az Akti Olympion strand Limassolban található.",
+                  "category": "recreational",
+                  "coords": [
+                        33.053556,
+                        34.680034
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Akti Olympion Beach",
+                  "text": "Plaja Akti Olympion este situată în Limassol.",
+                  "category": "recreational",
+                  "coords": [
+                        33.053556,
+                        34.680034
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Akti Olympion Beach",
+                  "text": "Akti Olympion beach is located in Limassol.",
+                  "category": "recreational",
+                  "coords": [
+                        33.053556,
+                        34.680034
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CY-004",
     coords: [33.0500, 34.6800],
@@ -1154,7 +1982,160 @@ export const cyprusRegions: POI[] = [
     },
   },
   {
-    id: "cy-st-hilarion",
+    id: "cy-st-hilarion", "sights": {
+      "de": [
+            {
+                  "name": "Escape Beach",
+                  "text": "Strand in der Nähe von St. Hilarion.",
+                  "category": "recreational",
+                  "coords": [
+                        33.234734,
+                        35.347123
+                  ]
+            },
+            {
+                  "name": "Kervansaray Beach",
+                  "text": "Strand in der Nähe von St. Hilarion.",
+                  "category": "recreational",
+                  "coords": [
+                        33.255157,
+                        35.347353
+                  ]
+            },
+            {
+                  "name": "Municipality of Alsancak Beach",
+                  "text": "Strand in der Nähe von St. Hilarion.",
+                  "category": "recreational",
+                  "coords": [
+                        33.205326,
+                        35.356498
+                  ]
+            },
+            {
+                  "name": "Bamboo Beach",
+                  "text": "Strand in der Nähe von St. Hilarion.",
+                  "category": "recreational",
+                  "coords": [
+                        33.217913,
+                        35.353945
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Escape Beach",
+                  "text": "Strand St. Hilarion közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        33.234734,
+                        35.347123
+                  ]
+            },
+            {
+                  "name": "Kervansaray Beach",
+                  "text": "Strand St. Hilarion közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        33.255157,
+                        35.347353
+                  ]
+            },
+            {
+                  "name": "Municipality of Alsancak Beach",
+                  "text": "Strand St. Hilarion közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        33.205326,
+                        35.356498
+                  ]
+            },
+            {
+                  "name": "Bamboo Beach",
+                  "text": "Strand St. Hilarion közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        33.217913,
+                        35.353945
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Escape Beach",
+                  "text": "Plajă lângă St. Hilarion.",
+                  "category": "recreational",
+                  "coords": [
+                        33.234734,
+                        35.347123
+                  ]
+            },
+            {
+                  "name": "Kervansaray Beach",
+                  "text": "Plajă lângă St. Hilarion.",
+                  "category": "recreational",
+                  "coords": [
+                        33.255157,
+                        35.347353
+                  ]
+            },
+            {
+                  "name": "Municipality of Alsancak Beach",
+                  "text": "Plajă lângă St. Hilarion.",
+                  "category": "recreational",
+                  "coords": [
+                        33.205326,
+                        35.356498
+                  ]
+            },
+            {
+                  "name": "Bamboo Beach",
+                  "text": "Plajă lângă St. Hilarion.",
+                  "category": "recreational",
+                  "coords": [
+                        33.217913,
+                        35.353945
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Escape Beach",
+                  "text": "Beach near St. Hilarion.",
+                  "category": "recreational",
+                  "coords": [
+                        33.234734,
+                        35.347123
+                  ]
+            },
+            {
+                  "name": "Kervansaray Beach",
+                  "text": "Beach near St. Hilarion.",
+                  "category": "recreational",
+                  "coords": [
+                        33.255157,
+                        35.347353
+                  ]
+            },
+            {
+                  "name": "Municipality of Alsancak Beach",
+                  "text": "Beach near St. Hilarion.",
+                  "category": "recreational",
+                  "coords": [
+                        33.205326,
+                        35.356498
+                  ]
+            },
+            {
+                  "name": "Bamboo Beach",
+                  "text": "Beach near St. Hilarion.",
+                  "category": "recreational",
+                  "coords": [
+                        33.217913,
+                        35.353945
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "country-cyprus",
     coords: [33.2408, 35.3117],
@@ -1187,7 +2168,52 @@ export const cyprusRegions: POI[] = [
       fr: ["Le château a été partiellement démoli par les Vénitiens au XVe siècle pour réduire les coûts de la garnison.", "Les niveaux inférieurs servaient aux soldats et ouvriers, tandis que les niveaux intermédiaires abritaient une église et des réfectoires.", "Les « fenêtres du prince » au niveau supérieur sont un lieu célèbre et photogénique.", "Le château fut un refuge important pour les rois Lusignans pendant les Croisades.", "Saint-Hilarion fut le théâtre de violents combats entre Richard Cœur de Lion et le souverain byzantin de l'île.", "L'ascension vers le sommet est fatigante, mais la vue en vaut la peine.", "Le château est également connu sous le nom de « Dio Kynoi » (Les deux chiens)."],
     }, image: "/poi-images/cy-st-hilarion.webp"},
   {
-    id: "cy-bellapais",
+    id: "cy-bellapais", "sights": {
+      "de": [
+            {
+                  "name": "Diana Beach",
+                  "text": "Diana Beach ist ein Strand bei Bellapais.",
+                  "category": "recreational",
+                  "coords": [
+                        33.375489,
+                        35.335649
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Diana Beach",
+                  "text": "Diana Beach egy strand Bellapais közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        33.375489,
+                        35.335649
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Diana Beach",
+                  "text": "Diana Beach este o plajă lângă Bellapais.",
+                  "category": "recreational",
+                  "coords": [
+                        33.375489,
+                        35.335649
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Diana Beach",
+                  "text": "Diana Beach is a beach near Bellapais.",
+                  "category": "recreational",
+                  "coords": [
+                        33.375489,
+                        35.335649
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "country-cyprus",
     coords: [33.3556, 35.3061],
@@ -1263,7 +2289,88 @@ export const cyprusRegions: POI[] = [
     },
   },
   {
-    id: "cy-blue-lagoon",
+    id: "cy-blue-lagoon", "sights": {
+      "de": [
+            {
+                  "name": "Amphitheatre",
+                  "text": "Amphitheatre-Strand an der Blauen Lagune.",
+                  "category": "recreational",
+                  "coords": [
+                        32.317763,
+                        35.075006
+                  ]
+            },
+            {
+                  "name": "Blue Lagoon",
+                  "text": "Blaue Lagune auf Zypern, bekannt für ihr kristallklares Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        32.305789,
+                        35.082879
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Amphitheatre",
+                  "text": "Amphitheatre-part a Kék Lagúnánál.",
+                  "category": "recreational",
+                  "coords": [
+                        32.317763,
+                        35.075006
+                  ]
+            },
+            {
+                  "name": "Blue Lagoon",
+                  "text": "Kék Lagúna Cipruson, híres kristálytiszta vizéről.",
+                  "category": "recreational",
+                  "coords": [
+                        32.305789,
+                        35.082879
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Amphitheatre",
+                  "text": "Plaja Amphitheatre la Laguna Albastră.",
+                  "category": "recreational",
+                  "coords": [
+                        32.317763,
+                        35.075006
+                  ]
+            },
+            {
+                  "name": "Blue Lagoon",
+                  "text": "Laguna Albastră din Cipru, cunoscută pentru apele sale cristaline.",
+                  "category": "recreational",
+                  "coords": [
+                        32.305789,
+                        35.082879
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Amphitheatre",
+                  "text": "Amphitheatre beach at the Blue Lagoon.",
+                  "category": "recreational",
+                  "coords": [
+                        32.317763,
+                        35.075006
+                  ]
+            },
+            {
+                  "name": "Blue Lagoon",
+                  "text": "Blue Lagoon in Cyprus, known for its crystal clear water.",
+                  "category": "recreational",
+                  "coords": [
+                        32.305789,
+                        35.082879
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CY-005",
     coords: [32.3250, 35.0667],
@@ -1432,7 +2539,160 @@ export const cyprusRegions: POI[] = [
       fr: ["Varosha était le principal centre touristique de Chypre avant 1974.", "Des célébrités comme Elizabeth Taylor y passaient leurs vacances.", "La résolution 550 de l'ONU demande la remise de la zone aux Nations Unies.", "L'avenue Demokratias est partiellement accessible depuis octobre 2020.", "Les bâtiments menacent ruine en raison du manque d'entretien.", "Des visites guidées à vélo sont organisées dans les zones ouvertes."],
     }, image: "/poi-images/CY-002-varosha.webp"},
   {
-    id: "CY-002-fig-tree-bay",
+    id: "CY-002-fig-tree-bay", "sights": {
+      "de": [
+            {
+                  "name": "Nissia Bay Beach",
+                  "text": "Strand in der Nähe der Fig Tree Bay.",
+                  "category": "recreational",
+                  "coords": [
+                        34.066714,
+                        34.999617
+                  ]
+            },
+            {
+                  "name": "Fig Tree Bay",
+                  "text": "Bekannter Strand mit Feigenbäumen.",
+                  "category": "recreational",
+                  "coords": [
+                        34.05871,
+                        35.012827
+                  ]
+            },
+            {
+                  "name": "Παραλία Βυζακιά",
+                  "text": "Παραλία Βυζακιά ist ein Strand bei der Fig Tree Bay.",
+                  "category": "recreational",
+                  "coords": [
+                        34.063173,
+                        35.003375
+                  ]
+            },
+            {
+                  "name": "Glifades (Mimosa Beach)",
+                  "text": "Glifades (Mimosa Beach) liegt bei der Fig Tree Bay.",
+                  "category": "recreational",
+                  "coords": [
+                        34.068915,
+                        34.996546
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nissia Bay Beach",
+                  "text": "Strand a Fig Tree-öböl közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        34.066714,
+                        34.999617
+                  ]
+            },
+            {
+                  "name": "Fig Tree Bay",
+                  "text": "Népszerű strand fügefákkal.",
+                  "category": "recreational",
+                  "coords": [
+                        34.05871,
+                        35.012827
+                  ]
+            },
+            {
+                  "name": "Παραλία Βυζακιά",
+                  "text": "A Παραλία Βυζακιά egy strand a Fig Tree Bay közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        34.063173,
+                        35.003375
+                  ]
+            },
+            {
+                  "name": "Glifades (Mimosa Beach)",
+                  "text": "Glifades (Mimosa Beach) a Fig Tree Bay közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        34.068915,
+                        34.996546
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nissia Bay Beach",
+                  "text": "Plajă lângă Golful Fig Tree.",
+                  "category": "recreational",
+                  "coords": [
+                        34.066714,
+                        34.999617
+                  ]
+            },
+            {
+                  "name": "Fig Tree Bay",
+                  "text": "Plajă populară cu smochini.",
+                  "category": "recreational",
+                  "coords": [
+                        34.05871,
+                        35.012827
+                  ]
+            },
+            {
+                  "name": "Παραλία Βυζακιά",
+                  "text": "Παραλία Βυζακιά este o plajă lângă Fig Tree Bay.",
+                  "category": "recreational",
+                  "coords": [
+                        34.063173,
+                        35.003375
+                  ]
+            },
+            {
+                  "name": "Glifades (Mimosa Beach)",
+                  "text": "Glifades (Mimosa Beach) este lângă Fig Tree Bay.",
+                  "category": "recreational",
+                  "coords": [
+                        34.068915,
+                        34.996546
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nissia Bay Beach",
+                  "text": "Beach near Fig Tree Bay.",
+                  "category": "recreational",
+                  "coords": [
+                        34.066714,
+                        34.999617
+                  ]
+            },
+            {
+                  "name": "Fig Tree Bay",
+                  "text": "Popular beach known for fig trees.",
+                  "category": "recreational",
+                  "coords": [
+                        34.05871,
+                        35.012827
+                  ]
+            },
+            {
+                  "name": "Παραλία Βυζακιά",
+                  "text": "Παραλία Βυζακιά is a beach near Fig Tree Bay.",
+                  "category": "recreational",
+                  "coords": [
+                        34.063173,
+                        35.003375
+                  ]
+            },
+            {
+                  "name": "Glifades (Mimosa Beach)",
+                  "text": "Glifades (Mimosa Beach) is near Fig Tree Bay.",
+                  "category": "recreational",
+                  "coords": [
+                        34.068915,
+                        34.996546
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CY-002",
     coords: [34.0583, 35.0125],
@@ -1558,7 +2818,160 @@ export const cyprusRegions: POI[] = [
       fr: ["La rue porte le nom de l'ancien royaume de Ledra.", "Le point de passage a été officiellement ouvert le 3 avril 2008.", "La rue Ledra mesure environ 1 kilomètre de long et s'étend du nord au sud.", "Dans les années 1950, elle était connue sous le nom de 'The Murder Mile'.", "La tour Shacolas, au bout de la rue, offre une vue panoramique sur toute la ville.", "La rue est située à l'intérieur des remparts vénitiens de Nicosie."],
     }, image: "/poi-images/CY-003-ledra-street.webp"},
   {
-    id: "CY-004-amathus",
+    id: "CY-004-amathus", "sights": {
+      "de": [
+            {
+                  "name": "Aphrodite Beach",
+                  "text": "Aphrodite Beach liegt bei Amathus.",
+                  "category": "recreational",
+                  "coords": [
+                        33.126614,
+                        34.707615
+                  ]
+            },
+            {
+                  "name": "Vouppa Beach",
+                  "text": "Vouppa Beach liegt bei Amathus.",
+                  "category": "recreational",
+                  "coords": [
+                        33.130283,
+                        34.708151
+                  ]
+            },
+            {
+                  "name": "Armonia Beach",
+                  "text": "Strand in der Nähe von Amathus.",
+                  "category": "recreational",
+                  "coords": [
+                        33.120953,
+                        34.706369
+                  ]
+            },
+            {
+                  "name": "Loures",
+                  "text": "Strand in der Nähe von Amathus.",
+                  "category": "recreational",
+                  "coords": [
+                        33.134891,
+                        34.708893
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Aphrodite Beach",
+                  "text": "Az Aphrodite strand Amathus közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        33.126614,
+                        34.707615
+                  ]
+            },
+            {
+                  "name": "Vouppa Beach",
+                  "text": "A Vouppa strand Amathus közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        33.130283,
+                        34.708151
+                  ]
+            },
+            {
+                  "name": "Armonia Beach",
+                  "text": "Strand amathuszi közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        33.120953,
+                        34.706369
+                  ]
+            },
+            {
+                  "name": "Loures",
+                  "text": "Strand amathuszi közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        33.134891,
+                        34.708893
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Aphrodite Beach",
+                  "text": "Plaja Aphrodite este situată lângă Amathus.",
+                  "category": "recreational",
+                  "coords": [
+                        33.126614,
+                        34.707615
+                  ]
+            },
+            {
+                  "name": "Vouppa Beach",
+                  "text": "Plaja Vouppa este situată lângă Amathus.",
+                  "category": "recreational",
+                  "coords": [
+                        33.130283,
+                        34.708151
+                  ]
+            },
+            {
+                  "name": "Armonia Beach",
+                  "text": "Plajă lângă Amathus.",
+                  "category": "recreational",
+                  "coords": [
+                        33.120953,
+                        34.706369
+                  ]
+            },
+            {
+                  "name": "Loures",
+                  "text": "Plajă lângă Amathus.",
+                  "category": "recreational",
+                  "coords": [
+                        33.134891,
+                        34.708893
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Aphrodite Beach",
+                  "text": "Aphrodite beach is located near Amathus.",
+                  "category": "recreational",
+                  "coords": [
+                        33.126614,
+                        34.707615
+                  ]
+            },
+            {
+                  "name": "Vouppa Beach",
+                  "text": "Vouppa beach is located near Amathus.",
+                  "category": "recreational",
+                  "coords": [
+                        33.130283,
+                        34.708151
+                  ]
+            },
+            {
+                  "name": "Armonia Beach",
+                  "text": "Beach near Amathus.",
+                  "category": "recreational",
+                  "coords": [
+                        33.120953,
+                        34.706369
+                  ]
+            },
+            {
+                  "name": "Loures",
+                  "text": "Beach near Amathus.",
+                  "category": "recreational",
+                  "coords": [
+                        33.134891,
+                        34.708893
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CY-004",
     coords: [33.1417, 34.7125],

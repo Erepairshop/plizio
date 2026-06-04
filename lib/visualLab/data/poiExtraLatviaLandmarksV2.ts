@@ -183,7 +183,52 @@ export const latviaLandmarksV2: POI[] = [
     image: "/poi-images/latvia-latvian-war-museum-landmarks-v2.webp",
   },
   {
-    id: "latvia-ventas-rumba-waterfall-landmarks-v2",
+    id: "latvia-ventas-rumba-waterfall-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mārtiņsalas peldvieta",
+                  "text": "Mārtiņsala ist eine Badestelle beim Ventas-Rumba-Wasserfall.",
+                  "category": "recreational",
+                  "coords": [
+                        21.981305,
+                        56.967852
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mārtiņsalas peldvieta",
+                  "text": "Mārtiņsala egy fürdőhely a Ventas Rumba vízesésnél.",
+                  "category": "recreational",
+                  "coords": [
+                        21.981305,
+                        56.967852
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mārtiņsalas peldvieta",
+                  "text": "Mārtiņsala este o zonă de scăldat la cascada Ventas Rumba.",
+                  "category": "recreational",
+                  "coords": [
+                        21.981305,
+                        56.967852
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mārtiņsalas peldvieta",
+                  "text": "Mārtiņsala is a swimming spot at the Ventas Rumba waterfall.",
+                  "category": "recreational",
+                  "coords": [
+                        21.981305,
+                        56.967852
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "LV",
     name: { de: "Venta-Stromschnellen", hu: "Venta-vízesés", ro: "Cascada Venta", en: "Venta Rapid" },
@@ -1353,7 +1398,52 @@ export const latviaLandmarksV2: POI[] = [
     image: "/poi-images/latvia-cesis-old-brewery-landmarks-v2.webp",
   },
   {
-    id: "latvia-riga-radio-tower-landmarks-v2",
+    id: "latvia-riga-radio-tower-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Peldvieta \"Rumbula\"",
+                  "text": "Der Badeplatz Rumbula liegt am Ufer in der Nähe des Fernsehturms Riga.",
+                  "category": "recreational",
+                  "coords": [
+                        24.193402,
+                        56.897393
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Peldvieta \"Rumbula\"",
+                  "text": "A Rumbula fürdőhely a rigai tévétorony közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        24.193402,
+                        56.897393
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Peldvieta \"Rumbula\"",
+                  "text": "Zona de scăldat Rumbula este situată pe mal, aproape de Turnul TV din Riga.",
+                  "category": "recreational",
+                  "coords": [
+                        24.193402,
+                        56.897393
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Peldvieta \"Rumbula\"",
+                  "text": "Rumbula swimming spot is located by the shore near the Riga TV Tower.",
+                  "category": "recreational",
+                  "coords": [
+                        24.193402,
+                        56.897393
+                  ]
+            }
+      ]
+},
     type: "tower",
     parent: "LV",
     name: { de: "Fernsehturm Riga", hu: "Rigai tévétorony", ro: "Turnul TV Riga", en: "Riga Radio and TV Tower" },

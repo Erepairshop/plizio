@@ -403,7 +403,52 @@ export const poiExtraBulgariaCities: POI[] = [
     image: "/geo-images/bulgaria/city-veliko-tarnovo.webp"
   },
   {
-    id: "city-vidin",
+    id: "city-vidin", "sights": {
+      "de": [
+            {
+                  "name": "Gradski plazh",
+                  "text": "Ein Uferstrand bei Widin.",
+                  "category": "recreational",
+                  "coords": [
+                        22.886341,
+                        43.991596
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gradski plazh",
+                  "text": "Parti strand Vidin közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        22.886341,
+                        43.991596
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gradski plazh",
+                  "text": "O plajă pe malul râului lângă Vidin.",
+                  "category": "recreational",
+                  "coords": [
+                        22.886341,
+                        43.991596
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gradski plazh",
+                  "text": "A riverside beach near Vidin.",
+                  "category": "recreational",
+                  "coords": [
+                        22.886341,
+                        43.991596
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "bg-country",
     coords: [22.8828, 43.9930],

@@ -228,7 +228,52 @@ export const netherlandsLandmarksV2: POI[] = [
     image: "/poi-images/netherlands-moco-museum-amsterdam-landmarks-v2.webp",
   },
   {
-    id: "netherlands-westerkerk-amsterdam-landmarks-v2",
+    id: "netherlands-westerkerk-amsterdam-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Het Eikenhout",
+                  "text": "Strandbereich bei Amsterdam, zur Erholung am Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        4.88262,
+                        52.394666
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Het Eikenhout",
+                  "text": "Amszterdami strandrész, vízparti kikapcsolódásra.",
+                  "category": "recreational",
+                  "coords": [
+                        4.88262,
+                        52.394666
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Het Eikenhout",
+                  "text": "Zonă de plajă lângă Amsterdam, pentru relaxare pe malul apei.",
+                  "category": "recreational",
+                  "coords": [
+                        4.88262,
+                        52.394666
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Het Eikenhout",
+                  "text": "Beach area near Amsterdam, for recreation by the water.",
+                  "category": "recreational",
+                  "coords": [
+                        4.88262,
+                        52.394666
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "NL",
     name: { de: "Westerkerk Amsterdam", hu: "Westerkerk Amszterdam", ro: "Westerkerk Amsterdam", en: "Westerkerk Amsterdam" },
@@ -543,7 +588,52 @@ export const netherlandsLandmarksV2: POI[] = [
     image: "/poi-images/netherlands-st-johns-cathedral-den-bosch-landmarks-v2.webp",
   },
   {
-    id: "netherlands-amsterdam-central-station-landmarks-v2",
+    id: "netherlands-amsterdam-central-station-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pllek",
+                  "text": "Strand Pllek in Amsterdam.",
+                  "category": "recreational",
+                  "coords": [
+                        4.892903,
+                        52.398867
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pllek",
+                  "text": "Pllek strand Amszterdamban.",
+                  "category": "recreational",
+                  "coords": [
+                        4.892903,
+                        52.398867
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pllek",
+                  "text": "Plaja Pllek din Amsterdam.",
+                  "category": "recreational",
+                  "coords": [
+                        4.892903,
+                        52.398867
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pllek",
+                  "text": "Pllek beach in Amsterdam.",
+                  "category": "recreational",
+                  "coords": [
+                        4.892903,
+                        52.398867
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "NL",
     name: { de: "Bahnhof Amsterdam Centraal", hu: "Amsterdam Centraal pályaudvar", ro: "Gara Centrală Amsterdam", en: "Amsterdam Centraal Station" },
@@ -723,7 +813,52 @@ export const netherlandsLandmarksV2: POI[] = [
     image: "/poi-images/netherlands-st-nicholas-basilica-amsterdam-landmarks-v2.webp",
   },
   {
-    id: "netherlands-kasteel-de-haar-utrecht-landmarks-v2",
+    id: "netherlands-kasteel-de-haar-utrecht-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zwemstrand Haarrijn",
+                  "text": "Zwemstrand Haarrijn bei Kasteel De Haar in Utrecht.",
+                  "category": "recreational",
+                  "coords": [
+                        5.025254,
+                        52.117311
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zwemstrand Haarrijn",
+                  "text": "Zwemstrand Haarrijn strand, Kasteel De Haar Utrecht közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        5.025254,
+                        52.117311
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zwemstrand Haarrijn",
+                  "text": "Plaja Zwemstrand Haarrijn, lângă Kasteel De Haar din Utrecht.",
+                  "category": "recreational",
+                  "coords": [
+                        5.025254,
+                        52.117311
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zwemstrand Haarrijn",
+                  "text": "Zwemstrand Haarrijn beach near Kasteel De Haar in Utrecht.",
+                  "category": "recreational",
+                  "coords": [
+                        5.025254,
+                        52.117311
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "NL",
     name: { de: "Kasteel de Haar Utrecht", hu: "De Haar-kastély Utrecht", ro: "Castelul de Haar Utrecht", en: "Kasteel de Haar Utrecht" },
@@ -1038,7 +1173,52 @@ export const netherlandsLandmarksV2: POI[] = [
     image: "/poi-images/netherlands-rijksmuseum-amsterdam-landmarks-v2.webp",
   },
   {
-    id: "netherlands-city-hall-leiden-landmarks-v2",
+    id: "netherlands-city-hall-leiden-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vadedostrand",
+                  "text": "Strand in der Nähe von Leiden, ein lokaler Erholungsort.",
+                  "category": "recreational",
+                  "coords": [
+                        4.543838,
+                        52.151568
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vadedostrand",
+                  "text": "Leiden melletti strand, helyi üdülőhely.",
+                  "category": "recreational",
+                  "coords": [
+                        4.543838,
+                        52.151568
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vadedostrand",
+                  "text": "Plajă lângă Leiden, un loc de recreere local.",
+                  "category": "recreational",
+                  "coords": [
+                        4.543838,
+                        52.151568
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vadedostrand",
+                  "text": "Beach near Leiden, a local recreational spot.",
+                  "category": "recreational",
+                  "coords": [
+                        4.543838,
+                        52.151568
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "NL",
     name: { de: "Rathaus Leiden", hu: "Leideni városháza", ro: "Primăria Leiden", en: "Leiden City Hall" },
@@ -1083,7 +1263,52 @@ export const netherlandsLandmarksV2: POI[] = [
     image: "/poi-images/netherlands-city-hall-leiden-landmarks-v2.webp",
   },
   {
-    id: "netherlands-st-laurence-church-rotterdam-landmarks-v2",
+    id: "netherlands-st-laurence-church-rotterdam-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Strand Kralingse Plas",
+                  "text": "Strand am Kralingse Plas, ein städtisches Erholungsgebiet bei Rotterdam.",
+                  "category": "recreational",
+                  "coords": [
+                        4.511872,
+                        51.941022
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Strand Kralingse Plas",
+                  "text": "Strand a Kralingse Plas tónál, városi rekreációs terület Rotterdam közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        4.511872,
+                        51.941022
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Strand Kralingse Plas",
+                  "text": "Plajă la Kralingse Plas, o zonă de recreere urbană lângă Rotterdam.",
+                  "category": "recreational",
+                  "coords": [
+                        4.511872,
+                        51.941022
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Strand Kralingse Plas",
+                  "text": "Beach at Kralingse Plas, an urban recreation area near Rotterdam.",
+                  "category": "recreational",
+                  "coords": [
+                        4.511872,
+                        51.941022
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "NL",
     name: { de: "Sankt-Laurenz-Kirche Rotterdam", hu: "Szent Lőrinc-templom Rotterdam", ro: "Biserica Sfântul Laurențiu Rotterdam", en: "St. Laurence Church Rotterdam" },

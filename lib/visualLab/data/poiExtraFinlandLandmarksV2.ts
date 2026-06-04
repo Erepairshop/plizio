@@ -3,7 +3,52 @@ import { POI } from './poi';
 export const finlandLandmarksV2: POI[] = [
 
   {
-    id: "finland-paavola-church-landmarks-v2",
+    id: "finland-paavola-church-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hietamaan uimaranta",
+                  "text": "Hietamaa-Badestrand nahe der Kirche von Paavola.",
+                  "category": "recreational",
+                  "coords": [
+                        25.072267,
+                        64.668053
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hietamaan uimaranta",
+                  "text": "Hietamaa strand a Paavola templom közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        25.072267,
+                        64.668053
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hietamaan uimaranta",
+                  "text": "Plaja Hietamaa lângă Biserica Paavola.",
+                  "category": "recreational",
+                  "coords": [
+                        25.072267,
+                        64.668053
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hietamaan uimaranta",
+                  "text": "Hietamaa beach near Paavola Church.",
+                  "category": "recreational",
+                  "coords": [
+                        25.072267,
+                        64.668053
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "FI",
     name: { de: "Paavola-Kirche", hu: "Paavola templom", ro: "Biserica Paavola", en: "Paavola Church" },
@@ -48,7 +93,52 @@ export const finlandLandmarksV2: POI[] = [
     image: "/poi-images/finland-paavola-church-landmarks-v2.webp",
   },
   {
-    id: "finland-pyhanta-church-landmarks-v2",
+    id: "finland-pyhanta-church-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Veneranta",
+                  "text": "Einfacher Strand bei der Kirche in Pyhäntä.",
+                  "category": "recreational",
+                  "coords": [
+                        26.337013,
+                        64.105987
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Veneranta",
+                  "text": "Egyszerű strand a Pyhäntä-i templomnál.",
+                  "category": "recreational",
+                  "coords": [
+                        26.337013,
+                        64.105987
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Veneranta",
+                  "text": "Plajă simplă lângă biserica din Pyhäntä.",
+                  "category": "recreational",
+                  "coords": [
+                        26.337013,
+                        64.105987
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Veneranta",
+                  "text": "Simple beach by the church in Pyhäntä.",
+                  "category": "recreational",
+                  "coords": [
+                        26.337013,
+                        64.105987
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "FI",
     name: { de: "Pyhäntä-Kirche", hu: "Pyhäntä templom", ro: "Biserica Pyhäntä", en: "Pyhäntä Church" },
@@ -138,7 +228,52 @@ export const finlandLandmarksV2: POI[] = [
     image: "/poi-images/finland-ruovesi-church-landmarks-v2.webp",
   },
   {
-    id: "finland-toivakka-church-landmarks-v2",
+    id: "finland-toivakka-church-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Uimala",
+                  "text": "Strand bei der Kirche von Toivakka.",
+                  "category": "recreational",
+                  "coords": [
+                        26.088757,
+                        62.103869
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Uimala",
+                  "text": "Strand a Toivakka templom közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        26.088757,
+                        62.103869
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Uimala",
+                  "text": "Plajă în apropierea bisericii din Toivakka.",
+                  "category": "recreational",
+                  "coords": [
+                        26.088757,
+                        62.103869
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Uimala",
+                  "text": "Beach near the Toivakka church.",
+                  "category": "recreational",
+                  "coords": [
+                        26.088757,
+                        62.103869
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "FI",
     name: { de: "Toivakka-Kirche", hu: "Toivakka templom", ro: "Biserica Toivakka", en: "Toivakka Church" },
@@ -228,7 +363,196 @@ export const finlandLandmarksV2: POI[] = [
     image: "/poi-images/finland-kauhajoki-church-landmarks-v2.webp",
   },
   {
-    id: "finland-kuhmo-church-landmarks-v2",
+    id: "finland-kuhmo-church-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ruukinrannan uimaranta",
+                  "text": "Ruukinrannan uimaranta ist ein Strand in der Nähe von Kuhmo.",
+                  "category": "recreational",
+                  "coords": [
+                        29.520838,
+                        64.131278
+                  ]
+            },
+            {
+                  "name": "Harakkasaaren ranta",
+                  "text": "Harakkasaaren ranta ist ein Strand bei Kuhmo Church.",
+                  "category": "recreational",
+                  "coords": [
+                        29.609952,
+                        64.114396
+                  ]
+            },
+            {
+                  "name": "Kalevalan leirintäalueen ranta",
+                  "text": "Kalevalan leirintäalueen ranta ist ein Strand beim Campingplatz in Kuhmo Church.",
+                  "category": "recreational",
+                  "coords": [
+                        29.59273,
+                        64.116254
+                  ]
+            },
+            {
+                  "name": "Isohiekka",
+                  "text": "Isohiekka ist ein Strand in der Nähe von Kuhmo Church.",
+                  "category": "recreational",
+                  "coords": [
+                        29.557727,
+                        64.127325
+                  ]
+            },
+            {
+                  "name": "Akonlahden uimaranta",
+                  "text": "Strand Akonlahti in Kuhmo.",
+                  "category": "recreational",
+                  "coords": [
+                        29.45807,
+                        64.13812
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ruukinrannan uimaranta",
+                  "text": "A Ruukinrannan uimaranta egy strand Kuhmo közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        29.520838,
+                        64.131278
+                  ]
+            },
+            {
+                  "name": "Harakkasaaren ranta",
+                  "text": "A Harakkasaaren ranta egy strand Kuhmo Church közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        29.609952,
+                        64.114396
+                  ]
+            },
+            {
+                  "name": "Kalevalan leirintäalueen ranta",
+                  "text": "A Kalevalan leirintäalueen ranta egy strand a Kuhmo Church-i kempingnél.",
+                  "category": "recreational",
+                  "coords": [
+                        29.59273,
+                        64.116254
+                  ]
+            },
+            {
+                  "name": "Isohiekka",
+                  "text": "Az Isohiekka egy strand Kuhmo Church közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        29.557727,
+                        64.127325
+                  ]
+            },
+            {
+                  "name": "Akonlahden uimaranta",
+                  "text": "Akonlahti strand Kuhmóban.",
+                  "category": "recreational",
+                  "coords": [
+                        29.45807,
+                        64.13812
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ruukinrannan uimaranta",
+                  "text": "Ruukinrannan uimaranta este o plajă lângă Kuhmo.",
+                  "category": "recreational",
+                  "coords": [
+                        29.520838,
+                        64.131278
+                  ]
+            },
+            {
+                  "name": "Harakkasaaren ranta",
+                  "text": "Harakkasaaren ranta este o plajă lângă Kuhmo Church.",
+                  "category": "recreational",
+                  "coords": [
+                        29.609952,
+                        64.114396
+                  ]
+            },
+            {
+                  "name": "Kalevalan leirintäalueen ranta",
+                  "text": "Kalevalan leirintäalueen ranta este o plajă la campingul din Kuhmo Church.",
+                  "category": "recreational",
+                  "coords": [
+                        29.59273,
+                        64.116254
+                  ]
+            },
+            {
+                  "name": "Isohiekka",
+                  "text": "Isohiekka este o plajă lângă Kuhmo Church.",
+                  "category": "recreational",
+                  "coords": [
+                        29.557727,
+                        64.127325
+                  ]
+            },
+            {
+                  "name": "Akonlahden uimaranta",
+                  "text": "Plaja Akonlahti din Kuhmo.",
+                  "category": "recreational",
+                  "coords": [
+                        29.45807,
+                        64.13812
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ruukinrannan uimaranta",
+                  "text": "Ruukinrannan uimaranta is a beach near Kuhmo.",
+                  "category": "recreational",
+                  "coords": [
+                        29.520838,
+                        64.131278
+                  ]
+            },
+            {
+                  "name": "Harakkasaaren ranta",
+                  "text": "Harakkasaaren ranta is a beach near Kuhmo Church.",
+                  "category": "recreational",
+                  "coords": [
+                        29.609952,
+                        64.114396
+                  ]
+            },
+            {
+                  "name": "Kalevalan leirintäalueen ranta",
+                  "text": "Kalevalan leirintäalueen ranta is a beach at the campsite in Kuhmo Church.",
+                  "category": "recreational",
+                  "coords": [
+                        29.59273,
+                        64.116254
+                  ]
+            },
+            {
+                  "name": "Isohiekka",
+                  "text": "Isohiekka is a beach near Kuhmo Church.",
+                  "category": "recreational",
+                  "coords": [
+                        29.557727,
+                        64.127325
+                  ]
+            },
+            {
+                  "name": "Akonlahden uimaranta",
+                  "text": "Akonlahti beach in Kuhmo.",
+                  "category": "recreational",
+                  "coords": [
+                        29.45807,
+                        64.13812
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "FI",
     name: { de: "Kuhmo-Kirche", hu: "Kuhmo templom", ro: "Biserica Kuhmo", en: "Kuhmo Church" },
@@ -318,7 +642,160 @@ export const finlandLandmarksV2: POI[] = [
     image: "/poi-images/finland-ilmajoki-church-landmarks-v2.webp",
   },
   {
-    id: "finland-kangasala-church-landmarks-v2",
+    id: "finland-kangasala-church-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Huutijärven uimaranta",
+                  "text": "Huutijärven uimaranta ist ein Strand in der Nähe von Kangasala.",
+                  "category": "recreational",
+                  "coords": [
+                        24.113749,
+                        61.457104
+                  ]
+            },
+            {
+                  "name": "Vesaniemen uimaranta",
+                  "text": "Strand bei der Kirche von Kangasala.",
+                  "category": "recreational",
+                  "coords": [
+                        24.082928,
+                        61.467927
+                  ]
+            },
+            {
+                  "name": "Liuksialan uimaranta",
+                  "text": "Strand bei der Kirche von Kangasala.",
+                  "category": "recreational",
+                  "coords": [
+                        24.013795,
+                        61.433687
+                  ]
+            },
+            {
+                  "name": "Riun uimaranta",
+                  "text": "Uferbereich bei der Kirche in Kangasala.",
+                  "category": "recreational",
+                  "coords": [
+                        24.090555,
+                        61.485588
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Huutijärven uimaranta",
+                  "text": "A Huutijärven uimaranta egy strand Kangasala közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        24.113749,
+                        61.457104
+                  ]
+            },
+            {
+                  "name": "Vesaniemen uimaranta",
+                  "text": "Strand a kangasala-i templom közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        24.082928,
+                        61.467927
+                  ]
+            },
+            {
+                  "name": "Liuksialan uimaranta",
+                  "text": "Strand a kangasala-i templom közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        24.013795,
+                        61.433687
+                  ]
+            },
+            {
+                  "name": "Riun uimaranta",
+                  "text": "Vízpart a kangasalai templomnál.",
+                  "category": "recreational",
+                  "coords": [
+                        24.090555,
+                        61.485588
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Huutijärven uimaranta",
+                  "text": "Huutijärven uimaranta este o plajă lângă Kangasala.",
+                  "category": "recreational",
+                  "coords": [
+                        24.113749,
+                        61.457104
+                  ]
+            },
+            {
+                  "name": "Vesaniemen uimaranta",
+                  "text": "Plajă lângă Biserica din Kangasala.",
+                  "category": "recreational",
+                  "coords": [
+                        24.082928,
+                        61.467927
+                  ]
+            },
+            {
+                  "name": "Liuksialan uimaranta",
+                  "text": "Plajă lângă Biserica din Kangasala.",
+                  "category": "recreational",
+                  "coords": [
+                        24.013795,
+                        61.433687
+                  ]
+            },
+            {
+                  "name": "Riun uimaranta",
+                  "text": "Zonă de țărm lângă biserica din Kangasala.",
+                  "category": "recreational",
+                  "coords": [
+                        24.090555,
+                        61.485588
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Huutijärven uimaranta",
+                  "text": "Huutijärven uimaranta is a beach near Kangasala.",
+                  "category": "recreational",
+                  "coords": [
+                        24.113749,
+                        61.457104
+                  ]
+            },
+            {
+                  "name": "Vesaniemen uimaranta",
+                  "text": "Beach near Kangasala Church.",
+                  "category": "recreational",
+                  "coords": [
+                        24.082928,
+                        61.467927
+                  ]
+            },
+            {
+                  "name": "Liuksialan uimaranta",
+                  "text": "Beach near Kangasala Church.",
+                  "category": "recreational",
+                  "coords": [
+                        24.013795,
+                        61.433687
+                  ]
+            },
+            {
+                  "name": "Riun uimaranta",
+                  "text": "Shore area by the church in Kangasala.",
+                  "category": "recreational",
+                  "coords": [
+                        24.090555,
+                        61.485588
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "FI",
     name: { de: "Kangasala-Kirche", hu: "Kangasala templom", ro: "Biserica Kangasala", en: "Kangasala Church" },
@@ -408,7 +885,52 @@ export const finlandLandmarksV2: POI[] = [
     image: "/poi-images/finland-kuhmalahti-church-landmarks-v2.webp",
   },
   {
-    id: "finland-kangasniemi-church-landmarks-v2",
+    id: "finland-kangasniemi-church-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Uimala",
+                  "text": "Uimala ist ein Badeplatz in der Nähe der Kirche Kangasniemi.",
+                  "category": "recreational",
+                  "coords": [
+                        26.644529,
+                        61.984898
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Uimala",
+                  "text": "Az Uimala egy fürdőhely a Kangasniemi templom közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        26.644529,
+                        61.984898
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Uimala",
+                  "text": "Uimala este un loc de scăldat situat în apropierea bisericii din Kangasniemi.",
+                  "category": "recreational",
+                  "coords": [
+                        26.644529,
+                        61.984898
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Uimala",
+                  "text": "Uimala is a bathing place near Kangasniemi Church.",
+                  "category": "recreational",
+                  "coords": [
+                        26.644529,
+                        61.984898
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "FI",
     name: { de: "Kangasniemi-Kirche", hu: "Kangasniemi templom", ro: "Biserica Kangasniemi", en: "Kangasniemi Church" },
@@ -498,7 +1020,52 @@ export const finlandLandmarksV2: POI[] = [
     image: "/poi-images/finland-kannus-church-landmarks-v2.webp",
   },
   {
-    id: "finland-kankaanpaa-church-landmarks-v2",
+    id: "finland-kankaanpaa-church-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ruokojärven uimaranta",
+                  "text": "Ruokojärven uimaranta ist ein Strand in der Nähe von Kankaanpaa.",
+                  "category": "recreational",
+                  "coords": [
+                        22.389984,
+                        61.799978
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ruokojärven uimaranta",
+                  "text": "A Ruokojärven uimaranta egy strand Kankaanpaa közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        22.389984,
+                        61.799978
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ruokojärven uimaranta",
+                  "text": "Ruokojärven uimaranta este o plajă lângă Kankaanpaa.",
+                  "category": "recreational",
+                  "coords": [
+                        22.389984,
+                        61.799978
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ruokojärven uimaranta",
+                  "text": "Ruokojärven uimaranta is a beach near Kankaanpaa.",
+                  "category": "recreational",
+                  "coords": [
+                        22.389984,
+                        61.799978
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "FI",
     name: { de: "Kankaanpää-Kirche", hu: "Kankaanpää templom", ro: "Biserica Kankaanpää", en: "Kankaanpää Church" },
@@ -543,7 +1110,52 @@ export const finlandLandmarksV2: POI[] = [
     image: "/poi-images/finland-kankaanpaa-church-landmarks-v2.webp",
   },
   {
-    id: "finland-karijoki-church-landmarks-v2",
+    id: "finland-karijoki-church-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Peurajärven uimaranta",
+                  "text": "Peurajärvi-Badestrand nahe der Kirche von Karijoki.",
+                  "category": "recreational",
+                  "coords": [
+                        21.760473,
+                        62.314798
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Peurajärven uimaranta",
+                  "text": "Peurajärvi strand a Karijoki templom közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        21.760473,
+                        62.314798
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Peurajärven uimaranta",
+                  "text": "Plaja Peurajärvi lângă Biserica Karijoki.",
+                  "category": "recreational",
+                  "coords": [
+                        21.760473,
+                        62.314798
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Peurajärven uimaranta",
+                  "text": "Peurajärvi beach near Karijoki Church.",
+                  "category": "recreational",
+                  "coords": [
+                        21.760473,
+                        62.314798
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "FI",
     name: { de: "Karijoki-Kirche", hu: "Karijoki templom", ro: "Biserica Karijoki", en: "Karijoki Church" },
@@ -633,7 +1245,124 @@ export const finlandLandmarksV2: POI[] = [
     image: "/poi-images/finland-karlaby-church-landmarks-v2.webp",
   },
   {
-    id: "finland-karstula-church-landmarks-v2",
+    id: "finland-karstula-church-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Yleinen uimaranta",
+                  "text": "Dies ist ein öffentlicher Strand in der Nähe der Kirche in Karstula.",
+                  "category": "recreational",
+                  "coords": [
+                        24.799896,
+                        62.884821
+                  ]
+            },
+            {
+                  "name": "Lossin ranta",
+                  "text": "Lossin ranta ist ein Strand in der Nähe von Karstula.",
+                  "category": "recreational",
+                  "coords": [
+                        24.784189,
+                        62.870908
+                  ]
+            },
+            {
+                  "name": "Heikkilänmäen uimaranta",
+                  "text": "Heikkilänmäen uimaranta liegt bei der Kirche von Karstula.",
+                  "category": "recreational",
+                  "coords": [
+                        24.823827,
+                        62.878413
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Yleinen uimaranta",
+                  "text": "Ez egy nyilvános strand a karstulai templom közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        24.799896,
+                        62.884821
+                  ]
+            },
+            {
+                  "name": "Lossin ranta",
+                  "text": "A Lossin ranta egy strand Karstula közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        24.784189,
+                        62.870908
+                  ]
+            },
+            {
+                  "name": "Heikkilänmäen uimaranta",
+                  "text": "A Heikkilänmäen uimaranta a karstulai templom közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        24.823827,
+                        62.878413
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Yleinen uimaranta",
+                  "text": "Aceasta este o plajă publică situată în apropierea bisericii din Karstula.",
+                  "category": "recreational",
+                  "coords": [
+                        24.799896,
+                        62.884821
+                  ]
+            },
+            {
+                  "name": "Lossin ranta",
+                  "text": "Lossin ranta este o plajă lângă Karstula.",
+                  "category": "recreational",
+                  "coords": [
+                        24.784189,
+                        62.870908
+                  ]
+            },
+            {
+                  "name": "Heikkilänmäen uimaranta",
+                  "text": "Heikkilänmäen uimaranta este situată lângă biserica din Karstula.",
+                  "category": "recreational",
+                  "coords": [
+                        24.823827,
+                        62.878413
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Yleinen uimaranta",
+                  "text": "This is a public beach near the church in Karstula.",
+                  "category": "recreational",
+                  "coords": [
+                        24.799896,
+                        62.884821
+                  ]
+            },
+            {
+                  "name": "Lossin ranta",
+                  "text": "Lossin ranta is a beach near Karstula.",
+                  "category": "recreational",
+                  "coords": [
+                        24.784189,
+                        62.870908
+                  ]
+            },
+            {
+                  "name": "Heikkilänmäen uimaranta",
+                  "text": "Heikkilänmäen uimaranta is located near the Karstula Church.",
+                  "category": "recreational",
+                  "coords": [
+                        24.823827,
+                        62.878413
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "FI",
     name: { de: "Karstula-Kirche", hu: "Karstula templom", ro: "Biserica Karstula", en: "Karstula Church" },
@@ -678,7 +1407,52 @@ export const finlandLandmarksV2: POI[] = [
     image: "/poi-images/finland-karstula-church-landmarks-v2.webp",
   },
   {
-    id: "finland-karttula-church-landmarks-v2",
+    id: "finland-karttula-church-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Syvänniemen uimaranta",
+                  "text": "Syvänniemi-Badestrand nahe der Kirche von Karttula.",
+                  "category": "recreational",
+                  "coords": [
+                        27.155018,
+                        62.852632
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Syvänniemen uimaranta",
+                  "text": "Syvänniemi strand a Karttula templom közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        27.155018,
+                        62.852632
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Syvänniemen uimaranta",
+                  "text": "Plaja Syvänniemi lângă Biserica Karttula.",
+                  "category": "recreational",
+                  "coords": [
+                        27.155018,
+                        62.852632
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Syvänniemen uimaranta",
+                  "text": "Syvänniemi beach near Karttula Church.",
+                  "category": "recreational",
+                  "coords": [
+                        27.155018,
+                        62.852632
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "FI",
     name: { de: "Karttula-Kirche", hu: "Karttula templom", ro: "Biserica Karttula", en: "Karttula Church" },
@@ -858,7 +1632,52 @@ export const finlandLandmarksV2: POI[] = [
     image: "/poi-images/finland-keitele-church-landmarks-v2.webp",
   },
   {
-    id: "finland-kellokoski-church-landmarks-v2",
+    id: "finland-kellokoski-church-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kellokosken uimaranta",
+                  "text": "Kellokosken Uimaranta liegt in der Nähe der Kirche in Kellokoski.",
+                  "category": "recreational",
+                  "coords": [
+                        25.103245,
+                        60.534119
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kellokosken uimaranta",
+                  "text": "A Kellokosken Uimaranta a kellokoski templom közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        25.103245,
+                        60.534119
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kellokosken uimaranta",
+                  "text": "Kellokosken Uimaranta este situată în apropierea bisericii din Kellokoski.",
+                  "category": "recreational",
+                  "coords": [
+                        25.103245,
+                        60.534119
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kellokosken uimaranta",
+                  "text": "Kellokosken Uimaranta is located near the church in Kellokoski.",
+                  "category": "recreational",
+                  "coords": [
+                        25.103245,
+                        60.534119
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "FI",
     name: { de: "Kellokoski-Kirche", hu: "Kellokoski templom", ro: "Biserica Kellokoski", en: "Kellokoski Church" },
@@ -948,7 +1767,52 @@ export const finlandLandmarksV2: POI[] = [
     image: "/poi-images/finland-kemijarvi-church-landmarks-v2.webp",
   },
   {
-    id: "finland-kempele-church-landmarks-v2",
+    id: "finland-kempele-church-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ouluntullin uimapaikka",
+                  "text": "Ouluntullin Badestelle liegt nahe der Kirche von Kempele.",
+                  "category": "recreational",
+                  "coords": [
+                        25.533329,
+                        64.93897
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ouluntullin uimapaikka",
+                  "text": "Ouluntullin fürdőhely a Kempele-templom közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        25.533329,
+                        64.93897
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ouluntullin uimapaikka",
+                  "text": "Zona de scăldat Ouluntullin este situată lângă biserica din Kempele.",
+                  "category": "recreational",
+                  "coords": [
+                        25.533329,
+                        64.93897
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ouluntullin uimapaikka",
+                  "text": "Ouluntullin swimming area is located near Kempele Church.",
+                  "category": "recreational",
+                  "coords": [
+                        25.533329,
+                        64.93897
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "FI",
     name: { de: "Alte Kirche von Kempele", hu: "Kempele régi temploma", ro: "Vechea biserică din Kempele", en: "Old Kempele Church" },
@@ -993,7 +1857,52 @@ export const finlandLandmarksV2: POI[] = [
     image: "/poi-images/finland-kempele-church-landmarks-v2.webp",
   },
   {
-    id: "finland-kerimaki-church-landmarks-v2",
+    id: "finland-kerimaki-church-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kotaluodon uimaranta",
+                  "text": "Kotaluodon uimaranta liegt bei der Kirche von Kerimäki.",
+                  "category": "recreational",
+                  "coords": [
+                        29.309031,
+                        61.917465
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kotaluodon uimaranta",
+                  "text": "Kotaluodon uimaranta a Kerimäki templom közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        29.309031,
+                        61.917465
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kotaluodon uimaranta",
+                  "text": "Kotaluodon uimaranta este situată lângă Biserica din Kerimäki.",
+                  "category": "recreational",
+                  "coords": [
+                        29.309031,
+                        61.917465
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kotaluodon uimaranta",
+                  "text": "Kotaluodon uimaranta is located near the Kerimäki Church.",
+                  "category": "recreational",
+                  "coords": [
+                        29.309031,
+                        61.917465
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "FI",
     name: { de: "Kirche von Kerimäki", hu: "Kerimäki templom", ro: "Biserica din Kerimäki", en: "Kerimäki Church" },
@@ -1218,7 +2127,52 @@ export const finlandLandmarksV2: POI[] = [
     image: "/poi-images/finland-kesava-church-landmarks-v2.webp",
   },
   {
-    id: "finland-keuruu-church-landmarks-v2",
+    id: "finland-keuruu-church-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Viikinhovin ranta",
+                  "text": "Ein Strand in der Nähe der Kirche von Keuruu.",
+                  "category": "recreational",
+                  "coords": [
+                        24.669596,
+                        62.224423
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Viikinhovin ranta",
+                  "text": "Strand a keuruui templom közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        24.669596,
+                        62.224423
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Viikinhovin ranta",
+                  "text": "O plajă lângă biserica din Keuruu.",
+                  "category": "recreational",
+                  "coords": [
+                        24.669596,
+                        62.224423
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Viikinhovin ranta",
+                  "text": "A beach near the church in Keuruu.",
+                  "category": "recreational",
+                  "coords": [
+                        24.669596,
+                        62.224423
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "FI",
     name: { de: "Keuruu-Altkirche", hu: "Keuruu ótemplom", ro: "Vechea biserică din Keuruu", en: "Keuruu Old Church" },
@@ -1353,7 +2307,88 @@ export const finlandLandmarksV2: POI[] = [
     image: "/poi-images/finland-kiikoinen-church-landmarks-v2.webp",
   },
   {
-    id: "finland-kiiminki-church-landmarks-v2",
+    id: "finland-kiiminki-church-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jäälin monttu",
+                  "text": "Jäälin Monttu ist ein Badeplatz in der Nähe der Kirche in Kiiminki.",
+                  "category": "recreational",
+                  "coords": [
+                        25.682029,
+                        65.104406
+                  ]
+            },
+            {
+                  "name": "Jäälin uimaranta",
+                  "text": "Jäälin Strand befindet sich nahe der Kirche von Kiiminki.",
+                  "category": "recreational",
+                  "coords": [
+                        25.690604,
+                        65.096496
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jäälin monttu",
+                  "text": "A Jäälin Monttu egy fürdőhely a kiiminki templom közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        25.682029,
+                        65.104406
+                  ]
+            },
+            {
+                  "name": "Jäälin uimaranta",
+                  "text": "Jäälin strandja a Kiiminki-templom közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        25.690604,
+                        65.096496
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jäälin monttu",
+                  "text": "Jäälin Monttu este un loc de scăldat situat în apropierea bisericii din Kiiminki.",
+                  "category": "recreational",
+                  "coords": [
+                        25.682029,
+                        65.104406
+                  ]
+            },
+            {
+                  "name": "Jäälin uimaranta",
+                  "text": "Plaja Jäälin este situată lângă biserica din Kiiminki.",
+                  "category": "recreational",
+                  "coords": [
+                        25.690604,
+                        65.096496
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jäälin monttu",
+                  "text": "Jäälin Monttu is a bathing place near Kiiminki Church.",
+                  "category": "recreational",
+                  "coords": [
+                        25.682029,
+                        65.104406
+                  ]
+            },
+            {
+                  "name": "Jäälin uimaranta",
+                  "text": "Jäälin beach is located near Kiiminki Church.",
+                  "category": "recreational",
+                  "coords": [
+                        25.690604,
+                        65.096496
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "FI",
     name: { de: "Kiiminki-Kirche", hu: "Kiiminki templom", ro: "Biserica Kiiminki", en: "Kiiminki Church" },

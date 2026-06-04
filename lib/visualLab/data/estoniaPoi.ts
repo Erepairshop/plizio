@@ -470,7 +470,52 @@ export const estoniaCities: POI[] = [
     },
   },
   {
-    id: "city-viljandi",
+    id: "city-viljandi", "sights": {
+      "de": [
+            {
+                  "name": "Paala rand",
+                  "text": "Paala-Strand in Viljandi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.589093,
+                        58.371967
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Paala rand",
+                  "text": "Paala strand Viljandiban.",
+                  "category": "recreational",
+                  "coords": [
+                        25.589093,
+                        58.371967
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Paala rand",
+                  "text": "Plaja Paala în Viljandi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.589093,
+                        58.371967
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Paala rand",
+                  "text": "Paala beach in Viljandi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.589093,
+                        58.371967
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ee-country",
     coords: [25.5906, 58.3639],
@@ -558,7 +603,160 @@ export const estoniaCities: POI[] = [
     },
   },
   {
-    id: "city-voru",
+    id: "city-voru", "sights": {
+      "de": [
+            {
+                  "name": "Kubija rand",
+                  "text": "Kubija-Strand in Võru.",
+                  "category": "recreational",
+                  "coords": [
+                        27.003214,
+                        57.812191
+                  ]
+            },
+            {
+                  "name": "Verijärve supelrand",
+                  "text": "Badestrand am Verijärv-See bei Võru.",
+                  "category": "recreational",
+                  "coords": [
+                        27.04728,
+                        57.810813
+                  ]
+            },
+            {
+                  "name": "Puiga supelrand",
+                  "text": "Strand bei Puiga.",
+                  "category": "recreational",
+                  "coords": [
+                        27.029136,
+                        57.793224
+                  ]
+            },
+            {
+                  "name": "Kose Valgjärve supelrand",
+                  "text": "Der Kose Valgjärve-Badestrand liegt in der Nähe von Võru.",
+                  "category": "recreational",
+                  "coords": [
+                        27.036824,
+                        57.813682
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kubija rand",
+                  "text": "Kubija strand Võruban.",
+                  "category": "recreational",
+                  "coords": [
+                        27.003214,
+                        57.812191
+                  ]
+            },
+            {
+                  "name": "Verijärve supelrand",
+                  "text": "Verijärve-tavi strand Võru közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        27.04728,
+                        57.810813
+                  ]
+            },
+            {
+                  "name": "Puiga supelrand",
+                  "text": "Strand Puigánál.",
+                  "category": "recreational",
+                  "coords": [
+                        27.029136,
+                        57.793224
+                  ]
+            },
+            {
+                  "name": "Kose Valgjärve supelrand",
+                  "text": "A Kose Valgjärve strand Võru közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        27.036824,
+                        57.813682
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kubija rand",
+                  "text": "Plaja Kubija în Võru.",
+                  "category": "recreational",
+                  "coords": [
+                        27.003214,
+                        57.812191
+                  ]
+            },
+            {
+                  "name": "Verijärve supelrand",
+                  "text": "Plaja lacului Verijärv lângă Võru.",
+                  "category": "recreational",
+                  "coords": [
+                        27.04728,
+                        57.810813
+                  ]
+            },
+            {
+                  "name": "Puiga supelrand",
+                  "text": "Plajă lângă Puiga.",
+                  "category": "recreational",
+                  "coords": [
+                        27.029136,
+                        57.793224
+                  ]
+            },
+            {
+                  "name": "Kose Valgjärve supelrand",
+                  "text": "Plaja Kose Valgjärve este situată lângă Võru.",
+                  "category": "recreational",
+                  "coords": [
+                        27.036824,
+                        57.813682
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kubija rand",
+                  "text": "Kubija beach in Võru.",
+                  "category": "recreational",
+                  "coords": [
+                        27.003214,
+                        57.812191
+                  ]
+            },
+            {
+                  "name": "Verijärve supelrand",
+                  "text": "Verijärv lake beach near Võru.",
+                  "category": "recreational",
+                  "coords": [
+                        27.04728,
+                        57.810813
+                  ]
+            },
+            {
+                  "name": "Puiga supelrand",
+                  "text": "Beach near Puiga.",
+                  "category": "recreational",
+                  "coords": [
+                        27.029136,
+                        57.793224
+                  ]
+            },
+            {
+                  "name": "Kose Valgjärve supelrand",
+                  "text": "Kose Valgjärve beach is located near Võru.",
+                  "category": "recreational",
+                  "coords": [
+                        27.036824,
+                        57.813682
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ee-country",
     coords: [27.0194, 57.8339],
@@ -602,7 +800,52 @@ export const estoniaCities: POI[] = [
     },
   },
   {
-    id: "city-rapla",
+    id: "city-rapla", "sights": {
+      "de": [
+            {
+                  "name": "Estonia järve supelrand",
+                  "text": "Strand am See Estonia bei Rapla.",
+                  "category": "recreational",
+                  "coords": [
+                        24.789167,
+                        58.962861
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Estonia järve supelrand",
+                  "text": "Strand az Estonia-tónál, Rapla közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        24.789167,
+                        58.962861
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Estonia järve supelrand",
+                  "text": "Plajă la lacul Estonia lângă Rapla.",
+                  "category": "recreational",
+                  "coords": [
+                        24.789167,
+                        58.962861
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Estonia järve supelrand",
+                  "text": "Beach at Estonia Lake near Rapla.",
+                  "category": "recreational",
+                  "coords": [
+                        24.789167,
+                        58.962861
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ee-country",
     coords: [24.7936, 58.9940],
@@ -778,7 +1021,52 @@ export const estoniaCities: POI[] = [
     },
   },
   {
-    id: "city-polva",
+    id: "city-polva", "sights": {
+      "de": [
+            {
+                  "name": "Põlva supelrand",
+                  "text": "Strand in Põlva.",
+                  "category": "recreational",
+                  "coords": [
+                        27.056618,
+                        58.05773
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Põlva supelrand",
+                  "text": "Põlva strand.",
+                  "category": "recreational",
+                  "coords": [
+                        27.056618,
+                        58.05773
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Põlva supelrand",
+                  "text": "Plaja Põlva.",
+                  "category": "recreational",
+                  "coords": [
+                        27.056618,
+                        58.05773
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Põlva supelrand",
+                  "text": "Põlva beach.",
+                  "category": "recreational",
+                  "coords": [
+                        27.056618,
+                        58.05773
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ee-country",
     coords: [27.0552, 58.0599],
@@ -822,7 +1110,52 @@ export const estoniaCities: POI[] = [
     },
   },
   {
-    id: "city-valga",
+    id: "city-valga", "sights": {
+      "de": [
+            {
+                  "name": "Valga Pedeli supelrand",
+                  "text": "Pedeli-Strand in Valga.",
+                  "category": "recreational",
+                  "coords": [
+                        26.047817,
+                        57.786931
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Valga Pedeli supelrand",
+                  "text": "Pedeli strand Valgában.",
+                  "category": "recreational",
+                  "coords": [
+                        26.047817,
+                        57.786931
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Valga Pedeli supelrand",
+                  "text": "Plaja Pedeli în Valga.",
+                  "category": "recreational",
+                  "coords": [
+                        26.047817,
+                        57.786931
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Valga Pedeli supelrand",
+                  "text": "Pedeli beach in Valga.",
+                  "category": "recreational",
+                  "coords": [
+                        26.047817,
+                        57.786931
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ee-country",
     coords: [26.0410, 57.7778],
@@ -918,7 +1251,88 @@ export const estoniaCulture: POI[] = [
     },
   },
   {
-    id: "cult-tartu-university",
+    id: "cult-tartu-university", "sights": {
+      "de": [
+            {
+                  "name": "Tartu Emajõe vabaujula",
+                  "text": "Vabaujula-Strand am Fluss Emajõgi in Tartu.",
+                  "category": "recreational",
+                  "coords": [
+                        26.703193,
+                        58.394789
+                  ]
+            },
+            {
+                  "name": "Emajõe linnaujula supelrand",
+                  "text": "Emajõe-Flussbadestrand in der Universitätsstadt Tartu.",
+                  "category": "recreational",
+                  "coords": [
+                        26.711444,
+                        58.392274
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tartu Emajõe vabaujula",
+                  "text": "Vabaujula strand az Emajõgi folyónál, Tartuban.",
+                  "category": "recreational",
+                  "coords": [
+                        26.703193,
+                        58.394789
+                  ]
+            },
+            {
+                  "name": "Emajõe linnaujula supelrand",
+                  "text": "Emajõe folyóparti strand az egyetemi városban, Tartuban.",
+                  "category": "recreational",
+                  "coords": [
+                        26.711444,
+                        58.392274
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tartu Emajõe vabaujula",
+                  "text": "Plaja Vabaujula pe râul Emajõgi în Tartu.",
+                  "category": "recreational",
+                  "coords": [
+                        26.703193,
+                        58.394789
+                  ]
+            },
+            {
+                  "name": "Emajõe linnaujula supelrand",
+                  "text": "Plaja pe râul Emajõe în orașul universitar Tartu.",
+                  "category": "recreational",
+                  "coords": [
+                        26.711444,
+                        58.392274
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tartu Emajõe vabaujula",
+                  "text": "Vabaujula beach on the Emajõgi river in Tartu.",
+                  "category": "recreational",
+                  "coords": [
+                        26.703193,
+                        58.394789
+                  ]
+            },
+            {
+                  "name": "Emajõe linnaujula supelrand",
+                  "text": "Emajõe river beach in the university city of Tartu.",
+                  "category": "recreational",
+                  "coords": [
+                        26.711444,
+                        58.392274
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ee-country",
     coords: [26.7208, 58.3806],
@@ -1261,7 +1675,52 @@ export const estoniaCulture: POI[] = [
     },
   },
   {
-    id: "cult-parnu-beach",
+    id: "cult-parnu-beach", "sights": {
+      "de": [
+            {
+                  "name": "Pärnu keskrand",
+                  "text": "Beliebter Strand in Pärnu.",
+                  "category": "recreational",
+                  "coords": [
+                        24.495036,
+                        58.373911
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pärnu keskrand",
+                  "text": "Népszerű strand Pärnuban.",
+                  "category": "recreational",
+                  "coords": [
+                        24.495036,
+                        58.373911
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pärnu keskrand",
+                  "text": "Plajă populară în Pärnu.",
+                  "category": "recreational",
+                  "coords": [
+                        24.495036,
+                        58.373911
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pärnu keskrand",
+                  "text": "Popular beach in Pärnu.",
+                  "category": "recreational",
+                  "coords": [
+                        24.495036,
+                        58.373911
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ee-country",
     coords: [24.495, 58.38],
@@ -1545,7 +2004,52 @@ export const estoniaCulture: POI[] = [
     },
   },
   {
-    id: "hist-sinimaed-battlefield",
+    id: "hist-sinimaed-battlefield", "sights": {
+      "de": [
+            {
+                  "name": "Mummassaare rand",
+                  "text": "Mummassaare-Strand nahe dem Schlachtfeld Sinimäe.",
+                  "category": "recreational",
+                  "coords": [
+                        27.878842,
+                        59.400219
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mummassaare rand",
+                  "text": "Mummassaare strand a Sinimäe csatatér közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        27.878842,
+                        59.400219
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mummassaare rand",
+                  "text": "Plaja Mummassaare lângă câmpul de luptă Sinimäe.",
+                  "category": "recreational",
+                  "coords": [
+                        27.878842,
+                        59.400219
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mummassaare rand",
+                  "text": "Mummassaare beach near the Sinimäe battlefield.",
+                  "category": "recreational",
+                  "coords": [
+                        27.878842,
+                        59.400219
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ee-country",
     coords: [27.7990, 59.3950],
@@ -1687,7 +2191,52 @@ export const estoniaCulture: POI[] = [
     },
   },
   {
-    id: "land-seaplane-harbour",
+    id: "land-seaplane-harbour", "sights": {
+      "de": [
+            {
+                  "name": "Pikakari rand",
+                  "text": "Pikakari-Strand in Tallinn.",
+                  "category": "recreational",
+                  "coords": [
+                        24.724958,
+                        59.473756
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pikakari rand",
+                  "text": "Pikakari strand Tallinnban.",
+                  "category": "recreational",
+                  "coords": [
+                        24.724958,
+                        59.473756
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pikakari rand",
+                  "text": "Plaja Pikakari în Tallinn.",
+                  "category": "recreational",
+                  "coords": [
+                        24.724958,
+                        59.473756
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pikakari rand",
+                  "text": "Pikakari beach in Tallinn.",
+                  "category": "recreational",
+                  "coords": [
+                        24.724958,
+                        59.473756
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ee-country",
     coords: [24.7330, 59.4539],
@@ -1932,7 +2481,88 @@ export const estoniaCulture: POI[] = [
     },
   },
   {
-    id: "land-open-air-museum",
+    id: "land-open-air-museum", "sights": {
+      "de": [
+            {
+                  "name": "Pelgurand",
+                  "text": "Pelgurand in der Nähe des Freilichtmuseums.",
+                  "category": "recreational",
+                  "coords": [
+                        24.682414,
+                        59.442987
+                  ]
+            },
+            {
+                  "name": "Kakumäe rand",
+                  "text": "Kakumäe-Strand nahe dem Freilichtmuseum.",
+                  "category": "recreational",
+                  "coords": [
+                        24.57481,
+                        59.450018
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pelgurand",
+                  "text": "Pelgurand strand a Szabadtéri Múzeum közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        24.682414,
+                        59.442987
+                  ]
+            },
+            {
+                  "name": "Kakumäe rand",
+                  "text": "Kakumäe strand a szabadtéri múzeum közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        24.57481,
+                        59.450018
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pelgurand",
+                  "text": "Plaja Pelgurand lângă Muzeul Satului.",
+                  "category": "recreational",
+                  "coords": [
+                        24.682414,
+                        59.442987
+                  ]
+            },
+            {
+                  "name": "Kakumäe rand",
+                  "text": "Plaja Kakumäe lângă muzeul în aer liber.",
+                  "category": "recreational",
+                  "coords": [
+                        24.57481,
+                        59.450018
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pelgurand",
+                  "text": "Pelgurand beach near the Open Air Museum.",
+                  "category": "recreational",
+                  "coords": [
+                        24.682414,
+                        59.442987
+                  ]
+            },
+            {
+                  "name": "Kakumäe rand",
+                  "text": "Kakumäe beach near the Open Air Museum.",
+                  "category": "recreational",
+                  "coords": [
+                        24.57481,
+                        59.450018
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ee-country",
     coords: [24.6578, 59.4525],
@@ -2217,7 +2847,52 @@ export const estoniaNature: POI[] = [
     },
   },
   {
-    id: "nat-vilsandi",
+    id: "nat-vilsandi", "sights": {
+      "de": [
+            {
+                  "name": "Mustakivi rand",
+                  "text": "Strand nahe dem Nationalpark Vilsandi.",
+                  "category": "recreational",
+                  "coords": [
+                        21.910962,
+                        58.391448
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mustakivi rand",
+                  "text": "Strand a Vilsandi Nemzeti Park közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        21.910962,
+                        58.391448
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mustakivi rand",
+                  "text": "Plajă lângă Parcul Național Vilsandi.",
+                  "category": "recreational",
+                  "coords": [
+                        21.910962,
+                        58.391448
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mustakivi rand",
+                  "text": "Beach near Vilsandi National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        21.910962,
+                        58.391448
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "ee-country",
     coords: [21.85, 58.38],
@@ -2391,7 +3066,52 @@ export const estoniaNature: POI[] = [
     },
   },
   {
-    id: "nat-vortsjarv",
+    id: "nat-vortsjarv", "sights": {
+      "de": [
+            {
+                  "name": "Tarvastu puhkeala supelrand",
+                  "text": "Erholungsgebiet Tarvastu bei Võrtsjärv.",
+                  "category": "recreational",
+                  "coords": [
+                        25.964973,
+                        58.252857
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tarvastu puhkeala supelrand",
+                  "text": "Tarvastu pihenőhely a Võrtsjärv-tónál.",
+                  "category": "recreational",
+                  "coords": [
+                        25.964973,
+                        58.252857
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tarvastu puhkeala supelrand",
+                  "text": "Zona de agrement Tarvastu lângă Võrtsjärv.",
+                  "category": "recreational",
+                  "coords": [
+                        25.964973,
+                        58.252857
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tarvastu puhkeala supelrand",
+                  "text": "Tarvastu recreation area near Võrtsjärv.",
+                  "category": "recreational",
+                  "coords": [
+                        25.964973,
+                        58.252857
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "ee-country",
     coords: [26.0300, 58.2800],
@@ -2473,7 +3193,52 @@ export const estoniaNature: POI[] = [
     },
   },
   {
-    id: "nat-narva-river",
+    id: "nat-narva-river", "sights": {
+      "de": [
+            {
+                  "name": "Joaoru rand",
+                  "text": "Strand Joaoru am Fluss Narva.",
+                  "category": "recreational",
+                  "coords": [
+                        28.202577,
+                        59.372966
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Joaoru rand",
+                  "text": "Joaoru strand a Narva folyónál.",
+                  "category": "recreational",
+                  "coords": [
+                        28.202577,
+                        59.372966
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Joaoru rand",
+                  "text": "Plaja Joaoru pe râul Narva.",
+                  "category": "recreational",
+                  "coords": [
+                        28.202577,
+                        59.372966
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Joaoru rand",
+                  "text": "Joaoru beach on the Narva river.",
+                  "category": "recreational",
+                  "coords": [
+                        28.202577,
+                        59.372966
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "ee-country",
     coords: [28.1985, 59.3750],
@@ -2561,7 +3326,52 @@ export const estoniaNature: POI[] = [
     },
   },
   {
-    id: "nat-ruhnu",
+    id: "nat-ruhnu", "sights": {
+      "de": [
+            {
+                  "name": "Limo supelrand",
+                  "text": "Limo-Badestrand auf der Insel Ruhnu.",
+                  "category": "recreational",
+                  "coords": [
+                        23.273801,
+                        57.798766
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Limo supelrand",
+                  "text": "Limo strand Ruhnu szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        23.273801,
+                        57.798766
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Limo supelrand",
+                  "text": "Plaja Limo pe insula Ruhnu.",
+                  "category": "recreational",
+                  "coords": [
+                        23.273801,
+                        57.798766
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Limo supelrand",
+                  "text": "Limo beach on Ruhnu island.",
+                  "category": "recreational",
+                  "coords": [
+                        23.273801,
+                        57.798766
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "ee-country",
     coords: [23.2550, 57.7990],
@@ -2943,7 +3753,52 @@ export const estoniaNature: POI[] = [
     },
   },
   {
-    id: "ee-r2big-loksa",
+    id: "ee-r2big-loksa", "sights": {
+      "de": [
+            {
+                  "name": "Loksa supelrand",
+                  "text": "Strand in Loksa.",
+                  "category": "recreational",
+                  "coords": [
+                        25.698273,
+                        59.575248
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Loksa supelrand",
+                  "text": "Loksa strand.",
+                  "category": "recreational",
+                  "coords": [
+                        25.698273,
+                        59.575248
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Loksa supelrand",
+                  "text": "Plaja Loksa.",
+                  "category": "recreational",
+                  "coords": [
+                        25.698273,
+                        59.575248
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Loksa supelrand",
+                  "text": "Loksa beach.",
+                  "category": "recreational",
+                  "coords": [
+                        25.698273,
+                        59.575248
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ee-country",
     coords: [25.6875, 59.5790],
@@ -2992,7 +3847,124 @@ export const estoniaNature: POI[] = [
     },
   },
   {
-    id: "ee-r2big-jogeva",
+    id: "ee-r2big-jogeva", "sights": {
+      "de": [
+            {
+                  "name": "Siimusti Konnaka supelrand",
+                  "text": "Badestrand Siimusti Konnaka in der Nähe von Jõgeva.",
+                  "category": "recreational",
+                  "coords": [
+                        26.349819,
+                        58.723089
+                  ]
+            },
+            {
+                  "name": "Jõgeva aleviku supelrand",
+                  "text": "Badestrand in der Siedlung Jõgeva.",
+                  "category": "recreational",
+                  "coords": [
+                        26.394322,
+                        58.768749
+                  ]
+            },
+            {
+                  "name": "Jõgeva linna supelrand",
+                  "text": "Badestrand in der Stadt Jõgeva.",
+                  "category": "recreational",
+                  "coords": [
+                        26.407624,
+                        58.752008
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Siimusti Konnaka supelrand",
+                  "text": "Siimusti Konnaka strand Jõgeva közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        26.349819,
+                        58.723089
+                  ]
+            },
+            {
+                  "name": "Jõgeva aleviku supelrand",
+                  "text": "Strand Jõgeva településen.",
+                  "category": "recreational",
+                  "coords": [
+                        26.394322,
+                        58.768749
+                  ]
+            },
+            {
+                  "name": "Jõgeva linna supelrand",
+                  "text": "Strand Jõgeva városában.",
+                  "category": "recreational",
+                  "coords": [
+                        26.407624,
+                        58.752008
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Siimusti Konnaka supelrand",
+                  "text": "Plaja Siimusti Konnaka lângă Jõgeva.",
+                  "category": "recreational",
+                  "coords": [
+                        26.349819,
+                        58.723089
+                  ]
+            },
+            {
+                  "name": "Jõgeva aleviku supelrand",
+                  "text": "Plajă în localitatea Jõgeva.",
+                  "category": "recreational",
+                  "coords": [
+                        26.394322,
+                        58.768749
+                  ]
+            },
+            {
+                  "name": "Jõgeva linna supelrand",
+                  "text": "Plajă în orașul Jõgeva.",
+                  "category": "recreational",
+                  "coords": [
+                        26.407624,
+                        58.752008
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Siimusti Konnaka supelrand",
+                  "text": "Siimusti Konnaka beach near Jõgeva.",
+                  "category": "recreational",
+                  "coords": [
+                        26.349819,
+                        58.723089
+                  ]
+            },
+            {
+                  "name": "Jõgeva aleviku supelrand",
+                  "text": "Beach in the Jõgeva settlement.",
+                  "category": "recreational",
+                  "coords": [
+                        26.394322,
+                        58.768749
+                  ]
+            },
+            {
+                  "name": "Jõgeva linna supelrand",
+                  "text": "Beach in Jõgeva town.",
+                  "category": "recreational",
+                  "coords": [
+                        26.407624,
+                        58.752008
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ee-country",
     coords: [26.3930, 58.7467],
@@ -3090,7 +4062,88 @@ export const estoniaNature: POI[] = [
     },
   },
   {
-    id: "ee-r2big-kilingi-nomme",
+    id: "ee-r2big-kilingi-nomme", "sights": {
+      "de": [
+            {
+                  "name": "Väike-Lavi supelrand",
+                  "text": "Strand bei Kilingi-Nõmme.",
+                  "category": "recreational",
+                  "coords": [
+                        24.952892,
+                        58.144416
+                  ]
+            },
+            {
+                  "name": "Sillaotsa järve supelrand",
+                  "text": "Strand am See Sillaotsa bei Kilingi-Nõmme.",
+                  "category": "recreational",
+                  "coords": [
+                        24.967831,
+                        58.131655
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Väike-Lavi supelrand",
+                  "text": "Strand Kilingi-Nõmme közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        24.952892,
+                        58.144416
+                  ]
+            },
+            {
+                  "name": "Sillaotsa järve supelrand",
+                  "text": "Strand a Sillaotsa-tónál, Kilingi-Nõmme közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        24.967831,
+                        58.131655
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Väike-Lavi supelrand",
+                  "text": "Plajă lângă Kilingi-Nõmme.",
+                  "category": "recreational",
+                  "coords": [
+                        24.952892,
+                        58.144416
+                  ]
+            },
+            {
+                  "name": "Sillaotsa järve supelrand",
+                  "text": "Plajă la lacul Sillaotsa lângă Kilingi-Nõmme.",
+                  "category": "recreational",
+                  "coords": [
+                        24.967831,
+                        58.131655
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Väike-Lavi supelrand",
+                  "text": "Beach near Kilingi-Nõmme.",
+                  "category": "recreational",
+                  "coords": [
+                        24.952892,
+                        58.144416
+                  ]
+            },
+            {
+                  "name": "Sillaotsa järve supelrand",
+                  "text": "Beach at Sillaotsa Lake near Kilingi-Nõmme.",
+                  "category": "recreational",
+                  "coords": [
+                        24.967831,
+                        58.131655
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ee-country",
     coords: [24.9540, 58.1480],
@@ -3237,7 +4290,196 @@ export const estoniaNature: POI[] = [
     },
   },
   {
-    id: "ee-r2big-elva",
+    id: "ee-r2big-elva", "sights": {
+      "de": [
+            {
+                  "name": "Verevi rand",
+                  "text": "Verevi-Strand in Elva.",
+                  "category": "recreational",
+                  "coords": [
+                        26.406462,
+                        58.229279
+                  ]
+            },
+            {
+                  "name": "Arbi rand",
+                  "text": "Arbi-Strand in Elva.",
+                  "category": "recreational",
+                  "coords": [
+                        26.416341,
+                        58.225116
+                  ]
+            },
+            {
+                  "name": "Peedu supelrand",
+                  "text": "Peedu-Badestrand bei Elva.",
+                  "category": "recreational",
+                  "coords": [
+                        26.438664,
+                        58.236387
+                  ]
+            },
+            {
+                  "name": "Vaikse järve supelrand",
+                  "text": "Badestrand am Vaikse-See bei Elva.",
+                  "category": "recreational",
+                  "coords": [
+                        26.428439,
+                        58.209394
+                  ]
+            },
+            {
+                  "name": "Elva paisjärve supelrand",
+                  "text": "Badestrand am Stausee in Elva.",
+                  "category": "recreational",
+                  "coords": [
+                        26.429438,
+                        58.215485
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Verevi rand",
+                  "text": "Verevi strand Elvában.",
+                  "category": "recreational",
+                  "coords": [
+                        26.406462,
+                        58.229279
+                  ]
+            },
+            {
+                  "name": "Arbi rand",
+                  "text": "Arbi strand Elvában.",
+                  "category": "recreational",
+                  "coords": [
+                        26.416341,
+                        58.225116
+                  ]
+            },
+            {
+                  "name": "Peedu supelrand",
+                  "text": "Peedu strand Elva közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        26.438664,
+                        58.236387
+                  ]
+            },
+            {
+                  "name": "Vaikse järve supelrand",
+                  "text": "Strand a Vaikse-tónál, Elva közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        26.428439,
+                        58.209394
+                  ]
+            },
+            {
+                  "name": "Elva paisjärve supelrand",
+                  "text": "Strand az Elva víztározónál.",
+                  "category": "recreational",
+                  "coords": [
+                        26.429438,
+                        58.215485
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Verevi rand",
+                  "text": "Plaja Verevi în Elva.",
+                  "category": "recreational",
+                  "coords": [
+                        26.406462,
+                        58.229279
+                  ]
+            },
+            {
+                  "name": "Arbi rand",
+                  "text": "Plaja Arbi în Elva.",
+                  "category": "recreational",
+                  "coords": [
+                        26.416341,
+                        58.225116
+                  ]
+            },
+            {
+                  "name": "Peedu supelrand",
+                  "text": "Plaja Peedu lângă Elva.",
+                  "category": "recreational",
+                  "coords": [
+                        26.438664,
+                        58.236387
+                  ]
+            },
+            {
+                  "name": "Vaikse järve supelrand",
+                  "text": "Plajă la lacul Vaikse, lângă Elva.",
+                  "category": "recreational",
+                  "coords": [
+                        26.428439,
+                        58.209394
+                  ]
+            },
+            {
+                  "name": "Elva paisjärve supelrand",
+                  "text": "Plajă la lacul de acumulare din Elva.",
+                  "category": "recreational",
+                  "coords": [
+                        26.429438,
+                        58.215485
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Verevi rand",
+                  "text": "Verevi beach in Elva.",
+                  "category": "recreational",
+                  "coords": [
+                        26.406462,
+                        58.229279
+                  ]
+            },
+            {
+                  "name": "Arbi rand",
+                  "text": "Arbi beach in Elva.",
+                  "category": "recreational",
+                  "coords": [
+                        26.416341,
+                        58.225116
+                  ]
+            },
+            {
+                  "name": "Peedu supelrand",
+                  "text": "Peedu beach near Elva.",
+                  "category": "recreational",
+                  "coords": [
+                        26.438664,
+                        58.236387
+                  ]
+            },
+            {
+                  "name": "Vaikse järve supelrand",
+                  "text": "Beach at Vaikse Lake near Elva.",
+                  "category": "recreational",
+                  "coords": [
+                        26.428439,
+                        58.209394
+                  ]
+            },
+            {
+                  "name": "Elva paisjärve supelrand",
+                  "text": "Beach at the reservoir in Elva.",
+                  "category": "recreational",
+                  "coords": [
+                        26.429438,
+                        58.215485
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ee-country",
     coords: [26.4230, 58.2220],
@@ -3286,7 +4528,88 @@ export const estoniaNature: POI[] = [
     },
   },
   {
-    id: "ee-r2big-karksi-nuia",
+    id: "ee-r2big-karksi-nuia", "sights": {
+      "de": [
+            {
+                  "name": "Karksi supelrand",
+                  "text": "Karksi-Strand nahe Karksi-Nuia in Estland.",
+                  "category": "recreational",
+                  "coords": [
+                        25.551685,
+                        58.108042
+                  ]
+            },
+            {
+                  "name": "Karksi järve supelrand",
+                  "text": "Badestrand am Karksi-See bei Karksi-Nuia.",
+                  "category": "recreational",
+                  "coords": [
+                        25.546782,
+                        58.110732
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Karksi supelrand",
+                  "text": "Karksi strand Karksi-Nuia közelében, Észtországban.",
+                  "category": "recreational",
+                  "coords": [
+                        25.551685,
+                        58.108042
+                  ]
+            },
+            {
+                  "name": "Karksi järve supelrand",
+                  "text": "Karksi-tavi strand Karksi-Nuia mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        25.546782,
+                        58.110732
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Karksi supelrand",
+                  "text": "Plaja Karksi lângă Karksi-Nuia în Estonia.",
+                  "category": "recreational",
+                  "coords": [
+                        25.551685,
+                        58.108042
+                  ]
+            },
+            {
+                  "name": "Karksi järve supelrand",
+                  "text": "Plaja lacului Karksi lângă Karksi-Nuia.",
+                  "category": "recreational",
+                  "coords": [
+                        25.546782,
+                        58.110732
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Karksi supelrand",
+                  "text": "Karksi beach near Karksi-Nuia in Estonia.",
+                  "category": "recreational",
+                  "coords": [
+                        25.551685,
+                        58.108042
+                  ]
+            },
+            {
+                  "name": "Karksi järve supelrand",
+                  "text": "Karksi lake beach near Karksi-Nuia.",
+                  "category": "recreational",
+                  "coords": [
+                        25.546782,
+                        58.110732
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ee-country",
     coords: [25.5660, 58.1030],
@@ -3727,7 +5050,52 @@ export const estoniaNature: POI[] = [
     },
   },
   {
-    id: "ee-r2big-vilsandi-island",
+    id: "ee-r2big-vilsandi-island", "sights": {
+      "de": [
+            {
+                  "name": "Aaperse rand",
+                  "text": "Aaperse-Strand auf der Insel Vilsandi.",
+                  "category": "recreational",
+                  "coords": [
+                        21.830241,
+                        58.373573
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Aaperse rand",
+                  "text": "Aaperse strand Vilsandi szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        21.830241,
+                        58.373573
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Aaperse rand",
+                  "text": "Plaja Aaperse pe insula Vilsandi.",
+                  "category": "recreational",
+                  "coords": [
+                        21.830241,
+                        58.373573
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Aaperse rand",
+                  "text": "Aaperse beach on Vilsandi Island.",
+                  "category": "recreational",
+                  "coords": [
+                        21.830241,
+                        58.373573
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "ee-country",
     coords: [21.8200, 58.3720],
@@ -3825,7 +5193,52 @@ export const estoniaNature: POI[] = [
     },
   },
   {
-    id: "ee-r2big-saku-brewery",
+    id: "ee-r2big-saku-brewery", "sights": {
+      "de": [
+            {
+                  "name": "Valdeku järve supelrand",
+                  "text": "Badestrand am Valdeku-See bei der Saku-Brauerei.",
+                  "category": "recreational",
+                  "coords": [
+                        24.693242,
+                        59.335703
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Valdeku järve supelrand",
+                  "text": "Strand a Valdeku-tónál, a Saku sörfőzde mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        24.693242,
+                        59.335703
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Valdeku järve supelrand",
+                  "text": "Plajă la lacul Valdeku lângă Fabrica de bere Saku.",
+                  "category": "recreational",
+                  "coords": [
+                        24.693242,
+                        59.335703
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Valdeku järve supelrand",
+                  "text": "Beach at Valdeku lake near Saku Brewery.",
+                  "category": "recreational",
+                  "coords": [
+                        24.693242,
+                        59.335703
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "ee-country",
     coords: [24.6640, 59.3020],
@@ -4021,7 +5434,52 @@ export const estoniaNature: POI[] = [
     },
   },
   {
-    id: "ee-r2big-poltsamaa-wine-cellar",
+    id: "ee-r2big-poltsamaa-wine-cellar", "sights": {
+      "de": [
+            {
+                  "name": "Wpark Põltsamaa supelrand",
+                  "text": "Strand bei Põltsamaa.",
+                  "category": "recreational",
+                  "coords": [
+                        25.987346,
+                        58.618455
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wpark Põltsamaa supelrand",
+                  "text": "Strand Põltsamaánál.",
+                  "category": "recreational",
+                  "coords": [
+                        25.987346,
+                        58.618455
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wpark Põltsamaa supelrand",
+                  "text": "Plajă lângă Põltsamaa.",
+                  "category": "recreational",
+                  "coords": [
+                        25.987346,
+                        58.618455
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wpark Põltsamaa supelrand",
+                  "text": "Beach near Põltsamaa.",
+                  "category": "recreational",
+                  "coords": [
+                        25.987346,
+                        58.618455
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "ee-country",
     coords: [25.9790, 58.6510],
@@ -4168,7 +5626,52 @@ export const estoniaNature: POI[] = [
     },
   },
   {
-    id: "ee-r2big-tallinn-zoo",
+    id: "ee-r2big-tallinn-zoo", "sights": {
+      "de": [
+            {
+                  "name": "Männiku järve supelrand",
+                  "text": "Der Männiku-See-Badestrand liegt nahe beim Zoo Tallinn.",
+                  "category": "recreational",
+                  "coords": [
+                        24.716317,
+                        59.359475
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Männiku järve supelrand",
+                  "text": "A Männiku-tavi strand a tallinni állatkert közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        24.716317,
+                        59.359475
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Männiku järve supelrand",
+                  "text": "Plaja de pe lacul Männiku este situată lângă Grădina Zoologică din Tallinn.",
+                  "category": "recreational",
+                  "coords": [
+                        24.716317,
+                        59.359475
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Männiku järve supelrand",
+                  "text": "Männiku lake beach is located near Tallinn Zoo.",
+                  "category": "recreational",
+                  "coords": [
+                        24.716317,
+                        59.359475
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "ee-country",
     coords: [24.6920, 59.3960],
@@ -4217,7 +5720,52 @@ export const estoniaNature: POI[] = [
     },
   },
   {
-    id: "ee-r2big-lottemaa",
+    id: "ee-r2big-lottemaa", "sights": {
+      "de": [
+            {
+                  "name": "Lemmetsa supelrand",
+                  "text": "Badestrand Lemmetsa bei Lottemaa.",
+                  "category": "recreational",
+                  "coords": [
+                        24.356076,
+                        58.43453
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lemmetsa supelrand",
+                  "text": "Lemmetsa strand a Lottemaa közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        24.356076,
+                        58.43453
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lemmetsa supelrand",
+                  "text": "Plaja Lemmetsa lângă Lottemaa.",
+                  "category": "recreational",
+                  "coords": [
+                        24.356076,
+                        58.43453
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lemmetsa supelrand",
+                  "text": "Lemmetsa beach near Lottemaa.",
+                  "category": "recreational",
+                  "coords": [
+                        24.356076,
+                        58.43453
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "ee-country",
     coords: [24.3790, 58.4010],
@@ -4315,7 +5863,52 @@ export const estoniaNature: POI[] = [
     },
   },
   {
-    id: "ee-r2big-vudila-playland",
+    id: "ee-r2big-vudila-playland", "sights": {
+      "de": [
+            {
+                  "name": "Vasula Veepargi supelrand",
+                  "text": "Badestrand am Vasula Veepark bei Vudila.",
+                  "category": "recreational",
+                  "coords": [
+                        26.730928,
+                        58.474923
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vasula Veepargi supelrand",
+                  "text": "Strand a Vasula Veeparknál, Vudila közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        26.730928,
+                        58.474923
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vasula Veepargi supelrand",
+                  "text": "Plajă la Vasula Veepark lângă Vudila.",
+                  "category": "recreational",
+                  "coords": [
+                        26.730928,
+                        58.474923
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vasula Veepargi supelrand",
+                  "text": "Beach at Vasula Veepark near Vudila.",
+                  "category": "recreational",
+                  "coords": [
+                        26.730928,
+                        58.474923
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "ee-country",
     coords: [26.8070, 58.4880],

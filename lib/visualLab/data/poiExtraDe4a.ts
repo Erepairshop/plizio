@@ -4671,7 +4671,52 @@ export const poiExtraDe4a: POI[] = [
     }, image: "/poi-images/landmark-dom-bremen-extra.webp"},
 
   {
-    id: "industry-airbus-bremen-extra",
+    id: "industry-airbus-bremen-extra", "sights": {
+      "de": [
+            {
+                  "name": "Badestrand Silbersee",
+                  "text": "Der Badestrand Silbersee befindet sich in der Nähe des Airbus-Werks in Bremen.",
+                  "category": "recreational",
+                  "coords": [
+                        8.747773,
+                        53.011706
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Badestrand Silbersee",
+                  "text": "A Silbersee strand a brémai Airbus-gyár közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        8.747773,
+                        53.011706
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Badestrand Silbersee",
+                  "text": "Plaja Silbersee este situată în apropierea fabricii Airbus din Bremen.",
+                  "category": "recreational",
+                  "coords": [
+                        8.747773,
+                        53.011706
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Badestrand Silbersee",
+                  "text": "The Silbersee beach is located near the Airbus factory in Bremen.",
+                  "category": "recreational",
+                  "coords": [
+                        8.747773,
+                        53.011706
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "DE-HB",
     coords: [8.7860, 53.0480],

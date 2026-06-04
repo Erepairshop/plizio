@@ -165,7 +165,196 @@ export const irelandRegions: POI[] = [
 
 export const irelandCities: POI[] = [
   {
-    id: "city-galway",
+    id: "city-galway", "sights": {
+      "de": [
+            {
+                  "name": "Coneen",
+                  "text": "Coneen ist ein Strand bei Galway.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.085879,
+                        53.257106
+                  ]
+            },
+            {
+                  "name": "Trawclogh",
+                  "text": "Trawclogh ist ein Strandabschnitt bei Galway.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.081263,
+                        53.25777
+                  ]
+            },
+            {
+                  "name": "Ladies Beach",
+                  "text": "Ladies Beach ist ein Strand bei Galway.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.084663,
+                        53.257384
+                  ]
+            },
+            {
+                  "name": "Grattan Beach",
+                  "text": "Grattan Beach ist ein Strand in Galway.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.066874,
+                        53.262602
+                  ]
+            },
+            {
+                  "name": "Blackrock Beach",
+                  "text": "Strand bei Galway.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.089255,
+                        53.257103
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Coneen",
+                  "text": "A Coneen egy strand Galway közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.085879,
+                        53.257106
+                  ]
+            },
+            {
+                  "name": "Trawclogh",
+                  "text": "A Trawclogh egy partszakasz Galway közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.081263,
+                        53.25777
+                  ]
+            },
+            {
+                  "name": "Ladies Beach",
+                  "text": "A Ladies Beach egy strand Galway közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.084663,
+                        53.257384
+                  ]
+            },
+            {
+                  "name": "Grattan Beach",
+                  "text": "A Grattan Beach egy strand Galway-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.066874,
+                        53.262602
+                  ]
+            },
+            {
+                  "name": "Blackrock Beach",
+                  "text": "Strand Galway közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.089255,
+                        53.257103
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Coneen",
+                  "text": "Coneen este o plajă lângă Galway.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.085879,
+                        53.257106
+                  ]
+            },
+            {
+                  "name": "Trawclogh",
+                  "text": "Trawclogh este o porțiune de plajă lângă Galway.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.081263,
+                        53.25777
+                  ]
+            },
+            {
+                  "name": "Ladies Beach",
+                  "text": "Ladies Beach este o plajă lângă Galway.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.084663,
+                        53.257384
+                  ]
+            },
+            {
+                  "name": "Grattan Beach",
+                  "text": "Grattan Beach este o plajă în Galway.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.066874,
+                        53.262602
+                  ]
+            },
+            {
+                  "name": "Blackrock Beach",
+                  "text": "Plajă lângă Galway.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.089255,
+                        53.257103
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Coneen",
+                  "text": "Coneen is a beach near Galway.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.085879,
+                        53.257106
+                  ]
+            },
+            {
+                  "name": "Trawclogh",
+                  "text": "Trawclogh is a beach area near Galway.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.081263,
+                        53.25777
+                  ]
+            },
+            {
+                  "name": "Ladies Beach",
+                  "text": "Ladies Beach is a beach near Galway.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.084663,
+                        53.257384
+                  ]
+            },
+            {
+                  "name": "Grattan Beach",
+                  "text": "Grattan Beach is a beach in Galway.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.066874,
+                        53.262602
+                  ]
+            },
+            {
+                  "name": "Blackrock Beach",
+                  "text": "Beach near Galway.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.089255,
+                        53.257103
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ireland",
     coords: [-9.0568, 53.2707],
@@ -785,7 +974,52 @@ export const irelandNature: POI[] = [
     },
   },
   {
-    id: "nat-giants-causeway",
+    id: "nat-giants-causeway", "sights": {
+      "de": [
+            {
+                  "name": "Runkerry Stand (Bushfoot)",
+                  "text": "Runkerry Strand liegt nahe dem Giant's Causeway.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.531884,
+                        55.223678
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Runkerry Stand (Bushfoot)",
+                  "text": "A Runkerry Strand a Giant's Causeway közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.531884,
+                        55.223678
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Runkerry Stand (Bushfoot)",
+                  "text": "Runkerry Strand se află lângă Giant's Causeway.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.531884,
+                        55.223678
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Runkerry Stand (Bushfoot)",
+                  "text": "Runkerry Strand is located near the Giant's Causeway.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.531884,
+                        55.223678
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ireland",
     coords: [-6.5116, 55.2408],
@@ -1006,7 +1240,196 @@ export const irelandNature: POI[] = [
     },
   },
   {
-    id: "nat-croagh-patrick",
+    id: "nat-croagh-patrick", "sights": {
+      "de": [
+            {
+                  "name": "Cooltraw Strand",
+                  "text": "Cooltraw Strand ist ein Strand beim Croagh Patrick.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.701853,
+                        53.779077
+                  ]
+            },
+            {
+                  "name": "Black Strand",
+                  "text": "Black Strand ist ein Strand beim Croagh Patrick.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.705944,
+                        53.777934
+                  ]
+            },
+            {
+                  "name": "Bunnatruffa",
+                  "text": "Bunnatruffa ist ein Strand beim Croagh Patrick.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.692921,
+                        53.782886
+                  ]
+            },
+            {
+                  "name": "White Strand",
+                  "text": "White Strand ist ein Strand beim Croagh Patrick.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.687774,
+                        53.783443
+                  ]
+            },
+            {
+                  "name": "Thornhill Strand",
+                  "text": "Thornhill Strand liegt am Croagh Patrick.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.681696,
+                        53.784681
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cooltraw Strand",
+                  "text": "A Cooltraw Strand egy strand a Croagh Patrick közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.701853,
+                        53.779077
+                  ]
+            },
+            {
+                  "name": "Black Strand",
+                  "text": "A Black Strand egy strand a Croagh Patrick közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.705944,
+                        53.777934
+                  ]
+            },
+            {
+                  "name": "Bunnatruffa",
+                  "text": "A Bunnatruffa egy strand a Croagh Patrick közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.692921,
+                        53.782886
+                  ]
+            },
+            {
+                  "name": "White Strand",
+                  "text": "A White Strand egy strand a Croagh Patrick közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.687774,
+                        53.783443
+                  ]
+            },
+            {
+                  "name": "Thornhill Strand",
+                  "text": "Thornhill Strand a Croagh Patrick hegy mellett található.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.681696,
+                        53.784681
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cooltraw Strand",
+                  "text": "Cooltraw Strand este o plajă lângă Croagh Patrick.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.701853,
+                        53.779077
+                  ]
+            },
+            {
+                  "name": "Black Strand",
+                  "text": "Black Strand este o plajă lângă Croagh Patrick.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.705944,
+                        53.777934
+                  ]
+            },
+            {
+                  "name": "Bunnatruffa",
+                  "text": "Bunnatruffa este o plajă lângă Croagh Patrick.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.692921,
+                        53.782886
+                  ]
+            },
+            {
+                  "name": "White Strand",
+                  "text": "White Strand este o plajă lângă Croagh Patrick.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.687774,
+                        53.783443
+                  ]
+            },
+            {
+                  "name": "Thornhill Strand",
+                  "text": "Thornhill Strand se află lângă Croagh Patrick.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.681696,
+                        53.784681
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cooltraw Strand",
+                  "text": "Cooltraw Strand is a beach near Croagh Patrick.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.701853,
+                        53.779077
+                  ]
+            },
+            {
+                  "name": "Black Strand",
+                  "text": "Black Strand is a beach near Croagh Patrick.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.705944,
+                        53.777934
+                  ]
+            },
+            {
+                  "name": "Bunnatruffa",
+                  "text": "Bunnatruffa is a beach near Croagh Patrick.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.692921,
+                        53.782886
+                  ]
+            },
+            {
+                  "name": "White Strand",
+                  "text": "White Strand is a beach near Croagh Patrick.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.687774,
+                        53.783443
+                  ]
+            },
+            {
+                  "name": "Thornhill Strand",
+                  "text": "Thornhill Strand is located near Croagh Patrick.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.681696,
+                        53.784681
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "ireland",
     coords: [-9.6587, 53.7595],
@@ -1760,7 +2183,52 @@ export const irelandCulture: POI[] = [
     },
   },
   {
-    id: "hist-charles-fort",
+    id: "hist-charles-fort", "sights": {
+      "de": [
+            {
+                  "name": "Dock Beach",
+                  "text": "Ein kleiner Strand nahe Charles Fort.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.512957,
+                        51.695538
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dock Beach",
+                  "text": "Kis strand Charles Fort közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.512957,
+                        51.695538
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dock Beach",
+                  "text": "O mică plajă lângă Charles Fort.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.512957,
+                        51.695538
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dock Beach",
+                  "text": "A small beach near Charles Fort.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.512957,
+                        51.695538
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "ireland",
     coords: [-8.4990, 51.7039],
@@ -2113,7 +2581,88 @@ export const irelandCulture: POI[] = [
     },
   },
   {
-    id: "landmark-dublin-port",
+    id: "landmark-dublin-port", "sights": {
+      "de": [
+            {
+                  "name": "Sandymount Strand",
+                  "text": "Sandymount Strand liegt beim Dublin Port.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.211942,
+                        53.334273
+                  ]
+            },
+            {
+                  "name": "Merrion Strand",
+                  "text": "Merrion Strand liegt beim Dublin Port.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.204241,
+                        53.31657
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sandymount Strand",
+                  "text": "A Sandymount Strand a dublini kikötő közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.211942,
+                        53.334273
+                  ]
+            },
+            {
+                  "name": "Merrion Strand",
+                  "text": "A Merrion Strand a dublini kikötő közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.204241,
+                        53.31657
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sandymount Strand",
+                  "text": "Sandymount Strand este situată lângă portul Dublin.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.211942,
+                        53.334273
+                  ]
+            },
+            {
+                  "name": "Merrion Strand",
+                  "text": "Merrion Strand este situată lângă portul Dublin.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.204241,
+                        53.31657
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sandymount Strand",
+                  "text": "Sandymount Strand is located near Dublin Port.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.211942,
+                        53.334273
+                  ]
+            },
+            {
+                  "name": "Merrion Strand",
+                  "text": "Merrion Strand is located near Dublin Port.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.204241,
+                        53.31657
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "ireland",
     coords: [-6.2228, 53.3490],
@@ -2906,7 +3455,88 @@ export const irelandCulture: POI[] = [
     },
   },
   {
-    id: "city-wicklow",
+    id: "city-wicklow", "sights": {
+      "de": [
+            {
+                  "name": "Silver Strand",
+                  "text": "Silver Strand ist ein Strandabschnitt bei Wicklow.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.011921,
+                        52.953802
+                  ]
+            },
+            {
+                  "name": "Kilpoole Beach",
+                  "text": "Kilpoole Beach liegt nahe Wicklow.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.016623,
+                        52.944607
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Silver Strand",
+                  "text": "A Silver Strand egy partszakasz Wicklow közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.011921,
+                        52.953802
+                  ]
+            },
+            {
+                  "name": "Kilpoole Beach",
+                  "text": "Kilpoole Beach Wicklow közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.016623,
+                        52.944607
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Silver Strand",
+                  "text": "Silver Strand este o porțiune de plajă lângă Wicklow.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.011921,
+                        52.953802
+                  ]
+            },
+            {
+                  "name": "Kilpoole Beach",
+                  "text": "Kilpoole Beach se află lângă Wicklow.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.016623,
+                        52.944607
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Silver Strand",
+                  "text": "Silver Strand is a beach area near Wicklow.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.011921,
+                        52.953802
+                  ]
+            },
+            {
+                  "name": "Kilpoole Beach",
+                  "text": "Kilpoole Beach is located near Wicklow.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.016623,
+                        52.944607
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ireland",
     coords: [-6.0427, 52.9808],
@@ -3126,7 +3756,52 @@ export const irelandCulture: POI[] = [
     },
   },
   {
-    id: "landmark-king-johns-castle",
+    id: "landmark-king-johns-castle", "sights": {
+      "de": [
+            {
+                  "name": "Yurty's Couch",
+                  "text": "Ein Strand nahe King John's Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.564558,
+                        52.675714
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Yurty's Couch",
+                  "text": "Strand King John's Castle közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.564558,
+                        52.675714
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Yurty's Couch",
+                  "text": "O plajă lângă King John's Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.564558,
+                        52.675714
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Yurty's Couch",
+                  "text": "A beach near King John's Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.564558,
+                        52.675714
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ireland",
     coords: [-8.6206, 52.6674],
@@ -3302,7 +3977,52 @@ export const irelandCulture: POI[] = [
     },
   },
   {
-    id: "landmark-dun-aonghasa",
+    id: "landmark-dun-aonghasa", "sights": {
+      "de": [
+            {
+                  "name": "Trá na mBuailte (Beach of the Booly)",
+                  "text": "Ein Strand nahe dem historischen Dun Aonghasa.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.67022,
+                        53.131019
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Trá na mBuailte (Beach of the Booly)",
+                  "text": "Strand a történelmi Dun Aonghasa közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.67022,
+                        53.131019
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Trá na mBuailte (Beach of the Booly)",
+                  "text": "O plajă lângă situl istoric Dun Aonghasa.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.67022,
+                        53.131019
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Trá na mBuailte (Beach of the Booly)",
+                  "text": "A beach near the historic Dun Aonghasa.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.67022,
+                        53.131019
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ireland",
     coords: [-9.6480, 53.1238],
@@ -3390,7 +4110,88 @@ export const irelandCulture: POI[] = [
     },
   },
   {
-    id: "mountain-mweelrea",
+    id: "mountain-mweelrea", "sights": {
+      "de": [
+            {
+                  "name": "Glassilaun Beach",
+                  "text": "Glassilaun Beach liegt in der Nähe des Berges Mweelrea.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.881919,
+                        53.615461
+                  ]
+            },
+            {
+                  "name": "Uggool Beach",
+                  "text": "Strand bei Mountain Mweelrea.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.878079,
+                        53.638281
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Glassilaun Beach",
+                  "text": "A Glassilaun Beach a Mweelrea hegy közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.881919,
+                        53.615461
+                  ]
+            },
+            {
+                  "name": "Uggool Beach",
+                  "text": "Strand Mountain Mweelrea közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.878079,
+                        53.638281
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Glassilaun Beach",
+                  "text": "Glassilaun Beach este situată lângă muntele Mweelrea.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.881919,
+                        53.615461
+                  ]
+            },
+            {
+                  "name": "Uggool Beach",
+                  "text": "Plajă lângă Mountain Mweelrea.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.878079,
+                        53.638281
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Glassilaun Beach",
+                  "text": "Glassilaun Beach is located near Mweelrea Mountain.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.881919,
+                        53.615461
+                  ]
+            },
+            {
+                  "name": "Uggool Beach",
+                  "text": "Beach near Mountain Mweelrea.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.878079,
+                        53.638281
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "ireland",
     coords: [-9.8139, 53.6250],

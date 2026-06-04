@@ -859,7 +859,52 @@ export const latviaAllPoi = [
     },
   },
   {
-    id: "lv-livani",
+    id: "lv-livani", "sights": {
+      "de": [
+            {
+                  "name": "Dobājs",
+                  "text": "Dobājs ist ein Strand in der Nähe von Līvāni.",
+                  "category": "recreational",
+                  "coords": [
+                        26.168038,
+                        56.326349
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dobājs",
+                  "text": "Dobājs egy strand Līvāni közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        26.168038,
+                        56.326349
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dobājs",
+                  "text": "Dobājs este o plajă situată în apropiere de Līvāni.",
+                  "category": "recreational",
+                  "coords": [
+                        26.168038,
+                        56.326349
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dobājs",
+                  "text": "Dobājs is a beach near Līvāni.",
+                  "category": "recreational",
+                  "coords": [
+                        26.168038,
+                        56.326349
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "lv-country",
     coords: [26.1758, 56.3516],
@@ -1084,7 +1129,88 @@ export const latviaAllPoi = [
     },
   },
   {
-    id: "lv-daugavpils-fortress",
+    id: "lv-daugavpils-fortress", "sights": {
+      "de": [
+            {
+                  "name": "Lielā Stropu ezera pilsētas pludmale",
+                  "text": "Der Strand am Lielais Stropu-See nahe der Daugavpils-Festung.",
+                  "category": "recreational",
+                  "coords": [
+                        26.590827,
+                        55.902037
+                  ]
+            },
+            {
+                  "name": "Šuņezera pludmale",
+                  "text": "Der Šuņezers-Strand liegt bei der Festung Daugavpils.",
+                  "category": "recreational",
+                  "coords": [
+                        26.512441,
+                        55.896768
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lielā Stropu ezera pilsētas pludmale",
+                  "text": "A Lielais Stropu-tavi strand a daugavpilsi erőd közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        26.590827,
+                        55.902037
+                  ]
+            },
+            {
+                  "name": "Šuņezera pludmale",
+                  "text": "A Šuņezers strand a daugavpilsi erőd mellett található.",
+                  "category": "recreational",
+                  "coords": [
+                        26.512441,
+                        55.896768
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lielā Stropu ezera pilsētas pludmale",
+                  "text": "Plaja de la lacul Lielais Stropu, aproape de cetatea Daugavpils.",
+                  "category": "recreational",
+                  "coords": [
+                        26.590827,
+                        55.902037
+                  ]
+            },
+            {
+                  "name": "Šuņezera pludmale",
+                  "text": "Plaja Šuņezers este situată lângă cetatea Daugavpils.",
+                  "category": "recreational",
+                  "coords": [
+                        26.512441,
+                        55.896768
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lielā Stropu ezera pilsētas pludmale",
+                  "text": "The beach at Lake Lielais Stropu near Daugavpils Fortress.",
+                  "category": "recreational",
+                  "coords": [
+                        26.590827,
+                        55.902037
+                  ]
+            },
+            {
+                  "name": "Šuņezera pludmale",
+                  "text": "Šuņezers beach is located near Daugavpils Fortress.",
+                  "category": "recreational",
+                  "coords": [
+                        26.512441,
+                        55.896768
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "lv-country",
     coords: [26.5289, 55.8852],
@@ -1348,7 +1474,52 @@ export const latviaAllPoi = [
     },
   },
   {
-    id: "lv-latvian-national-library",
+    id: "lv-latvian-national-library", "sights": {
+      "de": [
+            {
+                  "name": "Ķīpsalas pludmale",
+                  "text": "Der Ķīpsala-Strand liegt in der Nähe der Lettischen Nationalbibliothek in Riga.",
+                  "category": "recreational",
+                  "coords": [
+                        24.088992,
+                        56.951183
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ķīpsalas pludmale",
+                  "text": "A Ķīpsala strand a rigai Lett Nemzeti Könyvtár közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        24.088992,
+                        56.951183
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ķīpsalas pludmale",
+                  "text": "Plaja Ķīpsala este situată lângă Biblioteca Națională a Letoniei din Riga.",
+                  "category": "recreational",
+                  "coords": [
+                        24.088992,
+                        56.951183
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ķīpsalas pludmale",
+                  "text": "Ķīpsala beach is located near the Latvian National Library in Riga.",
+                  "category": "recreational",
+                  "coords": [
+                        24.088992,
+                        56.951183
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "lv-country",
     coords: [24.1000, 56.9471],
@@ -1920,7 +2091,52 @@ export const latviaAllPoi = [
     },
   },
   {
-    id: "lv-riga-free-port",
+    id: "lv-riga-free-port", "sights": {
+      "de": [
+            {
+                  "name": "Sarkandaugavas pludmale",
+                  "text": "Sarkandaugava ist ein Strandgebiet im Hafen von Riga.",
+                  "category": "recreational",
+                  "coords": [
+                        24.114918,
+                        56.999231
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sarkandaugavas pludmale",
+                  "text": "Sarkandaugava egy strandterület Riga kikötőjében.",
+                  "category": "recreational",
+                  "coords": [
+                        24.114918,
+                        56.999231
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sarkandaugavas pludmale",
+                  "text": "Sarkandaugava este o zonă de plajă în portul Riga.",
+                  "category": "recreational",
+                  "coords": [
+                        24.114918,
+                        56.999231
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sarkandaugavas pludmale",
+                  "text": "Sarkandaugava is a beach area in the port of Riga.",
+                  "category": "recreational",
+                  "coords": [
+                        24.114918,
+                        56.999231
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "lv-country",
     coords: [24.102, 56.975],
@@ -2052,7 +2268,88 @@ export const latviaAllPoi = [
     },
   },
   {
-    id: "lv-skulte-port",
+    id: "lv-skulte-port", "sights": {
+      "de": [
+            {
+                  "name": "Vārzas",
+                  "text": "Vārzas ist ein Strandgebiet in der Nähe des Hafens Skulte.",
+                  "category": "recreational",
+                  "coords": [
+                        24.399863,
+                        57.381132
+                  ]
+            },
+            {
+                  "name": "Sidrabiņi - Sēklīši",
+                  "text": "Sidrabiņi - Sēklīši ist ein Küstenabschnitt bei Skulte.",
+                  "category": "recreational",
+                  "coords": [
+                        24.400488,
+                        57.375609
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vārzas",
+                  "text": "Vārzas egy strandterület a Skultei kikötő közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        24.399863,
+                        57.381132
+                  ]
+            },
+            {
+                  "name": "Sidrabiņi - Sēklīši",
+                  "text": "Sidrabiņi - Sēklīši egy partszakasz Skulte közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        24.400488,
+                        57.375609
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vārzas",
+                  "text": "Vārzas este o zonă de plajă situată lângă portul Skulte.",
+                  "category": "recreational",
+                  "coords": [
+                        24.399863,
+                        57.381132
+                  ]
+            },
+            {
+                  "name": "Sidrabiņi - Sēklīši",
+                  "text": "Sidrabiņi - Sēklīši este o zonă de coastă lângă Skulte.",
+                  "category": "recreational",
+                  "coords": [
+                        24.400488,
+                        57.375609
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vārzas",
+                  "text": "Vārzas is a beach area near Skulte Port.",
+                  "category": "recreational",
+                  "coords": [
+                        24.399863,
+                        57.381132
+                  ]
+            },
+            {
+                  "name": "Sidrabiņi - Sēklīši",
+                  "text": "Sidrabiņi - Sēklīši is a coastal stretch near Skulte.",
+                  "category": "recreational",
+                  "coords": [
+                        24.400488,
+                        57.375609
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "lv-country",
     coords: [24.405, 57.337],
@@ -2096,7 +2393,52 @@ export const latviaAllPoi = [
     },
   },
   {
-    id: "lv-cesis-brewery",
+    id: "lv-cesis-brewery", "sights": {
+      "de": [
+            {
+                  "name": "Cēsu aktīvās atpūtas parks \"Karjers\"",
+                  "text": "Der Karjers-Park in Cēsis bietet einen Badebereich am Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        25.317473,
+                        57.317432
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cēsu aktīvās atpūtas parks \"Karjers\"",
+                  "text": "A Cēsis-i Karjers park vízparti fürdőhelyet kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        25.317473,
+                        57.317432
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cēsu aktīvās atpūtas parks \"Karjers\"",
+                  "text": "Parcul Karjers din Cēsis oferă o zonă de scăldat la apă.",
+                  "category": "recreational",
+                  "coords": [
+                        25.317473,
+                        57.317432
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cēsu aktīvās atpūtas parks \"Karjers\"",
+                  "text": "Karjers park in Cēsis offers a swimming area by the water.",
+                  "category": "recreational",
+                  "coords": [
+                        25.317473,
+                        57.317432
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "lv-country",
     coords: [25.277, 57.309],
@@ -2968,7 +3310,52 @@ export const latviaAllPoi = [
     },
   },
   {
-    id: "lv-valmiermuiza-brewery",
+    id: "lv-valmiermuiza-brewery", "sights": {
+      "de": [
+            {
+                  "name": "Daliņu Pludmale",
+                  "text": "Daliņu-Strand befindet sich in der Nähe der Brauerei Valmiermuiža.",
+                  "category": "recreational",
+                  "coords": [
+                        25.454391,
+                        57.541761
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Daliņu Pludmale",
+                  "text": "A Daliņu strand a Valmiermuiža sörfőzde közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        25.454391,
+                        57.541761
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Daliņu Pludmale",
+                  "text": "Plaja Daliņu este situată în apropierea berăriei Valmiermuiža.",
+                  "category": "recreational",
+                  "coords": [
+                        25.454391,
+                        57.541761
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Daliņu Pludmale",
+                  "text": "Daliņu beach is located near the Valmiermuiža Brewery.",
+                  "category": "recreational",
+                  "coords": [
+                        25.454391,
+                        57.541761
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "lv-country",
     coords: [25.4440, 57.5429],

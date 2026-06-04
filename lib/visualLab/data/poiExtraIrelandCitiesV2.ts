@@ -3,7 +3,124 @@ import { POI } from './poi';
 export const irelandCitiesV2: POI[] = [
 
   {
-    id: "ireland-arklow-cities-v2",
+    id: "ireland-arklow-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "South Beach",
+                  "text": "South Beach ist ein Strandabschnitt in Arklow.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.142026,
+                        52.787325
+                  ]
+            },
+            {
+                  "name": "The Cove",
+                  "text": "The Cove ist ein Strand bei Arklow.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.145167,
+                        52.780436
+                  ]
+            },
+            {
+                  "name": "Clogga Strand",
+                  "text": "Clogga Strand liegt bei Arklow.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.14655,
+                        52.765747
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "South Beach",
+                  "text": "A South Beach egy partszakasz Arklow-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.142026,
+                        52.787325
+                  ]
+            },
+            {
+                  "name": "The Cove",
+                  "text": "A The Cove egy strand Arklow közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.145167,
+                        52.780436
+                  ]
+            },
+            {
+                  "name": "Clogga Strand",
+                  "text": "Clogga Strand Arklow közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.14655,
+                        52.765747
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "South Beach",
+                  "text": "South Beach este o porțiune de plajă în Arklow.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.142026,
+                        52.787325
+                  ]
+            },
+            {
+                  "name": "The Cove",
+                  "text": "The Cove este o plajă lângă Arklow.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.145167,
+                        52.780436
+                  ]
+            },
+            {
+                  "name": "Clogga Strand",
+                  "text": "Clogga Strand se află lângă Arklow.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.14655,
+                        52.765747
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "South Beach",
+                  "text": "South Beach is a beach area in Arklow.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.142026,
+                        52.787325
+                  ]
+            },
+            {
+                  "name": "The Cove",
+                  "text": "The Cove is a beach near Arklow.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.145167,
+                        52.780436
+                  ]
+            },
+            {
+                  "name": "Clogga Strand",
+                  "text": "Clogga Strand is located near Arklow.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.14655,
+                        52.765747
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IE",
     name: { de: "Arklow", hu: "Arklow", ro: "Arklow", en: "Arklow" },
@@ -93,7 +210,52 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-ashbourne-cities-v2.webp",
   },
   {
-    id: "ireland-ballincollig-cities-v2",
+    id: "ireland-ballincollig-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Stone Beach",
+                  "text": "Ein Strand bei Ballincollig.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.575212,
+                        51.897112
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stone Beach",
+                  "text": "Strand Ballincollig közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.575212,
+                        51.897112
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stone Beach",
+                  "text": "O plajă lângă Ballincollig.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.575212,
+                        51.897112
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stone Beach",
+                  "text": "A beach near Ballincollig.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.575212,
+                        51.897112
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Ballincollig", hu: "Ballincollig", ro: "Ballincollig", en: "Ballincollig" },
@@ -228,7 +390,340 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-banbridge-cities-v2.webp",
   },
   {
-    id: "ireland-bantry-cities-v2",
+    id: "ireland-bantry-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Newtown Fort",
+                  "text": "Newtown Fort ist eine archäologische Stätte bei Bantry.",
+                  "category": "historical",
+                  "coords": [
+                        -9.451474,
+                        51.687794
+                  ]
+            },
+            {
+                  "name": "Bantry House",
+                  "text": "Bantry House ist ein prächtiges historisches Herrenhaus in Bantry.",
+                  "category": "historical",
+                  "coords": [
+                        -9.465337,
+                        51.677145
+                  ]
+            },
+            {
+                  "name": "WW1 US naval airbase",
+                  "text": "Die Ruinen der US-Marinebasis aus dem Ersten Weltkrieg befinden sich in Bantry.",
+                  "category": "historical",
+                  "coords": [
+                        -9.481033,
+                        51.698417
+                  ]
+            },
+            {
+                  "name": "Maggie Murphys",
+                  "text": "Maggie Murphys ist eine Ruinenstätte in Bantry.",
+                  "category": "historical",
+                  "coords": [
+                        -9.452028,
+                        51.663295
+                  ]
+            },
+            {
+                  "name": "Seskin View",
+                  "text": "Seskin View bietet einen schönen Aussichtspunkt bei Bantry.",
+                  "category": "natural",
+                  "coords": [
+                        -9.444179,
+                        51.666156
+                  ]
+            },
+            {
+                  "name": "Gun Battery",
+                  "text": "Die Gun Battery in Bantry ist eine historische Ruinenstätte.",
+                  "category": "historical",
+                  "coords": [
+                        -9.481096,
+                        51.704667
+                  ]
+            },
+            {
+                  "name": "Lady's Well",
+                  "text": "Lady's Well ist eine Quelle in der Stadt Bantry.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.490082,
+                        51.669923
+                  ]
+            },
+            {
+                  "name": "St. Finbarrs",
+                  "text": "St. Finbarrs ist ein Gotteshaus in Bantry.",
+                  "category": "religious",
+                  "coords": [
+                        -9.448198,
+                        51.677849
+                  ]
+            },
+            {
+                  "name": "St Brendan The Navigator",
+                  "text": "St Brendan The Navigator ist ein Gotteshaus in Bantry.",
+                  "category": "religious",
+                  "coords": [
+                        -9.453086,
+                        51.680929
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Newtown Fort",
+                  "text": "A Newtown Fort egy régészeti lelőhely Bantry közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -9.451474,
+                        51.687794
+                  ]
+            },
+            {
+                  "name": "Bantry House",
+                  "text": "A Bantry House egy impozáns történelmi kúria Bantry városában.",
+                  "category": "historical",
+                  "coords": [
+                        -9.465337,
+                        51.677145
+                  ]
+            },
+            {
+                  "name": "WW1 US naval airbase",
+                  "text": "Az első világháborús amerikai haditengerészeti légibázis romjai Bantryban találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        -9.481033,
+                        51.698417
+                  ]
+            },
+            {
+                  "name": "Maggie Murphys",
+                  "text": "Maggie Murphys egy romos építmény Bantryban.",
+                  "category": "historical",
+                  "coords": [
+                        -9.452028,
+                        51.663295
+                  ]
+            },
+            {
+                  "name": "Seskin View",
+                  "text": "A Seskin View egy kiváló kilátópont Bantry közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -9.444179,
+                        51.666156
+                  ]
+            },
+            {
+                  "name": "Gun Battery",
+                  "text": "A Gun Battery egy történelmi romos terület Bantryban.",
+                  "category": "historical",
+                  "coords": [
+                        -9.481096,
+                        51.704667
+                  ]
+            },
+            {
+                  "name": "Lady's Well",
+                  "text": "A Lady's Well egy forrás Bantry városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.490082,
+                        51.669923
+                  ]
+            },
+            {
+                  "name": "St. Finbarrs",
+                  "text": "A St. Finbarrs egy istentiszteleti hely Bantry-ben.",
+                  "category": "religious",
+                  "coords": [
+                        -9.448198,
+                        51.677849
+                  ]
+            },
+            {
+                  "name": "St Brendan The Navigator",
+                  "text": "A St Brendan The Navigator egy istentiszteleti hely Bantry-ben.",
+                  "category": "religious",
+                  "coords": [
+                        -9.453086,
+                        51.680929
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Newtown Fort",
+                  "text": "Newtown Fort este un sit arheologic situat în apropiere de Bantry.",
+                  "category": "historical",
+                  "coords": [
+                        -9.451474,
+                        51.687794
+                  ]
+            },
+            {
+                  "name": "Bantry House",
+                  "text": "Bantry House este un conac istoric impresionant situat în Bantry.",
+                  "category": "historical",
+                  "coords": [
+                        -9.465337,
+                        51.677145
+                  ]
+            },
+            {
+                  "name": "WW1 US naval airbase",
+                  "text": "Ruinele bazei navale aeriene americane din Primul Război Mondial se află în Bantry.",
+                  "category": "historical",
+                  "coords": [
+                        -9.481033,
+                        51.698417
+                  ]
+            },
+            {
+                  "name": "Maggie Murphys",
+                  "text": "Maggie Murphys este un sit cu ruine situat în Bantry.",
+                  "category": "historical",
+                  "coords": [
+                        -9.452028,
+                        51.663295
+                  ]
+            },
+            {
+                  "name": "Seskin View",
+                  "text": "Seskin View oferă un punct de observație panoramică lângă Bantry.",
+                  "category": "natural",
+                  "coords": [
+                        -9.444179,
+                        51.666156
+                  ]
+            },
+            {
+                  "name": "Gun Battery",
+                  "text": "Gun Battery este un sit cu ruine istorice situat în Bantry.",
+                  "category": "historical",
+                  "coords": [
+                        -9.481096,
+                        51.704667
+                  ]
+            },
+            {
+                  "name": "Lady's Well",
+                  "text": "Lady's Well este un izvor în orașul Bantry.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.490082,
+                        51.669923
+                  ]
+            },
+            {
+                  "name": "St. Finbarrs",
+                  "text": "St. Finbarrs este un lăcaș de cult în Bantry.",
+                  "category": "religious",
+                  "coords": [
+                        -9.448198,
+                        51.677849
+                  ]
+            },
+            {
+                  "name": "St Brendan The Navigator",
+                  "text": "St Brendan The Navigator este un lăcaș de cult în Bantry.",
+                  "category": "religious",
+                  "coords": [
+                        -9.453086,
+                        51.680929
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Newtown Fort",
+                  "text": "Newtown Fort is an archaeological site near Bantry.",
+                  "category": "historical",
+                  "coords": [
+                        -9.451474,
+                        51.687794
+                  ]
+            },
+            {
+                  "name": "Bantry House",
+                  "text": "Bantry House is an impressive historic manor in Bantry.",
+                  "category": "historical",
+                  "coords": [
+                        -9.465337,
+                        51.677145
+                  ]
+            },
+            {
+                  "name": "WW1 US naval airbase",
+                  "text": "The ruins of the WW1 US naval airbase are located in Bantry.",
+                  "category": "historical",
+                  "coords": [
+                        -9.481033,
+                        51.698417
+                  ]
+            },
+            {
+                  "name": "Maggie Murphys",
+                  "text": "Maggie Murphys is a ruin site in Bantry.",
+                  "category": "historical",
+                  "coords": [
+                        -9.452028,
+                        51.663295
+                  ]
+            },
+            {
+                  "name": "Seskin View",
+                  "text": "Seskin View provides a scenic viewpoint near Bantry.",
+                  "category": "natural",
+                  "coords": [
+                        -9.444179,
+                        51.666156
+                  ]
+            },
+            {
+                  "name": "Gun Battery",
+                  "text": "The Gun Battery in Bantry is a historic ruin site.",
+                  "category": "historical",
+                  "coords": [
+                        -9.481096,
+                        51.704667
+                  ]
+            },
+            {
+                  "name": "Lady's Well",
+                  "text": "Lady's Well is a spring located in the town of Bantry.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.490082,
+                        51.669923
+                  ]
+            },
+            {
+                  "name": "St. Finbarrs",
+                  "text": "St. Finbarrs is a place of worship in Bantry.",
+                  "category": "religious",
+                  "coords": [
+                        -9.448198,
+                        51.677849
+                  ]
+            },
+            {
+                  "name": "St Brendan The Navigator",
+                  "text": "St Brendan The Navigator is a place of worship in Bantry.",
+                  "category": "religious",
+                  "coords": [
+                        -9.453086,
+                        51.680929
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Bantry", hu: "Bantry", ro: "Bantry", en: "Bantry" },
@@ -273,7 +768,268 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-bantry-cities-v2.webp",
   },
   {
-    id: "ireland-birr-cities-v2",
+    id: "ireland-birr-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Birr Heritage Centre",
+                  "text": "Das Birr Heritage Centre ist ein lokales Museum in der Stadt Birr.",
+                  "category": "museum",
+                  "coords": [
+                        -7.908152,
+                        53.095981
+                  ]
+            },
+            {
+                  "name": "Birr Castle",
+                  "text": "Birr Castle ist eine historische Burg in Birr, bekannt für ihre Gärten und ihr Wissenschaftszentrum.",
+                  "category": "castle",
+                  "coords": [
+                        -7.914758,
+                        53.095346
+                  ]
+            },
+            {
+                  "name": "Historic Science Centre",
+                  "text": "Das Historic Science Centre ist ein Museum in Birr.",
+                  "category": "museum",
+                  "coords": [
+                        -7.914296,
+                        53.096747
+                  ]
+            },
+            {
+                  "name": "The Great Telescope 'Leviathan'",
+                  "text": "The Great Telescope 'Leviathan' ist eine Sehenswürdigkeit in Birr.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.917393,
+                        53.096817
+                  ]
+            },
+            {
+                  "name": "Crinkill Barracks (disused)",
+                  "text": "Die Crinkill Barracks (disused) sind eine Ruine in Birr.",
+                  "category": "historical",
+                  "coords": [
+                        -7.893966,
+                        53.078252
+                  ]
+            },
+            {
+                  "name": "Emmet Square",
+                  "text": "Emmet Square ist ein Denkmal in der Stadt Birr.",
+                  "category": "historical",
+                  "coords": [
+                        -7.910874,
+                        53.096155
+                  ]
+            },
+            {
+                  "name": "Saint Brendans Church",
+                  "text": "Die Saint Brendans Church ist ein Gotteshaus in Birr.",
+                  "category": "religious",
+                  "coords": [
+                        -7.910125,
+                        53.098154
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Birr Heritage Centre",
+                  "text": "A Birr Heritage Centre egy helyi múzeum Birr városában.",
+                  "category": "museum",
+                  "coords": [
+                        -7.908152,
+                        53.095981
+                  ]
+            },
+            {
+                  "name": "Birr Castle",
+                  "text": "A Birr Castle egy történelmi kastély Birr városában, amely kertjeiről és tudományos központjáról ismert.",
+                  "category": "castle",
+                  "coords": [
+                        -7.914758,
+                        53.095346
+                  ]
+            },
+            {
+                  "name": "Historic Science Centre",
+                  "text": "A Historic Science Centre egy múzeum Birr városában.",
+                  "category": "museum",
+                  "coords": [
+                        -7.914296,
+                        53.096747
+                  ]
+            },
+            {
+                  "name": "The Great Telescope 'Leviathan'",
+                  "text": "A The Great Telescope 'Leviathan' egy turisztikai látványosság Birr városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.917393,
+                        53.096817
+                  ]
+            },
+            {
+                  "name": "Crinkill Barracks (disused)",
+                  "text": "A Crinkill Barracks (disused) egy rom Birr városában.",
+                  "category": "historical",
+                  "coords": [
+                        -7.893966,
+                        53.078252
+                  ]
+            },
+            {
+                  "name": "Emmet Square",
+                  "text": "Az Emmet Square egy emlékmű Birr városában.",
+                  "category": "historical",
+                  "coords": [
+                        -7.910874,
+                        53.096155
+                  ]
+            },
+            {
+                  "name": "Saint Brendans Church",
+                  "text": "A Saint Brendans Church egy istentiszteleti hely Birr városában.",
+                  "category": "religious",
+                  "coords": [
+                        -7.910125,
+                        53.098154
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Birr Heritage Centre",
+                  "text": "Birr Heritage Centre este un muzeu local situat în orașul Birr.",
+                  "category": "museum",
+                  "coords": [
+                        -7.908152,
+                        53.095981
+                  ]
+            },
+            {
+                  "name": "Birr Castle",
+                  "text": "Birr Castle este un castel istoric din Birr, recunoscut pentru grădinile sale și centrul științific.",
+                  "category": "castle",
+                  "coords": [
+                        -7.914758,
+                        53.095346
+                  ]
+            },
+            {
+                  "name": "Historic Science Centre",
+                  "text": "Historic Science Centre este un muzeu situat în Birr.",
+                  "category": "museum",
+                  "coords": [
+                        -7.914296,
+                        53.096747
+                  ]
+            },
+            {
+                  "name": "The Great Telescope 'Leviathan'",
+                  "text": "The Great Telescope 'Leviathan' este o atracție turistică situată în Birr.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.917393,
+                        53.096817
+                  ]
+            },
+            {
+                  "name": "Crinkill Barracks (disused)",
+                  "text": "Crinkill Barracks (disused) este o ruină situată în Birr.",
+                  "category": "historical",
+                  "coords": [
+                        -7.893966,
+                        53.078252
+                  ]
+            },
+            {
+                  "name": "Emmet Square",
+                  "text": "Emmet Square este un monument din orașul Birr.",
+                  "category": "historical",
+                  "coords": [
+                        -7.910874,
+                        53.096155
+                  ]
+            },
+            {
+                  "name": "Saint Brendans Church",
+                  "text": "Saint Brendans Church este un lăcaș de cult situat în Birr.",
+                  "category": "religious",
+                  "coords": [
+                        -7.910125,
+                        53.098154
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Birr Heritage Centre",
+                  "text": "Birr Heritage Centre is a local museum located in the town of Birr.",
+                  "category": "museum",
+                  "coords": [
+                        -7.908152,
+                        53.095981
+                  ]
+            },
+            {
+                  "name": "Birr Castle",
+                  "text": "Birr Castle is a historic castle in Birr, well-known for its gardens and science centre.",
+                  "category": "castle",
+                  "coords": [
+                        -7.914758,
+                        53.095346
+                  ]
+            },
+            {
+                  "name": "Historic Science Centre",
+                  "text": "The Historic Science Centre is a museum located in Birr.",
+                  "category": "museum",
+                  "coords": [
+                        -7.914296,
+                        53.096747
+                  ]
+            },
+            {
+                  "name": "The Great Telescope 'Leviathan'",
+                  "text": "The Great Telescope 'Leviathan' is a tourist attraction located in Birr.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.917393,
+                        53.096817
+                  ]
+            },
+            {
+                  "name": "Crinkill Barracks (disused)",
+                  "text": "The Crinkill Barracks (disused) is a ruined site located in Birr.",
+                  "category": "historical",
+                  "coords": [
+                        -7.893966,
+                        53.078252
+                  ]
+            },
+            {
+                  "name": "Emmet Square",
+                  "text": "Emmet Square is a monument located in the city of Birr.",
+                  "category": "historical",
+                  "coords": [
+                        -7.910874,
+                        53.096155
+                  ]
+            },
+            {
+                  "name": "Saint Brendans Church",
+                  "text": "Saint Brendans Church is a place of worship located in Birr.",
+                  "category": "religious",
+                  "coords": [
+                        -7.910125,
+                        53.098154
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Birr", hu: "Birr", ro: "Birr", en: "Birr" },
@@ -363,7 +1119,448 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-carrickfergus-cities-v2.webp",
   },
   {
-    id: "ireland-cashel-cities-v2",
+    id: "ireland-cashel-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dominic's Abbey",
+                  "text": "St. Dominic's Abbey ist eine Klosterruine in der historischen Stadt Cashel.",
+                  "category": "religious",
+                  "coords": [
+                        -7.887713,
+                        52.517987
+                  ]
+            },
+            {
+                  "name": "Hore Abbey",
+                  "text": "Hore Abbey ist ein ehemaliges Zisterzienserkloster in der Nähe des Rock of Cashel.",
+                  "category": "religious",
+                  "coords": [
+                        -7.898049,
+                        52.518537
+                  ]
+            },
+            {
+                  "name": "Killeen Grave Yard",
+                  "text": "Der Killeen Grave Yard ist eine archäologische Stätte in Cashel.",
+                  "category": "historical",
+                  "coords": [
+                        -7.936259,
+                        52.534672
+                  ]
+            },
+            {
+                  "name": "Doon Fort",
+                  "text": "Doon Fort ist eine befestigte archäologische Stätte in der Nähe von Cashel.",
+                  "category": "historical",
+                  "coords": [
+                        -7.920113,
+                        52.509565
+                  ]
+            },
+            {
+                  "name": "Shanballyduff Castle",
+                  "text": "Shanballyduff Castle ist eine historische Burgruine in der Region Cashel.",
+                  "category": "castle",
+                  "coords": [
+                        -7.919858,
+                        52.487002
+                  ]
+            },
+            {
+                  "name": "Gortmakellis Castle",
+                  "text": "Gortmakellis Castle ist eine ehemalige Befestigungsanlage bei Cashel.",
+                  "category": "castle",
+                  "coords": [
+                        -7.862855,
+                        52.544008
+                  ]
+            },
+            {
+                  "name": "Rathnadrinna",
+                  "text": "Rathnadrinna ist ein bedeutender archäologischer Fundort bei Cashel.",
+                  "category": "historical",
+                  "coords": [
+                        -7.875062,
+                        52.491894
+                  ]
+            },
+            {
+                  "name": "Ballyknock Hill",
+                  "text": "Ballyknock Hill ist ein markanter Berg in der Nähe von Cashel.",
+                  "category": "natural",
+                  "coords": [
+                        -7.869161,
+                        52.533105
+                  ]
+            },
+            {
+                  "name": "The Cathedral",
+                  "text": "Die Kathedrale in Cashel ist eine historische Ruinenstätte von großer Bedeutung.",
+                  "category": "historical",
+                  "coords": [
+                        -7.890478,
+                        52.520084
+                  ]
+            },
+            {
+                  "name": "Brú Ború",
+                  "text": "Das Brú Ború in Cashel ist ein Zentrum für traditionelle Künste.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.888405,
+                        52.5212
+                  ]
+            },
+            {
+                  "name": "Ballynahinh Castle",
+                  "text": "Ballynahinh Castle in Cashel ist eine sehenswerte Ruinenstätte.",
+                  "category": "historical",
+                  "coords": [
+                        -7.948128,
+                        52.518988
+                  ]
+            },
+            {
+                  "name": "Saint John's Cathedral",
+                  "text": "Die Saint John's Cathedral ist ein historisches Gotteshaus in Cashel.",
+                  "category": "religious",
+                  "coords": [
+                        -7.885532,
+                        52.515461
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dominic's Abbey",
+                  "text": "A St. Dominic's Abbey egy kolostorrom Cashel történelmi városában.",
+                  "category": "religious",
+                  "coords": [
+                        -7.887713,
+                        52.517987
+                  ]
+            },
+            {
+                  "name": "Hore Abbey",
+                  "text": "A Hore Abbey egykori ciszterci kolostor a Rock of Cashel közelében.",
+                  "category": "religious",
+                  "coords": [
+                        -7.898049,
+                        52.518537
+                  ]
+            },
+            {
+                  "name": "Killeen Grave Yard",
+                  "text": "A Killeen Grave Yard egy régészeti lelőhely Cashelben.",
+                  "category": "historical",
+                  "coords": [
+                        -7.936259,
+                        52.534672
+                  ]
+            },
+            {
+                  "name": "Doon Fort",
+                  "text": "A Doon Fort egy erődített régészeti lelőhely Cashel közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -7.920113,
+                        52.509565
+                  ]
+            },
+            {
+                  "name": "Shanballyduff Castle",
+                  "text": "A Shanballyduff Castle egy történelmi várrom a Cashel régióban.",
+                  "category": "castle",
+                  "coords": [
+                        -7.919858,
+                        52.487002
+                  ]
+            },
+            {
+                  "name": "Gortmakellis Castle",
+                  "text": "A Gortmakellis Castle egykori erődítmény Cashel közelében.",
+                  "category": "castle",
+                  "coords": [
+                        -7.862855,
+                        52.544008
+                  ]
+            },
+            {
+                  "name": "Rathnadrinna",
+                  "text": "A Rathnadrinna egy jelentős régészeti lelőhely Cashel mellett.",
+                  "category": "historical",
+                  "coords": [
+                        -7.875062,
+                        52.491894
+                  ]
+            },
+            {
+                  "name": "Ballyknock Hill",
+                  "text": "A Ballyknock Hill egy jellegzetes hegy Cashel közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -7.869161,
+                        52.533105
+                  ]
+            },
+            {
+                  "name": "The Cathedral",
+                  "text": "A casheli katedrális romjai történelmi jelentőségű látnivalót kínálnak.",
+                  "category": "historical",
+                  "coords": [
+                        -7.890478,
+                        52.520084
+                  ]
+            },
+            {
+                  "name": "Brú Ború",
+                  "text": "A casheli Brú Ború a hagyományos művészetek központja.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.888405,
+                        52.5212
+                  ]
+            },
+            {
+                  "name": "Ballynahinh Castle",
+                  "text": "Ballynahinh Castle romjai látogathatók Cashelben.",
+                  "category": "historical",
+                  "coords": [
+                        -7.948128,
+                        52.518988
+                  ]
+            },
+            {
+                  "name": "Saint John's Cathedral",
+                  "text": "A Saint John's Cathedral egy történelmi templom Cashelben.",
+                  "category": "religious",
+                  "coords": [
+                        -7.885532,
+                        52.515461
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dominic's Abbey",
+                  "text": "St. Dominic's Abbey este o ruină de mănăstire în orașul istoric Cashel.",
+                  "category": "religious",
+                  "coords": [
+                        -7.887713,
+                        52.517987
+                  ]
+            },
+            {
+                  "name": "Hore Abbey",
+                  "text": "Hore Abbey este o fostă mănăstire cisterciană în apropierea Rock of Cashel.",
+                  "category": "religious",
+                  "coords": [
+                        -7.898049,
+                        52.518537
+                  ]
+            },
+            {
+                  "name": "Killeen Grave Yard",
+                  "text": "Killeen Grave Yard este un sit arheologic din Cashel.",
+                  "category": "historical",
+                  "coords": [
+                        -7.936259,
+                        52.534672
+                  ]
+            },
+            {
+                  "name": "Doon Fort",
+                  "text": "Doon Fort este un sit arheologic fortificat în apropiere de Cashel.",
+                  "category": "historical",
+                  "coords": [
+                        -7.920113,
+                        52.509565
+                  ]
+            },
+            {
+                  "name": "Shanballyduff Castle",
+                  "text": "Shanballyduff Castle este o ruină de castel istorică în regiunea Cashel.",
+                  "category": "castle",
+                  "coords": [
+                        -7.919858,
+                        52.487002
+                  ]
+            },
+            {
+                  "name": "Gortmakellis Castle",
+                  "text": "Gortmakellis Castle este o fostă fortificație lângă Cashel.",
+                  "category": "castle",
+                  "coords": [
+                        -7.862855,
+                        52.544008
+                  ]
+            },
+            {
+                  "name": "Rathnadrinna",
+                  "text": "Rathnadrinna este un sit arheologic semnificativ lângă Cashel.",
+                  "category": "historical",
+                  "coords": [
+                        -7.875062,
+                        52.491894
+                  ]
+            },
+            {
+                  "name": "Ballyknock Hill",
+                  "text": "Ballyknock Hill este un munte distinctiv în apropiere de Cashel.",
+                  "category": "natural",
+                  "coords": [
+                        -7.869161,
+                        52.533105
+                  ]
+            },
+            {
+                  "name": "The Cathedral",
+                  "text": "Ruinele catedralei din Cashel oferă un punct de atracție de importanță istorică.",
+                  "category": "historical",
+                  "coords": [
+                        -7.890478,
+                        52.520084
+                  ]
+            },
+            {
+                  "name": "Brú Ború",
+                  "text": "Brú Ború din Cashel este un centru dedicat artelor tradiționale.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.888405,
+                        52.5212
+                  ]
+            },
+            {
+                  "name": "Ballynahinh Castle",
+                  "text": "Ruinele Castelului Ballynahinh din Cashel sunt un obiectiv turistic.",
+                  "category": "historical",
+                  "coords": [
+                        -7.948128,
+                        52.518988
+                  ]
+            },
+            {
+                  "name": "Saint John's Cathedral",
+                  "text": "Catedrala Saint John este un lăcaș de cult istoric în Cashel.",
+                  "category": "religious",
+                  "coords": [
+                        -7.885532,
+                        52.515461
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dominic's Abbey",
+                  "text": "St. Dominic's Abbey is a monastery ruin in the historic town of Cashel.",
+                  "category": "religious",
+                  "coords": [
+                        -7.887713,
+                        52.517987
+                  ]
+            },
+            {
+                  "name": "Hore Abbey",
+                  "text": "Hore Abbey is a former Cistercian monastery near the Rock of Cashel.",
+                  "category": "religious",
+                  "coords": [
+                        -7.898049,
+                        52.518537
+                  ]
+            },
+            {
+                  "name": "Killeen Grave Yard",
+                  "text": "Killeen Grave Yard is an archaeological site in Cashel.",
+                  "category": "historical",
+                  "coords": [
+                        -7.936259,
+                        52.534672
+                  ]
+            },
+            {
+                  "name": "Doon Fort",
+                  "text": "Doon Fort is a fortified archaeological site near Cashel.",
+                  "category": "historical",
+                  "coords": [
+                        -7.920113,
+                        52.509565
+                  ]
+            },
+            {
+                  "name": "Shanballyduff Castle",
+                  "text": "Shanballyduff Castle is a historic castle ruin in the Cashel region.",
+                  "category": "castle",
+                  "coords": [
+                        -7.919858,
+                        52.487002
+                  ]
+            },
+            {
+                  "name": "Gortmakellis Castle",
+                  "text": "Gortmakellis Castle is a former fortification near Cashel.",
+                  "category": "castle",
+                  "coords": [
+                        -7.862855,
+                        52.544008
+                  ]
+            },
+            {
+                  "name": "Rathnadrinna",
+                  "text": "Rathnadrinna is a significant archaeological site near Cashel.",
+                  "category": "historical",
+                  "coords": [
+                        -7.875062,
+                        52.491894
+                  ]
+            },
+            {
+                  "name": "Ballyknock Hill",
+                  "text": "Ballyknock Hill is a prominent peak near Cashel.",
+                  "category": "natural",
+                  "coords": [
+                        -7.869161,
+                        52.533105
+                  ]
+            },
+            {
+                  "name": "The Cathedral",
+                  "text": "The Cathedral in Cashel is a historic ruin of great significance.",
+                  "category": "historical",
+                  "coords": [
+                        -7.890478,
+                        52.520084
+                  ]
+            },
+            {
+                  "name": "Brú Ború",
+                  "text": "Brú Ború in Cashel is a centre for traditional arts.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.888405,
+                        52.5212
+                  ]
+            },
+            {
+                  "name": "Ballynahinh Castle",
+                  "text": "Ballynahinh Castle in Cashel is a noteworthy ruin.",
+                  "category": "historical",
+                  "coords": [
+                        -7.948128,
+                        52.518988
+                  ]
+            },
+            {
+                  "name": "Saint John's Cathedral",
+                  "text": "Saint John's Cathedral is a historic place of worship in Cashel.",
+                  "category": "religious",
+                  "coords": [
+                        -7.885532,
+                        52.515461
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Cashel", hu: "Cashel", ro: "Cashel", en: "Cashel" },
@@ -453,7 +1650,124 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-castlebar-cities-v2.webp",
   },
   {
-    id: "ireland-cobh-cities-v2",
+    id: "ireland-cobh-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Glenmore Strand",
+                  "text": "Ein Strand nahe Cobh.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.237087,
+                        51.858025
+                  ]
+            },
+            {
+                  "name": "Ballybrassil Beach",
+                  "text": "Ein Strand nahe Cobh.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.229714,
+                        51.858343
+                  ]
+            },
+            {
+                  "name": "Cuskinny",
+                  "text": "Ein Küstenabschnitt bei Cobh.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.264234,
+                        51.858777
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Glenmore Strand",
+                  "text": "Strand Cobh közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.237087,
+                        51.858025
+                  ]
+            },
+            {
+                  "name": "Ballybrassil Beach",
+                  "text": "Strand Cobh közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.229714,
+                        51.858343
+                  ]
+            },
+            {
+                  "name": "Cuskinny",
+                  "text": "Partszakasz Cobh mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.264234,
+                        51.858777
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Glenmore Strand",
+                  "text": "O plajă lângă Cobh.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.237087,
+                        51.858025
+                  ]
+            },
+            {
+                  "name": "Ballybrassil Beach",
+                  "text": "O plajă lângă Cobh.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.229714,
+                        51.858343
+                  ]
+            },
+            {
+                  "name": "Cuskinny",
+                  "text": "O zonă de coastă lângă Cobh.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.264234,
+                        51.858777
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Glenmore Strand",
+                  "text": "A beach near Cobh.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.237087,
+                        51.858025
+                  ]
+            },
+            {
+                  "name": "Ballybrassil Beach",
+                  "text": "A beach near Cobh.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.229714,
+                        51.858343
+                  ]
+            },
+            {
+                  "name": "Cuskinny",
+                  "text": "A coastal area near Cobh.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.264234,
+                        51.858777
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IE",
     name: { de: "Cobh", hu: "Cobh", ro: "Cobh", en: "Cobh" },
@@ -588,7 +1902,160 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-cratloe-cities-v2.webp",
   },
   {
-    id: "ireland-dalkey-cities-v2",
+    id: "ireland-dalkey-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Killiney Beach",
+                  "text": "Ein Strand bei Dalkey.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.110447,
+                        53.25801
+                  ]
+            },
+            {
+                  "name": "Sandycove Beach",
+                  "text": "Sandycove Beach ist bekannt für seine kleine Bucht bei Dalkey.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.114499,
+                        53.288565
+                  ]
+            },
+            {
+                  "name": "White Rock, Killiney Beach",
+                  "text": "White Rock, Killiney Beach liegt nahe Dalkey.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.107115,
+                        53.265079
+                  ]
+            },
+            {
+                  "name": "Hawk Cliff/Whiterock Beach",
+                  "text": "Hawk Cliff/Whiterock Beach ist ein Strand bei Dalkey.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.096018,
+                        53.270054
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Killiney Beach",
+                  "text": "Strand Dalkey közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.110447,
+                        53.25801
+                  ]
+            },
+            {
+                  "name": "Sandycove Beach",
+                  "text": "Sandycove Beach egy kis öböl Dalkey mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.114499,
+                        53.288565
+                  ]
+            },
+            {
+                  "name": "White Rock, Killiney Beach",
+                  "text": "A White Rock, Killiney Beach Dalkey közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.107115,
+                        53.265079
+                  ]
+            },
+            {
+                  "name": "Hawk Cliff/Whiterock Beach",
+                  "text": "A Hawk Cliff/Whiterock Beach egy strand Dalkey közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.096018,
+                        53.270054
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Killiney Beach",
+                  "text": "O plajă lângă Dalkey.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.110447,
+                        53.25801
+                  ]
+            },
+            {
+                  "name": "Sandycove Beach",
+                  "text": "Sandycove Beach este cunoscută pentru golful său mic de lângă Dalkey.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.114499,
+                        53.288565
+                  ]
+            },
+            {
+                  "name": "White Rock, Killiney Beach",
+                  "text": "White Rock, Killiney Beach se află lângă Dalkey.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.107115,
+                        53.265079
+                  ]
+            },
+            {
+                  "name": "Hawk Cliff/Whiterock Beach",
+                  "text": "Hawk Cliff/Whiterock Beach este o plajă lângă Dalkey.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.096018,
+                        53.270054
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Killiney Beach",
+                  "text": "A beach near Dalkey.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.110447,
+                        53.25801
+                  ]
+            },
+            {
+                  "name": "Sandycove Beach",
+                  "text": "Sandycove Beach is known for its small cove near Dalkey.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.114499,
+                        53.288565
+                  ]
+            },
+            {
+                  "name": "White Rock, Killiney Beach",
+                  "text": "White Rock, Killiney Beach is near Dalkey.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.107115,
+                        53.265079
+                  ]
+            },
+            {
+                  "name": "Hawk Cliff/Whiterock Beach",
+                  "text": "Hawk Cliff/Whiterock Beach is a beach near Dalkey.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.096018,
+                        53.270054
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Dalkey", hu: "Dalkey", ro: "Dalkey", en: "Dalkey" },
@@ -903,7 +2370,664 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-gort-cities-v2.webp",
   },
   {
-    id: "ireland-greystones-cities-v2",
+    id: "ireland-greystones-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kindlestown Castle",
+                  "text": "Ruinen von Kindlestown Castle in Greystones.",
+                  "category": "castle",
+                  "coords": [
+                        -6.089034,
+                        53.141192
+                  ]
+            },
+            {
+                  "name": "Whale Theatre",
+                  "text": "Whale Theatre in Greystones.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.064373,
+                        53.144391
+                  ]
+            },
+            {
+                  "name": "The Cove",
+                  "text": "Strand The Cove in Greystones.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.062628,
+                        53.14879
+                  ]
+            },
+            {
+                  "name": "North Beach",
+                  "text": "Nordstrand in Greystones.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.074435,
+                        53.163788
+                  ]
+            },
+            {
+                  "name": "Greystones South Beach",
+                  "text": "Südstrand von Greystones.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.058617,
+                        53.142878
+                  ]
+            },
+            {
+                  "name": "Rock of Kilcoole",
+                  "text": "Aussichtspunkt Rock of Kilcoole bei Greystones.",
+                  "category": "natural",
+                  "coords": [
+                        -6.063114,
+                        53.108826
+                  ]
+            },
+            {
+                  "name": "Glenroe Farm",
+                  "text": "Besucherattraktion Glenroe Farm in Greystones.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.054352,
+                        53.114153
+                  ]
+            },
+            {
+                  "name": "The Octagon",
+                  "text": "Ruinen des Octagon in Greystones.",
+                  "category": "historical",
+                  "coords": [
+                        -6.115292,
+                        53.138955
+                  ]
+            },
+            {
+                  "name": "JP Donleavy cottage ruins",
+                  "text": "Ruinen des JP Donleavy-Ferienhauses in Greystones.",
+                  "category": "historical",
+                  "coords": [
+                        -6.05191,
+                        53.109195
+                  ]
+            },
+            {
+                  "name": "Ballygannon Demesne",
+                  "text": "Ruinen des Ballygannon-Herrenhauses in Greystones.",
+                  "category": "historical",
+                  "coords": [
+                        -6.046857,
+                        53.118398
+                  ]
+            },
+            {
+                  "name": "Bray Greystones View",
+                  "text": "Aussichtspunkt mit Blick auf Bray und Greystones.",
+                  "category": "natural",
+                  "coords": [
+                        -6.074433,
+                        53.176152
+                  ]
+            },
+            {
+                  "name": "Killincarrig Castle",
+                  "text": "Herrenhaus Killincarrig Castle in Greystones.",
+                  "category": "historical",
+                  "coords": [
+                        -6.07759,
+                        53.136154
+                  ]
+            },
+            {
+                  "name": "Saint Patrick's Church",
+                  "text": "Diese Kirche ist ein Gotteshaus in Greystones.",
+                  "category": "religious",
+                  "coords": [
+                        -6.070496,
+                        53.147807
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Rosary",
+                  "text": "Ein Gotteshaus in der Stadt Greystones.",
+                  "category": "religious",
+                  "coords": [
+                        -6.062742,
+                        53.146575
+                  ]
+            },
+            {
+                  "name": "Christ Church",
+                  "text": "Christ Church ist ein Gotteshaus in Greystones.",
+                  "category": "religious",
+                  "coords": [
+                        -6.088651,
+                        53.132781
+                  ]
+            },
+            {
+                  "name": "Saint Patrick's",
+                  "text": "Saint Patrick's ist ein Gotteshaus in Greystones.",
+                  "category": "religious",
+                  "coords": [
+                        -6.087107,
+                        53.112341
+                  ]
+            },
+            {
+                  "name": "Greystones Presbyterian Church",
+                  "text": "Diese presbyterianische Kirche befindet sich in Greystones.",
+                  "category": "religious",
+                  "coords": [
+                        -6.064126,
+                        53.147192
+                  ]
+            },
+            {
+                  "name": "St. Mary's Church",
+                  "text": "St. Mary's Church ist ein historisches Kirchengebäude in Greystones.",
+                  "category": "religious",
+                  "coords": [
+                        -6.110643,
+                        53.129714
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kindlestown Castle",
+                  "text": "A Kindlestown kastély romjai Greystonesban.",
+                  "category": "castle",
+                  "coords": [
+                        -6.089034,
+                        53.141192
+                  ]
+            },
+            {
+                  "name": "Whale Theatre",
+                  "text": "A Whale Színház Greystonesban.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.064373,
+                        53.144391
+                  ]
+            },
+            {
+                  "name": "The Cove",
+                  "text": "A The Cove strand Greystonesban.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.062628,
+                        53.14879
+                  ]
+            },
+            {
+                  "name": "North Beach",
+                  "text": "Az északi strand Greystonesban.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.074435,
+                        53.163788
+                  ]
+            },
+            {
+                  "name": "Greystones South Beach",
+                  "text": "Greystones déli strandja.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.058617,
+                        53.142878
+                  ]
+            },
+            {
+                  "name": "Rock of Kilcoole",
+                  "text": "A Rock of Kilcoole kilátópont Greystones közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -6.063114,
+                        53.108826
+                  ]
+            },
+            {
+                  "name": "Glenroe Farm",
+                  "text": "A Glenroe Farm látogatói központ Greystonesban.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.054352,
+                        53.114153
+                  ]
+            },
+            {
+                  "name": "The Octagon",
+                  "text": "Az Octagon romjai Greystonesban.",
+                  "category": "historical",
+                  "coords": [
+                        -6.115292,
+                        53.138955
+                  ]
+            },
+            {
+                  "name": "JP Donleavy cottage ruins",
+                  "text": "JP Donleavy egykori nyaralójának romjai Greystonesban.",
+                  "category": "historical",
+                  "coords": [
+                        -6.05191,
+                        53.109195
+                  ]
+            },
+            {
+                  "name": "Ballygannon Demesne",
+                  "text": "A Ballygannon birtok romjai Greystonesban.",
+                  "category": "historical",
+                  "coords": [
+                        -6.046857,
+                        53.118398
+                  ]
+            },
+            {
+                  "name": "Bray Greystones View",
+                  "text": "Kilátópont Bray és Greystones látképével.",
+                  "category": "natural",
+                  "coords": [
+                        -6.074433,
+                        53.176152
+                  ]
+            },
+            {
+                  "name": "Killincarrig Castle",
+                  "text": "Killincarrig kastélyépület Greystonesban.",
+                  "category": "historical",
+                  "coords": [
+                        -6.07759,
+                        53.136154
+                  ]
+            },
+            {
+                  "name": "Saint Patrick's Church",
+                  "text": "Ez a templom egy istentiszteleti hely Greystonesban.",
+                  "category": "religious",
+                  "coords": [
+                        -6.070496,
+                        53.147807
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Rosary",
+                  "text": "Istentiszteleti hely Greystones városában.",
+                  "category": "religious",
+                  "coords": [
+                        -6.062742,
+                        53.146575
+                  ]
+            },
+            {
+                  "name": "Christ Church",
+                  "text": "A Christ Church egy istentiszteleti hely Greystonesban.",
+                  "category": "religious",
+                  "coords": [
+                        -6.088651,
+                        53.132781
+                  ]
+            },
+            {
+                  "name": "Saint Patrick's",
+                  "text": "A Saint Patrick's egy istentiszteleti hely Greystonesban.",
+                  "category": "religious",
+                  "coords": [
+                        -6.087107,
+                        53.112341
+                  ]
+            },
+            {
+                  "name": "Greystones Presbyterian Church",
+                  "text": "Ez a presbiteriánus templom Greystonesban található.",
+                  "category": "religious",
+                  "coords": [
+                        -6.064126,
+                        53.147192
+                  ]
+            },
+            {
+                  "name": "St. Mary's Church",
+                  "text": "A St. Mary's Church egy történelmi templomépület Greystonesban.",
+                  "category": "religious",
+                  "coords": [
+                        -6.110643,
+                        53.129714
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kindlestown Castle",
+                  "text": "Ruinele castelului Kindlestown din Greystones.",
+                  "category": "castle",
+                  "coords": [
+                        -6.089034,
+                        53.141192
+                  ]
+            },
+            {
+                  "name": "Whale Theatre",
+                  "text": "Teatrul Whale din Greystones.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.064373,
+                        53.144391
+                  ]
+            },
+            {
+                  "name": "The Cove",
+                  "text": "Plaja The Cove din Greystones.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.062628,
+                        53.14879
+                  ]
+            },
+            {
+                  "name": "North Beach",
+                  "text": "Plaja de Nord din Greystones.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.074435,
+                        53.163788
+                  ]
+            },
+            {
+                  "name": "Greystones South Beach",
+                  "text": "Plaja de Sud din Greystones.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.058617,
+                        53.142878
+                  ]
+            },
+            {
+                  "name": "Rock of Kilcoole",
+                  "text": "Punct de observație Rock of Kilcoole lângă Greystones.",
+                  "category": "natural",
+                  "coords": [
+                        -6.063114,
+                        53.108826
+                  ]
+            },
+            {
+                  "name": "Glenroe Farm",
+                  "text": "Atracție turistică Glenroe Farm din Greystones.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.054352,
+                        53.114153
+                  ]
+            },
+            {
+                  "name": "The Octagon",
+                  "text": "Ruinele Octagon din Greystones.",
+                  "category": "historical",
+                  "coords": [
+                        -6.115292,
+                        53.138955
+                  ]
+            },
+            {
+                  "name": "JP Donleavy cottage ruins",
+                  "text": "Ruinele casei de vacanță JP Donleavy din Greystones.",
+                  "category": "historical",
+                  "coords": [
+                        -6.05191,
+                        53.109195
+                  ]
+            },
+            {
+                  "name": "Ballygannon Demesne",
+                  "text": "Ruinele conacului Ballygannon din Greystones.",
+                  "category": "historical",
+                  "coords": [
+                        -6.046857,
+                        53.118398
+                  ]
+            },
+            {
+                  "name": "Bray Greystones View",
+                  "text": "Punct de observație cu vedere spre Bray și Greystones.",
+                  "category": "natural",
+                  "coords": [
+                        -6.074433,
+                        53.176152
+                  ]
+            },
+            {
+                  "name": "Killincarrig Castle",
+                  "text": "Conacul Killincarrig din Greystones.",
+                  "category": "historical",
+                  "coords": [
+                        -6.07759,
+                        53.136154
+                  ]
+            },
+            {
+                  "name": "Saint Patrick's Church",
+                  "text": "Această biserică este un lăcaș de cult în Greystones.",
+                  "category": "religious",
+                  "coords": [
+                        -6.070496,
+                        53.147807
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Rosary",
+                  "text": "Un lăcaș de cult în orașul Greystones.",
+                  "category": "religious",
+                  "coords": [
+                        -6.062742,
+                        53.146575
+                  ]
+            },
+            {
+                  "name": "Christ Church",
+                  "text": "Christ Church este un lăcaș de cult în Greystones.",
+                  "category": "religious",
+                  "coords": [
+                        -6.088651,
+                        53.132781
+                  ]
+            },
+            {
+                  "name": "Saint Patrick's",
+                  "text": "Saint Patrick's este un lăcaș de cult în Greystones.",
+                  "category": "religious",
+                  "coords": [
+                        -6.087107,
+                        53.112341
+                  ]
+            },
+            {
+                  "name": "Greystones Presbyterian Church",
+                  "text": "Această biserică presbiteriană se află în Greystones.",
+                  "category": "religious",
+                  "coords": [
+                        -6.064126,
+                        53.147192
+                  ]
+            },
+            {
+                  "name": "St. Mary's Church",
+                  "text": "St. Mary's Church este o clădire istorică a bisericii în Greystones.",
+                  "category": "religious",
+                  "coords": [
+                        -6.110643,
+                        53.129714
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kindlestown Castle",
+                  "text": "Ruins of Kindlestown Castle in Greystones.",
+                  "category": "castle",
+                  "coords": [
+                        -6.089034,
+                        53.141192
+                  ]
+            },
+            {
+                  "name": "Whale Theatre",
+                  "text": "Whale Theatre in Greystones.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.064373,
+                        53.144391
+                  ]
+            },
+            {
+                  "name": "The Cove",
+                  "text": "The Cove beach in Greystones.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.062628,
+                        53.14879
+                  ]
+            },
+            {
+                  "name": "North Beach",
+                  "text": "North Beach in Greystones.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.074435,
+                        53.163788
+                  ]
+            },
+            {
+                  "name": "Greystones South Beach",
+                  "text": "Greystones South Beach in Greystones.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.058617,
+                        53.142878
+                  ]
+            },
+            {
+                  "name": "Rock of Kilcoole",
+                  "text": "Rock of Kilcoole viewpoint near Greystones.",
+                  "category": "natural",
+                  "coords": [
+                        -6.063114,
+                        53.108826
+                  ]
+            },
+            {
+                  "name": "Glenroe Farm",
+                  "text": "Visitor attraction Glenroe Farm in Greystones.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.054352,
+                        53.114153
+                  ]
+            },
+            {
+                  "name": "The Octagon",
+                  "text": "Ruins of the Octagon in Greystones.",
+                  "category": "historical",
+                  "coords": [
+                        -6.115292,
+                        53.138955
+                  ]
+            },
+            {
+                  "name": "JP Donleavy cottage ruins",
+                  "text": "Ruins of the JP Donleavy cottage in Greystones.",
+                  "category": "historical",
+                  "coords": [
+                        -6.05191,
+                        53.109195
+                  ]
+            },
+            {
+                  "name": "Ballygannon Demesne",
+                  "text": "Ruins of the Ballygannon estate in Greystones.",
+                  "category": "historical",
+                  "coords": [
+                        -6.046857,
+                        53.118398
+                  ]
+            },
+            {
+                  "name": "Bray Greystones View",
+                  "text": "Viewpoint overlooking Bray and Greystones.",
+                  "category": "natural",
+                  "coords": [
+                        -6.074433,
+                        53.176152
+                  ]
+            },
+            {
+                  "name": "Killincarrig Castle",
+                  "text": "Killincarrig manor house in Greystones.",
+                  "category": "historical",
+                  "coords": [
+                        -6.07759,
+                        53.136154
+                  ]
+            },
+            {
+                  "name": "Saint Patrick's Church",
+                  "text": "This church is a place of worship in Greystones.",
+                  "category": "religious",
+                  "coords": [
+                        -6.070496,
+                        53.147807
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Rosary",
+                  "text": "A place of worship in the town of Greystones.",
+                  "category": "religious",
+                  "coords": [
+                        -6.062742,
+                        53.146575
+                  ]
+            },
+            {
+                  "name": "Christ Church",
+                  "text": "Christ Church is a place of worship in Greystones.",
+                  "category": "religious",
+                  "coords": [
+                        -6.088651,
+                        53.132781
+                  ]
+            },
+            {
+                  "name": "Saint Patrick's",
+                  "text": "Saint Patrick's is a place of worship in Greystones.",
+                  "category": "religious",
+                  "coords": [
+                        -6.087107,
+                        53.112341
+                  ]
+            },
+            {
+                  "name": "Greystones Presbyterian Church",
+                  "text": "This Presbyterian church is located in Greystones.",
+                  "category": "religious",
+                  "coords": [
+                        -6.064126,
+                        53.147192
+                  ]
+            },
+            {
+                  "name": "St. Mary's Church",
+                  "text": "St. Mary's Church is a historic church building in Greystones.",
+                  "category": "religious",
+                  "coords": [
+                        -6.110643,
+                        53.129714
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Greystones", hu: "Greystones", ro: "Greystones", en: "Greystones" },
@@ -948,7 +3072,1060 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-greystones-cities-v2.webp",
   },
   {
-    id: "ireland-howth-cities-v2",
+    id: "ireland-howth-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Howth Lighthouse",
+                  "text": "Das Howth Lighthouse ist ein Leuchtturm in der Stadt Howth.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.066842,
+                        53.394091
+                  ]
+            },
+            {
+                  "name": "Burrow Beach",
+                  "text": "Der Burrow Beach ist ein Sandstrand in Howth.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.101831,
+                        53.394347
+                  ]
+            },
+            {
+                  "name": "National Transport Museum",
+                  "text": "Das National Transport Museum of Ireland ist ein Verkehrsmuseum in Howth.",
+                  "category": "museum",
+                  "coords": [
+                        -6.081142,
+                        53.386815
+                  ]
+            },
+            {
+                  "name": "Howth Castle",
+                  "text": "Das Howth Castle ist ein historisches Schloss in der Stadt Howth.",
+                  "category": "castle",
+                  "coords": [
+                        -6.079282,
+                        53.386254
+                  ]
+            },
+            {
+                  "name": "Baily Lighthouse",
+                  "text": "Das Baily Lighthouse ist ein Leuchtturm an der Küste von Howth.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.052483,
+                        53.361626
+                  ]
+            },
+            {
+                  "name": "Aideen's Dolmen",
+                  "text": "Aideen's Dolmen ist eine archäologische Stätte in Howth.",
+                  "category": "historical",
+                  "coords": [
+                        -6.082231,
+                        53.379554
+                  ]
+            },
+            {
+                  "name": "Shielmartin Hill Cairn",
+                  "text": "Shielmartin Hill Cairn ist eine archäologische Stätte in Howth.",
+                  "category": "historical",
+                  "coords": [
+                        -6.08341,
+                        53.373207
+                  ]
+            },
+            {
+                  "name": "Picnic Rock",
+                  "text": "Picnic Rock ist eine archäologische Stätte in der Stadt Howth.",
+                  "category": "historical",
+                  "coords": [
+                        -6.049354,
+                        53.378667
+                  ]
+            },
+            {
+                  "name": "Dollymount Strand",
+                  "text": "Dollymount Strand ist ein lokaler Strand in Howth.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.139379,
+                        53.366999
+                  ]
+            },
+            {
+                  "name": "Claremont Beach",
+                  "text": "Claremont Beach ist ein Strand in der Gegend von Howth.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.074974,
+                        53.389938
+                  ]
+            },
+            {
+                  "name": "Broad Strand",
+                  "text": "Broad Strand ist ein Strand in Howth.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.069547,
+                        53.364008
+                  ]
+            },
+            {
+                  "name": "Portmarnock Beach",
+                  "text": "Portmarnock Beach ist ein Strandbereich in Howth.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.117569,
+                        53.415877
+                  ]
+            },
+            {
+                  "name": "Red Rock Beach",
+                  "text": "Red Rock Beach ist ein lokaler Strand in Howth.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.088252,
+                        53.365393
+                  ]
+            },
+            {
+                  "name": "Bull Island Wildlife Only Area",
+                  "text": "Bull Island Wildlife Only Area ist ein Naturschutzgebiet in Howth.",
+                  "category": "natural",
+                  "coords": [
+                        -6.132637,
+                        53.377512
+                  ]
+            },
+            {
+                  "name": "Hidden Beach",
+                  "text": "Hidden Beach ist ein Strand in Howth.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.065807,
+                        53.364496
+                  ]
+            },
+            {
+                  "name": "Ben of Howth",
+                  "text": "Ben of Howth ist ein bekannter Gipfel in Howth, der für seine weite Aussicht über die Bucht von Dublin bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -6.0694,
+                        53.373389
+                  ]
+            },
+            {
+                  "name": "Cliffs of Howth",
+                  "text": "Die Klippen von Howth bieten malerische Küstenblicke über das Meer.",
+                  "category": "natural",
+                  "coords": [
+                        -6.05138,
+                        53.385688
+                  ]
+            },
+            {
+                  "name": "Therese-Emile Yuon",
+                  "text": "Die Therese-Emile Yuon sind historische Ruinen in Howth.",
+                  "category": "historical",
+                  "coords": [
+                        -6.079154,
+                        53.394129
+                  ]
+            },
+            {
+                  "name": "Fisher's Cross",
+                  "text": "Fisher's Cross ist ein lokales Denkmal in Howth.",
+                  "category": "historical",
+                  "coords": [
+                        -6.069087,
+                        53.388549
+                  ]
+            },
+            {
+                  "name": "The Ready Boat Pillar",
+                  "text": "The Ready Boat Pillar ist ein Denkmal in Howth.",
+                  "category": "historical",
+                  "coords": [
+                        -6.072902,
+                        53.388882
+                  ]
+            },
+            {
+                  "name": "Red Rock",
+                  "text": "Red Rock ist ein beliebter Aussichtspunkt mit Blick auf die Landschaft in Howth.",
+                  "category": "natural",
+                  "coords": [
+                        -6.087708,
+                        53.367017
+                  ]
+            },
+            {
+                  "name": "Ye Olde Hurdy-Gurdy (Museum of Vintage Radio)",
+                  "text": "Ye Olde Hurdy-Gurdy ist ein Museum für historische Radiogeräte in Howth.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.06376,
+                        53.387607
+                  ]
+            },
+            {
+                  "name": "Star of the Sea",
+                  "text": "Star of the Sea ist ein Denkmal in der Stadt Howth.",
+                  "category": "historical",
+                  "coords": [
+                        -6.064456,
+                        53.391081
+                  ]
+            },
+            {
+                  "name": "Dolphins",
+                  "text": "Dolphins ist ein Aussichtspunkt in Howth.",
+                  "category": "natural",
+                  "coords": [
+                        -6.047579,
+                        53.374583
+                  ]
+            },
+            {
+                  "name": "Church of the Three Sons of Nessan (Ruins)",
+                  "text": "Die verfallene Church of the Three Sons of Nessan ist eine historische Stätte in Howth.",
+                  "category": "historical",
+                  "coords": [
+                        -6.064438,
+                        53.405151
+                  ]
+            },
+            {
+                  "name": "The Old Courthouse",
+                  "text": "Das Old Courthouse ist eine lokale Sehenswürdigkeit in Howth.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.070533,
+                        53.388261
+                  ]
+            },
+            {
+                  "name": "St Mary's Abbey",
+                  "text": "St Mary's Abbey ist eine historische Kirchenruine in Howth.",
+                  "category": "religious",
+                  "coords": [
+                        -6.065997,
+                        53.387513
+                  ]
+            },
+            {
+                  "name": "Sutton South Martello Tower",
+                  "text": "Der Sutton South Martello Tower ist eine Küstenbefestigung aus dem 19. Jahrhundert in Howth.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.09605,
+                        53.369321
+                  ]
+            },
+            {
+                  "name": "Sutton Methodist Church",
+                  "text": "Die Sutton Methodist Church ist eine lokale Kultstätte in der Stadt Howth.",
+                  "category": "religious",
+                  "coords": [
+                        -6.104692,
+                        53.389771
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Howth Lighthouse",
+                  "text": "A Howth Lighthouse egy világítótorony Howth városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.066842,
+                        53.394091
+                  ]
+            },
+            {
+                  "name": "Burrow Beach",
+                  "text": "A Burrow Beach egy homokos strand Howth városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.101831,
+                        53.394347
+                  ]
+            },
+            {
+                  "name": "National Transport Museum",
+                  "text": "Az Ír Nemzeti Közlekedési Múzeum egy közlekedési múzeum Howth városában.",
+                  "category": "museum",
+                  "coords": [
+                        -6.081142,
+                        53.386815
+                  ]
+            },
+            {
+                  "name": "Howth Castle",
+                  "text": "A Howth Castle egy történelmi kastély Howth városában.",
+                  "category": "castle",
+                  "coords": [
+                        -6.079282,
+                        53.386254
+                  ]
+            },
+            {
+                  "name": "Baily Lighthouse",
+                  "text": "A Baily Lighthouse egy világítótorony Howth partjainál.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.052483,
+                        53.361626
+                  ]
+            },
+            {
+                  "name": "Aideen's Dolmen",
+                  "text": "Az Aideen's Dolmen egy régészeti lelőhely Howthban.",
+                  "category": "historical",
+                  "coords": [
+                        -6.082231,
+                        53.379554
+                  ]
+            },
+            {
+                  "name": "Shielmartin Hill Cairn",
+                  "text": "A Shielmartin Hill Cairn egy régészeti lelőhely Howthban.",
+                  "category": "historical",
+                  "coords": [
+                        -6.08341,
+                        53.373207
+                  ]
+            },
+            {
+                  "name": "Picnic Rock",
+                  "text": "A Picnic Rock egy régészeti lelőhely Howth városában.",
+                  "category": "historical",
+                  "coords": [
+                        -6.049354,
+                        53.378667
+                  ]
+            },
+            {
+                  "name": "Dollymount Strand",
+                  "text": "A Dollymount Strand egy tengerparti szakasz Howthban.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.139379,
+                        53.366999
+                  ]
+            },
+            {
+                  "name": "Claremont Beach",
+                  "text": "A Claremont Beach egy strand Howth térségében.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.074974,
+                        53.389938
+                  ]
+            },
+            {
+                  "name": "Broad Strand",
+                  "text": "A Broad Strand egy part menti szakasz Howthban.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.069547,
+                        53.364008
+                  ]
+            },
+            {
+                  "name": "Portmarnock Beach",
+                  "text": "A Portmarnock Beach egy tengerpart Howthban.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.117569,
+                        53.415877
+                  ]
+            },
+            {
+                  "name": "Red Rock Beach",
+                  "text": "A Red Rock Beach egy helyi strand Howthban.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.088252,
+                        53.365393
+                  ]
+            },
+            {
+                  "name": "Bull Island Wildlife Only Area",
+                  "text": "A Bull Island Wildlife Only Area egy természetvédelmi terület Howthban.",
+                  "category": "natural",
+                  "coords": [
+                        -6.132637,
+                        53.377512
+                  ]
+            },
+            {
+                  "name": "Hidden Beach",
+                  "text": "A Hidden Beach egy strand Howthban.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.065807,
+                        53.364496
+                  ]
+            },
+            {
+                  "name": "Ben of Howth",
+                  "text": "A Ben of Howth egy jelentős csúcs Howthban, amely a Dublin-öbölre nyíló kiterjedt kilátásáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -6.0694,
+                        53.373389
+                  ]
+            },
+            {
+                  "name": "Cliffs of Howth",
+                  "text": "A howthi sziklák festői kilátást nyújtanak a tengerpartra.",
+                  "category": "natural",
+                  "coords": [
+                        -6.05138,
+                        53.385688
+                  ]
+            },
+            {
+                  "name": "Therese-Emile Yuon",
+                  "text": "A Therese-Emile Yuon történelmi romok Howth városában.",
+                  "category": "historical",
+                  "coords": [
+                        -6.079154,
+                        53.394129
+                  ]
+            },
+            {
+                  "name": "Fisher's Cross",
+                  "text": "A Fisher's Cross egy helyi emlékmű Howthban.",
+                  "category": "historical",
+                  "coords": [
+                        -6.069087,
+                        53.388549
+                  ]
+            },
+            {
+                  "name": "The Ready Boat Pillar",
+                  "text": "A The Ready Boat Pillar egy emlékmű Howthban.",
+                  "category": "historical",
+                  "coords": [
+                        -6.072902,
+                        53.388882
+                  ]
+            },
+            {
+                  "name": "Red Rock",
+                  "text": "A Red Rock egy kilátó Howth tájaira.",
+                  "category": "natural",
+                  "coords": [
+                        -6.087708,
+                        53.367017
+                  ]
+            },
+            {
+                  "name": "Ye Olde Hurdy-Gurdy (Museum of Vintage Radio)",
+                  "text": "A Ye Olde Hurdy-Gurdy egy régi rádióberendezéseket bemutató múzeum Howthban.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.06376,
+                        53.387607
+                  ]
+            },
+            {
+                  "name": "Star of the Sea",
+                  "text": "A Star of the Sea egy emlékmű Howth városában.",
+                  "category": "historical",
+                  "coords": [
+                        -6.064456,
+                        53.391081
+                  ]
+            },
+            {
+                  "name": "Dolphins",
+                  "text": "A Dolphins egy kilátó Howthban.",
+                  "category": "natural",
+                  "coords": [
+                        -6.047579,
+                        53.374583
+                  ]
+            },
+            {
+                  "name": "Church of the Three Sons of Nessan (Ruins)",
+                  "text": "A Church of the Three Sons of Nessan romjai történelmi jelentőségűek Howthban.",
+                  "category": "historical",
+                  "coords": [
+                        -6.064438,
+                        53.405151
+                  ]
+            },
+            {
+                  "name": "The Old Courthouse",
+                  "text": "A The Old Courthouse egy helyi látványosság Howthban.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.070533,
+                        53.388261
+                  ]
+            },
+            {
+                  "name": "St Mary's Abbey",
+                  "text": "A St Mary's Abbey egy történelmi romtemplom Howth városában.",
+                  "category": "religious",
+                  "coords": [
+                        -6.065997,
+                        53.387513
+                  ]
+            },
+            {
+                  "name": "Sutton South Martello Tower",
+                  "text": "A Sutton South Martello Tower egy 19. századi partvédelmi erődítmény Howthban.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.09605,
+                        53.369321
+                  ]
+            },
+            {
+                  "name": "Sutton Methodist Church",
+                  "text": "A Sutton Methodist Church egy helyi istentiszteleti hely Howth városában.",
+                  "category": "religious",
+                  "coords": [
+                        -6.104692,
+                        53.389771
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Howth Lighthouse",
+                  "text": "Howth Lighthouse este un far situat în orașul Howth.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.066842,
+                        53.394091
+                  ]
+            },
+            {
+                  "name": "Burrow Beach",
+                  "text": "Burrow Beach este o plajă de nisip situată în Howth.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.101831,
+                        53.394347
+                  ]
+            },
+            {
+                  "name": "National Transport Museum",
+                  "text": "Muzeul Național de Transport al Irlandei este un muzeu de transport situat în Howth.",
+                  "category": "museum",
+                  "coords": [
+                        -6.081142,
+                        53.386815
+                  ]
+            },
+            {
+                  "name": "Howth Castle",
+                  "text": "Castelul Howth este un castel istoric situat în orașul Howth.",
+                  "category": "castle",
+                  "coords": [
+                        -6.079282,
+                        53.386254
+                  ]
+            },
+            {
+                  "name": "Baily Lighthouse",
+                  "text": "Baily Lighthouse este un far situat pe coasta din Howth.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.052483,
+                        53.361626
+                  ]
+            },
+            {
+                  "name": "Aideen's Dolmen",
+                  "text": "Aideen's Dolmen este un sit arheologic situat în Howth.",
+                  "category": "historical",
+                  "coords": [
+                        -6.082231,
+                        53.379554
+                  ]
+            },
+            {
+                  "name": "Shielmartin Hill Cairn",
+                  "text": "Shielmartin Hill Cairn este un sit arheologic din Howth.",
+                  "category": "historical",
+                  "coords": [
+                        -6.08341,
+                        53.373207
+                  ]
+            },
+            {
+                  "name": "Picnic Rock",
+                  "text": "Picnic Rock este un sit arheologic situat în orașul Howth.",
+                  "category": "historical",
+                  "coords": [
+                        -6.049354,
+                        53.378667
+                  ]
+            },
+            {
+                  "name": "Dollymount Strand",
+                  "text": "Dollymount Strand este o plajă situată în Howth.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.139379,
+                        53.366999
+                  ]
+            },
+            {
+                  "name": "Claremont Beach",
+                  "text": "Claremont Beach este o plajă situată în zona Howth.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.074974,
+                        53.389938
+                  ]
+            },
+            {
+                  "name": "Broad Strand",
+                  "text": "Broad Strand este o plajă situată în Howth.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.069547,
+                        53.364008
+                  ]
+            },
+            {
+                  "name": "Portmarnock Beach",
+                  "text": "Portmarnock Beach este o plajă din Howth.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.117569,
+                        53.415877
+                  ]
+            },
+            {
+                  "name": "Red Rock Beach",
+                  "text": "Red Rock Beach este o plajă locală situată în Howth.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.088252,
+                        53.365393
+                  ]
+            },
+            {
+                  "name": "Bull Island Wildlife Only Area",
+                  "text": "Bull Island Wildlife Only Area este o rezervație naturală din Howth.",
+                  "category": "natural",
+                  "coords": [
+                        -6.132637,
+                        53.377512
+                  ]
+            },
+            {
+                  "name": "Hidden Beach",
+                  "text": "Hidden Beach este o plajă situată în Howth.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.065807,
+                        53.364496
+                  ]
+            },
+            {
+                  "name": "Ben of Howth",
+                  "text": "Ben of Howth este un vârf notabil din Howth, recunoscut pentru priveliștile sale ample asupra golfului Dublin.",
+                  "category": "natural",
+                  "coords": [
+                        -6.0694,
+                        53.373389
+                  ]
+            },
+            {
+                  "name": "Cliffs of Howth",
+                  "text": "Stâncile din Howth oferă priveliști pitorești asupra coastei.",
+                  "category": "natural",
+                  "coords": [
+                        -6.05138,
+                        53.385688
+                  ]
+            },
+            {
+                  "name": "Therese-Emile Yuon",
+                  "text": "Therese-Emile Yuon sunt ruine istorice situate în Howth.",
+                  "category": "historical",
+                  "coords": [
+                        -6.079154,
+                        53.394129
+                  ]
+            },
+            {
+                  "name": "Fisher's Cross",
+                  "text": "Fisher's Cross este un monument local situat în Howth.",
+                  "category": "historical",
+                  "coords": [
+                        -6.069087,
+                        53.388549
+                  ]
+            },
+            {
+                  "name": "The Ready Boat Pillar",
+                  "text": "The Ready Boat Pillar este un monument din Howth.",
+                  "category": "historical",
+                  "coords": [
+                        -6.072902,
+                        53.388882
+                  ]
+            },
+            {
+                  "name": "Red Rock",
+                  "text": "Red Rock este un punct de belvedere care oferă vedere spre peisajul din Howth.",
+                  "category": "natural",
+                  "coords": [
+                        -6.087708,
+                        53.367017
+                  ]
+            },
+            {
+                  "name": "Ye Olde Hurdy-Gurdy (Museum of Vintage Radio)",
+                  "text": "Ye Olde Hurdy-Gurdy este un muzeu dedicat echipamentelor radio de epocă din Howth.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.06376,
+                        53.387607
+                  ]
+            },
+            {
+                  "name": "Star of the Sea",
+                  "text": "Star of the Sea este un monument situat în orașul Howth.",
+                  "category": "historical",
+                  "coords": [
+                        -6.064456,
+                        53.391081
+                  ]
+            },
+            {
+                  "name": "Dolphins",
+                  "text": "Dolphins este un punct de belvedere din Howth.",
+                  "category": "natural",
+                  "coords": [
+                        -6.047579,
+                        53.374583
+                  ]
+            },
+            {
+                  "name": "Church of the Three Sons of Nessan (Ruins)",
+                  "text": "Ruinele bisericii Church of the Three Sons of Nessan reprezintă un sit istoric din Howth.",
+                  "category": "historical",
+                  "coords": [
+                        -6.064438,
+                        53.405151
+                  ]
+            },
+            {
+                  "name": "The Old Courthouse",
+                  "text": "The Old Courthouse este o atracție locală situată în Howth.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.070533,
+                        53.388261
+                  ]
+            },
+            {
+                  "name": "St Mary's Abbey",
+                  "text": "St Mary's Abbey este o biserică ruinată istorică situată în Howth.",
+                  "category": "religious",
+                  "coords": [
+                        -6.065997,
+                        53.387513
+                  ]
+            },
+            {
+                  "name": "Sutton South Martello Tower",
+                  "text": "Sutton South Martello Tower este o fortificație de apărare a coastei din secolul al XIX-lea, situată în Howth.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.09605,
+                        53.369321
+                  ]
+            },
+            {
+                  "name": "Sutton Methodist Church",
+                  "text": "Sutton Methodist Church este un lăcaș de cult local situat în orașul Howth.",
+                  "category": "religious",
+                  "coords": [
+                        -6.104692,
+                        53.389771
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Howth Lighthouse",
+                  "text": "Howth Lighthouse is a lighthouse located in the city of Howth.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.066842,
+                        53.394091
+                  ]
+            },
+            {
+                  "name": "Burrow Beach",
+                  "text": "Burrow Beach is a sandy beach located in Howth.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.101831,
+                        53.394347
+                  ]
+            },
+            {
+                  "name": "National Transport Museum",
+                  "text": "The National Transport Museum of Ireland is a transport museum situated in Howth.",
+                  "category": "museum",
+                  "coords": [
+                        -6.081142,
+                        53.386815
+                  ]
+            },
+            {
+                  "name": "Howth Castle",
+                  "text": "Howth Castle is a historic castle located in the city of Howth.",
+                  "category": "castle",
+                  "coords": [
+                        -6.079282,
+                        53.386254
+                  ]
+            },
+            {
+                  "name": "Baily Lighthouse",
+                  "text": "Baily Lighthouse is a lighthouse structure situated on the coast of Howth.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.052483,
+                        53.361626
+                  ]
+            },
+            {
+                  "name": "Aideen's Dolmen",
+                  "text": "Aideen's Dolmen is an archaeological site located in Howth.",
+                  "category": "historical",
+                  "coords": [
+                        -6.082231,
+                        53.379554
+                  ]
+            },
+            {
+                  "name": "Shielmartin Hill Cairn",
+                  "text": "Shielmartin Hill Cairn is an archaeological site found in Howth.",
+                  "category": "historical",
+                  "coords": [
+                        -6.08341,
+                        53.373207
+                  ]
+            },
+            {
+                  "name": "Picnic Rock",
+                  "text": "Picnic Rock is an archaeological site situated in the city of Howth.",
+                  "category": "historical",
+                  "coords": [
+                        -6.049354,
+                        53.378667
+                  ]
+            },
+            {
+                  "name": "Dollymount Strand",
+                  "text": "Dollymount Strand is a beach located in Howth.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.139379,
+                        53.366999
+                  ]
+            },
+            {
+                  "name": "Claremont Beach",
+                  "text": "Claremont Beach is a beach located in the area of Howth.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.074974,
+                        53.389938
+                  ]
+            },
+            {
+                  "name": "Broad Strand",
+                  "text": "Broad Strand is a coastal beach situated in Howth.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.069547,
+                        53.364008
+                  ]
+            },
+            {
+                  "name": "Portmarnock Beach",
+                  "text": "Portmarnock Beach is a beach area found in Howth.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.117569,
+                        53.415877
+                  ]
+            },
+            {
+                  "name": "Red Rock Beach",
+                  "text": "Red Rock Beach is a local beach located in Howth.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.088252,
+                        53.365393
+                  ]
+            },
+            {
+                  "name": "Bull Island Wildlife Only Area",
+                  "text": "Bull Island Wildlife Only Area is a nature reserve in Howth.",
+                  "category": "natural",
+                  "coords": [
+                        -6.132637,
+                        53.377512
+                  ]
+            },
+            {
+                  "name": "Hidden Beach",
+                  "text": "Hidden Beach is a local beach located in Howth.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.065807,
+                        53.364496
+                  ]
+            },
+            {
+                  "name": "Ben of Howth",
+                  "text": "Ben of Howth is a notable peak in Howth known for its extensive views over Dublin Bay.",
+                  "category": "natural",
+                  "coords": [
+                        -6.0694,
+                        53.373389
+                  ]
+            },
+            {
+                  "name": "Cliffs of Howth",
+                  "text": "The Cliffs of Howth offer scenic coastal views over the sea.",
+                  "category": "natural",
+                  "coords": [
+                        -6.05138,
+                        53.385688
+                  ]
+            },
+            {
+                  "name": "Therese-Emile Yuon",
+                  "text": "The Therese-Emile Yuon are historic ruins located in Howth.",
+                  "category": "historical",
+                  "coords": [
+                        -6.079154,
+                        53.394129
+                  ]
+            },
+            {
+                  "name": "Fisher's Cross",
+                  "text": "Fisher's Cross is a local monument situated in Howth.",
+                  "category": "historical",
+                  "coords": [
+                        -6.069087,
+                        53.388549
+                  ]
+            },
+            {
+                  "name": "The Ready Boat Pillar",
+                  "text": "The Ready Boat Pillar is a monument located in Howth.",
+                  "category": "historical",
+                  "coords": [
+                        -6.072902,
+                        53.388882
+                  ]
+            },
+            {
+                  "name": "Red Rock",
+                  "text": "Red Rock is a viewpoint overlooking the landscape in Howth.",
+                  "category": "natural",
+                  "coords": [
+                        -6.087708,
+                        53.367017
+                  ]
+            },
+            {
+                  "name": "Ye Olde Hurdy-Gurdy (Museum of Vintage Radio)",
+                  "text": "Ye Olde Hurdy-Gurdy is a museum dedicated to vintage radio equipment in Howth.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.06376,
+                        53.387607
+                  ]
+            },
+            {
+                  "name": "Star of the Sea",
+                  "text": "Star of the Sea is a monument situated in the town of Howth.",
+                  "category": "historical",
+                  "coords": [
+                        -6.064456,
+                        53.391081
+                  ]
+            },
+            {
+                  "name": "Dolphins",
+                  "text": "Dolphins is a viewpoint in Howth.",
+                  "category": "natural",
+                  "coords": [
+                        -6.047579,
+                        53.374583
+                  ]
+            },
+            {
+                  "name": "Church of the Three Sons of Nessan (Ruins)",
+                  "text": "The ruined Church of the Three Sons of Nessan stands as a historical site in Howth.",
+                  "category": "historical",
+                  "coords": [
+                        -6.064438,
+                        53.405151
+                  ]
+            },
+            {
+                  "name": "The Old Courthouse",
+                  "text": "The Old Courthouse is a local attraction located in Howth.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.070533,
+                        53.388261
+                  ]
+            },
+            {
+                  "name": "St Mary's Abbey",
+                  "text": "St Mary's Abbey is a historic ruined church situated in Howth.",
+                  "category": "religious",
+                  "coords": [
+                        -6.065997,
+                        53.387513
+                  ]
+            },
+            {
+                  "name": "Sutton South Martello Tower",
+                  "text": "The Sutton South Martello Tower is a 19th-century coastal defense fortification in Howth.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.09605,
+                        53.369321
+                  ]
+            },
+            {
+                  "name": "Sutton Methodist Church",
+                  "text": "Sutton Methodist Church is a local place of worship located in the city of Howth.",
+                  "category": "religious",
+                  "coords": [
+                        -6.104692,
+                        53.389771
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Howth", hu: "Howth", ro: "Howth", en: "Howth" },
@@ -1398,7 +4575,664 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-macroom-cities-v2.webp",
   },
   {
-    id: "ireland-malahide-cities-v2",
+    id: "ireland-malahide-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Casino Model Railway Museum",
+                  "text": "Das Casino Model Railway Museum in Malahide befindet sich in einem restaurierten historischen Gebäude und zeigt detaillierte Modelleisenbahnen.",
+                  "category": "museum",
+                  "coords": [
+                        -6.158326,
+                        53.450634
+                  ]
+            },
+            {
+                  "name": "Blast Windsurfing and Windfoiling",
+                  "text": "Blast Windsurfing and Windfoiling ist eine Wassersportanlage in Malahide.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.175549,
+                        53.469082
+                  ]
+            },
+            {
+                  "name": "Donabate Beach",
+                  "text": "Donabate Beach ist ein beliebter Sandstrand in der Nähe von Malahide.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.128484,
+                        53.465298
+                  ]
+            },
+            {
+                  "name": "Portmarnock Beach",
+                  "text": "Portmarnock Beach ist ein malerischer Strand in Malahide.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.117569,
+                        53.415877
+                  ]
+            },
+            {
+                  "name": "Corballis Nudist Beach",
+                  "text": "Corballis Nudist Beach ist ein ausgewiesener FKK-Strand in Malahide.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.128338,
+                        53.460255
+                  ]
+            },
+            {
+                  "name": "Lanestown Castle",
+                  "text": "Lanestown Castle ist eine historische Burg in Malahide.",
+                  "category": "castle",
+                  "coords": [
+                        -6.178117,
+                        53.483066
+                  ]
+            },
+            {
+                  "name": "The Butterfly House",
+                  "text": "The Butterfly House ist eine zoologische Attraktion in Malahide.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.161823,
+                        53.444977
+                  ]
+            },
+            {
+                  "name": "Malahide Historical Society Museum",
+                  "text": "Das Malahide Historical Society Museum ist ein lokales Museum zur Geschichte von Malahide.",
+                  "category": "museum",
+                  "coords": [
+                        -6.162851,
+                        53.444716
+                  ]
+            },
+            {
+                  "name": "Newbridge House and Demesne",
+                  "text": "Newbridge House and Demesne ist eine Attraktion in Malahide, die ein historisches georgianisches Herrenhaus und ein Anwesen umfasst.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.167485,
+                        53.485652
+                  ]
+            },
+            {
+                  "name": "The Southern Cross Monument",
+                  "text": "Das Southern Cross Monument ist ein Denkmal in Malahide.",
+                  "category": "historical",
+                  "coords": [
+                        -6.124518,
+                        53.432156
+                  ]
+            },
+            {
+                  "name": "High Rock",
+                  "text": "High Rock ist ein malerischer Aussichtspunkt in Malahide.",
+                  "category": "natural",
+                  "coords": [
+                        -6.122128,
+                        53.441468
+                  ]
+            },
+            {
+                  "name": "Strand Mill Ruins",
+                  "text": "Die Strand Mill Ruins sind die historischen Überreste einer Mühle in Malahide.",
+                  "category": "historical",
+                  "coords": [
+                        -6.141286,
+                        53.417976
+                  ]
+            },
+            {
+                  "name": "Anchor",
+                  "text": "Anchor ist ein lokales Denkmal in Malahide.",
+                  "category": "historical",
+                  "coords": [
+                        -6.154229,
+                        53.455682
+                  ]
+            },
+            {
+                  "name": "Church (in ruins)",
+                  "text": "Church (in ruins) stellt die baulichen Überreste einer Kirche in Malahide dar.",
+                  "category": "historical",
+                  "coords": [
+                        -6.168584,
+                        53.424558
+                  ]
+            },
+            {
+                  "name": "Saint Sylvester's Well",
+                  "text": "Ein historischer Brunnen und eine lokale Sehenswürdigkeit in Malahide.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.155119,
+                        53.451147
+                  ]
+            },
+            {
+                  "name": "Church",
+                  "text": "Überreste einer historischen Kirche in Malahide.",
+                  "category": "historical",
+                  "coords": [
+                        -6.129177,
+                        53.439846
+                  ]
+            },
+            {
+                  "name": "Balcarrick Martello Tower",
+                  "text": "Ein historischer Martello-Turm an der Küste von Malahide.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.115377,
+                        53.478324
+                  ]
+            },
+            {
+                  "name": "Portmarnock Martello Tower",
+                  "text": "Ein historischer Martello-Turm nahe Malahide.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.122332,
+                        53.435944
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Casino Model Railway Museum",
+                  "text": "A malahide-i Casino Model Railway Museum egy felújított történelmi épületben található, és részletes modellvasút-kiállításokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -6.158326,
+                        53.450634
+                  ]
+            },
+            {
+                  "name": "Blast Windsurfing and Windfoiling",
+                  "text": "A Blast Windsurfing and Windfoiling egy vízisport-létesítmény Malahide-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.175549,
+                        53.469082
+                  ]
+            },
+            {
+                  "name": "Donabate Beach",
+                  "text": "A Donabate Beach egy népszerű homokos tengerpart Malahide közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.128484,
+                        53.465298
+                  ]
+            },
+            {
+                  "name": "Portmarnock Beach",
+                  "text": "A Portmarnock Beach egy festői strand Malahide-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.117569,
+                        53.415877
+                  ]
+            },
+            {
+                  "name": "Corballis Nudist Beach",
+                  "text": "A Corballis Nudist Beach egy kijelölt naturista strand Malahide-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.128338,
+                        53.460255
+                  ]
+            },
+            {
+                  "name": "Lanestown Castle",
+                  "text": "A Lanestown Castle egy történelmi kastélyépület Malahide-ban.",
+                  "category": "castle",
+                  "coords": [
+                        -6.178117,
+                        53.483066
+                  ]
+            },
+            {
+                  "name": "The Butterfly House",
+                  "text": "A The Butterfly House egy állattani látványosság Malahide-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.161823,
+                        53.444977
+                  ]
+            },
+            {
+                  "name": "Malahide Historical Society Museum",
+                  "text": "A Malahide Historical Society Museum egy helytörténeti múzeum Malahide-ban.",
+                  "category": "museum",
+                  "coords": [
+                        -6.162851,
+                        53.444716
+                  ]
+            },
+            {
+                  "name": "Newbridge House and Demesne",
+                  "text": "A Newbridge House and Demesne egy látványosság Malahide-ban, amely egy történelmi György-korabeli kúriát és birtokot foglal magában.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.167485,
+                        53.485652
+                  ]
+            },
+            {
+                  "name": "The Southern Cross Monument",
+                  "text": "A Southern Cross Monument egy emlékmű Malahide-ban.",
+                  "category": "historical",
+                  "coords": [
+                        -6.124518,
+                        53.432156
+                  ]
+            },
+            {
+                  "name": "High Rock",
+                  "text": "A High Rock egy festői kilátó Malahide-ban.",
+                  "category": "natural",
+                  "coords": [
+                        -6.122128,
+                        53.441468
+                  ]
+            },
+            {
+                  "name": "Strand Mill Ruins",
+                  "text": "A Strand Mill Ruins egy malom történelmi romjai Malahide-ban.",
+                  "category": "historical",
+                  "coords": [
+                        -6.141286,
+                        53.417976
+                  ]
+            },
+            {
+                  "name": "Anchor",
+                  "text": "Az Anchor egy helyi emlékmű Malahide-ban.",
+                  "category": "historical",
+                  "coords": [
+                        -6.154229,
+                        53.455682
+                  ]
+            },
+            {
+                  "name": "Church (in ruins)",
+                  "text": "A Church (in ruins) egy templom szerkezeti maradványait jelképezi Malahide-ban.",
+                  "category": "historical",
+                  "coords": [
+                        -6.168584,
+                        53.424558
+                  ]
+            },
+            {
+                  "name": "Saint Sylvester's Well",
+                  "text": "Egy történelmi kút és helyi látványosság Malahide-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.155119,
+                        53.451147
+                  ]
+            },
+            {
+                  "name": "Church",
+                  "text": "Egy történelmi templom romjai Malahide-ban.",
+                  "category": "historical",
+                  "coords": [
+                        -6.129177,
+                        53.439846
+                  ]
+            },
+            {
+                  "name": "Balcarrick Martello Tower",
+                  "text": "Egy történelmi Martello-torony Malahide partvidékén.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.115377,
+                        53.478324
+                  ]
+            },
+            {
+                  "name": "Portmarnock Martello Tower",
+                  "text": "Egy történelmi Martello-torony Malahide közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.122332,
+                        53.435944
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Casino Model Railway Museum",
+                  "text": "Casino Model Railway Museum din Malahide se află într-o clădire istorică restaurată și prezintă expoziții detaliate de trenulețe în miniatură.",
+                  "category": "museum",
+                  "coords": [
+                        -6.158326,
+                        53.450634
+                  ]
+            },
+            {
+                  "name": "Blast Windsurfing and Windfoiling",
+                  "text": "Blast Windsurfing and Windfoiling este o bază de sporturi nautice situată în Malahide.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.175549,
+                        53.469082
+                  ]
+            },
+            {
+                  "name": "Donabate Beach",
+                  "text": "Donabate Beach este o plajă cu nisip populară, situată în apropiere de Malahide.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.128484,
+                        53.465298
+                  ]
+            },
+            {
+                  "name": "Portmarnock Beach",
+                  "text": "Portmarnock Beach este o plajă pitorească situată în Malahide.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.117569,
+                        53.415877
+                  ]
+            },
+            {
+                  "name": "Corballis Nudist Beach",
+                  "text": "Corballis Nudist Beach este o plajă destinată nudiștilor situată în Malahide.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.128338,
+                        53.460255
+                  ]
+            },
+            {
+                  "name": "Lanestown Castle",
+                  "text": "Lanestown Castle este un castel istoric situat în Malahide.",
+                  "category": "castle",
+                  "coords": [
+                        -6.178117,
+                        53.483066
+                  ]
+            },
+            {
+                  "name": "The Butterfly House",
+                  "text": "The Butterfly House este o atracție zoologică în Malahide.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.161823,
+                        53.444977
+                  ]
+            },
+            {
+                  "name": "Malahide Historical Society Museum",
+                  "text": "Malahide Historical Society Museum este un muzeu local care expune istoria orașului Malahide.",
+                  "category": "museum",
+                  "coords": [
+                        -6.162851,
+                        53.444716
+                  ]
+            },
+            {
+                  "name": "Newbridge House and Demesne",
+                  "text": "Newbridge House and Demesne este o atracție din Malahide, cu un conac georgian istoric și un domeniu.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.167485,
+                        53.485652
+                  ]
+            },
+            {
+                  "name": "The Southern Cross Monument",
+                  "text": "The Southern Cross Monument este un monument situat în Malahide.",
+                  "category": "historical",
+                  "coords": [
+                        -6.124518,
+                        53.432156
+                  ]
+            },
+            {
+                  "name": "High Rock",
+                  "text": "High Rock este un punct de belvedere pitoresc în Malahide.",
+                  "category": "natural",
+                  "coords": [
+                        -6.122128,
+                        53.441468
+                  ]
+            },
+            {
+                  "name": "Strand Mill Ruins",
+                  "text": "Strand Mill Ruins reprezintă ruinele istorice ale unei mori din Malahide.",
+                  "category": "historical",
+                  "coords": [
+                        -6.141286,
+                        53.417976
+                  ]
+            },
+            {
+                  "name": "Anchor",
+                  "text": "Anchor este un monument local situat în Malahide.",
+                  "category": "historical",
+                  "coords": [
+                        -6.154229,
+                        53.455682
+                  ]
+            },
+            {
+                  "name": "Church (in ruins)",
+                  "text": "Church (in ruins) reprezintă rămășițele structurale ale unei biserici din Malahide.",
+                  "category": "historical",
+                  "coords": [
+                        -6.168584,
+                        53.424558
+                  ]
+            },
+            {
+                  "name": "Saint Sylvester's Well",
+                  "text": "O fântână istorică și o atracție locală în Malahide.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.155119,
+                        53.451147
+                  ]
+            },
+            {
+                  "name": "Church",
+                  "text": "Ruinele unei biserici istorice din Malahide.",
+                  "category": "historical",
+                  "coords": [
+                        -6.129177,
+                        53.439846
+                  ]
+            },
+            {
+                  "name": "Balcarrick Martello Tower",
+                  "text": "Un turn Martello istoric situat pe coasta din Malahide.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.115377,
+                        53.478324
+                  ]
+            },
+            {
+                  "name": "Portmarnock Martello Tower",
+                  "text": "Un turn Martello istoric situat în apropiere de Malahide.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.122332,
+                        53.435944
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Casino Model Railway Museum",
+                  "text": "The Casino Model Railway Museum in Malahide is housed in a restored historic building and features intricate model train displays.",
+                  "category": "museum",
+                  "coords": [
+                        -6.158326,
+                        53.450634
+                  ]
+            },
+            {
+                  "name": "Blast Windsurfing and Windfoiling",
+                  "text": "Blast Windsurfing and Windfoiling is a water sports facility located in Malahide.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.175549,
+                        53.469082
+                  ]
+            },
+            {
+                  "name": "Donabate Beach",
+                  "text": "Donabate Beach is a popular sandy beach situated near Malahide.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.128484,
+                        53.465298
+                  ]
+            },
+            {
+                  "name": "Portmarnock Beach",
+                  "text": "Portmarnock Beach is a scenic beach located in Malahide.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.117569,
+                        53.415877
+                  ]
+            },
+            {
+                  "name": "Corballis Nudist Beach",
+                  "text": "Corballis Nudist Beach is a designated naturist beach situated in Malahide.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.128338,
+                        53.460255
+                  ]
+            },
+            {
+                  "name": "Lanestown Castle",
+                  "text": "Lanestown Castle is a historic castle structure located in Malahide.",
+                  "category": "castle",
+                  "coords": [
+                        -6.178117,
+                        53.483066
+                  ]
+            },
+            {
+                  "name": "The Butterfly House",
+                  "text": "The Butterfly House is a zoological attraction in Malahide.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.161823,
+                        53.444977
+                  ]
+            },
+            {
+                  "name": "Malahide Historical Society Museum",
+                  "text": "Malahide Historical Society Museum is a local museum exhibiting the history of Malahide.",
+                  "category": "museum",
+                  "coords": [
+                        -6.162851,
+                        53.444716
+                  ]
+            },
+            {
+                  "name": "Newbridge House and Demesne",
+                  "text": "Newbridge House and Demesne is an attraction in Malahide featuring a historic Georgian mansion and estate.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.167485,
+                        53.485652
+                  ]
+            },
+            {
+                  "name": "The Southern Cross Monument",
+                  "text": "The Southern Cross Monument is a notable monument situated in Malahide.",
+                  "category": "historical",
+                  "coords": [
+                        -6.124518,
+                        53.432156
+                  ]
+            },
+            {
+                  "name": "High Rock",
+                  "text": "High Rock is a scenic viewpoint offering coastal views in Malahide.",
+                  "category": "natural",
+                  "coords": [
+                        -6.122128,
+                        53.441468
+                  ]
+            },
+            {
+                  "name": "Strand Mill Ruins",
+                  "text": "Strand Mill Ruins are the historic remains of a mill located in Malahide.",
+                  "category": "historical",
+                  "coords": [
+                        -6.141286,
+                        53.417976
+                  ]
+            },
+            {
+                  "name": "Anchor",
+                  "text": "Anchor is a local monument situated in Malahide.",
+                  "category": "historical",
+                  "coords": [
+                        -6.154229,
+                        53.455682
+                  ]
+            },
+            {
+                  "name": "Church (in ruins)",
+                  "text": "Church (in ruins) represents the structural remains of a church in Malahide.",
+                  "category": "historical",
+                  "coords": [
+                        -6.168584,
+                        53.424558
+                  ]
+            },
+            {
+                  "name": "Saint Sylvester's Well",
+                  "text": "A historic well and local attraction located in Malahide.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.155119,
+                        53.451147
+                  ]
+            },
+            {
+                  "name": "Church",
+                  "text": "The ruins of a historic church located in Malahide.",
+                  "category": "historical",
+                  "coords": [
+                        -6.129177,
+                        53.439846
+                  ]
+            },
+            {
+                  "name": "Balcarrick Martello Tower",
+                  "text": "A historic Martello tower located on the coast of Malahide.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.115377,
+                        53.478324
+                  ]
+            },
+            {
+                  "name": "Portmarnock Martello Tower",
+                  "text": "A historic Martello tower located near Malahide.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.122332,
+                        53.435944
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Malahide", hu: "Malahide", ro: "Malahide", en: "Malahide" },
@@ -1893,7 +5727,52 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-rathkeale-cities-v2.webp",
   },
   {
-    id: "ireland-rosslare-cities-v2",
+    id: "ireland-rosslare-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rosslare Strand Beach",
+                  "text": "Rosslare Strand Beach ist ein bekannter Strand in Rosslare.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.3862,
+                        52.288215
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rosslare Strand Beach",
+                  "text": "A Rosslare Strand Beach egy jól ismert strand Rosslare-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.3862,
+                        52.288215
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rosslare Strand Beach",
+                  "text": "Rosslare Strand Beach este o plajă cunoscută în Rosslare.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.3862,
+                        52.288215
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rosslare Strand Beach",
+                  "text": "Rosslare Strand Beach is a well-known beach in Rosslare.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.3862,
+                        52.288215
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Rosslare", hu: "Rosslare", ro: "Rosslare", en: "Rosslare" },
@@ -2388,7 +6267,484 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-warrenpoint-cities-v2.webp",
   },
   {
-    id: "ireland-youghal-cities-v2",
+    id: "ireland-youghal-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Youghal Lighthouse",
+                  "text": "Der Youghal Lighthouse ist ein lokales maritimes Wahrzeichen an der Küste von Youghal.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.842113,
+                        51.942797
+                  ]
+            },
+            {
+                  "name": "Tynte's Castle",
+                  "text": "Tynte's Castle ist ein befestigtes Gebäude und ein historisches Wahrzeichen in Youghal.",
+                  "category": "castle",
+                  "coords": [
+                        -7.850209,
+                        51.955907
+                  ]
+            },
+            {
+                  "name": "Freemasons' Hall Museum",
+                  "text": "Das Freemasons' Hall Museum ist eine Einrichtung zur Bewahrung der lokalen Geschichte in Youghal.",
+                  "category": "museum",
+                  "coords": [
+                        -7.844274,
+                        51.951074
+                  ]
+            },
+            {
+                  "name": "Caliso Bay",
+                  "text": "Caliso Bay ist ein natürlicher Küstenstrand in der Stadt Youghal.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.806248,
+                        51.941132
+                  ]
+            },
+            {
+                  "name": "Whiting Bay",
+                  "text": "Whiting Bay bietet Besuchern eine malerische Strandumgebung in Youghal.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.779073,
+                        51.9505
+                  ]
+            },
+            {
+                  "name": "Collegiate Church of Saint Mary",
+                  "text": "Die Collegiate Church of Saint Mary ist eine markante mittelalterliche Kirche in Youghal.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.853544,
+                        51.955078
+                  ]
+            },
+            {
+                  "name": "Youghal Clock Tower",
+                  "text": "Der Youghal Clock Tower ist eine bekannte historische Attraktion im Zentrum von Youghal.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.846785,
+                        51.952726
+                  ]
+            },
+            {
+                  "name": "Ferry Point",
+                  "text": "Ferry Point ist ein Aussichtspunkt, der einen Blick auf die Wasserwege von Youghal bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -7.839538,
+                        51.954546
+                  ]
+            },
+            {
+                  "name": "Site of the Exchange",
+                  "text": "Die Site of the Exchange ist eine lokale Sehenswürdigkeit in Youghal.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.845794,
+                        51.953134
+                  ]
+            },
+            {
+                  "name": "Brú na Sí",
+                  "text": "Brú na Sí ist ein lokales Kunstzentrum in Youghal.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.860708,
+                        51.953936
+                  ]
+            },
+            {
+                  "name": "Strand Church",
+                  "text": "Die Strand Church ist ein religiöser Ort in Youghal.",
+                  "category": "religious",
+                  "coords": [
+                        -7.851621,
+                        51.940987
+                  ]
+            },
+            {
+                  "name": "Saint Mary's Church",
+                  "text": "Die Saint Mary's Church ist eine Kultstätte in Youghal.",
+                  "category": "religious",
+                  "coords": [
+                        -7.849634,
+                        51.953209
+                  ]
+            },
+            {
+                  "name": "Priory Ruin",
+                  "text": "Die Priory Ruin, historisch mit der North Abbey verbunden, ist eine Kirchenruine in Youghal.",
+                  "category": "religious",
+                  "coords": [
+                        -7.854546,
+                        51.957341
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Youghal Lighthouse",
+                  "text": "A Youghal világítótorony egy helyi parti navigációs tájékozódási pont Youghalban.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.842113,
+                        51.942797
+                  ]
+            },
+            {
+                  "name": "Tynte's Castle",
+                  "text": "A Tynte's Castle egy erődített épület és történelmi látványosság Youghalban.",
+                  "category": "castle",
+                  "coords": [
+                        -7.850209,
+                        51.955907
+                  ]
+            },
+            {
+                  "name": "Freemasons' Hall Museum",
+                  "text": "A Freemasons' Hall Múzeum a helyi történelem megőrzésének szentelt intézmény Youghalban.",
+                  "category": "museum",
+                  "coords": [
+                        -7.844274,
+                        51.951074
+                  ]
+            },
+            {
+                  "name": "Caliso Bay",
+                  "text": "A Caliso Bay egy természetes tengerparti strand Youghal városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.806248,
+                        51.941132
+                  ]
+            },
+            {
+                  "name": "Whiting Bay",
+                  "text": "A Whiting Bay festői tengerparti környezetet kínál a Youghalba látogatóknak.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.779073,
+                        51.9505
+                  ]
+            },
+            {
+                  "name": "Collegiate Church of Saint Mary",
+                  "text": "A Collegiate Church of Saint Mary egy kiemelkedő középkori templom Youghalban.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.853544,
+                        51.955078
+                  ]
+            },
+            {
+                  "name": "Youghal Clock Tower",
+                  "text": "A Youghal óratorony egy ismert történelmi látványosság Youghal központjában.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.846785,
+                        51.952726
+                  ]
+            },
+            {
+                  "name": "Ferry Point",
+                  "text": "A Ferry Point egy kilátópont, amely rálátást nyújt Youghal vízi útjaira.",
+                  "category": "natural",
+                  "coords": [
+                        -7.839538,
+                        51.954546
+                  ]
+            },
+            {
+                  "name": "Site of the Exchange",
+                  "text": "A Site of the Exchange egy helyi látványosság Youghal városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.845794,
+                        51.953134
+                  ]
+            },
+            {
+                  "name": "Brú na Sí",
+                  "text": "A Brú na Sí egy helyi művészeti központ Youghal területén.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.860708,
+                        51.953936
+                  ]
+            },
+            {
+                  "name": "Strand Church",
+                  "text": "A Strand Church egy istentiszteleti hely Youghal városában.",
+                  "category": "religious",
+                  "coords": [
+                        -7.851621,
+                        51.940987
+                  ]
+            },
+            {
+                  "name": "Saint Mary's Church",
+                  "text": "A Saint Mary's Church egy istentiszteleti hely Youghal területén.",
+                  "category": "religious",
+                  "coords": [
+                        -7.849634,
+                        51.953209
+                  ]
+            },
+            {
+                  "name": "Priory Ruin",
+                  "text": "A történelmi North Abbey-hez kapcsolódó Priory Ruin egy templomrom Youghal városában.",
+                  "category": "religious",
+                  "coords": [
+                        -7.854546,
+                        51.957341
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Youghal Lighthouse",
+                  "text": "Farul Youghal este un punct de reper maritim local pe coasta din Youghal.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.842113,
+                        51.942797
+                  ]
+            },
+            {
+                  "name": "Tynte's Castle",
+                  "text": "Tynte's Castle este o clădire fortificată și un punct de reper istoric în Youghal.",
+                  "category": "castle",
+                  "coords": [
+                        -7.850209,
+                        51.955907
+                  ]
+            },
+            {
+                  "name": "Freemasons' Hall Museum",
+                  "text": "Muzeul Freemasons' Hall este o instituție dedicată păstrării istoriei locale din Youghal.",
+                  "category": "museum",
+                  "coords": [
+                        -7.844274,
+                        51.951074
+                  ]
+            },
+            {
+                  "name": "Caliso Bay",
+                  "text": "Caliso Bay este o plajă naturală de coastă din orașul Youghal.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.806248,
+                        51.941132
+                  ]
+            },
+            {
+                  "name": "Whiting Bay",
+                  "text": "Whiting Bay oferă un mediu pitoresc de plajă pentru vizitatorii din Youghal.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.779073,
+                        51.9505
+                  ]
+            },
+            {
+                  "name": "Collegiate Church of Saint Mary",
+                  "text": "Biserica Colegiată Sfânta Maria este o biserică medievală istorică proeminentă din Youghal.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.853544,
+                        51.955078
+                  ]
+            },
+            {
+                  "name": "Youghal Clock Tower",
+                  "text": "Turnul cu ceas din Youghal este o atracție istorică bine-cunoscută în centrul orașului Youghal.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.846785,
+                        51.952726
+                  ]
+            },
+            {
+                  "name": "Ferry Point",
+                  "text": "Ferry Point este un punct de belvedere care oferă o perspectivă asupra căilor navigabile din Youghal.",
+                  "category": "natural",
+                  "coords": [
+                        -7.839538,
+                        51.954546
+                  ]
+            },
+            {
+                  "name": "Site of the Exchange",
+                  "text": "Site of the Exchange este o atracție locală situată în Youghal.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.845794,
+                        51.953134
+                  ]
+            },
+            {
+                  "name": "Brú na Sí",
+                  "text": "Brú na Sí este un centru de arte local situat în Youghal.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.860708,
+                        51.953936
+                  ]
+            },
+            {
+                  "name": "Strand Church",
+                  "text": "Strand Church este un lăcaș de cult situat în Youghal.",
+                  "category": "religious",
+                  "coords": [
+                        -7.851621,
+                        51.940987
+                  ]
+            },
+            {
+                  "name": "Saint Mary's Church",
+                  "text": "Saint Mary's Church este un lăcaș de cult situat în Youghal.",
+                  "category": "religious",
+                  "coords": [
+                        -7.849634,
+                        51.953209
+                  ]
+            },
+            {
+                  "name": "Priory Ruin",
+                  "text": "Priory Ruin, asociată istoric cu North Abbey, este o biserică în ruină din Youghal.",
+                  "category": "religious",
+                  "coords": [
+                        -7.854546,
+                        51.957341
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Youghal Lighthouse",
+                  "text": "Youghal Lighthouse is a local coastal navigation landmark situated in Youghal.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.842113,
+                        51.942797
+                  ]
+            },
+            {
+                  "name": "Tynte's Castle",
+                  "text": "Tynte's Castle is a fortified building and a historic landmark located in Youghal.",
+                  "category": "castle",
+                  "coords": [
+                        -7.850209,
+                        51.955907
+                  ]
+            },
+            {
+                  "name": "Freemasons' Hall Museum",
+                  "text": "The Freemasons' Hall Museum is an institution dedicated to preserving local history in Youghal.",
+                  "category": "museum",
+                  "coords": [
+                        -7.844274,
+                        51.951074
+                  ]
+            },
+            {
+                  "name": "Caliso Bay",
+                  "text": "Caliso Bay is a natural coastal beach destination in the town of Youghal.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.806248,
+                        51.941132
+                  ]
+            },
+            {
+                  "name": "Whiting Bay",
+                  "text": "Whiting Bay offers a scenic beach environment for visitors in Youghal.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.779073,
+                        51.9505
+                  ]
+            },
+            {
+                  "name": "Collegiate Church of Saint Mary",
+                  "text": "The Collegiate Church of Saint Mary is a prominent historic medieval church located in Youghal.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.853544,
+                        51.955078
+                  ]
+            },
+            {
+                  "name": "Youghal Clock Tower",
+                  "text": "The Youghal Clock Tower is a well-known historic attraction in the center of Youghal.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.846785,
+                        51.952726
+                  ]
+            },
+            {
+                  "name": "Ferry Point",
+                  "text": "Ferry Point is a scenic viewpoint offering a look over the waterways of Youghal.",
+                  "category": "natural",
+                  "coords": [
+                        -7.839538,
+                        51.954546
+                  ]
+            },
+            {
+                  "name": "Site of the Exchange",
+                  "text": "The Site of the Exchange is a local attraction situated in Youghal.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.845794,
+                        51.953134
+                  ]
+            },
+            {
+                  "name": "Brú na Sí",
+                  "text": "Brú na Sí is a local arts centre situated in Youghal.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.860708,
+                        51.953936
+                  ]
+            },
+            {
+                  "name": "Strand Church",
+                  "text": "Strand Church is a place of worship located in Youghal.",
+                  "category": "religious",
+                  "coords": [
+                        -7.851621,
+                        51.940987
+                  ]
+            },
+            {
+                  "name": "Saint Mary's Church",
+                  "text": "Saint Mary's Church is a place of worship situated in Youghal.",
+                  "category": "religious",
+                  "coords": [
+                        -7.849634,
+                        51.953209
+                  ]
+            },
+            {
+                  "name": "Priory Ruin",
+                  "text": "The Priory Ruin, historically associated with North Abbey, is a ruined church in Youghal.",
+                  "category": "religious",
+                  "coords": [
+                        -7.854546,
+                        51.957341
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Youghal", hu: "Youghal", ro: "Youghal", en: "Youghal" },
@@ -2613,7 +6969,88 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-arklow-low-cities-v2.webp",
   },
   {
-    id: "ireland-ballybunion-cities-v2",
+    id: "ireland-ballybunion-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nuns' Beach",
+                  "text": "Nuns' Beach ist ein Strand bei Ballybunion.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.676919,
+                        52.518818
+                  ]
+            },
+            {
+                  "name": "Ladies' Beach",
+                  "text": "Ladies' Beach ist ein Strand bei Ballybunion.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.677297,
+                        52.513393
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nuns' Beach",
+                  "text": "A Nuns' Beach egy strand Ballybunion közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.676919,
+                        52.518818
+                  ]
+            },
+            {
+                  "name": "Ladies' Beach",
+                  "text": "A Ladies' Beach egy strand Ballybunion közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.677297,
+                        52.513393
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nuns' Beach",
+                  "text": "Nuns' Beach este o plajă lângă Ballybunion.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.676919,
+                        52.518818
+                  ]
+            },
+            {
+                  "name": "Ladies' Beach",
+                  "text": "Ladies' Beach este o plajă lângă Ballybunion.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.677297,
+                        52.513393
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nuns' Beach",
+                  "text": "Nuns' Beach is a beach near Ballybunion.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.676919,
+                        52.518818
+                  ]
+            },
+            {
+                  "name": "Ladies' Beach",
+                  "text": "Ladies' Beach is a beach near Ballybunion.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.677297,
+                        52.513393
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Ballybunion", hu: "Ballybunion", ro: "Ballybunion", en: "Ballybunion" },
@@ -2748,7 +7185,160 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-banagher-cities-v2.webp",
   },
   {
-    id: "ireland-buncrana-cities-v2",
+    id: "ireland-buncrana-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Stragill Beach",
+                  "text": "Strand bei Buncrana.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.489008,
+                        55.156439
+                  ]
+            },
+            {
+                  "name": "Buncrana Beach",
+                  "text": "Strand bei Buncrana.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.466207,
+                        55.116528
+                  ]
+            },
+            {
+                  "name": "Lisfannon Beach",
+                  "text": "Strand bei Buncrana.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.481447,
+                        55.095116
+                  ]
+            },
+            {
+                  "name": "Porthaw Beach",
+                  "text": "Strand bei Buncrana.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.477271,
+                        55.144559
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stragill Beach",
+                  "text": "Strand Buncrana közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.489008,
+                        55.156439
+                  ]
+            },
+            {
+                  "name": "Buncrana Beach",
+                  "text": "Strand Buncrana közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.466207,
+                        55.116528
+                  ]
+            },
+            {
+                  "name": "Lisfannon Beach",
+                  "text": "Strand Buncrana közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.481447,
+                        55.095116
+                  ]
+            },
+            {
+                  "name": "Porthaw Beach",
+                  "text": "Strand Buncrana közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.477271,
+                        55.144559
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stragill Beach",
+                  "text": "Plajă lângă Buncrana.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.489008,
+                        55.156439
+                  ]
+            },
+            {
+                  "name": "Buncrana Beach",
+                  "text": "Plajă lângă Buncrana.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.466207,
+                        55.116528
+                  ]
+            },
+            {
+                  "name": "Lisfannon Beach",
+                  "text": "Plajă lângă Buncrana.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.481447,
+                        55.095116
+                  ]
+            },
+            {
+                  "name": "Porthaw Beach",
+                  "text": "Plajă lângă Buncrana.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.477271,
+                        55.144559
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stragill Beach",
+                  "text": "Beach near Buncrana.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.489008,
+                        55.156439
+                  ]
+            },
+            {
+                  "name": "Buncrana Beach",
+                  "text": "Beach near Buncrana.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.466207,
+                        55.116528
+                  ]
+            },
+            {
+                  "name": "Lisfannon Beach",
+                  "text": "Beach near Buncrana.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.481447,
+                        55.095116
+                  ]
+            },
+            {
+                  "name": "Porthaw Beach",
+                  "text": "Beach near Buncrana.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.477271,
+                        55.144559
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Buncrana", hu: "Buncrana", ro: "Buncrana", en: "Buncrana" },

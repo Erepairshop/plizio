@@ -1349,6 +1349,24 @@ export const poiExtraDe1: POI[] = [
                         13.433476,
                         48.565471
                   ]
+            },
+            {
+                  "name": "Stauwehr Oberilzmühle",
+                  "text": "Badestelle am Stauwehr Oberilzmühle in Passau.",
+                  "category": "recreational",
+                  "coords": [
+                        13.443962,
+                        48.608452
+                  ]
+            },
+            {
+                  "name": "Innstrand",
+                  "text": "Strand am Inn in Passau.",
+                  "category": "recreational",
+                  "coords": [
+                        13.482743,
+                        48.571948
+                  ]
             }
       ],
       "hu": [
@@ -1500,6 +1518,24 @@ export const poiExtraDe1: POI[] = [
                   "coords": [
                         13.433476,
                         48.565471
+                  ]
+            },
+            {
+                  "name": "Stauwehr Oberilzmühle",
+                  "text": "Fürdőhely a passaui Oberilzmühle gátnál.",
+                  "category": "recreational",
+                  "coords": [
+                        13.443962,
+                        48.608452
+                  ]
+            },
+            {
+                  "name": "Innstrand",
+                  "text": "Inn-parti strand Passauban.",
+                  "category": "recreational",
+                  "coords": [
+                        13.482743,
+                        48.571948
                   ]
             }
       ],
@@ -1653,6 +1689,24 @@ export const poiExtraDe1: POI[] = [
                         13.433476,
                         48.565471
                   ]
+            },
+            {
+                  "name": "Stauwehr Oberilzmühle",
+                  "text": "Zonă de îmbăiere la barajul Oberilzmühle din Passau.",
+                  "category": "recreational",
+                  "coords": [
+                        13.443962,
+                        48.608452
+                  ]
+            },
+            {
+                  "name": "Innstrand",
+                  "text": "Plajă pe râul Inn în Passau.",
+                  "category": "recreational",
+                  "coords": [
+                        13.482743,
+                        48.571948
+                  ]
             }
       ],
       "en": [
@@ -1804,6 +1858,24 @@ export const poiExtraDe1: POI[] = [
                   "coords": [
                         13.433476,
                         48.565471
+                  ]
+            },
+            {
+                  "name": "Stauwehr Oberilzmühle",
+                  "text": "Swimming spot at the Oberilzmühle dam in Passau.",
+                  "category": "recreational",
+                  "coords": [
+                        13.443962,
+                        48.608452
+                  ]
+            },
+            {
+                  "name": "Innstrand",
+                  "text": "Beach on the Inn river in Passau.",
+                  "category": "recreational",
+                  "coords": [
+                        13.482743,
+                        48.571948
                   ]
             }
       ],
@@ -7434,7 +7506,52 @@ export const poiExtraDe1: POI[] = [
       "tr": ["Kale deniz seviyesinden 855 metre yükseklikte yer almaktadır", "Mevcut neogotik kalenin inşaatı 1850'den 1867'ye kadar sürmüştür", "Prusya kraliyet tacı kalenin hazine dairesinde muhafaza edilir", "Orijinal kale 1423 yılında bir kuşatma sonrası yıkılmıştır", "Kalede iki Prusya kralının mezarı bulunmaktadır", "Alan toplam 140 oda ve görkemli salonu kapsamaktadır"]}, image: "/poi-images/landmark-hohenzollern-castle-extra.webp"},
 
   {
-    id: "lake-titisee-extra",
+    id: "lake-titisee-extra", "sights": {
+      "de": [
+            {
+                  "name": "Strandbad Windgfällweiher",
+                  "text": "Das Strandbad Windgfällweiher liegt nahe am Titisee.",
+                  "category": "recreational",
+                  "coords": [
+                        8.127723,
+                        47.85321
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Strandbad Windgfällweiher",
+                  "text": "A Strandbad Windgfällweiher strand a Titisee tó közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        8.127723,
+                        47.85321
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Strandbad Windgfällweiher",
+                  "text": "Strandul Windgfällweiher este situat în apropiere de lacul Titisee.",
+                  "category": "recreational",
+                  "coords": [
+                        8.127723,
+                        47.85321
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Strandbad Windgfällweiher",
+                  "text": "Strandbad Windgfällweiher is located near Lake Titisee.",
+                  "category": "recreational",
+                  "coords": [
+                        8.127723,
+                        47.85321
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "DE-BW",
     coords: [8.1533, 47.8878],
@@ -8967,7 +9084,124 @@ export const poiExtraDe1: POI[] = [
       "tr": ["Saray, 1695 yılında Schloss Lützenburg adıyla kuruldu.", "Kraliçe Sophie Charlotte'un 1705'teki ölümünden sonra onun onuruna yeniden adlandırıldı.", "Dikkat çekici saray kubbesi toplam 48 metre yüksekliğe ulaşır.", "İkinci Dünya Savaşı'nda saray, 1943'teki bir hava saldırısında ağır hasar gördü.", "Külliye, Frankreich dışındaki en büyük 18. yüzyıl Fransız resim koleksiyonuna ev sahipliği yapar.", "Saray bahçesi, 1697'den itibaren Siméon Godeau tarafından Versailles örnek alınarak düzenlendi."]}, image: "/poi-images/landmark-charlottenburg-palace-extra.webp"},
 
   {
-    id: "forest-grunewald-extra",
+    id: "forest-grunewald-extra", "sights": {
+      "de": [
+            {
+                  "name": "Hundebadestelle",
+                  "text": "Hundebadestelle im Grunewald bei Berlin.",
+                  "category": "recreational",
+                  "coords": [
+                        13.259048,
+                        52.480219
+                  ]
+            },
+            {
+                  "name": "Radfahrerwiese",
+                  "text": "Die Radfahrerwiese befindet sich im Grunewald.",
+                  "category": "recreational",
+                  "coords": [
+                        13.18958,
+                        52.458791
+                  ]
+            },
+            {
+                  "name": "Badestrand für Alle",
+                  "text": "Dieser Badestrand im Grunewald ist ein beliebtes Ausflugsziel in Berlin.",
+                  "category": "recreational",
+                  "coords": [
+                        13.239586,
+                        52.454429
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hundebadestelle",
+                  "text": "Kutyás fürdőhely a berlini Grunewald erdőben.",
+                  "category": "recreational",
+                  "coords": [
+                        13.259048,
+                        52.480219
+                  ]
+            },
+            {
+                  "name": "Radfahrerwiese",
+                  "text": "A Radfahrerwiese a Grunewald erdőben található.",
+                  "category": "recreational",
+                  "coords": [
+                        13.18958,
+                        52.458791
+                  ]
+            },
+            {
+                  "name": "Badestrand für Alle",
+                  "text": "Ez a Grunewald-i strand egy népszerű kirándulóhely Berlinben.",
+                  "category": "recreational",
+                  "coords": [
+                        13.239586,
+                        52.454429
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hundebadestelle",
+                  "text": "Zonă de îmbăiere pentru câini în pădurea Grunewald, lângă Berlin.",
+                  "category": "recreational",
+                  "coords": [
+                        13.259048,
+                        52.480219
+                  ]
+            },
+            {
+                  "name": "Radfahrerwiese",
+                  "text": "Radfahrerwiese se află în pădurea Grunewald.",
+                  "category": "recreational",
+                  "coords": [
+                        13.18958,
+                        52.458791
+                  ]
+            },
+            {
+                  "name": "Badestrand für Alle",
+                  "text": "Această plajă din Grunewald este o destinație populară de excursie în Berlin.",
+                  "category": "recreational",
+                  "coords": [
+                        13.239586,
+                        52.454429
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hundebadestelle",
+                  "text": "Dog beach in the Grunewald forest near Berlin.",
+                  "category": "recreational",
+                  "coords": [
+                        13.259048,
+                        52.480219
+                  ]
+            },
+            {
+                  "name": "Radfahrerwiese",
+                  "text": "Radfahrerwiese is located in the Grunewald forest.",
+                  "category": "recreational",
+                  "coords": [
+                        13.18958,
+                        52.458791
+                  ]
+            },
+            {
+                  "name": "Badestrand für Alle",
+                  "text": "This beach in Grunewald is a popular destination in Berlin.",
+                  "category": "recreational",
+                  "coords": [
+                        13.239586,
+                        52.454429
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "DE-BE",
     coords: [13.2167, 52.4833],
@@ -9039,7 +9273,88 @@ export const poiExtraDe1: POI[] = [
       "tr": ["Ormanlık alan yaklaşık 3.000 hektarlık bir yüzölçümünü kapsar.", "Jagdschloss Grunewald 1542 yılında tamamlanmıştır.", "Teufelsberg, 120,1 metre ile Berlin'in en yüksek noktalarından biridir.", "Grunewaldturm, 1899 yılında Wilhelm I. anısına açılmıştır.", "1915 yılında ormanın doğu kıyısında AVUS yarış pisti açılmıştır.", "Orta ağaçkakan gibi çok sayıda koruma altındaki hayvan türü burada yaşamaktadır."]}, image: "/poi-images/forest-grunewald-extra.webp"},
 
   {
-    id: "river-havel-berlin-extra",
+    id: "river-havel-berlin-extra", "sights": {
+      "de": [
+            {
+                  "name": "Kleine Badewiese",
+                  "text": "Kleine Badewiese an der Havel in Berlin.",
+                  "category": "recreational",
+                  "coords": [
+                        13.1858,
+                        52.484315
+                  ]
+            },
+            {
+                  "name": "Kuhhorn",
+                  "text": "Strand Kuhhorn an der Havel in Berlin.",
+                  "category": "recreational",
+                  "coords": [
+                        13.191111,
+                        52.488006
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kleine Badewiese",
+                  "text": "Kleine Badewiese a berlini Havel folyónál.",
+                  "category": "recreational",
+                  "coords": [
+                        13.1858,
+                        52.484315
+                  ]
+            },
+            {
+                  "name": "Kuhhorn",
+                  "text": "Kuhhorn strand a berlini Havel folyónál.",
+                  "category": "recreational",
+                  "coords": [
+                        13.191111,
+                        52.488006
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kleine Badewiese",
+                  "text": "Kleine Badewiese pe râul Havel în Berlin.",
+                  "category": "recreational",
+                  "coords": [
+                        13.1858,
+                        52.484315
+                  ]
+            },
+            {
+                  "name": "Kuhhorn",
+                  "text": "Plaja Kuhhorn de pe râul Havel, Berlin.",
+                  "category": "recreational",
+                  "coords": [
+                        13.191111,
+                        52.488006
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kleine Badewiese",
+                  "text": "Kleine Badewiese on the river Havel in Berlin.",
+                  "category": "recreational",
+                  "coords": [
+                        13.1858,
+                        52.484315
+                  ]
+            },
+            {
+                  "name": "Kuhhorn",
+                  "text": "Kuhhorn beach on the Havel river in Berlin.",
+                  "category": "recreational",
+                  "coords": [
+                        13.191111,
+                        52.488006
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "DE-BE",
     coords: [13.2050, 52.4900],
@@ -9328,7 +9643,160 @@ export const poiExtraDe1: POI[] = [
       "tr": ["Caddenin toplam uzunluğu tam olarak 3,5 kilometredir.", "Görkemli bir bulvar olarak genişletilmesi 1875 yılında Bismarck tarafından kararlaştırıldı.", "1886 yılında Kurfürstendamm üzerinden ilk buharlı tramvay geçti.", "Efsanevi Café Kranzler burada 1932 yılında açıldı.", "Bulvarın genişliği 53 metredir.", "Ku’damm, Gedächtniskirche ile Breitscheidplatz'da sona erer."]}, image: "/poi-images/landmark-kurfuerstendamm-extra.webp"},
 
   {
-    id: "lake-mueggelsee-extra",
+    id: "lake-mueggelsee-extra", "sights": {
+      "de": [
+            {
+                  "name": "Badestelle Kleiner Müggelsee",
+                  "text": "Badestelle am kleinen Müggelsee.",
+                  "category": "recreational",
+                  "coords": [
+                        13.677312,
+                        52.428225
+                  ]
+            },
+            {
+                  "name": "Kamerun",
+                  "text": "Der Strand Kamerun liegt am Müggelsee.",
+                  "category": "recreational",
+                  "coords": [
+                        13.604607,
+                        52.449456
+                  ]
+            },
+            {
+                  "name": "Läufer",
+                  "text": "Der Strand Läufer liegt am Müggelsee.",
+                  "category": "recreational",
+                  "coords": [
+                        13.622312,
+                        52.441511
+                  ]
+            },
+            {
+                  "name": "Surferwiese",
+                  "text": "Die Surferwiese liegt am Müggelsee.",
+                  "category": "recreational",
+                  "coords": [
+                        13.652906,
+                        52.448489
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Badestelle Kleiner Müggelsee",
+                  "text": "Fürdőhely a kis Müggelsee tónál.",
+                  "category": "recreational",
+                  "coords": [
+                        13.677312,
+                        52.428225
+                  ]
+            },
+            {
+                  "name": "Kamerun",
+                  "text": "A Kamerun strand a Müggelsee tónál található.",
+                  "category": "recreational",
+                  "coords": [
+                        13.604607,
+                        52.449456
+                  ]
+            },
+            {
+                  "name": "Läufer",
+                  "text": "A Läufer strand a Müggelsee tónál található.",
+                  "category": "recreational",
+                  "coords": [
+                        13.622312,
+                        52.441511
+                  ]
+            },
+            {
+                  "name": "Surferwiese",
+                  "text": "A Surferwiese fürdőhely a Müggelsee tónál található.",
+                  "category": "recreational",
+                  "coords": [
+                        13.652906,
+                        52.448489
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Badestelle Kleiner Müggelsee",
+                  "text": "Loc de scăldat la lacul mic Müggelsee.",
+                  "category": "recreational",
+                  "coords": [
+                        13.677312,
+                        52.428225
+                  ]
+            },
+            {
+                  "name": "Kamerun",
+                  "text": "Plaja Kamerun este situată la lacul Müggelsee.",
+                  "category": "recreational",
+                  "coords": [
+                        13.604607,
+                        52.449456
+                  ]
+            },
+            {
+                  "name": "Läufer",
+                  "text": "Plaja Läufer este situată la lacul Müggelsee.",
+                  "category": "recreational",
+                  "coords": [
+                        13.622312,
+                        52.441511
+                  ]
+            },
+            {
+                  "name": "Surferwiese",
+                  "text": "Surferwiese este situată la lacul Müggelsee.",
+                  "category": "recreational",
+                  "coords": [
+                        13.652906,
+                        52.448489
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Badestelle Kleiner Müggelsee",
+                  "text": "Bathing area at the small Müggelsee lake.",
+                  "category": "recreational",
+                  "coords": [
+                        13.677312,
+                        52.428225
+                  ]
+            },
+            {
+                  "name": "Kamerun",
+                  "text": "Kamerun beach is located on Lake Mueggelsee.",
+                  "category": "recreational",
+                  "coords": [
+                        13.604607,
+                        52.449456
+                  ]
+            },
+            {
+                  "name": "Läufer",
+                  "text": "Läufer beach is located on Lake Mueggelsee.",
+                  "category": "recreational",
+                  "coords": [
+                        13.622312,
+                        52.441511
+                  ]
+            },
+            {
+                  "name": "Surferwiese",
+                  "text": "Surferwiese is located on Lake Mueggelsee.",
+                  "category": "recreational",
+                  "coords": [
+                        13.652906,
+                        52.448489
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "DE-BE",
     coords: [13.6500, 52.4333],

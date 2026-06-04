@@ -48,7 +48,52 @@ export const maltaNatureV2: POI[] = [
     image: "/poi-images/malta-wied-il-ghasri-canyon-nature-v2.webp",
   },
   {
-    id: "malta-xrobb-l-ghagin-coastal-park-nature-v2",
+    id: "malta-xrobb-l-ghagin-coastal-park-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Xrobb l-Għagin",
+                  "text": "Xrobb l-Għagin ist eine Bucht im Xrobb l-Għagin Naturpark.",
+                  "category": "recreational",
+                  "coords": [
+                        14.568406,
+                        35.840683
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Xrobb l-Għagin",
+                  "text": "Xrobb l-Għagin egy öböl a Xrobb l-Għagin természetvédelmi parkban.",
+                  "category": "recreational",
+                  "coords": [
+                        14.568406,
+                        35.840683
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Xrobb l-Għagin",
+                  "text": "Xrobb l-Għagin este un golf situat în parcul natural Xrobb l-Għagin.",
+                  "category": "recreational",
+                  "coords": [
+                        14.568406,
+                        35.840683
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Xrobb l-Għagin",
+                  "text": "Xrobb l-Għagin is a bay located within the Xrobb l-Għagin coastal park.",
+                  "category": "recreational",
+                  "coords": [
+                        14.568406,
+                        35.840683
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "MT",
     name: { de: "Xrobb l-Għaġin Küstenpark", hu: "Xrobb l-Għaġin tengerparti park", ro: "Parcul de coastă Xrobb l-Għaġin", en: "Xrobb l-Għaġin Coastal Park" },

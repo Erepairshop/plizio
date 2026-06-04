@@ -3,7 +3,52 @@ import { POI } from './poi';
 export const albaniaNatureV2: POI[] = [
 
   {
-    id: "albania-shkodra-lake-nature-v2",
+    id: "albania-shkodra-lake-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plaža Murići",
+                  "text": "Plaža Murići am Skutarisee.",
+                  "category": "recreational",
+                  "coords": [
+                        19.22369,
+                        42.162019
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plaža Murići",
+                  "text": "Plaža Murići strand a Shkodra-tónál.",
+                  "category": "recreational",
+                  "coords": [
+                        19.22369,
+                        42.162019
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plaža Murići",
+                  "text": "Plaja Plaža Murići la Lacul Shkodra.",
+                  "category": "recreational",
+                  "coords": [
+                        19.22369,
+                        42.162019
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plaža Murići",
+                  "text": "Plaža Murići beach at Shkodra Lake.",
+                  "category": "recreational",
+                  "coords": [
+                        19.22369,
+                        42.162019
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "lake",
     name: { de: "Skutarisee", hu: "Shkodrai-tó", ro: "Lacul Shkodra", en: "Lake Shkodra"},
@@ -49,7 +94,124 @@ imageHint: "Lake Shkodra panorama with mountains and water lilies",
     },
     image: "/poi-images/albania-shkodra-lake-nature-v2.webp",
 },  {
-    id: "albania-vjosa-river-nature-v2",
+    id: "albania-vjosa-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plazhi Vega",
+                  "text": "Strand am Vjosa-Fluss.",
+                  "category": "recreational",
+                  "coords": [
+                        19.478781,
+                        40.39378
+                  ]
+            },
+            {
+                  "name": "Plazhi Nimfa",
+                  "text": "Strand am Vjosa-Fluss.",
+                  "category": "recreational",
+                  "coords": [
+                        19.480012,
+                        40.405992
+                  ]
+            },
+            {
+                  "name": "La Playa Beach",
+                  "text": "Strand am Vjosa-Fluss.",
+                  "category": "recreational",
+                  "coords": [
+                        19.478451,
+                        40.396628
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plazhi Vega",
+                  "text": "Strand a Vjosa folyónál.",
+                  "category": "recreational",
+                  "coords": [
+                        19.478781,
+                        40.39378
+                  ]
+            },
+            {
+                  "name": "Plazhi Nimfa",
+                  "text": "Strand a Vjosa folyó mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        19.480012,
+                        40.405992
+                  ]
+            },
+            {
+                  "name": "La Playa Beach",
+                  "text": "Strand a Vjosa folyó mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        19.478451,
+                        40.396628
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plazhi Vega",
+                  "text": "Plajă la râul Vjosa.",
+                  "category": "recreational",
+                  "coords": [
+                        19.478781,
+                        40.39378
+                  ]
+            },
+            {
+                  "name": "Plazhi Nimfa",
+                  "text": "Plajă de-a lungul râului Vjosa.",
+                  "category": "recreational",
+                  "coords": [
+                        19.480012,
+                        40.405992
+                  ]
+            },
+            {
+                  "name": "La Playa Beach",
+                  "text": "Plajă de-a lungul râului Vjosa.",
+                  "category": "recreational",
+                  "coords": [
+                        19.478451,
+                        40.396628
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plazhi Vega",
+                  "text": "Beach on the Vjosa River.",
+                  "category": "recreational",
+                  "coords": [
+                        19.478781,
+                        40.39378
+                  ]
+            },
+            {
+                  "name": "Plazhi Nimfa",
+                  "text": "Beach along the Vjosa River.",
+                  "category": "recreational",
+                  "coords": [
+                        19.480012,
+                        40.405992
+                  ]
+            },
+            {
+                  "name": "La Playa Beach",
+                  "text": "Beach along the Vjosa River.",
+                  "category": "recreational",
+                  "coords": [
+                        19.478451,
+                        40.396628
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "river",
     name: { de: "Vjosa", hu: "Vjosa-folyó", ro: "Râul Vjosa", en: "Vjosa River"},
@@ -187,7 +349,124 @@ imageHint: "Deep blue water spring Syri i Kalter in the forest",
     },
     image: "/poi-images/albania-blue-eye-nature-v2.webp",
 },  {
-    id: "albania-karaburun-peninsula-nature-v2",
+    id: "albania-karaburun-peninsula-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mouth of God",
+                  "text": "Naturbelassener Strand auf der Karaburun-Halbinsel.",
+                  "category": "recreational",
+                  "coords": [
+                        19.40644,
+                        40.371977
+                  ]
+            },
+            {
+                  "name": "Dafina Beach",
+                  "text": "Dafina Strand auf der Halbinsel Karaburun.",
+                  "category": "recreational",
+                  "coords": [
+                        19.363875,
+                        40.351072
+                  ]
+            },
+            {
+                  "name": "Zhanpovel",
+                  "text": "Strand auf der Halbinsel Karaburun.",
+                  "category": "recreational",
+                  "coords": [
+                        19.400975,
+                        40.382253
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mouth of God",
+                  "text": "Természetes strand a Karaburun-félszigeten.",
+                  "category": "recreational",
+                  "coords": [
+                        19.40644,
+                        40.371977
+                  ]
+            },
+            {
+                  "name": "Dafina Beach",
+                  "text": "Dafina strand a Karaburun-félszigeten.",
+                  "category": "recreational",
+                  "coords": [
+                        19.363875,
+                        40.351072
+                  ]
+            },
+            {
+                  "name": "Zhanpovel",
+                  "text": "Strand a Karaburun-félszigeten.",
+                  "category": "recreational",
+                  "coords": [
+                        19.400975,
+                        40.382253
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mouth of God",
+                  "text": "Plajă naturală pe peninsula Karaburun.",
+                  "category": "recreational",
+                  "coords": [
+                        19.40644,
+                        40.371977
+                  ]
+            },
+            {
+                  "name": "Dafina Beach",
+                  "text": "Plaja Dafina pe Peninsula Karaburun.",
+                  "category": "recreational",
+                  "coords": [
+                        19.363875,
+                        40.351072
+                  ]
+            },
+            {
+                  "name": "Zhanpovel",
+                  "text": "Plajă pe Peninsula Karaburun.",
+                  "category": "recreational",
+                  "coords": [
+                        19.400975,
+                        40.382253
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mouth of God",
+                  "text": "Natural beach on the Karaburun Peninsula.",
+                  "category": "recreational",
+                  "coords": [
+                        19.40644,
+                        40.371977
+                  ]
+            },
+            {
+                  "name": "Dafina Beach",
+                  "text": "Dafina Beach on the Karaburun Peninsula.",
+                  "category": "recreational",
+                  "coords": [
+                        19.363875,
+                        40.351072
+                  ]
+            },
+            {
+                  "name": "Zhanpovel",
+                  "text": "Beach on the Karaburun Peninsula.",
+                  "category": "recreational",
+                  "coords": [
+                        19.400975,
+                        40.382253
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "landmark",
     name: { de: "Karaburun-Halbinsel", hu: "Karaburun-félsziget", ro: "Peninsula Karaburun", en: "Karaburun Peninsula"},
@@ -324,7 +603,340 @@ imageHint: "Snowy peak of Mount Tomorr above the clouds",
       fr: ["Le plus haut sommet culmine à 2 416 mètres.", "Le parc national a été créé en 1956.", "Couvre une superficie totale d'environ 26 106 hectares.", "Centre du pèlerinage annuel Bektashi en août.", "Abrite des plantes rares comme la campanule du Tomorr.", "Enneigé de novembre jusqu'au mois de mai fréquemment."],
     },
   },  {
-    id: "albania-ksamil-islands-nature-v2",
+    id: "albania-ksamil-islands-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plazhi i Pasqyrave",
+                  "text": "Bekannter Strand nahe der Ksamil-Inseln.",
+                  "category": "recreational",
+                  "coords": [
+                        20.005038,
+                        39.804314
+                  ]
+            },
+            {
+                  "name": "Shpella e Pëllumbave",
+                  "text": "Strand nahe der Ksamil-Inseln.",
+                  "category": "recreational",
+                  "coords": [
+                        20.004045,
+                        39.802923
+                  ]
+            },
+            {
+                  "name": "Plazhi i Pulëbardhës",
+                  "text": "Strand nahe der Ksamil-Inseln.",
+                  "category": "recreational",
+                  "coords": [
+                        20.000741,
+                        39.800484
+                  ]
+            },
+            {
+                  "name": "Gjiri i Hartës",
+                  "text": "Strand bei den Inseln von Ksamil.",
+                  "category": "recreational",
+                  "coords": [
+                        20.002343,
+                        39.792563
+                  ]
+            },
+            {
+                  "name": "Pema e Thatë",
+                  "text": "Strand bei den Ksamil-Inseln, bekannt für klares Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        19.974812,
+                        39.748899
+                  ]
+            },
+            {
+                  "name": "Puerto Rico Beach",
+                  "text": "Strand bei den Ksamil-Inseln.",
+                  "category": "recreational",
+                  "coords": [
+                        19.993562,
+                        39.767138
+                  ]
+            },
+            {
+                  "name": "Gjiri i Blistë",
+                  "text": "Bucht bei den Inseln von Ksamil.",
+                  "category": "recreational",
+                  "coords": [
+                        19.973971,
+                        39.753969
+                  ]
+            },
+            {
+                  "name": "Arameras Beach",
+                  "text": "Strand bei den Inseln von Ksamil.",
+                  "category": "recreational",
+                  "coords": [
+                        19.976316,
+                        39.757009
+                  ]
+            },
+            {
+                  "name": "Plazhi i Manastirit",
+                  "text": "Plazhi i Manastirit ist ein Strand nahe Ksamil.",
+                  "category": "recreational",
+                  "coords": [
+                        20.010252,
+                        39.813225
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plazhi i Pasqyrave",
+                  "text": "Ismert strand a Ksamil-szigetek közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        20.005038,
+                        39.804314
+                  ]
+            },
+            {
+                  "name": "Shpella e Pëllumbave",
+                  "text": "Strand a Ksamil-szigetek közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        20.004045,
+                        39.802923
+                  ]
+            },
+            {
+                  "name": "Plazhi i Pulëbardhës",
+                  "text": "Strand a Ksamil-szigetek közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        20.000741,
+                        39.800484
+                  ]
+            },
+            {
+                  "name": "Gjiri i Hartës",
+                  "text": "Strand a Ksamil-szigeteknél.",
+                  "category": "recreational",
+                  "coords": [
+                        20.002343,
+                        39.792563
+                  ]
+            },
+            {
+                  "name": "Pema e Thatë",
+                  "text": "Strand a Ksamil-szigeteknél, amely tiszta vizéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        19.974812,
+                        39.748899
+                  ]
+            },
+            {
+                  "name": "Puerto Rico Beach",
+                  "text": "Strand a Ksamil-szigeteknél.",
+                  "category": "recreational",
+                  "coords": [
+                        19.993562,
+                        39.767138
+                  ]
+            },
+            {
+                  "name": "Gjiri i Blistë",
+                  "text": "Öböl a Ksamil-szigeteknél.",
+                  "category": "recreational",
+                  "coords": [
+                        19.973971,
+                        39.753969
+                  ]
+            },
+            {
+                  "name": "Arameras Beach",
+                  "text": "Strand a Ksamil-szigeteknél.",
+                  "category": "recreational",
+                  "coords": [
+                        19.976316,
+                        39.757009
+                  ]
+            },
+            {
+                  "name": "Plazhi i Manastirit",
+                  "text": "Plazhi i Manastirit egy strand Ksamil közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        20.010252,
+                        39.813225
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plazhi i Pasqyrave",
+                  "text": "Plajă populară lângă insulele Ksamil.",
+                  "category": "recreational",
+                  "coords": [
+                        20.005038,
+                        39.804314
+                  ]
+            },
+            {
+                  "name": "Shpella e Pëllumbave",
+                  "text": "Plajă lângă insulele Ksamil.",
+                  "category": "recreational",
+                  "coords": [
+                        20.004045,
+                        39.802923
+                  ]
+            },
+            {
+                  "name": "Plazhi i Pulëbardhës",
+                  "text": "Plajă lângă insulele Ksamil.",
+                  "category": "recreational",
+                  "coords": [
+                        20.000741,
+                        39.800484
+                  ]
+            },
+            {
+                  "name": "Gjiri i Hartës",
+                  "text": "Plajă lângă Insulele Ksamil.",
+                  "category": "recreational",
+                  "coords": [
+                        20.002343,
+                        39.792563
+                  ]
+            },
+            {
+                  "name": "Pema e Thatë",
+                  "text": "Plajă lângă insulele Ksamil, cunoscută pentru apele sale limpezi.",
+                  "category": "recreational",
+                  "coords": [
+                        19.974812,
+                        39.748899
+                  ]
+            },
+            {
+                  "name": "Puerto Rico Beach",
+                  "text": "Plajă lângă insulele Ksamil.",
+                  "category": "recreational",
+                  "coords": [
+                        19.993562,
+                        39.767138
+                  ]
+            },
+            {
+                  "name": "Gjiri i Blistë",
+                  "text": "Golf lângă insulele Ksamil.",
+                  "category": "recreational",
+                  "coords": [
+                        19.973971,
+                        39.753969
+                  ]
+            },
+            {
+                  "name": "Arameras Beach",
+                  "text": "Plajă lângă insulele Ksamil.",
+                  "category": "recreational",
+                  "coords": [
+                        19.976316,
+                        39.757009
+                  ]
+            },
+            {
+                  "name": "Plazhi i Manastirit",
+                  "text": "Plazhi i Manastirit este o plajă lângă Ksamil.",
+                  "category": "recreational",
+                  "coords": [
+                        20.010252,
+                        39.813225
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plazhi i Pasqyrave",
+                  "text": "Popular beach near the Ksamil Islands.",
+                  "category": "recreational",
+                  "coords": [
+                        20.005038,
+                        39.804314
+                  ]
+            },
+            {
+                  "name": "Shpella e Pëllumbave",
+                  "text": "Beach near the Ksamil Islands.",
+                  "category": "recreational",
+                  "coords": [
+                        20.004045,
+                        39.802923
+                  ]
+            },
+            {
+                  "name": "Plazhi i Pulëbardhës",
+                  "text": "Beach near the Ksamil Islands.",
+                  "category": "recreational",
+                  "coords": [
+                        20.000741,
+                        39.800484
+                  ]
+            },
+            {
+                  "name": "Gjiri i Hartës",
+                  "text": "Beach near the Ksamil islands.",
+                  "category": "recreational",
+                  "coords": [
+                        20.002343,
+                        39.792563
+                  ]
+            },
+            {
+                  "name": "Pema e Thatë",
+                  "text": "Beach near the Ksamil Islands, known for its clear waters.",
+                  "category": "recreational",
+                  "coords": [
+                        19.974812,
+                        39.748899
+                  ]
+            },
+            {
+                  "name": "Puerto Rico Beach",
+                  "text": "Beach near the Ksamil Islands.",
+                  "category": "recreational",
+                  "coords": [
+                        19.993562,
+                        39.767138
+                  ]
+            },
+            {
+                  "name": "Gjiri i Blistë",
+                  "text": "Bay near the Ksamil Islands.",
+                  "category": "recreational",
+                  "coords": [
+                        19.973971,
+                        39.753969
+                  ]
+            },
+            {
+                  "name": "Arameras Beach",
+                  "text": "Beach near the Ksamil Islands.",
+                  "category": "recreational",
+                  "coords": [
+                        19.976316,
+                        39.757009
+                  ]
+            },
+            {
+                  "name": "Plazhi i Manastirit",
+                  "text": "Plazhi i Manastirit is a beach near Ksamil.",
+                  "category": "recreational",
+                  "coords": [
+                        20.010252,
+                        39.813225
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "landmark",
     name: { de: "Ksamil-Inseln", hu: "Ksamil-szigetek", ro: "Insulele Ksamil", en: "Ksamil Islands"},
@@ -784,7 +1396,196 @@ imageHint: "Multiple white cascades of Sotira Waterfall on a cliff",
     },
     image: "/poi-images/albania-sotira-waterfall-nature-v2.webp",
 },  {
-    id: "albania-gjipe-canyon-nature-v2",
+    id: "albania-gjipe-canyon-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plazhi i Gjipes",
+                  "text": "Bekannter Strand am Ende des Gjipe-Canyons.",
+                  "category": "recreational",
+                  "coords": [
+                        19.670426,
+                        40.126584
+                  ]
+            },
+            {
+                  "name": "Foile Marina",
+                  "text": "Strand im Gebiet des Gjipe-Canyons.",
+                  "category": "recreational",
+                  "coords": [
+                        19.698446,
+                        40.121363
+                  ]
+            },
+            {
+                  "name": "Plazhi i Jalës",
+                  "text": "Strand in der Nähe der Gjipe-Schlucht.",
+                  "category": "recreational",
+                  "coords": [
+                        19.701368,
+                        40.119429
+                  ]
+            },
+            {
+                  "name": "Plazhi i Shpellës",
+                  "text": "Strand in der Nähe der Gjipe-Schlucht.",
+                  "category": "recreational",
+                  "coords": [
+                        19.677094,
+                        40.124723
+                  ]
+            },
+            {
+                  "name": "Goat beach",
+                  "text": "Strand in der Nähe der Gjipe-Schlucht.",
+                  "category": "recreational",
+                  "coords": [
+                        19.692295,
+                        40.12244
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plazhi i Gjipes",
+                  "text": "Ismert strand a Gjipe-kanyon végénél.",
+                  "category": "recreational",
+                  "coords": [
+                        19.670426,
+                        40.126584
+                  ]
+            },
+            {
+                  "name": "Foile Marina",
+                  "text": "Strand a Gjipe-kanyon környékén.",
+                  "category": "recreational",
+                  "coords": [
+                        19.698446,
+                        40.121363
+                  ]
+            },
+            {
+                  "name": "Plazhi i Jalës",
+                  "text": "Strand a Gjipe-szurdok közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        19.701368,
+                        40.119429
+                  ]
+            },
+            {
+                  "name": "Plazhi i Shpellës",
+                  "text": "Strand a Gjipe-szurdok közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        19.677094,
+                        40.124723
+                  ]
+            },
+            {
+                  "name": "Goat beach",
+                  "text": "Strand a Gjipe-szurdok közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        19.692295,
+                        40.12244
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plazhi i Gjipes",
+                  "text": "Plajă cunoscută la capătul canionului Gjipe.",
+                  "category": "recreational",
+                  "coords": [
+                        19.670426,
+                        40.126584
+                  ]
+            },
+            {
+                  "name": "Foile Marina",
+                  "text": "Plajă în zona canionului Gjipe.",
+                  "category": "recreational",
+                  "coords": [
+                        19.698446,
+                        40.121363
+                  ]
+            },
+            {
+                  "name": "Plazhi i Jalës",
+                  "text": "Plajă lângă canionul Gjipe.",
+                  "category": "recreational",
+                  "coords": [
+                        19.701368,
+                        40.119429
+                  ]
+            },
+            {
+                  "name": "Plazhi i Shpellës",
+                  "text": "Plajă lângă canionul Gjipe.",
+                  "category": "recreational",
+                  "coords": [
+                        19.677094,
+                        40.124723
+                  ]
+            },
+            {
+                  "name": "Goat beach",
+                  "text": "Plajă lângă canionul Gjipe.",
+                  "category": "recreational",
+                  "coords": [
+                        19.692295,
+                        40.12244
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plazhi i Gjipes",
+                  "text": "Well-known beach at the end of Gjipe Canyon.",
+                  "category": "recreational",
+                  "coords": [
+                        19.670426,
+                        40.126584
+                  ]
+            },
+            {
+                  "name": "Foile Marina",
+                  "text": "Beach in the Gjipe Canyon area.",
+                  "category": "recreational",
+                  "coords": [
+                        19.698446,
+                        40.121363
+                  ]
+            },
+            {
+                  "name": "Plazhi i Jalës",
+                  "text": "Beach near the Gjipe Canyon.",
+                  "category": "recreational",
+                  "coords": [
+                        19.701368,
+                        40.119429
+                  ]
+            },
+            {
+                  "name": "Plazhi i Shpellës",
+                  "text": "Beach near the Gjipe Canyon.",
+                  "category": "recreational",
+                  "coords": [
+                        19.677094,
+                        40.124723
+                  ]
+            },
+            {
+                  "name": "Goat beach",
+                  "text": "Beach near the Gjipe Canyon.",
+                  "category": "recreational",
+                  "coords": [
+                        19.692295,
+                        40.12244
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "valley",
     name: { de: "Gjipe-Schlucht", hu: "Gjipe-kanyon", ro: "Canionul Gjipe", en: "Gjipe Canyon"},
@@ -830,7 +1631,52 @@ imageHint: "Narrow canyon Gjipe opening to a small beach",
     },
     image: "/poi-images/albania-gjipe-canyon-nature-v2.webp",
 },  {
-    id: "albania-buna-river-nature-v2",
+    id: "albania-buna-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ada Bojana Plaža",
+                  "text": "Der Ada Bojana Strand liegt am Fluss Buna.",
+                  "category": "recreational",
+                  "coords": [
+                        19.366834,
+                        41.848887
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ada Bojana Plaža",
+                  "text": "Ada Bojana strandja a Buna folyónál található.",
+                  "category": "recreational",
+                  "coords": [
+                        19.366834,
+                        41.848887
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ada Bojana Plaža",
+                  "text": "Plaja Ada Bojana este situată pe râul Buna.",
+                  "category": "recreational",
+                  "coords": [
+                        19.366834,
+                        41.848887
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ada Bojana Plaža",
+                  "text": "Ada Bojana beach is located on the Buna River.",
+                  "category": "recreational",
+                  "coords": [
+                        19.366834,
+                        41.848887
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "river",
     name: { de: "Buna", hu: "Buna-folyó", ro: "Râul Buna", en: "Buna River"},
@@ -1194,7 +2040,160 @@ imageHint: "Mat River flowing through mountain canyon",
     },
     image: "/poi-images/albania-mat-river-nature-v2.webp",
 },  {
-    id: "albania-grama-bay-nature-v2",
+    id: "albania-grama-bay-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plazhi i Gramës",
+                  "text": "Der Strand von Grama liegt in der geschützten Grama-Bucht.",
+                  "category": "recreational",
+                  "coords": [
+                        19.47339,
+                        40.216366
+                  ]
+            },
+            {
+                  "name": "San Andrea Beach",
+                  "text": "San Andrea Strand bei der Grama-Bucht.",
+                  "category": "recreational",
+                  "coords": [
+                        19.506972,
+                        40.197554
+                  ]
+            },
+            {
+                  "name": "Plazhi i Llovizit",
+                  "text": "Strand in der Grama-Bucht.",
+                  "category": "recreational",
+                  "coords": [
+                        19.460302,
+                        40.226665
+                  ]
+            },
+            {
+                  "name": "English Bay",
+                  "text": "English Bay liegt in der Bucht von Grama.",
+                  "category": "recreational",
+                  "coords": [
+                        19.437303,
+                        40.245044
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plazhi i Gramës",
+                  "text": "Grama strandja a védett Grama-öbölben található.",
+                  "category": "recreational",
+                  "coords": [
+                        19.47339,
+                        40.216366
+                  ]
+            },
+            {
+                  "name": "San Andrea Beach",
+                  "text": "San Andrea strand a Grama-öbölnél.",
+                  "category": "recreational",
+                  "coords": [
+                        19.506972,
+                        40.197554
+                  ]
+            },
+            {
+                  "name": "Plazhi i Llovizit",
+                  "text": "Strand a Grama-öbölben.",
+                  "category": "recreational",
+                  "coords": [
+                        19.460302,
+                        40.226665
+                  ]
+            },
+            {
+                  "name": "English Bay",
+                  "text": "English Bay a Grama-öbölben található.",
+                  "category": "recreational",
+                  "coords": [
+                        19.437303,
+                        40.245044
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plazhi i Gramës",
+                  "text": "Plaja Grama este situată în golful protejat Grama.",
+                  "category": "recreational",
+                  "coords": [
+                        19.47339,
+                        40.216366
+                  ]
+            },
+            {
+                  "name": "San Andrea Beach",
+                  "text": "Plaja San Andrea lângă Golful Grama.",
+                  "category": "recreational",
+                  "coords": [
+                        19.506972,
+                        40.197554
+                  ]
+            },
+            {
+                  "name": "Plazhi i Llovizit",
+                  "text": "Plajă în Golful Grama.",
+                  "category": "recreational",
+                  "coords": [
+                        19.460302,
+                        40.226665
+                  ]
+            },
+            {
+                  "name": "English Bay",
+                  "text": "English Bay se află în golful Grama.",
+                  "category": "recreational",
+                  "coords": [
+                        19.437303,
+                        40.245044
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plazhi i Gramës",
+                  "text": "Grama Beach is located in the protected Grama Bay.",
+                  "category": "recreational",
+                  "coords": [
+                        19.47339,
+                        40.216366
+                  ]
+            },
+            {
+                  "name": "San Andrea Beach",
+                  "text": "San Andrea Beach near Grama Bay.",
+                  "category": "recreational",
+                  "coords": [
+                        19.506972,
+                        40.197554
+                  ]
+            },
+            {
+                  "name": "Plazhi i Llovizit",
+                  "text": "Beach located in Grama Bay.",
+                  "category": "recreational",
+                  "coords": [
+                        19.460302,
+                        40.226665
+                  ]
+            },
+            {
+                  "name": "English Bay",
+                  "text": "English Bay is located in Grama Bay.",
+                  "category": "recreational",
+                  "coords": [
+                        19.437303,
+                        40.245044
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "landmark",
     name: { de: "Grama-Bucht", hu: "Grama-öböl", ro: "Golful Grama", en: "Grama Bay"},

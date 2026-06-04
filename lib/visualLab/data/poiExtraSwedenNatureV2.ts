@@ -1240,7 +1240,52 @@ imageHint: "Iconic U-shaped mountain pass Lapporten under the midnight sun",
     },
     image: "/poi-images/sweden-lapporten-nature-v2.webp",
 },  {
-    id: "sweden-ume-river-nature-v2",
+    id: "sweden-ume-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tomtebobadet",
+                  "text": "Ein Badeplatz am Umeälven.",
+                  "category": "recreational",
+                  "coords": [
+                        20.347845,
+                        63.811954
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tomtebobadet",
+                  "text": "Fürdőhely az Ume folyónál.",
+                  "category": "recreational",
+                  "coords": [
+                        20.347845,
+                        63.811954
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tomtebobadet",
+                  "text": "Un loc de scăldat pe râul Ume.",
+                  "category": "recreational",
+                  "coords": [
+                        20.347845,
+                        63.811954
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tomtebobadet",
+                  "text": "A swimming spot on the Ume River.",
+                  "category": "recreational",
+                  "coords": [
+                        20.347845,
+                        63.811954
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "river",
     name: { de: "Umeälven", hu: "Ume-folyó", ro: "Râul Ume", en: "Ume River"},
@@ -1556,7 +1601,52 @@ imageHint: "Dramatic granite cliffs of the High Coast overlooking the sea",
     image: "/poi-images/sweden-tresticklan-forest-nature-v2.webp",
   },
   {
-    id: "sweden-skellefte-river-nature-v2",
+    id: "sweden-skellefte-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Örviken ställplats",
+                  "text": "Ein Badeplatz am Skellefteälven.",
+                  "category": "recreational",
+                  "coords": [
+                        21.165507,
+                        64.66968
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Örviken ställplats",
+                  "text": "Fürdőhely a Skellefte folyónál.",
+                  "category": "recreational",
+                  "coords": [
+                        21.165507,
+                        64.66968
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Örviken ställplats",
+                  "text": "Un loc de scăldat pe râul Skellefte.",
+                  "category": "recreational",
+                  "coords": [
+                        21.165507,
+                        64.66968
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Örviken ställplats",
+                  "text": "A swimming spot on the Skellefte River.",
+                  "category": "recreational",
+                  "coords": [
+                        21.165507,
+                        64.66968
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "SE",
     name: { de: "Skellefteälven", hu: "Skellefte-folyó", ro: "Râul Skellefte", en: "Skellefte River" },
@@ -1646,7 +1736,88 @@ imageHint: "Dramatic granite cliffs of the High Coast overlooking the sea",
     image: "/poi-images/sweden-brattfallet-waterfall-nature-v2.webp",
   },
   {
-    id: "sweden-angso-island-nature-v2",
+    id: "sweden-angso-island-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gärdsnäs strand",
+                  "text": "Gärdsnäs strand befindet sich auf der Insel Ängsö.",
+                  "category": "recreational",
+                  "coords": [
+                        18.720668,
+                        59.627616
+                  ]
+            },
+            {
+                  "name": "Gärdsnäs östra badplats",
+                  "text": "Gärdsnäs östra badplats liegt auf der Insel Ängsö.",
+                  "category": "recreational",
+                  "coords": [
+                        18.738662,
+                        59.6248
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gärdsnäs strand",
+                  "text": "Gärdsnäs strand az Ängsö szigeten található.",
+                  "category": "recreational",
+                  "coords": [
+                        18.720668,
+                        59.627616
+                  ]
+            },
+            {
+                  "name": "Gärdsnäs östra badplats",
+                  "text": "Gärdsnäs östra badplats az Ängsö szigeten található.",
+                  "category": "recreational",
+                  "coords": [
+                        18.738662,
+                        59.6248
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gärdsnäs strand",
+                  "text": "Gärdsnäs strand este situată pe insula Ängsö.",
+                  "category": "recreational",
+                  "coords": [
+                        18.720668,
+                        59.627616
+                  ]
+            },
+            {
+                  "name": "Gärdsnäs östra badplats",
+                  "text": "Gärdsnäs östra badplats este situată pe insula Ängsö.",
+                  "category": "recreational",
+                  "coords": [
+                        18.738662,
+                        59.6248
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gärdsnäs strand",
+                  "text": "Gärdsnäs strand is located on Ängsö island.",
+                  "category": "recreational",
+                  "coords": [
+                        18.720668,
+                        59.627616
+                  ]
+            },
+            {
+                  "name": "Gärdsnäs östra badplats",
+                  "text": "Gärdsnäs östra badplats is located on Ängsö island.",
+                  "category": "recreational",
+                  "coords": [
+                        18.738662,
+                        59.6248
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "SE",
     name: { de: "Ängsö Nationalpark", hu: "Ängsö Nemzeti Park", ro: "Parcul Național Ängsö", en: "Ängsö National Park" },
@@ -1691,7 +1862,52 @@ imageHint: "Dramatic granite cliffs of the High Coast overlooking the sea",
     image: "/poi-images/sweden-angso-island-nature-v2.webp",
   },
   {
-    id: "sweden-pite-river-nature-v2",
+    id: "sweden-pite-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Räkan",
+                  "text": "Strand am Piteälven.",
+                  "category": "recreational",
+                  "coords": [
+                        21.477853,
+                        65.339519
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Räkan",
+                  "text": "Part a Pite folyó mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        21.477853,
+                        65.339519
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Räkan",
+                  "text": "Plajă pe râul Pite.",
+                  "category": "recreational",
+                  "coords": [
+                        21.477853,
+                        65.339519
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Räkan",
+                  "text": "Beach near the Pite River.",
+                  "category": "recreational",
+                  "coords": [
+                        21.477853,
+                        65.339519
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "SE",
     name: { de: "Piteälven", hu: "Pite-folyó", ro: "Râul Pite", en: "Pite River" },

@@ -2576,7 +2576,160 @@ export const portugalNature: POI[] = [
     },
   },
   {
-    id: "river-rio-minho",
+    id: "river-rio-minho", "sights": {
+      "de": [
+            {
+                  "name": "Area Grande",
+                  "text": "Area Grande ist ein Strand in A Guarda.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.876461,
+                        41.910069
+                  ]
+            },
+            {
+                  "name": "Praia de Fedorento",
+                  "text": "Praia de Fedorento ist ein Strandgebiet in A Guarda.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.876276,
+                        41.908009
+                  ]
+            },
+            {
+                  "name": "Praia do Muíño",
+                  "text": "Praia do Muíño ist ein lokaler Strand in A Guarda.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.868549,
+                        41.872873
+                  ]
+            },
+            {
+                  "name": "Praia da Armona",
+                  "text": "Praia da Armona ist ein Strand in A Guarda.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.856023,
+                        41.882528
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Area Grande",
+                  "text": "Az Area Grande egy strand A Guardában.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.876461,
+                        41.910069
+                  ]
+            },
+            {
+                  "name": "Praia de Fedorento",
+                  "text": "A Praia de Fedorento egy strandterület A Guardában.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.876276,
+                        41.908009
+                  ]
+            },
+            {
+                  "name": "Praia do Muíño",
+                  "text": "A Praia do Muíño egy helyi strand A Guardában.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.868549,
+                        41.872873
+                  ]
+            },
+            {
+                  "name": "Praia da Armona",
+                  "text": "A Praia da Armona egy strand A Guardában.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.856023,
+                        41.882528
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Area Grande",
+                  "text": "Area Grande este o plajă situată în A Guarda.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.876461,
+                        41.910069
+                  ]
+            },
+            {
+                  "name": "Praia de Fedorento",
+                  "text": "Praia de Fedorento este o zonă de plajă aflată în A Guarda.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.876276,
+                        41.908009
+                  ]
+            },
+            {
+                  "name": "Praia do Muíño",
+                  "text": "Praia do Muíño este o plajă locală în A Guarda.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.868549,
+                        41.872873
+                  ]
+            },
+            {
+                  "name": "Praia da Armona",
+                  "text": "Praia da Armona este o plajă situată în A Guarda.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.856023,
+                        41.882528
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Area Grande",
+                  "text": "Area Grande is a beach located in A Guarda.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.876461,
+                        41.910069
+                  ]
+            },
+            {
+                  "name": "Praia de Fedorento",
+                  "text": "Praia de Fedorento is a beach area found in A Guarda.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.876276,
+                        41.908009
+                  ]
+            },
+            {
+                  "name": "Praia do Muíño",
+                  "text": "Praia do Muíño is a local beach in A Guarda.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.868549,
+                        41.872873
+                  ]
+            },
+            {
+                  "name": "Praia da Armona",
+                  "text": "Praia da Armona is a beach situated in A Guarda.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.856023,
+                        41.882528
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "city-viana-do-castelo",
     coords: [-8.843, 41.915],

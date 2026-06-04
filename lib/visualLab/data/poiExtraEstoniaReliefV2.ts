@@ -363,7 +363,52 @@ export const estoniaReliefV2: POI[] = [
     image: "/poi-images/estonia-laane-valja-relief-v2.webp",
   },
   {
-    id: "estonia-vahi-magi-hill-relief-v2",
+    id: "estonia-vahi-magi-hill-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kõrveküla supelrand",
+                  "text": "Kõrveküla-Badestrand beim Magi-Hügel.",
+                  "category": "recreational",
+                  "coords": [
+                        26.768235,
+                        58.424363
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kõrveküla supelrand",
+                  "text": "Kõrveküla strand a Magi-dombnál.",
+                  "category": "recreational",
+                  "coords": [
+                        26.768235,
+                        58.424363
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kõrveküla supelrand",
+                  "text": "Plaja Kõrveküla lângă dealul Magi.",
+                  "category": "recreational",
+                  "coords": [
+                        26.768235,
+                        58.424363
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kõrveküla supelrand",
+                  "text": "Kõrveküla beach near Magi Hill.",
+                  "category": "recreational",
+                  "coords": [
+                        26.768235,
+                        58.424363
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "EE",
     name: { de: "Vahi-Mägi", hu: "Vahi-Mägi-domb", ro: "Dealul Vahi-Mägi", en: "Vahi-Mägi" },
@@ -678,7 +723,124 @@ export const estoniaReliefV2: POI[] = [
     image: "/poi-images/estonia-kivi-magi-peak-relief-v2.webp",
   },
   {
-    id: "estonia-silla-magi-hill-relief-v2",
+    id: "estonia-silla-magi-hill-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nõo veskijärve supelrand",
+                  "text": "Strand am Veskijärv-See bei Nõo.",
+                  "category": "recreational",
+                  "coords": [
+                        26.523973,
+                        58.274298
+                  ]
+            },
+            {
+                  "name": "Tõravere tiigi supelrand",
+                  "text": "Strand am Tõravere-Teich.",
+                  "category": "recreational",
+                  "coords": [
+                        26.469564,
+                        58.267875
+                  ]
+            },
+            {
+                  "name": "Voika supelrand",
+                  "text": "Voika-Badestrand bei Silla-Mägi.",
+                  "category": "recreational",
+                  "coords": [
+                        26.479208,
+                        58.256064
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nõo veskijärve supelrand",
+                  "text": "Strand a Nõo melletti Veskijärv-tónál.",
+                  "category": "recreational",
+                  "coords": [
+                        26.523973,
+                        58.274298
+                  ]
+            },
+            {
+                  "name": "Tõravere tiigi supelrand",
+                  "text": "Strand a Tõravere-tónál.",
+                  "category": "recreational",
+                  "coords": [
+                        26.469564,
+                        58.267875
+                  ]
+            },
+            {
+                  "name": "Voika supelrand",
+                  "text": "Voika strand Silla-Mägi közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        26.479208,
+                        58.256064
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nõo veskijärve supelrand",
+                  "text": "Plajă la lacul Veskijärv de lângă Nõo.",
+                  "category": "recreational",
+                  "coords": [
+                        26.523973,
+                        58.274298
+                  ]
+            },
+            {
+                  "name": "Tõravere tiigi supelrand",
+                  "text": "Plajă la iazul Tõravere.",
+                  "category": "recreational",
+                  "coords": [
+                        26.469564,
+                        58.267875
+                  ]
+            },
+            {
+                  "name": "Voika supelrand",
+                  "text": "Plaja Voika lângă Silla-Mägi.",
+                  "category": "recreational",
+                  "coords": [
+                        26.479208,
+                        58.256064
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nõo veskijärve supelrand",
+                  "text": "Beach at Veskijärv lake near Nõo.",
+                  "category": "recreational",
+                  "coords": [
+                        26.523973,
+                        58.274298
+                  ]
+            },
+            {
+                  "name": "Tõravere tiigi supelrand",
+                  "text": "Beach at Tõravere pond.",
+                  "category": "recreational",
+                  "coords": [
+                        26.469564,
+                        58.267875
+                  ]
+            },
+            {
+                  "name": "Voika supelrand",
+                  "text": "Voika beach near Silla-Mägi.",
+                  "category": "recreational",
+                  "coords": [
+                        26.479208,
+                        58.256064
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "EE",
     name: { de: "Silla-Mägi", hu: "Silla-Mägi-domb", ro: "Dealul Silla-Mägi", en: "Silla-Mägi" },
@@ -813,7 +975,52 @@ export const estoniaReliefV2: POI[] = [
     image: "/poi-images/estonia-linna-magi-hill-relief-v2.webp",
   },
   {
-    id: "estonia-must-magi-hill-relief-v2",
+    id: "estonia-must-magi-hill-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Küti järve supelrand",
+                  "text": "Badestrand am Küti-See bei Mustamäe.",
+                  "category": "recreational",
+                  "coords": [
+                        26.819372,
+                        58.242188
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Küti järve supelrand",
+                  "text": "Strand a Küti-tónál, Mustamäe közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        26.819372,
+                        58.242188
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Küti järve supelrand",
+                  "text": "Plajă la lacul Küti, lângă Mustamäe.",
+                  "category": "recreational",
+                  "coords": [
+                        26.819372,
+                        58.242188
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Küti järve supelrand",
+                  "text": "Beach at Küti Lake near Mustamäe.",
+                  "category": "recreational",
+                  "coords": [
+                        26.819372,
+                        58.242188
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "EE",
     name: { de: "Must-Mägi", hu: "Must-Mägi-domb", ro: "Dealul Must-Mägi", en: "Must-Mägi" },
@@ -993,7 +1200,52 @@ export const estoniaReliefV2: POI[] = [
     image: "/poi-images/estonia-kruusa-magi-hill-relief-v2.webp",
   },
   {
-    id: "estonia-vana-magi-hill-relief-v2",
+    id: "estonia-vana-magi-hill-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kuremaa järve Änkküla supelrand",
+                  "text": "Strand am Kuremaa-See bei Änkküla.",
+                  "category": "recreational",
+                  "coords": [
+                        26.540911,
+                        58.718589
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kuremaa järve Änkküla supelrand",
+                  "text": "Strand a Kuremaa-tónál, Änkküla közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        26.540911,
+                        58.718589
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kuremaa järve Änkküla supelrand",
+                  "text": "Plajă la lacul Kuremaa lângă Änkküla.",
+                  "category": "recreational",
+                  "coords": [
+                        26.540911,
+                        58.718589
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kuremaa järve Änkküla supelrand",
+                  "text": "Beach at Kuremaa Lake near Änkküla.",
+                  "category": "recreational",
+                  "coords": [
+                        26.540911,
+                        58.718589
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "EE",
     name: { de: "Vana-Mägi", hu: "Vana-Mägi-domb", ro: "Dealul Vana-Mägi", en: "Vana-Mägi" },
@@ -1038,7 +1290,52 @@ export const estoniaReliefV2: POI[] = [
     image: "/poi-images/estonia-vana-magi-hill-relief-v2.webp",
   },
   {
-    id: "estonia-liiva-magi-ridge-relief-v2",
+    id: "estonia-liiva-magi-ridge-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Härgesoo tiigi supelrand",
+                  "text": "Strand am Teich Härgesoo.",
+                  "category": "recreational",
+                  "coords": [
+                        24.482588,
+                        59.187528
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Härgesoo tiigi supelrand",
+                  "text": "Strand a Härgesoo-tónál.",
+                  "category": "recreational",
+                  "coords": [
+                        24.482588,
+                        59.187528
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Härgesoo tiigi supelrand",
+                  "text": "Plajă la iazul Härgesoo.",
+                  "category": "recreational",
+                  "coords": [
+                        24.482588,
+                        59.187528
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Härgesoo tiigi supelrand",
+                  "text": "Beach at Härgesoo pond.",
+                  "category": "recreational",
+                  "coords": [
+                        24.482588,
+                        59.187528
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "EE",
     name: { de: "Liiva-Mägi", hu: "Liiva-Mägi-gerinc", ro: "Creasta Liiva-Mägi", en: "Liiva-Mägi" },
@@ -1128,7 +1425,124 @@ export const estoniaReliefV2: POI[] = [
     image: "/poi-images/estonia-kadaka-magi-hill-relief-v2.webp",
   },
   {
-    id: "estonia-suure-magi-peak-relief-v2",
+    id: "estonia-suure-magi-peak-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Boose supelrand",
+                  "text": "Strand nahe Suure Mägi.",
+                  "category": "recreational",
+                  "coords": [
+                        26.470474,
+                        57.835644
+                  ]
+            },
+            {
+                  "name": "Vana-Antsla supelrand",
+                  "text": "Der Vana-Antsla-Badestrand liegt in der Nähe des Suure Mägi Gipfels.",
+                  "category": "recreational",
+                  "coords": [
+                        26.523832,
+                        57.862618
+                  ]
+            },
+            {
+                  "name": "Nässmõisa järve supelrand",
+                  "text": "Der Nässmõisa-See-Badestrand liegt bei Suure Mägi.",
+                  "category": "recreational",
+                  "coords": [
+                        26.532078,
+                        57.837171
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Boose supelrand",
+                  "text": "Strand a Suure Mägi közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        26.470474,
+                        57.835644
+                  ]
+            },
+            {
+                  "name": "Vana-Antsla supelrand",
+                  "text": "A Vana-Antsla strand a Suure Mägi csúcs közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        26.523832,
+                        57.862618
+                  ]
+            },
+            {
+                  "name": "Nässmõisa järve supelrand",
+                  "text": "A Nässmõisa-tavi strand Suure Mägi közelében fekszik.",
+                  "category": "recreational",
+                  "coords": [
+                        26.532078,
+                        57.837171
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Boose supelrand",
+                  "text": "Plajă lângă Suure Mägi.",
+                  "category": "recreational",
+                  "coords": [
+                        26.470474,
+                        57.835644
+                  ]
+            },
+            {
+                  "name": "Vana-Antsla supelrand",
+                  "text": "Plaja Vana-Antsla este situată lângă vârful Suure Mägi.",
+                  "category": "recreational",
+                  "coords": [
+                        26.523832,
+                        57.862618
+                  ]
+            },
+            {
+                  "name": "Nässmõisa järve supelrand",
+                  "text": "Plaja de pe lacul Nässmõisa se află lângă Suure Mägi.",
+                  "category": "recreational",
+                  "coords": [
+                        26.532078,
+                        57.837171
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Boose supelrand",
+                  "text": "Beach near Suure Mägi.",
+                  "category": "recreational",
+                  "coords": [
+                        26.470474,
+                        57.835644
+                  ]
+            },
+            {
+                  "name": "Vana-Antsla supelrand",
+                  "text": "Vana-Antsla beach is located near the Suure Mägi peak.",
+                  "category": "recreational",
+                  "coords": [
+                        26.523832,
+                        57.862618
+                  ]
+            },
+            {
+                  "name": "Nässmõisa järve supelrand",
+                  "text": "Nässmõisa lake beach is located near Suure Mägi.",
+                  "category": "recreational",
+                  "coords": [
+                        26.532078,
+                        57.837171
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "EE",
     name: { de: "Suure-Mägi", hu: "Suure-Mägi-csúcs", ro: "Vârful Suure-Mägi", en: "Suure-Mägi" },
@@ -1218,7 +1632,52 @@ export const estoniaReliefV2: POI[] = [
     image: "/poi-images/estonia-kool-magi-hill-relief-v2.webp",
   },
   {
-    id: "estonia-pae-magi-hill-relief-v2",
+    id: "estonia-pae-magi-hill-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Uuesalu Liivajärve supelrand",
+                  "text": "Strand am Liivajärv-See bei Uuesalu.",
+                  "category": "recreational",
+                  "coords": [
+                        24.8163,
+                        59.360146
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Uuesalu Liivajärve supelrand",
+                  "text": "Strand az Uuesalu melletti Liivajärv-tónál.",
+                  "category": "recreational",
+                  "coords": [
+                        24.8163,
+                        59.360146
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Uuesalu Liivajärve supelrand",
+                  "text": "Plajă la lacul Liivajärv lângă Uuesalu.",
+                  "category": "recreational",
+                  "coords": [
+                        24.8163,
+                        59.360146
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Uuesalu Liivajärve supelrand",
+                  "text": "Beach at Liivajärv lake near Uuesalu.",
+                  "category": "recreational",
+                  "coords": [
+                        24.8163,
+                        59.360146
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "EE",
     name: { de: "Pae-Mägi", hu: "Pae-Mägi-domb", ro: "Dealul Pae-Mägi", en: "Pae-Mägi" },
@@ -1263,7 +1722,52 @@ export const estoniaReliefV2: POI[] = [
     image: "/poi-images/estonia-pae-magi-hill-relief-v2.webp",
   },
   {
-    id: "estonia-oja-magi-hill-relief-v2",
+    id: "estonia-oja-magi-hill-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Veisjärve supelrand",
+                  "text": "Badestrand am Veisjärv-See beim Oja-Mägi-Hügel.",
+                  "category": "recreational",
+                  "coords": [
+                        25.769949,
+                        58.096229
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Veisjärve supelrand",
+                  "text": "Veisjärv-tavi strand az Oja Magi dombnál.",
+                  "category": "recreational",
+                  "coords": [
+                        25.769949,
+                        58.096229
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Veisjärve supelrand",
+                  "text": "Plaja lacului Veisjärv lângă dealul Oja Magi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.769949,
+                        58.096229
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Veisjärve supelrand",
+                  "text": "Veisjärv lake beach near Oja Magi Hill.",
+                  "category": "recreational",
+                  "coords": [
+                        25.769949,
+                        58.096229
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "EE",
     name: { de: "Oja-Mägi", hu: "Oja-Mägi-domb", ro: "Dealul Oja-Mägi", en: "Oja-Mägi" },
@@ -1488,7 +1992,88 @@ export const estoniaReliefV2: POI[] = [
     image: "/poi-images/estonia-kruusa-org-valley-relief-v2.webp",
   },
   {
-    id: "estonia-piiri-magi-hill-relief-v2",
+    id: "estonia-piiri-magi-hill-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mehikoorma supelrand",
+                  "text": "Badestrand Mehikoorma am Piiri Magi Hügel.",
+                  "category": "recreational",
+                  "coords": [
+                        27.476919,
+                        58.236976
+                  ]
+            },
+            {
+                  "name": "Mehikoorma tuletorni supelrand",
+                  "text": "Badestrand am Leuchtturm von Mehikoorma, Piiri Magi Hügel.",
+                  "category": "recreational",
+                  "coords": [
+                        27.476502,
+                        58.232833
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mehikoorma supelrand",
+                  "text": "Mehikoorma strand a Piiri Magi domb közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        27.476919,
+                        58.236976
+                  ]
+            },
+            {
+                  "name": "Mehikoorma tuletorni supelrand",
+                  "text": "Strand a Mehikoorma világítótoronynál, Piiri Magi domb.",
+                  "category": "recreational",
+                  "coords": [
+                        27.476502,
+                        58.232833
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mehikoorma supelrand",
+                  "text": "Plaja Mehikoorma lângă Dealul Piiri Magi.",
+                  "category": "recreational",
+                  "coords": [
+                        27.476919,
+                        58.236976
+                  ]
+            },
+            {
+                  "name": "Mehikoorma tuletorni supelrand",
+                  "text": "Plajă la farul din Mehikoorma, Dealul Piiri Magi.",
+                  "category": "recreational",
+                  "coords": [
+                        27.476502,
+                        58.232833
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mehikoorma supelrand",
+                  "text": "Mehikoorma beach near Piiri Magi Hill.",
+                  "category": "recreational",
+                  "coords": [
+                        27.476919,
+                        58.236976
+                  ]
+            },
+            {
+                  "name": "Mehikoorma tuletorni supelrand",
+                  "text": "Beach at the Mehikoorma lighthouse, Piiri Magi Hill.",
+                  "category": "recreational",
+                  "coords": [
+                        27.476502,
+                        58.232833
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "EE",
     name: { de: "Piiri-Mägi", hu: "Piiri-Mägi-domb", ro: "Dealul Piiri-Mägi", en: "Piiri-Mägi" },
@@ -1803,7 +2388,88 @@ export const estoniaReliefV2: POI[] = [
     image: "/poi-images/estonia-kruusa-hari-ridge-relief-v2.webp",
   },
   {
-    id: "estonia-linna-nukk-rise-relief-v2",
+    id: "estonia-linna-nukk-rise-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Porkuni Kaieallika supelrand",
+                  "text": "Badestrand Kaieallika bei Porkuni.",
+                  "category": "recreational",
+                  "coords": [
+                        26.202486,
+                        59.186005
+                  ]
+            },
+            {
+                  "name": "Porkuni supelrand",
+                  "text": "Der Porkuni-Badestrand liegt bei der Linna Nukk Anhöhe.",
+                  "category": "recreational",
+                  "coords": [
+                        26.197601,
+                        59.185315
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Porkuni Kaieallika supelrand",
+                  "text": "Kaieallika strand Porkuni közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        26.202486,
+                        59.186005
+                  ]
+            },
+            {
+                  "name": "Porkuni supelrand",
+                  "text": "A Porkuni strand a Linna Nukk magaslat közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        26.197601,
+                        59.185315
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Porkuni Kaieallika supelrand",
+                  "text": "Plaja Kaieallika lângă Porkuni.",
+                  "category": "recreational",
+                  "coords": [
+                        26.202486,
+                        59.186005
+                  ]
+            },
+            {
+                  "name": "Porkuni supelrand",
+                  "text": "Plaja Porkuni este situată lângă dealul Linna Nukk.",
+                  "category": "recreational",
+                  "coords": [
+                        26.197601,
+                        59.185315
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Porkuni Kaieallika supelrand",
+                  "text": "Kaieallika beach near Porkuni.",
+                  "category": "recreational",
+                  "coords": [
+                        26.202486,
+                        59.186005
+                  ]
+            },
+            {
+                  "name": "Porkuni supelrand",
+                  "text": "Porkuni beach is located near the Linna Nukk rise.",
+                  "category": "recreational",
+                  "coords": [
+                        26.197601,
+                        59.185315
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "EE",
     name: { de: "Linna-Nukk", hu: "Linna-Nukk-domb", ro: "Dealul Linna-Nukk", en: "Linna-Nukk" },
@@ -1848,7 +2514,52 @@ export const estoniaReliefV2: POI[] = [
     image: "/poi-images/estonia-linna-nukk-rise-relief-v2.webp",
   },
   {
-    id: "estonia-piiri-org-valley-relief-v2",
+    id: "estonia-piiri-org-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Räpina supelrand",
+                  "text": "Badestrand von Räpina im Piiri-Tal.",
+                  "category": "recreational",
+                  "coords": [
+                        27.529505,
+                        58.127351
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Räpina supelrand",
+                  "text": "Räpina strand a Piiri-völgyben.",
+                  "category": "recreational",
+                  "coords": [
+                        27.529505,
+                        58.127351
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Räpina supelrand",
+                  "text": "Plaja Räpina în valea Piiri.",
+                  "category": "recreational",
+                  "coords": [
+                        27.529505,
+                        58.127351
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Räpina supelrand",
+                  "text": "Räpina beach in the Piiri Valley.",
+                  "category": "recreational",
+                  "coords": [
+                        27.529505,
+                        58.127351
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "EE",
     name: { de: "Piiri-Org-Tal", hu: "Piiri-Org-völgy", ro: "Valea Piiri-Org", en: "Piiri-Org Valley" },
@@ -1893,7 +2604,88 @@ export const estoniaReliefV2: POI[] = [
     image: "/poi-images/estonia-piiri-org-valley-relief-v2.webp",
   },
   {
-    id: "estonia-tuuliku-nukk-rise-relief-v2",
+    id: "estonia-tuuliku-nukk-rise-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jüri rand",
+                  "text": "Strand Jüri bei Tuuliku Nukk.",
+                  "category": "recreational",
+                  "coords": [
+                        24.941188,
+                        59.353772
+                  ]
+            },
+            {
+                  "name": "Tuulevälja AÜ ujumiskoht",
+                  "text": "Badeplatz Tuulevälja in der Nähe der Tuuliku Nukk Anhöhe.",
+                  "category": "recreational",
+                  "coords": [
+                        24.952811,
+                        59.372268
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jüri rand",
+                  "text": "Jüri strand Tuuliku Nukk-nál.",
+                  "category": "recreational",
+                  "coords": [
+                        24.941188,
+                        59.353772
+                  ]
+            },
+            {
+                  "name": "Tuulevälja AÜ ujumiskoht",
+                  "text": "Tuulevälja fürdőhely a Tuuliku Nukk magaslat közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        24.952811,
+                        59.372268
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jüri rand",
+                  "text": "Plaja Jüri lângă Tuuliku Nukk.",
+                  "category": "recreational",
+                  "coords": [
+                        24.941188,
+                        59.353772
+                  ]
+            },
+            {
+                  "name": "Tuulevälja AÜ ujumiskoht",
+                  "text": "Loc de scăldat Tuulevälja lângă dealul Tuuliku Nukk.",
+                  "category": "recreational",
+                  "coords": [
+                        24.952811,
+                        59.372268
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jüri rand",
+                  "text": "Jüri beach near Tuuliku Nukk.",
+                  "category": "recreational",
+                  "coords": [
+                        24.941188,
+                        59.353772
+                  ]
+            },
+            {
+                  "name": "Tuulevälja AÜ ujumiskoht",
+                  "text": "Tuulevälja swimming area near the Tuuliku Nukk rise.",
+                  "category": "recreational",
+                  "coords": [
+                        24.952811,
+                        59.372268
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "EE",
     name: { de: "Tuuliku-Nukk", hu: "Tuuliku-Nukk-domb", ro: "Dealul Tuuliku-Nukk", en: "Tuuliku-Nukk" },
@@ -1983,7 +2775,52 @@ export const estoniaReliefV2: POI[] = [
     image: "/poi-images/estonia-vana-nukk-rise-relief-v2.webp",
   },
   {
-    id: "estonia-liiva-nukk-rise-relief-v2",
+    id: "estonia-liiva-nukk-rise-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maidla supelrand",
+                  "text": "Badestrand Maidla bei Liiva Nukk.",
+                  "category": "recreational",
+                  "coords": [
+                        24.580834,
+                        59.209211
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maidla supelrand",
+                  "text": "Maidla strand a Liiva Nukk közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        24.580834,
+                        59.209211
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maidla supelrand",
+                  "text": "Plaja Maidla lângă Liiva Nukk.",
+                  "category": "recreational",
+                  "coords": [
+                        24.580834,
+                        59.209211
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maidla supelrand",
+                  "text": "Maidla beach near Liiva Nukk.",
+                  "category": "recreational",
+                  "coords": [
+                        24.580834,
+                        59.209211
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "EE",
     name: { de: "Liiva-Nukk", hu: "Liiva-Nukk-domb", ro: "Dealul Liiva-Nukk", en: "Liiva-Nukk" },
@@ -2073,7 +2910,52 @@ export const estoniaReliefV2: POI[] = [
     image: "/poi-images/estonia-kadaka-nukk-rise-relief-v2.webp",
   },
   {
-    id: "estonia-suure-nukk-rise-relief-v2",
+    id: "estonia-suure-nukk-rise-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Uhtjärve rand",
+                  "text": "Strand am Uhtjärv-See.",
+                  "category": "recreational",
+                  "coords": [
+                        26.550784,
+                        57.904261
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Uhtjärve rand",
+                  "text": "Strand az Uhtjärv-tónál.",
+                  "category": "recreational",
+                  "coords": [
+                        26.550784,
+                        57.904261
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Uhtjärve rand",
+                  "text": "Plajă la lacul Uhtjärv.",
+                  "category": "recreational",
+                  "coords": [
+                        26.550784,
+                        57.904261
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Uhtjärve rand",
+                  "text": "Beach at Lake Uhtjärv.",
+                  "category": "recreational",
+                  "coords": [
+                        26.550784,
+                        57.904261
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "EE",
     name: { de: "Suure-Nukk", hu: "Suure-Nukk-domb", ro: "Dealul Suure-Nukk", en: "Suure-Nukk" },
@@ -2163,7 +3045,88 @@ export const estoniaReliefV2: POI[] = [
     image: "/poi-images/estonia-kool-nukk-rise-relief-v2.webp",
   },
   {
-    id: "estonia-pae-nukk-rise-relief-v2",
+    id: "estonia-pae-nukk-rise-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Loo supelrand",
+                  "text": "Strand bei Loo.",
+                  "category": "recreational",
+                  "coords": [
+                        24.935139,
+                        59.431058
+                  ]
+            },
+            {
+                  "name": "Lagedi supelrand",
+                  "text": "Strand bei Lagedi.",
+                  "category": "recreational",
+                  "coords": [
+                        24.940831,
+                        59.401752
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Loo supelrand",
+                  "text": "Strand Loonál.",
+                  "category": "recreational",
+                  "coords": [
+                        24.935139,
+                        59.431058
+                  ]
+            },
+            {
+                  "name": "Lagedi supelrand",
+                  "text": "Strand Lagedi közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        24.940831,
+                        59.401752
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Loo supelrand",
+                  "text": "Plajă lângă Loo.",
+                  "category": "recreational",
+                  "coords": [
+                        24.935139,
+                        59.431058
+                  ]
+            },
+            {
+                  "name": "Lagedi supelrand",
+                  "text": "Plajă lângă Lagedi.",
+                  "category": "recreational",
+                  "coords": [
+                        24.940831,
+                        59.401752
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Loo supelrand",
+                  "text": "Beach near Loo.",
+                  "category": "recreational",
+                  "coords": [
+                        24.935139,
+                        59.431058
+                  ]
+            },
+            {
+                  "name": "Lagedi supelrand",
+                  "text": "Beach near Lagedi.",
+                  "category": "recreational",
+                  "coords": [
+                        24.940831,
+                        59.401752
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "EE",
     name: { de: "Pae-Nukk", hu: "Pae-Nukk-domb", ro: "Dealul Pae-Nukk", en: "Pae-Nukk" },

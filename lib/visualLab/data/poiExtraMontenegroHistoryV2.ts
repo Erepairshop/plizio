@@ -183,7 +183,52 @@ export const montenegroHistoryV2: POI[] = [
     image: "/poi-images/montenegro-zanjice-fort-history-v2.webp",
   },
   {
-    id: "montenegro-obostnik-history-v2",
+    id: "montenegro-obostnik-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Almara beach",
+                  "text": "Almara beach liegt bei Obostnik.",
+                  "category": "recreational",
+                  "coords": [
+                        18.652139,
+                        42.381814
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Almara beach",
+                  "text": "Az Almara beach Obostnik közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        18.652139,
+                        42.381814
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Almara beach",
+                  "text": "Almara beach este situată lângă Obostnik.",
+                  "category": "recreational",
+                  "coords": [
+                        18.652139,
+                        42.381814
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Almara beach",
+                  "text": "Almara beach is located near Obostnik.",
+                  "category": "recreational",
+                  "coords": [
+                        18.652139,
+                        42.381814
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "ME",
     name: { de: "Obosnik", hu: "Obosnik", ro: "Obosnik", en: "Obosnik" },
@@ -363,7 +408,196 @@ export const montenegroHistoryV2: POI[] = [
     image: "/poi-images/montenegro-vrmac-fort-history-v2.webp",
   },
   {
-    id: "montenegro-starigrad-ulcinj-history-v2",
+    id: "montenegro-starigrad-ulcinj-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sapore di Mare",
+                  "text": "Sapore di Mare befindet sich in der Altstadt von Ulcinj.",
+                  "category": "recreational",
+                  "coords": [
+                        19.211465,
+                        41.919643
+                  ]
+            },
+            {
+                  "name": "Ženska plaža - Plazhi i Grave",
+                  "text": "Die Ženska plaža liegt in der Nähe der Altstadt von Ulcinj.",
+                  "category": "recreational",
+                  "coords": [
+                        19.213402,
+                        41.919896
+                  ]
+            },
+            {
+                  "name": "Aquarius White",
+                  "text": "Aquarius White ist ein Strand in der Nähe von Starigrad Ulcinj.",
+                  "category": "recreational",
+                  "coords": [
+                        19.209718,
+                        41.920786
+                  ]
+            },
+            {
+                  "name": "Albatros beach",
+                  "text": "Der Albatros Strand liegt bei Starigrad Ulcinj.",
+                  "category": "recreational",
+                  "coords": [
+                        19.215013,
+                        41.91869
+                  ]
+            },
+            {
+                  "name": "Ibiza Beach",
+                  "text": "Ibiza Beach liegt in der Nähe von Starigrad Ulcinj.",
+                  "category": "recreational",
+                  "coords": [
+                        19.210694,
+                        41.920649
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sapore di Mare",
+                  "text": "A Sapore di Mare strand Ulcinj óvárosában található.",
+                  "category": "recreational",
+                  "coords": [
+                        19.211465,
+                        41.919643
+                  ]
+            },
+            {
+                  "name": "Ženska plaža - Plazhi i Grave",
+                  "text": "A Ženska plaža strand Ulcinj óvárosának közelében van.",
+                  "category": "recreational",
+                  "coords": [
+                        19.213402,
+                        41.919896
+                  ]
+            },
+            {
+                  "name": "Aquarius White",
+                  "text": "Aquarius White egy strand Starigrad Ulcinj közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        19.209718,
+                        41.920786
+                  ]
+            },
+            {
+                  "name": "Albatros beach",
+                  "text": "Az Albatros strand Starigrad Ulcinj közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        19.215013,
+                        41.91869
+                  ]
+            },
+            {
+                  "name": "Ibiza Beach",
+                  "text": "Az Ibiza Beach Starigrad Ulcinj közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        19.210694,
+                        41.920649
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sapore di Mare",
+                  "text": "Sapore di Mare se află în orașul vechi Ulcinj.",
+                  "category": "recreational",
+                  "coords": [
+                        19.211465,
+                        41.919643
+                  ]
+            },
+            {
+                  "name": "Ženska plaža - Plazhi i Grave",
+                  "text": "Plaja Ženska se află în apropierea orașului vechi Ulcinj.",
+                  "category": "recreational",
+                  "coords": [
+                        19.213402,
+                        41.919896
+                  ]
+            },
+            {
+                  "name": "Aquarius White",
+                  "text": "Aquarius White este o plajă situată lângă Starigrad Ulcinj.",
+                  "category": "recreational",
+                  "coords": [
+                        19.209718,
+                        41.920786
+                  ]
+            },
+            {
+                  "name": "Albatros beach",
+                  "text": "Plaja Albatros se află lângă Starigrad Ulcinj.",
+                  "category": "recreational",
+                  "coords": [
+                        19.215013,
+                        41.91869
+                  ]
+            },
+            {
+                  "name": "Ibiza Beach",
+                  "text": "Ibiza Beach este situată lângă Starigrad Ulcinj.",
+                  "category": "recreational",
+                  "coords": [
+                        19.210694,
+                        41.920649
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sapore di Mare",
+                  "text": "Sapore di Mare is located in the old town of Ulcinj.",
+                  "category": "recreational",
+                  "coords": [
+                        19.211465,
+                        41.919643
+                  ]
+            },
+            {
+                  "name": "Ženska plaža - Plazhi i Grave",
+                  "text": "Ženska plaža is located near the old town of Ulcinj.",
+                  "category": "recreational",
+                  "coords": [
+                        19.213402,
+                        41.919896
+                  ]
+            },
+            {
+                  "name": "Aquarius White",
+                  "text": "Aquarius White is a beach near Starigrad Ulcinj.",
+                  "category": "recreational",
+                  "coords": [
+                        19.209718,
+                        41.920786
+                  ]
+            },
+            {
+                  "name": "Albatros beach",
+                  "text": "Albatros beach is located near Starigrad Ulcinj.",
+                  "category": "recreational",
+                  "coords": [
+                        19.215013,
+                        41.91869
+                  ]
+            },
+            {
+                  "name": "Ibiza Beach",
+                  "text": "Ibiza Beach is located near Starigrad Ulcinj.",
+                  "category": "recreational",
+                  "coords": [
+                        19.210694,
+                        41.920649
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "ME",
     name: { de: "Altstadt von Ulcinj", hu: "Ulcinj óvárosa", ro: "Orașul vechi din Ulcinj", en: "Old Town of Ulcinj" },
@@ -453,7 +687,124 @@ export const montenegroHistoryV2: POI[] = [
     image: "/poi-images/montenegro-stari-grad-budva-history-v2.webp",
   },
   {
-    id: "montenegro-arza-fort-history-v2",
+    id: "montenegro-arza-fort-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Arza",
+                  "text": "Arza Strand bei Arza Fort.",
+                  "category": "recreational",
+                  "coords": [
+                        18.573038,
+                        42.391991
+                  ]
+            },
+            {
+                  "name": "Žanjice",
+                  "text": "Der Strand Žanjice liegt nahe der Festung Arza.",
+                  "category": "recreational",
+                  "coords": [
+                        18.580147,
+                        42.399196
+                  ]
+            },
+            {
+                  "name": "Mirišta",
+                  "text": "Der Strand Mirišta befindet sich bei der Arza-Festung.",
+                  "category": "recreational",
+                  "coords": [
+                        18.579311,
+                        42.394737
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Arza",
+                  "text": "Arza strand Arza Fort közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.573038,
+                        42.391991
+                  ]
+            },
+            {
+                  "name": "Žanjice",
+                  "text": "A Žanjice strand az Arza erőd közelében fekszik.",
+                  "category": "recreational",
+                  "coords": [
+                        18.580147,
+                        42.399196
+                  ]
+            },
+            {
+                  "name": "Mirišta",
+                  "text": "Mirišta strandja az Arza erődnél található.",
+                  "category": "recreational",
+                  "coords": [
+                        18.579311,
+                        42.394737
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Arza",
+                  "text": "Plaja Arza lângă Fortul Arza.",
+                  "category": "recreational",
+                  "coords": [
+                        18.573038,
+                        42.391991
+                  ]
+            },
+            {
+                  "name": "Žanjice",
+                  "text": "Plaja Žanjice se află în apropierea Cetății Arza.",
+                  "category": "recreational",
+                  "coords": [
+                        18.580147,
+                        42.399196
+                  ]
+            },
+            {
+                  "name": "Mirišta",
+                  "text": "Plaja Mirišta se află lângă fortăreața Arza.",
+                  "category": "recreational",
+                  "coords": [
+                        18.579311,
+                        42.394737
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Arza",
+                  "text": "Arza beach near Arza Fort.",
+                  "category": "recreational",
+                  "coords": [
+                        18.573038,
+                        42.391991
+                  ]
+            },
+            {
+                  "name": "Žanjice",
+                  "text": "Žanjice Beach is located near the Arza Fort.",
+                  "category": "recreational",
+                  "coords": [
+                        18.580147,
+                        42.399196
+                  ]
+            },
+            {
+                  "name": "Mirišta",
+                  "text": "Mirišta beach is located by the Arza Fort.",
+                  "category": "recreational",
+                  "coords": [
+                        18.579311,
+                        42.394737
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "ME",
     name: { de: "Festung Arza", hu: "Arza erőd", ro: "Fortăreața Arza", en: "Arza Fortress" },
@@ -588,7 +939,52 @@ export const montenegroHistoryV2: POI[] = [
     image: "/poi-images/montenegro-manastir-rezevici-history-v2.webp",
   },
   {
-    id: "montenegro-manastir-praskvica-history-v2",
+    id: "montenegro-manastir-praskvica-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Краљичина плажа",
+                  "text": "Die Kraljičina plaža liegt in der Nähe des Klosters Praskvica.",
+                  "category": "recreational",
+                  "coords": [
+                        18.892348,
+                        42.263327
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Краљичина плажа",
+                  "text": "A Kraljičina plaža strand a Praskvica kolostor közelében fekszik.",
+                  "category": "recreational",
+                  "coords": [
+                        18.892348,
+                        42.263327
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Краљичина плажа",
+                  "text": "Plaja Kraljičina se află în apropierea Mănăstirii Praskvica.",
+                  "category": "recreational",
+                  "coords": [
+                        18.892348,
+                        42.263327
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Краљичина плажа",
+                  "text": "Kraljičina plaža is located near the Manastir Praskvica.",
+                  "category": "recreational",
+                  "coords": [
+                        18.892348,
+                        42.263327
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "ME",
     name: { de: "Kloster Praskvica", hu: "Praskvica kolostor", ro: "Mănăstirea Praskvica", en: "Praskvica Monastery" },
@@ -633,7 +1029,124 @@ export const montenegroHistoryV2: POI[] = [
     image: "/poi-images/montenegro-manastir-praskvica-history-v2.webp",
   },
   {
-    id: "montenegro-manastir-podlastva-history-v2",
+    id: "montenegro-manastir-podlastva-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Trsteno beach",
+                  "text": "Trsteno Strand bei Manastir Podlastva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.785028,
+                        42.281618
+                  ]
+            },
+            {
+                  "name": "Plaža Ploče",
+                  "text": "Plaža Ploče Strand bei Manastir Podlastva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.78381,
+                        42.269084
+                  ]
+            },
+            {
+                  "name": "Zagorski Pijesak",
+                  "text": "Der Strand Zagorski Pijesak befindet sich beim Kloster Podlastva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.733612,
+                        42.307032
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Trsteno beach",
+                  "text": "Trsteno strand Manastir Podlastva közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.785028,
+                        42.281618
+                  ]
+            },
+            {
+                  "name": "Plaža Ploče",
+                  "text": "Plaža Ploče strand Manastir Podlastva közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.78381,
+                        42.269084
+                  ]
+            },
+            {
+                  "name": "Zagorski Pijesak",
+                  "text": "A Zagorski Pijesak strand a Podlastva kolostor közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        18.733612,
+                        42.307032
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Trsteno beach",
+                  "text": "Plaja Trsteno lângă Manastir Podlastva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.785028,
+                        42.281618
+                  ]
+            },
+            {
+                  "name": "Plaža Ploče",
+                  "text": "Plaja Plaža Ploče lângă Manastir Podlastva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.78381,
+                        42.269084
+                  ]
+            },
+            {
+                  "name": "Zagorski Pijesak",
+                  "text": "Plaja Zagorski Pijesak se află lângă Mănăstirea Podlastva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.733612,
+                        42.307032
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Trsteno beach",
+                  "text": "Trsteno beach near Manastir Podlastva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.785028,
+                        42.281618
+                  ]
+            },
+            {
+                  "name": "Plaža Ploče",
+                  "text": "Plaža Ploče beach near Manastir Podlastva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.78381,
+                        42.269084
+                  ]
+            },
+            {
+                  "name": "Zagorski Pijesak",
+                  "text": "Zagorski Pijesak beach is located near Podlastva Monastery.",
+                  "category": "recreational",
+                  "coords": [
+                        18.733612,
+                        42.307032
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "ME",
     name: { de: "Kloster Podlastva", hu: "Podlastva kolostor", ro: "Mănăstirea Podlastva", en: "Podlastva Monastery" },
@@ -858,7 +1371,52 @@ export const montenegroHistoryV2: POI[] = [
     image: "/poi-images/montenegro-manastir-beska-history-v2.webp",
   },
   {
-    id: "montenegro-tvrđava-besac-history-v2",
+    id: "montenegro-tvrđava-besac-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Quiet Beach",
+                  "text": "Quiet Beach liegt bei der Festung Besac.",
+                  "category": "recreational",
+                  "coords": [
+                        19.125685,
+                        42.226974
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Quiet Beach",
+                  "text": "Quiet Beach a Besac erődnél található.",
+                  "category": "recreational",
+                  "coords": [
+                        19.125685,
+                        42.226974
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Quiet Beach",
+                  "text": "Quiet Beach este situată lângă fortăreața Besac.",
+                  "category": "recreational",
+                  "coords": [
+                        19.125685,
+                        42.226974
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Quiet Beach",
+                  "text": "Quiet Beach is located by the Besac fortress.",
+                  "category": "recreational",
+                  "coords": [
+                        19.125685,
+                        42.226974
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "ME",
     name: { de: "Festung Besac", hu: "Besac erőd", ro: "Fortăreața Besac", en: "Besac Fortress" },
@@ -1128,7 +1686,124 @@ export const montenegroHistoryV2: POI[] = [
     image: "/poi-images/montenegro-manastir-celija-piperska-history-v2.webp",
   },
   {
-    id: "montenegro-tvrđava-haj-nehaj-history-v2",
+    id: "montenegro-tvrđava-haj-nehaj-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Štrbina",
+                  "text": "Štrbina ist ein Strand bei der Festung Haj Nehaj.",
+                  "category": "recreational",
+                  "coords": [
+                        19.029195,
+                        42.138044
+                  ]
+            },
+            {
+                  "name": "Plaža Maljevik",
+                  "text": "Der Strand Maljevik liegt bei der Festung Haj Nehaj.",
+                  "category": "recreational",
+                  "coords": [
+                        19.023248,
+                        42.140672
+                  ]
+            },
+            {
+                  "name": "Healthy mud/clay beach",
+                  "text": "Der Schlammstrand befindet sich bei der Festung Haj Nehaj.",
+                  "category": "recreational",
+                  "coords": [
+                        19.025938,
+                        42.136941
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Štrbina",
+                  "text": "Štrbina egy strand a Haj Nehaj erődnél.",
+                  "category": "recreational",
+                  "coords": [
+                        19.029195,
+                        42.138044
+                  ]
+            },
+            {
+                  "name": "Plaža Maljevik",
+                  "text": "Maljevik strandja a Haj Nehaj erődnél található.",
+                  "category": "recreational",
+                  "coords": [
+                        19.023248,
+                        42.140672
+                  ]
+            },
+            {
+                  "name": "Healthy mud/clay beach",
+                  "text": "Ez az iszapstrand a Haj Nehaj erőd közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        19.025938,
+                        42.136941
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Štrbina",
+                  "text": "Štrbina este o plajă lângă fortăreața Haj Nehaj.",
+                  "category": "recreational",
+                  "coords": [
+                        19.029195,
+                        42.138044
+                  ]
+            },
+            {
+                  "name": "Plaža Maljevik",
+                  "text": "Plaja Maljevik este situată lângă fortăreața Haj Nehaj.",
+                  "category": "recreational",
+                  "coords": [
+                        19.023248,
+                        42.140672
+                  ]
+            },
+            {
+                  "name": "Healthy mud/clay beach",
+                  "text": "Plaja cu nămol se află lângă fortăreața Haj Nehaj.",
+                  "category": "recreational",
+                  "coords": [
+                        19.025938,
+                        42.136941
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Štrbina",
+                  "text": "Štrbina is a beach by the Haj Nehaj fortress.",
+                  "category": "recreational",
+                  "coords": [
+                        19.029195,
+                        42.138044
+                  ]
+            },
+            {
+                  "name": "Plaža Maljevik",
+                  "text": "Maljevik beach is located by the Haj Nehaj fortress.",
+                  "category": "recreational",
+                  "coords": [
+                        19.023248,
+                        42.140672
+                  ]
+            },
+            {
+                  "name": "Healthy mud/clay beach",
+                  "text": "This mud beach is located near Haj Nehaj fortress.",
+                  "category": "recreational",
+                  "coords": [
+                        19.025938,
+                        42.136941
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "ME",
     name: { de: "Festung Haj-Nehaj", hu: "Haj-Nehaj erőd", ro: "Fortăreața Haj-Nehaj", en: "Haj-Nehaj Fortress" },
@@ -1173,7 +1848,52 @@ export const montenegroHistoryV2: POI[] = [
     image: "/poi-images/montenegro-tvrđava-haj-nehaj-history-v2.webp",
   },
   {
-    id: "montenegro-manastir-savina-history-v2",
+    id: "montenegro-manastir-savina-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Žalo",
+                  "text": "Der Strand Žalo befindet sich beim Kloster Savina.",
+                  "category": "recreational",
+                  "coords": [
+                        18.535079,
+                        42.449878
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Žalo",
+                  "text": "A Žalo strand a Savina kolostornál található.",
+                  "category": "recreational",
+                  "coords": [
+                        18.535079,
+                        42.449878
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Žalo",
+                  "text": "Plaja Žalo se află în apropierea Mănăstirii Savina.",
+                  "category": "recreational",
+                  "coords": [
+                        18.535079,
+                        42.449878
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Žalo",
+                  "text": "Žalo Beach is situated near the Manastir Savina.",
+                  "category": "recreational",
+                  "coords": [
+                        18.535079,
+                        42.449878
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "ME",
     name: { de: "Kloster Savina", hu: "Savina kolostor", ro: "Mănăstirea Savina", en: "Savina Monastery" },
@@ -1263,7 +1983,52 @@ export const montenegroHistoryV2: POI[] = [
     image: "/poi-images/montenegro-manastir-gradiste-history-v2.webp",
   },
   {
-    id: "montenegro-tvrđava-marsal-marmont-history-v2",
+    id: "montenegro-tvrđava-marsal-marmont-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rafaello",
+                  "text": "Rafaello liegt nahe der Tvrđava Marsal Marmont.",
+                  "category": "recreational",
+                  "coords": [
+                        18.522199,
+                        42.456844
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rafaello",
+                  "text": "Rafaello a Tvrđava Marsal Marmont közelében fekszik.",
+                  "category": "recreational",
+                  "coords": [
+                        18.522199,
+                        42.456844
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rafaello",
+                  "text": "Rafaello se află în apropierea Cetății Marsal Marmont.",
+                  "category": "recreational",
+                  "coords": [
+                        18.522199,
+                        42.456844
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rafaello",
+                  "text": "Rafaello is situated near the Tvrđava Marsal Marmont.",
+                  "category": "recreational",
+                  "coords": [
+                        18.522199,
+                        42.456844
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "ME",
     name: { de: "Festung Marschall Marmont", hu: "Marmont marsall erődje", ro: "Fortăreața Mareșalului Marmont", en: "Marshal Marmont Fortress" },
@@ -1398,7 +2163,88 @@ export const montenegroHistoryV2: POI[] = [
     image: "/poi-images/montenegro-manastir-ostros-history-v2.webp",
   },
   {
-    id: "montenegro-tvrđava-spanjola-history-v2",
+    id: "montenegro-tvrđava-spanjola-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Topla",
+                  "text": "Topla liegt in der Nähe der Tvrđava Spanjola.",
+                  "category": "recreational",
+                  "coords": [
+                        18.525858,
+                        42.454361
+                  ]
+            },
+            {
+                  "name": "Plaža kod tunela",
+                  "text": "Plaža kod tunela ist ein Strand bei der Festung Spanjola.",
+                  "category": "recreational",
+                  "coords": [
+                        18.527926,
+                        42.453219
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Topla",
+                  "text": "Topla a Tvrđava Spanjola közelében fekszik.",
+                  "category": "recreational",
+                  "coords": [
+                        18.525858,
+                        42.454361
+                  ]
+            },
+            {
+                  "name": "Plaža kod tunela",
+                  "text": "Plaža kod tunela egy strand a Spanjola erődnél.",
+                  "category": "recreational",
+                  "coords": [
+                        18.527926,
+                        42.453219
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Topla",
+                  "text": "Topla se află în apropierea Cetății Spanjola.",
+                  "category": "recreational",
+                  "coords": [
+                        18.525858,
+                        42.454361
+                  ]
+            },
+            {
+                  "name": "Plaža kod tunela",
+                  "text": "Plaža kod tunela este o plajă lângă fortăreața Spanjola.",
+                  "category": "recreational",
+                  "coords": [
+                        18.527926,
+                        42.453219
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Topla",
+                  "text": "Topla is situated near the Tvrđava Spanjola.",
+                  "category": "recreational",
+                  "coords": [
+                        18.525858,
+                        42.454361
+                  ]
+            },
+            {
+                  "name": "Plaža kod tunela",
+                  "text": "Plaža kod tunela is a beach by the Spanjola fortress.",
+                  "category": "recreational",
+                  "coords": [
+                        18.527926,
+                        42.453219
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "ME",
     name: { de: "Festung Španjola", hu: "Španjola erőd", ro: "Fortăreața Španjola", en: "Španjola Fortress" },

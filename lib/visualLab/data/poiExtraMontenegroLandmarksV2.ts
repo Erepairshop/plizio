@@ -3,7 +3,52 @@ import { POI } from './poi';
 export const montenegroLandmarksV2: POI[] = [
 
   {
-    id: "montenegro-sastavci-bridge-landmarks-v2",
+    id: "montenegro-sastavci-bridge-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plaža Sastavci",
+                  "text": "Plaža Sastavci Strand bei Sastavci Brücke.",
+                  "category": "recreational",
+                  "coords": [
+                        19.258227,
+                        42.439518
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plaža Sastavci",
+                  "text": "Plaža Sastavci strand a Sastavci hídnál.",
+                  "category": "recreational",
+                  "coords": [
+                        19.258227,
+                        42.439518
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plaža Sastavci",
+                  "text": "Plaja Plaža Sastavci lângă Podul Sastavci.",
+                  "category": "recreational",
+                  "coords": [
+                        19.258227,
+                        42.439518
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plaža Sastavci",
+                  "text": "Plaža Sastavci beach near Sastavci Bridge.",
+                  "category": "recreational",
+                  "coords": [
+                        19.258227,
+                        42.439518
+                  ]
+            }
+      ]
+},
     type: "bridge",
     parent: "ME",
     name: { de: "Sastavci Brücke", hu: "Sastavci híd", ro: "Podul Sastavci", en: "Sastavci Bridge" },
@@ -48,7 +93,52 @@ export const montenegroLandmarksV2: POI[] = [
     image: "/poi-images/montenegro-sastavci-bridge-landmarks-v2.webp",
   },
   {
-    id: "montenegro-nikola-church-landmarks-v2",
+    id: "montenegro-nikola-church-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kotorska plaža",
+                  "text": "Der Strand Kotorska plaža liegt bei der Nikolauskirche.",
+                  "category": "recreational",
+                  "coords": [
+                        18.768063,
+                        42.429662
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kotorska plaža",
+                  "text": "A Kotorska plaža strand a Szent Miklós-templomnál található.",
+                  "category": "recreational",
+                  "coords": [
+                        18.768063,
+                        42.429662
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kotorska plaža",
+                  "text": "Plaja Kotorska se află în apropierea Bisericii Sfântul Nicolae.",
+                  "category": "recreational",
+                  "coords": [
+                        18.768063,
+                        42.429662
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kotorska plaža",
+                  "text": "Kotorska plaža is located near the Nikola Church.",
+                  "category": "recreational",
+                  "coords": [
+                        18.768063,
+                        42.429662
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "ME",
     name: { de: "St. Nikolaus Kirche Kotor", hu: "Szent Miklós templom Kotor", ro: "Biserica Sfântul Nicolae Kotor", en: "St. Nicholas Church Kotor" },
@@ -93,7 +183,52 @@ export const montenegroLandmarksV2: POI[] = [
     image: "/poi-images/montenegro-nikola-church-landmarks-v2.webp",
   },
   {
-    id: "montenegro-budva-citadel-landmarks-v2",
+    id: "montenegro-budva-citadel-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ričardova glava",
+                  "text": "Ričardova glava liegt bei der Zitadelle von Budva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.83653,
+                        42.27785
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ričardova glava",
+                  "text": "Ričardova glava a budvai fellegvár mellett fekszik.",
+                  "category": "recreational",
+                  "coords": [
+                        18.83653,
+                        42.27785
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ričardova glava",
+                  "text": "Ričardova glava se află lângă Cetatea Budva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.83653,
+                        42.27785
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ričardova glava",
+                  "text": "Ričardova glava is located by the Budva Citadel.",
+                  "category": "recreational",
+                  "coords": [
+                        18.83653,
+                        42.27785
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "ME",
     name: { de: "Zitadelle von Budva", hu: "Budva citadellája", ro: "Citadela din Budva", en: "Citadel of Budva" },
@@ -138,7 +273,52 @@ export const montenegroLandmarksV2: POI[] = [
     image: "/poi-images/montenegro-budva-citadel-landmarks-v2.webp",
   },
   {
-    id: "montenegro-petrovac-fort-landmarks-v2",
+    id: "montenegro-petrovac-fort-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Плажа Петровац",
+                  "text": "Der Strand Petrovac liegt nahe der Festung Petrovac.",
+                  "category": "recreational",
+                  "coords": [
+                        18.940348,
+                        42.204882
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Плажа Петровац",
+                  "text": "A Petrovac strand a Petrovac erőd közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        18.940348,
+                        42.204882
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Плажа Петровац",
+                  "text": "Plaja Petrovac este situată în apropierea Cetății Petrovac.",
+                  "category": "recreational",
+                  "coords": [
+                        18.940348,
+                        42.204882
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Плажа Петровац",
+                  "text": "Petrovac Beach is located near the Petrovac Fort.",
+                  "category": "recreational",
+                  "coords": [
+                        18.940348,
+                        42.204882
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "ME",
     name: { de: "Kastio Festung", hu: "Kastio erőd", ro: "Fortăreața Kastio", en: "Kastio Fortress" },
@@ -453,7 +633,52 @@ export const montenegroLandmarksV2: POI[] = [
     image: "/poi-images/montenegro-st-tryphon-cathedral-landmarks-v2.webp",
   },
   {
-    id: "montenegro-perast-tower-landmarks-v2",
+    id: "montenegro-perast-tower-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Castana",
+                  "text": "Castana Strand bei Perast.",
+                  "category": "recreational",
+                  "coords": [
+                        18.657522,
+                        42.487306
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Castana",
+                  "text": "Castana strand Perast közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.657522,
+                        42.487306
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castana",
+                  "text": "Plaja Castana lângă Perast.",
+                  "category": "recreational",
+                  "coords": [
+                        18.657522,
+                        42.487306
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Castana",
+                  "text": "Castana beach near Perast.",
+                  "category": "recreational",
+                  "coords": [
+                        18.657522,
+                        42.487306
+                  ]
+            }
+      ]
+},
     type: "tower",
     parent: "ME",
     name: { de: "Uhrturm von Perast", hu: "Perasti óratorony", ro: "Turnul cu ceas din Perast", en: "Clock Tower of Perast" },
@@ -633,7 +858,88 @@ export const montenegroLandmarksV2: POI[] = [
     image: "/poi-images/montenegro-ostrog-lower-church-landmarks-v2.webp",
   },
   {
-    id: "montenegro-sveti-stefan-landmark-landmarks-v2",
+    id: "montenegro-sveti-stefan-landmark-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Пляж \"Црвена Главица\"",
+                  "text": "Der Strand Crvena Glavica liegt beim Wahrzeichen Sveti Stefan.",
+                  "category": "recreational",
+                  "coords": [
+                        18.89639,
+                        42.252033
+                  ]
+            },
+            {
+                  "name": "FKK Crvena glavica",
+                  "text": "FKK Crvena glavica ist ein FKK-Strand nahe Sveti Stefan.",
+                  "category": "recreational",
+                  "coords": [
+                        18.896309,
+                        42.246002
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Пляж \"Црвена Главица\"",
+                  "text": "Crvena Glavica strandja a Sveti Stefan nevezetességnél található.",
+                  "category": "recreational",
+                  "coords": [
+                        18.89639,
+                        42.252033
+                  ]
+            },
+            {
+                  "name": "FKK Crvena glavica",
+                  "text": "Az FKK Crvena glavica egy nudista strand Sveti Stefan közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.896309,
+                        42.246002
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Пляж \"Црвена Главица\"",
+                  "text": "Plaja Crvena Glavica este situată lângă obiectivul turistic Sveti Stefan.",
+                  "category": "recreational",
+                  "coords": [
+                        18.89639,
+                        42.252033
+                  ]
+            },
+            {
+                  "name": "FKK Crvena glavica",
+                  "text": "FKK Crvena glavica este o plajă de nudiști lângă Sveti Stefan.",
+                  "category": "recreational",
+                  "coords": [
+                        18.896309,
+                        42.246002
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Пляж \"Црвена Главица\"",
+                  "text": "Crvena Glavica beach is located by the Sveti Stefan landmark.",
+                  "category": "recreational",
+                  "coords": [
+                        18.89639,
+                        42.252033
+                  ]
+            },
+            {
+                  "name": "FKK Crvena glavica",
+                  "text": "FKK Crvena glavica is a naturist beach near Sveti Stefan.",
+                  "category": "recreational",
+                  "coords": [
+                        18.896309,
+                        42.246002
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "ME",
     name: { de: "Sveti Stefan Insel", hu: "Sveti Stefan sziget", ro: "Insula Sveti Stefan", en: "Sveti Stefan Island" },
@@ -993,7 +1299,124 @@ export const montenegroLandmarksV2: POI[] = [
     image: "/poi-images/montenegro-herceg-novi-clock-landmarks-v2.webp",
   },
   {
-    id: "montenegro-budva-ballet-landmark-landmarks-v2",
+    id: "montenegro-budva-ballet-landmark-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mogren 2",
+                  "text": "Mogren 2 Strand in Budva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.830641,
+                        42.276148
+                  ]
+            },
+            {
+                  "name": "Plaža Jaz",
+                  "text": "Jaz Strand bei Budva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.806613,
+                        42.282118
+                  ]
+            },
+            {
+                  "name": "Jaz nude beach",
+                  "text": "Jaz nude beach befindet sich in der Nähe von Budva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.817596,
+                        42.281315
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mogren 2",
+                  "text": "Mogren 2 strand Budvában.",
+                  "category": "recreational",
+                  "coords": [
+                        18.830641,
+                        42.276148
+                  ]
+            },
+            {
+                  "name": "Plaža Jaz",
+                  "text": "Jaz strand Budva közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.806613,
+                        42.282118
+                  ]
+            },
+            {
+                  "name": "Jaz nude beach",
+                  "text": "A Jaz nude beach Budva közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        18.817596,
+                        42.281315
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mogren 2",
+                  "text": "Plaja Mogren 2 în Budva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.830641,
+                        42.276148
+                  ]
+            },
+            {
+                  "name": "Plaža Jaz",
+                  "text": "Plaja Jaz lângă Budva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.806613,
+                        42.282118
+                  ]
+            },
+            {
+                  "name": "Jaz nude beach",
+                  "text": "Jaz nude beach este situată lângă Budva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.817596,
+                        42.281315
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mogren 2",
+                  "text": "Mogren 2 beach in Budva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.830641,
+                        42.276148
+                  ]
+            },
+            {
+                  "name": "Plaža Jaz",
+                  "text": "Jaz beach near Budva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.806613,
+                        42.282118
+                  ]
+            },
+            {
+                  "name": "Jaz nude beach",
+                  "text": "Jaz nude beach is located near Budva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.817596,
+                        42.281315
+                  ]
+            }
+      ]
+},
     type: "monument",
     parent: "ME",
     name: { de: "Ballerina Statue Budva", hu: "Ballerina szobor Budva", ro: "Statuia Balerinei din Budva", en: "Ballerina Statue Budva" },
@@ -1173,7 +1596,304 @@ export const montenegroLandmarksV2: POI[] = [
     image: "/poi-images/montenegro-perast-st-nicholas-landmarks-v2.webp",
   },
   {
-    id: "montenegro-ulcinj-fortress-landmarks-v2",
+    id: "montenegro-ulcinj-fortress-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mala plaža - Plazhi i Vogël",
+                  "text": "Die Mala plaža liegt in der Nähe der Festung Ulcinj.",
+                  "category": "recreational",
+                  "coords": [
+                        19.204553,
+                        41.923261
+                  ]
+            },
+            {
+                  "name": "Liman 1",
+                  "text": "Liman 1 befindet sich bei der Festung Ulcinj.",
+                  "category": "recreational",
+                  "coords": [
+                        19.199358,
+                        41.925504
+                  ]
+            },
+            {
+                  "name": "Liman 2",
+                  "text": "Liman 2 befindet sich bei der Festung Ulcinj.",
+                  "category": "recreational",
+                  "coords": [
+                        19.196985,
+                        41.927078
+                  ]
+            },
+            {
+                  "name": "Ludvig",
+                  "text": "Der Strand Ludvig befindet sich unterhalb der Festung Ulcinj.",
+                  "category": "recreational",
+                  "coords": [
+                        19.204942,
+                        41.920773
+                  ]
+            },
+            {
+                  "name": "Plazhi i Lugut të Xhemiles",
+                  "text": "Plazhi i Lugut të Xhemiles liegt bei der Festung Ulcinj.",
+                  "category": "recreational",
+                  "coords": [
+                        19.180481,
+                        41.934313
+                  ]
+            },
+            {
+                  "name": "Plazhi i Bashbylykut",
+                  "text": "Plazhi i Bashbylykut liegt bei der Festung Ulcinj.",
+                  "category": "recreational",
+                  "coords": [
+                        19.191454,
+                        41.928838
+                  ]
+            },
+            {
+                  "name": "Plazhi Paneuropa",
+                  "text": "Plazhi Paneuropa liegt bei der Festung Ulcinj.",
+                  "category": "recreational",
+                  "coords": [
+                        19.206526,
+                        41.920689
+                  ]
+            },
+            {
+                  "name": "Far Beach",
+                  "text": "Far Beach befindet sich bei der Festung von Ulcinj.",
+                  "category": "recreational",
+                  "coords": [
+                        19.208478,
+                        41.920834
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mala plaža - Plazhi i Vogël",
+                  "text": "A Mala plaža az Ulcinji erőd közelében fekszik.",
+                  "category": "recreational",
+                  "coords": [
+                        19.204553,
+                        41.923261
+                  ]
+            },
+            {
+                  "name": "Liman 1",
+                  "text": "Liman 1 az Ulcinji erődnél található.",
+                  "category": "recreational",
+                  "coords": [
+                        19.199358,
+                        41.925504
+                  ]
+            },
+            {
+                  "name": "Liman 2",
+                  "text": "Liman 2 az Ulcinji erődnél található.",
+                  "category": "recreational",
+                  "coords": [
+                        19.196985,
+                        41.927078
+                  ]
+            },
+            {
+                  "name": "Ludvig",
+                  "text": "A Ludvig strand az Ulcinji erőd alatt található.",
+                  "category": "recreational",
+                  "coords": [
+                        19.204942,
+                        41.920773
+                  ]
+            },
+            {
+                  "name": "Plazhi i Lugut të Xhemiles",
+                  "text": "A Plazhi i Lugut të Xhemiles az Ulcinji erőd közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        19.180481,
+                        41.934313
+                  ]
+            },
+            {
+                  "name": "Plazhi i Bashbylykut",
+                  "text": "A Plazhi i Bashbylykut az Ulcinji erőd közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        19.191454,
+                        41.928838
+                  ]
+            },
+            {
+                  "name": "Plazhi Paneuropa",
+                  "text": "A Plazhi Paneuropa az Ulcinji erőd közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        19.206526,
+                        41.920689
+                  ]
+            },
+            {
+                  "name": "Far Beach",
+                  "text": "A Far Beach Ulcinj erődjénél található.",
+                  "category": "recreational",
+                  "coords": [
+                        19.208478,
+                        41.920834
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mala plaža - Plazhi i Vogël",
+                  "text": "Mala plaža se află în apropierea Cetății Ulcinj.",
+                  "category": "recreational",
+                  "coords": [
+                        19.204553,
+                        41.923261
+                  ]
+            },
+            {
+                  "name": "Liman 1",
+                  "text": "Liman 1 se află lângă fortăreața Ulcinj.",
+                  "category": "recreational",
+                  "coords": [
+                        19.199358,
+                        41.925504
+                  ]
+            },
+            {
+                  "name": "Liman 2",
+                  "text": "Liman 2 se află lângă fortăreața Ulcinj.",
+                  "category": "recreational",
+                  "coords": [
+                        19.196985,
+                        41.927078
+                  ]
+            },
+            {
+                  "name": "Ludvig",
+                  "text": "Plaja Ludvig se află sub fortăreața din Ulcinj.",
+                  "category": "recreational",
+                  "coords": [
+                        19.204942,
+                        41.920773
+                  ]
+            },
+            {
+                  "name": "Plazhi i Lugut të Xhemiles",
+                  "text": "Plazhi i Lugut të Xhemiles se află lângă fortăreața din Ulcinj.",
+                  "category": "recreational",
+                  "coords": [
+                        19.180481,
+                        41.934313
+                  ]
+            },
+            {
+                  "name": "Plazhi i Bashbylykut",
+                  "text": "Plazhi i Bashbylykut se află lângă fortăreața din Ulcinj.",
+                  "category": "recreational",
+                  "coords": [
+                        19.191454,
+                        41.928838
+                  ]
+            },
+            {
+                  "name": "Plazhi Paneuropa",
+                  "text": "Plazhi Paneuropa se află lângă fortăreața din Ulcinj.",
+                  "category": "recreational",
+                  "coords": [
+                        19.206526,
+                        41.920689
+                  ]
+            },
+            {
+                  "name": "Far Beach",
+                  "text": "Far Beach se află la fortăreața din Ulcinj.",
+                  "category": "recreational",
+                  "coords": [
+                        19.208478,
+                        41.920834
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mala plaža - Plazhi i Vogël",
+                  "text": "Mala plaža is situated near the Ulcinj Fortress.",
+                  "category": "recreational",
+                  "coords": [
+                        19.204553,
+                        41.923261
+                  ]
+            },
+            {
+                  "name": "Liman 1",
+                  "text": "Liman 1 is located by the Ulcinj fortress.",
+                  "category": "recreational",
+                  "coords": [
+                        19.199358,
+                        41.925504
+                  ]
+            },
+            {
+                  "name": "Liman 2",
+                  "text": "Liman 2 is located by the Ulcinj fortress.",
+                  "category": "recreational",
+                  "coords": [
+                        19.196985,
+                        41.927078
+                  ]
+            },
+            {
+                  "name": "Ludvig",
+                  "text": "Ludvig beach is located below the Ulcinj fortress.",
+                  "category": "recreational",
+                  "coords": [
+                        19.204942,
+                        41.920773
+                  ]
+            },
+            {
+                  "name": "Plazhi i Lugut të Xhemiles",
+                  "text": "Plazhi i Lugut të Xhemiles is located near the Ulcinj fortress.",
+                  "category": "recreational",
+                  "coords": [
+                        19.180481,
+                        41.934313
+                  ]
+            },
+            {
+                  "name": "Plazhi i Bashbylykut",
+                  "text": "Plazhi i Bashbylykut is located near the Ulcinj fortress.",
+                  "category": "recreational",
+                  "coords": [
+                        19.191454,
+                        41.928838
+                  ]
+            },
+            {
+                  "name": "Plazhi Paneuropa",
+                  "text": "Plazhi Paneuropa is located near the Ulcinj fortress.",
+                  "category": "recreational",
+                  "coords": [
+                        19.206526,
+                        41.920689
+                  ]
+            },
+            {
+                  "name": "Far Beach",
+                  "text": "Far Beach is located at the fortress of Ulcinj.",
+                  "category": "recreational",
+                  "coords": [
+                        19.208478,
+                        41.920834
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "ME",
     name: { de: "Festung von Ulcinj", hu: "Ulcinji erőd", ro: "Fortăreața din Ulcinj", en: "Fortress of Ulcinj" },
@@ -1353,7 +2073,52 @@ export const montenegroLandmarksV2: POI[] = [
     image: "/poi-images/montenegro-kotor-walls-landmarks-v2.webp",
   },
   {
-    id: "montenegro-budva-church-tri-landmarks-v2",
+    id: "montenegro-budva-church-tri-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mogren 1",
+                  "text": "Mogren 1 Strand in Budva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.832388,
+                        42.276986
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mogren 1",
+                  "text": "Mogren 1 strand Budvában.",
+                  "category": "recreational",
+                  "coords": [
+                        18.832388,
+                        42.276986
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mogren 1",
+                  "text": "Plaja Mogren 1 în Budva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.832388,
+                        42.276986
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mogren 1",
+                  "text": "Mogren 1 beach in Budva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.832388,
+                        42.276986
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "ME",
     name: { de: "Kirche der Heiligen Dreifaltigkeit Budva", hu: "Szentháromság templom Budva", ro: "Biserica Sfânta Treime Budva", en: "Church of the Holy Trinity Budva" },

@@ -463,7 +463,52 @@ imageHint: "Kosterhavet National Park marine landscape and islands",
     },
     image: "/poi-images/sweden-kosterhavet-life-v2.webp",
 },  {
-    id: "sweden-tiveden-national-park-life-v2",
+    id: "sweden-tiveden-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vitsand",
+                  "text": "Strand im Tiveden-Nationalpark.",
+                  "category": "recreational",
+                  "coords": [
+                        14.57005,
+                        58.728335
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vitsand",
+                  "text": "Strand a Tiveden Nemzeti Parkban.",
+                  "category": "recreational",
+                  "coords": [
+                        14.57005,
+                        58.728335
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vitsand",
+                  "text": "Plajă în Parcul Național Tiveden.",
+                  "category": "recreational",
+                  "coords": [
+                        14.57005,
+                        58.728335
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vitsand",
+                  "text": "Beach in Tiveden National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        14.57005,
+                        58.728335
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "park",
     name: { de: "Nationalpark Tiveden", hu: "Tiveden Nemzeti Park", ro: "Parcul Național Tiveden", en: "Tiveden National Park"},
@@ -693,7 +738,88 @@ imageHint: "Gothenburg Botanical Garden flowers and pathways",
     },
     image: "/poi-images/sweden-gothenburg-botanical-garden-life-v2.webp",
 },  {
-    id: "sweden-bergius-botanical-garden-life-v2",
+    id: "sweden-bergius-botanical-garden-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Grottviken",
+                  "text": "Strand in der Nähe des Bergius-Gartens in Stockholm.",
+                  "category": "recreational",
+                  "coords": [
+                        18.087793,
+                        59.377158
+                  ]
+            },
+            {
+                  "name": "Södra badstrand",
+                  "text": "Södra Badstrand liegt beim Bergius Botanischen Garten.",
+                  "category": "recreational",
+                  "coords": [
+                        18.080122,
+                        59.374925
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Grottviken",
+                  "text": "Part a stockholmi Bergius Botanikus Kert közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.087793,
+                        59.377158
+                  ]
+            },
+            {
+                  "name": "Södra badstrand",
+                  "text": "Södra Badstrand a Bergius Botanikus Kert mellett található.",
+                  "category": "recreational",
+                  "coords": [
+                        18.080122,
+                        59.374925
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Grottviken",
+                  "text": "Plajă în apropiere de Grădina Botanică Bergius.",
+                  "category": "recreational",
+                  "coords": [
+                        18.087793,
+                        59.377158
+                  ]
+            },
+            {
+                  "name": "Södra badstrand",
+                  "text": "Södra Badstrand este situată lângă Grădina Botanică Bergius.",
+                  "category": "recreational",
+                  "coords": [
+                        18.080122,
+                        59.374925
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Grottviken",
+                  "text": "Beach near Bergius Botanical Garden.",
+                  "category": "recreational",
+                  "coords": [
+                        18.087793,
+                        59.377158
+                  ]
+            },
+            {
+                  "name": "Södra badstrand",
+                  "text": "Södra Badstrand is located by the Bergius Botanical Garden.",
+                  "category": "recreational",
+                  "coords": [
+                        18.080122,
+                        59.374925
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "park",
     name: { de: "Bergianscher Garten", hu: "Bergius Botanikus Kert", ro: "Grădina Botanică Bergius", en: "Bergius Botanical Garden"},
@@ -1199,7 +1325,52 @@ imageHint: "Söderåsen National Park autumn beech forest",
     },
     image: "/poi-images/sweden-soderasen-national-park-life-v2.webp",
 },  {
-    id: "sweden-gotska-sandon-national-park-life-v2",
+    id: "sweden-gotska-sandon-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Las Palmas",
+                  "text": "Ein abgelegener Strand im Nationalpark Gotska Sandön.",
+                  "category": "recreational",
+                  "coords": [
+                        19.254752,
+                        58.388934
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Las Palmas",
+                  "text": "Félreeső strand a Gotska Sandön Nemzeti Parkban.",
+                  "category": "recreational",
+                  "coords": [
+                        19.254752,
+                        58.388934
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Las Palmas",
+                  "text": "O plajă izolată în Parcul Național Gotska Sandön.",
+                  "category": "recreational",
+                  "coords": [
+                        19.254752,
+                        58.388934
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Las Palmas",
+                  "text": "A remote beach in Gotska Sandön National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        19.254752,
+                        58.388934
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "park",
     name: { de: "Nationalpark Gotska Sandön", hu: "Gotska Sandön Nemzeti Park", ro: "Parcul Național Gotska Sandön", en: "Gotska Sandön National Park"},

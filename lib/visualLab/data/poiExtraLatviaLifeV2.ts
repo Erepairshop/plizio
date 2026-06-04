@@ -183,7 +183,52 @@ export const latviaLifeV2: POI[] = [
     image: "/poi-images/latvia-grieze-nature-park-life-v2.webp",
   },
   {
-    id: "latvia-pape-nature-park-life-v2",
+    id: "latvia-pape-nature-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pape",
+                  "text": "Pape Strand im Pape Naturpark ist ein natürlicher Küstenabschnitt.",
+                  "category": "recreational",
+                  "coords": [
+                        21.024189,
+                        56.153523
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pape",
+                  "text": "A Papei strand a Papei Természeti Parkban egy természetes partszakasz.",
+                  "category": "recreational",
+                  "coords": [
+                        21.024189,
+                        56.153523
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pape",
+                  "text": "Plaja Pape din Parcul Natural Pape este o zonă de coastă naturală.",
+                  "category": "recreational",
+                  "coords": [
+                        21.024189,
+                        56.153523
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pape",
+                  "text": "Pape beach in Pape Nature Park is a natural stretch of coastline.",
+                  "category": "recreational",
+                  "coords": [
+                        21.024189,
+                        56.153523
+                  ]
+            }
+      ]
+},
     type: "wildlife",
     parent: "LV",
     name: { de: "Pape Naturpark", hu: "Pape Natúrpark", ro: "Parcul Natural Pape", en: "Pape Nature Park" },
@@ -498,7 +543,52 @@ export const latviaLifeV2: POI[] = [
     image: "/poi-images/latvia-engure-lake-nature-park-life-v2.webp",
   },
   {
-    id: "latvia-kanieris-lake-nature-park-life-v2",
+    id: "latvia-kanieris-lake-nature-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Peldvieta Lapmežciemā - “Starpiņupītes peldvieta”",
+                  "text": "Der Strand Starpiņupītes liegt in der Nähe des Kanieris-See-Naturparks.",
+                  "category": "recreational",
+                  "coords": [
+                        23.504067,
+                        57.009174
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Peldvieta Lapmežciemā - “Starpiņupītes peldvieta”",
+                  "text": "A Starpiņupītes strand a Kanieris-tó természetvédelmi park közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        23.504067,
+                        57.009174
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Peldvieta Lapmežciemā - “Starpiņupītes peldvieta”",
+                  "text": "Plaja Starpiņupītes este situată în apropierea Parcului Natural Lacul Kanieris.",
+                  "category": "recreational",
+                  "coords": [
+                        23.504067,
+                        57.009174
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Peldvieta Lapmežciemā - “Starpiņupītes peldvieta”",
+                  "text": "The Starpiņupītes beach is located near the Kanieris Lake Nature Park.",
+                  "category": "recreational",
+                  "coords": [
+                        23.504067,
+                        57.009174
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "LV",
     name: { de: "Kanieris-See Naturpark", hu: "Kanieris-tó Natúrpark", ro: "Parcul Natural Lacul Kanieris", en: "Kanieris Lake Nature Park" },
@@ -633,7 +723,52 @@ export const latviaLifeV2: POI[] = [
     image: "/poi-images/latvia-razna-national-park-life-v2.webp",
   },
   {
-    id: "latvia-gauja-nature-trail-life-v2",
+    id: "latvia-gauja-nature-trail-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Siguldas pludmale",
+                  "text": "Der Strand von Sigulda liegt direkt am Gauja-Naturlehrpfad.",
+                  "category": "recreational",
+                  "coords": [
+                        24.835506,
+                        57.159787
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Siguldas pludmale",
+                  "text": "A sziguldai strand a Gauja tanösvény mentén található.",
+                  "category": "recreational",
+                  "coords": [
+                        24.835506,
+                        57.159787
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Siguldas pludmale",
+                  "text": "Plaja Sigulda este situată chiar pe traseul natural Gauja.",
+                  "category": "recreational",
+                  "coords": [
+                        24.835506,
+                        57.159787
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Siguldas pludmale",
+                  "text": "The Sigulda beach is located directly along the Gauja Nature Trail.",
+                  "category": "recreational",
+                  "coords": [
+                        24.835506,
+                        57.159787
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "LV",
     name: { de: "Gauja Naturlehrpfad", hu: "Gauja Tanösvény", ro: "Poteca Naturală Gauja", en: "Gauja Nature Trail" },

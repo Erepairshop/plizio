@@ -1015,7 +1015,52 @@ imageHint: "Elektrenai power plant and church",
     },
     image: "/poi-images/lithuania-elektrenai-cities-v2.webp",
 },  {
-    id: "lithuania-kursenai-cities-v2",
+    id: "lithuania-kursenai-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maudykla-pliažas „Palangikė“",
+                  "text": "Badestrand „Palangikė“ in Kuršėnai.",
+                  "category": "recreational",
+                  "coords": [
+                        22.959505,
+                        55.995882
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maudykla-pliažas „Palangikė“",
+                  "text": "„Palangikė“ fürdőstrand Kuršėnaiban.",
+                  "category": "recreational",
+                  "coords": [
+                        22.959505,
+                        55.995882
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maudykla-pliažas „Palangikė“",
+                  "text": "Plaja de scăldat „Palangikė“ în Kuršėnai.",
+                  "category": "recreational",
+                  "coords": [
+                        22.959505,
+                        55.995882
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maudykla-pliažas „Palangikė“",
+                  "text": "Maudykla-pliažas „Palangikė“ in Kursenai.",
+                  "category": "recreational",
+                  "coords": [
+                        22.959505,
+                        55.995882
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "city",
     name: { de: "Kuršėnai", hu: "Kuršėnai", ro: "Kuršėnai", en: "Kuršėnai"},
@@ -1061,7 +1106,52 @@ imageHint: "Kursenai pottery monument and bridge",
     },
     image: "/poi-images/lithuania-kursenai-cities-v2.webp",
 },  {
-    id: "lithuania-jurbarkas-cities-v2",
+    id: "lithuania-jurbarkas-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jurbarko paplūdimys",
+                  "text": "Strand von Jurbarkas.",
+                  "category": "recreational",
+                  "coords": [
+                        22.770597,
+                        55.073809
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jurbarko paplūdimys",
+                  "text": "Jurbarkas strandja.",
+                  "category": "recreational",
+                  "coords": [
+                        22.770597,
+                        55.073809
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jurbarko paplūdimys",
+                  "text": "Plaja din Jurbarkas.",
+                  "category": "recreational",
+                  "coords": [
+                        22.770597,
+                        55.073809
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jurbarko paplūdimys",
+                  "text": "Jurbarkas beach.",
+                  "category": "recreational",
+                  "coords": [
+                        22.770597,
+                        55.073809
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "city",
     name: { de: "Jurbarkas", hu: "Jurbarkas", ro: "Jurbarkas", en: "Jurbarkas"},
@@ -2211,7 +2301,52 @@ imageHint: "Silale church and central park",
     },
     image: "/poi-images/lithuania-silale-cities-v2.webp",
 },  {
-    id: "lithuania-ignalina-cities-v2",
+    id: "lithuania-ignalina-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vėlykščio nudistų paplūdimys",
+                  "text": "FKK-Strand Vėlykščis in Ignalina.",
+                  "category": "recreational",
+                  "coords": [
+                        26.214716,
+                        55.319917
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vėlykščio nudistų paplūdimys",
+                  "text": "Vėlykščis nudista strand Ignalinában.",
+                  "category": "recreational",
+                  "coords": [
+                        26.214716,
+                        55.319917
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vėlykščio nudistų paplūdimys",
+                  "text": "Plaja de nudiști Vėlykščis din Ignalina.",
+                  "category": "recreational",
+                  "coords": [
+                        26.214716,
+                        55.319917
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vėlykščio nudistų paplūdimys",
+                  "text": "Vėlykščis nudist beach in Ignalina.",
+                  "category": "recreational",
+                  "coords": [
+                        26.214716,
+                        55.319917
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "city",
     name: { de: "Ignalina", hu: "Ignalina", ro: "Ignalina", en: "Ignalina"},
@@ -2257,7 +2392,52 @@ imageHint: "Ignalina winter sports center and lake",
     },
     image: "/poi-images/lithuania-ignalina-cities-v2.webp",
 },  {
-    id: "lithuania-nemencine-cities-v2",
+    id: "lithuania-nemencine-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Balto molio papludimys",
+                  "text": "Weißer Sandstrand in der Nähe von Nemenčinė.",
+                  "category": "recreational",
+                  "coords": [
+                        25.509586,
+                        54.851493
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Balto molio papludimys",
+                  "text": "Fehér homokos strand Nemenčinė közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        25.509586,
+                        54.851493
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Balto molio papludimys",
+                  "text": "Plajă cu nisip alb lângă Nemenčinė.",
+                  "category": "recreational",
+                  "coords": [
+                        25.509586,
+                        54.851493
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Balto molio papludimys",
+                  "text": "White clay beach near Nemencine.",
+                  "category": "recreational",
+                  "coords": [
+                        25.509586,
+                        54.851493
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "city",
     name: { de: "Nemenčinė", hu: "Nemenčinė", ro: "Nemenčinė", en: "Nemenčinė"},
@@ -2487,7 +2667,52 @@ imageHint: "Lazdijai border crossing and church",
     },
     image: "/poi-images/lithuania-lazdijai-cities-v2.webp",
 },  {
-    id: "lithuania-kalvarija-cities-v2",
+    id: "lithuania-kalvarija-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Spūskai",
+                  "text": "Spūskai-Strand in der Nähe von Kalvarija.",
+                  "category": "recreational",
+                  "coords": [
+                        23.209029,
+                        54.413097
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Spūskai",
+                  "text": "Spūskai strand Kalvarija közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        23.209029,
+                        54.413097
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Spūskai",
+                  "text": "Plaja Spūskai lângă Kalvarija.",
+                  "category": "recreational",
+                  "coords": [
+                        23.209029,
+                        54.413097
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Spūskai",
+                  "text": "Spūskai beach near Kalvarija.",
+                  "category": "recreational",
+                  "coords": [
+                        23.209029,
+                        54.413097
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "city",
     name: { de: "Kalvarija", hu: "Kalvarija", ro: "Kalvarija", en: "Kalvarija"},
@@ -2624,7 +2849,52 @@ imageHint: "Lazdijai border crossing and church",
     image: "/poi-images/lithuania-ezerelis-cities-v2.webp",
   },
   {
-    id: "lithuania-veivirzenai-cities-v2",
+    id: "lithuania-veivirzenai-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Veiviržėnų maudykla",
+                  "text": "Badestelle Veiviržėnai in der Ortschaft Veiviržėnai.",
+                  "category": "recreational",
+                  "coords": [
+                        21.599383,
+                        55.597303
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Veiviržėnų maudykla",
+                  "text": "Veiviržėnai fürdőhely Veiviržėnai településen.",
+                  "category": "recreational",
+                  "coords": [
+                        21.599383,
+                        55.597303
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Veiviržėnų maudykla",
+                  "text": "Loc de scăldat Veiviržėnai în localitatea Veiviržėnai.",
+                  "category": "recreational",
+                  "coords": [
+                        21.599383,
+                        55.597303
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Veiviržėnų maudykla",
+                  "text": "Veiviržėnai swimming area in the town of Veiviržėnai.",
+                  "category": "recreational",
+                  "coords": [
+                        21.599383,
+                        55.597303
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LT",
     name: { de: "Veiviržėnai", hu: "Veiviržėnai", ro: "Veiviržėnai", en: "Veiviržėnai" },

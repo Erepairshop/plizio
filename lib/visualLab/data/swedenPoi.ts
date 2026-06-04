@@ -396,7 +396,52 @@ export const swedenCities: POI[] = [
   },
   ,
   {
-    id: "city-umea",
+    id: "city-umea", "sights": {
+      "de": [
+            {
+                  "name": "Kärleksviken",
+                  "text": "Ein Strand bei Umeå.",
+                  "category": "recreational",
+                  "coords": [
+                        20.355993,
+                        63.817613
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kärleksviken",
+                  "text": "Strand Umeå közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        20.355993,
+                        63.817613
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kärleksviken",
+                  "text": "O plajă lângă Umeå.",
+                  "category": "recreational",
+                  "coords": [
+                        20.355993,
+                        63.817613
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kärleksviken",
+                  "text": "A beach near Umeå.",
+                  "category": "recreational",
+                  "coords": [
+                        20.355993,
+                        63.817613
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "sweden",
     coords: [20.2630, 63.8258],
@@ -564,7 +609,52 @@ export const swedenCities: POI[] = [
     image: "/geo-images/sweden/linkoping.webp",
   },
   {
-    id: "city-vasteras",
+    id: "city-vasteras", "sights": {
+      "de": [
+            {
+                  "name": "Lögastrand",
+                  "text": "Strand in der Nähe von Västerås.",
+                  "category": "recreational",
+                  "coords": [
+                        16.538847,
+                        59.59927
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lögastrand",
+                  "text": "Part Västerås közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        16.538847,
+                        59.59927
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lögastrand",
+                  "text": "Plajă în apropiere de Västerås.",
+                  "category": "recreational",
+                  "coords": [
+                        16.538847,
+                        59.59927
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lögastrand",
+                  "text": "Beach near Västerås.",
+                  "category": "recreational",
+                  "coords": [
+                        16.538847,
+                        59.59927
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "sweden",
     coords: [16.5448, 59.6114],
@@ -735,7 +825,124 @@ export const swedenCities: POI[] = [
     image: "/geo-images/sweden/halmstad.webp",
   },
   {
-    id: "city-sundsvall",
+    id: "city-sundsvall", "sights": {
+      "de": [
+            {
+                  "name": "Fläsian",
+                  "text": "Strand in der Nähe von Sundsvall.",
+                  "category": "recreational",
+                  "coords": [
+                        17.371847,
+                        62.361097
+                  ]
+            },
+            {
+                  "name": "Sidsjö strand",
+                  "text": "Sidsjö Strand ist ein beliebter Badeplatz in Sundsvall.",
+                  "category": "recreational",
+                  "coords": [
+                        17.277867,
+                        62.370221
+                  ]
+            },
+            {
+                  "name": "Abborrviken",
+                  "text": "Abborrviken ist eine Badestelle bei Sundsvall.",
+                  "category": "recreational",
+                  "coords": [
+                        17.274899,
+                        62.374834
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fläsian",
+                  "text": "Part Sundsvall közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        17.371847,
+                        62.361097
+                  ]
+            },
+            {
+                  "name": "Sidsjö strand",
+                  "text": "Sidsjö Strand egy népszerű strandfürdő Sundsvallban.",
+                  "category": "recreational",
+                  "coords": [
+                        17.277867,
+                        62.370221
+                  ]
+            },
+            {
+                  "name": "Abborrviken",
+                  "text": "Abborrviken egy strandfürdő Sundsvall közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        17.274899,
+                        62.374834
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fläsian",
+                  "text": "Plajă în apropiere de Sundsvall.",
+                  "category": "recreational",
+                  "coords": [
+                        17.371847,
+                        62.361097
+                  ]
+            },
+            {
+                  "name": "Sidsjö strand",
+                  "text": "Sidsjö Strand este o plajă populară în Sundsvall.",
+                  "category": "recreational",
+                  "coords": [
+                        17.277867,
+                        62.370221
+                  ]
+            },
+            {
+                  "name": "Abborrviken",
+                  "text": "Abborrviken este o zonă de plajă lângă Sundsvall.",
+                  "category": "recreational",
+                  "coords": [
+                        17.274899,
+                        62.374834
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fläsian",
+                  "text": "Beach near Sundsvall.",
+                  "category": "recreational",
+                  "coords": [
+                        17.371847,
+                        62.361097
+                  ]
+            },
+            {
+                  "name": "Sidsjö strand",
+                  "text": "Sidsjö Strand is a popular beach in Sundsvall.",
+                  "category": "recreational",
+                  "coords": [
+                        17.277867,
+                        62.370221
+                  ]
+            },
+            {
+                  "name": "Abborrviken",
+                  "text": "Abborrviken is a swimming area near Sundsvall.",
+                  "category": "recreational",
+                  "coords": [
+                        17.274899,
+                        62.374834
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "sweden",
     coords: [17.3069, 62.3908],
@@ -792,7 +999,124 @@ export const swedenCities: POI[] = [
     image: "/geo-images/sweden/sundsvall.webp",
   },
   {
-    id: "city-lulea",
+    id: "city-lulea", "sights": {
+      "de": [
+            {
+                  "name": "Lulsundsbadet",
+                  "text": "Strand in der Nähe von Luleå.",
+                  "category": "recreational",
+                  "coords": [
+                        22.173329,
+                        65.597545
+                  ]
+            },
+            {
+                  "name": "Notviksbadet",
+                  "text": "Strand in Luleå.",
+                  "category": "recreational",
+                  "coords": [
+                        22.093971,
+                        65.608532
+                  ]
+            },
+            {
+                  "name": "Niporna",
+                  "text": "Strand bei Luleå.",
+                  "category": "recreational",
+                  "coords": [
+                        22.059551,
+                        65.590763
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lulsundsbadet",
+                  "text": "Part Luleå közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        22.173329,
+                        65.597545
+                  ]
+            },
+            {
+                  "name": "Notviksbadet",
+                  "text": "Strand Luleåban.",
+                  "category": "recreational",
+                  "coords": [
+                        22.093971,
+                        65.608532
+                  ]
+            },
+            {
+                  "name": "Niporna",
+                  "text": "Strand Luleå közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        22.059551,
+                        65.590763
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lulsundsbadet",
+                  "text": "Plajă în apropiere de Luleå.",
+                  "category": "recreational",
+                  "coords": [
+                        22.173329,
+                        65.597545
+                  ]
+            },
+            {
+                  "name": "Notviksbadet",
+                  "text": "Plajă în Luleå.",
+                  "category": "recreational",
+                  "coords": [
+                        22.093971,
+                        65.608532
+                  ]
+            },
+            {
+                  "name": "Niporna",
+                  "text": "Plajă lângă Luleå.",
+                  "category": "recreational",
+                  "coords": [
+                        22.059551,
+                        65.590763
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lulsundsbadet",
+                  "text": "Beach near Luleå.",
+                  "category": "recreational",
+                  "coords": [
+                        22.173329,
+                        65.597545
+                  ]
+            },
+            {
+                  "name": "Notviksbadet",
+                  "text": "Beach in Luleå.",
+                  "category": "recreational",
+                  "coords": [
+                        22.093971,
+                        65.608532
+                  ]
+            },
+            {
+                  "name": "Niporna",
+                  "text": "Beach near Luleå.",
+                  "category": "recreational",
+                  "coords": [
+                        22.059551,
+                        65.590763
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "sweden",
     coords: [22.1547, 65.5848],
@@ -849,7 +1173,52 @@ export const swedenCities: POI[] = [
     image: "/geo-images/sweden/lulea.webp",
   },
   {
-    id: "city-karlstad",
+    id: "city-karlstad", "sights": {
+      "de": [
+            {
+                  "name": "Kroppkärrsbadet",
+                  "text": "Kroppkärrsbadet ist ein Strand bei Karlstad.",
+                  "category": "recreational",
+                  "coords": [
+                        13.534617,
+                        59.3906
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kroppkärrsbadet",
+                  "text": "Kroppkärrsbadet egy strand Karlstad közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        13.534617,
+                        59.3906
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kroppkärrsbadet",
+                  "text": "Kroppkärrsbadet este o plajă lângă Karlstad.",
+                  "category": "recreational",
+                  "coords": [
+                        13.534617,
+                        59.3906
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kroppkärrsbadet",
+                  "text": "Kroppkärrsbadet is a beach near Karlstad.",
+                  "category": "recreational",
+                  "coords": [
+                        13.534617,
+                        59.3906
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "sweden",
     coords: [13.5036, 59.3793],
@@ -906,7 +1275,88 @@ export const swedenCities: POI[] = [
     image: "/geo-images/sweden/karlstad.webp",
   },
   {
-    id: "city-jonkoping",
+    id: "city-jonkoping", "sights": {
+      "de": [
+            {
+                  "name": "Vätterstranden",
+                  "text": "Ein großer Strand am Vätternsee in Jönköping.",
+                  "category": "recreational",
+                  "coords": [
+                        14.189123,
+                        57.782171
+                  ]
+            },
+            {
+                  "name": "Vätterstranden Väst",
+                  "text": "Strand in Jönköping am Vättern.",
+                  "category": "recreational",
+                  "coords": [
+                        14.154537,
+                        57.786912
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vätterstranden",
+                  "text": "Nagy strand a Vättern-tónál, Jönköpingben.",
+                  "category": "recreational",
+                  "coords": [
+                        14.189123,
+                        57.782171
+                  ]
+            },
+            {
+                  "name": "Vätterstranden Väst",
+                  "text": "Strand Jönköpingben, a Vättern tónál.",
+                  "category": "recreational",
+                  "coords": [
+                        14.154537,
+                        57.786912
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vätterstranden",
+                  "text": "O plajă mare pe lacul Vättern, în Jönköping.",
+                  "category": "recreational",
+                  "coords": [
+                        14.189123,
+                        57.782171
+                  ]
+            },
+            {
+                  "name": "Vätterstranden Väst",
+                  "text": "Plajă în Jönköping la lacul Vättern.",
+                  "category": "recreational",
+                  "coords": [
+                        14.154537,
+                        57.786912
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vätterstranden",
+                  "text": "A large beach on Lake Vättern in Jönköping.",
+                  "category": "recreational",
+                  "coords": [
+                        14.189123,
+                        57.782171
+                  ]
+            },
+            {
+                  "name": "Vätterstranden Väst",
+                  "text": "Beach in Jönköping at Lake Vättern.",
+                  "category": "recreational",
+                  "coords": [
+                        14.154537,
+                        57.786912
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "sweden",
     coords: [14.1618, 57.7826],
@@ -1089,7 +1539,52 @@ export const swedenCulture: POI[] = [
     image: "/geo-images/sweden/gamla-stan.webp",
   },
   {
-    id: "cult-drottningholm",
+    id: "cult-drottningholm", "sights": {
+      "de": [
+            {
+                  "name": "Mälarhöjdsbadet",
+                  "text": "Mälarhöjdsbadet ist ein Strand bei Drottningholm.",
+                  "category": "recreational",
+                  "coords": [
+                        17.925189,
+                        59.300219
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mälarhöjdsbadet",
+                  "text": "Mälarhöjdsbadet egy strand Drottningholm közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        17.925189,
+                        59.300219
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mälarhöjdsbadet",
+                  "text": "Mälarhöjdsbadet este o plajă lângă Drottningholm.",
+                  "category": "recreational",
+                  "coords": [
+                        17.925189,
+                        59.300219
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mälarhöjdsbadet",
+                  "text": "Mälarhöjdsbadet is a beach near Drottningholm.",
+                  "category": "recreational",
+                  "coords": [
+                        17.925189,
+                        59.300219
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "sweden",
     coords: [17.8857, 59.3219],

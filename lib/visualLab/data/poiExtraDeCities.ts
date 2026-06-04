@@ -1992,6 +1992,15 @@ export const poiExtraDeCities: POI[] = [
                         11.07439,
                         47.474211
                   ]
+            },
+            {
+                  "name": "Strandbad Pflegersee",
+                  "text": "Strandbad am Pflegersee bei Garmisch-Partenkirchen.",
+                  "category": "recreational",
+                  "coords": [
+                        11.081766,
+                        47.519668
+                  ]
             }
       ],
       "hu": [
@@ -2079,6 +2088,15 @@ export const poiExtraDeCities: POI[] = [
                   "coords": [
                         11.07439,
                         47.474211
+                  ]
+            },
+            {
+                  "name": "Strandbad Pflegersee",
+                  "text": "Pflegersee strand Garmisch mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        11.081766,
+                        47.519668
                   ]
             }
       ],
@@ -2168,6 +2186,15 @@ export const poiExtraDeCities: POI[] = [
                         11.07439,
                         47.474211
                   ]
+            },
+            {
+                  "name": "Strandbad Pflegersee",
+                  "text": "Plajă la lacul Pflegersee lângă Garmisch-Partenkirchen.",
+                  "category": "recreational",
+                  "coords": [
+                        11.081766,
+                        47.519668
+                  ]
             }
       ],
       "en": [
@@ -2255,6 +2282,15 @@ export const poiExtraDeCities: POI[] = [
                   "coords": [
                         11.07439,
                         47.474211
+                  ]
+            },
+            {
+                  "name": "Strandbad Pflegersee",
+                  "text": "Beach at Pflegersee lake near Garmisch-Partenkirchen.",
+                  "category": "recreational",
+                  "coords": [
+                        11.081766,
+                        47.519668
                   ]
             }
       ],
@@ -19518,6 +19554,15 @@ export const poiExtraDeCities: POI[] = [
                         9.596075,
                         47.763245
                   ]
+            },
+            {
+                  "name": "Strandbad Flappach",
+                  "text": "Strandbad Flappach bei Ravensburg.",
+                  "category": "recreational",
+                  "coords": [
+                        9.630202,
+                        47.750566
+                  ]
             }
       ],
       "hu": [
@@ -19704,6 +19749,15 @@ export const poiExtraDeCities: POI[] = [
                   "coords": [
                         9.596075,
                         47.763245
+                  ]
+            },
+            {
+                  "name": "Strandbad Flappach",
+                  "text": "Strandbad Flappach fürdőhely Ravensburg mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        9.630202,
+                        47.750566
                   ]
             }
       ],
@@ -19892,6 +19946,15 @@ export const poiExtraDeCities: POI[] = [
                         9.596075,
                         47.763245
                   ]
+            },
+            {
+                  "name": "Strandbad Flappach",
+                  "text": "Plajă și zonă de scăldat Flappach lângă Ravensburg.",
+                  "category": "recreational",
+                  "coords": [
+                        9.630202,
+                        47.750566
+                  ]
             }
       ],
       "en": [
@@ -20078,6 +20141,15 @@ export const poiExtraDeCities: POI[] = [
                   "coords": [
                         9.596075,
                         47.763245
+                  ]
+            },
+            {
+                  "name": "Strandbad Flappach",
+                  "text": "Flappach swimming beach near Ravensburg.",
+                  "category": "recreational",
+                  "coords": [
+                        9.630202,
+                        47.750566
                   ]
             }
       ]
@@ -26189,6 +26261,15 @@ export const poiExtraDeCities: POI[] = [
                   "text": "Ein neogotisches Schloss in der Nähe, das heute als Hotel und Veranstaltungsort genutzt wird.",
                   "category": "historical",
                   "confidence": "high"
+            },
+            {
+                  "name": "Badestelle Ostufer",
+                  "text": "Die Badestelle Ostufer befindet sich in Eschwege.",
+                  "category": "recreational",
+                  "coords": [
+                        10.094494,
+                        51.192839
+                  ]
             }
       ],
       "hu": [
@@ -26220,6 +26301,15 @@ export const poiExtraDeCities: POI[] = [
                   "coords": [
                         10.057034,
                         51.185175
+                  ]
+            },
+            {
+                  "name": "Badestelle Ostufer",
+                  "text": "A Badestelle Ostufer Eschwegében található.",
+                  "category": "recreational",
+                  "coords": [
+                        10.094494,
+                        51.192839
                   ]
             }
       ],
@@ -26253,6 +26343,15 @@ export const poiExtraDeCities: POI[] = [
                         10.057034,
                         51.185175
                   ]
+            },
+            {
+                  "name": "Badestelle Ostufer",
+                  "text": "Badestelle Ostufer este situat în Eschwege.",
+                  "category": "recreational",
+                  "coords": [
+                        10.094494,
+                        51.192839
+                  ]
             }
       ],
       "en": [
@@ -26284,6 +26383,15 @@ export const poiExtraDeCities: POI[] = [
                   "coords": [
                         10.057034,
                         51.185175
+                  ]
+            },
+            {
+                  "name": "Badestelle Ostufer",
+                  "text": "Badestelle Ostufer is located in Eschwege.",
+                  "category": "recreational",
+                  "coords": [
+                        10.094494,
+                        51.192839
                   ]
             }
       ],
@@ -36872,6 +36980,15 @@ export const poiExtraDeCities: POI[] = [
                         8.372326,
                         49.529477
                   ]
+            },
+            {
+                  "name": "Strand Silbersee",
+                  "text": "Der Strand am Silbersee befindet sich in Frankenthal.",
+                  "category": "recreational",
+                  "coords": [
+                        8.378427,
+                        49.572188
+                  ]
             }
       ],
       "hu": [
@@ -36941,6 +37058,15 @@ export const poiExtraDeCities: POI[] = [
                   "coords": [
                         8.372326,
                         49.529477
+                  ]
+            },
+            {
+                  "name": "Strand Silbersee",
+                  "text": "A Silbersee strandja Frankenthalban található.",
+                  "category": "recreational",
+                  "coords": [
+                        8.378427,
+                        49.572188
                   ]
             }
       ],
@@ -37012,6 +37138,15 @@ export const poiExtraDeCities: POI[] = [
                         8.372326,
                         49.529477
                   ]
+            },
+            {
+                  "name": "Strand Silbersee",
+                  "text": "Plaja de la Silbersee se află în Frankenthal.",
+                  "category": "recreational",
+                  "coords": [
+                        8.378427,
+                        49.572188
+                  ]
             }
       ],
       "en": [
@@ -37081,6 +37216,15 @@ export const poiExtraDeCities: POI[] = [
                   "coords": [
                         8.372326,
                         49.529477
+                  ]
+            },
+            {
+                  "name": "Strand Silbersee",
+                  "text": "The beach at Silbersee is located in Frankenthal.",
+                  "category": "recreational",
+                  "coords": [
+                        8.378427,
+                        49.572188
                   ]
             }
       ],
@@ -39829,6 +39973,15 @@ export const poiExtraDeCities: POI[] = [
                         13.94063,
                         50.94574
                   ]
+            },
+            {
+                  "name": "Zielpunt: Adventure-for-you",
+                  "text": "Erholungsziel bei Pirna.",
+                  "category": "recreational",
+                  "coords": [
+                        13.986331,
+                        50.951718
+                  ]
             }
       ],
       "hu": [
@@ -39897,6 +40050,15 @@ export const poiExtraDeCities: POI[] = [
                   "coords": [
                         13.94063,
                         50.94574
+                  ]
+            },
+            {
+                  "name": "Zielpunt: Adventure-for-you",
+                  "text": "Pihenőhely Pirna közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        13.986331,
+                        50.951718
                   ]
             }
       ],
@@ -39967,6 +40129,15 @@ export const poiExtraDeCities: POI[] = [
                         13.94063,
                         50.94574
                   ]
+            },
+            {
+                  "name": "Zielpunt: Adventure-for-you",
+                  "text": "Destinație de recreere lângă Pirna.",
+                  "category": "recreational",
+                  "coords": [
+                        13.986331,
+                        50.951718
+                  ]
             }
       ],
       "en": [
@@ -40035,6 +40206,15 @@ export const poiExtraDeCities: POI[] = [
                   "coords": [
                         13.94063,
                         50.94574
+                  ]
+            },
+            {
+                  "name": "Zielpunt: Adventure-for-you",
+                  "text": "Recreation destination near Pirna.",
+                  "category": "recreational",
+                  "coords": [
+                        13.986331,
+                        50.951718
                   ]
             }
       ],
@@ -44545,6 +44725,15 @@ export const poiExtraDeCities: POI[] = [
                         11.048136,
                         51.896854
                   ]
+            },
+            {
+                  "name": "Strand am Halberstädter See",
+                  "text": "Der Strand am Halberstädter See liegt in Halberstadt.",
+                  "category": "recreational",
+                  "coords": [
+                        11.079926,
+                        51.910168
+                  ]
             }
       ],
       "hu": [
@@ -44626,6 +44815,15 @@ export const poiExtraDeCities: POI[] = [
                   "coords": [
                         11.048136,
                         51.896854
+                  ]
+            },
+            {
+                  "name": "Strand am Halberstädter See",
+                  "text": "A Strand am Halberstädter See strand Halberstadtban található.",
+                  "category": "recreational",
+                  "coords": [
+                        11.079926,
+                        51.910168
                   ]
             }
       ],
@@ -44709,6 +44907,15 @@ export const poiExtraDeCities: POI[] = [
                         11.048136,
                         51.896854
                   ]
+            },
+            {
+                  "name": "Strand am Halberstädter See",
+                  "text": "Plaja de la lacul Halberstadt este situată în Halberstadt.",
+                  "category": "recreational",
+                  "coords": [
+                        11.079926,
+                        51.910168
+                  ]
             }
       ],
       "en": [
@@ -44790,6 +44997,15 @@ export const poiExtraDeCities: POI[] = [
                   "coords": [
                         11.048136,
                         51.896854
+                  ]
+            },
+            {
+                  "name": "Strand am Halberstädter See",
+                  "text": "The beach at Halberstadt Lake is located in Halberstadt.",
+                  "category": "recreational",
+                  "coords": [
+                        11.079926,
+                        51.910168
                   ]
             }
       ],
@@ -46142,6 +46358,15 @@ export const poiExtraDeCities: POI[] = [
                         11.8126,
                         51.15
                   ]
+            },
+            {
+                  "name": "Fundgrube",
+                  "text": "Badestelle Fundgrube bei Naumburg.",
+                  "category": "recreational",
+                  "coords": [
+                        11.762315,
+                        51.150338
+                  ]
             }
       ],
       "hu": [
@@ -46183,6 +46408,15 @@ export const poiExtraDeCities: POI[] = [
                   "coords": [
                         11.8126,
                         51.15
+                  ]
+            },
+            {
+                  "name": "Fundgrube",
+                  "text": "Fürdőhely Fundgrube, Naumburg mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        11.762315,
+                        51.150338
                   ]
             }
       ],
@@ -46226,6 +46460,15 @@ export const poiExtraDeCities: POI[] = [
                         11.8126,
                         51.15
                   ]
+            },
+            {
+                  "name": "Fundgrube",
+                  "text": "Zonă de îmbăiere Fundgrube lângă Naumburg.",
+                  "category": "recreational",
+                  "coords": [
+                        11.762315,
+                        51.150338
+                  ]
             }
       ],
       "en": [
@@ -46267,6 +46510,15 @@ export const poiExtraDeCities: POI[] = [
                   "coords": [
                         11.8126,
                         51.15
+                  ]
+            },
+            {
+                  "name": "Fundgrube",
+                  "text": "Bathing area Fundgrube near Naumburg.",
+                  "category": "recreational",
+                  "coords": [
+                        11.762315,
+                        51.150338
                   ]
             }
       ],
@@ -48194,6 +48446,15 @@ export const poiExtraDeCities: POI[] = [
                         9.994613,
                         53.70742
                   ]
+            },
+            {
+                  "name": "Strandbad Norderstedt",
+                  "text": "Strandbad in Norderstedt.",
+                  "category": "recreational",
+                  "coords": [
+                        10.023622,
+                        53.715698
+                  ]
             }
       ],
       "hu": [
@@ -48255,6 +48516,15 @@ export const poiExtraDeCities: POI[] = [
                   "coords": [
                         9.994613,
                         53.70742
+                  ]
+            },
+            {
+                  "name": "Strandbad Norderstedt",
+                  "text": "Strandfürdő Norderstedtben.",
+                  "category": "recreational",
+                  "coords": [
+                        10.023622,
+                        53.715698
                   ]
             }
       ],
@@ -48318,6 +48588,15 @@ export const poiExtraDeCities: POI[] = [
                         9.994613,
                         53.70742
                   ]
+            },
+            {
+                  "name": "Strandbad Norderstedt",
+                  "text": "Plajă amenajată în Norderstedt.",
+                  "category": "recreational",
+                  "coords": [
+                        10.023622,
+                        53.715698
+                  ]
             }
       ],
       "en": [
@@ -48379,6 +48658,15 @@ export const poiExtraDeCities: POI[] = [
                   "coords": [
                         9.994613,
                         53.70742
+                  ]
+            },
+            {
+                  "name": "Strandbad Norderstedt",
+                  "text": "Beach bath in Norderstedt.",
+                  "category": "recreational",
+                  "coords": [
+                        10.023622,
+                        53.715698
                   ]
             }
       ],
@@ -52407,6 +52695,24 @@ export const poiExtraDeCities: POI[] = [
                         9.836127,
                         54.474257
                   ]
+            },
+            {
+                  "name": "Kurstrand",
+                  "text": "Der Kurstrand befindet sich in Eckernförde.",
+                  "category": "recreational",
+                  "coords": [
+                        9.842473,
+                        54.466179
+                  ]
+            },
+            {
+                  "name": "Südstrand",
+                  "text": "Der Südstrand liegt in Eckernförde.",
+                  "category": "recreational",
+                  "coords": [
+                        9.862643,
+                        54.450632
+                  ]
             }
       ],
       "hu": [
@@ -52458,6 +52764,24 @@ export const poiExtraDeCities: POI[] = [
                   "coords": [
                         9.836127,
                         54.474257
+                  ]
+            },
+            {
+                  "name": "Kurstrand",
+                  "text": "A Kurstrand Eckernförde városában található.",
+                  "category": "recreational",
+                  "coords": [
+                        9.842473,
+                        54.466179
+                  ]
+            },
+            {
+                  "name": "Südstrand",
+                  "text": "A Südstrand Eckernförde déli részén található.",
+                  "category": "recreational",
+                  "coords": [
+                        9.862643,
+                        54.450632
                   ]
             }
       ],
@@ -52511,6 +52835,24 @@ export const poiExtraDeCities: POI[] = [
                         9.836127,
                         54.474257
                   ]
+            },
+            {
+                  "name": "Kurstrand",
+                  "text": "Kurstrand se află în Eckernförde.",
+                  "category": "recreational",
+                  "coords": [
+                        9.842473,
+                        54.466179
+                  ]
+            },
+            {
+                  "name": "Südstrand",
+                  "text": "Südstrand se află în Eckernförde.",
+                  "category": "recreational",
+                  "coords": [
+                        9.862643,
+                        54.450632
+                  ]
             }
       ],
       "en": [
@@ -52562,6 +52904,24 @@ export const poiExtraDeCities: POI[] = [
                   "coords": [
                         9.836127,
                         54.474257
+                  ]
+            },
+            {
+                  "name": "Kurstrand",
+                  "text": "Kurstrand is located in Eckernförde.",
+                  "category": "recreational",
+                  "coords": [
+                        9.842473,
+                        54.466179
+                  ]
+            },
+            {
+                  "name": "Südstrand",
+                  "text": "Südstrand is located in Eckernförde.",
+                  "category": "recreational",
+                  "coords": [
+                        9.862643,
+                        54.450632
                   ]
             }
       ],
@@ -59715,6 +60075,15 @@ export const poiExtraDeCities: POI[] = [
                         12.654725,
                         53.512898
                   ]
+            },
+            {
+                  "name": "Naturbad Feisneck",
+                  "text": "Naturbad Feisneck in Waren.",
+                  "category": "recreational",
+                  "coords": [
+                        12.702284,
+                        53.502872
+                  ]
             }
       ],
       "hu": [
@@ -59818,6 +60187,15 @@ export const poiExtraDeCities: POI[] = [
                   "coords": [
                         12.654725,
                         53.512898
+                  ]
+            },
+            {
+                  "name": "Naturbad Feisneck",
+                  "text": "Feisneck természetes fürdőhely Warenben.",
+                  "category": "recreational",
+                  "coords": [
+                        12.702284,
+                        53.502872
                   ]
             }
       ],
@@ -59923,6 +60301,15 @@ export const poiExtraDeCities: POI[] = [
                         12.654725,
                         53.512898
                   ]
+            },
+            {
+                  "name": "Naturbad Feisneck",
+                  "text": "Baie naturală Feisneck în Waren.",
+                  "category": "recreational",
+                  "coords": [
+                        12.702284,
+                        53.502872
+                  ]
             }
       ],
       "en": [
@@ -60026,6 +60413,15 @@ export const poiExtraDeCities: POI[] = [
                   "coords": [
                         12.654725,
                         53.512898
+                  ]
+            },
+            {
+                  "name": "Naturbad Feisneck",
+                  "text": "Natural bathing area Feisneck in Waren.",
+                  "category": "recreational",
+                  "coords": [
+                        12.702284,
+                        53.502872
                   ]
             }
       ],
@@ -60636,6 +61032,15 @@ export const poiExtraDeCities: POI[] = [
                         11.857082,
                         53.440328
                   ]
+            },
+            {
+                  "name": "Hohes Ufer",
+                  "text": "Das Hohe Ufer bietet eine Badestelle bei Parchim.",
+                  "category": "recreational",
+                  "coords": [
+                        11.882476,
+                        53.393434
+                  ]
             }
       ],
       "hu": [
@@ -60686,6 +61091,15 @@ export const poiExtraDeCities: POI[] = [
                   "coords": [
                         11.857082,
                         53.440328
+                  ]
+            },
+            {
+                  "name": "Hohes Ufer",
+                  "text": "A Hohe Ufer fürdőhelyet kínál Parchim közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        11.882476,
+                        53.393434
                   ]
             }
       ],
@@ -60738,6 +61152,15 @@ export const poiExtraDeCities: POI[] = [
                         11.857082,
                         53.440328
                   ]
+            },
+            {
+                  "name": "Hohes Ufer",
+                  "text": "Hohe Ufer oferă o zonă de scăldat lângă Parchim.",
+                  "category": "recreational",
+                  "coords": [
+                        11.882476,
+                        53.393434
+                  ]
             }
       ],
       "en": [
@@ -60788,6 +61211,15 @@ export const poiExtraDeCities: POI[] = [
                   "coords": [
                         11.857082,
                         53.440328
+                  ]
+            },
+            {
+                  "name": "Hohes Ufer",
+                  "text": "Hohe Ufer offers a bathing spot near Parchim.",
+                  "category": "recreational",
+                  "coords": [
+                        11.882476,
+                        53.393434
                   ]
             }
       ],
@@ -64592,6 +65024,15 @@ export const poiExtraDeCities: POI[] = [
                         13.617293,
                         52.305311
                   ]
+            },
+            {
+                  "name": "Strandbad \"Neue Mühle\"",
+                  "text": "Strandbad in Königs Wusterhausen.",
+                  "category": "recreational",
+                  "coords": [
+                        13.661416,
+                        52.294037
+                  ]
             }
       ],
       "hu": [
@@ -64716,6 +65157,15 @@ export const poiExtraDeCities: POI[] = [
                   "coords": [
                         13.617293,
                         52.305311
+                  ]
+            },
+            {
+                  "name": "Strandbad \"Neue Mühle\"",
+                  "text": "Strandfürdő Königs Wusterhausenben.",
+                  "category": "recreational",
+                  "coords": [
+                        13.661416,
+                        52.294037
                   ]
             }
       ],
@@ -64842,6 +65292,15 @@ export const poiExtraDeCities: POI[] = [
                         13.617293,
                         52.305311
                   ]
+            },
+            {
+                  "name": "Strandbad \"Neue Mühle\"",
+                  "text": "Ștrand în Königs Wusterhausen.",
+                  "category": "recreational",
+                  "coords": [
+                        13.661416,
+                        52.294037
+                  ]
             }
       ],
       "en": [
@@ -64966,6 +65425,15 @@ export const poiExtraDeCities: POI[] = [
                   "coords": [
                         13.617293,
                         52.305311
+                  ]
+            },
+            {
+                  "name": "Strandbad \"Neue Mühle\"",
+                  "text": "Beach resort in Königs Wusterhausen.",
+                  "category": "recreational",
+                  "coords": [
+                        13.661416,
+                        52.294037
                   ]
             }
       ],
@@ -66506,6 +66974,15 @@ export const poiExtraDeCities: POI[] = [
                         12.92434,
                         52.399505
                   ]
+            },
+            {
+                  "name": "Strandbad Werder",
+                  "text": "Das Strandbad Werder bietet Bademöglichkeiten in Werder.",
+                  "category": "recreational",
+                  "coords": [
+                        12.908696,
+                        52.378915
+                  ]
             }
       ],
       "hu": [
@@ -66582,6 +67059,15 @@ export const poiExtraDeCities: POI[] = [
                   "coords": [
                         12.92434,
                         52.399505
+                  ]
+            },
+            {
+                  "name": "Strandbad Werder",
+                  "text": "A Strandbad Werder fürdőzési lehetőségeket kínál Werderben.",
+                  "category": "recreational",
+                  "coords": [
+                        12.908696,
+                        52.378915
                   ]
             }
       ],
@@ -66660,6 +67146,15 @@ export const poiExtraDeCities: POI[] = [
                         12.92434,
                         52.399505
                   ]
+            },
+            {
+                  "name": "Strandbad Werder",
+                  "text": "Strandbad Werder oferă oportunități de scăldat în Werder.",
+                  "category": "recreational",
+                  "coords": [
+                        12.908696,
+                        52.378915
+                  ]
             }
       ],
       "en": [
@@ -66736,6 +67231,15 @@ export const poiExtraDeCities: POI[] = [
                   "coords": [
                         12.92434,
                         52.399505
+                  ]
+            },
+            {
+                  "name": "Strandbad Werder",
+                  "text": "Strandbad Werder offers bathing opportunities in Werder.",
+                  "category": "recreational",
+                  "coords": [
+                        12.908696,
+                        52.378915
                   ]
             }
       ],
@@ -66907,6 +67411,24 @@ export const poiExtraDeCities: POI[] = [
                         14.006951,
                         51.512399
                   ]
+            },
+            {
+                  "name": "Südsee",
+                  "text": "Die Südsee ist ein Strandbereich in Senftenberg.",
+                  "category": "recreational",
+                  "coords": [
+                        14.001196,
+                        51.479387
+                  ]
+            },
+            {
+                  "name": "Textil-Strand Buchwalde",
+                  "text": "Der Textil-Strand Buchwalde liegt in Senftenberg.",
+                  "category": "recreational",
+                  "coords": [
+                        14.026963,
+                        51.511629
+                  ]
             }
       ],
       "hu": [
@@ -66958,6 +67480,24 @@ export const poiExtraDeCities: POI[] = [
                   "coords": [
                         14.006951,
                         51.512399
+                  ]
+            },
+            {
+                  "name": "Südsee",
+                  "text": "A Südsee egy partszakasz Senftenbergben.",
+                  "category": "recreational",
+                  "coords": [
+                        14.001196,
+                        51.479387
+                  ]
+            },
+            {
+                  "name": "Textil-Strand Buchwalde",
+                  "text": "A Textil-Strand Buchwalde Senftenbergben található.",
+                  "category": "recreational",
+                  "coords": [
+                        14.026963,
+                        51.511629
                   ]
             }
       ],
@@ -67011,6 +67551,24 @@ export const poiExtraDeCities: POI[] = [
                         14.006951,
                         51.512399
                   ]
+            },
+            {
+                  "name": "Südsee",
+                  "text": "Südsee este o zonă de plajă din Senftenberg.",
+                  "category": "recreational",
+                  "coords": [
+                        14.001196,
+                        51.479387
+                  ]
+            },
+            {
+                  "name": "Textil-Strand Buchwalde",
+                  "text": "Textil-Strand Buchwalde este situat în Senftenberg.",
+                  "category": "recreational",
+                  "coords": [
+                        14.026963,
+                        51.511629
+                  ]
             }
       ],
       "en": [
@@ -67062,6 +67620,24 @@ export const poiExtraDeCities: POI[] = [
                   "coords": [
                         14.006951,
                         51.512399
+                  ]
+            },
+            {
+                  "name": "Südsee",
+                  "text": "Südsee is a beach area in Senftenberg.",
+                  "category": "recreational",
+                  "coords": [
+                        14.001196,
+                        51.479387
+                  ]
+            },
+            {
+                  "name": "Textil-Strand Buchwalde",
+                  "text": "Textil-Strand Buchwalde is located in Senftenberg.",
+                  "category": "recreational",
+                  "coords": [
+                        14.026963,
+                        51.511629
                   ]
             }
       ],
@@ -76504,6 +77080,15 @@ export const poiExtraDeCities: POI[] = [
                         13.422807,
                         52.549547
                   ]
+            },
+            {
+                  "name": "Strandbad Weißensee",
+                  "text": "Strandbad am Weißensee in Berlin-Prenzlauer Berg.",
+                  "category": "recreational",
+                  "coords": [
+                        13.465483,
+                        52.553932
+                  ]
             }
       ],
       "hu": [
@@ -77213,6 +77798,15 @@ export const poiExtraDeCities: POI[] = [
                   "coords": [
                         13.422807,
                         52.549547
+                  ]
+            },
+            {
+                  "name": "Strandbad Weißensee",
+                  "text": "Strandfürdő a Weißenseen, Berlin-Prenzlauer Bergben.",
+                  "category": "recreational",
+                  "coords": [
+                        13.465483,
+                        52.553932
                   ]
             }
       ],
@@ -77924,6 +78518,15 @@ export const poiExtraDeCities: POI[] = [
                         13.422807,
                         52.549547
                   ]
+            },
+            {
+                  "name": "Strandbad Weißensee",
+                  "text": "Ștrand la Weißensee în Berlin-Prenzlauer Berg.",
+                  "category": "recreational",
+                  "coords": [
+                        13.465483,
+                        52.553932
+                  ]
             }
       ],
       "en": [
@@ -78633,6 +79236,15 @@ export const poiExtraDeCities: POI[] = [
                   "coords": [
                         13.422807,
                         52.549547
+                  ]
+            },
+            {
+                  "name": "Strandbad Weißensee",
+                  "text": "Beach resort at Weißensee in Berlin-Prenzlauer Berg.",
+                  "category": "recreational",
+                  "coords": [
+                        13.465483,
+                        52.553932
                   ]
             }
       ],

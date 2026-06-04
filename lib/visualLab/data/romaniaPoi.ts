@@ -581,7 +581,52 @@ export const romaniaRegions: POI[] = [
     },
   },
   {
-    id: "RO-BR", type: "region", parent: "RO", coords: [27.9667, 45.2667],
+    id: "RO-BR", "sights": {
+      "de": [
+            {
+                  "name": "Plaja Lipoveneasca",
+                  "text": "Plaja Lipoveneasca ist ein Strand in Rumänien.",
+                  "category": "recreational",
+                  "coords": [
+                        27.975349,
+                        45.258447
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plaja Lipoveneasca",
+                  "text": "A Plaja Lipoveneasca egy strand Romániában.",
+                  "category": "recreational",
+                  "coords": [
+                        27.975349,
+                        45.258447
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plaja Lipoveneasca",
+                  "text": "Plaja Lipoveneasca este o plajă din România.",
+                  "category": "recreational",
+                  "coords": [
+                        27.975349,
+                        45.258447
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plaja Lipoveneasca",
+                  "text": "Plaja Lipoveneasca is a beach in Romania.",
+                  "category": "recreational",
+                  "coords": [
+                        27.975349,
+                        45.258447
+                  ]
+            }
+      ]
+}, type: "region", parent: "RO", coords: [27.9667, 45.2667],
     name: { de: "Brăila", hu: "Brăila", ro: "Brăila", en: "Brăila" },
     description: {
       de: `Der Kreis Brăila liegt in der historischen Region Große Walachei (Muntenia) im Südosten Rumäniens. Die Kreishauptstadt ist die Stadt Brăila, ein wichtiger Hafen an der Donau. Die Landschaft des Kreises ist überwiegend flach und Teil der fruchtbaren Bărăgan-Ebene. Im Laufe der Geschichte war Brăila ein wichtiger Handelsknotenpunkt für den Getreidehandel. Heute bietet es eine Mischung aus historischer Architektur, landwirtschaftlichen Flächen und Teilen des Naturparks Kleine Au von Brăila.`,
@@ -1481,7 +1526,52 @@ export const romaniaRegions: POI[] = [
     },
   },
   {
-    id: "RO-IS", type: "region", parent: "RO", coords: [27.58, 47.16],
+    id: "RO-IS", "sights": {
+      "de": [
+            {
+                  "name": "Plaja Nicolina",
+                  "text": "Strand nahe Iași.",
+                  "category": "recreational",
+                  "coords": [
+                        27.572393,
+                        47.150944
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plaja Nicolina",
+                  "text": "Strand Iași közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        27.572393,
+                        47.150944
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plaja Nicolina",
+                  "text": "Plajă lângă Iași.",
+                  "category": "recreational",
+                  "coords": [
+                        27.572393,
+                        47.150944
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plaja Nicolina",
+                  "text": "Beach near Iași.",
+                  "category": "recreational",
+                  "coords": [
+                        27.572393,
+                        47.150944
+                  ]
+            }
+      ]
+}, type: "region", parent: "RO", coords: [27.58, 47.16],
     name: { de: "Jassy", hu: "Jászvásár", ro: "Iași", en: "Iași" },
     description: {
       de: `Der Kreis Iași liegt im nordöstlichen Teil Rumäniens in der historischen Region Westmoldau. Sein Verwaltungszentrum ist die Stadt Iași, die zweitbevölkerungsreichste Stadt Rumäniens und ein wichtiges kulturelles, pädagogisches und wirtschaftliches Zentrum. Der Kreis grenzt im Osten an die Republik Moldau, markiert durch den Fluss Prut. Er ist bekannt für seine angesehenen Universitäten, historischen Kirchen und den dynamischen IT-Sektor. Die vielfältige Landschaft zeichnet sich durch sanfte Hügel, Täler und bedeutende landwirtschaftliche Flächen aus.`,
@@ -9521,6 +9611,15 @@ export const romaniaCities: POI[] = [
                         26.078361,
                         44.467278
                   ]
+            },
+            {
+                  "name": "Lagoon Park",
+                  "text": "Ein Strandbereich in der Nähe des Dorfmuseums in Bukarest.",
+                  "category": "recreational",
+                  "coords": [
+                        26.056352,
+                        44.489578
+                  ]
             }
       ],
       "hu": [
@@ -9542,6 +9641,15 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         26.078361,
                         44.467278
+                  ]
+            },
+            {
+                  "name": "Lagoon Park",
+                  "text": "Strandterület a bukaresti Falumúzeum közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        26.056352,
+                        44.489578
                   ]
             }
       ],
@@ -9565,6 +9673,15 @@ export const romaniaCities: POI[] = [
                         26.078361,
                         44.467278
                   ]
+            },
+            {
+                  "name": "Lagoon Park",
+                  "text": "O zonă de plajă lângă Muzeul Satului din București.",
+                  "category": "recreational",
+                  "coords": [
+                        26.056352,
+                        44.489578
+                  ]
             }
       ],
       "en": [
@@ -9586,6 +9703,15 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         26.078361,
                         44.467278
+                  ]
+            },
+            {
+                  "name": "Lagoon Park",
+                  "text": "A beach area near the Village Museum in Bucharest.",
+                  "category": "recreational",
+                  "coords": [
+                        26.056352,
+                        44.489578
                   ]
             }
       ]
@@ -12625,7 +12751,52 @@ export const romaniaNature: POI[] = [
     },
   },
   {
-    id: "nature-vadu-crisului", type: "landmark", parent: "RO-BH", coords: [22.51, 46.97],
+    id: "nature-vadu-crisului", "sights": {
+      "de": [
+            {
+                  "name": "Plajă Pensiunea Lavinia",
+                  "text": "Der Strand der Pensiunea Lavinia liegt in der Nähe von Vadu Crisului.",
+                  "category": "recreational",
+                  "coords": [
+                        22.54662,
+                        46.940068
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plajă Pensiunea Lavinia",
+                  "text": "A Pensiunea Lavinia strandja Vadu Crisului közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        22.54662,
+                        46.940068
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plajă Pensiunea Lavinia",
+                  "text": "Plaja Pensiunii Lavinia este situată în apropiere de Vadu Crișului.",
+                  "category": "recreational",
+                  "coords": [
+                        22.54662,
+                        46.940068
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plajă Pensiunea Lavinia",
+                  "text": "The Pensiunea Lavinia beach is located near Vadu Crișului.",
+                  "category": "recreational",
+                  "coords": [
+                        22.54662,
+                        46.940068
+                  ]
+            }
+      ]
+}, type: "landmark", parent: "RO-BH", coords: [22.51, 46.97],
     name: { de: "Vadu Crișului Wasserfall", hu: "Rév-körösi vízesés", ro: "Cascada Vadu Crișului", en: "Vadu Crișului Waterfall" },
     description: { de: "Wasserfall in einer spektakulären Kalksteinschlucht.", hu: "Vízesés egy látványos mészkőszurdokban.", ro: "Cascadă spectaculoasă într-un defileu calcaros.", en: "Spectacular waterfall in a limestone gorge." , es: "Cascada en un espectacular desfiladero de piedra caliza.", pt: "Cascata numa garganta de calcário espetacular.", fr: "Cascade dans une gorge calcaire spectaculaire."},
     facts: { de: ["Nahe einer Schauhöhle.", "Am Fluss Crișul Repede.", "Leicht mit dem Zug erreichbar."], hu: ["Egy látogatható barlang közelében.", "A Sebes-Körös partján.", "Vonattal könnyen megközelíthető."], ro: ["Lângă peștera omonimă.", "Pe malul Crișului Repede.", "Accesibil ușor cu trenul."], en: ["Near a show cave.", "On the banks of Crișul Repede.", "Easily accessible by train."] , es: ["Cerca de una cueva visitable.", "En el río Crișul Repede.", "Fácil acceso en tren."], pt: ["Perto de uma gruta turística.", "No rio Crișul Repede.", "Fácil acesso de comboio."], fr: ["Proche d'une grotte aménagée.", "Sur la rivière Crișul Repede.", "Facilement accessible en train."]},
@@ -14006,7 +14177,52 @@ export const romaniaLandmarks: POI[] = [
     },
   },
   {
-    id: "landmark-salina-turda", type: "landmark", parent: "RO-CJ", coords: [23.787, 46.587],
+    id: "landmark-salina-turda", "sights": {
+      "de": [
+            {
+                  "name": "Strand Baile Sarate Turda",
+                  "text": "Ein Strandbad in der Nähe der Salina Turda.",
+                  "category": "recreational",
+                  "coords": [
+                        23.807337,
+                        46.57619
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Strand Baile Sarate Turda",
+                  "text": "Strand a tordai sóbánya közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        23.807337,
+                        46.57619
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Strand Baile Sarate Turda",
+                  "text": "O zonă de plajă lângă Salina Turda.",
+                  "category": "recreational",
+                  "coords": [
+                        23.807337,
+                        46.57619
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Strand Baile Sarate Turda",
+                  "text": "A beach area near Salina Turda.",
+                  "category": "recreational",
+                  "coords": [
+                        23.807337,
+                        46.57619
+                  ]
+            }
+      ]
+}, type: "landmark", parent: "RO-CJ", coords: [23.787, 46.587],
     name: { de: "Salzbergwerk Turda", hu: "Tordai sóbánya", ro: "Salina Turda", en: "Turda Salt Mine" },
     description: { de: "Historisches Salzbergwerk und unterirdischer Themenpark.", hu: "Történelmi sóbánya és földalatti élménypark.", ro: "Mină de sare istorică și parc tematic subteran.", en: "Historic salt mine and underground theme park." , es: "Mina de sal histórica y parque temático subterráneo.", pt: "Mina de sal histórica e parque temático subterrâneo.", fr: "Mine de sel historique et parc à thèmes souterrain."},
     facts: { de: ["Abbau seit römischer Zeit.", "Riesenrad und Bootfahrten.", "Tiefe bis 112 m."], hu: ["Kitermelés a római kor óta.", "Óriáskerék és csónakázótó.", "Mélysége 112 m."], ro: ["Exploatată din epoca romană.", "Roată panoramică și lac cu bărci.", "Adâncime 112 m."], en: ["Mined since Roman times.", "Ferris wheel and boating lake.", "Depth 112 m."] , es: ["Extracción desde la época romana.", "Noria y paseos en bote.", "Profundidad hasta 112 m."], pt: ["Extração desde a época romana.", "Roda-gigante e passeios de barco.", "Profundidade até 112 m."], fr: ["Exploitation depuis l'époque romaine.", "Grande roue et barques.", "Profondeur jusqu'à 112 m."]},
@@ -16599,7 +16815,52 @@ export const romaniaExtraPois: POI[] = [
 
   // GIURGIU (RO-GR)
   {
-    id: "ro-poi-podul-prieteniei", type: "landmark", parent: "RO-GR", coords: [26.0078, 43.8864],
+    id: "ro-poi-podul-prieteniei", "sights": {
+      "de": [
+            {
+                  "name": "Plaja Veche Giurgiu",
+                  "text": "Ein Strand in der Nähe von Giurgiu.",
+                  "category": "recreational",
+                  "coords": [
+                        25.987271,
+                        43.89257
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plaja Veche Giurgiu",
+                  "text": "Strand Gyurgyevo közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        25.987271,
+                        43.89257
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plaja Veche Giurgiu",
+                  "text": "O plajă lângă Giurgiu.",
+                  "category": "recreational",
+                  "coords": [
+                        25.987271,
+                        43.89257
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plaja Veche Giurgiu",
+                  "text": "A beach near Giurgiu.",
+                  "category": "recreational",
+                  "coords": [
+                        25.987271,
+                        43.89257
+                  ]
+            }
+      ]
+}, type: "landmark", parent: "RO-GR", coords: [26.0078, 43.8864],
     name: { de: "Freundschaftsbrücke", hu: "Barátság híd", ro: "Podul Prieteniei", en: "Friendship Bridge" },
     description: { de: "Brücke über die Donau nach Ruse.", hu: "Híd a Dunán Ruse felé.", ro: "Pod peste Dunăre către Ruse.", en: "Bridge over the Danube to Ruse." , es: "Puente sobre el Danubio hacia Ruse.", pt: "Ponte sobre o Danúbio para Ruse.", fr: "Pont sur le Danube vers Ruse."},
     facts: { de: ["Die Giurgiu-Russe-Freundschaftsbrücke oder Brücke der Freundschaft (bulgarisch Мост на дружбата Most na druschbata; rumänisch Podul prieteniei) ist eine Straßen- und Eisenbahnbrücke über die Donau zwischen den Städten Giurgiu in Rumänien und Russe in Bulgarien."], hu: ["A nyelvészetben is használt deixis (< ógörög δεῖξις (deixisz) „rámutatás”) terminus eredetileg a formális logika szakszava.", "Nyelvi eszközzel való közvetlen utalást nevez meg a beszédhelyzettel kapcsolatos egyik vagy másik nyelven kívüli entitásra, amelyet sajátos módon aktualizál.", "A deiktikus elemnek nevezett nyelvi eszköz személyre, tárgyra, helyre, időre, cselekvési módra, minőségre vagy szociális viszonyra utal."], ro: ["Podul Prieteniei este numele mai multor poduri care leagă țări separate de râuri sau strâmtori.", "Podul Prieteniei (Paraguay–Brazilia) - leagă Paraguayul de Brazilia Podul Prieteniei sino-coreană - leagă Republica Populară Chineză de Coreea de Nord Podul Prieteniei sino-nepaleză - leagă Republica Populară Chineză de Nepal (Photograph 1, Photo 2 Arhivat în 29 septembrie 2007, la Wayback Machine.) Podul Prieteniei (China–Pakistan) - leagă Republica Populară Chineză de Pakistan Podul Prieteniei thailandezo–laoțiană - leagă Thailanda de Laos Podul Prieteniei Qatar–Bahrain - leagă Qatarul de Bahrain (în stadiul de planificare în 2005) Podul Prieteniei Afghanistan–Uzbekistan - leagă Afghanistanul de Uzbekistan Podul Prieteniei Giurgiu-Ruse - leagă Bulgaria și România peste Dunăre Podul Prieteniei este de asemenea numele unui pod care leagă două părți ale Macaului, Peninsula Macau și Ilha da Taipa, separate de apă - Podul Prieteniei sino-portugheze (Ponte de Amizade) Un alt Pod al Prieteniei se află în Bangkok - Podul Prieteniei thailandezo-japoneză."], en: ["Friendship Bridge may refer to:"] , es: ["El puente de la Amistad Giurgiu-Ruse (en búlgaro Мост на дружбата Most na druschbata; en rumano Podul prieteniei) es un puente de carretera y ferrocarril sobre el Danubio entre las ciudades de Giurgiu en Rumanía y Ruse en Bulgaria."], pt: ["A Ponte da Amizade Giurgiu-Ruse (em búlgaro Мост на дружбата Most na druschbata; em romeno Podul prieteniei) é uma ponte rodoviária e ferroviária sobre o Danúbio entre as cidades de Giurgiu na Roménia e Ruse na Bulgária."], fr: ["Le pont de l'Amitié Giurgiu-Ruse (en bulgare Мост на дружбата Most na druschbata ; en roumain Podul prieteniei) est un pont routier et ferroviaire sur le Danube reliant les villes de Giurgiu en Roumanie et de Ruse en Bulgarie."]},
@@ -16913,7 +17174,52 @@ export const romaniaExtraPois: POI[] = [
 }
   },
   {
-    id: "ro-poi-lacul-amara", type: "lake", parent: "RO-IL", coords: [27.3222, 44.6056],
+    id: "ro-poi-lacul-amara", "sights": {
+      "de": [
+            {
+                  "name": "Plaja Nudiștilor (femei)",
+                  "text": "Dieser Nudistenstrand befindet sich am Lacul Amara.",
+                  "category": "recreational",
+                  "coords": [
+                        27.327021,
+                        44.606859
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plaja Nudiștilor (femei)",
+                  "text": "Ez a nudista strand a Lacul Amara tónál található.",
+                  "category": "recreational",
+                  "coords": [
+                        27.327021,
+                        44.606859
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plaja Nudiștilor (femei)",
+                  "text": "Această plajă de nudiști este situată la Lacul Amara.",
+                  "category": "recreational",
+                  "coords": [
+                        27.327021,
+                        44.606859
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plaja Nudiștilor (femei)",
+                  "text": "This nudist beach is located at Lacul Amara.",
+                  "category": "recreational",
+                  "coords": [
+                        27.327021,
+                        44.606859
+                  ]
+            }
+      ]
+}, type: "lake", parent: "RO-IL", coords: [27.3222, 44.6056],
     name: { de: "Amara-See", hu: "Amara-tó", ro: "Lacul Amara", en: "Amara Lake" },
     description: { de: "Salzsee, bekannt für Heilschlamm.", hu: "Sóstó, amely gyógyiszapjáról ismert.", ro: "Lac sărat cunoscut pentru nămolul terapeutic.", en: "Salt lake known for therapeutic mud." , es: "Lago salado conocido por su lodo curativo.", pt: "Lago salgado conhecido pela sua lama medicinal.", fr: "Lac salé connu pour sa boue médicinale."},
     facts: { de: [], hu: ["Az Amara-tó (románul: Lacul Amara) sós vizű limán tó, amely a romániai Ialomița megyében fekvő Amara városának közelében található.", "Gyógyhatású iszapja és ásványi anyagokban gazdag vize népszerű gyógyüdülőhellyé tette."], ro: ["Lacul Amara se poate referi la două întinderi de apă din România: Lacul Amara din județul Ialomița Lacul Amara din județul Buzău"], en: ["Lake Amara (Romanian: Lacul Amara) is a saltwater fluvial liman lake located on the Slobozia - Buzău road near Amara in Ialomița County, Romania.", "The lake has a surface area of 132 ha (0.51 mi2), a water volume of 2,600,000 m3 (0.00062 cu mi), a length of 4 km (2.5 mi) and a width between 200 m (660 ft) and 800 m (2,600 ft) while the maximum depth reaches 3 m (9.8 ft).", "The lake is situated in a depression having no links to the Ialomița River."] , es: [], pt: [], fr: []},
@@ -19100,7 +19406,52 @@ export const romaniaExtraPois: POI[] = [
     },
   },
   {
-    id: "ro-poi-iasi-bojdeuca", type: "historical", parent: "RO-IS", coords: [27.5833, 47.1750],
+    id: "ro-poi-iasi-bojdeuca", "sights": {
+      "de": [
+            {
+                  "name": "Brizo",
+                  "text": "Strand nahe Iași.",
+                  "category": "recreational",
+                  "coords": [
+                        27.597545,
+                        47.194716
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Brizo",
+                  "text": "Strand Iași közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        27.597545,
+                        47.194716
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Brizo",
+                  "text": "Plajă lângă Iași.",
+                  "category": "recreational",
+                  "coords": [
+                        27.597545,
+                        47.194716
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Brizo",
+                  "text": "Beach near Iași.",
+                  "category": "recreational",
+                  "coords": [
+                        27.597545,
+                        47.194716
+                  ]
+            }
+      ]
+}, type: "historical", parent: "RO-IS", coords: [27.5833, 47.1750],
     name: { de: "Bojdeuca von Ion Creangă", hu: "Ion Creangă bojdeukája", ro: "Bojdeuca lui Ion Creangă", en: "Ion Creangă's Bojdeuca" },
     description: { de: "Das erste Literaturmuseum in Rumänien.", hu: "Az első irodalmi múzeum Romániában.", ro: "Primul muzeu literar din România.", en: "The first literary museum in Romania." , es: "El primer museo literario de Rumanía.", pt: "O primeiro museu literário da Roménia.", fr: "Le premier musée littéraire de Roumanie."},
     facts: { de: ["Wohnhaus des Schriftstellers Ion Creangă.", "Ort, an dem er seine 'Kindheitserinnerungen' schrieb.", "Besucht von Mihai Eminescu."], hu: ["Ion Creangă író lakóháza.", "Itt írta a 'Gyermekkorom emlékei' című művét.", "Mihai Eminescu is látogatta."], ro: ["Casa în care a locuit scriitorul Ion Creangă.", "Locul unde a scris 'Amintiri din copilărie'.", "Vizitată de Mihai Eminescu."], en: ["Home of writer Ion Creangă.", "Place where he wrote 'Childhood Memories'.", "Visited by Mihai Eminescu."] , es: ["Casa del escritor Ion Creangă.", "Lugar donde escribió sus 'Memorias de la infancia'.", "Visitada por Mihai Eminescu."], pt: ["Residência do escritor Ion Creangă.", "Local onde escreveu as suas 'Memórias de Infância'.", "Visitada por Mihai Eminescu."], fr: ["Maison de l'écrivain Ion Creangă.", "Lieu où il a écrit ses « Souvenirs d'enfance ».", "Visitée par Mihai Eminescu."]},

@@ -49,7 +49,52 @@ imageHint: "Kneiff summit stone marker Luxembourg",
     },
     image: "/poi-images/luxembourg-kneiff-relief-v2.webp",
 },  {
-    id: "luxembourg-buurgplaatz-relief-v2",
+    id: "luxembourg-buurgplaatz-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Deiffelt Beach",
+                  "text": "Strand nahe Buurgplaatz in Luxemburg.",
+                  "category": "recreational",
+                  "coords": [
+                        6.007796,
+                        50.185865
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Deiffelt Beach",
+                  "text": "Luxemburg Buurgplaatz melletti strand.",
+                  "category": "recreational",
+                  "coords": [
+                        6.007796,
+                        50.185865
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Deiffelt Beach",
+                  "text": "Plajă lângă Buurgplaatz, Luxemburg.",
+                  "category": "recreational",
+                  "coords": [
+                        6.007796,
+                        50.185865
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Deiffelt Beach",
+                  "text": "Beach near Buurgplaatz, Luxembourg.",
+                  "category": "recreational",
+                  "coords": [
+                        6.007796,
+                        50.185865
+                  ]
+            }
+      ]
+},
     parent: "LU",
     type: "peak",
     name: { de: "Buurgplaatz", hu: "Buurgplaatz", ro: "Buurgplaatz", en: "Buurgplaatz"},

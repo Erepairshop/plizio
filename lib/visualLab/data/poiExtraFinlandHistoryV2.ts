@@ -3,7 +3,52 @@ import { POI } from './poi';
 export const finlandHistoryV2: POI[] = [
 
   {
-    id: "finland-kuusisto-castle-ruins-history-v2",
+    id: "finland-kuusisto-castle-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Raadelman ranta",
+                  "text": "Raadelman ranta ist ein Strand nahe den Kuusisto Burgruinen.",
+                  "category": "recreational",
+                  "coords": [
+                        22.461511,
+                        60.412711
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Raadelman ranta",
+                  "text": "Raadelman ranta egy strand a Kuusisto várromok közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        22.461511,
+                        60.412711
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Raadelman ranta",
+                  "text": "Raadelman ranta este o plajă lângă ruinele castelului Kuusisto.",
+                  "category": "recreational",
+                  "coords": [
+                        22.461511,
+                        60.412711
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Raadelman ranta",
+                  "text": "Raadelman ranta is a beach near the Kuusisto Castle ruins.",
+                  "category": "recreational",
+                  "coords": [
+                        22.461511,
+                        60.412711
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "FI",
     name: { de: "Burgruine Kuusisto", hu: "Kuusisto várromjai", ro: "Ruinele Castelului Kuusisto", en: "Kuusisto Castle Ruins" },
@@ -48,7 +93,52 @@ export const finlandHistoryV2: POI[] = [
     image: "/poi-images/finland-kuusisto-castle-ruins-history-v2.webp",
   },
   {
-    id: "finland-liperi-ancient-field-history-v2",
+    id: "finland-liperi-ancient-field-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Liperin kirkonkylän uimaranta",
+                  "text": "Liperin Kirkonkylän Strand liegt in der Nähe des antiken Feldes von Liperi.",
+                  "category": "recreational",
+                  "coords": [
+                        29.398828,
+                        62.520241
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Liperin kirkonkylän uimaranta",
+                  "text": "Liperin Kirkonkylän strandja a Liperi ősi mező közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        29.398828,
+                        62.520241
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Liperin kirkonkylän uimaranta",
+                  "text": "Plaja Liperin Kirkonkylän este situată lângă câmpul antic din Liperi.",
+                  "category": "recreational",
+                  "coords": [
+                        29.398828,
+                        62.520241
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Liperin kirkonkylän uimaranta",
+                  "text": "Liperin Kirkonkylän beach is located near the Liperi Ancient Field.",
+                  "category": "recreational",
+                  "coords": [
+                        29.398828,
+                        62.520241
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "FI",
     name: { de: "Alter Acker von Liperi", hu: "Liperi ősi mezőgazdasági terület", ro: "Câmpul antic din Liperi", en: "Ancient Liperi Field" },
@@ -93,7 +183,124 @@ export const finlandHistoryV2: POI[] = [
     image: "/poi-images/finland-liperi-ancient-field-history-v2.webp",
   },
   {
-    id: "finland-vantaa-pyhän-laurin-church-history-v2",
+    id: "finland-vantaa-pyhän-laurin-church-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kiertotähdenkuja, Keravanjoki/uimapaikka",
+                  "text": "Dieser Badeplatz am Fluss Keravanjoki befindet sich bei der Kirche Pyhän Laurin in Vantaa.",
+                  "category": "recreational",
+                  "coords": [
+                        24.99222,
+                        60.280522
+                  ]
+            },
+            {
+                  "name": "Tapaninvainion uimaranta",
+                  "text": "Ein Strand in Tapaninvainio bei Helsinki/Vantaa.",
+                  "category": "recreational",
+                  "coords": [
+                        24.977297,
+                        60.257084
+                  ]
+            },
+            {
+                  "name": "Pakilan uimaranta",
+                  "text": "Strand im Stadtteil Pakila in der Nähe von Helsinki.",
+                  "category": "recreational",
+                  "coords": [
+                        24.972514,
+                        60.24609
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kiertotähdenkuja, Keravanjoki/uimapaikka",
+                  "text": "Ez a Keravanjoki-folyónál lévő fürdőhely a vantaai Pyhän Laurin templomnál található.",
+                  "category": "recreational",
+                  "coords": [
+                        24.99222,
+                        60.280522
+                  ]
+            },
+            {
+                  "name": "Tapaninvainion uimaranta",
+                  "text": "Strand Tapaninvainio-ban, Helsinki/Vantaa közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        24.977297,
+                        60.257084
+                  ]
+            },
+            {
+                  "name": "Pakilan uimaranta",
+                  "text": "Strand Pakila városrészben, Helsinki közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        24.972514,
+                        60.24609
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kiertotähdenkuja, Keravanjoki/uimapaikka",
+                  "text": "Acest loc de scăldat pe râul Keravanjoki se află lângă biserica Pyhän Laurin din Vantaa.",
+                  "category": "recreational",
+                  "coords": [
+                        24.99222,
+                        60.280522
+                  ]
+            },
+            {
+                  "name": "Tapaninvainion uimaranta",
+                  "text": "O plajă în Tapaninvainio, lângă Helsinki/Vantaa.",
+                  "category": "recreational",
+                  "coords": [
+                        24.977297,
+                        60.257084
+                  ]
+            },
+            {
+                  "name": "Pakilan uimaranta",
+                  "text": "Plajă în districtul Pakila, lângă Helsinki.",
+                  "category": "recreational",
+                  "coords": [
+                        24.972514,
+                        60.24609
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kiertotähdenkuja, Keravanjoki/uimapaikka",
+                  "text": "This bathing place on the Keravanjoki river is located at the Pyhän Laurin Church in Vantaa.",
+                  "category": "recreational",
+                  "coords": [
+                        24.99222,
+                        60.280522
+                  ]
+            },
+            {
+                  "name": "Tapaninvainion uimaranta",
+                  "text": "A beach in Tapaninvainio near Helsinki/Vantaa.",
+                  "category": "recreational",
+                  "coords": [
+                        24.977297,
+                        60.257084
+                  ]
+            },
+            {
+                  "name": "Pakilan uimaranta",
+                  "text": "Beach in the Pakila district near Helsinki.",
+                  "category": "recreational",
+                  "coords": [
+                        24.972514,
+                        60.24609
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "FI",
     name: { de: "St.-Laurentius-Kirche Vantaa", hu: "Vantaai Szent Lőrinc-templom", ro: "Biserica Sfântul Laurențiu din Vantaa", en: "St. Lawrence Church Vantaa" },
@@ -228,7 +435,268 @@ export const finlandHistoryV2: POI[] = [
     image: "/poi-images/finland-lapinlahti-church-history-v2.webp",
   },
   {
-    id: "finland-kuopio-muurahaisvuori-fort-history-v2",
+    id: "finland-kuopio-muurahaisvuori-fort-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Niuvan uimaranta",
+                  "text": "Ein Strand im Stadtteil Niuva in Kuopio.",
+                  "category": "recreational",
+                  "coords": [
+                        27.62361,
+                        62.906204
+                  ]
+            },
+            {
+                  "name": "Iso-Valkeisen uimaranta",
+                  "text": "Strand am See Iso-Valkeinen in Kuopio.",
+                  "category": "recreational",
+                  "coords": [
+                        27.682965,
+                        62.927679
+                  ]
+            },
+            {
+                  "name": "Keinänlahden uimaranta",
+                  "text": "Strand in der Bucht Keinänlahti bei Kuopio.",
+                  "category": "recreational",
+                  "coords": [
+                        27.626524,
+                        62.924503
+                  ]
+            },
+            {
+                  "name": "Harjulanrannan veneranta",
+                  "text": "Strand bei Kuopio Muurahaisvuori.",
+                  "category": "recreational",
+                  "coords": [
+                        27.631525,
+                        62.898797
+                  ]
+            },
+            {
+                  "name": "Miettilänpellon ranta",
+                  "text": "Uferbereich bei der Festung Muurahaisvuori in Kuopio.",
+                  "category": "recreational",
+                  "coords": [
+                        27.628771,
+                        62.937032
+                  ]
+            },
+            {
+                  "name": "Sammakkolammen uimaranta",
+                  "text": "Sammakkolampi-Badestrand in der Nähe der Festung Kuopio Muurahaisvuori.",
+                  "category": "recreational",
+                  "coords": [
+                        27.643376,
+                        62.902807
+                  ]
+            },
+            {
+                  "name": "Pieni valkeisenlampi",
+                  "text": "Pieni Valkeisenlampi-Badestrand nahe der Festung Kuopio Muurahaisvuori.",
+                  "category": "recreational",
+                  "coords": [
+                        27.662318,
+                        62.929614
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Niuvan uimaranta",
+                  "text": "Strand Kuopio Niuva városrészében.",
+                  "category": "recreational",
+                  "coords": [
+                        27.62361,
+                        62.906204
+                  ]
+            },
+            {
+                  "name": "Iso-Valkeisen uimaranta",
+                  "text": "Strand az Iso-Valkeinen tónál, Kuopióban.",
+                  "category": "recreational",
+                  "coords": [
+                        27.682965,
+                        62.927679
+                  ]
+            },
+            {
+                  "name": "Keinänlahden uimaranta",
+                  "text": "Strand a Keinänlahti-öbölben, Kuopio mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        27.626524,
+                        62.924503
+                  ]
+            },
+            {
+                  "name": "Harjulanrannan veneranta",
+                  "text": "Strand a kuopiói Muurahaisvuori erődnél.",
+                  "category": "recreational",
+                  "coords": [
+                        27.631525,
+                        62.898797
+                  ]
+            },
+            {
+                  "name": "Miettilänpellon ranta",
+                  "text": "Vízpart a kuopiói Muurahaisvuori erődnél.",
+                  "category": "recreational",
+                  "coords": [
+                        27.628771,
+                        62.937032
+                  ]
+            },
+            {
+                  "name": "Sammakkolammen uimaranta",
+                  "text": "Sammakkolampi strand a Kuopio Muurahaisvuori erőd közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        27.643376,
+                        62.902807
+                  ]
+            },
+            {
+                  "name": "Pieni valkeisenlampi",
+                  "text": "Pieni Valkeisenlampi strand a Kuopio Muurahaisvuori erőd közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        27.662318,
+                        62.929614
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Niuvan uimaranta",
+                  "text": "O plajă în districtul Niuva din Kuopio.",
+                  "category": "recreational",
+                  "coords": [
+                        27.62361,
+                        62.906204
+                  ]
+            },
+            {
+                  "name": "Iso-Valkeisen uimaranta",
+                  "text": "Plajă la lacul Iso-Valkeinen din Kuopio.",
+                  "category": "recreational",
+                  "coords": [
+                        27.682965,
+                        62.927679
+                  ]
+            },
+            {
+                  "name": "Keinänlahden uimaranta",
+                  "text": "Plajă în golful Keinänlahti lângă Kuopio.",
+                  "category": "recreational",
+                  "coords": [
+                        27.626524,
+                        62.924503
+                  ]
+            },
+            {
+                  "name": "Harjulanrannan veneranta",
+                  "text": "Plajă lângă fortăreața Muurahaisvuori din Kuopio.",
+                  "category": "recreational",
+                  "coords": [
+                        27.631525,
+                        62.898797
+                  ]
+            },
+            {
+                  "name": "Miettilänpellon ranta",
+                  "text": "Zonă de țărm lângă fortăreața Muurahaisvuori din Kuopio.",
+                  "category": "recreational",
+                  "coords": [
+                        27.628771,
+                        62.937032
+                  ]
+            },
+            {
+                  "name": "Sammakkolammen uimaranta",
+                  "text": "Plaja Sammakkolampi lângă fortăreața Kuopio Muurahaisvuori.",
+                  "category": "recreational",
+                  "coords": [
+                        27.643376,
+                        62.902807
+                  ]
+            },
+            {
+                  "name": "Pieni valkeisenlampi",
+                  "text": "Plaja Pieni Valkeisenlampi lângă fortăreața Kuopio Muurahaisvuori.",
+                  "category": "recreational",
+                  "coords": [
+                        27.662318,
+                        62.929614
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Niuvan uimaranta",
+                  "text": "A beach in the Niuva district of Kuopio.",
+                  "category": "recreational",
+                  "coords": [
+                        27.62361,
+                        62.906204
+                  ]
+            },
+            {
+                  "name": "Iso-Valkeisen uimaranta",
+                  "text": "Beach at lake Iso-Valkeinen in Kuopio.",
+                  "category": "recreational",
+                  "coords": [
+                        27.682965,
+                        62.927679
+                  ]
+            },
+            {
+                  "name": "Keinänlahden uimaranta",
+                  "text": "Beach in the Keinänlahti bay near Kuopio.",
+                  "category": "recreational",
+                  "coords": [
+                        27.626524,
+                        62.924503
+                  ]
+            },
+            {
+                  "name": "Harjulanrannan veneranta",
+                  "text": "Beach near Kuopio Muurahaisvuori fort.",
+                  "category": "recreational",
+                  "coords": [
+                        27.631525,
+                        62.898797
+                  ]
+            },
+            {
+                  "name": "Miettilänpellon ranta",
+                  "text": "Shore area by the Muurahaisvuori fortress in Kuopio.",
+                  "category": "recreational",
+                  "coords": [
+                        27.628771,
+                        62.937032
+                  ]
+            },
+            {
+                  "name": "Sammakkolammen uimaranta",
+                  "text": "Sammakkolampi beach near Kuopio Muurahaisvuori Fort.",
+                  "category": "recreational",
+                  "coords": [
+                        27.643376,
+                        62.902807
+                  ]
+            },
+            {
+                  "name": "Pieni valkeisenlampi",
+                  "text": "Pieni Valkeisenlampi beach near Kuopio Muurahaisvuori Fort.",
+                  "category": "recreational",
+                  "coords": [
+                        27.662318,
+                        62.929614
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "FI",
     name: { de: "Befestigung Muurahaisvuori", hu: "Muurahaisvuori erődítmény", ro: "Fortificația Muurahaisvuori", en: "Muurahaisvuori Fortification" },
@@ -273,7 +741,52 @@ export const finlandHistoryV2: POI[] = [
     image: "/poi-images/finland-kuopio-muurahaisvuori-fort-history-v2.webp",
   },
   {
-    id: "finland-tammisaari-old-town-history-v2",
+    id: "finland-tammisaari-old-town-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Knipnäs strand",
+                  "text": "Knipnäs strand ist ein Strand in der Nähe der Altstadt von Tammisaari.",
+                  "category": "recreational",
+                  "coords": [
+                        23.470894,
+                        59.970751
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Knipnäs strand",
+                  "text": "A Knipnäs strand egy strand Tammisaari óvárosának közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        23.470894,
+                        59.970751
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Knipnäs strand",
+                  "text": "Knipnäs strand este o plajă lângă orașul vechi Tammisaari.",
+                  "category": "recreational",
+                  "coords": [
+                        23.470894,
+                        59.970751
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Knipnäs strand",
+                  "text": "Knipnäs strand is a beach near Tammisaari Old Town.",
+                  "category": "recreational",
+                  "coords": [
+                        23.470894,
+                        59.970751
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     name: { de: "Altstadt von Tammisaari", hu: "Tammisaari óvárosa", ro: "Centrul vechi din Tammisaari", en: "Tammisaari Old Town" },
@@ -318,7 +831,52 @@ export const finlandHistoryV2: POI[] = [
     image: "/poi-images/finland-tammisaari-old-town-history-v2.webp",
   },
   {
-    id: "finland-lieto-vanhalinna-fort-history-v2",
+    id: "finland-lieto-vanhalinna-fort-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ristikallion uimaranta",
+                  "text": "Ristikallion uimaranta liegt beim Lieto Vanhalinna Fort.",
+                  "category": "recreational",
+                  "coords": [
+                        22.397773,
+                        60.447378
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ristikallion uimaranta",
+                  "text": "Ristikallion uimaranta a Lieto Vanhalinna erőd közelében fekszik.",
+                  "category": "recreational",
+                  "coords": [
+                        22.397773,
+                        60.447378
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ristikallion uimaranta",
+                  "text": "Ristikallion uimaranta se află lângă fortăreața Lieto Vanhalinna.",
+                  "category": "recreational",
+                  "coords": [
+                        22.397773,
+                        60.447378
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ristikallion uimaranta",
+                  "text": "Ristikallion uimaranta is near the Lieto Vanhalinna fort.",
+                  "category": "recreational",
+                  "coords": [
+                        22.397773,
+                        60.447378
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "FI",
     name: { de: "Burgberg Vanhalinna", hu: "Vanhalinna várhegy", ro: "Dealul cetății Vanhalinna", en: "Vanhalinna Hill Fort" },
@@ -498,7 +1056,88 @@ export const finlandHistoryV2: POI[] = [
     image: "/poi-images/finland-lappeenranta-old-town-hall-history-v2.webp",
   },
   {
-    id: "finland-sotkamo-old-church-history-v2",
+    id: "finland-sotkamo-old-church-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Leivolankylän uimaranta",
+                  "text": "Strand Leivolankylä bei Sotkamo.",
+                  "category": "recreational",
+                  "coords": [
+                        28.339838,
+                        64.130396
+                  ]
+            },
+            {
+                  "name": "Raunilan uimaranta",
+                  "text": "Strand Raunila bei Sotkamo.",
+                  "category": "recreational",
+                  "coords": [
+                        28.335473,
+                        64.140501
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Leivolankylän uimaranta",
+                  "text": "Leivolankylä strand Sotkamo közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        28.339838,
+                        64.130396
+                  ]
+            },
+            {
+                  "name": "Raunilan uimaranta",
+                  "text": "Raunila strand Sotkamo közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        28.335473,
+                        64.140501
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Leivolankylän uimaranta",
+                  "text": "Plaja Leivolankylä lângă Sotkamo.",
+                  "category": "recreational",
+                  "coords": [
+                        28.339838,
+                        64.130396
+                  ]
+            },
+            {
+                  "name": "Raunilan uimaranta",
+                  "text": "Plaja Raunila lângă Sotkamo.",
+                  "category": "recreational",
+                  "coords": [
+                        28.335473,
+                        64.140501
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Leivolankylän uimaranta",
+                  "text": "Leivolankylä beach near Sotkamo.",
+                  "category": "recreational",
+                  "coords": [
+                        28.339838,
+                        64.130396
+                  ]
+            },
+            {
+                  "name": "Raunilan uimaranta",
+                  "text": "Raunila beach near Sotkamo.",
+                  "category": "recreational",
+                  "coords": [
+                        28.335473,
+                        64.140501
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "FI",
     name: { de: "Alte Kirche von Sotkamo", hu: "Sotkamo régi temploma", ro: "Vechea biserică din Sotkamo", en: "Sotkamo Old Church" },
@@ -543,7 +1182,52 @@ export const finlandHistoryV2: POI[] = [
     image: "/poi-images/finland-sotkamo-old-church-history-v2.webp",
   },
   {
-    id: "finland-pietarsaari-pedersore-church-history-v2",
+    id: "finland-pietarsaari-pedersore-church-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Björnholmen",
+                  "text": "Björnholmen liegt bei der Pedersore Kirche in Pietarsaari.",
+                  "category": "recreational",
+                  "coords": [
+                        22.741308,
+                        63.685398
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Björnholmen",
+                  "text": "Björnholmen a Pietarsaari Pedersore templom közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        22.741308,
+                        63.685398
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Björnholmen",
+                  "text": "Björnholmen se află lângă biserica Pedersore din Pietarsaari.",
+                  "category": "recreational",
+                  "coords": [
+                        22.741308,
+                        63.685398
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Björnholmen",
+                  "text": "Björnholmen is near the Pedersore Church in Pietarsaari.",
+                  "category": "recreational",
+                  "coords": [
+                        22.741308,
+                        63.685398
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "FI",
     name: { de: "Pedersöre-Kirche", hu: "Pedersöre templom", ro: "Biserica Pedersöre", en: "Pedersöre Church" },
@@ -678,7 +1362,52 @@ export const finlandHistoryV2: POI[] = [
     image: "/poi-images/finland-karkkila-fagerkulla-history-v2.webp",
   },
   {
-    id: "finland-iitti-old-church-history-v2",
+    id: "finland-iitti-old-church-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Radansuu uimaranta",
+                  "text": "Radansuu uimaranta ist ein Strand in der Nähe von Iitti.",
+                  "category": "recreational",
+                  "coords": [
+                        26.387216,
+                        60.919994
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Radansuu uimaranta",
+                  "text": "A Radansuu uimaranta egy strand Iitti közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        26.387216,
+                        60.919994
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Radansuu uimaranta",
+                  "text": "Radansuu uimaranta este o plajă lângă Iitti.",
+                  "category": "recreational",
+                  "coords": [
+                        26.387216,
+                        60.919994
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Radansuu uimaranta",
+                  "text": "Radansuu uimaranta is a beach near Iitti.",
+                  "category": "recreational",
+                  "coords": [
+                        26.387216,
+                        60.919994
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "FI",
     name: { de: "Alte Kirche von Iitti", hu: "Iitti régi temploma", ro: "Vechea biserică din Iitti", en: "Iitti Old Church" },
@@ -723,7 +1452,88 @@ export const finlandHistoryV2: POI[] = [
     image: "/poi-images/finland-iitti-old-church-history-v2.webp",
   },
   {
-    id: "finland-mikkeli-headquarters-museum-history-v2",
+    id: "finland-mikkeli-headquarters-museum-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pankalammen uimaranta",
+                  "text": "Pankalammen Strand befindet sich in der Nähe des Mikkeli Hauptquartier-Museums.",
+                  "category": "recreational",
+                  "coords": [
+                        27.252519,
+                        61.688785
+                  ]
+            },
+            {
+                  "name": "Suojalampi",
+                  "text": "Suojalampi ist ein Strand in der Nähe von Mikkeli.",
+                  "category": "recreational",
+                  "coords": [
+                        27.295102,
+                        61.707358
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pankalammen uimaranta",
+                  "text": "Pankalammen strandja a Mikkeli Főhadiszállás Múzeum közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        27.252519,
+                        61.688785
+                  ]
+            },
+            {
+                  "name": "Suojalampi",
+                  "text": "A Suojalampi egy strand Mikkeli közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        27.295102,
+                        61.707358
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pankalammen uimaranta",
+                  "text": "Plaja Pankalammen este situată lângă Muzeul Cartierului General din Mikkeli.",
+                  "category": "recreational",
+                  "coords": [
+                        27.252519,
+                        61.688785
+                  ]
+            },
+            {
+                  "name": "Suojalampi",
+                  "text": "Suojalampi este o plajă lângă Mikkeli.",
+                  "category": "recreational",
+                  "coords": [
+                        27.295102,
+                        61.707358
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pankalammen uimaranta",
+                  "text": "Pankalammen beach is located near the Mikkeli Headquarters Museum.",
+                  "category": "recreational",
+                  "coords": [
+                        27.252519,
+                        61.688785
+                  ]
+            },
+            {
+                  "name": "Suojalampi",
+                  "text": "Suojalampi is a beach near Mikkeli.",
+                  "category": "recreational",
+                  "coords": [
+                        27.295102,
+                        61.707358
+                  ]
+            }
+      ]
+},
     type: "museum",
     parent: "FI",
     name: { de: "Hauptquartier-Museum Mikkeli", hu: "Mikkeli Főhadiszállás Múzeum", ro: "Muzeul Cartierului General din Mikkeli", en: "Headquarters Museum Mikkeli" },
@@ -903,7 +1713,88 @@ export const finlandHistoryV2: POI[] = [
     image: "/poi-images/finland-forssa-spinning-mill-history-v2.webp",
   },
   {
-    id: "finland-kokkola-neristan-history-v2",
+    id: "finland-kokkola-neristan-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vanhasatamanlahden uimaranta",
+                  "text": "Vanhasatamanlahden uimaranta ist ein Strand in der Nähe von Kokkola.",
+                  "category": "recreational",
+                  "coords": [
+                        23.113594,
+                        63.858064
+                  ]
+            },
+            {
+                  "name": "Suntinsuun uimaranta",
+                  "text": "Badestrand Suntinsuun in Kokkola Neristan.",
+                  "category": "recreational",
+                  "coords": [
+                        23.110867,
+                        63.854784
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vanhasatamanlahden uimaranta",
+                  "text": "A Vanhasatamanlahden uimaranta egy strand Kokkola közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        23.113594,
+                        63.858064
+                  ]
+            },
+            {
+                  "name": "Suntinsuun uimaranta",
+                  "text": "Suntinsuun strand Kokkola Neristanban.",
+                  "category": "recreational",
+                  "coords": [
+                        23.110867,
+                        63.854784
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vanhasatamanlahden uimaranta",
+                  "text": "Vanhasatamanlahden uimaranta este o plajă lângă Kokkola.",
+                  "category": "recreational",
+                  "coords": [
+                        23.113594,
+                        63.858064
+                  ]
+            },
+            {
+                  "name": "Suntinsuun uimaranta",
+                  "text": "Plaja Suntinsuun din Kokkola Neristan.",
+                  "category": "recreational",
+                  "coords": [
+                        23.110867,
+                        63.854784
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vanhasatamanlahden uimaranta",
+                  "text": "Vanhasatamanlahden uimaranta is a beach near Kokkola.",
+                  "category": "recreational",
+                  "coords": [
+                        23.113594,
+                        63.858064
+                  ]
+            },
+            {
+                  "name": "Suntinsuun uimaranta",
+                  "text": "Suntinsuun beach in Kokkola Neristan.",
+                  "category": "recreational",
+                  "coords": [
+                        23.110867,
+                        63.854784
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     name: { de: "Neristan-Viertel Kokkola", hu: "Neristan városrész Kokkola", ro: "Cartierul Neristan din Kokkola", en: "Neristan District Kokkola" },
@@ -948,7 +1839,52 @@ export const finlandHistoryV2: POI[] = [
     image: "/poi-images/finland-kokkola-neristan-history-v2.webp",
   },
   {
-    id: "finland-tampere-finlayson-history-v2",
+    id: "finland-tampere-finlayson-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mältinranta",
+                  "text": "Ein Strand am Ufer in Tampere.",
+                  "category": "recreational",
+                  "coords": [
+                        23.755309,
+                        61.504722
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mältinranta",
+                  "text": "Vízparti strand Tampere városában.",
+                  "category": "recreational",
+                  "coords": [
+                        23.755309,
+                        61.504722
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mältinranta",
+                  "text": "O plajă pe malul apei în Tampere.",
+                  "category": "recreational",
+                  "coords": [
+                        23.755309,
+                        61.504722
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mältinranta",
+                  "text": "A beach on the waterfront in Tampere.",
+                  "category": "recreational",
+                  "coords": [
+                        23.755309,
+                        61.504722
+                  ]
+            }
+      ]
+},
     type: "factory",
     parent: "FI",
     name: { de: "Finlayson-Industriegebiet", hu: "Finlayson ipari terület", ro: "Zona industrială Finlayson", en: "Finlayson Industrial Area" },
@@ -993,7 +1929,124 @@ export const finlandHistoryV2: POI[] = [
     image: "/poi-images/finland-tampere-finlayson-history-v2.webp",
   },
   {
-    id: "finland-hameenlinna-castle-surroundings-history-v2",
+    id: "finland-hameenlinna-castle-surroundings-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Miemalan uimaranta",
+                  "text": "Miemalan Uimaranta ist ein Strand in der Nähe der Umgebung des Schlosses Hämeenlinna.",
+                  "category": "recreational",
+                  "coords": [
+                        24.499741,
+                        60.968452
+                  ]
+            },
+            {
+                  "name": "Matkalammen uimaranta",
+                  "text": "Ein ruhiger Badeplatz nahe der Burg Hämeenlinna.",
+                  "category": "recreational",
+                  "coords": [
+                        24.535329,
+                        61.017054
+                  ]
+            },
+            {
+                  "name": "Katumajärvi, OTK:n ranta",
+                  "text": "Strand am Katumajärvi bei Hämeenlinna.",
+                  "category": "recreational",
+                  "coords": [
+                        24.519725,
+                        60.986212
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Miemalan uimaranta",
+                  "text": "Miemalan Uimaranta egy strand Hämeenlinna várának közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        24.499741,
+                        60.968452
+                  ]
+            },
+            {
+                  "name": "Matkalammen uimaranta",
+                  "text": "Csendes fürdőhely a Hämeenlinna vár közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        24.535329,
+                        61.017054
+                  ]
+            },
+            {
+                  "name": "Katumajärvi, OTK:n ranta",
+                  "text": "Katumajärvi strand, Hämeenlinna közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        24.519725,
+                        60.986212
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Miemalan uimaranta",
+                  "text": "Miemalan Uimaranta este o plajă situată în apropierea Castelului Hämeenlinna.",
+                  "category": "recreational",
+                  "coords": [
+                        24.499741,
+                        60.968452
+                  ]
+            },
+            {
+                  "name": "Matkalammen uimaranta",
+                  "text": "Un loc liniștit de scăldat lângă castelul Hämeenlinna.",
+                  "category": "recreational",
+                  "coords": [
+                        24.535329,
+                        61.017054
+                  ]
+            },
+            {
+                  "name": "Katumajärvi, OTK:n ranta",
+                  "text": "Plajă la Katumajärvi lângă Hämeenlinna.",
+                  "category": "recreational",
+                  "coords": [
+                        24.519725,
+                        60.986212
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Miemalan uimaranta",
+                  "text": "Miemalan Uimaranta is a beach near the surroundings of Hämeenlinna Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        24.499741,
+                        60.968452
+                  ]
+            },
+            {
+                  "name": "Matkalammen uimaranta",
+                  "text": "A quiet bathing spot near Hämeenlinna Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        24.535329,
+                        61.017054
+                  ]
+            },
+            {
+                  "name": "Katumajärvi, OTK:n ranta",
+                  "text": "Beach at Katumajärvi near Hämeenlinna.",
+                  "category": "recreational",
+                  "coords": [
+                        24.519725,
+                        60.986212
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "FI",
     name: { de: "Umgebung der Burg Häme", hu: "Häme vára környéke", ro: "Împrejurimile Castelului Häme", en: "Häme Castle Surroundings" },
@@ -1038,7 +2091,88 @@ export const finlandHistoryV2: POI[] = [
     image: "/poi-images/finland-hameenlinna-castle-surroundings-history-v2.webp",
   },
   {
-    id: "finland-iisalmi-old-church-park-history-v2",
+    id: "finland-iisalmi-old-church-park-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mansikkaniemen uimaranta",
+                  "text": "Mansikkaniemen uimaranta ist ein Strand beim Alten Kirchpark von Iisalmi.",
+                  "category": "recreational",
+                  "coords": [
+                        27.16645,
+                        63.595196
+                  ]
+            },
+            {
+                  "name": "Pöllösenlahti",
+                  "text": "Pöllösenlahti ist ein Strand in der Nähe von Iisalmi.",
+                  "category": "recreational",
+                  "coords": [
+                        27.221565,
+                        63.553649
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mansikkaniemen uimaranta",
+                  "text": "Mansikkaniemen uimaranta egy strand az Iisalmi Öreg Templomkertnél.",
+                  "category": "recreational",
+                  "coords": [
+                        27.16645,
+                        63.595196
+                  ]
+            },
+            {
+                  "name": "Pöllösenlahti",
+                  "text": "A Pöllösenlahti egy strand Iisalmi közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        27.221565,
+                        63.553649
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mansikkaniemen uimaranta",
+                  "text": "Mansikkaniemen uimaranta este o plajă lângă Parcul Bisericii Vechi din Iisalmi.",
+                  "category": "recreational",
+                  "coords": [
+                        27.16645,
+                        63.595196
+                  ]
+            },
+            {
+                  "name": "Pöllösenlahti",
+                  "text": "Pöllösenlahti este o plajă lângă Iisalmi.",
+                  "category": "recreational",
+                  "coords": [
+                        27.221565,
+                        63.553649
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mansikkaniemen uimaranta",
+                  "text": "Mansikkaniemen uimaranta is a beach at Iisalmi Old Church Park.",
+                  "category": "recreational",
+                  "coords": [
+                        27.16645,
+                        63.595196
+                  ]
+            },
+            {
+                  "name": "Pöllösenlahti",
+                  "text": "Pöllösenlahti is a beach near Iisalmi.",
+                  "category": "recreational",
+                  "coords": [
+                        27.221565,
+                        63.553649
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "FI",
     name: { de: "Kirchenpark Iisalmi", hu: "Iisalmi templompark", ro: "Parcul bisericii din Iisalmi", en: "Iisalmi Church Park" },
@@ -1083,7 +2217,88 @@ export const finlandHistoryV2: POI[] = [
     image: "/poi-images/finland-iisalmi-old-church-park-history-v2.webp",
   },
   {
-    id: "finland-hamina-town-plan-history-v2",
+    id: "finland-hamina-town-plan-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rampsinkarin uimaranta",
+                  "text": "Strand in Hamina.",
+                  "category": "recreational",
+                  "coords": [
+                        27.183356,
+                        60.557934
+                  ]
+            },
+            {
+                  "name": "Savilahden uimaranta",
+                  "text": "Savilahti-Badestrand in Hamina.",
+                  "category": "recreational",
+                  "coords": [
+                        27.184119,
+                        60.571938
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rampsinkarin uimaranta",
+                  "text": "Strand Haminában.",
+                  "category": "recreational",
+                  "coords": [
+                        27.183356,
+                        60.557934
+                  ]
+            },
+            {
+                  "name": "Savilahden uimaranta",
+                  "text": "Savilahti strand Haminában.",
+                  "category": "recreational",
+                  "coords": [
+                        27.184119,
+                        60.571938
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rampsinkarin uimaranta",
+                  "text": "Plajă în Hamina.",
+                  "category": "recreational",
+                  "coords": [
+                        27.183356,
+                        60.557934
+                  ]
+            },
+            {
+                  "name": "Savilahden uimaranta",
+                  "text": "Plaja Savilahti în Hamina.",
+                  "category": "recreational",
+                  "coords": [
+                        27.184119,
+                        60.571938
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rampsinkarin uimaranta",
+                  "text": "Beach in Hamina.",
+                  "category": "recreational",
+                  "coords": [
+                        27.183356,
+                        60.557934
+                  ]
+            },
+            {
+                  "name": "Savilahden uimaranta",
+                  "text": "Savilahti beach in Hamina.",
+                  "category": "recreational",
+                  "coords": [
+                        27.184119,
+                        60.571938
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "FI",
     name: { de: "Sternförmiger Stadtplan Hamina", hu: "Hamina csillag alakú várostérképe", ro: "Planul urban stelar din Hamina", en: "Hamina Star-Shaped Town Plan" },
@@ -1173,7 +2388,160 @@ export const finlandHistoryV2: POI[] = [
     image: "/poi-images/finland-uukuniemi-church-history-v2.webp",
   },
   {
-    id: "finland-kuopio-museum-history-v2",
+    id: "finland-kuopio-museum-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jynkän uimaranta",
+                  "text": "Ein kleinerer Strand im Gebiet Jynkkä in Kuopio.",
+                  "category": "recreational",
+                  "coords": [
+                        27.654139,
+                        62.849331
+                  ]
+            },
+            {
+                  "name": "Särkilahden uimaranta",
+                  "text": "Särkilahden uimaranta ist ein Strand nahe dem Kuopio Museum.",
+                  "category": "recreational",
+                  "coords": [
+                        27.64336,
+                        62.871413
+                  ]
+            },
+            {
+                  "name": "Rauhanlahden uimaranta",
+                  "text": "Rauhanlahden uimaranta ist ein Strand nahe dem Kuopio Museum.",
+                  "category": "recreational",
+                  "coords": [
+                        27.645022,
+                        62.864848
+                  ]
+            },
+            {
+                  "name": "Paloniemen uimaranta",
+                  "text": "Strand nahe dem Museum in Kuopio.",
+                  "category": "recreational",
+                  "coords": [
+                        27.68683,
+                        62.854062
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jynkän uimaranta",
+                  "text": "Kisebb strand a kuopiói Jynkkä területen.",
+                  "category": "recreational",
+                  "coords": [
+                        27.654139,
+                        62.849331
+                  ]
+            },
+            {
+                  "name": "Särkilahden uimaranta",
+                  "text": "Särkilahden uimaranta egy strand a Kuopio Múzeum közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        27.64336,
+                        62.871413
+                  ]
+            },
+            {
+                  "name": "Rauhanlahden uimaranta",
+                  "text": "Rauhanlahden uimaranta egy strand a Kuopio Múzeum közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        27.645022,
+                        62.864848
+                  ]
+            },
+            {
+                  "name": "Paloniemen uimaranta",
+                  "text": "Strand a kuopiói múzeum közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        27.68683,
+                        62.854062
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jynkän uimaranta",
+                  "text": "O plajă mai mică în zona Jynkkä din Kuopio.",
+                  "category": "recreational",
+                  "coords": [
+                        27.654139,
+                        62.849331
+                  ]
+            },
+            {
+                  "name": "Särkilahden uimaranta",
+                  "text": "Särkilahden uimaranta este o plajă situată lângă Muzeul din Kuopio.",
+                  "category": "recreational",
+                  "coords": [
+                        27.64336,
+                        62.871413
+                  ]
+            },
+            {
+                  "name": "Rauhanlahden uimaranta",
+                  "text": "Rauhanlahden uimaranta este o plajă situată lângă Muzeul din Kuopio.",
+                  "category": "recreational",
+                  "coords": [
+                        27.645022,
+                        62.864848
+                  ]
+            },
+            {
+                  "name": "Paloniemen uimaranta",
+                  "text": "Plajă lângă muzeul din Kuopio.",
+                  "category": "recreational",
+                  "coords": [
+                        27.68683,
+                        62.854062
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jynkän uimaranta",
+                  "text": "A smaller beach in the Jynkkä area of Kuopio.",
+                  "category": "recreational",
+                  "coords": [
+                        27.654139,
+                        62.849331
+                  ]
+            },
+            {
+                  "name": "Särkilahden uimaranta",
+                  "text": "Särkilahden uimaranta is a beach near the Kuopio Museum.",
+                  "category": "recreational",
+                  "coords": [
+                        27.64336,
+                        62.871413
+                  ]
+            },
+            {
+                  "name": "Rauhanlahden uimaranta",
+                  "text": "Rauhanlahden uimaranta is a beach near the Kuopio Museum.",
+                  "category": "recreational",
+                  "coords": [
+                        27.645022,
+                        62.864848
+                  ]
+            },
+            {
+                  "name": "Paloniemen uimaranta",
+                  "text": "Beach near the museum in Kuopio.",
+                  "category": "recreational",
+                  "coords": [
+                        27.68683,
+                        62.854062
+                  ]
+            }
+      ]
+},
     type: "museum",
     parent: "FI",
     name: { de: "Kuopio Kulturhistorisches Museum", hu: "Kuopio Kultúrtörténeti Múzeum", ro: "Muzeul de istorie culturală din Kuopio", en: "Kuopio Cultural History Museum" },
@@ -1218,7 +2586,52 @@ export const finlandHistoryV2: POI[] = [
     image: "/poi-images/finland-kuopio-museum-history-v2.webp",
   },
   {
-    id: "finland-kajaani-church-history-v2",
+    id: "finland-kajaani-church-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kesäniemen uimaranta",
+                  "text": "Der Kesäniemen uimaranta liegt bei der Kirche von Kajaani.",
+                  "category": "recreational",
+                  "coords": [
+                        27.763322,
+                        64.225106
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kesäniemen uimaranta",
+                  "text": "Kesäniemen uimaranta a kajaanii templom közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        27.763322,
+                        64.225106
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kesäniemen uimaranta",
+                  "text": "Kesäniemen uimaranta se află lângă biserica din Kajaani.",
+                  "category": "recreational",
+                  "coords": [
+                        27.763322,
+                        64.225106
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kesäniemen uimaranta",
+                  "text": "Kesäniemen uimaranta is near the church in Kajaani.",
+                  "category": "recreational",
+                  "coords": [
+                        27.763322,
+                        64.225106
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "FI",
     name: { de: "Kirche von Kajaani", hu: "Kajaani templom", ro: "Biserica din Kajaani", en: "Kajaani Church" },
@@ -1263,7 +2676,124 @@ export const finlandHistoryV2: POI[] = [
     image: "/poi-images/finland-kajaani-church-history-v2.webp",
   },
   {
-    id: "finland-viitasaari-church-history-v2",
+    id: "finland-viitasaari-church-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Myllärinpuiston uimaranta",
+                  "text": "Strand bei der Kirche in Viitasaari.",
+                  "category": "recreational",
+                  "coords": [
+                        25.84529,
+                        63.06853
+                  ]
+            },
+            {
+                  "name": "Hiekan uimala",
+                  "text": "Strand Hiekan uimala in Viitasaari.",
+                  "category": "recreational",
+                  "coords": [
+                        25.838182,
+                        63.081182
+                  ]
+            },
+            {
+                  "name": "Kurkelan uimaranta",
+                  "text": "Strand Kurkela in Viitasaari.",
+                  "category": "recreational",
+                  "coords": [
+                        25.829985,
+                        63.095022
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Myllärinpuiston uimaranta",
+                  "text": "Strand a Viitasaari templom közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        25.84529,
+                        63.06853
+                  ]
+            },
+            {
+                  "name": "Hiekan uimala",
+                  "text": "Hiekan uimala strand Viitasaariban.",
+                  "category": "recreational",
+                  "coords": [
+                        25.838182,
+                        63.081182
+                  ]
+            },
+            {
+                  "name": "Kurkelan uimaranta",
+                  "text": "Kurkela strand Viitasaariban.",
+                  "category": "recreational",
+                  "coords": [
+                        25.829985,
+                        63.095022
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Myllärinpuiston uimaranta",
+                  "text": "Plajă lângă biserica din Viitasaari.",
+                  "category": "recreational",
+                  "coords": [
+                        25.84529,
+                        63.06853
+                  ]
+            },
+            {
+                  "name": "Hiekan uimala",
+                  "text": "Plaja Hiekan uimala din Viitasaari.",
+                  "category": "recreational",
+                  "coords": [
+                        25.838182,
+                        63.081182
+                  ]
+            },
+            {
+                  "name": "Kurkelan uimaranta",
+                  "text": "Plaja Kurkela din Viitasaari.",
+                  "category": "recreational",
+                  "coords": [
+                        25.829985,
+                        63.095022
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Myllärinpuiston uimaranta",
+                  "text": "Beach near the church in Viitasaari.",
+                  "category": "recreational",
+                  "coords": [
+                        25.84529,
+                        63.06853
+                  ]
+            },
+            {
+                  "name": "Hiekan uimala",
+                  "text": "Hiekan uimala beach in Viitasaari.",
+                  "category": "recreational",
+                  "coords": [
+                        25.838182,
+                        63.081182
+                  ]
+            },
+            {
+                  "name": "Kurkelan uimaranta",
+                  "text": "Kurkela beach in Viitasaari.",
+                  "category": "recreational",
+                  "coords": [
+                        25.829985,
+                        63.095022
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "FI",
     name: { de: "Kirche von Viitasaari", hu: "Viitasaari templom", ro: "Biserica din Viitasaari", en: "Viitasaari Church" },
@@ -1353,7 +2883,88 @@ export const finlandHistoryV2: POI[] = [
     image: "/poi-images/finland-lapua-cathedral-history-v2.webp",
   },
   {
-    id: "finland-naantali-convent-church-history-v2",
+    id: "finland-naantali-convent-church-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kuparivuoren_uimaranta",
+                  "text": "Kuparivuoren uimaranta liegt in der Nähe der Klosterkirche von Naantali.",
+                  "category": "recreational",
+                  "coords": [
+                        22.016293,
+                        60.464511
+                  ]
+            },
+            {
+                  "name": "Kesäranta",
+                  "text": "Kesäranta ist ein Strand nahe der Klosterkirche von Naantali.",
+                  "category": "recreational",
+                  "coords": [
+                        21.93953,
+                        60.456116
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kuparivuoren_uimaranta",
+                  "text": "Kuparivuoren uimaranta a Naantali kolostortemplom közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        22.016293,
+                        60.464511
+                  ]
+            },
+            {
+                  "name": "Kesäranta",
+                  "text": "Kesäranta egy strand a naantali kolostortemplom közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        21.93953,
+                        60.456116
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kuparivuoren_uimaranta",
+                  "text": "Kuparivuoren uimaranta este situată lângă Biserica Mănăstirii din Naantali.",
+                  "category": "recreational",
+                  "coords": [
+                        22.016293,
+                        60.464511
+                  ]
+            },
+            {
+                  "name": "Kesäranta",
+                  "text": "Kesäranta este o plajă situată lângă biserica mănăstirii din Naantali.",
+                  "category": "recreational",
+                  "coords": [
+                        21.93953,
+                        60.456116
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kuparivuoren_uimaranta",
+                  "text": "Kuparivuoren uimaranta is located near the Naantali Convent Church.",
+                  "category": "recreational",
+                  "coords": [
+                        22.016293,
+                        60.464511
+                  ]
+            },
+            {
+                  "name": "Kesäranta",
+                  "text": "Kesäranta is a beach near the Naantali Convent Church.",
+                  "category": "recreational",
+                  "coords": [
+                        21.93953,
+                        60.456116
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "FI",
     name: { de: "Klosterkirche Naantali", hu: "Naantali kolostortemplom", ro: "Biserica mănăstirii din Naantali", en: "Naantali Convent Church" },

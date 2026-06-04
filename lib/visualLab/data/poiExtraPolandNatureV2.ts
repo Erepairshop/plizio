@@ -543,7 +543,52 @@ export const polandNatureV2: POI[] = [
       fr: ["La superficie du parc est de 385 kilomètres carrés, ce qui en fait l'une des plus grandes forêts périurbaines d'Europe.", "Des dunes intérieures millénaires datant de l'ère glaciaire ponctuent les zones marécageuses.", "La réintroduction de l'élan a débuté en 1951 ; aujourd'hui, plus de 300 spécimens y vivent.", "Pendant la Seconde Guerre mondiale, les forêts denses étaient l'une des principales cachettes des partisans polonais.", "Près de 350 kilomètres de sentiers balisés sont à la disposition des habitants de Varsovie.", "En 2000, la zone a été inscrite sur la liste officielle des réserves de biosphère de l'UNESCO."],
     }, image: "/poi-images/poland-kampinos-forest-nature-v2.webp"},
   {
-    id: "poland-wigry-lake-nature-v2",
+    id: "poland-wigry-lake-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plaża U Jawora",
+                  "text": "Strand U Jawora am Wigry-See.",
+                  "category": "recreational",
+                  "coords": [
+                        23.018908,
+                        54.018508
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plaża U Jawora",
+                  "text": "U Jawora strand a Wigry-tónál.",
+                  "category": "recreational",
+                  "coords": [
+                        23.018908,
+                        54.018508
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plaża U Jawora",
+                  "text": "Plaja U Jawora la lacul Wigry.",
+                  "category": "recreational",
+                  "coords": [
+                        23.018908,
+                        54.018508
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plaża U Jawora",
+                  "text": "U Jawora beach at Wigry Lake.",
+                  "category": "recreational",
+                  "coords": [
+                        23.018908,
+                        54.018508
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "lake",
     name: { de: "Wigry-See", hu: "Wigry-tó", ro: "Lacul Wigry", en: "Wigry Lake"},
@@ -948,7 +993,52 @@ export const polandNatureV2: POI[] = [
       fr: ["L'altitude du sommet est de 1 310 mètres.", "Un total de six crêtes montagneuses se rejoignent en étoile sous le sommet, en faisant un centre de randonnée majeur.", "L'immense refuge PTTK permet d'héberger plus de 100 personnes à proximité du sommet.", "Les forêts environnantes constituent le cœur des pessières vierges les plus protégées du parc national de Gorce.", "Pendant la Seconde Guerre mondiale, cette montagne difficile d'accès fut une base importante pour les mouvements de résistance polonais.", "À côté du sommet se trouve l'historique \"chapelle papale\", commémorant les visites du pape Jean-Paul II."],
     }, image: "/poi-images/poland-turbacz-peak-nature-v2.webp"},
   {
-    id: "poland-mount-sleza-nature-v2",
+    id: "poland-mount-sleza-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kąpielisko Sulistrowiczki",
+                  "text": "Strand bei Mount Sleza.",
+                  "category": "recreational",
+                  "coords": [
+                        16.74417,
+                        50.849739
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kąpielisko Sulistrowiczki",
+                  "text": "Strand a Mount Sleza közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        16.74417,
+                        50.849739
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kąpielisko Sulistrowiczki",
+                  "text": "Plajă lângă Mount Sleza.",
+                  "category": "recreational",
+                  "coords": [
+                        16.74417,
+                        50.849739
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kąpielisko Sulistrowiczki",
+                  "text": "Beach near Mount Sleza.",
+                  "category": "recreational",
+                  "coords": [
+                        16.74417,
+                        50.849739
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "peak",
     name: { de: "Zobten", hu: "Ślęża", ro: "Muntele Ślęża", en: "Mount Ślęża"},
@@ -993,7 +1083,88 @@ export const polandNatureV2: POI[] = [
       fr: ["Le sommet solitaire culmine exactement à 718 mètres au-dessus de la plaine.", "Géologiquement, il est principalement composé de granit massif, de gabbro et de serpentinite.", "Les sculptures en pierre à but cultuel trouvées sur la montagne datent de la période entre 700 et 400 av. J.-C.", "Dès le début du XIe siècle, une chapelle chrétienne fut construite sur la montagne pour contrer les croyances païennes.", "La tour de télévision de 136 mètres au sommet est un point de navigation visible à plusieurs dizaines de kilomètres.", "La zone est une réserve paysagère strictement protégée depuis 1954 pour ses valeurs archéologiques et géologiques exceptionnelles."],
     }, image: "/poi-images/poland-mount-sleza-nature-v2.webp"},
   {
-    id: "poland-solina-lake-nature-v2",
+    id: "poland-solina-lake-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zielona plaża",
+                  "text": "Grüner Strand am Solina-Stausee.",
+                  "category": "recreational",
+                  "coords": [
+                        22.44926,
+                        49.359737
+                  ]
+            },
+            {
+                  "name": "Wyspa Mała",
+                  "text": "Strand auf der Insel Wyspa Mała am Solina-Stausee.",
+                  "category": "recreational",
+                  "coords": [
+                        22.454734,
+                        49.373903
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zielona plaża",
+                  "text": "Zöld strand a Solina-tónál.",
+                  "category": "recreational",
+                  "coords": [
+                        22.44926,
+                        49.359737
+                  ]
+            },
+            {
+                  "name": "Wyspa Mała",
+                  "text": "Strand a Wyspa Mała szigeten, a Solina-tónál.",
+                  "category": "recreational",
+                  "coords": [
+                        22.454734,
+                        49.373903
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zielona plaża",
+                  "text": "Plajă verde la Lacul Solina.",
+                  "category": "recreational",
+                  "coords": [
+                        22.44926,
+                        49.359737
+                  ]
+            },
+            {
+                  "name": "Wyspa Mała",
+                  "text": "Plajă pe insula Wyspa Mała de pe lacul Solina.",
+                  "category": "recreational",
+                  "coords": [
+                        22.454734,
+                        49.373903
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zielona plaża",
+                  "text": "Green beach at Solina Lake.",
+                  "category": "recreational",
+                  "coords": [
+                        22.44926,
+                        49.359737
+                  ]
+            },
+            {
+                  "name": "Wyspa Mała",
+                  "text": "Beach on Wyspa Mała island at Solina Lake.",
+                  "category": "recreational",
+                  "coords": [
+                        22.454734,
+                        49.373903
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "lake",
     name: { de: "Solina-Stausee", hu: "Solinai-tó", ro: "Lacul Solina", en: "Solina Lake"},
@@ -1218,7 +1389,52 @@ export const polandNatureV2: POI[] = [
       fr: ["Plus de 95 % du parc national est couvert de forêts denses, ce qui en fait le parc le plus boisé de Pologne.", "La superficie du parc national de Roztocze est exactement de 84,83 kilomètres carrés.", "La particularité de la zone réside dans les « Szumy », de petites cascades rocheuses en escalier dans le lit des rivières.", "En 1982, l'élevage en semi-liberté des chevaux Konik polonais, parents du Tarpan, a débuté ici.", "Le microclimat du parc est particulièrement riche en iode et en huiles essentielles de conifères.", "Certains sapins atteignent ici 50 mètres de hauteur, recouvrant les vallées de leurs immenses cimes."],
     }, image: "/poi-images/poland-roztocze-forest-nature-v2.webp"},
   {
-    id: "poland-czarna-hancza-river-nature-v2",
+    id: "poland-czarna-hancza-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "nieznana",
+                  "text": "Strand am Fluss Czarna Hańcza.",
+                  "category": "recreational",
+                  "coords": [
+                        23.205714,
+                        53.916491
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "nieznana",
+                  "text": "Strand a Czarna Hańcza folyónál.",
+                  "category": "recreational",
+                  "coords": [
+                        23.205714,
+                        53.916491
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "nieznana",
+                  "text": "Plajă la râul Czarna Hańcza.",
+                  "category": "recreational",
+                  "coords": [
+                        23.205714,
+                        53.916491
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "nieznana",
+                  "text": "Beach at the Czarna Hańcza river.",
+                  "category": "recreational",
+                  "coords": [
+                        23.205714,
+                        53.916491
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "river",
     name: { de: "Czarna Hańcza", hu: "Czarna Hańcza", ro: "Râul Czarna Hańcza", en: "Czarna Hańcza"},

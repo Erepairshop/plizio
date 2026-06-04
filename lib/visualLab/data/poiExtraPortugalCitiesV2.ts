@@ -272,6 +272,186 @@ export const portugalCitiesV2: POI[] = [
                         -27.21693,
                         38.657211
                   ]
+            },
+            {
+                  "name": "Hospital da Boa Nova",
+                  "text": "Das Hospital da Boa Nova ist ein historisches Krankenhaus und heutiges Museum in Angra do Heroísmo.",
+                  "category": "museum",
+                  "coords": [
+                        -27.223697,
+                        38.653678
+                  ]
+            },
+            {
+                  "name": "Prainha",
+                  "text": "Prainha ist ein bekannter Sandstrand im Zentrum von Angra do Heroísmo.",
+                  "category": "recreational",
+                  "coords": [
+                        -27.220016,
+                        38.653709
+                  ]
+            },
+            {
+                  "name": "Silveira",
+                  "text": "Silveira ist ein Strand in der Stadt Angra do Heroísmo.",
+                  "category": "recreational",
+                  "coords": [
+                        -27.235713,
+                        38.656702
+                  ]
+            },
+            {
+                  "name": "Museu da Ribeirinha",
+                  "text": "Das Museu da Ribeirinha ist ein lokales Museum in Angra do Heroísmo.",
+                  "category": "museum",
+                  "coords": [
+                        -27.177653,
+                        38.663003
+                  ]
+            },
+            {
+                  "name": "Outeiro da Memória",
+                  "text": "Outeiro da Memória ist ein markantes Denkmal, das einen Panoramablick über Angra do Heroísmo bietet.",
+                  "category": "historical",
+                  "coords": [
+                        -27.218329,
+                        38.658708
+                  ]
+            },
+            {
+                  "name": "Baía de Villa Maria",
+                  "text": "Baía de Villa Maria ist eine malerische Bucht an der Küste von Angra do Heroísmo.",
+                  "category": "landmark",
+                  "coords": [
+                        -27.249612,
+                        38.654808
+                  ]
+            },
+            {
+                  "name": "Miradouro do Pico das Cruzinhas",
+                  "text": "Miradouro do Pico das Cruzinhas ist ein bekannter Aussichtspunkt mit weitem Blick auf Angra do Heroísmo.",
+                  "category": "natural",
+                  "coords": [
+                        -27.225313,
+                        38.647222
+                  ]
+            },
+            {
+                  "name": "Miradouro",
+                  "text": "Dies ist ein lokaler Aussichtspunkt in Angra do Heroísmo.",
+                  "category": "natural",
+                  "coords": [
+                        -27.232453,
+                        38.643008
+                  ]
+            },
+            {
+                  "name": "Império de Santo Amaro",
+                  "text": "Império de Santo Amaro ist eine lokale Sehenswürdigkeit in Angra do Heroísmo.",
+                  "category": "landmark",
+                  "coords": [
+                        -27.185907,
+                        38.656698
+                  ]
+            },
+            {
+                  "name": "Império do Meio da Rua",
+                  "text": "Império do Meio da Rua ist eine kulturelle Sehenswürdigkeit in Angra do Heroísmo.",
+                  "category": "landmark",
+                  "coords": [
+                        -27.181367,
+                        38.661994
+                  ]
+            },
+            {
+                  "name": "Império da Serra",
+                  "text": "Império da Serra ist eine lokale Sehenswürdigkeit in der Stadt Angra do Heroísmo.",
+                  "category": "landmark",
+                  "coords": [
+                        -27.178529,
+                        38.664335
+                  ]
+            },
+            {
+                  "name": "Miradouro de Santo António",
+                  "text": "Miradouro de Santo António ist ein Aussichtspunkt in der Stadt Angra do Heroísmo.",
+                  "category": "natural",
+                  "coords": [
+                        -27.219095,
+                        38.642291
+                  ]
+            },
+            {
+                  "name": "Grota do Medo",
+                  "text": "Grota do Medo ist eine Sehenswürdigkeit in der Stadt Angra do Heroísmo.",
+                  "category": "landmark",
+                  "coords": [
+                        -27.224867,
+                        38.675567
+                  ]
+            },
+            {
+                  "name": "Vigia de Baleia",
+                  "text": "Whale Watching Tower ist ein Beobachtungspunkt in Angra do Heroísmo.",
+                  "category": "natural",
+                  "coords": [
+                        -27.226896,
+                        38.639669
+                  ]
+            },
+            {
+                  "name": "Vigia da II Guerra",
+                  "text": "Vigia da II Guerra ist ein Aussichtspunkt in Angra do Heroísmo.",
+                  "category": "natural",
+                  "coords": [
+                        -27.230899,
+                        38.642548
+                  ]
+            },
+            {
+                  "name": "Forte da Quebrada",
+                  "text": "Forte da Quebrada bietet historische Ruinen in Angra do Heroísmo.",
+                  "category": "historical",
+                  "coords": [
+                        -27.223821,
+                        38.640144
+                  ]
+            },
+            {
+                  "name": "Ruinas Muralha Castelo de São João Baptista",
+                  "text": "Ruinas Muralha Castelo de São João Baptista sind die historischen Ruinen in Angra do Heroísmo.",
+                  "category": "historical",
+                  "coords": [
+                        -27.217335,
+                        38.643185
+                  ]
+            },
+            {
+                  "name": "Convento das Concecionistas",
+                  "text": "Convento das Concecionistas ist die Stätte historischer Ruinen in der Stadt Angra do Heroísmo.",
+                  "category": "historical",
+                  "coords": [
+                        -27.212192,
+                        38.659219
+                  ]
+            },
+            {
+                  "name": "Igreja de São Pedro",
+                  "text": "Igreja de São Pedro ist eine bemerkenswerte Kultstätte in Angra do Heroísmo.",
+                  "category": "religious",
+                  "coords": [
+                        -27.229725,
+                        38.657378
+                  ]
+            },
+            {
+                  "name": "Ermida de Santo António da Grota",
+                  "text": "Ermida de Santo António da Grota ist eine historische Kultstätte in Angra do Heroísmo.",
+                  "category": "religious",
+                  "coords": [
+                        -27.221805,
+                        38.647593
+                  ]
             }
       ],
       "hu": [
@@ -363,6 +543,186 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -27.21693,
                         38.657211
+                  ]
+            },
+            {
+                  "name": "Hospital da Boa Nova",
+                  "text": "A Hospital da Boa Nova egy történelmi kórház és jelenlegi múzeum Angra do Heroísmo városában.",
+                  "category": "museum",
+                  "coords": [
+                        -27.223697,
+                        38.653678
+                  ]
+            },
+            {
+                  "name": "Prainha",
+                  "text": "A Prainha egy ismert homokos strand Angra do Heroísmo központjában.",
+                  "category": "recreational",
+                  "coords": [
+                        -27.220016,
+                        38.653709
+                  ]
+            },
+            {
+                  "name": "Silveira",
+                  "text": "A Silveira egy strand Angra do Heroísmo városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -27.235713,
+                        38.656702
+                  ]
+            },
+            {
+                  "name": "Museu da Ribeirinha",
+                  "text": "A Museu da Ribeirinha egy helyi múzeum Angra do Heroísmo városában.",
+                  "category": "museum",
+                  "coords": [
+                        -27.177653,
+                        38.663003
+                  ]
+            },
+            {
+                  "name": "Outeiro da Memória",
+                  "text": "Az Outeiro da Memória egy kiemelkedő emlékmű, amely panorámás kilátást nyújt Angra do Heroísmo városára.",
+                  "category": "historical",
+                  "coords": [
+                        -27.218329,
+                        38.658708
+                  ]
+            },
+            {
+                  "name": "Baía de Villa Maria",
+                  "text": "A Baía de Villa Maria egy festői tengerparti öböl Angra do Heroísmo területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -27.249612,
+                        38.654808
+                  ]
+            },
+            {
+                  "name": "Miradouro do Pico das Cruzinhas",
+                  "text": "A Miradouro do Pico das Cruzinhas egy ismert kilátó, amely széles kilátást nyújt Angra do Heroísmo városára.",
+                  "category": "natural",
+                  "coords": [
+                        -27.225313,
+                        38.647222
+                  ]
+            },
+            {
+                  "name": "Miradouro",
+                  "text": "Ez egy helyi kilátó Angra do Heroísmo városában.",
+                  "category": "natural",
+                  "coords": [
+                        -27.232453,
+                        38.643008
+                  ]
+            },
+            {
+                  "name": "Império de Santo Amaro",
+                  "text": "Az Império de Santo Amaro egy helyi látványosság Angra do Heroísmo városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -27.185907,
+                        38.656698
+                  ]
+            },
+            {
+                  "name": "Império do Meio da Rua",
+                  "text": "Az Império do Meio da Rua egy kulturális látványosság Angra do Heroísmo városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -27.181367,
+                        38.661994
+                  ]
+            },
+            {
+                  "name": "Império da Serra",
+                  "text": "Az Império da Serra egy helyi látványosság Angra do Heroísmo városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -27.178529,
+                        38.664335
+                  ]
+            },
+            {
+                  "name": "Miradouro de Santo António",
+                  "text": "A Miradouro de Santo António egy kilátó Angra do Heroísmo városában.",
+                  "category": "natural",
+                  "coords": [
+                        -27.219095,
+                        38.642291
+                  ]
+            },
+            {
+                  "name": "Grota do Medo",
+                  "text": "A Grota do Medo egy látványosság Angra do Heroísmo városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -27.224867,
+                        38.675567
+                  ]
+            },
+            {
+                  "name": "Vigia de Baleia",
+                  "text": "A Whale Watching Tower egy megfigyelőpont Angra do Heroísmo városában.",
+                  "category": "natural",
+                  "coords": [
+                        -27.226896,
+                        38.639669
+                  ]
+            },
+            {
+                  "name": "Vigia da II Guerra",
+                  "text": "A Vigia da II Guerra egy kilátó Angra do Heroísmo városában.",
+                  "category": "natural",
+                  "coords": [
+                        -27.230899,
+                        38.642548
+                  ]
+            },
+            {
+                  "name": "Forte da Quebrada",
+                  "text": "A Forte da Quebrada történelmi romokat kínál Angra do Heroísmo városában.",
+                  "category": "historical",
+                  "coords": [
+                        -27.223821,
+                        38.640144
+                  ]
+            },
+            {
+                  "name": "Ruinas Muralha Castelo de São João Baptista",
+                  "text": "A Ruinas Muralha Castelo de São João Baptista egy történelmi romterület Angra do Heroísmo városában.",
+                  "category": "historical",
+                  "coords": [
+                        -27.217335,
+                        38.643185
+                  ]
+            },
+            {
+                  "name": "Convento das Concecionistas",
+                  "text": "A Convento das Concecionistas egy történelmi romterület Angra do Heroísmo városában.",
+                  "category": "historical",
+                  "coords": [
+                        -27.212192,
+                        38.659219
+                  ]
+            },
+            {
+                  "name": "Igreja de São Pedro",
+                  "text": "Az Igreja de São Pedro egy jelentős imahely Angra do Heroísmo városában.",
+                  "category": "religious",
+                  "coords": [
+                        -27.229725,
+                        38.657378
+                  ]
+            },
+            {
+                  "name": "Ermida de Santo António da Grota",
+                  "text": "Az Ermida de Santo António da Grota egy történelmi imahely Angra do Heroísmo városában.",
+                  "category": "religious",
+                  "coords": [
+                        -27.221805,
+                        38.647593
                   ]
             }
       ],
@@ -456,6 +816,186 @@ export const portugalCitiesV2: POI[] = [
                         -27.21693,
                         38.657211
                   ]
+            },
+            {
+                  "name": "Hospital da Boa Nova",
+                  "text": "Hospital da Boa Nova este un spital istoric și actual muzeu situat în Angra do Heroísmo.",
+                  "category": "museum",
+                  "coords": [
+                        -27.223697,
+                        38.653678
+                  ]
+            },
+            {
+                  "name": "Prainha",
+                  "text": "Prainha este o plajă de nisip bine-cunoscută din centrul orașului Angra do Heroísmo.",
+                  "category": "recreational",
+                  "coords": [
+                        -27.220016,
+                        38.653709
+                  ]
+            },
+            {
+                  "name": "Silveira",
+                  "text": "Silveira este o plajă situată în orașul Angra do Heroísmo.",
+                  "category": "recreational",
+                  "coords": [
+                        -27.235713,
+                        38.656702
+                  ]
+            },
+            {
+                  "name": "Museu da Ribeirinha",
+                  "text": "Museu da Ribeirinha este un muzeu local din Angra do Heroísmo.",
+                  "category": "museum",
+                  "coords": [
+                        -27.177653,
+                        38.663003
+                  ]
+            },
+            {
+                  "name": "Outeiro da Memória",
+                  "text": "Outeiro da Memória este un monument proeminent care oferă vederi panoramice asupra orașului Angra do Heroísmo.",
+                  "category": "historical",
+                  "coords": [
+                        -27.218329,
+                        38.658708
+                  ]
+            },
+            {
+                  "name": "Baía de Villa Maria",
+                  "text": "Baía de Villa Maria este un golf pitoresc pe coasta orașului Angra do Heroísmo.",
+                  "category": "landmark",
+                  "coords": [
+                        -27.249612,
+                        38.654808
+                  ]
+            },
+            {
+                  "name": "Miradouro do Pico das Cruzinhas",
+                  "text": "Miradouro do Pico das Cruzinhas este un punct de belvedere renumit, cu vederi ample asupra orașului Angra do Heroísmo.",
+                  "category": "natural",
+                  "coords": [
+                        -27.225313,
+                        38.647222
+                  ]
+            },
+            {
+                  "name": "Miradouro",
+                  "text": "Acesta este un punct de belvedere local din Angra do Heroísmo.",
+                  "category": "natural",
+                  "coords": [
+                        -27.232453,
+                        38.643008
+                  ]
+            },
+            {
+                  "name": "Império de Santo Amaro",
+                  "text": "Império de Santo Amaro este o atracție locală din Angra do Heroísmo.",
+                  "category": "landmark",
+                  "coords": [
+                        -27.185907,
+                        38.656698
+                  ]
+            },
+            {
+                  "name": "Império do Meio da Rua",
+                  "text": "Império do Meio da Rua este o atracție culturală din Angra do Heroísmo.",
+                  "category": "landmark",
+                  "coords": [
+                        -27.181367,
+                        38.661994
+                  ]
+            },
+            {
+                  "name": "Império da Serra",
+                  "text": "Império da Serra este o atracție locală situată în orașul Angra do Heroísmo.",
+                  "category": "landmark",
+                  "coords": [
+                        -27.178529,
+                        38.664335
+                  ]
+            },
+            {
+                  "name": "Miradouro de Santo António",
+                  "text": "Miradouro de Santo António este un punct de belvedere în orașul Angra do Heroísmo.",
+                  "category": "natural",
+                  "coords": [
+                        -27.219095,
+                        38.642291
+                  ]
+            },
+            {
+                  "name": "Grota do Medo",
+                  "text": "Grota do Medo este o atracție situată în orașul Angra do Heroísmo.",
+                  "category": "landmark",
+                  "coords": [
+                        -27.224867,
+                        38.675567
+                  ]
+            },
+            {
+                  "name": "Vigia de Baleia",
+                  "text": "Whale Watching Tower este un punct de belvedere situat în Angra do Heroísmo.",
+                  "category": "natural",
+                  "coords": [
+                        -27.226896,
+                        38.639669
+                  ]
+            },
+            {
+                  "name": "Vigia da II Guerra",
+                  "text": "Vigia da II Guerra este un punct de belvedere situat în Angra do Heroísmo.",
+                  "category": "natural",
+                  "coords": [
+                        -27.230899,
+                        38.642548
+                  ]
+            },
+            {
+                  "name": "Forte da Quebrada",
+                  "text": "Forte da Quebrada prezintă ruine istorice situate în Angra do Heroísmo.",
+                  "category": "historical",
+                  "coords": [
+                        -27.223821,
+                        38.640144
+                  ]
+            },
+            {
+                  "name": "Ruinas Muralha Castelo de São João Baptista",
+                  "text": "Ruinas Muralha Castelo de São João Baptista sunt ruine istorice din Angra do Heroísmo.",
+                  "category": "historical",
+                  "coords": [
+                        -27.217335,
+                        38.643185
+                  ]
+            },
+            {
+                  "name": "Convento das Concecionistas",
+                  "text": "Convento das Concecionistas este locul unor ruine istorice din orașul Angra do Heroísmo.",
+                  "category": "historical",
+                  "coords": [
+                        -27.212192,
+                        38.659219
+                  ]
+            },
+            {
+                  "name": "Igreja de São Pedro",
+                  "text": "Igreja de São Pedro este un lăcaș de cult notabil din Angra do Heroísmo.",
+                  "category": "religious",
+                  "coords": [
+                        -27.229725,
+                        38.657378
+                  ]
+            },
+            {
+                  "name": "Ermida de Santo António da Grota",
+                  "text": "Ermida de Santo António da Grota este un lăcaș de cult istoric în Angra do Heroísmo.",
+                  "category": "religious",
+                  "coords": [
+                        -27.221805,
+                        38.647593
+                  ]
             }
       ],
       "en": [
@@ -547,6 +1087,186 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -27.21693,
                         38.657211
+                  ]
+            },
+            {
+                  "name": "Hospital da Boa Nova",
+                  "text": "The Hospital da Boa Nova is a historic hospital and present-day museum located in Angra do Heroísmo.",
+                  "category": "museum",
+                  "coords": [
+                        -27.223697,
+                        38.653678
+                  ]
+            },
+            {
+                  "name": "Prainha",
+                  "text": "Prainha is a well-known sandy beach located in the center of Angra do Heroísmo.",
+                  "category": "recreational",
+                  "coords": [
+                        -27.220016,
+                        38.653709
+                  ]
+            },
+            {
+                  "name": "Silveira",
+                  "text": "Silveira is a beach situated in the city of Angra do Heroísmo.",
+                  "category": "recreational",
+                  "coords": [
+                        -27.235713,
+                        38.656702
+                  ]
+            },
+            {
+                  "name": "Museu da Ribeirinha",
+                  "text": "Museu da Ribeirinha is a local museum in Angra do Heroísmo.",
+                  "category": "museum",
+                  "coords": [
+                        -27.177653,
+                        38.663003
+                  ]
+            },
+            {
+                  "name": "Outeiro da Memória",
+                  "text": "Outeiro da Memória is a prominent monument offering panoramic views over Angra do Heroísmo.",
+                  "category": "historical",
+                  "coords": [
+                        -27.218329,
+                        38.658708
+                  ]
+            },
+            {
+                  "name": "Baía de Villa Maria",
+                  "text": "Baía de Villa Maria is a scenic coastal bay in Angra do Heroísmo.",
+                  "category": "landmark",
+                  "coords": [
+                        -27.249612,
+                        38.654808
+                  ]
+            },
+            {
+                  "name": "Miradouro do Pico das Cruzinhas",
+                  "text": "Miradouro do Pico das Cruzinhas is a well-known viewpoint offering expansive views of Angra do Heroísmo.",
+                  "category": "natural",
+                  "coords": [
+                        -27.225313,
+                        38.647222
+                  ]
+            },
+            {
+                  "name": "Miradouro",
+                  "text": "This is a local viewpoint situated in Angra do Heroísmo.",
+                  "category": "natural",
+                  "coords": [
+                        -27.232453,
+                        38.643008
+                  ]
+            },
+            {
+                  "name": "Império de Santo Amaro",
+                  "text": "Império de Santo Amaro is a local attraction in Angra do Heroísmo.",
+                  "category": "landmark",
+                  "coords": [
+                        -27.185907,
+                        38.656698
+                  ]
+            },
+            {
+                  "name": "Império do Meio da Rua",
+                  "text": "Império do Meio da Rua is a cultural attraction located in Angra do Heroísmo.",
+                  "category": "landmark",
+                  "coords": [
+                        -27.181367,
+                        38.661994
+                  ]
+            },
+            {
+                  "name": "Império da Serra",
+                  "text": "Império da Serra is a local attraction located in the city of Angra do Heroísmo.",
+                  "category": "landmark",
+                  "coords": [
+                        -27.178529,
+                        38.664335
+                  ]
+            },
+            {
+                  "name": "Miradouro de Santo António",
+                  "text": "Miradouro de Santo António is a viewpoint in the city of Angra do Heroísmo.",
+                  "category": "natural",
+                  "coords": [
+                        -27.219095,
+                        38.642291
+                  ]
+            },
+            {
+                  "name": "Grota do Medo",
+                  "text": "Grota do Medo is an attraction situated in the city of Angra do Heroísmo.",
+                  "category": "landmark",
+                  "coords": [
+                        -27.224867,
+                        38.675567
+                  ]
+            },
+            {
+                  "name": "Whale Watching Tower",
+                  "text": "Whale Watching Tower is a viewpoint located in Angra do Heroísmo.",
+                  "category": "natural",
+                  "coords": [
+                        -27.226896,
+                        38.639669
+                  ]
+            },
+            {
+                  "name": "Vigia da II Guerra",
+                  "text": "Vigia da II Guerra is a viewpoint situated in Angra do Heroísmo.",
+                  "category": "natural",
+                  "coords": [
+                        -27.230899,
+                        38.642548
+                  ]
+            },
+            {
+                  "name": "Forte da Quebrada",
+                  "text": "Forte da Quebrada features historical ruins located in Angra do Heroísmo.",
+                  "category": "historical",
+                  "coords": [
+                        -27.223821,
+                        38.640144
+                  ]
+            },
+            {
+                  "name": "Ruinas Muralha Castelo de São João Baptista",
+                  "text": "Ruinas Muralha Castelo de São João Baptista are historical ruins in Angra do Heroísmo.",
+                  "category": "historical",
+                  "coords": [
+                        -27.217335,
+                        38.643185
+                  ]
+            },
+            {
+                  "name": "Convento das Concecionistas",
+                  "text": "Convento das Concecionistas is the site of historical ruins in the city of Angra do Heroísmo.",
+                  "category": "historical",
+                  "coords": [
+                        -27.212192,
+                        38.659219
+                  ]
+            },
+            {
+                  "name": "Igreja de São Pedro",
+                  "text": "Igreja de São Pedro is a notable place of worship located in Angra do Heroísmo.",
+                  "category": "religious",
+                  "coords": [
+                        -27.229725,
+                        38.657378
+                  ]
+            },
+            {
+                  "name": "Ermida de Santo António da Grota",
+                  "text": "Ermida de Santo António da Grota is a historical place of worship in Angra do Heroísmo.",
+                  "category": "religious",
+                  "coords": [
+                        -27.221805,
+                        38.647593
                   ]
             }
       ]

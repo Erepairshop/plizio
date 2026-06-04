@@ -63,7 +63,124 @@ export const poiExtraTurkeyLifeV2: POI[] = [
     },
   },
   {
-    id: "dilek-peninsula-life-v2",
+    id: "dilek-peninsula-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kavaklı Burun Plajı",
+                  "text": "Kavaklı Burun Plajı ist ein Strand in Peninsula Life.",
+                  "category": "recreational",
+                  "coords": [
+                        27.152498,
+                        37.693714
+                  ]
+            },
+            {
+                  "name": "İçmeler Koyu Plajı",
+                  "text": "İçmeler Koyu Plajı ist ein Strand in Peninsula Life.",
+                  "category": "recreational",
+                  "coords": [
+                        27.205376,
+                        37.708116
+                  ]
+            },
+            {
+                  "name": "Kavaklı Burun",
+                  "text": "Kavaklı Burun ist ein Strandbereich in Peninsula Life.",
+                  "category": "recreational",
+                  "coords": [
+                        27.146457,
+                        37.693062
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kavaklı Burun Plajı",
+                  "text": "A Kavaklı Burun Plajı egy strand Peninsula Life területén.",
+                  "category": "recreational",
+                  "coords": [
+                        27.152498,
+                        37.693714
+                  ]
+            },
+            {
+                  "name": "İçmeler Koyu Plajı",
+                  "text": "Az İçmeler Koyu Plajı egy tengerpart Peninsula Life térségében.",
+                  "category": "recreational",
+                  "coords": [
+                        27.205376,
+                        37.708116
+                  ]
+            },
+            {
+                  "name": "Kavaklı Burun",
+                  "text": "A Kavaklı Burun egy strandszakasz Peninsula Life területén.",
+                  "category": "recreational",
+                  "coords": [
+                        27.146457,
+                        37.693062
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kavaklı Burun Plajı",
+                  "text": "Kavaklı Burun Plajı este o plajă din Peninsula Life.",
+                  "category": "recreational",
+                  "coords": [
+                        27.152498,
+                        37.693714
+                  ]
+            },
+            {
+                  "name": "İçmeler Koyu Plajı",
+                  "text": "İçmeler Koyu Plajı este o plajă situată în Peninsula Life.",
+                  "category": "recreational",
+                  "coords": [
+                        27.205376,
+                        37.708116
+                  ]
+            },
+            {
+                  "name": "Kavaklı Burun",
+                  "text": "Kavaklı Burun este o zonă de plajă în Peninsula Life.",
+                  "category": "recreational",
+                  "coords": [
+                        27.146457,
+                        37.693062
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kavaklı Burun Plajı",
+                  "text": "Kavaklı Burun Plajı is a beach in Peninsula Life.",
+                  "category": "recreational",
+                  "coords": [
+                        27.152498,
+                        37.693714
+                  ]
+            },
+            {
+                  "name": "İçmeler Koyu Plajı",
+                  "text": "İçmeler Koyu Plajı is a beach situated in Peninsula Life.",
+                  "category": "recreational",
+                  "coords": [
+                        27.205376,
+                        37.708116
+                  ]
+            },
+            {
+                  "name": "Kavaklı Burun",
+                  "text": "Kavaklı Burun is a beach area in Peninsula Life.",
+                  "category": "recreational",
+                  "coords": [
+                        27.146457,
+                        37.693062
+                  ]
+            }
+      ]
+},
     type: "wildlife-area",
     parent: "TR-09",
     coords: [27.1833, 37.6667],
@@ -483,7 +600,88 @@ export const poiExtraTurkeyLifeV2: POI[] = [
     },
   },
   {
-    id: "antalya-aquarium-life-v2",
+    id: "antalya-aquarium-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dubai Beach Lounge",
+                  "text": "Die Dubai Beach Lounge ist ein Strandbereich in Aquarium Life.",
+                  "category": "recreational",
+                  "coords": [
+                        30.640069,
+                        36.862105
+                  ]
+            },
+            {
+                  "name": "Lavanta Beach Lounge",
+                  "text": "Die Lavanta Beach Lounge ist ein Strandabschnitt in Aquarium Life.",
+                  "category": "recreational",
+                  "coords": [
+                        30.668661,
+                        36.879577
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dubai Beach Lounge",
+                  "text": "A Dubai Beach Lounge egy strand Aquarium Life térségében.",
+                  "category": "recreational",
+                  "coords": [
+                        30.640069,
+                        36.862105
+                  ]
+            },
+            {
+                  "name": "Lavanta Beach Lounge",
+                  "text": "A Lavanta Beach Lounge egy tengerpart Aquarium Life területén.",
+                  "category": "recreational",
+                  "coords": [
+                        30.668661,
+                        36.879577
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dubai Beach Lounge",
+                  "text": "Dubai Beach Lounge este o plajă din Aquarium Life.",
+                  "category": "recreational",
+                  "coords": [
+                        30.640069,
+                        36.862105
+                  ]
+            },
+            {
+                  "name": "Lavanta Beach Lounge",
+                  "text": "Lavanta Beach Lounge este o plajă în Aquarium Life.",
+                  "category": "recreational",
+                  "coords": [
+                        30.668661,
+                        36.879577
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dubai Beach Lounge",
+                  "text": "Dubai Beach Lounge is a beach in Aquarium Life.",
+                  "category": "recreational",
+                  "coords": [
+                        30.640069,
+                        36.862105
+                  ]
+            },
+            {
+                  "name": "Lavanta Beach Lounge",
+                  "text": "Lavanta Beach Lounge is a beach located in Aquarium Life.",
+                  "category": "recreational",
+                  "coords": [
+                        30.668661,
+                        36.879577
+                  ]
+            }
+      ]
+},
     type: "kid-friendly",
     parent: "TR-07",
     coords: [30.6550, 36.8828],
@@ -903,7 +1101,88 @@ export const poiExtraTurkeyLifeV2: POI[] = [
     },
   },
   {
-    id: "iztuzu-beach-life-v2",
+    id: "iztuzu-beach-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Delik Ada",
+                  "text": "Delik Ada ist ein Strandbereich in Beach Life.",
+                  "category": "recreational",
+                  "coords": [
+                        28.597196,
+                        36.796538
+                  ]
+            },
+            {
+                  "name": "İztuzu Plajı",
+                  "text": "İztuzu Plajı ist ein Strand in Beach Life, der als berühmter Nistplatz für Meeresschildkröten bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        28.621952,
+                        36.788509
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Delik Ada",
+                  "text": "A Delik Ada egy strandövezet Beach Life területén.",
+                  "category": "recreational",
+                  "coords": [
+                        28.597196,
+                        36.796538
+                  ]
+            },
+            {
+                  "name": "İztuzu Plajı",
+                  "text": "Az İztuzu Plajı egy tengerpart Beach Life területén, amely a tengeri teknősök híres fészkelőhelye.",
+                  "category": "recreational",
+                  "coords": [
+                        28.621952,
+                        36.788509
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Delik Ada",
+                  "text": "Delik Ada este o zonă de plajă situată în Beach Life.",
+                  "category": "recreational",
+                  "coords": [
+                        28.597196,
+                        36.796538
+                  ]
+            },
+            {
+                  "name": "İztuzu Plajı",
+                  "text": "İztuzu Plajı este o plajă din Beach Life, faimoasă ca habitat de cuibărit pentru țestoasele marine.",
+                  "category": "recreational",
+                  "coords": [
+                        28.621952,
+                        36.788509
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Delik Ada",
+                  "text": "Delik Ada is a beach area located in Beach Life.",
+                  "category": "recreational",
+                  "coords": [
+                        28.597196,
+                        36.796538
+                  ]
+            },
+            {
+                  "name": "İztuzu Plajı",
+                  "text": "İztuzu Plajı is a beach in Beach Life, famous as a nesting habitat for sea turtles.",
+                  "category": "recreational",
+                  "coords": [
+                        28.621952,
+                        36.788509
+                  ]
+            }
+      ]
+},
     type: "wildlife-area",
     parent: "TR-48",
     coords: [28.6231, 36.7919],

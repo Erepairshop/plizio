@@ -187,7 +187,52 @@ imageHint: "Large modern industrial battery factory Northvolt",
     },
   },
   {
-    id: "sweden-scania-sodertalje-economic-v2",
+    id: "sweden-scania-sodertalje-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Eklundsnäsbadet",
+                  "text": "Eklundsnäsbadet ist ein Strand bei Södertälje.",
+                  "category": "recreational",
+                  "coords": [
+                        17.590746,
+                        59.168583
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Eklundsnäsbadet",
+                  "text": "Eklundsnäsbadet egy strand Södertälje közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        17.590746,
+                        59.168583
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Eklundsnäsbadet",
+                  "text": "Eklundsnäsbadet este o plajă lângă Södertälje.",
+                  "category": "recreational",
+                  "coords": [
+                        17.590746,
+                        59.168583
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Eklundsnäsbadet",
+                  "text": "Eklundsnäsbadet is a beach near Södertälje.",
+                  "category": "recreational",
+                  "coords": [
+                        17.590746,
+                        59.168583
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "factory",
     name: { de: "Scania Hauptquartier Södertälje", hu: "Scania központ Södertälje", ro: "Sediul Scania Södertälje", en: "Scania Södertälje Headquarters"},
@@ -509,7 +554,196 @@ imageHint: "Petrochemical refinery towers in Stenungsund",
     },
     image: "/poi-images/sweden-stenungsund-petrochemical-economic-v2.webp",
 },  {
-    id: "sweden-ssab-oxelosund-economic-v2",
+    id: "sweden-ssab-oxelosund-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jogersöbadet strand",
+                  "text": "Strand in der Nähe von Oxelösund.",
+                  "category": "recreational",
+                  "coords": [
+                        17.052124,
+                        58.665607
+                  ]
+            },
+            {
+                  "name": "Vivesta",
+                  "text": "Strand in der Nähe von Oxelösund.",
+                  "category": "recreational",
+                  "coords": [
+                        17.093486,
+                        58.690844
+                  ]
+            },
+            {
+                  "name": "Kattbergets badplats",
+                  "text": "Strand in der Nähe von Oxelösund.",
+                  "category": "recreational",
+                  "coords": [
+                        17.028991,
+                        58.67767
+                  ]
+            },
+            {
+                  "name": "Stenviksbadet",
+                  "text": "Strand in der Nähe von Oxelösund.",
+                  "category": "recreational",
+                  "coords": [
+                        17.085569,
+                        58.663345
+                  ]
+            },
+            {
+                  "name": "Marias playa",
+                  "text": "Marias Playa befindet sich in der Nähe von Ssab Oxelösund.",
+                  "category": "recreational",
+                  "coords": [
+                        17.117754,
+                        58.677777
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jogersöbadet strand",
+                  "text": "Part Oxelösund közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        17.052124,
+                        58.665607
+                  ]
+            },
+            {
+                  "name": "Vivesta",
+                  "text": "Part Oxelösund közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        17.093486,
+                        58.690844
+                  ]
+            },
+            {
+                  "name": "Kattbergets badplats",
+                  "text": "Part Oxelösund közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        17.028991,
+                        58.67767
+                  ]
+            },
+            {
+                  "name": "Stenviksbadet",
+                  "text": "Part Oxelösund közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        17.085569,
+                        58.663345
+                  ]
+            },
+            {
+                  "name": "Marias playa",
+                  "text": "Marias Playa a Ssab Oxelösund közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        17.117754,
+                        58.677777
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jogersöbadet strand",
+                  "text": "Plajă în apropiere de Oxelösund.",
+                  "category": "recreational",
+                  "coords": [
+                        17.052124,
+                        58.665607
+                  ]
+            },
+            {
+                  "name": "Vivesta",
+                  "text": "Plajă în apropiere de Oxelösund.",
+                  "category": "recreational",
+                  "coords": [
+                        17.093486,
+                        58.690844
+                  ]
+            },
+            {
+                  "name": "Kattbergets badplats",
+                  "text": "Plajă în apropiere de Oxelösund.",
+                  "category": "recreational",
+                  "coords": [
+                        17.028991,
+                        58.67767
+                  ]
+            },
+            {
+                  "name": "Stenviksbadet",
+                  "text": "Plajă în apropiere de Oxelösund.",
+                  "category": "recreational",
+                  "coords": [
+                        17.085569,
+                        58.663345
+                  ]
+            },
+            {
+                  "name": "Marias playa",
+                  "text": "Marias Playa este situată lângă Ssab Oxelösund.",
+                  "category": "recreational",
+                  "coords": [
+                        17.117754,
+                        58.677777
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jogersöbadet strand",
+                  "text": "Beach near Oxelösund.",
+                  "category": "recreational",
+                  "coords": [
+                        17.052124,
+                        58.665607
+                  ]
+            },
+            {
+                  "name": "Vivesta",
+                  "text": "Beach near Oxelösund.",
+                  "category": "recreational",
+                  "coords": [
+                        17.093486,
+                        58.690844
+                  ]
+            },
+            {
+                  "name": "Kattbergets badplats",
+                  "text": "Beach near Oxelösund.",
+                  "category": "recreational",
+                  "coords": [
+                        17.028991,
+                        58.67767
+                  ]
+            },
+            {
+                  "name": "Stenviksbadet",
+                  "text": "Beach near Oxelösund.",
+                  "category": "recreational",
+                  "coords": [
+                        17.085569,
+                        58.663345
+                  ]
+            },
+            {
+                  "name": "Marias playa",
+                  "text": "Marias Playa is located near Ssab Oxelösund.",
+                  "category": "recreational",
+                  "coords": [
+                        17.117754,
+                        58.677777
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "factory",
     name: { de: "SSAB Oxelösund", hu: "SSAB Oxelösund", ro: "SSAB Oxelösund", en: "SSAB Oxelösund"},
@@ -969,7 +1203,88 @@ imageHint: "Industrial heritage buildings converted to science park",
     },
     image: "/poi-images/sweden-trollhattan-innovatum-economic-v2.webp",
 },  {
-    id: "sweden-ludvika-power-grid-economic-v2",
+    id: "sweden-ludvika-power-grid-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jägarnäs",
+                  "text": "Ein Strand in der Nähe von Ludvika.",
+                  "category": "recreational",
+                  "coords": [
+                        15.196359,
+                        60.118099
+                  ]
+            },
+            {
+                  "name": "Sligen",
+                  "text": "Ein Strand in der Nähe von Ludvika.",
+                  "category": "recreational",
+                  "coords": [
+                        15.138228,
+                        60.142716
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jägarnäs",
+                  "text": "Strand Ludvika közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        15.196359,
+                        60.118099
+                  ]
+            },
+            {
+                  "name": "Sligen",
+                  "text": "Strand Ludvika közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        15.138228,
+                        60.142716
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jägarnäs",
+                  "text": "O plajă lângă Ludvika.",
+                  "category": "recreational",
+                  "coords": [
+                        15.196359,
+                        60.118099
+                  ]
+            },
+            {
+                  "name": "Sligen",
+                  "text": "O plajă lângă Ludvika.",
+                  "category": "recreational",
+                  "coords": [
+                        15.138228,
+                        60.142716
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jägarnäs",
+                  "text": "A beach near Ludvika.",
+                  "category": "recreational",
+                  "coords": [
+                        15.196359,
+                        60.118099
+                  ]
+            },
+            {
+                  "name": "Sligen",
+                  "text": "A beach near Ludvika.",
+                  "category": "recreational",
+                  "coords": [
+                        15.138228,
+                        60.142716
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "factory",
     name: { de: "Hitachi Energy Campus Ludvika", hu: "Hitachi Energy Ludvika kampusz", ro: "Campusul Hitachi Energy Ludvika", en: "Hitachi Energy Ludvika Campus"},
@@ -1015,7 +1330,88 @@ imageHint: "Industrial heritage buildings converted to science park",
     },
   },
   {
-    id: "sweden-skutskar-mill-economic-v2",
+    id: "sweden-skutskar-mill-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rullsand",
+                  "text": "Rullsand bei Skutskär ist einer der größten Strände Schwedens.",
+                  "category": "recreational",
+                  "coords": [
+                        17.472688,
+                        60.640615
+                  ]
+            },
+            {
+                  "name": "Brämsand",
+                  "text": "Strand bei der Mühle Skutskär.",
+                  "category": "recreational",
+                  "coords": [
+                        17.460618,
+                        60.641112
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rullsand",
+                  "text": "A Skutskär melletti Rullsand Svédország egyik legnagyobb strandja.",
+                  "category": "recreational",
+                  "coords": [
+                        17.472688,
+                        60.640615
+                  ]
+            },
+            {
+                  "name": "Brämsand",
+                  "text": "Strand a Skutskär malom közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        17.460618,
+                        60.641112
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rullsand",
+                  "text": "Rullsand lângă Skutskär este una dintre cele mai mari plaje din Suedia.",
+                  "category": "recreational",
+                  "coords": [
+                        17.472688,
+                        60.640615
+                  ]
+            },
+            {
+                  "name": "Brämsand",
+                  "text": "Plajă lângă moara Skutskär.",
+                  "category": "recreational",
+                  "coords": [
+                        17.460618,
+                        60.641112
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rullsand",
+                  "text": "Rullsand near Skutskär is one of the largest beaches in Sweden.",
+                  "category": "recreational",
+                  "coords": [
+                        17.472688,
+                        60.640615
+                  ]
+            },
+            {
+                  "name": "Brämsand",
+                  "text": "Beach near the Skutskär mill.",
+                  "category": "recreational",
+                  "coords": [
+                        17.460618,
+                        60.641112
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "factory",
     name: { de: "Zellstoffwerk Skutskär", hu: "Skutskäri cellulózgyár", ro: "Fabrica de celuloză Skutskär", en: "Skutskär Pulp Mill"},
@@ -1061,7 +1457,52 @@ imageHint: "Industrial heritage buildings converted to science park",
     },
   },
   {
-    id: "sweden-monsteras-mill-economic-v2",
+    id: "sweden-monsteras-mill-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lillöbadet",
+                  "text": "Ein Strand bei Mönsterås.",
+                  "category": "recreational",
+                  "coords": [
+                        16.496947,
+                        57.012576
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lillöbadet",
+                  "text": "Strand Mönsterås közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        16.496947,
+                        57.012576
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lillöbadet",
+                  "text": "O plajă lângă Mönsterås.",
+                  "category": "recreational",
+                  "coords": [
+                        16.496947,
+                        57.012576
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lillöbadet",
+                  "text": "A beach near Mönsterås.",
+                  "category": "recreational",
+                  "coords": [
+                        16.496947,
+                        57.012576
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "factory",
     name: { de: "Zellstoffwerk Mönsterås", hu: "Mönsteråsi cellulózgyár", ro: "Fabrica de celuloză Mönsterås", en: "Mönsterås Pulp Mill"},
@@ -1153,7 +1594,52 @@ imageHint: "Industrial paper mill Hallstavik with shipping port",
     },
     image: "/poi-images/sweden-hallstavik-mill-economic-v2.webp",
 },  {
-    id: "sweden-gavle-port-economic-v2",
+    id: "sweden-gavle-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lillsjön",
+                  "text": "Strand in der Nähe von Gävle.",
+                  "category": "recreational",
+                  "coords": [
+                        17.257463,
+                        60.671269
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lillsjön",
+                  "text": "Part Gävle közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        17.257463,
+                        60.671269
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lillsjön",
+                  "text": "Plajă în apropiere de Gävle.",
+                  "category": "recreational",
+                  "coords": [
+                        17.257463,
+                        60.671269
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lillsjön",
+                  "text": "Beach near Gävle.",
+                  "category": "recreational",
+                  "coords": [
+                        17.257463,
+                        60.671269
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "port",
     name: { de: "Hafen Gävle", hu: "Gävlei kikötő", ro: "Portul Gävle", en: "Port of Gävle"},
@@ -1199,7 +1685,52 @@ imageHint: "Industrial paper mill Hallstavik with shipping port",
     },
   },
   {
-    id: "sweden-helsingborg-port-economic-v2",
+    id: "sweden-helsingborg-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Knähakenbadet - naturistbad",
+                  "text": "Naturistenstrand in der Nähe von Helsingborg.",
+                  "category": "recreational",
+                  "coords": [
+                        12.71886,
+                        56.005568
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Knähakenbadet - naturistbad",
+                  "text": "Naturista part Helsingborg közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        12.71886,
+                        56.005568
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Knähakenbadet - naturistbad",
+                  "text": "Plajă de nudiști în apropiere de Helsingborg.",
+                  "category": "recreational",
+                  "coords": [
+                        12.71886,
+                        56.005568
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Knähakenbadet - naturistbad",
+                  "text": "Naturist beach near Helsingborg.",
+                  "category": "recreational",
+                  "coords": [
+                        12.71886,
+                        56.005568
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "port",
     name: { de: "Hafen Helsingborg", hu: "Helsingborgi kikötő", ro: "Portul Helsingborg", en: "Port of Helsingborg"},
@@ -1245,7 +1776,88 @@ imageHint: "Industrial paper mill Hallstavik with shipping port",
     },
   },
   {
-    id: "sweden-trelleborg-port-economic-v2",
+    id: "sweden-trelleborg-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Östra Stranden",
+                  "text": "Östra Stranden nahe dem Hafen Trelleborg.",
+                  "category": "recreational",
+                  "coords": [
+                        13.193652,
+                        55.365253
+                  ]
+            },
+            {
+                  "name": "Dalabadet",
+                  "text": "Dalabadet nahe dem Hafen Trelleborg.",
+                  "category": "recreational",
+                  "coords": [
+                        13.210627,
+                        55.361691
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Östra Stranden",
+                  "text": "Östra Stranden strand a Trelleborgi kikötő közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        13.193652,
+                        55.365253
+                  ]
+            },
+            {
+                  "name": "Dalabadet",
+                  "text": "Dalabadet strand a Trelleborgi kikötő közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        13.210627,
+                        55.361691
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Östra Stranden",
+                  "text": "Plaja Östra Stranden lângă portul Trelleborg.",
+                  "category": "recreational",
+                  "coords": [
+                        13.193652,
+                        55.365253
+                  ]
+            },
+            {
+                  "name": "Dalabadet",
+                  "text": "Plaja Dalabadet lângă portul Trelleborg.",
+                  "category": "recreational",
+                  "coords": [
+                        13.210627,
+                        55.361691
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Östra Stranden",
+                  "text": "Östra Stranden beach near Trelleborg port.",
+                  "category": "recreational",
+                  "coords": [
+                        13.193652,
+                        55.365253
+                  ]
+            },
+            {
+                  "name": "Dalabadet",
+                  "text": "Dalabadet beach near Trelleborg port.",
+                  "category": "recreational",
+                  "coords": [
+                        13.210627,
+                        55.361691
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "port",
     name: { de: "Hafen Trelleborg", hu: "Trelleborgi kikötő", ro: "Portul Trelleborg", en: "Port of Trelleborg"},

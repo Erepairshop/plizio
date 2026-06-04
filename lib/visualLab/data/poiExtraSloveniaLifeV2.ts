@@ -318,7 +318,88 @@ imageHint: "Strunjan cliffs and Adriatic sea",
     },
     image: "/poi-images/slovenia-strunjan-nature-park-life-v2.webp",
 },  {
-    id: "slovenia-debeli-rtic-life-v2",
+    id: "slovenia-debeli-rtic-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Debeli rtič",
+                  "text": "Strand Debeli rtič.",
+                  "category": "recreational",
+                  "coords": [
+                        13.707962,
+                        45.587764
+                  ]
+            },
+            {
+                  "name": "Plaža Debeli rtič",
+                  "text": "Strand Debeli rtič.",
+                  "category": "recreational",
+                  "coords": [
+                        13.706548,
+                        45.593022
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Debeli rtič",
+                  "text": "Debeli rtič strand.",
+                  "category": "recreational",
+                  "coords": [
+                        13.707962,
+                        45.587764
+                  ]
+            },
+            {
+                  "name": "Plaža Debeli rtič",
+                  "text": "Debeli rtič strand.",
+                  "category": "recreational",
+                  "coords": [
+                        13.706548,
+                        45.593022
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Debeli rtič",
+                  "text": "Plaja Debeli rtič.",
+                  "category": "recreational",
+                  "coords": [
+                        13.707962,
+                        45.587764
+                  ]
+            },
+            {
+                  "name": "Plaža Debeli rtič",
+                  "text": "Plaja Debeli rtič.",
+                  "category": "recreational",
+                  "coords": [
+                        13.706548,
+                        45.593022
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Debeli rtič",
+                  "text": "Debeli rtič Beach.",
+                  "category": "recreational",
+                  "coords": [
+                        13.707962,
+                        45.587764
+                  ]
+            },
+            {
+                  "name": "Plaža Debeli rtič",
+                  "text": "Debeli rtič Beach.",
+                  "category": "recreational",
+                  "coords": [
+                        13.706548,
+                        45.593022
+                  ]
+            }
+      ]
+},
     parent: "SI",
     type: "park",
     name: { de: "Landschaftspark Debeli Rtič", hu: "Debeli Rtič Tájvédelmi Park", ro: "Parcul Peisagistic Debeli Rtič", en: "Debeli Rtič Landscape Park"},
@@ -1173,7 +1254,52 @@ imageHint: "Lipica stud farm with white horses on pasture",
     },
     image: "/poi-images/slovenia-lipica-stud-farm-life-v2.webp",
 },  {
-    id: "slovenia-iski-vintgar-life-v2",
+    id: "slovenia-iski-vintgar-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Grabljice",
+                  "text": "Strand bei Iski Vintgar.",
+                  "category": "recreational",
+                  "coords": [
+                        14.492687,
+                        45.901734
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Grabljice",
+                  "text": "Strand Iski Vintgar közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        14.492687,
+                        45.901734
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Grabljice",
+                  "text": "Plajă lângă Iski Vintgar.",
+                  "category": "recreational",
+                  "coords": [
+                        14.492687,
+                        45.901734
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Grabljice",
+                  "text": "Beach near Iski Vintgar.",
+                  "category": "recreational",
+                  "coords": [
+                        14.492687,
+                        45.901734
+                  ]
+            }
+      ]
+},
     parent: "SI",
     type: "valley",
     name: { de: "Iški Vintgar", hu: "Iški Vintgar", ro: "Iški Vintgar", en: "Iški Vintgar Gorge"},
@@ -1218,7 +1344,52 @@ imageHint: "Iski Vintgar gorge with clear river and rocks",
     },
     image: "/poi-images/slovenia-iski-vintgar-life-v2.webp",
 },  {
-    id: "slovenia-zbilje-lake-life-v2",
+    id: "slovenia-zbilje-lake-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Skalca",
+                  "text": "Strand am Zbilje-See.",
+                  "category": "recreational",
+                  "coords": [
+                        14.364731,
+                        46.155104
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Skalca",
+                  "text": "Strand a Zbilje-tónál.",
+                  "category": "recreational",
+                  "coords": [
+                        14.364731,
+                        46.155104
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Skalca",
+                  "text": "Plajă la Lacul Zbilje.",
+                  "category": "recreational",
+                  "coords": [
+                        14.364731,
+                        46.155104
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Skalca",
+                  "text": "Beach at Zbilje Lake.",
+                  "category": "recreational",
+                  "coords": [
+                        14.364731,
+                        46.155104
+                  ]
+            }
+      ]
+},
     parent: "SI",
     type: "lake",
     name: { de: "Zbilje-See", hu: "Zbiljei-tó", ro: "Lacul Zbilje", en: "Zbilje Lake"},
@@ -1308,7 +1479,88 @@ imageHint: "Dovzan Gorge rocks and river with fossils",
     },
     image: "/poi-images/slovenia-dovzan-gorge-life-v2.webp",
 },  {
-    id: "slovenia-race-ponds-life-v2",
+    id: "slovenia-race-ponds-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jezero Rogoza",
+                  "text": "Strand am Rogoza-See.",
+                  "category": "recreational",
+                  "coords": [
+                        15.66989,
+                        46.483548
+                  ]
+            },
+            {
+                  "name": "Plaža Rogoza",
+                  "text": "Die Plaža Rogoza ist ein Strandbereich am Gewässer bei den Race Ponds.",
+                  "category": "recreational",
+                  "coords": [
+                        15.673894,
+                        46.486766
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jezero Rogoza",
+                  "text": "Strand a Rogoza-tónál.",
+                  "category": "recreational",
+                  "coords": [
+                        15.66989,
+                        46.483548
+                  ]
+            },
+            {
+                  "name": "Plaža Rogoza",
+                  "text": "A Plaža Rogoza egy vízparti terület a Race Ponds közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        15.673894,
+                        46.486766
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jezero Rogoza",
+                  "text": "Plajă la Lacul Rogoza.",
+                  "category": "recreational",
+                  "coords": [
+                        15.66989,
+                        46.483548
+                  ]
+            },
+            {
+                  "name": "Plaža Rogoza",
+                  "text": "Plaža Rogoza este o zonă de plajă situată pe malul apei lângă Race Ponds.",
+                  "category": "recreational",
+                  "coords": [
+                        15.673894,
+                        46.486766
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jezero Rogoza",
+                  "text": "Beach at Rogoza Lake.",
+                  "category": "recreational",
+                  "coords": [
+                        15.66989,
+                        46.483548
+                  ]
+            },
+            {
+                  "name": "Plaža Rogoza",
+                  "text": "Plaža Rogoza is a beach area located by the water at Race Ponds.",
+                  "category": "recreational",
+                  "coords": [
+                        15.673894,
+                        46.486766
+                  ]
+            }
+      ]
+},
     parent: "SI",
     type: "wildlife",
     name: { de: "Rače-Teiche", hu: "Račei-tavak", ro: "Iazurile Rače", en: "Rače Ponds"},

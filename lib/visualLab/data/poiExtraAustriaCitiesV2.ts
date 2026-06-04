@@ -1083,7 +1083,1132 @@ export const austriaCitiesV2: POI[] = [
     image: "/poi-images/austria-bludenz-cities-v2.webp",
   },
   {
-    id: "austria-bad-ischl-cities-v2",
+    id: "austria-bad-ischl-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Marmorschlößl Fotomuseum",
+                  "text": "Das Marmorschlössl ist ein ehemaliges kaiserliches Teehaus in Bad Ischl.",
+                  "category": "museum",
+                  "coords": [
+                        13.617748,
+                        47.716692
+                  ]
+            },
+            {
+                  "name": "Museum Lehárvilla",
+                  "text": "Die Lehár-Villa ist ein Museum zu Ehren des Komponisten Franz Lehár in Bad Ischl.",
+                  "category": "museum",
+                  "coords": [
+                        13.621986,
+                        47.709597
+                  ]
+            },
+            {
+                  "name": "Villa Vockner, Haenel Pancera",
+                  "text": "Museum in der Villa Vockner in Bad Ischl.",
+                  "category": "museum",
+                  "coords": [
+                        13.615098,
+                        47.711709
+                  ]
+            },
+            {
+                  "name": "Stadtmuseum (ehem. Hotel Austria)",
+                  "text": "Das Stadtmuseum in Bad Ischl zeigt die regionale Geschichte in einem historischen Gebäude.",
+                  "category": "museum",
+                  "coords": [
+                        13.620049,
+                        47.710221
+                  ]
+            },
+            {
+                  "name": "Fahrzeug Technik Luftfahrt",
+                  "text": "Dieses Museum in Bad Ischl widmet sich historischen Fahrzeugen und der Luftfahrttechnik.",
+                  "category": "museum",
+                  "coords": [
+                        13.625038,
+                        47.684061
+                  ]
+            },
+            {
+                  "name": "PKS-Villa Rothstein",
+                  "text": "Die PKS-Villa Rothstein beherbergt ein Museum in Bad Ischl.",
+                  "category": "museum",
+                  "coords": [
+                        13.621386,
+                        47.685703
+                  ]
+            },
+            {
+                  "name": "Parkbad Bad Ischl",
+                  "text": "Das Parkbad Bad Ischl bietet zahlreiche Wasserattraktionen für Erholungssuchende.",
+                  "category": "recreational",
+                  "coords": [
+                        13.621908,
+                        47.714301
+                  ]
+            },
+            {
+                  "name": "Friedensplatz",
+                  "text": "Der Friedensplatz ist ein bekannter Veranstaltungsort für Theater in Bad Ischl.",
+                  "category": "cultural",
+                  "coords": [
+                        13.612815,
+                        47.714607
+                  ]
+            },
+            {
+                  "name": "Jainzenberg",
+                  "text": "Der Jainzenberg ist ein beliebter Aussichtspunkt in der Nähe von Bad Ischl.",
+                  "category": "natural",
+                  "coords": [
+                        13.624295,
+                        47.72097
+                  ]
+            },
+            {
+                  "name": "Feuerkogel",
+                  "text": "Der Feuerkogel ist ein markanter Gipfel in der Region Bad Ischl.",
+                  "category": "natural",
+                  "coords": [
+                        13.587851,
+                        47.686289
+                  ]
+            },
+            {
+                  "name": "Siriuskogl",
+                  "text": "Der Siriuskogl ist ein gut erreichbarer Gipfel mit Aussicht über Bad Ischl.",
+                  "category": "natural",
+                  "coords": [
+                        13.61799,
+                        47.704776
+                  ]
+            },
+            {
+                  "name": "Kühlloch",
+                  "text": "Das Kühlloch ist ein bekannter Höhleneingang im Toten Gebirge bei Bad Ischl.",
+                  "category": "natural",
+                  "coords": [
+                        13.668848,
+                        47.697432
+                  ]
+            },
+            {
+                  "name": "Kolowratshöhe",
+                  "text": "Die Kolowratshöhe bietet einen beeindruckenden Blick auf die Landschaft um Bad Ischl.",
+                  "category": "natural",
+                  "coords": [
+                        13.659483,
+                        47.687363
+                  ]
+            },
+            {
+                  "name": "Kufberg",
+                  "text": "Der Kufberg ist ein bewaldeter Berg in der Umgebung von Bad Ischl.",
+                  "category": "natural",
+                  "coords": [
+                        13.640855,
+                        47.67769
+                  ]
+            },
+            {
+                  "name": "Predigkogel",
+                  "text": "Der Predigkogel ist ein Gipfel in der bergigen Landschaft bei Bad Ischl.",
+                  "category": "natural",
+                  "coords": [
+                        13.638911,
+                        47.681683
+                  ]
+            },
+            {
+                  "name": "Brennetgupf",
+                  "text": "Der Brennetgupf ist ein bekannter Berggipfel in Bad Ischl.",
+                  "category": "natural",
+                  "coords": [
+                        13.642254,
+                        47.739883
+                  ]
+            },
+            {
+                  "name": "Kaiservilla",
+                  "text": "Die Kaiservilla in Bad Ischl war die Sommerresidenz von Kaiser Franz Joseph I.",
+                  "category": "landmark",
+                  "coords": [
+                        13.620783,
+                        47.715146
+                  ]
+            },
+            {
+                  "name": "Kaiser-Jagdstandbild",
+                  "text": "Das Kaiser-Jagdstandbild ist ein Denkmal in Bad Ischl.",
+                  "category": "historical",
+                  "coords": [
+                        13.613208,
+                        47.694878
+                  ]
+            },
+            {
+                  "name": "Kalvarienberg",
+                  "text": "Der Kalvarienberg in Bad Ischl bietet eine weite Aussicht über die Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        13.606365,
+                        47.714672
+                  ]
+            },
+            {
+                  "name": "Plattenkogel",
+                  "text": "Der Plattenkogel ist ein markanter Berggipfel bei Bad Ischl.",
+                  "category": "natural",
+                  "coords": [
+                        13.602346,
+                        47.688292
+                  ]
+            },
+            {
+                  "name": "Kriegerdenkmal",
+                  "text": "Das Kriegerdenkmal erinnert in Bad Ischl an die Gefallenen der Weltkriege.",
+                  "category": "historical",
+                  "coords": [
+                        13.623841,
+                        47.711615
+                  ]
+            },
+            {
+                  "name": "Kurpark",
+                  "text": "Der Kurpark in Bad Ischl ist eine gepflegte Parkanlage für Erholung.",
+                  "category": "park",
+                  "coords": [
+                        13.619341,
+                        47.711625
+                  ]
+            },
+            {
+                  "name": "Sterzens Abendsitz",
+                  "text": "Sterzens Abendsitz ist ein schöner Aussichtspunkt in Bad Ischl.",
+                  "category": "natural",
+                  "coords": [
+                        13.630498,
+                        47.707255
+                  ]
+            },
+            {
+                  "name": "Galerie Sams",
+                  "text": "Die Galerie Sams in Bad Ischl zeigt zeitgenössische Kunstwerke.",
+                  "category": "museum",
+                  "coords": [
+                        13.621881,
+                        47.712364
+                  ]
+            },
+            {
+                  "name": "Rosas Wasserfälle",
+                  "text": "Rosas Wasserfälle sind ein malerischer Aussichtspunkt in Bad Ischl.",
+                  "category": "natural",
+                  "coords": [
+                        13.645948,
+                        47.68207
+                  ]
+            },
+            {
+                  "name": "Etienne's",
+                  "text": "Kunstgalerie in Bad Ischl.",
+                  "category": "museum",
+                  "coords": [
+                        13.620706,
+                        47.712931
+                  ]
+            },
+            {
+                  "name": "Grüne Brücke",
+                  "text": "Attraktion in Bad Ischl.",
+                  "category": "landmark",
+                  "coords": [
+                        13.627055,
+                        47.710257
+                  ]
+            },
+            {
+                  "name": "Lokalbahn (S.K.G.L.B.)",
+                  "text": "Attraktion in Bad Ischl.",
+                  "category": "landmark",
+                  "coords": [
+                        13.626781,
+                        47.712592
+                  ]
+            },
+            {
+                  "name": "Freie Christengemeinde",
+                  "text": "Gotteshaus in Bad Ischl.",
+                  "category": "religious",
+                  "coords": [
+                        13.632498,
+                        47.717525
+                  ]
+            },
+            {
+                  "name": "Friedenskirche",
+                  "text": "Evangelische Kirche in Bad Ischl.",
+                  "category": "religious",
+                  "coords": [
+                        13.626481,
+                        47.713536
+                  ]
+            },
+            {
+                  "name": "Maria an der Straße",
+                  "text": "Gotteshaus in Bad Ischl.",
+                  "category": "religious",
+                  "coords": [
+                        13.586778,
+                        47.719238
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Marmorschlößl Fotomuseum",
+                  "text": "A Marmorschlössl egykori császári teaház Bad Ischlben.",
+                  "category": "museum",
+                  "coords": [
+                        13.617748,
+                        47.716692
+                  ]
+            },
+            {
+                  "name": "Museum Lehárvilla",
+                  "text": "A Lehár-villa egy múzeum Franz Lehár zeneszerző tiszteletére Bad Ischlben.",
+                  "category": "museum",
+                  "coords": [
+                        13.621986,
+                        47.709597
+                  ]
+            },
+            {
+                  "name": "Villa Vockner, Haenel Pancera",
+                  "text": "Múzeum a bad ischli Villa Vocknerben.",
+                  "category": "museum",
+                  "coords": [
+                        13.615098,
+                        47.711709
+                  ]
+            },
+            {
+                  "name": "Stadtmuseum (ehem. Hotel Austria)",
+                  "text": "A bad ischli városi múzeum a regionális történelmet mutatja be egy történelmi épületben.",
+                  "category": "museum",
+                  "coords": [
+                        13.620049,
+                        47.710221
+                  ]
+            },
+            {
+                  "name": "Fahrzeug Technik Luftfahrt",
+                  "text": "Ez a bad ischli múzeum történelmi járműveknek és a repüléstechnikának szenteli magát.",
+                  "category": "museum",
+                  "coords": [
+                        13.625038,
+                        47.684061
+                  ]
+            },
+            {
+                  "name": "PKS-Villa Rothstein",
+                  "text": "A PKS-Villa Rothstein egy múzeumnak ad otthont Bad Ischlben.",
+                  "category": "museum",
+                  "coords": [
+                        13.621386,
+                        47.685703
+                  ]
+            },
+            {
+                  "name": "Parkbad Bad Ischl",
+                  "text": "A bad ischli Parkbad számos vízi attrakciót kínál a kikapcsolódásra vágyóknak.",
+                  "category": "recreational",
+                  "coords": [
+                        13.621908,
+                        47.714301
+                  ]
+            },
+            {
+                  "name": "Friedensplatz",
+                  "text": "A Friedensplatz ismert színházi előadóhely Bad Ischlben.",
+                  "category": "cultural",
+                  "coords": [
+                        13.612815,
+                        47.714607
+                  ]
+            },
+            {
+                  "name": "Jainzenberg",
+                  "text": "A Jainzenberg egy közkedvelt kilátópont Bad Ischl közelében.",
+                  "category": "natural",
+                  "coords": [
+                        13.624295,
+                        47.72097
+                  ]
+            },
+            {
+                  "name": "Feuerkogel",
+                  "text": "A Feuerkogel egy jellegzetes hegycsúcs a bad ischli régióban.",
+                  "category": "natural",
+                  "coords": [
+                        13.587851,
+                        47.686289
+                  ]
+            },
+            {
+                  "name": "Siriuskogl",
+                  "text": "A Siriuskogl egy könnyen megközelíthető hegycsúcs, ahonnan rálátni Bad Ischlre.",
+                  "category": "natural",
+                  "coords": [
+                        13.61799,
+                        47.704776
+                  ]
+            },
+            {
+                  "name": "Kühlloch",
+                  "text": "A Kühlloch egy ismert barlangbejárat a bad ischli Totes Gebirge hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        13.668848,
+                        47.697432
+                  ]
+            },
+            {
+                  "name": "Kolowratshöhe",
+                  "text": "A Kolowratshöhe lenyűgöző kilátást nyújt a Bad Ischl körüli tájra.",
+                  "category": "natural",
+                  "coords": [
+                        13.659483,
+                        47.687363
+                  ]
+            },
+            {
+                  "name": "Kufberg",
+                  "text": "A Kufberg egy erdős hegy Bad Ischl környékén.",
+                  "category": "natural",
+                  "coords": [
+                        13.640855,
+                        47.67769
+                  ]
+            },
+            {
+                  "name": "Predigkogel",
+                  "text": "A Predigkogel egy hegycsúcs a Bad Ischl melletti hegyvidéki tájon.",
+                  "category": "natural",
+                  "coords": [
+                        13.638911,
+                        47.681683
+                  ]
+            },
+            {
+                  "name": "Brennetgupf",
+                  "text": "A Brennetgupf egy ismert hegycsúcs Bad Ischl városában.",
+                  "category": "natural",
+                  "coords": [
+                        13.642254,
+                        47.739883
+                  ]
+            },
+            {
+                  "name": "Kaiservilla",
+                  "text": "A bad ischli Kaiservilla I. Ferenc József császár nyári rezidenciája volt.",
+                  "category": "landmark",
+                  "coords": [
+                        13.620783,
+                        47.715146
+                  ]
+            },
+            {
+                  "name": "Kaiser-Jagdstandbild",
+                  "text": "A Kaiser-Jagdstandbild egy emlékmű Bad Ischl városában.",
+                  "category": "historical",
+                  "coords": [
+                        13.613208,
+                        47.694878
+                  ]
+            },
+            {
+                  "name": "Kalvarienberg",
+                  "text": "A bad ischli Kalvarienberg széles kilátást nyújt a környékre.",
+                  "category": "natural",
+                  "coords": [
+                        13.606365,
+                        47.714672
+                  ]
+            },
+            {
+                  "name": "Plattenkogel",
+                  "text": "A Plattenkogel egy jellegzetes hegycsúcs Bad Ischl közelében.",
+                  "category": "natural",
+                  "coords": [
+                        13.602346,
+                        47.688292
+                  ]
+            },
+            {
+                  "name": "Kriegerdenkmal",
+                  "text": "A bad ischli Kriegerdenkmal az első és második világháború áldozataira emlékeztet.",
+                  "category": "historical",
+                  "coords": [
+                        13.623841,
+                        47.711615
+                  ]
+            },
+            {
+                  "name": "Kurpark",
+                  "text": "A bad ischli Kurpark egy gondozott park a pihenésre.",
+                  "category": "park",
+                  "coords": [
+                        13.619341,
+                        47.711625
+                  ]
+            },
+            {
+                  "name": "Sterzens Abendsitz",
+                  "text": "A Sterzens Abendsitz egy gyönyörű kilátópont Bad Ischl városában.",
+                  "category": "natural",
+                  "coords": [
+                        13.630498,
+                        47.707255
+                  ]
+            },
+            {
+                  "name": "Galerie Sams",
+                  "text": "A bad ischli Galerie Sams kortárs művészeti alkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        13.621881,
+                        47.712364
+                  ]
+            },
+            {
+                  "name": "Rosas Wasserfälle",
+                  "text": "A Rosas Wasserfälle egy festői kilátópont Bad Ischl városában.",
+                  "category": "natural",
+                  "coords": [
+                        13.645948,
+                        47.68207
+                  ]
+            },
+            {
+                  "name": "Etienne's",
+                  "text": "Művészeti galéria Bad Ischlben.",
+                  "category": "museum",
+                  "coords": [
+                        13.620706,
+                        47.712931
+                  ]
+            },
+            {
+                  "name": "Grüne Brücke",
+                  "text": "Látnivaló Bad Ischlben.",
+                  "category": "landmark",
+                  "coords": [
+                        13.627055,
+                        47.710257
+                  ]
+            },
+            {
+                  "name": "Lokalbahn (S.K.G.L.B.)",
+                  "text": "Látnivaló Bad Ischlben.",
+                  "category": "landmark",
+                  "coords": [
+                        13.626781,
+                        47.712592
+                  ]
+            },
+            {
+                  "name": "Freie Christengemeinde",
+                  "text": "Istentiszteleti hely Bad Ischlben.",
+                  "category": "religious",
+                  "coords": [
+                        13.632498,
+                        47.717525
+                  ]
+            },
+            {
+                  "name": "Friedenskirche",
+                  "text": "Evangélikus templom Bad Ischlben.",
+                  "category": "religious",
+                  "coords": [
+                        13.626481,
+                        47.713536
+                  ]
+            },
+            {
+                  "name": "Maria an der Straße",
+                  "text": "Istentiszteleti hely Bad Ischlben.",
+                  "category": "religious",
+                  "coords": [
+                        13.586778,
+                        47.719238
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Marmorschlößl Fotomuseum",
+                  "text": "Marmorschlössl este o fostă ceainărie imperială în Bad Ischl.",
+                  "category": "museum",
+                  "coords": [
+                        13.617748,
+                        47.716692
+                  ]
+            },
+            {
+                  "name": "Museum Lehárvilla",
+                  "text": "Lehár-Villa este un muzeu dedicat compozitorului Franz Lehár în Bad Ischl.",
+                  "category": "museum",
+                  "coords": [
+                        13.621986,
+                        47.709597
+                  ]
+            },
+            {
+                  "name": "Villa Vockner, Haenel Pancera",
+                  "text": "Muzeu în Vila Vockner din Bad Ischl.",
+                  "category": "museum",
+                  "coords": [
+                        13.615098,
+                        47.711709
+                  ]
+            },
+            {
+                  "name": "Stadtmuseum (ehem. Hotel Austria)",
+                  "text": "Muzeul orășenesc din Bad Ischl prezintă istoria regională într-o clădire istorică.",
+                  "category": "museum",
+                  "coords": [
+                        13.620049,
+                        47.710221
+                  ]
+            },
+            {
+                  "name": "Fahrzeug Technik Luftfahrt",
+                  "text": "Acest muzeu din Bad Ischl este dedicat vehiculelor istorice și tehnologiei aviației.",
+                  "category": "museum",
+                  "coords": [
+                        13.625038,
+                        47.684061
+                  ]
+            },
+            {
+                  "name": "PKS-Villa Rothstein",
+                  "text": "PKS-Villa Rothstein găzduiește un muzeu în Bad Ischl.",
+                  "category": "museum",
+                  "coords": [
+                        13.621386,
+                        47.685703
+                  ]
+            },
+            {
+                  "name": "Parkbad Bad Ischl",
+                  "text": "Parkbad Bad Ischl oferă numeroase atracții acvatice pentru cei care caută relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        13.621908,
+                        47.714301
+                  ]
+            },
+            {
+                  "name": "Friedensplatz",
+                  "text": "Friedensplatz este un loc binecunoscut pentru spectacole de teatru în Bad Ischl.",
+                  "category": "cultural",
+                  "coords": [
+                        13.612815,
+                        47.714607
+                  ]
+            },
+            {
+                  "name": "Jainzenberg",
+                  "text": "Jainzenberg este un punct de belvedere popular în apropiere de Bad Ischl.",
+                  "category": "natural",
+                  "coords": [
+                        13.624295,
+                        47.72097
+                  ]
+            },
+            {
+                  "name": "Feuerkogel",
+                  "text": "Feuerkogel este un vârf proeminent în regiunea Bad Ischl.",
+                  "category": "natural",
+                  "coords": [
+                        13.587851,
+                        47.686289
+                  ]
+            },
+            {
+                  "name": "Siriuskogl",
+                  "text": "Siriuskogl este un vârf ușor accesibil care oferă vedere asupra orașului Bad Ischl.",
+                  "category": "natural",
+                  "coords": [
+                        13.61799,
+                        47.704776
+                  ]
+            },
+            {
+                  "name": "Kühlloch",
+                  "text": "Kühlloch este o intrare de peșteră cunoscută în masivul Totes Gebirge, lângă Bad Ischl.",
+                  "category": "natural",
+                  "coords": [
+                        13.668848,
+                        47.697432
+                  ]
+            },
+            {
+                  "name": "Kolowratshöhe",
+                  "text": "Kolowratshöhe oferă o priveliște impresionantă asupra peisajului din jurul orașului Bad Ischl.",
+                  "category": "natural",
+                  "coords": [
+                        13.659483,
+                        47.687363
+                  ]
+            },
+            {
+                  "name": "Kufberg",
+                  "text": "Kufberg este un munte împădurit din împrejurimile orașului Bad Ischl.",
+                  "category": "natural",
+                  "coords": [
+                        13.640855,
+                        47.67769
+                  ]
+            },
+            {
+                  "name": "Predigkogel",
+                  "text": "Predigkogel este un vârf în peisajul muntos de lângă Bad Ischl.",
+                  "category": "natural",
+                  "coords": [
+                        13.638911,
+                        47.681683
+                  ]
+            },
+            {
+                  "name": "Brennetgupf",
+                  "text": "Brennetgupf este un vârf montan cunoscut în Bad Ischl.",
+                  "category": "natural",
+                  "coords": [
+                        13.642254,
+                        47.739883
+                  ]
+            },
+            {
+                  "name": "Kaiservilla",
+                  "text": "Kaiservilla din Bad Ischl a fost reședința de vară a împăratului Franz Joseph I.",
+                  "category": "landmark",
+                  "coords": [
+                        13.620783,
+                        47.715146
+                  ]
+            },
+            {
+                  "name": "Kaiser-Jagdstandbild",
+                  "text": "Kaiser-Jagdstandbild este un monument în Bad Ischl.",
+                  "category": "historical",
+                  "coords": [
+                        13.613208,
+                        47.694878
+                  ]
+            },
+            {
+                  "name": "Kalvarienberg",
+                  "text": "Kalvarienberg din Bad Ischl oferă o vedere largă asupra împrejurimilor.",
+                  "category": "natural",
+                  "coords": [
+                        13.606365,
+                        47.714672
+                  ]
+            },
+            {
+                  "name": "Plattenkogel",
+                  "text": "Plattenkogel este un vârf montan distinctiv lângă Bad Ischl.",
+                  "category": "natural",
+                  "coords": [
+                        13.602346,
+                        47.688292
+                  ]
+            },
+            {
+                  "name": "Kriegerdenkmal",
+                  "text": "Kriegerdenkmal din Bad Ischl comemorează victimele războaielor mondiale.",
+                  "category": "historical",
+                  "coords": [
+                        13.623841,
+                        47.711615
+                  ]
+            },
+            {
+                  "name": "Kurpark",
+                  "text": "Kurpark din Bad Ischl este o grădină publică amenajată pentru relaxare.",
+                  "category": "park",
+                  "coords": [
+                        13.619341,
+                        47.711625
+                  ]
+            },
+            {
+                  "name": "Sterzens Abendsitz",
+                  "text": "Sterzens Abendsitz este un punct de belvedere frumos în Bad Ischl.",
+                  "category": "natural",
+                  "coords": [
+                        13.630498,
+                        47.707255
+                  ]
+            },
+            {
+                  "name": "Galerie Sams",
+                  "text": "Galeria Sams din Bad Ischl expune opere de artă contemporană.",
+                  "category": "museum",
+                  "coords": [
+                        13.621881,
+                        47.712364
+                  ]
+            },
+            {
+                  "name": "Rosas Wasserfälle",
+                  "text": "Rosas Wasserfälle sunt un punct de belvedere pitoresc în Bad Ischl.",
+                  "category": "natural",
+                  "coords": [
+                        13.645948,
+                        47.68207
+                  ]
+            },
+            {
+                  "name": "Etienne's",
+                  "text": "Galerie de artă în Bad Ischl.",
+                  "category": "museum",
+                  "coords": [
+                        13.620706,
+                        47.712931
+                  ]
+            },
+            {
+                  "name": "Grüne Brücke",
+                  "text": "Atracție în Bad Ischl.",
+                  "category": "landmark",
+                  "coords": [
+                        13.627055,
+                        47.710257
+                  ]
+            },
+            {
+                  "name": "Lokalbahn (S.K.G.L.B.)",
+                  "text": "Atracție în Bad Ischl.",
+                  "category": "landmark",
+                  "coords": [
+                        13.626781,
+                        47.712592
+                  ]
+            },
+            {
+                  "name": "Freie Christengemeinde",
+                  "text": "Lăcaș de cult în Bad Ischl.",
+                  "category": "religious",
+                  "coords": [
+                        13.632498,
+                        47.717525
+                  ]
+            },
+            {
+                  "name": "Friedenskirche",
+                  "text": "Biserică evanghelică în Bad Ischl.",
+                  "category": "religious",
+                  "coords": [
+                        13.626481,
+                        47.713536
+                  ]
+            },
+            {
+                  "name": "Maria an der Straße",
+                  "text": "Lăcaș de cult în Bad Ischl.",
+                  "category": "religious",
+                  "coords": [
+                        13.586778,
+                        47.719238
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Marmorschlößl Fotomuseum",
+                  "text": "The Marmorschlössl is a former imperial teahouse in Bad Ischl.",
+                  "category": "museum",
+                  "coords": [
+                        13.617748,
+                        47.716692
+                  ]
+            },
+            {
+                  "name": "Museum Lehárvilla",
+                  "text": "The Lehár Villa is a museum honoring composer Franz Lehár in Bad Ischl.",
+                  "category": "museum",
+                  "coords": [
+                        13.621986,
+                        47.709597
+                  ]
+            },
+            {
+                  "name": "Villa Vockner, Haenel Pancera",
+                  "text": "Museum located in the Villa Vockner in Bad Ischl.",
+                  "category": "museum",
+                  "coords": [
+                        13.615098,
+                        47.711709
+                  ]
+            },
+            {
+                  "name": "Stadtmuseum (ehem. Hotel Austria)",
+                  "text": "The city museum in Bad Ischl showcases regional history within a historic building.",
+                  "category": "museum",
+                  "coords": [
+                        13.620049,
+                        47.710221
+                  ]
+            },
+            {
+                  "name": "Fahrzeug Technik Luftfahrt",
+                  "text": "This museum in Bad Ischl is dedicated to historic vehicles and aviation technology.",
+                  "category": "museum",
+                  "coords": [
+                        13.625038,
+                        47.684061
+                  ]
+            },
+            {
+                  "name": "PKS-Villa Rothstein",
+                  "text": "The PKS-Villa Rothstein houses a museum in Bad Ischl.",
+                  "category": "museum",
+                  "coords": [
+                        13.621386,
+                        47.685703
+                  ]
+            },
+            {
+                  "name": "Parkbad Bad Ischl",
+                  "text": "The Parkbad Bad Ischl offers numerous water attractions for those seeking recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        13.621908,
+                        47.714301
+                  ]
+            },
+            {
+                  "name": "Friedensplatz",
+                  "text": "The Friedensplatz is a well-known venue for theatre in Bad Ischl.",
+                  "category": "cultural",
+                  "coords": [
+                        13.612815,
+                        47.714607
+                  ]
+            },
+            {
+                  "name": "Jainzenberg",
+                  "text": "The Jainzenberg is a popular viewpoint near Bad Ischl.",
+                  "category": "natural",
+                  "coords": [
+                        13.624295,
+                        47.72097
+                  ]
+            },
+            {
+                  "name": "Feuerkogel",
+                  "text": "The Feuerkogel is a prominent peak in the Bad Ischl region.",
+                  "category": "natural",
+                  "coords": [
+                        13.587851,
+                        47.686289
+                  ]
+            },
+            {
+                  "name": "Siriuskogl",
+                  "text": "The Siriuskogl is an easily accessible peak offering views over Bad Ischl.",
+                  "category": "natural",
+                  "coords": [
+                        13.61799,
+                        47.704776
+                  ]
+            },
+            {
+                  "name": "Kühlloch",
+                  "text": "The Kühlloch is a well-known cave entrance in the Totes Gebirge near Bad Ischl.",
+                  "category": "natural",
+                  "coords": [
+                        13.668848,
+                        47.697432
+                  ]
+            },
+            {
+                  "name": "Kolowratshöhe",
+                  "text": "The Kolowratshöhe offers an impressive view of the landscape around Bad Ischl.",
+                  "category": "natural",
+                  "coords": [
+                        13.659483,
+                        47.687363
+                  ]
+            },
+            {
+                  "name": "Kufberg",
+                  "text": "The Kufberg is a forested mountain in the vicinity of Bad Ischl.",
+                  "category": "natural",
+                  "coords": [
+                        13.640855,
+                        47.67769
+                  ]
+            },
+            {
+                  "name": "Predigkogel",
+                  "text": "The Predigkogel is a peak in the mountainous landscape near Bad Ischl.",
+                  "category": "natural",
+                  "coords": [
+                        13.638911,
+                        47.681683
+                  ]
+            },
+            {
+                  "name": "Brennetgupf",
+                  "text": "Brennetgupf is a well-known mountain peak in Bad Ischl.",
+                  "category": "natural",
+                  "coords": [
+                        13.642254,
+                        47.739883
+                  ]
+            },
+            {
+                  "name": "Kaiservilla",
+                  "text": "The Kaiservilla in Bad Ischl was the summer residence of Emperor Franz Joseph I.",
+                  "category": "landmark",
+                  "coords": [
+                        13.620783,
+                        47.715146
+                  ]
+            },
+            {
+                  "name": "Kaiser-Jagdstandbild",
+                  "text": "The Kaiser-Jagdstandbild is a monument in Bad Ischl.",
+                  "category": "historical",
+                  "coords": [
+                        13.613208,
+                        47.694878
+                  ]
+            },
+            {
+                  "name": "Kalvarienberg",
+                  "text": "The Kalvarienberg in Bad Ischl offers a wide view over the surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        13.606365,
+                        47.714672
+                  ]
+            },
+            {
+                  "name": "Plattenkogel",
+                  "text": "The Plattenkogel is a prominent mountain peak near Bad Ischl.",
+                  "category": "natural",
+                  "coords": [
+                        13.602346,
+                        47.688292
+                  ]
+            },
+            {
+                  "name": "Kriegerdenkmal",
+                  "text": "The Kriegerdenkmal in Bad Ischl commemorates those who fell in the world wars.",
+                  "category": "historical",
+                  "coords": [
+                        13.623841,
+                        47.711615
+                  ]
+            },
+            {
+                  "name": "Kurpark",
+                  "text": "The Kurpark in Bad Ischl is a well-maintained park for relaxation.",
+                  "category": "park",
+                  "coords": [
+                        13.619341,
+                        47.711625
+                  ]
+            },
+            {
+                  "name": "Sterzens Abendsitz",
+                  "text": "Sterzens Abendsitz is a beautiful viewpoint in Bad Ischl.",
+                  "category": "natural",
+                  "coords": [
+                        13.630498,
+                        47.707255
+                  ]
+            },
+            {
+                  "name": "Galerie Sams",
+                  "text": "The Galerie Sams in Bad Ischl displays contemporary works of art.",
+                  "category": "museum",
+                  "coords": [
+                        13.621881,
+                        47.712364
+                  ]
+            },
+            {
+                  "name": "Rosas Wasserfälle",
+                  "text": "Rosas Wasserfälle is a picturesque viewpoint in Bad Ischl.",
+                  "category": "natural",
+                  "coords": [
+                        13.645948,
+                        47.68207
+                  ]
+            },
+            {
+                  "name": "Etienne's",
+                  "text": "Art gallery in Bad Ischl.",
+                  "category": "museum",
+                  "coords": [
+                        13.620706,
+                        47.712931
+                  ]
+            },
+            {
+                  "name": "Green Bridge",
+                  "text": "Attraction in Bad Ischl.",
+                  "category": "landmark",
+                  "coords": [
+                        13.627055,
+                        47.710257
+                  ]
+            },
+            {
+                  "name": "Lokalbahn (S.K.G.L.B.)",
+                  "text": "Attraction in Bad Ischl.",
+                  "category": "landmark",
+                  "coords": [
+                        13.626781,
+                        47.712592
+                  ]
+            },
+            {
+                  "name": "Freie Christengemeinde",
+                  "text": "Place of worship in Bad Ischl.",
+                  "category": "religious",
+                  "coords": [
+                        13.632498,
+                        47.717525
+                  ]
+            },
+            {
+                  "name": "Friedenskirche",
+                  "text": "Protestant church in Bad Ischl.",
+                  "category": "religious",
+                  "coords": [
+                        13.626481,
+                        47.713536
+                  ]
+            },
+            {
+                  "name": "Maria an der Straße",
+                  "text": "Place of worship in Bad Ischl.",
+                  "category": "religious",
+                  "coords": [
+                        13.586778,
+                        47.719238
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "AT",
     name: { de: "Bad Ischl", hu: "Bad Ischl", ro: "Bad Ischl", en: "Bad Ischl" },

@@ -273,7 +273,52 @@ export const montenegroEconomicV2: POI[] = [
     image: "/poi-images/montenegro-pljevlja-coal-mine-economic-v2.webp",
   },
   {
-    id: "montenegro-porto-novi-economic-v2",
+    id: "montenegro-porto-novi-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Forte Rose beach II",
+                  "text": "Der Strand Forte Rose II liegt in der Nähe von Porto Novi.",
+                  "category": "recreational",
+                  "coords": [
+                        18.558308,
+                        42.428879
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Forte Rose beach II",
+                  "text": "A Forte Rose II strand Porto Novi közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        18.558308,
+                        42.428879
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Forte Rose beach II",
+                  "text": "Plaja Forte Rose II se află în apropiere de Porto Novi.",
+                  "category": "recreational",
+                  "coords": [
+                        18.558308,
+                        42.428879
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Forte Rose beach II",
+                  "text": "Forte Rose beach II is located near Porto Novi.",
+                  "category": "recreational",
+                  "coords": [
+                        18.558308,
+                        42.428879
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "ME",
     name: { de: "Porto Novi Resort", hu: "Porto Novi üdülő", ro: "Statiunea Porto Novi", en: "Porto Novi Resort" },
@@ -408,7 +453,196 @@ export const montenegroEconomicV2: POI[] = [
     image: "/poi-images/montenegro-piva-hydro-economic-v2.webp",
   },
   {
-    id: "montenegro-velika-plazad-agri-economic-v2",
+    id: "montenegro-velika-plazad-agri-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "MarBuena Beach",
+                  "text": "MarBuena Strand in Velika Plazad Agri.",
+                  "category": "recreational",
+                  "coords": [
+                        19.298393,
+                        41.891141
+                  ]
+            },
+            {
+                  "name": "Pearl Beach",
+                  "text": "Pearl Beach in Velika Plazad Agri.",
+                  "category": "recreational",
+                  "coords": [
+                        19.262355,
+                        41.903908
+                  ]
+            },
+            {
+                  "name": "Otrant Beach",
+                  "text": "Otrant Strand in Velika Plazad Agri.",
+                  "category": "recreational",
+                  "coords": [
+                        19.238969,
+                        41.909604
+                  ]
+            },
+            {
+                  "name": "Velika Plaža - Plazhi i Madh",
+                  "text": "Velika Plaža befindet sich bei Velika Plazad Agri.",
+                  "category": "recreational",
+                  "coords": [
+                        19.287103,
+                        41.888798
+                  ]
+            },
+            {
+                  "name": "Lido Beach",
+                  "text": "Lido Beach liegt an der Velika Plaža.",
+                  "category": "recreational",
+                  "coords": [
+                        19.242207,
+                        41.909014
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "MarBuena Beach",
+                  "text": "MarBuena strand Velika Plazad Agri-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        19.298393,
+                        41.891141
+                  ]
+            },
+            {
+                  "name": "Pearl Beach",
+                  "text": "Pearl Beach strand Velika Plazad Agri-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        19.262355,
+                        41.903908
+                  ]
+            },
+            {
+                  "name": "Otrant Beach",
+                  "text": "Otrant strand Velika Plazad Agri-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        19.238969,
+                        41.909604
+                  ]
+            },
+            {
+                  "name": "Velika Plaža - Plazhi i Madh",
+                  "text": "A Velika Plaža strand Velika Plazad Agri közelében van.",
+                  "category": "recreational",
+                  "coords": [
+                        19.287103,
+                        41.888798
+                  ]
+            },
+            {
+                  "name": "Lido Beach",
+                  "text": "A Lido Beach a Velika Plaža területén található.",
+                  "category": "recreational",
+                  "coords": [
+                        19.242207,
+                        41.909014
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "MarBuena Beach",
+                  "text": "Plaja MarBuena în Velika Plazad Agri.",
+                  "category": "recreational",
+                  "coords": [
+                        19.298393,
+                        41.891141
+                  ]
+            },
+            {
+                  "name": "Pearl Beach",
+                  "text": "Pearl Beach în Velika Plazad Agri.",
+                  "category": "recreational",
+                  "coords": [
+                        19.262355,
+                        41.903908
+                  ]
+            },
+            {
+                  "name": "Otrant Beach",
+                  "text": "Plaja Otrant în Velika Plazad Agri.",
+                  "category": "recreational",
+                  "coords": [
+                        19.238969,
+                        41.909604
+                  ]
+            },
+            {
+                  "name": "Velika Plaža - Plazhi i Madh",
+                  "text": "Plaja Velika Plaža se află în apropierea localității Velika Plazad Agri.",
+                  "category": "recreational",
+                  "coords": [
+                        19.287103,
+                        41.888798
+                  ]
+            },
+            {
+                  "name": "Lido Beach",
+                  "text": "Lido Beach este situată pe Velika Plaža.",
+                  "category": "recreational",
+                  "coords": [
+                        19.242207,
+                        41.909014
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "MarBuena Beach",
+                  "text": "MarBuena beach in Velika Plazad Agri.",
+                  "category": "recreational",
+                  "coords": [
+                        19.298393,
+                        41.891141
+                  ]
+            },
+            {
+                  "name": "Pearl Beach",
+                  "text": "Pearl beach in Velika Plazad Agri.",
+                  "category": "recreational",
+                  "coords": [
+                        19.262355,
+                        41.903908
+                  ]
+            },
+            {
+                  "name": "Otrant Beach",
+                  "text": "Otrant beach in Velika Plazad Agri.",
+                  "category": "recreational",
+                  "coords": [
+                        19.238969,
+                        41.909604
+                  ]
+            },
+            {
+                  "name": "Velika Plaža - Plazhi i Madh",
+                  "text": "Velika Plaža is located near Velika Plazad Agri.",
+                  "category": "recreational",
+                  "coords": [
+                        19.287103,
+                        41.888798
+                  ]
+            },
+            {
+                  "name": "Lido Beach",
+                  "text": "Lido Beach is located on Velika Plaža.",
+                  "category": "recreational",
+                  "coords": [
+                        19.242207,
+                        41.909014
+                  ]
+            }
+      ]
+},
     type: "village",
     parent: "ME",
     name: { de: "Ulcinj Landwirtschaftsgebiet", hu: "Ulcinj mezőgazdasági terület", ro: "Zona agricolă Ulcinj", en: "Ulcinj Agricultural Area" },
@@ -498,7 +732,88 @@ export const montenegroEconomicV2: POI[] = [
     image: "/poi-images/montenegro-niksic-steel-economic-v2.webp",
   },
   {
-    id: "montenegro-kumbor-military-economic-v2",
+    id: "montenegro-kumbor-military-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Portonovi",
+                  "text": "Portonovi Strand bei Kumbor.",
+                  "category": "recreational",
+                  "coords": [
+                        18.599577,
+                        42.434923
+                  ]
+            },
+            {
+                  "name": "Zmijice Beach",
+                  "text": "Der Zmijice Strand liegt beim ehemaligen Militärgebiet Kumbor.",
+                  "category": "recreational",
+                  "coords": [
+                        18.577108,
+                        42.445802
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Portonovi",
+                  "text": "Portonovi strand Kumbor közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.599577,
+                        42.434923
+                  ]
+            },
+            {
+                  "name": "Zmijice Beach",
+                  "text": "A Zmijice strand a korábbi Kumbor katonai területnél található.",
+                  "category": "recreational",
+                  "coords": [
+                        18.577108,
+                        42.445802
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Portonovi",
+                  "text": "Plaja Portonovi lângă Kumbor.",
+                  "category": "recreational",
+                  "coords": [
+                        18.599577,
+                        42.434923
+                  ]
+            },
+            {
+                  "name": "Zmijice Beach",
+                  "text": "Plaja Zmijice se află lângă zona militară Kumbor.",
+                  "category": "recreational",
+                  "coords": [
+                        18.577108,
+                        42.445802
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Portonovi",
+                  "text": "Portonovi beach near Kumbor.",
+                  "category": "recreational",
+                  "coords": [
+                        18.599577,
+                        42.434923
+                  ]
+            },
+            {
+                  "name": "Zmijice Beach",
+                  "text": "Zmijice Beach is located near the former military area of Kumbor.",
+                  "category": "recreational",
+                  "coords": [
+                        18.577108,
+                        42.445802
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "ME",
     name: { de: "Hafen Kumbor", hu: "Kumbor kikötő", ro: "Portul Kumbor", en: "Kumbor Port" },
@@ -633,7 +948,52 @@ export const montenegroEconomicV2: POI[] = [
     image: "/poi-images/montenegro-bijelo-polje-agri-economic-v2.webp",
   },
   {
-    id: "montenegro-budva-marina-economic-v2",
+    id: "montenegro-budva-marina-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pizana",
+                  "text": "Pizana befindet sich nahe der Marina Budva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.839635,
+                        42.278689
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pizana",
+                  "text": "Pizana a Budva kikötő közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        18.839635,
+                        42.278689
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pizana",
+                  "text": "Pizana se află în apropierea portului Budva.",
+                  "category": "recreational",
+                  "coords": [
+                        18.839635,
+                        42.278689
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pizana",
+                  "text": "Pizana is located near the Budva Marina.",
+                  "category": "recreational",
+                  "coords": [
+                        18.839635,
+                        42.278689
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "ME",
     name: { de: "Jachthafen Budva", hu: "Budva jachtkikötő", ro: "Portul de iahturi Budva", en: "Budva Marina" },

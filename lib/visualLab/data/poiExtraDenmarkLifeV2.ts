@@ -48,7 +48,52 @@ export const denmarkLifeV2: POI[] = [
     image: "/poi-images/denmark-thy-national-park-life-v2.webp",
   },
   {
-    id: "denmark-mols-bjerge-national-park-life-v2",
+    id: "denmark-mols-bjerge-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Femmøller Strand",
+                  "text": "Femmøller Strand befindet sich im Nationalpark Mols Bjerge.",
+                  "category": "recreational",
+                  "coords": [
+                        10.608547,
+                        56.225927
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Femmøller Strand",
+                  "text": "Femmøller Strand a Mols Bjerge Nemzeti Parkban található.",
+                  "category": "recreational",
+                  "coords": [
+                        10.608547,
+                        56.225927
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Femmøller Strand",
+                  "text": "Femmøller Strand este situată în Parcul Național Mols Bjerge.",
+                  "category": "recreational",
+                  "coords": [
+                        10.608547,
+                        56.225927
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Femmøller Strand",
+                  "text": "Femmøller Strand is situated in the Mols Bjerge National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        10.608547,
+                        56.225927
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "DK",
     name: { de: "Nationalpark Mols Bjerge", hu: "Mols Bjerge Nemzeti Park", ro: "Parcul Național Mols Bjerge", en: "Mols Bjerge National Park" },
@@ -93,7 +138,52 @@ export const denmarkLifeV2: POI[] = [
     image: "/poi-images/denmark-mols-bjerge-national-park-life-v2.webp",
   },
   {
-    id: "denmark-skjoldungernes-land-national-park-life-v2",
+    id: "denmark-skjoldungernes-land-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Borrevejle Strandpark",
+                  "text": "Borrevejle Strandpark liegt im Nationalpark Skjoldungernes Land.",
+                  "category": "recreational",
+                  "coords": [
+                        11.938762,
+                        55.654359
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Borrevejle Strandpark",
+                  "text": "A Borrevejle Strandpark a Skjoldungernes Land Nemzeti Parkban található.",
+                  "category": "recreational",
+                  "coords": [
+                        11.938762,
+                        55.654359
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Borrevejle Strandpark",
+                  "text": "Parcul de plajă Borrevejle este situat în Parcul Național Skjoldungernes Land.",
+                  "category": "recreational",
+                  "coords": [
+                        11.938762,
+                        55.654359
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Borrevejle Strandpark",
+                  "text": "Borrevejle Strandpark is located in Skjoldungernes Land National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        11.938762,
+                        55.654359
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "DK",
     name: { de: "Nationalpark Skjoldungernes Land", hu: "Skjoldungernes Land Nemzeti Park", ro: "Parcul Național Skjoldungernes Land", en: "Skjoldungernes Land National Park" },
@@ -138,7 +228,52 @@ export const denmarkLifeV2: POI[] = [
     image: "/poi-images/denmark-skjoldungernes-land-national-park-life-v2.webp",
   },
   {
-    id: "denmark-kongernes-nordsjaelland-national-park-life-v2",
+    id: "denmark-kongernes-nordsjaelland-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tevandsbugten",
+                  "text": "Tevandsbugten liegt im Nationalpark Kongernes Nordsjælland.",
+                  "category": "recreational",
+                  "coords": [
+                        12.359915,
+                        55.975373
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tevandsbugten",
+                  "text": "Tevandsbugten a Kongernes Nordsjælland Nemzeti Parkban található.",
+                  "category": "recreational",
+                  "coords": [
+                        12.359915,
+                        55.975373
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tevandsbugten",
+                  "text": "Tevandsbugten este situată în Parcul Național Kongernes Nordsjælland.",
+                  "category": "recreational",
+                  "coords": [
+                        12.359915,
+                        55.975373
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tevandsbugten",
+                  "text": "Tevandsbugten is located in the Kongernes Nordsjælland National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        12.359915,
+                        55.975373
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "DK",
     name: { de: "Nationalpark Kongernes Nordsjælland", hu: "Kongernes Nordsjælland Nemzeti Park", ro: "Parcul Național Kongernes Nordsjælland", en: "Kongernes Nordsjælland National Park" },
@@ -543,7 +678,124 @@ export const denmarkLifeV2: POI[] = [
     image: "/poi-images/denmark-skanderborg-lake-district-life-v2.webp",
   },
   {
-    id: "denmark-silkeborg-lakes-life-v2",
+    id: "denmark-silkeborg-lakes-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Østre Søbad",
+                  "text": "Eine Badestelle an den Seen von Silkeborg.",
+                  "category": "recreational",
+                  "coords": [
+                        9.55604,
+                        56.147606
+                  ]
+            },
+            {
+                  "name": "Vestre Søbad",
+                  "text": "Eine Badestelle an den Seen von Silkeborg.",
+                  "category": "recreational",
+                  "coords": [
+                        9.543666,
+                        56.152063
+                  ]
+            },
+            {
+                  "name": "Aggerholm",
+                  "text": "Ein Uferabschnitt an den Seen von Silkeborg.",
+                  "category": "recreational",
+                  "coords": [
+                        9.536475,
+                        56.153306
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Østre Søbad",
+                  "text": "Fürdőhely a silkeborgi tavaknál.",
+                  "category": "recreational",
+                  "coords": [
+                        9.55604,
+                        56.147606
+                  ]
+            },
+            {
+                  "name": "Vestre Søbad",
+                  "text": "Fürdőhely a silkeborgi tavaknál.",
+                  "category": "recreational",
+                  "coords": [
+                        9.543666,
+                        56.152063
+                  ]
+            },
+            {
+                  "name": "Aggerholm",
+                  "text": "Partszakasz a silkeborgi tavaknál.",
+                  "category": "recreational",
+                  "coords": [
+                        9.536475,
+                        56.153306
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Østre Søbad",
+                  "text": "O zonă de scăldat pe lacurile din Silkeborg.",
+                  "category": "recreational",
+                  "coords": [
+                        9.55604,
+                        56.147606
+                  ]
+            },
+            {
+                  "name": "Vestre Søbad",
+                  "text": "O zonă de scăldat pe lacurile din Silkeborg.",
+                  "category": "recreational",
+                  "coords": [
+                        9.543666,
+                        56.152063
+                  ]
+            },
+            {
+                  "name": "Aggerholm",
+                  "text": "O secțiune de țărm pe lacurile din Silkeborg.",
+                  "category": "recreational",
+                  "coords": [
+                        9.536475,
+                        56.153306
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Østre Søbad",
+                  "text": "A bathing area located at the lakes in Silkeborg.",
+                  "category": "recreational",
+                  "coords": [
+                        9.55604,
+                        56.147606
+                  ]
+            },
+            {
+                  "name": "Vestre Søbad",
+                  "text": "A bathing area located at the lakes in Silkeborg.",
+                  "category": "recreational",
+                  "coords": [
+                        9.543666,
+                        56.152063
+                  ]
+            },
+            {
+                  "name": "Aggerholm",
+                  "text": "A stretch of shore at the lakes in Silkeborg.",
+                  "category": "recreational",
+                  "coords": [
+                        9.536475,
+                        56.153306
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "DK",
     name: { de: "Seen von Silkeborg", hu: "Silkeborgi tavak", ro: "Lacurile din Silkeborg", en: "Silkeborg Lakes" },
@@ -633,7 +885,88 @@ export const denmarkLifeV2: POI[] = [
     image: "/poi-images/denmark-ertholmene-wildlife-life-v2.webp",
   },
   {
-    id: "denmark-marselisborg-forest-life-v2",
+    id: "denmark-marselisborg-forest-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ballehage Strand",
+                  "text": "Ballehage Strand liegt in der Nähe des Marselisborg-Waldes.",
+                  "category": "recreational",
+                  "coords": [
+                        10.225497,
+                        56.121037
+                  ]
+            },
+            {
+                  "name": "Moesgård Strand",
+                  "text": "Ein Strand am Rande des Marselisborg-Waldes.",
+                  "category": "recreational",
+                  "coords": [
+                        10.248773,
+                        56.088032
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ballehage Strand",
+                  "text": "A Ballehage Strand a Marselisborg erdő közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        10.225497,
+                        56.121037
+                  ]
+            },
+            {
+                  "name": "Moesgård Strand",
+                  "text": "Strand a Marselisborg-erdő szélén.",
+                  "category": "recreational",
+                  "coords": [
+                        10.248773,
+                        56.088032
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ballehage Strand",
+                  "text": "Ballehage Strand este situată lângă pădurea Marselisborg.",
+                  "category": "recreational",
+                  "coords": [
+                        10.225497,
+                        56.121037
+                  ]
+            },
+            {
+                  "name": "Moesgård Strand",
+                  "text": "O plajă la marginea pădurii Marselisborg.",
+                  "category": "recreational",
+                  "coords": [
+                        10.248773,
+                        56.088032
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ballehage Strand",
+                  "text": "Ballehage Strand is located near the Marselisborg Forest.",
+                  "category": "recreational",
+                  "coords": [
+                        10.225497,
+                        56.121037
+                  ]
+            },
+            {
+                  "name": "Moesgård Strand",
+                  "text": "A beach located at the edge of the Marselisborg Forest.",
+                  "category": "recreational",
+                  "coords": [
+                        10.248773,
+                        56.088032
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "DK",
     name: { de: "Marselisborg Wald", hu: "Marselisborg erdő", ro: "Pădurea Marselisborg", en: "Marselisborg Forest" },
@@ -723,7 +1056,52 @@ export const denmarkLifeV2: POI[] = [
     image: "/poi-images/denmark-randers-rainforest-life-v2.webp",
   },
   {
-    id: "denmark-skjern-aa-delta-life-v2",
+    id: "denmark-skjern-aa-delta-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Stauning Strand",
+                  "text": "Der Stauning Strand liegt am Ufer des Skjern Aa-Deltas.",
+                  "category": "recreational",
+                  "coords": [
+                        8.365351,
+                        55.952131
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stauning Strand",
+                  "text": "A Stauning Strand a Skjern Aa-delta partján található.",
+                  "category": "recreational",
+                  "coords": [
+                        8.365351,
+                        55.952131
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stauning Strand",
+                  "text": "Stauning Strand este situată pe malul Deltei Skjern Aa.",
+                  "category": "recreational",
+                  "coords": [
+                        8.365351,
+                        55.952131
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stauning Strand",
+                  "text": "Stauning Strand is located on the edge of the Skjern Aa Delta.",
+                  "category": "recreational",
+                  "coords": [
+                        8.365351,
+                        55.952131
+                  ]
+            }
+      ]
+},
     type: "wildlife",
     parent: "DK",
     name: { de: "Skjern Å Delta", hu: "Skjern Å delta", ro: "Delta râului Skjern", en: "Skjern Å Delta" },
@@ -858,7 +1236,52 @@ export const denmarkLifeV2: POI[] = [
     image: "/poi-images/denmark-mols-bjerge-forest-life-v2.webp",
   },
   {
-    id: "denmark-amager-fælled-life-v2",
+    id: "denmark-amager-fælled-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Havnevigen",
+                  "text": "Havnevigen ist ein Strandbereich am Rande der Amager Fælled.",
+                  "category": "recreational",
+                  "coords": [
+                        12.566272,
+                        55.654468
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Havnevigen",
+                  "text": "Havnevigen egy strandterület az Amager Fælled szélén.",
+                  "category": "recreational",
+                  "coords": [
+                        12.566272,
+                        55.654468
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Havnevigen",
+                  "text": "Havnevigen este o zonă de plajă la marginea Amager Fælled.",
+                  "category": "recreational",
+                  "coords": [
+                        12.566272,
+                        55.654468
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Havnevigen",
+                  "text": "Havnevigen is a beach area on the edge of Amager Fælled.",
+                  "category": "recreational",
+                  "coords": [
+                        12.566272,
+                        55.654468
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "DK",
     name: { de: "Amager Fælled", hu: "Amager Fælled", ro: "Amager Fælled", en: "Amager Fælled" },
@@ -993,7 +1416,52 @@ export const denmarkLifeV2: POI[] = [
     image: "/poi-images/denmark-harrild-hede-nature-life-v2.webp",
   },
   {
-    id: "denmark-roskilde-fjord-wildlife-life-v2",
+    id: "denmark-roskilde-fjord-wildlife-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gershøj Strand",
+                  "text": "Gershøj Strand liegt am Roskilde Fjord, einem Schutzgebiet für Wildtiere.",
+                  "category": "recreational",
+                  "coords": [
+                        11.979312,
+                        55.715813
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gershøj Strand",
+                  "text": "Gershøj Strand a Roskilde-fjordon található, amely egy vadrezervátum.",
+                  "category": "recreational",
+                  "coords": [
+                        11.979312,
+                        55.715813
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gershøj Strand",
+                  "text": "Gershøj Strand este situată pe fiordul Roskilde, o zonă protejată pentru animalele sălbatice.",
+                  "category": "recreational",
+                  "coords": [
+                        11.979312,
+                        55.715813
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gershøj Strand",
+                  "text": "Gershøj Strand is located on the Roskilde Fjord, a wildlife refuge area.",
+                  "category": "recreational",
+                  "coords": [
+                        11.979312,
+                        55.715813
+                  ]
+            }
+      ]
+},
     type: "wildlife",
     parent: "DK",
     name: { de: "Roskilde Fjord", hu: "Roskilde-fjord", ro: "Fiordul Roskilde", en: "Roskilde Fjord" },

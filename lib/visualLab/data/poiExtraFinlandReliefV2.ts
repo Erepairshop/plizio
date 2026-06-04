@@ -183,7 +183,52 @@ export const finlandReliefV2: POI[] = [
     image: "/poi-images/finland-yllaastunturi-relief-v2.webp",
   },
   {
-    id: "finland-pyhatunturi-relief-v2",
+    id: "finland-pyhatunturi-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Astelin uimaranta",
+                  "text": "Astelin uimaranta ist ein Strand in der Nähe von Pyhatunturi.",
+                  "category": "recreational",
+                  "coords": [
+                        27.214475,
+                        67.046448
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Astelin uimaranta",
+                  "text": "Az Astelin uimaranta egy strand Pyhatunturi közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        27.214475,
+                        67.046448
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Astelin uimaranta",
+                  "text": "Astelin uimaranta este o plajă lângă Pyhatunturi.",
+                  "category": "recreational",
+                  "coords": [
+                        27.214475,
+                        67.046448
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Astelin uimaranta",
+                  "text": "Astelin uimaranta is a beach near Pyhatunturi.",
+                  "category": "recreational",
+                  "coords": [
+                        27.214475,
+                        67.046448
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "FI",
     name: { de: "Pyhätunturi", hu: "Pyhätunturi", ro: "Pyhätunturi", en: "Pyhätunturi" },

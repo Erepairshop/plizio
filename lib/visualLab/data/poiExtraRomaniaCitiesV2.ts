@@ -902,6 +902,15 @@ export const romaniaCitiesV2: POI[] = [
                         23.285414,
                         45.037451
                   ]
+            },
+            {
+                  "name": "Plaja Voinigești",
+                  "text": "Ein Strand in der Nähe von Târgu Jiu.",
+                  "category": "recreational",
+                  "coords": [
+                        23.247123,
+                        45.000627
+                  ]
             }
       ],
       "hu": [
@@ -993,6 +1002,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         23.285414,
                         45.037451
+                  ]
+            },
+            {
+                  "name": "Plaja Voinigești",
+                  "text": "Strand Zsilvásárhely közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        23.247123,
+                        45.000627
                   ]
             }
       ],
@@ -1086,6 +1104,15 @@ export const romaniaCitiesV2: POI[] = [
                         23.285414,
                         45.037451
                   ]
+            },
+            {
+                  "name": "Plaja Voinigești",
+                  "text": "O plajă lângă Târgu Jiu.",
+                  "category": "recreational",
+                  "coords": [
+                        23.247123,
+                        45.000627
+                  ]
             }
       ],
       "en": [
@@ -1177,6 +1204,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         23.285414,
                         45.037451
+                  ]
+            },
+            {
+                  "name": "Plaja Voinigești",
+                  "text": "A beach near Târgu Jiu.",
+                  "category": "recreational",
+                  "coords": [
+                        23.247123,
+                        45.000627
                   ]
             }
       ]
@@ -3057,6 +3093,15 @@ export const romaniaCitiesV2: POI[] = [
                         28.636195,
                         44.037376
                   ]
+            },
+            {
+                  "name": "Băile Reci",
+                  "text": "Der Strand Băile Reci befindet sich in Techirghiol.",
+                  "category": "recreational",
+                  "coords": [
+                        28.607926,
+                        44.050383
+                  ]
             }
       ],
       "hu": [
@@ -3088,6 +3133,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         28.636195,
                         44.037376
+                  ]
+            },
+            {
+                  "name": "Băile Reci",
+                  "text": "A Băile Reci strand Techirghiolban található.",
+                  "category": "recreational",
+                  "coords": [
+                        28.607926,
+                        44.050383
                   ]
             }
       ],
@@ -3121,6 +3175,15 @@ export const romaniaCitiesV2: POI[] = [
                         28.636195,
                         44.037376
                   ]
+            },
+            {
+                  "name": "Băile Reci",
+                  "text": "Plaja Băile Reci este situată în Techirghiol.",
+                  "category": "recreational",
+                  "coords": [
+                        28.607926,
+                        44.050383
+                  ]
             }
       ],
       "en": [
@@ -3152,6 +3215,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         28.636195,
                         44.037376
+                  ]
+            },
+            {
+                  "name": "Băile Reci",
+                  "text": "Băile Reci beach is located in Techirghiol.",
+                  "category": "recreational",
+                  "coords": [
+                        28.607926,
+                        44.050383
                   ]
             }
       ]

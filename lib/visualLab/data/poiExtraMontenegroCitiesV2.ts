@@ -3,7 +3,52 @@ import { POI } from './poi';
 export const montenegroCitiesV2: POI[] = [
 
   {
-    id: "montenegro-spuz-cities-v2",
+    id: "montenegro-spuz-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kuc beach",
+                  "text": "Kuc Strand bei Spuz.",
+                  "category": "recreational",
+                  "coords": [
+                        19.160999,
+                        42.535907
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kuc beach",
+                  "text": "Kuc strand Spuz közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        19.160999,
+                        42.535907
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kuc beach",
+                  "text": "Plaja Kuc lângă Spuz.",
+                  "category": "recreational",
+                  "coords": [
+                        19.160999,
+                        42.535907
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kuc beach",
+                  "text": "Kuc beach near Spuz.",
+                  "category": "recreational",
+                  "coords": [
+                        19.160999,
+                        42.535907
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ME",
     name: { de: "Spuž", hu: "Spuž", ro: "Spuž", en: "Spuž" },
@@ -93,7 +138,124 @@ export const montenegroCitiesV2: POI[] = [
     image: "/poi-images/montenegro-golubovci-cities-v2.webp",
   },
   {
-    id: "montenegro-tuzi-cities-v2",
+    id: "montenegro-tuzi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cijevna - Smokva",
+                  "text": "Cijevna - Smokva liegt bei Tuzi.",
+                  "category": "recreational",
+                  "coords": [
+                        19.35096,
+                        42.407258
+                  ]
+            },
+            {
+                  "name": "Cijevna - Kod Ljuljanovića",
+                  "text": "Cijevna - Kod Ljuljanovića liegt bei Tuzi.",
+                  "category": "recreational",
+                  "coords": [
+                        19.347931,
+                        42.410165
+                  ]
+            },
+            {
+                  "name": "Cijevna - Zidine",
+                  "text": "Cijevna - Zidine liegt bei Tuzi.",
+                  "category": "recreational",
+                  "coords": [
+                        19.339815,
+                        42.411387
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cijevna - Smokva",
+                  "text": "A Cijevna - Smokva Tuzi közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        19.35096,
+                        42.407258
+                  ]
+            },
+            {
+                  "name": "Cijevna - Kod Ljuljanovića",
+                  "text": "A Cijevna - Kod Ljuljanovića Tuzi közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        19.347931,
+                        42.410165
+                  ]
+            },
+            {
+                  "name": "Cijevna - Zidine",
+                  "text": "A Cijevna - Zidine Tuzi közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        19.339815,
+                        42.411387
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cijevna - Smokva",
+                  "text": "Cijevna - Smokva este situată lângă Tuzi.",
+                  "category": "recreational",
+                  "coords": [
+                        19.35096,
+                        42.407258
+                  ]
+            },
+            {
+                  "name": "Cijevna - Kod Ljuljanovića",
+                  "text": "Cijevna - Kod Ljuljanovića este situată lângă Tuzi.",
+                  "category": "recreational",
+                  "coords": [
+                        19.347931,
+                        42.410165
+                  ]
+            },
+            {
+                  "name": "Cijevna - Zidine",
+                  "text": "Cijevna - Zidine este situată lângă Tuzi.",
+                  "category": "recreational",
+                  "coords": [
+                        19.339815,
+                        42.411387
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cijevna - Smokva",
+                  "text": "Cijevna - Smokva is located near Tuzi.",
+                  "category": "recreational",
+                  "coords": [
+                        19.35096,
+                        42.407258
+                  ]
+            },
+            {
+                  "name": "Cijevna - Kod Ljuljanovića",
+                  "text": "Cijevna - Kod Ljuljanovića is located near Tuzi.",
+                  "category": "recreational",
+                  "coords": [
+                        19.347931,
+                        42.410165
+                  ]
+            },
+            {
+                  "name": "Cijevna - Zidine",
+                  "text": "Cijevna - Zidine is located near Tuzi.",
+                  "category": "recreational",
+                  "coords": [
+                        19.339815,
+                        42.411387
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ME",
     name: { de: "Tuzi", hu: "Tuzi", ro: "Tuzi", en: "Tuzi" },

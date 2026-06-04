@@ -3,7 +3,52 @@ import { POI } from './poi';
 export const ukEconomicV2: POI[] = [
 
   {
-    id: "uk-port-of-felixstowe-economic-v2",
+    id: "uk-port-of-felixstowe-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Trimley Shores",
+                  "text": "Trimley Shores liegt nahe beim Hafen von Felixstowe.",
+                  "category": "recreational",
+                  "coords": [
+                        1.283137,
+                        51.989474
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Trimley Shores",
+                  "text": "Trimley Shores a felixstowe-i kikötő közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        1.283137,
+                        51.989474
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Trimley Shores",
+                  "text": "Trimley Shores este situat lângă portul Felixstowe.",
+                  "category": "recreational",
+                  "coords": [
+                        1.283137,
+                        51.989474
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Trimley Shores",
+                  "text": "Trimley Shores is located near the Port of Felixstowe.",
+                  "category": "recreational",
+                  "coords": [
+                        1.283137,
+                        51.989474
+                  ]
+            }
+      ]
+},
     parent: "GB",
     type: "port",
     name: { de: "Hafen von Felixstowe", hu: "Felixstowe kikötője", ro: "Portul Felixstowe", en: "Port of Felixstowe"},
@@ -187,7 +232,88 @@ imageHint: "Drax Power Station with cooling towers and chimneys",
     },
     image: "/poi-images/uk-drax-power-station-economic-v2.webp",
 },  {
-    id: "uk-aberdeen-energy-hub-economic-v2",
+    id: "uk-aberdeen-energy-hub-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Beach Ballroom Bathing Area",
+                  "text": "Badebereich am Aberdeen Energy Hub.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.077115,
+                        57.152836
+                  ]
+            },
+            {
+                  "name": "Aberdeen Beach",
+                  "text": "Ein langer Sandstrand in der Nähe der Stadt Aberdeen.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.072272,
+                        57.158795
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Beach Ballroom Bathing Area",
+                  "text": "Fürdőhely az Aberdeen Energy Hubnál.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.077115,
+                        57.152836
+                  ]
+            },
+            {
+                  "name": "Aberdeen Beach",
+                  "text": "Hosszú homokos strand Aberdeen városának közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.072272,
+                        57.158795
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Beach Ballroom Bathing Area",
+                  "text": "Zonă de scăldat la Aberdeen Energy Hub.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.077115,
+                        57.152836
+                  ]
+            },
+            {
+                  "name": "Aberdeen Beach",
+                  "text": "O plajă lungă cu nisip în apropierea orașului Aberdeen.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.072272,
+                        57.158795
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Beach Ballroom Bathing Area",
+                  "text": "Bathing area at Aberdeen Energy Hub.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.077115,
+                        57.152836
+                  ]
+            },
+            {
+                  "name": "Aberdeen Beach",
+                  "text": "A long sandy beach near the city of Aberdeen.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.072272,
+                        57.158795
+                  ]
+            }
+      ]
+},
     parent: "GB",
     type: "port",
     name: { de: "Energiezentrum Aberdeen", hu: "Aberdeen energia-központ", ro: "Centrul energetic Aberdeen", en: "Aberdeen Energy Hub"},
@@ -741,7 +867,88 @@ imageHint: "Modern office buildings and street layout in Milton Keynes",
       ]
 }
   },  {
-    id: "uk-port-talbot-steelworks-economic-v2",
+    id: "uk-port-talbot-steelworks-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Margam Sands",
+                  "text": "Margam Sands liegt bei den Port Talbot Steelworks.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.773066,
+                        51.548519
+                  ]
+            },
+            {
+                  "name": "Aberavon Beach",
+                  "text": "Aberavon Beach liegt in der Nähe von Port Talbot.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.820341,
+                        51.594285
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Margam Sands",
+                  "text": "A Margam Sands a Port Talbot Steelworks közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.773066,
+                        51.548519
+                  ]
+            },
+            {
+                  "name": "Aberavon Beach",
+                  "text": "Az Aberavon Beach strand Port Talbot közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.820341,
+                        51.594285
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Margam Sands",
+                  "text": "Margam Sands se află lângă Port Talbot Steelworks.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.773066,
+                        51.548519
+                  ]
+            },
+            {
+                  "name": "Aberavon Beach",
+                  "text": "Aberavon Beach este situată lângă Port Talbot.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.820341,
+                        51.594285
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Margam Sands",
+                  "text": "Margam Sands is located near Port Talbot Steelworks.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.773066,
+                        51.548519
+                  ]
+            },
+            {
+                  "name": "Aberavon Beach",
+                  "text": "Aberavon Beach is located near Port Talbot.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.820341,
+                        51.594285
+                  ]
+            }
+      ]
+},
     parent: "GB",
     type: "factory",
     name: { de: "Stahlwerk Port Talbot", hu: "Port Talbot acélmű", ro: "Combinatul siderurgic Port Talbot", en: "Port Talbot Steelworks"},

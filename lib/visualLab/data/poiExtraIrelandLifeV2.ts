@@ -48,7 +48,52 @@ export const irelandLifeV2: POI[] = [
     image: "/poi-images/ireland-ballycroy-national-park-life-v2.webp",
   },
   {
-    id: "ireland-killarney-national-park-life-v2",
+    id: "ireland-killarney-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "McRose Beach",
+                  "text": "Strand im Killarney National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.521567,
+                        52.014384
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "McRose Beach",
+                  "text": "Strand a Killarney Nemzeti Parkban.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.521567,
+                        52.014384
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "McRose Beach",
+                  "text": "Plajă în Parcul Național Killarney.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.521567,
+                        52.014384
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "McRose Beach",
+                  "text": "Beach in Killarney National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.521567,
+                        52.014384
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "IE",
     name: { de: "Killarney Nationalpark", hu: "Killarney Nemzeti Park", ro: "Parcul Național Killarney", en: "Killarney National Park" },
@@ -93,7 +138,52 @@ export const irelandLifeV2: POI[] = [
     image: "/poi-images/ireland-killarney-national-park-life-v2.webp",
   },
   {
-    id: "ireland-wicklow-mountains-national-park-life-v2",
+    id: "ireland-wicklow-mountains-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Coon Beach",
+                  "text": "Coon Beach befindet sich im Wicklow Mountains National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.294246,
+                        53.078541
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Coon Beach",
+                  "text": "A Coon Beach a Wicklow Mountains Nemzeti Parkban található.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.294246,
+                        53.078541
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Coon Beach",
+                  "text": "Coon Beach se află în Parcul Național Wicklow Mountains.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.294246,
+                        53.078541
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Coon Beach",
+                  "text": "Coon Beach is located in the Wicklow Mountains National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.294246,
+                        53.078541
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "IE",
     name: { de: "Wicklow Mountains Nationalpark", hu: "Wicklow-hegység Nemzeti Park", ro: "Parcul Național Munții Wicklow", en: "Wicklow Mountains National Park" },
@@ -453,7 +543,52 @@ export const irelandLifeV2: POI[] = [
     image: "/poi-images/ireland-derryclare-wood-life-v2.webp",
   },
   {
-    id: "ireland-bull-island-life-v2",
+    id: "ireland-bull-island-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dollymount Strand",
+                  "text": "Dollymount Strand ist ein bekannter Dünenstrand auf Bull Island.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.139379,
+                        53.366999
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dollymount Strand",
+                  "text": "Dollymount Strand egy népszerű dűnés strand a Bull Island-en.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.139379,
+                        53.366999
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dollymount Strand",
+                  "text": "Dollymount Strand este o plajă cu dune binecunoscută pe Bull Island.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.139379,
+                        53.366999
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dollymount Strand",
+                  "text": "Dollymount Strand is a well-known dune beach on Bull Island.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.139379,
+                        53.366999
+                  ]
+            }
+      ]
+},
     type: "wildlife",
     parent: "IE",
     name: { de: "North Bull Island", hu: "North Bull-sziget", ro: "Insula North Bull", en: "North Bull Island" },

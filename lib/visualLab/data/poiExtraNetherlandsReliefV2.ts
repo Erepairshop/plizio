@@ -138,7 +138,88 @@ export const netherlandsReliefV2: POI[] = [
     image: "/poi-images/netherlands-wieringen-highlands-relief-v2.webp",
   },
   {
-    id: "netherlands-posbank-relief-v2",
+    id: "netherlands-posbank-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rhederlaag (naaktstrand)",
+                  "text": "Naturistenstrand am Rhederlaag bei Posbank.",
+                  "category": "recreational",
+                  "coords": [
+                        6.042587,
+                        51.987503
+                  ]
+            },
+            {
+                  "name": "Rhederlaag",
+                  "text": "Strand am Rhederlaag bei Posbank.",
+                  "category": "recreational",
+                  "coords": [
+                        6.037582,
+                        51.986873
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rhederlaag (naaktstrand)",
+                  "text": "Természetes strand a Rhederlaag-nál, Posbank közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        6.042587,
+                        51.987503
+                  ]
+            },
+            {
+                  "name": "Rhederlaag",
+                  "text": "Strand a Rhederlaag-nál, Posbank közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        6.037582,
+                        51.986873
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rhederlaag (naaktstrand)",
+                  "text": "Plajă pentru nudiști pe Rhederlaag, lângă Posbank.",
+                  "category": "recreational",
+                  "coords": [
+                        6.042587,
+                        51.987503
+                  ]
+            },
+            {
+                  "name": "Rhederlaag",
+                  "text": "Plajă pe Rhederlaag, lângă Posbank.",
+                  "category": "recreational",
+                  "coords": [
+                        6.037582,
+                        51.986873
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rhederlaag (naaktstrand)",
+                  "text": "Nudist beach on the Rhederlaag near Posbank.",
+                  "category": "recreational",
+                  "coords": [
+                        6.042587,
+                        51.987503
+                  ]
+            },
+            {
+                  "name": "Rhederlaag",
+                  "text": "Beach on the Rhederlaag near Posbank.",
+                  "category": "recreational",
+                  "coords": [
+                        6.037582,
+                        51.986873
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "NL",
     name: { de: "Posbank", hu: "Posbank", ro: "Posbank", en: "Posbank" },
@@ -633,7 +714,88 @@ export const netherlandsReliefV2: POI[] = [
     image: "/poi-images/netherlands-veluwezoom-moraine-relief-v2.webp",
   },
   {
-    id: "netherlands-schoorlse-duinen-relief-v2",
+    id: "netherlands-schoorlse-duinen-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nude Beach - Schoorl aan Zee",
+                  "text": "Naturistenstrand in den Schoorlse Duinen bei Schoorl.",
+                  "category": "recreational",
+                  "coords": [
+                        4.634759,
+                        52.694035
+                  ]
+            },
+            {
+                  "name": "De Kerf",
+                  "text": "Strand De Kerf in den Schoorlse Duinen.",
+                  "category": "recreational",
+                  "coords": [
+                        4.636814,
+                        52.684112
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nude Beach - Schoorl aan Zee",
+                  "text": "Természetes strand a Schoorlse Duinen-nél, Schoorl közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        4.634759,
+                        52.694035
+                  ]
+            },
+            {
+                  "name": "De Kerf",
+                  "text": "De Kerf strand a Schoorlse dűnékben.",
+                  "category": "recreational",
+                  "coords": [
+                        4.636814,
+                        52.684112
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nude Beach - Schoorl aan Zee",
+                  "text": "Plajă pentru nudiști în Schoorlse Duinen, lângă Schoorl.",
+                  "category": "recreational",
+                  "coords": [
+                        4.634759,
+                        52.694035
+                  ]
+            },
+            {
+                  "name": "De Kerf",
+                  "text": "Plaja De Kerf din dunele Schoorlse.",
+                  "category": "recreational",
+                  "coords": [
+                        4.636814,
+                        52.684112
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nude Beach - Schoorl aan Zee",
+                  "text": "Nudist beach in the Schoorlse Duinen near Schoorl.",
+                  "category": "recreational",
+                  "coords": [
+                        4.634759,
+                        52.694035
+                  ]
+            },
+            {
+                  "name": "De Kerf",
+                  "text": "De Kerf beach in the Schoorlse Duinen.",
+                  "category": "recreational",
+                  "coords": [
+                        4.636814,
+                        52.684112
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "NL",
     name: { de: "Schoorlse Dünen", hu: "Schoorlse-dűnék", ro: "Dunele Schoorl", en: "Schoorl Dunes" },
@@ -858,7 +1020,52 @@ export const netherlandsReliefV2: POI[] = [
     image: "/poi-images/netherlands-sallandse-heuvelrug-top-relief-v2.webp",
   },
   {
-    id: "netherlands-haarlemmerliede-ridges-relief-v2",
+    id: "netherlands-haarlemmerliede-ridges-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "De Oerkap",
+                  "text": "Strand De Oerkap in Haarlemmerliede.",
+                  "category": "recreational",
+                  "coords": [
+                        4.647169,
+                        52.385357
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "De Oerkap",
+                  "text": "De Oerkap strand Haarlemmerliedében.",
+                  "category": "recreational",
+                  "coords": [
+                        4.647169,
+                        52.385357
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "De Oerkap",
+                  "text": "Plaja De Oerkap din Haarlemmerliede.",
+                  "category": "recreational",
+                  "coords": [
+                        4.647169,
+                        52.385357
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "De Oerkap",
+                  "text": "De Oerkap beach in Haarlemmerliede.",
+                  "category": "recreational",
+                  "coords": [
+                        4.647169,
+                        52.385357
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "NL",
     name: { de: "Haarlemmerliede Rücken", hu: "Haarlemmerliede-hát", ro: "Haarlemmerliede creste", en: "Haarlemmerliede Ridges" },

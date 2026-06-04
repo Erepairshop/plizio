@@ -138,7 +138,124 @@ export const latviaNatureV2: POI[] = [
     image: "/poi-images/latvia-mezole-forest-nature-v2.webp",
   },
   {
-    id: "latvia-daugava-delta-nature-v2",
+    id: "latvia-daugava-delta-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mangaļsalas pludmale",
+                  "text": "Mangaļsala ist ein beliebter Strand im Daugava-Delta.",
+                  "category": "recreational",
+                  "coords": [
+                        24.0625,
+                        57.071363
+                  ]
+            },
+            {
+                  "name": "Zirgu peldvieta",
+                  "text": "Zirgu ist ein Badeplatz im Daugava-Delta.",
+                  "category": "recreational",
+                  "coords": [
+                        24.09846,
+                        57.067012
+                  ]
+            },
+            {
+                  "name": "Vecāķu pludmale",
+                  "text": "Der Vecāķi-Strand liegt im Daugava-Delta bei Riga.",
+                  "category": "recreational",
+                  "coords": [
+                        24.107423,
+                        57.08211
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mangaļsalas pludmale",
+                  "text": "Mangaļsala egy népszerű strand a Daugava-deltában.",
+                  "category": "recreational",
+                  "coords": [
+                        24.0625,
+                        57.071363
+                  ]
+            },
+            {
+                  "name": "Zirgu peldvieta",
+                  "text": "Zirgu egy fürdőhely a Daugava-deltában.",
+                  "category": "recreational",
+                  "coords": [
+                        24.09846,
+                        57.067012
+                  ]
+            },
+            {
+                  "name": "Vecāķu pludmale",
+                  "text": "A Vecāķi strand a Daugava-deltában, Riga mellett található.",
+                  "category": "recreational",
+                  "coords": [
+                        24.107423,
+                        57.08211
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mangaļsalas pludmale",
+                  "text": "Mangaļsala este o plajă populară situată în delta Daugavei.",
+                  "category": "recreational",
+                  "coords": [
+                        24.0625,
+                        57.071363
+                  ]
+            },
+            {
+                  "name": "Zirgu peldvieta",
+                  "text": "Zirgu este o zonă de scăldat în delta Daugavei.",
+                  "category": "recreational",
+                  "coords": [
+                        24.09846,
+                        57.067012
+                  ]
+            },
+            {
+                  "name": "Vecāķu pludmale",
+                  "text": "Plaja Vecāķi este situată în delta Daugavei, lângă Riga.",
+                  "category": "recreational",
+                  "coords": [
+                        24.107423,
+                        57.08211
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mangaļsalas pludmale",
+                  "text": "Mangaļsala is a popular beach in the Daugava Delta.",
+                  "category": "recreational",
+                  "coords": [
+                        24.0625,
+                        57.071363
+                  ]
+            },
+            {
+                  "name": "Zirgu peldvieta",
+                  "text": "Zirgu is a swimming spot in the Daugava Delta.",
+                  "category": "recreational",
+                  "coords": [
+                        24.09846,
+                        57.067012
+                  ]
+            },
+            {
+                  "name": "Vecāķu pludmale",
+                  "text": "Vecāķi beach is located in the Daugava Delta near Riga.",
+                  "category": "recreational",
+                  "coords": [
+                        24.107423,
+                        57.08211
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "LV",
     name: { de: "Daugava Mündungsgebiet", hu: "Daugava torkolata", ro: "Delta râului Daugava", en: "Daugava River Mouth" },

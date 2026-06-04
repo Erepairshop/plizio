@@ -85,6 +85,51 @@ export const poiExtraFrV2: POI[] = [
                         8.73814,
                         41.924106
                   ]
+            },
+            {
+                  "name": "Tahiti Beach",
+                  "text": "Tahiti Beach ist ein malerischer Strand in der Küstenstadt Ajaccio.",
+                  "category": "recreational",
+                  "coords": [
+                        8.771246,
+                        41.927764
+                  ]
+            },
+            {
+                  "name": "Barbicagja",
+                  "text": "Barbicagja ist ein angenehmer Strand, der eine entspannende Atmosphäre in Ajaccio bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        8.689851,
+                        41.909192
+                  ]
+            },
+            {
+                  "name": "Plage Trottel",
+                  "text": "Plage Trottel ist ein beliebter Stadtstrand an der Küste von Ajaccio.",
+                  "category": "recreational",
+                  "coords": [
+                        8.725752,
+                        41.912432
+                  ]
+            },
+            {
+                  "name": "Plage du Ricanto",
+                  "text": "Plage du Ricanto ist ein weitläufiges und bekanntes Strandziel in Ajaccio.",
+                  "category": "recreational",
+                  "coords": [
+                        8.78084,
+                        41.92166
+                  ]
+            },
+            {
+                  "name": "Plage du Lazaret",
+                  "text": "Plage du Lazaret ist ein ruhiger Sandstrand in Ajaccio.",
+                  "category": "recreational",
+                  "coords": [
+                        8.757079,
+                        41.928891
+                  ]
             }
       ],
       "hu": [
@@ -166,6 +211,51 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         8.73814,
                         41.924106
+                  ]
+            },
+            {
+                  "name": "Tahiti Beach",
+                  "text": "A Tahiti Beach egy festői strand a tengerparti Ajaccio városában.",
+                  "category": "recreational",
+                  "coords": [
+                        8.771246,
+                        41.927764
+                  ]
+            },
+            {
+                  "name": "Barbicagja",
+                  "text": "A Barbicagja egy kellemes strand, amely pihentető légkört kínál Ajaccio városában.",
+                  "category": "recreational",
+                  "coords": [
+                        8.689851,
+                        41.909192
+                  ]
+            },
+            {
+                  "name": "Plage Trottel",
+                  "text": "A Plage Trottel egy népszerű városi strand Ajaccio partvidéke mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        8.725752,
+                        41.912432
+                  ]
+            },
+            {
+                  "name": "Plage du Ricanto",
+                  "text": "A Plage du Ricanto egy tágas és jól ismert strand Ajaccio városában.",
+                  "category": "recreational",
+                  "coords": [
+                        8.78084,
+                        41.92166
+                  ]
+            },
+            {
+                  "name": "Plage du Lazaret",
+                  "text": "A Plage du Lazaret egy nyugodt homokos partszakasz Ajaccio városában.",
+                  "category": "recreational",
+                  "coords": [
+                        8.757079,
+                        41.928891
                   ]
             }
       ],
@@ -249,6 +339,51 @@ export const poiExtraFrV2: POI[] = [
                         8.73814,
                         41.924106
                   ]
+            },
+            {
+                  "name": "Tahiti Beach",
+                  "text": "Tahiti Beach este o plajă pitorească situată în orașul de coastă Ajaccio.",
+                  "category": "recreational",
+                  "coords": [
+                        8.771246,
+                        41.927764
+                  ]
+            },
+            {
+                  "name": "Barbicagja",
+                  "text": "Barbicagja este o plajă plăcută care oferă o atmosferă relaxantă în Ajaccio.",
+                  "category": "recreational",
+                  "coords": [
+                        8.689851,
+                        41.909192
+                  ]
+            },
+            {
+                  "name": "Plage Trottel",
+                  "text": "Plage Trottel este o plajă urbană populară situată de-a lungul coastei din Ajaccio.",
+                  "category": "recreational",
+                  "coords": [
+                        8.725752,
+                        41.912432
+                  ]
+            },
+            {
+                  "name": "Plage du Ricanto",
+                  "text": "Plage du Ricanto este o destinație de plajă spațioasă și bine-cunoscută în Ajaccio.",
+                  "category": "recreational",
+                  "coords": [
+                        8.78084,
+                        41.92166
+                  ]
+            },
+            {
+                  "name": "Plage du Lazaret",
+                  "text": "Plage du Lazaret este o fâșie liniștită de nisip situată în Ajaccio.",
+                  "category": "recreational",
+                  "coords": [
+                        8.757079,
+                        41.928891
+                  ]
             }
       ],
       "en": [
@@ -330,6 +465,51 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         8.73814,
                         41.924106
+                  ]
+            },
+            {
+                  "name": "Tahiti Beach",
+                  "text": "Tahiti Beach is a scenic beach located in the coastal city of Ajaccio.",
+                  "category": "recreational",
+                  "coords": [
+                        8.771246,
+                        41.927764
+                  ]
+            },
+            {
+                  "name": "Barbicagja",
+                  "text": "Barbicagja is a pleasant beach offering a relaxing atmosphere in Ajaccio.",
+                  "category": "recreational",
+                  "coords": [
+                        8.689851,
+                        41.909192
+                  ]
+            },
+            {
+                  "name": "Plage Trottel",
+                  "text": "Plage Trottel is a popular city beach situated along the coastline of Ajaccio.",
+                  "category": "recreational",
+                  "coords": [
+                        8.725752,
+                        41.912432
+                  ]
+            },
+            {
+                  "name": "Plage du Ricanto",
+                  "text": "Plage du Ricanto is a spacious and well-known beach destination in Ajaccio.",
+                  "category": "recreational",
+                  "coords": [
+                        8.78084,
+                        41.92166
+                  ]
+            },
+            {
+                  "name": "Plage du Lazaret",
+                  "text": "Plage du Lazaret is a tranquil stretch of sand located in Ajaccio.",
+                  "category": "recreational",
+                  "coords": [
+                        8.757079,
+                        41.928891
                   ]
             }
       ]
@@ -775,6 +955,33 @@ export const poiExtraFrV2: POI[] = [
                         7.139687,
                         43.555293
                   ]
+            },
+            {
+                  "name": "Plage du Fort Carré",
+                  "text": "Plage du Fort Carré ist ein Strand in der Nähe des historischen Fort Carré in Antibes.",
+                  "category": "recreational",
+                  "coords": [
+                        7.125709,
+                        43.593349
+                  ]
+            },
+            {
+                  "name": "Plage du port",
+                  "text": "Plage du port ist ein lokaler Strand in der Nähe des Hafens von Antibes.",
+                  "category": "recreational",
+                  "coords": [
+                        7.129886,
+                        43.584046
+                  ]
+            },
+            {
+                  "name": "Plage de la Base de Voile",
+                  "text": "Plage de la Base de Voile ist ein Strand in Antibes, der oft mit dem Segelsport in Verbindung gebracht wird.",
+                  "category": "recreational",
+                  "coords": [
+                        7.127915,
+                        43.572003
+                  ]
             }
       ],
       "hu": [
@@ -846,6 +1053,33 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         7.139687,
                         43.555293
+                  ]
+            },
+            {
+                  "name": "Plage du Fort Carré",
+                  "text": "A Plage du Fort Carré egy strand a történelmi Fort Carré közelében, Antibes városában.",
+                  "category": "recreational",
+                  "coords": [
+                        7.125709,
+                        43.593349
+                  ]
+            },
+            {
+                  "name": "Plage du port",
+                  "text": "A Plage du port egy helyi strand az antibesi kikötő közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        7.129886,
+                        43.584046
+                  ]
+            },
+            {
+                  "name": "Plage de la Base de Voile",
+                  "text": "A Plage de la Base de Voile egy strand Antibes-ban, amely a vitorlázásról is ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        7.127915,
+                        43.572003
                   ]
             }
       ],
@@ -919,6 +1153,33 @@ export const poiExtraFrV2: POI[] = [
                         7.139687,
                         43.555293
                   ]
+            },
+            {
+                  "name": "Plage du Fort Carré",
+                  "text": "Plage du Fort Carré este o plajă situată lângă istoricul Fort Carré din Antibes.",
+                  "category": "recreational",
+                  "coords": [
+                        7.125709,
+                        43.593349
+                  ]
+            },
+            {
+                  "name": "Plage du port",
+                  "text": "Plage du port este o plajă locală situată lângă portul din Antibes.",
+                  "category": "recreational",
+                  "coords": [
+                        7.129886,
+                        43.584046
+                  ]
+            },
+            {
+                  "name": "Plage de la Base de Voile",
+                  "text": "Plage de la Base de Voile este o plajă în Antibes, adesea asociată cu activitățile de navigație.",
+                  "category": "recreational",
+                  "coords": [
+                        7.127915,
+                        43.572003
+                  ]
             }
       ],
       "en": [
@@ -990,6 +1251,33 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         7.139687,
                         43.555293
+                  ]
+            },
+            {
+                  "name": "Plage du Fort Carré",
+                  "text": "Plage du Fort Carré is a beach situated near the historic Fort Carré in Antibes.",
+                  "category": "recreational",
+                  "coords": [
+                        7.125709,
+                        43.593349
+                  ]
+            },
+            {
+                  "name": "Plage du port",
+                  "text": "Plage du port is a local beach located near the harbor in Antibes.",
+                  "category": "recreational",
+                  "coords": [
+                        7.129886,
+                        43.584046
+                  ]
+            },
+            {
+                  "name": "Plage de la Base de Voile",
+                  "text": "Plage de la Base de Voile is a beach destination in Antibes, often associated with sailing.",
+                  "category": "recreational",
+                  "coords": [
+                        7.127915,
+                        43.572003
                   ]
             }
       ]
@@ -1295,6 +1583,159 @@ export const poiExtraFrV2: POI[] = [
                         -3.26124,
                         47.3622
                   ]
+            },
+            {
+                  "name": "Plage naturiste",
+                  "text": "Dieser FKK-Strand befindet sich in Ile En Mer.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.147248,
+                        47.342841
+                  ]
+            },
+            {
+                  "name": "Plage de Yeyew",
+                  "text": "Plage de Yeyew ist ein Strand in Ile En Mer.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.18221,
+                        47.299405
+                  ]
+            },
+            {
+                  "name": "Port Guen",
+                  "text": "Port Guen ist ein Strand in Ile En Mer.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.147216,
+                        47.333422
+                  ]
+            },
+            {
+                  "name": "Plage de Ramonette",
+                  "text": "Plage de Ramonette ist ein Strand in Ile En Mer.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.149329,
+                        47.343456
+                  ]
+            },
+            {
+                  "name": "Plage du Gros Rocher",
+                  "text": "Plage du Gros Rocher ist ein Strand in Ile En Mer.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.124438,
+                        47.326381
+                  ]
+            },
+            {
+                  "name": "Plage d'Herlin",
+                  "text": "Plage d'Herlin ist ein Strand in Ile En Mer.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.168114,
+                        47.301656
+                  ]
+            },
+            {
+                  "name": "Port de Pouldon",
+                  "text": "Port de Pouldon ist ein Strand in Ile En Mer.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.138681,
+                        47.292817
+                  ]
+            },
+            {
+                  "name": "Plage de Dotchot",
+                  "text": "Plage de Dotchot ist ein Strand in Ile En Mer.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.174607,
+                        47.30171
+                  ]
+            },
+            {
+                  "name": "Port Jean",
+                  "text": "Port Jean ist ein Strand in Ile En Mer.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.190719,
+                        47.363593
+                  ]
+            },
+            {
+                  "name": "Plage de Castoul",
+                  "text": "Plage de Castoul ist ein Strand in Ile En Mer.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.156198,
+                        47.357176
+                  ]
+            },
+            {
+                  "name": "Port Saint-Julien",
+                  "text": "Port Saint-Julien ist ein Strand in Ile En Mer.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.156487,
+                        47.36091
+                  ]
+            },
+            {
+                  "name": "Plage de Port Fouquet",
+                  "text": "Plage de Port Fouquet ist ein Strand in Ile En Mer.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.172461,
+                        47.36008
+                  ]
+            },
+            {
+                  "name": "Plage de Baluden",
+                  "text": "Plage de Baluden ist ein Strand in Ile En Mer.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.166277,
+                        47.298973
+                  ]
+            },
+            {
+                  "name": "Plage de Kérel",
+                  "text": "Plage de Kérel ist ein Strand in Ile En Mer.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.198803,
+                        47.30042
+                  ]
+            },
+            {
+                  "name": "Crique Domois",
+                  "text": "Crique Domois ist ein Strand in Ile En Mer.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.223084,
+                        47.299654
+                  ]
+            },
+            {
+                  "name": "Port Goulphar",
+                  "text": "Port Goulphar ist ein malerischer Strand in Ile En Mer.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.227553,
+                        47.304042
+                  ]
+            },
+            {
+                  "name": "Plage de Vazen",
+                  "text": "Plage de Vazen ist ein wunderschöner Strand in Ile En Mer.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.238347,
+                        47.319151
+                  ]
             }
       ],
       "hu": [
@@ -1346,6 +1787,159 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         -3.26124,
                         47.3622
+                  ]
+            },
+            {
+                  "name": "Plage naturiste",
+                  "text": "Ez a naturista strand Ile En Mer-ben található.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.147248,
+                        47.342841
+                  ]
+            },
+            {
+                  "name": "Plage de Yeyew",
+                  "text": "A Plage de Yeyew egy strand Ile En Mer-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.18221,
+                        47.299405
+                  ]
+            },
+            {
+                  "name": "Port Guen",
+                  "text": "A Port Guen egy strand Ile En Mer-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.147216,
+                        47.333422
+                  ]
+            },
+            {
+                  "name": "Plage de Ramonette",
+                  "text": "A Plage de Ramonette egy strand Ile En Mer-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.149329,
+                        47.343456
+                  ]
+            },
+            {
+                  "name": "Plage du Gros Rocher",
+                  "text": "A Plage du Gros Rocher egy strand Ile En Mer-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.124438,
+                        47.326381
+                  ]
+            },
+            {
+                  "name": "Plage d'Herlin",
+                  "text": "A Plage d'Herlin egy strand Ile En Mer területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.168114,
+                        47.301656
+                  ]
+            },
+            {
+                  "name": "Port de Pouldon",
+                  "text": "A Port de Pouldon egy strand Ile En Mer területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.138681,
+                        47.292817
+                  ]
+            },
+            {
+                  "name": "Plage de Dotchot",
+                  "text": "A Plage de Dotchot egy strand Ile En Mer területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.174607,
+                        47.30171
+                  ]
+            },
+            {
+                  "name": "Port Jean",
+                  "text": "A Port Jean egy strand Ile En Mer területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.190719,
+                        47.363593
+                  ]
+            },
+            {
+                  "name": "Plage de Castoul",
+                  "text": "A Plage de Castoul egy strand Ile En Mer területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.156198,
+                        47.357176
+                  ]
+            },
+            {
+                  "name": "Port Saint-Julien",
+                  "text": "A Port Saint-Julien egy strand Ile En Mer területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.156487,
+                        47.36091
+                  ]
+            },
+            {
+                  "name": "Plage de Port Fouquet",
+                  "text": "A Plage de Port Fouquet egy strand Ile En Mer területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.172461,
+                        47.36008
+                  ]
+            },
+            {
+                  "name": "Plage de Baluden",
+                  "text": "A Plage de Baluden egy strand Ile En Mer területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.166277,
+                        47.298973
+                  ]
+            },
+            {
+                  "name": "Plage de Kérel",
+                  "text": "A Plage de Kérel egy strand Ile En Mer területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.198803,
+                        47.30042
+                  ]
+            },
+            {
+                  "name": "Crique Domois",
+                  "text": "A Crique Domois egy strand Ile En Mer területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.223084,
+                        47.299654
+                  ]
+            },
+            {
+                  "name": "Port Goulphar",
+                  "text": "A Port Goulphar egy festői strand Ile En Mer területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.227553,
+                        47.304042
+                  ]
+            },
+            {
+                  "name": "Plage de Vazen",
+                  "text": "A Plage de Vazen egy gyönyörű strand Ile En Mer városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.238347,
+                        47.319151
                   ]
             }
       ],
@@ -1399,6 +1993,159 @@ export const poiExtraFrV2: POI[] = [
                         -3.26124,
                         47.3622
                   ]
+            },
+            {
+                  "name": "Plage naturiste",
+                  "text": "Această plajă naturistă se află în Ile En Mer.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.147248,
+                        47.342841
+                  ]
+            },
+            {
+                  "name": "Plage de Yeyew",
+                  "text": "Plage de Yeyew este o plajă situată în Ile En Mer.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.18221,
+                        47.299405
+                  ]
+            },
+            {
+                  "name": "Port Guen",
+                  "text": "Port Guen este o plajă din Ile En Mer.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.147216,
+                        47.333422
+                  ]
+            },
+            {
+                  "name": "Plage de Ramonette",
+                  "text": "Plage de Ramonette este o plajă situată în Ile En Mer.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.149329,
+                        47.343456
+                  ]
+            },
+            {
+                  "name": "Plage du Gros Rocher",
+                  "text": "Plage du Gros Rocher este o plajă situată în Ile En Mer.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.124438,
+                        47.326381
+                  ]
+            },
+            {
+                  "name": "Plage d'Herlin",
+                  "text": "Plage d'Herlin este o plajă situată în Ile En Mer.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.168114,
+                        47.301656
+                  ]
+            },
+            {
+                  "name": "Port de Pouldon",
+                  "text": "Port de Pouldon este o plajă situată în Ile En Mer.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.138681,
+                        47.292817
+                  ]
+            },
+            {
+                  "name": "Plage de Dotchot",
+                  "text": "Plage de Dotchot este o plajă situată în Ile En Mer.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.174607,
+                        47.30171
+                  ]
+            },
+            {
+                  "name": "Port Jean",
+                  "text": "Port Jean este o plajă situată în Ile En Mer.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.190719,
+                        47.363593
+                  ]
+            },
+            {
+                  "name": "Plage de Castoul",
+                  "text": "Plage de Castoul este o plajă situată în Ile En Mer.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.156198,
+                        47.357176
+                  ]
+            },
+            {
+                  "name": "Port Saint-Julien",
+                  "text": "Port Saint-Julien este o plajă situată în Ile En Mer.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.156487,
+                        47.36091
+                  ]
+            },
+            {
+                  "name": "Plage de Port Fouquet",
+                  "text": "Plage de Port Fouquet este o plajă situată în Ile En Mer.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.172461,
+                        47.36008
+                  ]
+            },
+            {
+                  "name": "Plage de Baluden",
+                  "text": "Plage de Baluden este o plajă situată în Ile En Mer.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.166277,
+                        47.298973
+                  ]
+            },
+            {
+                  "name": "Plage de Kérel",
+                  "text": "Plage de Kérel este o plajă situată în Ile En Mer.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.198803,
+                        47.30042
+                  ]
+            },
+            {
+                  "name": "Crique Domois",
+                  "text": "Crique Domois este o plajă situată în Ile En Mer.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.223084,
+                        47.299654
+                  ]
+            },
+            {
+                  "name": "Port Goulphar",
+                  "text": "Port Goulphar este o plajă pitorească situată în Ile En Mer.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.227553,
+                        47.304042
+                  ]
+            },
+            {
+                  "name": "Plage de Vazen",
+                  "text": "Plage de Vazen este o plajă frumoasă în Ile En Mer.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.238347,
+                        47.319151
+                  ]
             }
       ],
       "en": [
@@ -1450,6 +2197,159 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         -3.26124,
                         47.3622
+                  ]
+            },
+            {
+                  "name": "Plage naturiste",
+                  "text": "This naturist beach is situated in Ile En Mer.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.147248,
+                        47.342841
+                  ]
+            },
+            {
+                  "name": "Plage de Yeyew",
+                  "text": "Plage de Yeyew is a beach located in Ile En Mer.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.18221,
+                        47.299405
+                  ]
+            },
+            {
+                  "name": "Port Guen",
+                  "text": "Port Guen is a beach in Ile En Mer.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.147216,
+                        47.333422
+                  ]
+            },
+            {
+                  "name": "Plage de Ramonette",
+                  "text": "Plage de Ramonette is a beach situated in Ile En Mer.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.149329,
+                        47.343456
+                  ]
+            },
+            {
+                  "name": "Plage du Gros Rocher",
+                  "text": "Plage du Gros Rocher is a beach located in Ile En Mer.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.124438,
+                        47.326381
+                  ]
+            },
+            {
+                  "name": "Plage d'Herlin",
+                  "text": "Plage d'Herlin is a beach located in Ile En Mer.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.168114,
+                        47.301656
+                  ]
+            },
+            {
+                  "name": "Port de Pouldon",
+                  "text": "Port de Pouldon is a beach located in Ile En Mer.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.138681,
+                        47.292817
+                  ]
+            },
+            {
+                  "name": "Plage de Dotchot",
+                  "text": "Plage de Dotchot is a beach located in Ile En Mer.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.174607,
+                        47.30171
+                  ]
+            },
+            {
+                  "name": "Port Jean",
+                  "text": "Port Jean is a beach located in Ile En Mer.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.190719,
+                        47.363593
+                  ]
+            },
+            {
+                  "name": "Plage de Castoul",
+                  "text": "Plage de Castoul is a beach located in Ile En Mer.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.156198,
+                        47.357176
+                  ]
+            },
+            {
+                  "name": "Port Saint-Julien",
+                  "text": "Port Saint-Julien is a beach located in Ile En Mer.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.156487,
+                        47.36091
+                  ]
+            },
+            {
+                  "name": "Plage de Port Fouquet",
+                  "text": "Plage de Port Fouquet is a beach located in Ile En Mer.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.172461,
+                        47.36008
+                  ]
+            },
+            {
+                  "name": "Plage de Baluden",
+                  "text": "Plage de Baluden is a beach located in Ile En Mer.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.166277,
+                        47.298973
+                  ]
+            },
+            {
+                  "name": "Plage de Kérel",
+                  "text": "Plage de Kérel is a beach located in Ile En Mer.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.198803,
+                        47.30042
+                  ]
+            },
+            {
+                  "name": "Crique Domois",
+                  "text": "Crique Domois is a beach located in Ile En Mer.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.223084,
+                        47.299654
+                  ]
+            },
+            {
+                  "name": "Port Goulphar",
+                  "text": "Port Goulphar is a scenic beach located in Ile En Mer.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.227553,
+                        47.304042
+                  ]
+            },
+            {
+                  "name": "Plage de Vazen",
+                  "text": "Plage de Vazen is a beautiful beach in Ile En Mer.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.238347,
+                        47.319151
                   ]
             }
       ]
@@ -1545,6 +2445,51 @@ export const poiExtraFrV2: POI[] = [
                         9.15713,
                         41.38842
                   ]
+            },
+            {
+                  "name": "Plage de Paragan",
+                  "text": "Plage de Paragan ist eine ruhige Strandbucht in Bonifacio.",
+                  "category": "recreational",
+                  "coords": [
+                        9.1334,
+                        41.39929
+                  ]
+            },
+            {
+                  "name": "Plage Saint Antoine (Pertusato)",
+                  "text": "Plage Saint Antoine (Pertusato) ist ein beeindruckender Strand in der Nähe der berühmten Kalksteinklippen von Bonifacio.",
+                  "category": "recreational",
+                  "coords": [
+                        9.182282,
+                        41.366782
+                  ]
+            },
+            {
+                  "name": "Sutta Rocca",
+                  "text": "Sutta Rocca ist ein Kieselstrand, der sich direkt unterhalb der historischen Stadt Bonifacio befindet.",
+                  "category": "recreational",
+                  "coords": [
+                        9.160881,
+                        41.386692
+                  ]
+            },
+            {
+                  "name": "Plage de la Lune",
+                  "text": "Plage de la Lune ist ein Strand an der Küste von Bonifacio.",
+                  "category": "recreational",
+                  "coords": [
+                        9.173878,
+                        41.378092
+                  ]
+            },
+            {
+                  "name": "Fazzio",
+                  "text": "Fazzio ist ein malerischer Strand in einer geschützten natürlichen Bucht in Bonifacio.",
+                  "category": "recreational",
+                  "coords": [
+                        9.137294,
+                        41.393473
+                  ]
             }
       ],
       "hu": [
@@ -1636,6 +2581,51 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         9.15713,
                         41.38842
+                  ]
+            },
+            {
+                  "name": "Plage de Paragan",
+                  "text": "A Plage de Paragan egy csendes tengerparti öböl Bonifacio városában.",
+                  "category": "recreational",
+                  "coords": [
+                        9.1334,
+                        41.39929
+                  ]
+            },
+            {
+                  "name": "Plage Saint Antoine (Pertusato)",
+                  "text": "A Plage Saint Antoine (Pertusato) egy lenyűgöző strand Bonifacio híres mészkősziklái közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        9.182282,
+                        41.366782
+                  ]
+            },
+            {
+                  "name": "Sutta Rocca",
+                  "text": "A Sutta Rocca egy kavicsos strand, amely közvetlenül Bonifacio történelmi városa alatt fekszik.",
+                  "category": "recreational",
+                  "coords": [
+                        9.160881,
+                        41.386692
+                  ]
+            },
+            {
+                  "name": "Plage de la Lune",
+                  "text": "A Plage de la Lune egy strand Bonifacio partvidékén.",
+                  "category": "recreational",
+                  "coords": [
+                        9.173878,
+                        41.378092
+                  ]
+            },
+            {
+                  "name": "Fazzio",
+                  "text": "A Fazzio egy festői strand egy védett természetes öbölben Bonifacio városában.",
+                  "category": "recreational",
+                  "coords": [
+                        9.137294,
+                        41.393473
                   ]
             }
       ],
@@ -1729,6 +2719,51 @@ export const poiExtraFrV2: POI[] = [
                         9.15713,
                         41.38842
                   ]
+            },
+            {
+                  "name": "Plage de Paragan",
+                  "text": "Plage de Paragan este un golf liniștit de plajă în Bonifacio.",
+                  "category": "recreational",
+                  "coords": [
+                        9.1334,
+                        41.39929
+                  ]
+            },
+            {
+                  "name": "Plage Saint Antoine (Pertusato)",
+                  "text": "Plage Saint Antoine (Pertusato) este o plajă impresionantă situată lângă faimoasele stânci de calcar din Bonifacio.",
+                  "category": "recreational",
+                  "coords": [
+                        9.182282,
+                        41.366782
+                  ]
+            },
+            {
+                  "name": "Sutta Rocca",
+                  "text": "Sutta Rocca este o plajă cu pietriș aflată direct sub orașul istoric Bonifacio.",
+                  "category": "recreational",
+                  "coords": [
+                        9.160881,
+                        41.386692
+                  ]
+            },
+            {
+                  "name": "Plage de la Lune",
+                  "text": "Plage de la Lune este o plajă situată pe coasta din Bonifacio.",
+                  "category": "recreational",
+                  "coords": [
+                        9.173878,
+                        41.378092
+                  ]
+            },
+            {
+                  "name": "Fazzio",
+                  "text": "Fazzio este o plajă pitorească aflată într-un golf natural protejat din Bonifacio.",
+                  "category": "recreational",
+                  "coords": [
+                        9.137294,
+                        41.393473
+                  ]
             }
       ],
       "en": [
@@ -1820,6 +2855,51 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         9.15713,
                         41.38842
+                  ]
+            },
+            {
+                  "name": "Plage de Paragan",
+                  "text": "Plage de Paragan is a quiet beach inlet located in Bonifacio.",
+                  "category": "recreational",
+                  "coords": [
+                        9.1334,
+                        41.39929
+                  ]
+            },
+            {
+                  "name": "Plage Saint Antoine (Pertusato)",
+                  "text": "Plage Saint Antoine (Pertusato) is an impressive beach situated near the famous limestone cliffs of Bonifacio.",
+                  "category": "recreational",
+                  "coords": [
+                        9.182282,
+                        41.366782
+                  ]
+            },
+            {
+                  "name": "Sutta Rocca",
+                  "text": "Sutta Rocca is a pebble beach located directly below the historic town of Bonifacio.",
+                  "category": "recreational",
+                  "coords": [
+                        9.160881,
+                        41.386692
+                  ]
+            },
+            {
+                  "name": "Plage de la Lune",
+                  "text": "Plage de la Lune is a beach located on the coast of Bonifacio.",
+                  "category": "recreational",
+                  "coords": [
+                        9.173878,
+                        41.378092
+                  ]
+            },
+            {
+                  "name": "Fazzio",
+                  "text": "Fazzio is a scenic beach hidden in a protected natural cove in Bonifacio.",
+                  "category": "recreational",
+                  "coords": [
+                        9.137294,
+                        41.393473
                   ]
             }
       ]
@@ -2195,6 +3275,60 @@ export const poiExtraFrV2: POI[] = [
                         -1.240686,
                         44.655946
                   ]
+            },
+            {
+                  "name": "Plage des Américains",
+                  "text": "Plage des Américains ist ein Strand in der Gegend von Ferret.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.239215,
+                        44.660273
+                  ]
+            },
+            {
+                  "name": "Grand Cohot",
+                  "text": "Grand Cohot ist ein Strandabschnitt in der Küstenstadt Ferret.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.259167,
+                        44.664154
+                  ]
+            },
+            {
+                  "name": "Plage de la Torchère",
+                  "text": "Plage de la Torchère ist ein Strand in Ferret.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.256621,
+                        44.675745
+                  ]
+            },
+            {
+                  "name": "Plage des Abatilles",
+                  "text": "Plage des Abatilles ist ein Strandziel im Ort Ferret.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.197649,
+                        44.651743
+                  ]
+            },
+            {
+                  "name": "Plage du Moulleau",
+                  "text": "Plage du Moulleau ist ein lokaler Strand in Ferret.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.202808,
+                        44.642208
+                  ]
+            },
+            {
+                  "name": "Plage de la Vigne",
+                  "text": "Plage de la Vigne ist ein Strandbereich in Ferret.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.238803,
+                        44.676285
+                  ]
             }
       ],
       "hu": [
@@ -2276,6 +3410,60 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         -1.240686,
                         44.655946
+                  ]
+            },
+            {
+                  "name": "Plage des Américains",
+                  "text": "A Plage des Américains egy strand Ferret környékén.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.239215,
+                        44.660273
+                  ]
+            },
+            {
+                  "name": "Grand Cohot",
+                  "text": "A Grand Cohot egy strandszakasz Ferret tengerparti városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.259167,
+                        44.664154
+                  ]
+            },
+            {
+                  "name": "Plage de la Torchère",
+                  "text": "A Plage de la Torchère egy strand Ferret-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.256621,
+                        44.675745
+                  ]
+            },
+            {
+                  "name": "Plage des Abatilles",
+                  "text": "A Plage des Abatilles egy tengerparti célpont Ferret településén.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.197649,
+                        44.651743
+                  ]
+            },
+            {
+                  "name": "Plage du Moulleau",
+                  "text": "A Plage du Moulleau egy helyi strand Ferret városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.202808,
+                        44.642208
+                  ]
+            },
+            {
+                  "name": "Plage de la Vigne",
+                  "text": "A Plage de la Vigne egy strand Ferret területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.238803,
+                        44.676285
                   ]
             }
       ],
@@ -2359,6 +3547,60 @@ export const poiExtraFrV2: POI[] = [
                         -1.240686,
                         44.655946
                   ]
+            },
+            {
+                  "name": "Plage des Américains",
+                  "text": "Plage des Américains este o plajă în zona Ferret.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.239215,
+                        44.660273
+                  ]
+            },
+            {
+                  "name": "Grand Cohot",
+                  "text": "Grand Cohot este o porțiune de plajă în orașul de coastă Ferret.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.259167,
+                        44.664154
+                  ]
+            },
+            {
+                  "name": "Plage de la Torchère",
+                  "text": "Plage de la Torchère este o plajă în Ferret.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.256621,
+                        44.675745
+                  ]
+            },
+            {
+                  "name": "Plage des Abatilles",
+                  "text": "Plage des Abatilles este o destinație de plajă din localitatea Ferret.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.197649,
+                        44.651743
+                  ]
+            },
+            {
+                  "name": "Plage du Moulleau",
+                  "text": "Plage du Moulleau este o plajă locală situată în Ferret.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.202808,
+                        44.642208
+                  ]
+            },
+            {
+                  "name": "Plage de la Vigne",
+                  "text": "Plage de la Vigne este o zonă de plajă din Ferret.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.238803,
+                        44.676285
+                  ]
             }
       ],
       "en": [
@@ -2440,6 +3682,60 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         -1.240686,
                         44.655946
+                  ]
+            },
+            {
+                  "name": "Plage des Américains",
+                  "text": "Plage des Américains is a beach in the area of Ferret.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.239215,
+                        44.660273
+                  ]
+            },
+            {
+                  "name": "Grand Cohot",
+                  "text": "Grand Cohot is a section of beach in the coastal town of Ferret.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.259167,
+                        44.664154
+                  ]
+            },
+            {
+                  "name": "Plage de la Torchère",
+                  "text": "Plage de la Torchère is a beach in Ferret.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.256621,
+                        44.675745
+                  ]
+            },
+            {
+                  "name": "Plage des Abatilles",
+                  "text": "Plage des Abatilles is a beach destination in the town of Ferret.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.197649,
+                        44.651743
+                  ]
+            },
+            {
+                  "name": "Plage du Moulleau",
+                  "text": "Plage du Moulleau is a local beach in Ferret.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.202808,
+                        44.642208
+                  ]
+            },
+            {
+                  "name": "Plage de la Vigne",
+                  "text": "Plage de la Vigne is a beach area located in Ferret.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.238803,
+                        44.676285
                   ]
             }
       ]
@@ -2765,6 +4061,42 @@ export const poiExtraFrV2: POI[] = [
                         8.617567,
                         42.133741
                   ]
+            },
+            {
+                  "name": "Plage du Peru",
+                  "text": "Plage du Peru ist ein bekannter Sandstrand in Cargese.",
+                  "category": "recreational",
+                  "coords": [
+                        8.591919,
+                        42.146088
+                  ]
+            },
+            {
+                  "name": "Menasina",
+                  "text": "Menasina ist ein malerischer Strand in Cargese.",
+                  "category": "recreational",
+                  "coords": [
+                        8.615317,
+                        42.13322
+                  ]
+            },
+            {
+                  "name": "Plage de Stagnoli",
+                  "text": "Plage de Stagnoli ist ein ruhiger Strand in Cargese.",
+                  "category": "recreational",
+                  "coords": [
+                        8.648049,
+                        42.119286
+                  ]
+            },
+            {
+                  "name": "Plage de Capizzolu",
+                  "text": "Plage de Capizzolu ist ein wunderschöner Küstenabschnitt in Cargese.",
+                  "category": "recreational",
+                  "coords": [
+                        8.635864,
+                        42.122835
+                  ]
             }
       ],
       "hu": [
@@ -2836,6 +4168,42 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         8.617567,
                         42.133741
+                  ]
+            },
+            {
+                  "name": "Plage du Peru",
+                  "text": "A Plage du Peru egy híres homokos strand Cargese-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        8.591919,
+                        42.146088
+                  ]
+            },
+            {
+                  "name": "Menasina",
+                  "text": "Menasina egy festői strand Cargese városában.",
+                  "category": "recreational",
+                  "coords": [
+                        8.615317,
+                        42.13322
+                  ]
+            },
+            {
+                  "name": "Plage de Stagnoli",
+                  "text": "A Plage de Stagnoli egy békés strand Cargese-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        8.648049,
+                        42.119286
+                  ]
+            },
+            {
+                  "name": "Plage de Capizzolu",
+                  "text": "A Plage de Capizzolu egy gyönyörű partszakasz Cargese-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        8.635864,
+                        42.122835
                   ]
             }
       ],
@@ -2909,6 +4277,42 @@ export const poiExtraFrV2: POI[] = [
                         8.617567,
                         42.133741
                   ]
+            },
+            {
+                  "name": "Plage du Peru",
+                  "text": "Plage du Peru este o plajă de nisip renumită situată în Cargese.",
+                  "category": "recreational",
+                  "coords": [
+                        8.591919,
+                        42.146088
+                  ]
+            },
+            {
+                  "name": "Menasina",
+                  "text": "Menasina este o plajă pitorească situată în Cargese.",
+                  "category": "recreational",
+                  "coords": [
+                        8.615317,
+                        42.13322
+                  ]
+            },
+            {
+                  "name": "Plage de Stagnoli",
+                  "text": "Plage de Stagnoli este o plajă liniștită în Cargese.",
+                  "category": "recreational",
+                  "coords": [
+                        8.648049,
+                        42.119286
+                  ]
+            },
+            {
+                  "name": "Plage de Capizzolu",
+                  "text": "Plage de Capizzolu este o porțiune frumoasă de coastă în Cargese.",
+                  "category": "recreational",
+                  "coords": [
+                        8.635864,
+                        42.122835
+                  ]
             }
       ],
       "en": [
@@ -2980,6 +4384,42 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         8.617567,
                         42.133741
+                  ]
+            },
+            {
+                  "name": "Plage du Peru",
+                  "text": "Plage du Peru is a renowned sandy beach located in Cargese.",
+                  "category": "recreational",
+                  "coords": [
+                        8.591919,
+                        42.146088
+                  ]
+            },
+            {
+                  "name": "Menasina",
+                  "text": "Menasina is a picturesque beach situated in Cargese.",
+                  "category": "recreational",
+                  "coords": [
+                        8.615317,
+                        42.13322
+                  ]
+            },
+            {
+                  "name": "Plage de Stagnoli",
+                  "text": "Plage de Stagnoli is a peaceful beach in Cargese.",
+                  "category": "recreational",
+                  "coords": [
+                        8.648049,
+                        42.119286
+                  ]
+            },
+            {
+                  "name": "Plage de Capizzolu",
+                  "text": "Plage de Capizzolu is a beautiful coastal stretch in Cargese.",
+                  "category": "recreational",
+                  "coords": [
+                        8.635864,
+                        42.122835
                   ]
             }
       ]
@@ -3065,6 +4505,267 @@ export const poiExtraFrV2: POI[] = [
                         -3.08533,
                         47.56661
                   ]
+            },
+            {
+                  "name": "crique Saint-Colomban sud",
+                  "text": "Crique Saint-Colomban sud ist eine abgeschiedene Bucht und ein Strandbereich in Carnac.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.097547,
+                        47.564717
+                  ]
+            },
+            {
+                  "name": "plage Le Mentor",
+                  "text": "Plage Le Mentor ist ein schöner Sandstrand, der Küstengenuss in Carnac bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.141869,
+                        47.581667
+                  ]
+            },
+            {
+                  "name": "plage du Mané Guen",
+                  "text": "Plage du Mané Guen ist ein Strand in der Küstenstadt Carnac.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.140066,
+                        47.576551
+                  ]
+            },
+            {
+                  "name": "Plage de Saint-Colomban",
+                  "text": "Plage de Saint-Colomban ist ein Sandstrand in der Gemeinde Carnac.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.098857,
+                        47.56762
+                  ]
+            },
+            {
+                  "name": "Plage de Port Biren",
+                  "text": "Plage de Port Biren ist ein malerischer Strand zur Entspannung in Carnac.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.02469,
+                        47.580464
+                  ]
+            },
+            {
+                  "name": "Plage de Kerbihan",
+                  "text": "Plage de Kerbihan ist ein Küstenstrand in der Stadt Carnac.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.022905,
+                        47.573912
+                  ]
+            },
+            {
+                  "name": "Plage de Kervillen",
+                  "text": "Plage de Kervillen ist ein beliebtes Strandziel in Carnac.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.030806,
+                        47.57284
+                  ]
+            },
+            {
+                  "name": "Plage du Men Du",
+                  "text": "Plage du Men Du ist ein schöner Strand im Küstenort Carnac.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.047768,
+                        47.576499
+                  ]
+            },
+            {
+                  "name": "Plage du Grazu",
+                  "text": "Plage du Grazu ist ein ruhiger Strandabschnitt in Carnac.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.019117,
+                        47.568246
+                  ]
+            },
+            {
+                  "name": "Petites Plages",
+                  "text": "Petites Plages bezieht sich auf kleinere Strandabschnitte in der Stadt Carnac.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.026674,
+                        47.582276
+                  ]
+            },
+            {
+                  "name": "Plage Ty Guard",
+                  "text": "Plage Ty Guard ist ein angenehmer Strand an der Küste von Carnac.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.020551,
+                        47.567667
+                  ]
+            },
+            {
+                  "name": "Plage de Men Allen",
+                  "text": "Plage de Men Allen ist ein malerischer Küstenabschnitt in Carnac.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.022426,
+                        47.578592
+                  ]
+            },
+            {
+                  "name": "Plage du Poulbert",
+                  "text": "Plage du Poulbert ist ein entspannender Sandstrand in der Stadt Carnac.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.039677,
+                        47.576623
+                  ]
+            },
+            {
+                  "name": "Plage des Sables Blancs",
+                  "text": "Plage des Sables Blancs ist ein Sandstrand an der Küste in Carnac.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.123203,
+                        47.564132
+                  ]
+            },
+            {
+                  "name": "Plage de Beaumer",
+                  "text": "Plage de Beaumer ist ein malerischer Strand in Carnac.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.053736,
+                        47.573885
+                  ]
+            },
+            {
+                  "name": "Plage de Sainte-Barbe",
+                  "text": "Plage de Sainte-Barbe ist ein Strandgebiet in Plouhinec.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.152668,
+                        47.598162
+                  ]
+            },
+            {
+                  "name": "Plage de Kerouriec",
+                  "text": "Plage de Kerouriec ist ein Küstenstrand in Plouhinec.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.188953,
+                        47.621028
+                  ]
+            },
+            {
+                  "name": "Plage naturiste de Kerminihy",
+                  "text": "Plage naturiste de Kerminihy ist ein Naturistenstrand in Plouhinec.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.198232,
+                        47.628858
+                  ]
+            },
+            {
+                  "name": "plage de Kerhillio",
+                  "text": "Plage de Kerhillio ist ein bekannter Strandabschnitt in Plouhinec.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.167531,
+                        47.610748
+                  ]
+            },
+            {
+                  "name": "Le stang",
+                  "text": "Le stang ist ein Strand in der Gemeinde Plouhinec.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.205099,
+                        47.649689
+                  ]
+            },
+            {
+                  "name": "Plage de Kerminihy",
+                  "text": "Plage de Kerminihy ist ein Küstenstrand in der Gemeinde Plouhinec.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.203972,
+                        47.63897
+                  ]
+            },
+            {
+                  "name": "Plage des Enfants",
+                  "text": "Plage des Enfants ist ein lokaler Strand für Besucher in Plouhinec.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.203731,
+                        47.654196
+                  ]
+            },
+            {
+                  "name": "Plage du Dré Hen",
+                  "text": "Plage du Dré Hen bietet Besuchern in Plouhinec einen Erholungsort am Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.175173,
+                        47.706941
+                  ]
+            },
+            {
+                  "name": "Plage du Magouero - surveillée",
+                  "text": "Plage du Magouero ist ein überwachter Strand, der in Plouhinec liegt.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.251918,
+                        47.666378
+                  ]
+            },
+            {
+                  "name": "Plage du Linés",
+                  "text": "Plage du Linés ist ein Naturstrand an der Küste von Plouhinec.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.284396,
+                        47.684117
+                  ]
+            },
+            {
+                  "name": "Plage de Kervégan",
+                  "text": "Besucher können die Küstenumgebung am Strand Plage de Kervégan in Plouhinec genießen.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.229556,
+                        47.653621
+                  ]
+            },
+            {
+                  "name": "Plage de Kerhilio",
+                  "text": "Plage de Kerhilio ist ein bekannter Strandabschnitt im Ort Plouhinec.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.166318,
+                        47.609851
+                  ]
+            },
+            {
+                  "name": "Plage de Porh-Kerhouet",
+                  "text": "Plage de Porh-Kerhouet ist eine lokale Strandattraktion in Plouhinec.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.173843,
+                        47.613735
+                  ]
+            },
+            {
+                  "name": "Plage de Porh Lineneu",
+                  "text": "Plage de Porh Lineneu ist ein ruhiger Strand zum Entspannen in Plouhinec.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.18272,
+                        47.616995
+                  ]
             }
       ],
       "hu": [
@@ -3146,6 +4847,267 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         -3.08533,
                         47.56661
+                  ]
+            },
+            {
+                  "name": "crique Saint-Colomban sud",
+                  "text": "A crique Saint-Colomban sud egy eldugott öböl és strand Carnac városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.097547,
+                        47.564717
+                  ]
+            },
+            {
+                  "name": "plage Le Mentor",
+                  "text": "A plage Le Mentor egy gyönyörű homokos strand, amely tengerparti kikapcsolódást nyújt Carnacban.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.141869,
+                        47.581667
+                  ]
+            },
+            {
+                  "name": "plage du Mané Guen",
+                  "text": "A Plage du Mané Guen egy tengerparti strand Carnac városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.140066,
+                        47.576551
+                  ]
+            },
+            {
+                  "name": "Plage de Saint-Colomban",
+                  "text": "A Plage de Saint-Colomban egy homokos strand Carnac településén.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.098857,
+                        47.56762
+                  ]
+            },
+            {
+                  "name": "Plage de Port Biren",
+                  "text": "A Plage de Port Biren egy festői strand Carnac városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.02469,
+                        47.580464
+                  ]
+            },
+            {
+                  "name": "Plage de Kerbihan",
+                  "text": "A Plage de Kerbihan egy tengerparti partszakasz Carnac városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.022905,
+                        47.573912
+                  ]
+            },
+            {
+                  "name": "Plage de Kervillen",
+                  "text": "A Plage de Kervillen egy népszerű strand Carnacban.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.030806,
+                        47.57284
+                  ]
+            },
+            {
+                  "name": "Plage du Men Du",
+                  "text": "A Plage du Men Du egy szép strand Carnac tengerparti üdülőhelyén.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.047768,
+                        47.576499
+                  ]
+            },
+            {
+                  "name": "Plage du Grazu",
+                  "text": "A Plage du Grazu egy nyugodt strandterület Carnacban.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.019117,
+                        47.568246
+                  ]
+            },
+            {
+                  "name": "Petites Plages",
+                  "text": "A Petites Plages kisebb strandszakaszokat jelöl Carnac városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.026674,
+                        47.582276
+                  ]
+            },
+            {
+                  "name": "Plage Ty Guard",
+                  "text": "A Plage Ty Guard egy kellemes strand Carnac partvidékén.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.020551,
+                        47.567667
+                  ]
+            },
+            {
+                  "name": "Plage de Men Allen",
+                  "text": "A Plage de Men Allen egy festői strandszakasz Carnacban.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.022426,
+                        47.578592
+                  ]
+            },
+            {
+                  "name": "Plage du Poulbert",
+                  "text": "A Plage du Poulbert egy pihentető homokos strand Carnac városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.039677,
+                        47.576623
+                  ]
+            },
+            {
+                  "name": "Plage des Sables Blancs",
+                  "text": "A Plage des Sables Blancs egy homokos strand Carnacban.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.123203,
+                        47.564132
+                  ]
+            },
+            {
+                  "name": "Plage de Beaumer",
+                  "text": "A Plage de Beaumer egy festői strand Carnac területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.053736,
+                        47.573885
+                  ]
+            },
+            {
+                  "name": "Plage de Sainte-Barbe",
+                  "text": "A Plage de Sainte-Barbe egy strand Plouhinec területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.152668,
+                        47.598162
+                  ]
+            },
+            {
+                  "name": "Plage de Kerouriec",
+                  "text": "A Plage de Kerouriec egy tengerparti strand Plouhinec városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.188953,
+                        47.621028
+                  ]
+            },
+            {
+                  "name": "Plage naturiste de Kerminihy",
+                  "text": "A Plage naturiste de Kerminihy egy naturista strand Plouhinec-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.198232,
+                        47.628858
+                  ]
+            },
+            {
+                  "name": "plage de Kerhillio",
+                  "text": "A plage de Kerhillio egy népszerű strand Plouhinec területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.167531,
+                        47.610748
+                  ]
+            },
+            {
+                  "name": "Le stang",
+                  "text": "A Le stang egy strandszakasz Plouhinec városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.205099,
+                        47.649689
+                  ]
+            },
+            {
+                  "name": "Plage de Kerminihy",
+                  "text": "A Plage de Kerminihy egy tengerparti strand Plouhinec községben.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.203972,
+                        47.63897
+                  ]
+            },
+            {
+                  "name": "Plage des Enfants",
+                  "text": "A Plage des Enfants egy helyi strand a látogatók számára Plouhinec városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.203731,
+                        47.654196
+                  ]
+            },
+            {
+                  "name": "Plage du Dré Hen",
+                  "text": "A Plage du Dré Hen tengerparti pihenőhelyet kínál a Plouhinecbe látogatóknak.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.175173,
+                        47.706941
+                  ]
+            },
+            {
+                  "name": "Plage du Magouero - surveillée",
+                  "text": "A Plage du Magouero egy felügyelt strand, amely Plouhinecben található.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.251918,
+                        47.666378
+                  ]
+            },
+            {
+                  "name": "Plage du Linés",
+                  "text": "A Plage du Linés egy természetes tengerpart Plouhinec partvidékén.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.284396,
+                        47.684117
+                  ]
+            },
+            {
+                  "name": "Plage de Kervégan",
+                  "text": "A látogatók élvezhetik a tengerparti környezetet a Plage de Kervégan strandon Plouhinecben.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.229556,
+                        47.653621
+                  ]
+            },
+            {
+                  "name": "Plage de Kerhilio",
+                  "text": "A Plage de Kerhilio egy ismert partszakasz Plouhinec településen.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.166318,
+                        47.609851
+                  ]
+            },
+            {
+                  "name": "Plage de Porh-Kerhouet",
+                  "text": "A Plage de Porh-Kerhouet egy helyi strandlátványosság Plouhinecben.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.173843,
+                        47.613735
+                  ]
+            },
+            {
+                  "name": "Plage de Porh Lineneu",
+                  "text": "A Plage de Porh Lineneu egy csendes strand a pihenésre Plouhinecben.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.18272,
+                        47.616995
                   ]
             }
       ],
@@ -3229,6 +5191,267 @@ export const poiExtraFrV2: POI[] = [
                         -3.08533,
                         47.56661
                   ]
+            },
+            {
+                  "name": "crique Saint-Colomban sud",
+                  "text": "Crique Saint-Colomban sud este un golf retras și o zonă de plajă situată în Carnac.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.097547,
+                        47.564717
+                  ]
+            },
+            {
+                  "name": "plage Le Mentor",
+                  "text": "Plage Le Mentor este o plajă frumoasă cu nisip care oferă bucurii de coastă în Carnac.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.141869,
+                        47.581667
+                  ]
+            },
+            {
+                  "name": "plage du Mané Guen",
+                  "text": "Plage du Mané Guen este o plajă situată în orașul de coastă Carnac.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.140066,
+                        47.576551
+                  ]
+            },
+            {
+                  "name": "Plage de Saint-Colomban",
+                  "text": "Plage de Saint-Colomban este o plajă cu nisip din localitatea Carnac.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.098857,
+                        47.56762
+                  ]
+            },
+            {
+                  "name": "Plage de Port Biren",
+                  "text": "Plage de Port Biren este o plajă pitorească din Carnac.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.02469,
+                        47.580464
+                  ]
+            },
+            {
+                  "name": "Plage de Kerbihan",
+                  "text": "Plage de Kerbihan este o zonă de plajă pe coasta orașului Carnac.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.022905,
+                        47.573912
+                  ]
+            },
+            {
+                  "name": "Plage de Kervillen",
+                  "text": "Plage de Kervillen este o destinație populară de plajă aflată în Carnac.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.030806,
+                        47.57284
+                  ]
+            },
+            {
+                  "name": "Plage du Men Du",
+                  "text": "Plage du Men Du este o plajă frumoasă situată în stațiunea de coastă Carnac.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.047768,
+                        47.576499
+                  ]
+            },
+            {
+                  "name": "Plage du Grazu",
+                  "text": "Plage du Grazu este o zonă liniștită de plajă situată în Carnac.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.019117,
+                        47.568246
+                  ]
+            },
+            {
+                  "name": "Petites Plages",
+                  "text": "Petites Plages reprezintă segmente mai mici de plajă din orașul Carnac.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.026674,
+                        47.582276
+                  ]
+            },
+            {
+                  "name": "Plage Ty Guard",
+                  "text": "Plage Ty Guard este o plajă plăcută situată pe coasta din Carnac.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.020551,
+                        47.567667
+                  ]
+            },
+            {
+                  "name": "Plage de Men Allen",
+                  "text": "Plage de Men Allen este o plajă cu peisaje deosebite din Carnac.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.022426,
+                        47.578592
+                  ]
+            },
+            {
+                  "name": "Plage du Poulbert",
+                  "text": "Plage du Poulbert este o plajă relaxantă cu nisip aflată în orașul Carnac.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.039677,
+                        47.576623
+                  ]
+            },
+            {
+                  "name": "Plage des Sables Blancs",
+                  "text": "Plage des Sables Blancs este o plajă cu nisip de-a lungul coastei din Carnac.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.123203,
+                        47.564132
+                  ]
+            },
+            {
+                  "name": "Plage de Beaumer",
+                  "text": "Plage de Beaumer este o plajă pitorească din Carnac.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.053736,
+                        47.573885
+                  ]
+            },
+            {
+                  "name": "Plage de Sainte-Barbe",
+                  "text": "Plage de Sainte-Barbe este o plajă situată în Plouhinec.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.152668,
+                        47.598162
+                  ]
+            },
+            {
+                  "name": "Plage de Kerouriec",
+                  "text": "Plage de Kerouriec este o plajă de coastă din Plouhinec.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.188953,
+                        47.621028
+                  ]
+            },
+            {
+                  "name": "Plage naturiste de Kerminihy",
+                  "text": "Plage naturiste de Kerminihy este o plajă pentru nudiști situată în Plouhinec.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.198232,
+                        47.628858
+                  ]
+            },
+            {
+                  "name": "plage de Kerhillio",
+                  "text": "Plage de Kerhillio este o zonă de plajă din Plouhinec.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.167531,
+                        47.610748
+                  ]
+            },
+            {
+                  "name": "Le stang",
+                  "text": "Le stang este o plajă în orașul Plouhinec.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.205099,
+                        47.649689
+                  ]
+            },
+            {
+                  "name": "Plage de Kerminihy",
+                  "text": "Plage de Kerminihy este o plajă de coastă situată în municipalitatea Plouhinec.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.203972,
+                        47.63897
+                  ]
+            },
+            {
+                  "name": "Plage des Enfants",
+                  "text": "Plage des Enfants este o plajă locală destinată vizitatorilor din Plouhinec.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.203731,
+                        47.654196
+                  ]
+            },
+            {
+                  "name": "Plage du Dré Hen",
+                  "text": "Plage du Dré Hen oferă un loc de recreere la malul mării vizitatorilor din Plouhinec.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.175173,
+                        47.706941
+                  ]
+            },
+            {
+                  "name": "Plage du Magouero - surveillée",
+                  "text": "Plage du Magouero este o plajă supravegheată situată în Plouhinec.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.251918,
+                        47.666378
+                  ]
+            },
+            {
+                  "name": "Plage du Linés",
+                  "text": "Plage du Linés este o plajă naturală pe coasta din Plouhinec.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.284396,
+                        47.684117
+                  ]
+            },
+            {
+                  "name": "Plage de Kervégan",
+                  "text": "Vizitatorii se pot bucura de mediul de coastă la plaja Plage de Kervégan din Plouhinec.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.229556,
+                        47.653621
+                  ]
+            },
+            {
+                  "name": "Plage de Kerhilio",
+                  "text": "Plage de Kerhilio este o întindere de plajă bine-cunoscută în orașul Plouhinec.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.166318,
+                        47.609851
+                  ]
+            },
+            {
+                  "name": "Plage de Porh-Kerhouet",
+                  "text": "Plage de Porh-Kerhouet este o atracție locală pe plajă în Plouhinec.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.173843,
+                        47.613735
+                  ]
+            },
+            {
+                  "name": "Plage de Porh Lineneu",
+                  "text": "Plage de Porh Lineneu este o plajă liniștită pentru relaxare în Plouhinec.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.18272,
+                        47.616995
+                  ]
             }
       ],
       "en": [
@@ -3310,6 +5533,267 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         -3.08533,
                         47.56661
+                  ]
+            },
+            {
+                  "name": "crique Saint-Colomban sud",
+                  "text": "Crique Saint-Colomban sud is a secluded cove and beach area located in Carnac.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.097547,
+                        47.564717
+                  ]
+            },
+            {
+                  "name": "plage Le Mentor",
+                  "text": "Plage Le Mentor is a beautiful sandy beach offering coastal enjoyment in Carnac.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.141869,
+                        47.581667
+                  ]
+            },
+            {
+                  "name": "plage du Mané Guen",
+                  "text": "Plage du Mané Guen is a beach located in the coastal town of Carnac.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.140066,
+                        47.576551
+                  ]
+            },
+            {
+                  "name": "Plage de Saint-Colomban",
+                  "text": "Plage de Saint-Colomban is a sandy beach situated in Carnac.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.098857,
+                        47.56762
+                  ]
+            },
+            {
+                  "name": "Plage de Port Biren",
+                  "text": "Plage de Port Biren is a picturesque beach offering seaside relaxation in Carnac.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.02469,
+                        47.580464
+                  ]
+            },
+            {
+                  "name": "Plage de Kerbihan",
+                  "text": "Plage de Kerbihan is a coastal beach area in the town of Carnac.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.022905,
+                        47.573912
+                  ]
+            },
+            {
+                  "name": "Plage de Kervillen",
+                  "text": "Plage de Kervillen is a popular beach destination found in Carnac.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.030806,
+                        47.57284
+                  ]
+            },
+            {
+                  "name": "Plage du Men Du",
+                  "text": "Plage du Men Du is a lovely beach located in the coastal resort of Carnac.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.047768,
+                        47.576499
+                  ]
+            },
+            {
+                  "name": "Plage du Grazu",
+                  "text": "Plage du Grazu is a tranquil beach area situated in Carnac.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.019117,
+                        47.568246
+                  ]
+            },
+            {
+                  "name": "Petites Plages",
+                  "text": "Petites Plages refers to smaller beach segments found in the town of Carnac.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.026674,
+                        47.582276
+                  ]
+            },
+            {
+                  "name": "Plage Ty Guard",
+                  "text": "Plage Ty Guard is a pleasant beach located on the coast of Carnac.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.020551,
+                        47.567667
+                  ]
+            },
+            {
+                  "name": "Plage de Men Allen",
+                  "text": "Plage de Men Allen is a scenic beach destination in Carnac.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.022426,
+                        47.578592
+                  ]
+            },
+            {
+                  "name": "Plage du Poulbert",
+                  "text": "Plage du Poulbert is a relaxing sandy beach found in the town of Carnac.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.039677,
+                        47.576623
+                  ]
+            },
+            {
+                  "name": "Plage des Sables Blancs",
+                  "text": "Plage des Sables Blancs is a sandy beach offering coastal views in Carnac.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.123203,
+                        47.564132
+                  ]
+            },
+            {
+                  "name": "Plage de Beaumer",
+                  "text": "Plage de Beaumer is a scenic beach situated in Carnac.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.053736,
+                        47.573885
+                  ]
+            },
+            {
+                  "name": "Plage de Sainte-Barbe",
+                  "text": "Plage de Sainte-Barbe is a beach situated in Plouhinec.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.152668,
+                        47.598162
+                  ]
+            },
+            {
+                  "name": "Plage de Kerouriec",
+                  "text": "Plage de Kerouriec is a coastal beach in Plouhinec.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.188953,
+                        47.621028
+                  ]
+            },
+            {
+                  "name": "Plage naturiste de Kerminihy",
+                  "text": "Plage naturiste de Kerminihy is a naturist beach located in Plouhinec.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.198232,
+                        47.628858
+                  ]
+            },
+            {
+                  "name": "plage de Kerhillio",
+                  "text": "Plage de Kerhillio is a beach destination in Plouhinec.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.167531,
+                        47.610748
+                  ]
+            },
+            {
+                  "name": "Le stang",
+                  "text": "Le stang is a beach area in the city of Plouhinec.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.205099,
+                        47.649689
+                  ]
+            },
+            {
+                  "name": "Plage de Kerminihy",
+                  "text": "Plage de Kerminihy is a coastal beach located in the municipality of Plouhinec.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.203972,
+                        47.63897
+                  ]
+            },
+            {
+                  "name": "Plage des Enfants",
+                  "text": "Plage des Enfants is a local beach destination situated in Plouhinec.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.203731,
+                        47.654196
+                  ]
+            },
+            {
+                  "name": "Plage du Dré Hen",
+                  "text": "Plage du Dré Hen offers a seaside recreation spot for visitors in Plouhinec.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.175173,
+                        47.706941
+                  ]
+            },
+            {
+                  "name": "Plage du Magouero - surveillée",
+                  "text": "Plage du Magouero is a supervised beach located in Plouhinec.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.251918,
+                        47.666378
+                  ]
+            },
+            {
+                  "name": "Plage du Linés",
+                  "text": "Plage du Linés is a natural beach situated along the coast of Plouhinec.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.284396,
+                        47.684117
+                  ]
+            },
+            {
+                  "name": "Plage de Kervégan",
+                  "text": "Visitors can enjoy the coastal environment at the Plage de Kervégan beach in Plouhinec.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.229556,
+                        47.653621
+                  ]
+            },
+            {
+                  "name": "Plage de Kerhilio",
+                  "text": "Plage de Kerhilio is a well-known stretch of beach in the town of Plouhinec.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.166318,
+                        47.609851
+                  ]
+            },
+            {
+                  "name": "Plage de Porh-Kerhouet",
+                  "text": "Plage de Porh-Kerhouet is a local beach attraction in Plouhinec.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.173843,
+                        47.613735
+                  ]
+            },
+            {
+                  "name": "Plage de Porh Lineneu",
+                  "text": "Plage de Porh Lineneu is a quiet beach for relaxation in Plouhinec.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.18272,
+                        47.616995
                   ]
             }
       ]
@@ -4595,6 +7079,24 @@ export const poiExtraFrV2: POI[] = [
                         0.207199,
                         49.71124
                   ]
+            },
+            {
+                  "name": "Le Tilleul - Antifer",
+                  "text": "Le Tilleul - Antifer ist ein Strand in der Nähe von Etretat. Er bietet eine malerische Küstenumgebung.",
+                  "category": "recreational",
+                  "coords": [
+                        0.178537,
+                        49.695841
+                  ]
+            },
+            {
+                  "name": "Plage du Fourquet",
+                  "text": "Plage du Fourquet ist ein Strandbereich in Etretat. Es ist ein Ort der Entspannung an der Küste.",
+                  "category": "recreational",
+                  "coords": [
+                        0.166808,
+                        49.688629
+                  ]
             }
       ],
       "hu": [
@@ -4676,6 +7178,24 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         0.207199,
                         49.71124
+                  ]
+            },
+            {
+                  "name": "Le Tilleul - Antifer",
+                  "text": "A Le Tilleul - Antifer egy tengerpart Etretat közelében. Festői tengerparti környezetet kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        0.178537,
+                        49.695841
+                  ]
+            },
+            {
+                  "name": "Plage du Fourquet",
+                  "text": "A Plage du Fourquet egy tengerparti terület Etretat városában. Ez egy hely a tengerparti kikapcsolódásra.",
+                  "category": "recreational",
+                  "coords": [
+                        0.166808,
+                        49.688629
                   ]
             }
       ],
@@ -4759,6 +7279,24 @@ export const poiExtraFrV2: POI[] = [
                         0.207199,
                         49.71124
                   ]
+            },
+            {
+                  "name": "Le Tilleul - Antifer",
+                  "text": "Le Tilleul - Antifer este o plajă situată în apropiere de Etretat. Oferă un mediu de coastă pitoresc.",
+                  "category": "recreational",
+                  "coords": [
+                        0.178537,
+                        49.695841
+                  ]
+            },
+            {
+                  "name": "Plage du Fourquet",
+                  "text": "Plage du Fourquet este o zonă de plajă situată în Etretat. Este un loc pentru relaxare pe coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        0.166808,
+                        49.688629
+                  ]
             }
       ],
       "en": [
@@ -4841,6 +7379,24 @@ export const poiExtraFrV2: POI[] = [
                         0.207199,
                         49.71124
                   ]
+            },
+            {
+                  "name": "Le Tilleul - Antifer",
+                  "text": "Le Tilleul - Antifer is a beach located near Etretat. It offers a scenic coastal environment.",
+                  "category": "recreational",
+                  "coords": [
+                        0.178537,
+                        49.695841
+                  ]
+            },
+            {
+                  "name": "Plage du Fourquet",
+                  "text": "Plage du Fourquet is a beach area situated in Etretat. It is a place for coastal relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        0.166808,
+                        49.688629
+                  ]
             }
       ]
 }},
@@ -4905,6 +7461,69 @@ export const poiExtraFrV2: POI[] = [
                         7.36667,
                         43.7389
                   ]
+            },
+            {
+                  "name": "plage naturiste",
+                  "text": "Dies ist ein FKK-Strand in Eze.",
+                  "category": "recreational",
+                  "coords": [
+                        7.361529,
+                        43.722214
+                  ]
+            },
+            {
+                  "name": "Plage de la Mala",
+                  "text": "Plage de la Mala ist ein beliebter Strand in Eze.",
+                  "category": "recreational",
+                  "coords": [
+                        7.390088,
+                        43.722384
+                  ]
+            },
+            {
+                  "name": "Plage Marquet",
+                  "text": "Plage Marquet ist ein entspannender Strand in Eze.",
+                  "category": "recreational",
+                  "coords": [
+                        7.411928,
+                        43.724175
+                  ]
+            },
+            {
+                  "name": "Plage naturiste des Pissarelles",
+                  "text": "Plage naturiste des Pissarelles ist ein FKK-Strand in Eze.",
+                  "category": "recreational",
+                  "coords": [
+                        7.38399,
+                        43.722955
+                  ]
+            },
+            {
+                  "name": "Plage de Saint-Laurent d'Èze",
+                  "text": "Plage de Saint-Laurent d'Èze ist ein ruhiger Strand in Eze.",
+                  "category": "recreational",
+                  "coords": [
+                        7.381343,
+                        43.722254
+                  ]
+            },
+            {
+                  "name": "Plage Pointe des Douaniers (Est)",
+                  "text": "Plage Pointe des Douaniers (Est) ist ein östlicher Strandbereich in Eze.",
+                  "category": "recreational",
+                  "coords": [
+                        7.405621,
+                        43.719673
+                  ]
+            },
+            {
+                  "name": "Plage Pointe des Douaniers (Ouest)",
+                  "text": "Plage Pointe des Douaniers (Ouest) ist ein westlicher Strandabschnitt in Eze.",
+                  "category": "recreational",
+                  "coords": [
+                        7.404412,
+                        43.720018
+                  ]
             }
       ],
       "hu": [
@@ -4966,6 +7585,69 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         7.36667,
                         43.7389
+                  ]
+            },
+            {
+                  "name": "plage naturiste",
+                  "text": "Ez egy naturista strand Eze területén.",
+                  "category": "recreational",
+                  "coords": [
+                        7.361529,
+                        43.722214
+                  ]
+            },
+            {
+                  "name": "Plage de la Mala",
+                  "text": "A Plage de la Mala egy népszerű strand Eze-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        7.390088,
+                        43.722384
+                  ]
+            },
+            {
+                  "name": "Plage Marquet",
+                  "text": "A Plage Marquet egy pihentető strand Eze városában.",
+                  "category": "recreational",
+                  "coords": [
+                        7.411928,
+                        43.724175
+                  ]
+            },
+            {
+                  "name": "Plage naturiste des Pissarelles",
+                  "text": "A Plage naturiste des Pissarelles egy naturista strand Eze-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        7.38399,
+                        43.722955
+                  ]
+            },
+            {
+                  "name": "Plage de Saint-Laurent d'Èze",
+                  "text": "A Plage de Saint-Laurent d'Èze egy csendes strand Eze-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        7.381343,
+                        43.722254
+                  ]
+            },
+            {
+                  "name": "Plage Pointe des Douaniers (Est)",
+                  "text": "A Plage Pointe des Douaniers (Est) egy keleti strand Eze-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        7.405621,
+                        43.719673
+                  ]
+            },
+            {
+                  "name": "Plage Pointe des Douaniers (Ouest)",
+                  "text": "A Plage Pointe des Douaniers (Ouest) egy nyugati strand Eze-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        7.404412,
+                        43.720018
                   ]
             }
       ],
@@ -5029,6 +7711,69 @@ export const poiExtraFrV2: POI[] = [
                         7.36667,
                         43.7389
                   ]
+            },
+            {
+                  "name": "plage naturiste",
+                  "text": "Aceasta este o plajă de nudiști situată în Eze.",
+                  "category": "recreational",
+                  "coords": [
+                        7.361529,
+                        43.722214
+                  ]
+            },
+            {
+                  "name": "Plage de la Mala",
+                  "text": "Plage de la Mala este o plajă populară situată în Eze.",
+                  "category": "recreational",
+                  "coords": [
+                        7.390088,
+                        43.722384
+                  ]
+            },
+            {
+                  "name": "Plage Marquet",
+                  "text": "Plage Marquet este o plajă relaxantă situată în Eze.",
+                  "category": "recreational",
+                  "coords": [
+                        7.411928,
+                        43.724175
+                  ]
+            },
+            {
+                  "name": "Plage naturiste des Pissarelles",
+                  "text": "Plage naturiste des Pissarelles este o plajă de nudiști situată în Eze.",
+                  "category": "recreational",
+                  "coords": [
+                        7.38399,
+                        43.722955
+                  ]
+            },
+            {
+                  "name": "Plage de Saint-Laurent d'Èze",
+                  "text": "Plage de Saint-Laurent d'Èze este o plajă liniștită în Eze.",
+                  "category": "recreational",
+                  "coords": [
+                        7.381343,
+                        43.722254
+                  ]
+            },
+            {
+                  "name": "Plage Pointe des Douaniers (Est)",
+                  "text": "Plage Pointe des Douaniers (Est) este o zonă de plajă estică din Eze.",
+                  "category": "recreational",
+                  "coords": [
+                        7.405621,
+                        43.719673
+                  ]
+            },
+            {
+                  "name": "Plage Pointe des Douaniers (Ouest)",
+                  "text": "Plage Pointe des Douaniers (Ouest) este o secțiune vestică de plajă în Eze.",
+                  "category": "recreational",
+                  "coords": [
+                        7.404412,
+                        43.720018
+                  ]
             }
       ],
       "en": [
@@ -5090,6 +7835,69 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         7.36667,
                         43.7389
+                  ]
+            },
+            {
+                  "name": "plage naturiste",
+                  "text": "This is a naturist beach located in Eze.",
+                  "category": "recreational",
+                  "coords": [
+                        7.361529,
+                        43.722214
+                  ]
+            },
+            {
+                  "name": "Plage de la Mala",
+                  "text": "Plage de la Mala is a popular beach situated in Eze.",
+                  "category": "recreational",
+                  "coords": [
+                        7.390088,
+                        43.722384
+                  ]
+            },
+            {
+                  "name": "Plage Marquet",
+                  "text": "Plage Marquet is a relaxing beach located in Eze.",
+                  "category": "recreational",
+                  "coords": [
+                        7.411928,
+                        43.724175
+                  ]
+            },
+            {
+                  "name": "Plage naturiste des Pissarelles",
+                  "text": "Plage naturiste des Pissarelles is a naturist beach located in Eze.",
+                  "category": "recreational",
+                  "coords": [
+                        7.38399,
+                        43.722955
+                  ]
+            },
+            {
+                  "name": "Plage de Saint-Laurent d'Èze",
+                  "text": "Plage de Saint-Laurent d'Èze is a tranquil beach in Eze.",
+                  "category": "recreational",
+                  "coords": [
+                        7.381343,
+                        43.722254
+                  ]
+            },
+            {
+                  "name": "Plage Pointe des Douaniers (Est)",
+                  "text": "Plage Pointe des Douaniers (Est) is an eastern beach area in Eze.",
+                  "category": "recreational",
+                  "coords": [
+                        7.405621,
+                        43.719673
+                  ]
+            },
+            {
+                  "name": "Plage Pointe des Douaniers (Ouest)",
+                  "text": "Plage Pointe des Douaniers (Ouest) is a western beach section in Eze.",
+                  "category": "recreational",
+                  "coords": [
+                        7.404412,
+                        43.720018
                   ]
             }
       ]
@@ -6525,6 +9333,96 @@ export const poiExtraFrV2: POI[] = [
                         -1.426451,
                         43.658862
                   ]
+            },
+            {
+                  "name": "Plage de Notre-Dame",
+                  "text": "Plage de Notre-Dame ist ein malerischer Strand in Hossegor.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.446018,
+                        43.65739
+                  ]
+            },
+            {
+                  "name": "Plage des Estagnots",
+                  "text": "Plage des Estagnots ist ein beliebter Surfstrand in Hossegor.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.440697,
+                        43.687311
+                  ]
+            },
+            {
+                  "name": "Plage des Culs Nus",
+                  "text": "Plage des Culs Nus ist ein bekannter Strand in Hossegor, der oft auch von Naturisten besucht wird.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.440821,
+                        43.679855
+                  ]
+            },
+            {
+                  "name": "Plage du Boîteux",
+                  "text": "Plage du Boîteux ist ein Strandbereich in Hossegor.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.441418,
+                        43.67657
+                  ]
+            },
+            {
+                  "name": "Plage du Penon",
+                  "text": "Plage du Penon ist ein Strand in der Küstengegend von Hossegor.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.436636,
+                        43.709384
+                  ]
+            },
+            {
+                  "name": "Plage du Parc",
+                  "text": "Plage du Parc ist ein entspannender Strand in Hossegor.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.428325,
+                        43.662204
+                  ]
+            },
+            {
+                  "name": "Plage du Rey",
+                  "text": "Plage du Rey ist ein Strand in Hossegor.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.42778,
+                        43.679104
+                  ]
+            },
+            {
+                  "name": "Plage Sud (Point d'Or)",
+                  "text": "Plage Sud (Point d'Or) ist ein südlicher Strandbereich in Hossegor.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.444833,
+                        43.660069
+                  ]
+            },
+            {
+                  "name": "Plage des Chènes Lièges",
+                  "text": "Plage des Chènes Lièges ist ein nach Korkeichen benannter Strand in Hossegor.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.43112,
+                        43.664617
+                  ]
+            },
+            {
+                  "name": "La plage Blanche",
+                  "text": "La plage Blanche ist ein Strand in Hossegor.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.431146,
+                        43.667487
+                  ]
             }
       ],
       "hu": [
@@ -6586,6 +9484,96 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         -1.426451,
                         43.658862
+                  ]
+            },
+            {
+                  "name": "Plage de Notre-Dame",
+                  "text": "A Plage de Notre-Dame egy festői strand Hossegorban.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.446018,
+                        43.65739
+                  ]
+            },
+            {
+                  "name": "Plage des Estagnots",
+                  "text": "A Plage des Estagnots egy népszerű szörfstrand Hossegorban.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.440697,
+                        43.687311
+                  ]
+            },
+            {
+                  "name": "Plage des Culs Nus",
+                  "text": "A Plage des Culs Nus egy nevezetes strand Hossegorban, amely szörfözésről és naturizmusról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.440821,
+                        43.679855
+                  ]
+            },
+            {
+                  "name": "Plage du Boîteux",
+                  "text": "A Plage du Boîteux egy strand terület Hossegorban.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.441418,
+                        43.67657
+                  ]
+            },
+            {
+                  "name": "Plage du Penon",
+                  "text": "A Plage du Penon egy tengerparti szakasz Hossegorban.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.436636,
+                        43.709384
+                  ]
+            },
+            {
+                  "name": "Plage du Parc",
+                  "text": "A Plage du Parc egy pihentető strand Hossegorban.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.428325,
+                        43.662204
+                  ]
+            },
+            {
+                  "name": "Plage du Rey",
+                  "text": "A Plage du Rey egy strand Hossegor városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.42778,
+                        43.679104
+                  ]
+            },
+            {
+                  "name": "Plage Sud (Point d'Or)",
+                  "text": "A Plage Sud (Point d'Or) egy déli fekvésű strand Hossegorban.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.444833,
+                        43.660069
+                  ]
+            },
+            {
+                  "name": "Plage des Chènes Lièges",
+                  "text": "A Plage des Chènes Lièges egy paratölgyekről elnevezett strand Hossegorban.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.43112,
+                        43.664617
+                  ]
+            },
+            {
+                  "name": "La plage Blanche",
+                  "text": "A La plage Blanche egy strand Hossegor városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.431146,
+                        43.667487
                   ]
             }
       ],
@@ -6649,6 +9637,96 @@ export const poiExtraFrV2: POI[] = [
                         -1.426451,
                         43.658862
                   ]
+            },
+            {
+                  "name": "Plage de Notre-Dame",
+                  "text": "Plage de Notre-Dame este o plajă pitorească situată în Hossegor.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.446018,
+                        43.65739
+                  ]
+            },
+            {
+                  "name": "Plage des Estagnots",
+                  "text": "Plage des Estagnots este o plajă populară pentru surf din Hossegor.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.440697,
+                        43.687311
+                  ]
+            },
+            {
+                  "name": "Plage des Culs Nus",
+                  "text": "Plage des Culs Nus este o plajă notabilă în Hossegor, recunoscută pentru surfing și naturism.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.440821,
+                        43.679855
+                  ]
+            },
+            {
+                  "name": "Plage du Boîteux",
+                  "text": "Plage du Boîteux este o zonă de plajă situată în Hossegor.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.441418,
+                        43.67657
+                  ]
+            },
+            {
+                  "name": "Plage du Penon",
+                  "text": "Plage du Penon este o plajă situată în zona de coastă din Hossegor.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.436636,
+                        43.709384
+                  ]
+            },
+            {
+                  "name": "Plage du Parc",
+                  "text": "Plage du Parc este o plajă relaxantă situată în Hossegor.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.428325,
+                        43.662204
+                  ]
+            },
+            {
+                  "name": "Plage du Rey",
+                  "text": "Plage du Rey este o destinație de plajă situată în Hossegor.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.42778,
+                        43.679104
+                  ]
+            },
+            {
+                  "name": "Plage Sud (Point d'Or)",
+                  "text": "Plage Sud (Point d'Or) este o zonă de plajă sudică în Hossegor.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.444833,
+                        43.660069
+                  ]
+            },
+            {
+                  "name": "Plage des Chènes Lièges",
+                  "text": "Plage des Chènes Lièges este o plajă din Hossegor denumită după stejarii de plută.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.43112,
+                        43.664617
+                  ]
+            },
+            {
+                  "name": "La plage Blanche",
+                  "text": "La plage Blanche este o plajă situată în Hossegor.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.431146,
+                        43.667487
+                  ]
             }
       ],
       "en": [
@@ -6711,6 +9789,96 @@ export const poiExtraFrV2: POI[] = [
                         -1.426451,
                         43.658862
                   ]
+            },
+            {
+                  "name": "Plage de Notre-Dame",
+                  "text": "Plage de Notre-Dame is a scenic beach situated in Hossegor.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.446018,
+                        43.65739
+                  ]
+            },
+            {
+                  "name": "Plage des Estagnots",
+                  "text": "Plage des Estagnots is a popular surfing beach located in Hossegor.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.440697,
+                        43.687311
+                  ]
+            },
+            {
+                  "name": "Plage des Culs Nus",
+                  "text": "Plage des Culs Nus is a notable beach in Hossegor, well known for surfing and naturism.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.440821,
+                        43.679855
+                  ]
+            },
+            {
+                  "name": "Plage du Boîteux",
+                  "text": "Plage du Boîteux is a beach area located in Hossegor.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.441418,
+                        43.67657
+                  ]
+            },
+            {
+                  "name": "Plage du Penon",
+                  "text": "Plage du Penon is a beach located in the coastal area of Hossegor.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.436636,
+                        43.709384
+                  ]
+            },
+            {
+                  "name": "Plage du Parc",
+                  "text": "Plage du Parc is a relaxing beach located in Hossegor.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.428325,
+                        43.662204
+                  ]
+            },
+            {
+                  "name": "Plage du Rey",
+                  "text": "Plage du Rey is a beach destination situated in Hossegor.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.42778,
+                        43.679104
+                  ]
+            },
+            {
+                  "name": "Plage Sud (Point d'Or)",
+                  "text": "Plage Sud (Point d'Or) is a southern beach area in Hossegor.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.444833,
+                        43.660069
+                  ]
+            },
+            {
+                  "name": "Plage des Chènes Lièges",
+                  "text": "Plage des Chènes Lièges is a beach in Hossegor named after cork oak trees.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.43112,
+                        43.664617
+                  ]
+            },
+            {
+                  "name": "La plage Blanche",
+                  "text": "La plage Blanche is a beach located in Hossegor.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.431146,
+                        43.667487
+                  ]
             }
       ]
 }},
@@ -6755,6 +9923,330 @@ export const poiExtraFrV2: POI[] = [
                         -1.458354,
                         46.220571
                   ]
+            },
+            {
+                  "name": "Les Golandières",
+                  "text": "Les Golandières ist ein Strand mit Küstenblick in De Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.394935,
+                        46.178064
+                  ]
+            },
+            {
+                  "name": "Bidons V",
+                  "text": "Bidons V ist ein Strand in De Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.397251,
+                        46.178859
+                  ]
+            },
+            {
+                  "name": "Plage naturiste du Peu Bernard",
+                  "text": "Plage naturiste du Peu Bernard ist ein FKK-Strand in De Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.417392,
+                        46.186332
+                  ]
+            },
+            {
+                  "name": "La Cible",
+                  "text": "La Cible ist ein Strandbereich in De Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.354494,
+                        46.204807
+                  ]
+            },
+            {
+                  "name": "Plage des Prises",
+                  "text": "Plage des Prises ist ein Strandziel in De Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.452005,
+                        46.198438
+                  ]
+            },
+            {
+                  "name": "Plage du Peu Ragot",
+                  "text": "Plage du Peu Ragot ist ein Sandstrand in De Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.436822,
+                        46.192293
+                  ]
+            },
+            {
+                  "name": "Plage des Gollandières",
+                  "text": "Plage des Gollandières ist ein Strand in De Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.403161,
+                        46.180381
+                  ]
+            },
+            {
+                  "name": "Plage de Gros Jonc",
+                  "text": "Plage de Gros Jonc ist ein Strand in De Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.373231,
+                        46.167486
+                  ]
+            },
+            {
+                  "name": "Plage du Moulin Brûlé",
+                  "text": "Plage du Moulin Brûlé ist ein Strand in De Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.466565,
+                        46.202748
+                  ]
+            },
+            {
+                  "name": "Plage du Grouin",
+                  "text": "Plage du Grouin ist ein Strand in De Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.413643,
+                        46.227147
+                  ]
+            },
+            {
+                  "name": "Plage du Peu des Hommes",
+                  "text": "Plage du Peu des Hommes ist ein Strand in De Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.428794,
+                        46.189232
+                  ]
+            },
+            {
+                  "name": "Plage de la Pergola",
+                  "text": "Plage de la Pergola ist ein Strand in De Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.43223,
+                        46.189883
+                  ]
+            },
+            {
+                  "name": "Plage des Follies",
+                  "text": "Plage des Follies ist ein Strand in De Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.420138,
+                        46.187099
+                  ]
+            },
+            {
+                  "name": "Plage des Anneries",
+                  "text": "Plage des Anneries ist ein Strand in De Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.424435,
+                        46.18806
+                  ]
+            },
+            {
+                  "name": "Plage de la Tonille",
+                  "text": "Plage de la Tonille ist ein Strand in De Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.418056,
+                        46.224952
+                  ]
+            },
+            {
+                  "name": "Plage du Petit Sergent",
+                  "text": "Plage du Petit Sergent ist ein Strand in De Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.382652,
+                        46.172617
+                  ]
+            },
+            {
+                  "name": "Plage du Boutillon",
+                  "text": "Plage du Boutillon ist ein Strand in Les Portes En Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.473752,
+                        46.202449
+                  ]
+            },
+            {
+                  "name": "Plage de la Grange",
+                  "text": "Plage de la Grange ist ein Strand in Les Portes En Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.529554,
+                        46.201459
+                  ]
+            },
+            {
+                  "name": "Plage de la Marielle",
+                  "text": "Plage de la Marielle ist ein Strand in Les Portes En Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.514285,
+                        46.19712
+                  ]
+            },
+            {
+                  "name": "Plage du Lizay",
+                  "text": "Plage du Lizay ist ein Strand in Les Portes En Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.515018,
+                        46.256637
+                  ]
+            },
+            {
+                  "name": "Plage de la Redoute",
+                  "text": "Plage de la Redoute ist ein Strand in Les Portes En Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.484909,
+                        46.248708
+                  ]
+            },
+            {
+                  "name": "Plage de la Loge",
+                  "text": "Plage de la Loge ist ein Strand in Les Portes En Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.481513,
+                        46.245853
+                  ]
+            },
+            {
+                  "name": "Plage de Trousse Chemise",
+                  "text": "Plage de Trousse Chemise ist ein Strand in Les Portes En Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.475688,
+                        46.235289
+                  ]
+            },
+            {
+                  "name": "Plage du Martray",
+                  "text": "Plage du Martray ist ein Strand in Les Portes En Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.491387,
+                        46.19775
+                  ]
+            },
+            {
+                  "name": "Plage de l'Anse du Fourneau",
+                  "text": "Plage de l'Anse du Fourneau ist ein Strand in Les Portes En Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.479352,
+                        46.240533
+                  ]
+            },
+            {
+                  "name": "Plage de la Saucière",
+                  "text": "Plage de la Saucière ist ein Strand in Les Portes En Re, der sich für einen Spaziergang an der Küste eignet.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.506699,
+                        46.257403
+                  ]
+            },
+            {
+                  "name": "La Patache",
+                  "text": "La Patache ist ein Strand in Les Portes En Re, der eine ruhige Umgebung am Wasser bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.4772,
+                        46.231271
+                  ]
+            },
+            {
+                  "name": "Plage de Radia",
+                  "text": "Plage de Radia ist ein lokaler Strand in Les Portes En Re, der zum Entspannen am Meer einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.54058,
+                        46.21381
+                  ]
+            },
+            {
+                  "name": "Plage de la Pointe de Grignon",
+                  "text": "Plage de la Pointe de Grignon ist ein Strandabschnitt in Les Portes En Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.53563,
+                        46.204462
+                  ]
+            },
+            {
+                  "name": "Plage du Canot de Sauvetage",
+                  "text": "Plage du Canot de Sauvetage ist ein Strand in Les Portes En Re für Erholungssuchende.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.560101,
+                        46.238719
+                  ]
+            },
+            {
+                  "name": "Plage du Petit Bec",
+                  "text": "Plage du Petit Bec ist ein Strand in Les Portes En Re, der sich ideal für einen Aufenthalt am Wasser eignet.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.523263,
+                        46.252399
+                  ]
+            },
+            {
+                  "name": "Plage de la Conche des Baleines",
+                  "text": "Plage de la Conche des Baleines ist ein weitläufiger Strand in Les Portes En Re auf der Île de Ré.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.540398,
+                        46.246427
+                  ]
+            },
+            {
+                  "name": "Plage du Grand Marchais",
+                  "text": "Plage du Grand Marchais ist ein Strand in Les Portes En Re, der zum Verweilen einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.495922,
+                        46.25639
+                  ]
+            },
+            {
+                  "name": "Plage Gros Jonc",
+                  "text": "Plage Gros Jonc ist ein Strandbereich in Les Portes En Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.488299,
+                        46.252035
+                  ]
+            },
+            {
+                  "name": "Plage Lauzin",
+                  "text": "Plage Lauzin ist ein Strand in Les Portes En Re, der sich für Küstenbesuche anbietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.491391,
+                        46.254185
+                  ]
+            },
+            {
+                  "name": "Plage des Cytons",
+                  "text": "Plage des Cytons ist ein Küstenabschnitt in Les Portes En Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.488251,
+                        46.250711
+                  ]
             }
       ],
       "hu": [
@@ -6796,6 +10288,330 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         -1.458354,
                         46.220571
+                  ]
+            },
+            {
+                  "name": "Les Golandières",
+                  "text": "A Les Golandières egy tengerparti kilátást nyújtó strand De Re-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.394935,
+                        46.178064
+                  ]
+            },
+            {
+                  "name": "Bidons V",
+                  "text": "A Bidons V egy strand De Re-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.397251,
+                        46.178859
+                  ]
+            },
+            {
+                  "name": "Plage naturiste du Peu Bernard",
+                  "text": "A Plage naturiste du Peu Bernard egy naturista strand De Re-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.417392,
+                        46.186332
+                  ]
+            },
+            {
+                  "name": "La Cible",
+                  "text": "A La Cible egy strandszakasz De Re-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.354494,
+                        46.204807
+                  ]
+            },
+            {
+                  "name": "Plage des Prises",
+                  "text": "A Plage des Prises egy strand De Re-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.452005,
+                        46.198438
+                  ]
+            },
+            {
+                  "name": "Plage du Peu Ragot",
+                  "text": "A Plage du Peu Ragot egy homokos strand De Re-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.436822,
+                        46.192293
+                  ]
+            },
+            {
+                  "name": "Plage des Gollandières",
+                  "text": "A Plage des Gollandières egy strand De Re területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.403161,
+                        46.180381
+                  ]
+            },
+            {
+                  "name": "Plage de Gros Jonc",
+                  "text": "A Plage de Gros Jonc egy strand De Re területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.373231,
+                        46.167486
+                  ]
+            },
+            {
+                  "name": "Plage du Moulin Brûlé",
+                  "text": "A Plage du Moulin Brûlé egy strand De Re területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.466565,
+                        46.202748
+                  ]
+            },
+            {
+                  "name": "Plage du Grouin",
+                  "text": "A Plage du Grouin egy strand De Re területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.413643,
+                        46.227147
+                  ]
+            },
+            {
+                  "name": "Plage du Peu des Hommes",
+                  "text": "A Plage du Peu des Hommes egy strand De Re területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.428794,
+                        46.189232
+                  ]
+            },
+            {
+                  "name": "Plage de la Pergola",
+                  "text": "A Plage de la Pergola egy strand De Re területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.43223,
+                        46.189883
+                  ]
+            },
+            {
+                  "name": "Plage des Follies",
+                  "text": "A Plage des Follies egy strand De Re területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.420138,
+                        46.187099
+                  ]
+            },
+            {
+                  "name": "Plage des Anneries",
+                  "text": "A Plage des Anneries egy strand De Re területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.424435,
+                        46.18806
+                  ]
+            },
+            {
+                  "name": "Plage de la Tonille",
+                  "text": "A Plage de la Tonille egy strand De Re területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.418056,
+                        46.224952
+                  ]
+            },
+            {
+                  "name": "Plage du Petit Sergent",
+                  "text": "A Plage du Petit Sergent egy strand De Re területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.382652,
+                        46.172617
+                  ]
+            },
+            {
+                  "name": "Plage du Boutillon",
+                  "text": "A Plage du Boutillon egy strand Les Portes En Re területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.473752,
+                        46.202449
+                  ]
+            },
+            {
+                  "name": "Plage de la Grange",
+                  "text": "A Plage de la Grange egy strand Les Portes En Re területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.529554,
+                        46.201459
+                  ]
+            },
+            {
+                  "name": "Plage de la Marielle",
+                  "text": "A Plage de la Marielle egy strand Les Portes En Re területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.514285,
+                        46.19712
+                  ]
+            },
+            {
+                  "name": "Plage du Lizay",
+                  "text": "A Plage du Lizay egy strand Les Portes En Re területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.515018,
+                        46.256637
+                  ]
+            },
+            {
+                  "name": "Plage de la Redoute",
+                  "text": "A Plage de la Redoute egy strand Les Portes En Re területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.484909,
+                        46.248708
+                  ]
+            },
+            {
+                  "name": "Plage de la Loge",
+                  "text": "A Plage de la Loge egy strand Les Portes En Re területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.481513,
+                        46.245853
+                  ]
+            },
+            {
+                  "name": "Plage de Trousse Chemise",
+                  "text": "A Plage de Trousse Chemise egy strand Les Portes En Re területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.475688,
+                        46.235289
+                  ]
+            },
+            {
+                  "name": "Plage du Martray",
+                  "text": "A Plage du Martray egy strand Les Portes En Re területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.491387,
+                        46.19775
+                  ]
+            },
+            {
+                  "name": "Plage de l'Anse du Fourneau",
+                  "text": "A Plage de l'Anse du Fourneau egy strand Les Portes En Re területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.479352,
+                        46.240533
+                  ]
+            },
+            {
+                  "name": "Plage de la Saucière",
+                  "text": "A Plage de la Saucière egy strand Les Portes En Re területén, amely ideális egy tengerparti sétához.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.506699,
+                        46.257403
+                  ]
+            },
+            {
+                  "name": "La Patache",
+                  "text": "A La Patache egy strand Les Portes En Re területén, amely nyugodt tengerparti környezetet kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.4772,
+                        46.231271
+                  ]
+            },
+            {
+                  "name": "Plage de Radia",
+                  "text": "A Plage de Radia egy helyi strand Les Portes En Re területén, amely tengerparti pihenésre csábít.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.54058,
+                        46.21381
+                  ]
+            },
+            {
+                  "name": "Plage de la Pointe de Grignon",
+                  "text": "A Plage de la Pointe de Grignon egy partszakasz Les Portes En Re városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.53563,
+                        46.204462
+                  ]
+            },
+            {
+                  "name": "Plage du Canot de Sauvetage",
+                  "text": "A Plage du Canot de Sauvetage egy strand Les Portes En Re területén a pihenni vágyók számára.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.560101,
+                        46.238719
+                  ]
+            },
+            {
+                  "name": "Plage du Petit Bec",
+                  "text": "A Plage du Petit Bec egy strand Les Portes En Re területén, amely ideális egy vízparti tartózkodáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.523263,
+                        46.252399
+                  ]
+            },
+            {
+                  "name": "Plage de la Conche des Baleines",
+                  "text": "A Plage de la Conche des Baleines egy kiterjedt strand Les Portes En Re területén, a Ré-szigeten.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.540398,
+                        46.246427
+                  ]
+            },
+            {
+                  "name": "Plage du Grand Marchais",
+                  "text": "A Plage du Grand Marchais egy strand Les Portes En Re területén, amely maradásra csábít.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.495922,
+                        46.25639
+                  ]
+            },
+            {
+                  "name": "Plage Gros Jonc",
+                  "text": "A Plage Gros Jonc egy partszakasz Les Portes En Re területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.488299,
+                        46.252035
+                  ]
+            },
+            {
+                  "name": "Plage Lauzin",
+                  "text": "A Plage Lauzin egy strand Les Portes En Re területén, amely tengerparti látogatásokra alkalmas.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.491391,
+                        46.254185
+                  ]
+            },
+            {
+                  "name": "Plage des Cytons",
+                  "text": "A Plage des Cytons egy tengerparti szakasz Les Portes En Re területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.488251,
+                        46.250711
                   ]
             }
       ],
@@ -6839,6 +10655,330 @@ export const poiExtraFrV2: POI[] = [
                         -1.458354,
                         46.220571
                   ]
+            },
+            {
+                  "name": "Les Golandières",
+                  "text": "Les Golandières este o plajă ce oferă priveliști de coastă în De Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.394935,
+                        46.178064
+                  ]
+            },
+            {
+                  "name": "Bidons V",
+                  "text": "Bidons V este o plajă situată în De Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.397251,
+                        46.178859
+                  ]
+            },
+            {
+                  "name": "Plage naturiste du Peu Bernard",
+                  "text": "Plage naturiste du Peu Bernard este o plajă pentru nudiști situată în De Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.417392,
+                        46.186332
+                  ]
+            },
+            {
+                  "name": "La Cible",
+                  "text": "La Cible este o zonă de plajă în De Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.354494,
+                        46.204807
+                  ]
+            },
+            {
+                  "name": "Plage des Prises",
+                  "text": "Plage des Prises este o destinație de plajă situată în De Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.452005,
+                        46.198438
+                  ]
+            },
+            {
+                  "name": "Plage du Peu Ragot",
+                  "text": "Plage du Peu Ragot este o plajă cu nisip situată în De Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.436822,
+                        46.192293
+                  ]
+            },
+            {
+                  "name": "Plage des Gollandières",
+                  "text": "Plage des Gollandières este o plajă în De Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.403161,
+                        46.180381
+                  ]
+            },
+            {
+                  "name": "Plage de Gros Jonc",
+                  "text": "Plage de Gros Jonc este o plajă în De Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.373231,
+                        46.167486
+                  ]
+            },
+            {
+                  "name": "Plage du Moulin Brûlé",
+                  "text": "Plage du Moulin Brûlé este o plajă în De Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.466565,
+                        46.202748
+                  ]
+            },
+            {
+                  "name": "Plage du Grouin",
+                  "text": "Plage du Grouin este o plajă în De Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.413643,
+                        46.227147
+                  ]
+            },
+            {
+                  "name": "Plage du Peu des Hommes",
+                  "text": "Plage du Peu des Hommes este o plajă în De Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.428794,
+                        46.189232
+                  ]
+            },
+            {
+                  "name": "Plage de la Pergola",
+                  "text": "Plage de la Pergola este o plajă în De Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.43223,
+                        46.189883
+                  ]
+            },
+            {
+                  "name": "Plage des Follies",
+                  "text": "Plage des Follies este o plajă în De Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.420138,
+                        46.187099
+                  ]
+            },
+            {
+                  "name": "Plage des Anneries",
+                  "text": "Plage des Anneries este o plajă în De Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.424435,
+                        46.18806
+                  ]
+            },
+            {
+                  "name": "Plage de la Tonille",
+                  "text": "Plage de la Tonille este o plajă în De Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.418056,
+                        46.224952
+                  ]
+            },
+            {
+                  "name": "Plage du Petit Sergent",
+                  "text": "Plage du Petit Sergent este o plajă în De Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.382652,
+                        46.172617
+                  ]
+            },
+            {
+                  "name": "Plage du Boutillon",
+                  "text": "Plage du Boutillon este o plajă situată în Les Portes En Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.473752,
+                        46.202449
+                  ]
+            },
+            {
+                  "name": "Plage de la Grange",
+                  "text": "Plage de la Grange este o plajă situată în Les Portes En Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.529554,
+                        46.201459
+                  ]
+            },
+            {
+                  "name": "Plage de la Marielle",
+                  "text": "Plage de la Marielle este o plajă situată în Les Portes En Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.514285,
+                        46.19712
+                  ]
+            },
+            {
+                  "name": "Plage du Lizay",
+                  "text": "Plage du Lizay este o plajă situată în Les Portes En Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.515018,
+                        46.256637
+                  ]
+            },
+            {
+                  "name": "Plage de la Redoute",
+                  "text": "Plage de la Redoute este o plajă situată în Les Portes En Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.484909,
+                        46.248708
+                  ]
+            },
+            {
+                  "name": "Plage de la Loge",
+                  "text": "Plage de la Loge este o plajă situată în Les Portes En Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.481513,
+                        46.245853
+                  ]
+            },
+            {
+                  "name": "Plage de Trousse Chemise",
+                  "text": "Plage de Trousse Chemise este o plajă situată în Les Portes En Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.475688,
+                        46.235289
+                  ]
+            },
+            {
+                  "name": "Plage du Martray",
+                  "text": "Plage du Martray este o plajă situată în Les Portes En Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.491387,
+                        46.19775
+                  ]
+            },
+            {
+                  "name": "Plage de l'Anse du Fourneau",
+                  "text": "Plage de l'Anse du Fourneau este o plajă situată în Les Portes En Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.479352,
+                        46.240533
+                  ]
+            },
+            {
+                  "name": "Plage de la Saucière",
+                  "text": "Plage de la Saucière este o plajă în Les Portes En Re, potrivită pentru o plimbare pe coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.506699,
+                        46.257403
+                  ]
+            },
+            {
+                  "name": "La Patache",
+                  "text": "La Patache este o plajă în Les Portes En Re, oferind un mediu liniștit la malul apei.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.4772,
+                        46.231271
+                  ]
+            },
+            {
+                  "name": "Plage de Radia",
+                  "text": "Plage de Radia este o plajă locală în Les Portes En Re, ideală pentru relaxare la mare.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.54058,
+                        46.21381
+                  ]
+            },
+            {
+                  "name": "Plage de la Pointe de Grignon",
+                  "text": "Plage de la Pointe de Grignon este o porțiune de plajă în Les Portes En Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.53563,
+                        46.204462
+                  ]
+            },
+            {
+                  "name": "Plage du Canot de Sauvetage",
+                  "text": "Plage du Canot de Sauvetage este o plajă în Les Portes En Re pentru cei care caută relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.560101,
+                        46.238719
+                  ]
+            },
+            {
+                  "name": "Plage du Petit Bec",
+                  "text": "Plage du Petit Bec este o plajă în Les Portes En Re, ideală pentru o ședere la malul apei.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.523263,
+                        46.252399
+                  ]
+            },
+            {
+                  "name": "Plage de la Conche des Baleines",
+                  "text": "Plage de la Conche des Baleines este o plajă întinsă în Les Portes En Re, pe insula Ré.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.540398,
+                        46.246427
+                  ]
+            },
+            {
+                  "name": "Plage du Grand Marchais",
+                  "text": "Plage du Grand Marchais este o plajă în Les Portes En Re care te invită să zăbovești.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.495922,
+                        46.25639
+                  ]
+            },
+            {
+                  "name": "Plage Gros Jonc",
+                  "text": "Plage Gros Jonc este o zonă de plajă în Les Portes En Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.488299,
+                        46.252035
+                  ]
+            },
+            {
+                  "name": "Plage Lauzin",
+                  "text": "Plage Lauzin este o plajă în Les Portes En Re, potrivită pentru vizite pe coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.491391,
+                        46.254185
+                  ]
+            },
+            {
+                  "name": "Plage des Cytons",
+                  "text": "Plage des Cytons este o porțiune de coastă în Les Portes En Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.488251,
+                        46.250711
+                  ]
             }
       ],
       "en": [
@@ -6880,6 +11020,330 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         -1.458354,
                         46.220571
+                  ]
+            },
+            {
+                  "name": "Les Golandières",
+                  "text": "Les Golandières is a beach offering coastal views in De Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.394935,
+                        46.178064
+                  ]
+            },
+            {
+                  "name": "Bidons V",
+                  "text": "Bidons V is a beach located in De Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.397251,
+                        46.178859
+                  ]
+            },
+            {
+                  "name": "Plage naturiste du Peu Bernard",
+                  "text": "Plage naturiste du Peu Bernard is a naturist beach situated in De Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.417392,
+                        46.186332
+                  ]
+            },
+            {
+                  "name": "La Cible",
+                  "text": "La Cible is a beach area in De Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.354494,
+                        46.204807
+                  ]
+            },
+            {
+                  "name": "Plage des Prises",
+                  "text": "Plage des Prises is a beach destination located in De Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.452005,
+                        46.198438
+                  ]
+            },
+            {
+                  "name": "Plage du Peu Ragot",
+                  "text": "Plage du Peu Ragot is a sandy beach situated in De Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.436822,
+                        46.192293
+                  ]
+            },
+            {
+                  "name": "Plage des Gollandières",
+                  "text": "Plage des Gollandières is a beach in De Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.403161,
+                        46.180381
+                  ]
+            },
+            {
+                  "name": "Plage de Gros Jonc",
+                  "text": "Plage de Gros Jonc is a beach in De Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.373231,
+                        46.167486
+                  ]
+            },
+            {
+                  "name": "Plage du Moulin Brûlé",
+                  "text": "Plage du Moulin Brûlé is a beach in De Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.466565,
+                        46.202748
+                  ]
+            },
+            {
+                  "name": "Plage du Grouin",
+                  "text": "Plage du Grouin is a beach in De Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.413643,
+                        46.227147
+                  ]
+            },
+            {
+                  "name": "Plage du Peu des Hommes",
+                  "text": "Plage du Peu des Hommes is a beach in De Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.428794,
+                        46.189232
+                  ]
+            },
+            {
+                  "name": "Plage de la Pergola",
+                  "text": "Plage de la Pergola is a beach in De Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.43223,
+                        46.189883
+                  ]
+            },
+            {
+                  "name": "Plage des Follies",
+                  "text": "Plage des Follies is a beach in De Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.420138,
+                        46.187099
+                  ]
+            },
+            {
+                  "name": "Plage des Anneries",
+                  "text": "Plage des Anneries is a beach in De Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.424435,
+                        46.18806
+                  ]
+            },
+            {
+                  "name": "Plage de la Tonille",
+                  "text": "Plage de la Tonille is a beach in De Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.418056,
+                        46.224952
+                  ]
+            },
+            {
+                  "name": "Plage du Petit Sergent",
+                  "text": "Plage du Petit Sergent is a beach in De Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.382652,
+                        46.172617
+                  ]
+            },
+            {
+                  "name": "Plage du Boutillon",
+                  "text": "Plage du Boutillon is a beach located in Les Portes En Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.473752,
+                        46.202449
+                  ]
+            },
+            {
+                  "name": "Plage de la Grange",
+                  "text": "Plage de la Grange is a beach located in Les Portes En Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.529554,
+                        46.201459
+                  ]
+            },
+            {
+                  "name": "Plage de la Marielle",
+                  "text": "Plage de la Marielle is a beach located in Les Portes En Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.514285,
+                        46.19712
+                  ]
+            },
+            {
+                  "name": "Plage du Lizay",
+                  "text": "Plage du Lizay is a beach located in Les Portes En Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.515018,
+                        46.256637
+                  ]
+            },
+            {
+                  "name": "Plage de la Redoute",
+                  "text": "Plage de la Redoute is a beach located in Les Portes En Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.484909,
+                        46.248708
+                  ]
+            },
+            {
+                  "name": "Plage de la Loge",
+                  "text": "Plage de la Loge is a beach located in Les Portes En Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.481513,
+                        46.245853
+                  ]
+            },
+            {
+                  "name": "Plage de Trousse Chemise",
+                  "text": "Plage de Trousse Chemise is a beach located in Les Portes En Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.475688,
+                        46.235289
+                  ]
+            },
+            {
+                  "name": "Plage du Martray",
+                  "text": "Plage du Martray is a beach located in Les Portes En Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.491387,
+                        46.19775
+                  ]
+            },
+            {
+                  "name": "Plage de l'Anse du Fourneau",
+                  "text": "Plage de l'Anse du Fourneau is a beach located in Les Portes En Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.479352,
+                        46.240533
+                  ]
+            },
+            {
+                  "name": "Plage de la Saucière",
+                  "text": "Plage de la Saucière is a beach in Les Portes En Re, suitable for a coastal walk.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.506699,
+                        46.257403
+                  ]
+            },
+            {
+                  "name": "La Patache",
+                  "text": "La Patache is a beach in Les Portes En Re offering a quiet waterside environment.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.4772,
+                        46.231271
+                  ]
+            },
+            {
+                  "name": "Plage de Radia",
+                  "text": "Plage de Radia is a local beach in Les Portes En Re, inviting visitors to relax by the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.54058,
+                        46.21381
+                  ]
+            },
+            {
+                  "name": "Plage de la Pointe de Grignon",
+                  "text": "Plage de la Pointe de Grignon is a stretch of beach in Les Portes En Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.53563,
+                        46.204462
+                  ]
+            },
+            {
+                  "name": "Plage du Canot de Sauvetage",
+                  "text": "Plage du Canot de Sauvetage is a beach in Les Portes En Re for those seeking recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.560101,
+                        46.238719
+                  ]
+            },
+            {
+                  "name": "Plage du Petit Bec",
+                  "text": "Plage du Petit Bec is a beach in Les Portes En Re, ideal for a stay by the water.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.523263,
+                        46.252399
+                  ]
+            },
+            {
+                  "name": "Plage de la Conche des Baleines",
+                  "text": "Plage de la Conche des Baleines is a sweeping beach in Les Portes En Re on the Île de Ré.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.540398,
+                        46.246427
+                  ]
+            },
+            {
+                  "name": "Plage du Grand Marchais",
+                  "text": "Plage du Grand Marchais is a beach in Les Portes En Re that invites you to linger.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.495922,
+                        46.25639
+                  ]
+            },
+            {
+                  "name": "Plage Gros Jonc",
+                  "text": "Plage Gros Jonc is a beach area in Les Portes En Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.488299,
+                        46.252035
+                  ]
+            },
+            {
+                  "name": "Plage Lauzin",
+                  "text": "Plage Lauzin is a beach in Les Portes En Re suitable for coastal visits.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.491391,
+                        46.254185
+                  ]
+            },
+            {
+                  "name": "Plage des Cytons",
+                  "text": "Plage des Cytons is a coastal stretch in Les Portes En Re.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.488251,
+                        46.250711
                   ]
             }
       ]
@@ -7245,6 +11709,105 @@ export const poiExtraFrV2: POI[] = [
                         7.094894,
                         43.574588
                   ]
+            },
+            {
+                  "name": "Hydra",
+                  "text": "Hydra ist ein Strandziel in der Stadt Les Pins.",
+                  "category": "recreational",
+                  "coords": [
+                        7.098479,
+                        43.571209
+                  ]
+            },
+            {
+                  "name": "Plage des Ondes",
+                  "text": "Plage des Ondes ist ein lokaler Strand in Les Pins.",
+                  "category": "recreational",
+                  "coords": [
+                        7.122091,
+                        43.55444
+                  ]
+            },
+            {
+                  "name": "Plage de la pinède",
+                  "text": "Plage de la pinède ist ein Strand in Les Pins.",
+                  "category": "recreational",
+                  "coords": [
+                        7.113387,
+                        43.566676
+                  ]
+            },
+            {
+                  "name": "Plage Gallice",
+                  "text": "Plage Gallice ist ein Strand in Les Pins.",
+                  "category": "recreational",
+                  "coords": [
+                        7.115798,
+                        43.563527
+                  ]
+            },
+            {
+                  "name": "Plage Keller",
+                  "text": "Plage Keller ist ein Strand in Les Pins.",
+                  "category": "recreational",
+                  "coords": [
+                        7.136548,
+                        43.554295
+                  ]
+            },
+            {
+                  "name": "Plage Naturiste de La Batterie",
+                  "text": "Plage Naturiste de La Batterie ist ein FKK-Strand in Les Pins.",
+                  "category": "recreational",
+                  "coords": [
+                        7.057484,
+                        43.550864
+                  ]
+            },
+            {
+                  "name": "Plages du Soleil",
+                  "text": "Plages du Soleil ist ein Strand in Les Pins.",
+                  "category": "recreational",
+                  "coords": [
+                        7.070453,
+                        43.563746
+                  ]
+            },
+            {
+                  "name": "Plage du Croûton",
+                  "text": "Plage du Croûton ist ein Strand in Les Pins.",
+                  "category": "recreational",
+                  "coords": [
+                        7.117818,
+                        43.560502
+                  ]
+            },
+            {
+                  "name": "Plage publique de la Mirandole",
+                  "text": "Plage publique de la Mirandole ist ein öffentlicher Strand in Les Pins.",
+                  "category": "recreational",
+                  "coords": [
+                        7.062684,
+                        43.556709
+                  ]
+            },
+            {
+                  "name": "Plage du ponton courbet",
+                  "text": "Der Plage du ponton courbet ist ein Strand in der Stadt Les Pins.",
+                  "category": "recreational",
+                  "coords": [
+                        7.107619,
+                        43.569027
+                  ]
+            },
+            {
+                  "name": "Grande Plage",
+                  "text": "Der Grande Plage ist ein Strand in der Stadt Les Pins.",
+                  "category": "recreational",
+                  "coords": [
+                        7.10532,
+                        43.569901
+                  ]
             }
       ],
       "hu": [
@@ -7316,6 +11879,105 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         7.094894,
                         43.574588
+                  ]
+            },
+            {
+                  "name": "Hydra",
+                  "text": "A Hydra egy tengerparti úti cél Les Pins városában.",
+                  "category": "recreational",
+                  "coords": [
+                        7.098479,
+                        43.571209
+                  ]
+            },
+            {
+                  "name": "Plage des Ondes",
+                  "text": "A Plage des Ondes egy strand Les Pins területén.",
+                  "category": "recreational",
+                  "coords": [
+                        7.122091,
+                        43.55444
+                  ]
+            },
+            {
+                  "name": "Plage de la pinède",
+                  "text": "A Plage de la pinède egy strand Les Pins városában.",
+                  "category": "recreational",
+                  "coords": [
+                        7.113387,
+                        43.566676
+                  ]
+            },
+            {
+                  "name": "Plage Gallice",
+                  "text": "A Plage Gallice egy strand Les Pins városában.",
+                  "category": "recreational",
+                  "coords": [
+                        7.115798,
+                        43.563527
+                  ]
+            },
+            {
+                  "name": "Plage Keller",
+                  "text": "A Plage Keller egy strand Les Pins városában.",
+                  "category": "recreational",
+                  "coords": [
+                        7.136548,
+                        43.554295
+                  ]
+            },
+            {
+                  "name": "Plage Naturiste de La Batterie",
+                  "text": "A Plage Naturiste de La Batterie egy nudista strand Les Pins városában.",
+                  "category": "recreational",
+                  "coords": [
+                        7.057484,
+                        43.550864
+                  ]
+            },
+            {
+                  "name": "Plages du Soleil",
+                  "text": "A Plages du Soleil egy strand Les Pins városában.",
+                  "category": "recreational",
+                  "coords": [
+                        7.070453,
+                        43.563746
+                  ]
+            },
+            {
+                  "name": "Plage du Croûton",
+                  "text": "A Plage du Croûton egy strand Les Pins városában.",
+                  "category": "recreational",
+                  "coords": [
+                        7.117818,
+                        43.560502
+                  ]
+            },
+            {
+                  "name": "Plage publique de la Mirandole",
+                  "text": "A Plage publique de la Mirandole egy nyilvános strand Les Pins városában.",
+                  "category": "recreational",
+                  "coords": [
+                        7.062684,
+                        43.556709
+                  ]
+            },
+            {
+                  "name": "Plage du ponton courbet",
+                  "text": "A Plage du ponton courbet egy tengerpart Les Pins városában.",
+                  "category": "recreational",
+                  "coords": [
+                        7.107619,
+                        43.569027
+                  ]
+            },
+            {
+                  "name": "Grande Plage",
+                  "text": "A Grande Plage egy tengerpart Les Pins városában.",
+                  "category": "recreational",
+                  "coords": [
+                        7.10532,
+                        43.569901
                   ]
             }
       ],
@@ -7389,6 +12051,105 @@ export const poiExtraFrV2: POI[] = [
                         7.094894,
                         43.574588
                   ]
+            },
+            {
+                  "name": "Hydra",
+                  "text": "Hydra este o destinație de plajă situată în orașul Les Pins.",
+                  "category": "recreational",
+                  "coords": [
+                        7.098479,
+                        43.571209
+                  ]
+            },
+            {
+                  "name": "Plage des Ondes",
+                  "text": "Plage des Ondes este o plajă situată în Les Pins.",
+                  "category": "recreational",
+                  "coords": [
+                        7.122091,
+                        43.55444
+                  ]
+            },
+            {
+                  "name": "Plage de la pinède",
+                  "text": "Plage de la pinède este o plajă situată în Les Pins.",
+                  "category": "recreational",
+                  "coords": [
+                        7.113387,
+                        43.566676
+                  ]
+            },
+            {
+                  "name": "Plage Gallice",
+                  "text": "Plage Gallice este o plajă situată în Les Pins.",
+                  "category": "recreational",
+                  "coords": [
+                        7.115798,
+                        43.563527
+                  ]
+            },
+            {
+                  "name": "Plage Keller",
+                  "text": "Plage Keller este o plajă situată în Les Pins.",
+                  "category": "recreational",
+                  "coords": [
+                        7.136548,
+                        43.554295
+                  ]
+            },
+            {
+                  "name": "Plage Naturiste de La Batterie",
+                  "text": "Plage Naturiste de La Batterie este o plajă de nudiști situată în Les Pins.",
+                  "category": "recreational",
+                  "coords": [
+                        7.057484,
+                        43.550864
+                  ]
+            },
+            {
+                  "name": "Plages du Soleil",
+                  "text": "Plages du Soleil este o plajă situată în Les Pins.",
+                  "category": "recreational",
+                  "coords": [
+                        7.070453,
+                        43.563746
+                  ]
+            },
+            {
+                  "name": "Plage du Croûton",
+                  "text": "Plage du Croûton este o plajă situată în Les Pins.",
+                  "category": "recreational",
+                  "coords": [
+                        7.117818,
+                        43.560502
+                  ]
+            },
+            {
+                  "name": "Plage publique de la Mirandole",
+                  "text": "Plage publique de la Mirandole este o plajă publică situată în Les Pins.",
+                  "category": "recreational",
+                  "coords": [
+                        7.062684,
+                        43.556709
+                  ]
+            },
+            {
+                  "name": "Plage du ponton courbet",
+                  "text": "Plage du ponton courbet este o plajă în orașul Les Pins.",
+                  "category": "recreational",
+                  "coords": [
+                        7.107619,
+                        43.569027
+                  ]
+            },
+            {
+                  "name": "Grande Plage",
+                  "text": "Grande Plage este o plajă în orașul Les Pins.",
+                  "category": "recreational",
+                  "coords": [
+                        7.10532,
+                        43.569901
+                  ]
             }
       ],
       "en": [
@@ -7460,6 +12221,105 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         7.094894,
                         43.574588
+                  ]
+            },
+            {
+                  "name": "Hydra",
+                  "text": "Hydra is a beach destination located in the city of Les Pins.",
+                  "category": "recreational",
+                  "coords": [
+                        7.098479,
+                        43.571209
+                  ]
+            },
+            {
+                  "name": "Plage des Ondes",
+                  "text": "Plage des Ondes is a beach located in Les Pins.",
+                  "category": "recreational",
+                  "coords": [
+                        7.122091,
+                        43.55444
+                  ]
+            },
+            {
+                  "name": "Plage de la pinède",
+                  "text": "Plage de la pinède is a beach located in Les Pins.",
+                  "category": "recreational",
+                  "coords": [
+                        7.113387,
+                        43.566676
+                  ]
+            },
+            {
+                  "name": "Plage Gallice",
+                  "text": "Plage Gallice is a beach located in Les Pins.",
+                  "category": "recreational",
+                  "coords": [
+                        7.115798,
+                        43.563527
+                  ]
+            },
+            {
+                  "name": "Plage Keller",
+                  "text": "Plage Keller is a beach located in Les Pins.",
+                  "category": "recreational",
+                  "coords": [
+                        7.136548,
+                        43.554295
+                  ]
+            },
+            {
+                  "name": "Plage Naturiste de La Batterie",
+                  "text": "Plage Naturiste de La Batterie is a naturist beach located in Les Pins.",
+                  "category": "recreational",
+                  "coords": [
+                        7.057484,
+                        43.550864
+                  ]
+            },
+            {
+                  "name": "Plages du Soleil",
+                  "text": "Plages du Soleil is a beach located in Les Pins.",
+                  "category": "recreational",
+                  "coords": [
+                        7.070453,
+                        43.563746
+                  ]
+            },
+            {
+                  "name": "Plage du Croûton",
+                  "text": "Plage du Croûton is a beach located in Les Pins.",
+                  "category": "recreational",
+                  "coords": [
+                        7.117818,
+                        43.560502
+                  ]
+            },
+            {
+                  "name": "Plage publique de la Mirandole",
+                  "text": "Plage publique de la Mirandole is a public beach located in Les Pins.",
+                  "category": "recreational",
+                  "coords": [
+                        7.062684,
+                        43.556709
+                  ]
+            },
+            {
+                  "name": "Plage du ponton courbet",
+                  "text": "Plage du ponton courbet is a beach located in the city of Les Pins.",
+                  "category": "recreational",
+                  "coords": [
+                        7.107619,
+                        43.569027
+                  ]
+            },
+            {
+                  "name": "Grande Plage",
+                  "text": "Grande Plage is a beach located in the city of Les Pins.",
+                  "category": "recreational",
+                  "coords": [
+                        7.10532,
+                        43.569901
                   ]
             }
       ]
@@ -9066,6 +13926,15 @@ export const poiExtraFrV2: POI[] = [
                         6.619785,
                         45.859941
                   ]
+            },
+            {
+                  "name": "Plan d’eau de Praz sur Arly",
+                  "text": "Plan d’eau de Praz sur Arly ist ein Freizeitstrand in der Nähe von Megeve. Er dient als lokaler Ort zum Schwimmen und zur Erholung.",
+                  "category": "recreational",
+                  "coords": [
+                        6.58084,
+                        45.838094
+                  ]
             }
       ],
       "hu": [
@@ -9137,6 +14006,15 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         6.619785,
                         45.859941
+                  ]
+            },
+            {
+                  "name": "Plan d’eau de Praz sur Arly",
+                  "text": "A Plan d’eau de Praz sur Arly egy szabadidős strand Megeve közelében. Helyi úszó- és pihenőhelyként szolgál.",
+                  "category": "recreational",
+                  "coords": [
+                        6.58084,
+                        45.838094
                   ]
             }
       ],
@@ -9210,6 +14088,15 @@ export const poiExtraFrV2: POI[] = [
                         6.619785,
                         45.859941
                   ]
+            },
+            {
+                  "name": "Plan d’eau de Praz sur Arly",
+                  "text": "Plan d’eau de Praz sur Arly este o zonă de plajă de agrement situată lângă Megeve. Servește ca un loc local pentru înot și recreere.",
+                  "category": "recreational",
+                  "coords": [
+                        6.58084,
+                        45.838094
+                  ]
             }
       ],
       "en": [
@@ -9281,6 +14168,15 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         6.619785,
                         45.859941
+                  ]
+            },
+            {
+                  "name": "Plan d’eau de Praz sur Arly",
+                  "text": "Plan d’eau de Praz sur Arly is a leisure beach area located near Megeve. It serves as a local spot for swimming and recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        6.58084,
+                        45.838094
                   ]
             }
       ]
@@ -10176,6 +15072,69 @@ export const poiExtraFrV2: POI[] = [
                         8.898857,
                         41.675649
                   ]
+            },
+            {
+                  "name": "Plage de Baracci",
+                  "text": "Plage de Baracci ist ein Strand in Propriano.",
+                  "category": "recreational",
+                  "coords": [
+                        8.915275,
+                        41.686444
+                  ]
+            },
+            {
+                  "name": "Plage de Portigliolo",
+                  "text": "Plage de Portigliolo ist ein malerischer Strand in Propriano.",
+                  "category": "recreational",
+                  "coords": [
+                        8.874985,
+                        41.653402
+                  ]
+            },
+            {
+                  "name": "Plage de Capu Laurosu",
+                  "text": "Plage de Capu Laurosu ist ein großer, weitläufiger Strand in Propriano.",
+                  "category": "recreational",
+                  "coords": [
+                        8.880737,
+                        41.666033
+                  ]
+            },
+            {
+                  "name": "Plage Sampiero",
+                  "text": "Plage Sampiero ist ein angenehmer Strandabschnitt in Propriano.",
+                  "category": "recreational",
+                  "coords": [
+                        8.913938,
+                        41.680018
+                  ]
+            },
+            {
+                  "name": "Plage d'Olmeto",
+                  "text": "Plage d'Olmeto ist ein Küstenstrand in der Nähe von Propriano.",
+                  "category": "recreational",
+                  "coords": [
+                        8.883961,
+                        41.692343
+                  ]
+            },
+            {
+                  "name": "Plage du Ruesco",
+                  "text": "Plage du Ruesco ist ein entspannender Strand in Propriano.",
+                  "category": "recreational",
+                  "coords": [
+                        8.870976,
+                        41.69576
+                  ]
+            },
+            {
+                  "name": "Plage Piscona",
+                  "text": "Plage Piscona ist ein lokaler Strand in Propriano.",
+                  "category": "recreational",
+                  "coords": [
+                        8.858677,
+                        41.696935
+                  ]
             }
       ],
       "hu": [
@@ -10237,6 +15196,69 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         8.898857,
                         41.675649
+                  ]
+            },
+            {
+                  "name": "Plage de Baracci",
+                  "text": "A Plage de Baracci egy strand Propriano városában.",
+                  "category": "recreational",
+                  "coords": [
+                        8.915275,
+                        41.686444
+                  ]
+            },
+            {
+                  "name": "Plage de Portigliolo",
+                  "text": "A Plage de Portigliolo egy festői strand Propriano városában.",
+                  "category": "recreational",
+                  "coords": [
+                        8.874985,
+                        41.653402
+                  ]
+            },
+            {
+                  "name": "Plage de Capu Laurosu",
+                  "text": "A Plage de Capu Laurosu egy nagy kiterjedésű strand Propriano-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        8.880737,
+                        41.666033
+                  ]
+            },
+            {
+                  "name": "Plage Sampiero",
+                  "text": "A Plage Sampiero egy kellemes strand Propriano-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        8.913938,
+                        41.680018
+                  ]
+            },
+            {
+                  "name": "Plage d'Olmeto",
+                  "text": "A Plage d'Olmeto egy tengerparti strand Propriano közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        8.883961,
+                        41.692343
+                  ]
+            },
+            {
+                  "name": "Plage du Ruesco",
+                  "text": "A Plage du Ruesco egy pihentető strand Propriano városában.",
+                  "category": "recreational",
+                  "coords": [
+                        8.870976,
+                        41.69576
+                  ]
+            },
+            {
+                  "name": "Plage Piscona",
+                  "text": "A Plage Piscona egy helyi strand Propriano-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        8.858677,
+                        41.696935
                   ]
             }
       ],
@@ -10300,6 +15322,69 @@ export const poiExtraFrV2: POI[] = [
                         8.898857,
                         41.675649
                   ]
+            },
+            {
+                  "name": "Plage de Baracci",
+                  "text": "Plage de Baracci este o plajă situată în Propriano.",
+                  "category": "recreational",
+                  "coords": [
+                        8.915275,
+                        41.686444
+                  ]
+            },
+            {
+                  "name": "Plage de Portigliolo",
+                  "text": "Plage de Portigliolo este o plajă pitorească situată în Propriano.",
+                  "category": "recreational",
+                  "coords": [
+                        8.874985,
+                        41.653402
+                  ]
+            },
+            {
+                  "name": "Plage de Capu Laurosu",
+                  "text": "Plage de Capu Laurosu este o plajă vastă în Propriano.",
+                  "category": "recreational",
+                  "coords": [
+                        8.880737,
+                        41.666033
+                  ]
+            },
+            {
+                  "name": "Plage Sampiero",
+                  "text": "Plage Sampiero este o plajă plăcută în Propriano.",
+                  "category": "recreational",
+                  "coords": [
+                        8.913938,
+                        41.680018
+                  ]
+            },
+            {
+                  "name": "Plage d'Olmeto",
+                  "text": "Plage d'Olmeto este o plajă de coastă lângă Propriano.",
+                  "category": "recreational",
+                  "coords": [
+                        8.883961,
+                        41.692343
+                  ]
+            },
+            {
+                  "name": "Plage du Ruesco",
+                  "text": "Plage du Ruesco este o plajă relaxantă situată în Propriano.",
+                  "category": "recreational",
+                  "coords": [
+                        8.870976,
+                        41.69576
+                  ]
+            },
+            {
+                  "name": "Plage Piscona",
+                  "text": "Plage Piscona este o plajă locală în Propriano.",
+                  "category": "recreational",
+                  "coords": [
+                        8.858677,
+                        41.696935
+                  ]
             }
       ],
       "en": [
@@ -10361,6 +15446,69 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         8.898857,
                         41.675649
+                  ]
+            },
+            {
+                  "name": "Plage de Baracci",
+                  "text": "Plage de Baracci is a beach situated in Propriano.",
+                  "category": "recreational",
+                  "coords": [
+                        8.915275,
+                        41.686444
+                  ]
+            },
+            {
+                  "name": "Plage de Portigliolo",
+                  "text": "Plage de Portigliolo is a scenic beach located in Propriano.",
+                  "category": "recreational",
+                  "coords": [
+                        8.874985,
+                        41.653402
+                  ]
+            },
+            {
+                  "name": "Plage de Capu Laurosu",
+                  "text": "Plage de Capu Laurosu is a large, extensive beach in Propriano.",
+                  "category": "recreational",
+                  "coords": [
+                        8.880737,
+                        41.666033
+                  ]
+            },
+            {
+                  "name": "Plage Sampiero",
+                  "text": "Plage Sampiero is a pleasant beach located in Propriano.",
+                  "category": "recreational",
+                  "coords": [
+                        8.913938,
+                        41.680018
+                  ]
+            },
+            {
+                  "name": "Plage d'Olmeto",
+                  "text": "Plage d'Olmeto is a coastal beach area near Propriano.",
+                  "category": "recreational",
+                  "coords": [
+                        8.883961,
+                        41.692343
+                  ]
+            },
+            {
+                  "name": "Plage du Ruesco",
+                  "text": "Plage du Ruesco is a relaxing beach situated in Propriano.",
+                  "category": "recreational",
+                  "coords": [
+                        8.870976,
+                        41.69576
+                  ]
+            },
+            {
+                  "name": "Plage Piscona",
+                  "text": "Plage Piscona is a local beach in Propriano.",
+                  "category": "recreational",
+                  "coords": [
+                        8.858677,
+                        41.696935
                   ]
             }
       ]
@@ -10426,6 +15574,33 @@ export const poiExtraFrV2: POI[] = [
                         7.333217,
                         43.692828
                   ]
+            },
+            {
+                  "name": "Plage de la Gavinette",
+                  "text": "Plage de la Gavinette ist ein Strand in Jean Cap Ferrat.",
+                  "category": "recreational",
+                  "coords": [
+                        7.32261,
+                        43.687128
+                  ]
+            },
+            {
+                  "name": "Plage des Fosses",
+                  "text": "Plage des Fosses ist ein Strand in Jean Cap Ferrat.",
+                  "category": "recreational",
+                  "coords": [
+                        7.335468,
+                        43.686614
+                  ]
+            },
+            {
+                  "name": "Plage de la Réserve",
+                  "text": "Plage de la Réserve ist ein Strand in Jean Cap Ferrat.",
+                  "category": "recreational",
+                  "coords": [
+                        7.335949,
+                        43.705739
+                  ]
             }
       ],
       "hu": [
@@ -10487,6 +15662,33 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         7.333217,
                         43.692828
+                  ]
+            },
+            {
+                  "name": "Plage de la Gavinette",
+                  "text": "A Plage de la Gavinette egy strand Jean Cap Ferrat-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        7.32261,
+                        43.687128
+                  ]
+            },
+            {
+                  "name": "Plage des Fosses",
+                  "text": "A Plage des Fosses egy strand Jean Cap Ferrat-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        7.335468,
+                        43.686614
+                  ]
+            },
+            {
+                  "name": "Plage de la Réserve",
+                  "text": "A Plage de la Réserve egy strand Jean Cap Ferrat-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        7.335949,
+                        43.705739
                   ]
             }
       ],
@@ -10550,6 +15752,33 @@ export const poiExtraFrV2: POI[] = [
                         7.333217,
                         43.692828
                   ]
+            },
+            {
+                  "name": "Plage de la Gavinette",
+                  "text": "Plage de la Gavinette este o plajă aflată în Jean Cap Ferrat.",
+                  "category": "recreational",
+                  "coords": [
+                        7.32261,
+                        43.687128
+                  ]
+            },
+            {
+                  "name": "Plage des Fosses",
+                  "text": "Plage des Fosses este o plajă situată în Jean Cap Ferrat.",
+                  "category": "recreational",
+                  "coords": [
+                        7.335468,
+                        43.686614
+                  ]
+            },
+            {
+                  "name": "Plage de la Réserve",
+                  "text": "Plage de la Réserve este o plajă situată în Jean Cap Ferrat.",
+                  "category": "recreational",
+                  "coords": [
+                        7.335949,
+                        43.705739
+                  ]
             }
       ],
       "en": [
@@ -10611,6 +15840,33 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         7.333217,
                         43.692828
+                  ]
+            },
+            {
+                  "name": "Plage de la Gavinette",
+                  "text": "Plage de la Gavinette is a beach found in Jean Cap Ferrat.",
+                  "category": "recreational",
+                  "coords": [
+                        7.32261,
+                        43.687128
+                  ]
+            },
+            {
+                  "name": "Plage des Fosses",
+                  "text": "Plage des Fosses is a beach located in Jean Cap Ferrat.",
+                  "category": "recreational",
+                  "coords": [
+                        7.335468,
+                        43.686614
+                  ]
+            },
+            {
+                  "name": "Plage de la Réserve",
+                  "text": "Plage de la Réserve is a beach situated in Jean Cap Ferrat.",
+                  "category": "recreational",
+                  "coords": [
+                        7.335949,
+                        43.705739
                   ]
             }
       ]
@@ -10956,6 +16212,87 @@ export const poiExtraFrV2: POI[] = [
                         6.642018,
                         43.259501
                   ]
+            },
+            {
+                  "name": "Batterie du Capon",
+                  "text": "Batterie du Capon ist ein Strand in der Stadt Tropez.",
+                  "category": "recreational",
+                  "coords": [
+                        6.690412,
+                        43.252338
+                  ]
+            },
+            {
+                  "name": "Plage Neptune",
+                  "text": "Der Plage Neptune ist ein Strand in der Stadt Tropez.",
+                  "category": "recreational",
+                  "coords": [
+                        6.663092,
+                        43.235279
+                  ]
+            },
+            {
+                  "name": "Plage des Salins",
+                  "text": "Der Plage des Salins ist ein Strand in der Stadt Tropez.",
+                  "category": "recreational",
+                  "coords": [
+                        6.692463,
+                        43.258978
+                  ]
+            },
+            {
+                  "name": "Plage de la Bouillabaisse",
+                  "text": "Der Plage de la Bouillabaisse ist ein Strand in der Stadt Tropez.",
+                  "category": "recreational",
+                  "coords": [
+                        6.624428,
+                        43.266001
+                  ]
+            },
+            {
+                  "name": "Plage de la Garrigue",
+                  "text": "Der Plage de la Garrigue ist ein Strand in der Stadt Tropez.",
+                  "category": "recreational",
+                  "coords": [
+                        6.680264,
+                        43.248253
+                  ]
+            },
+            {
+                  "name": "Plage des Graniers",
+                  "text": "Der Plage des Graniers ist ein Strand in der Stadt Tropez.",
+                  "category": "recreational",
+                  "coords": [
+                        6.648306,
+                        43.270701
+                  ]
+            },
+            {
+                  "name": "Plage des Canoubiers",
+                  "text": "Der Plage des Canoubiers ist ein Strand in der Stadt Tropez.",
+                  "category": "recreational",
+                  "coords": [
+                        6.66447,
+                        43.265336
+                  ]
+            },
+            {
+                  "name": "Plage de la Fontanette",
+                  "text": "Der Plage de la Fontanette ist ein Strand in der Stadt Tropez.",
+                  "category": "recreational",
+                  "coords": [
+                        6.6421,
+                        43.273775
+                  ]
+            },
+            {
+                  "name": "Plage de Capon",
+                  "text": "Plage de Capon ist ein Strand in Tropez.",
+                  "category": "recreational",
+                  "coords": [
+                        6.690466,
+                        43.254126
+                  ]
             }
       ],
       "hu": [
@@ -11047,6 +16384,87 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         6.642018,
                         43.259501
+                  ]
+            },
+            {
+                  "name": "Batterie du Capon",
+                  "text": "A Batterie du Capon egy tengerpart Tropez városában.",
+                  "category": "recreational",
+                  "coords": [
+                        6.690412,
+                        43.252338
+                  ]
+            },
+            {
+                  "name": "Plage Neptune",
+                  "text": "A Plage Neptune egy tengerpart Tropez városában.",
+                  "category": "recreational",
+                  "coords": [
+                        6.663092,
+                        43.235279
+                  ]
+            },
+            {
+                  "name": "Plage des Salins",
+                  "text": "A Plage des Salins egy tengerpart Tropez városában.",
+                  "category": "recreational",
+                  "coords": [
+                        6.692463,
+                        43.258978
+                  ]
+            },
+            {
+                  "name": "Plage de la Bouillabaisse",
+                  "text": "A Plage de la Bouillabaisse egy tengerpart Tropez városában.",
+                  "category": "recreational",
+                  "coords": [
+                        6.624428,
+                        43.266001
+                  ]
+            },
+            {
+                  "name": "Plage de la Garrigue",
+                  "text": "A Plage de la Garrigue egy tengerpart Tropez városában.",
+                  "category": "recreational",
+                  "coords": [
+                        6.680264,
+                        43.248253
+                  ]
+            },
+            {
+                  "name": "Plage des Graniers",
+                  "text": "A Plage des Graniers egy tengerpart Tropez városában.",
+                  "category": "recreational",
+                  "coords": [
+                        6.648306,
+                        43.270701
+                  ]
+            },
+            {
+                  "name": "Plage des Canoubiers",
+                  "text": "A Plage des Canoubiers egy tengerpart Tropez városában.",
+                  "category": "recreational",
+                  "coords": [
+                        6.66447,
+                        43.265336
+                  ]
+            },
+            {
+                  "name": "Plage de la Fontanette",
+                  "text": "A Plage de la Fontanette egy tengerpart Tropez városában.",
+                  "category": "recreational",
+                  "coords": [
+                        6.6421,
+                        43.273775
+                  ]
+            },
+            {
+                  "name": "Plage de Capon",
+                  "text": "A Plage de Capon egy strand Tropez területén.",
+                  "category": "recreational",
+                  "coords": [
+                        6.690466,
+                        43.254126
                   ]
             }
       ],
@@ -11140,6 +16558,87 @@ export const poiExtraFrV2: POI[] = [
                         6.642018,
                         43.259501
                   ]
+            },
+            {
+                  "name": "Batterie du Capon",
+                  "text": "Batterie du Capon este o plajă în orașul Tropez.",
+                  "category": "recreational",
+                  "coords": [
+                        6.690412,
+                        43.252338
+                  ]
+            },
+            {
+                  "name": "Plage Neptune",
+                  "text": "Plage Neptune este o plajă în orașul Tropez.",
+                  "category": "recreational",
+                  "coords": [
+                        6.663092,
+                        43.235279
+                  ]
+            },
+            {
+                  "name": "Plage des Salins",
+                  "text": "Plage des Salins este o plajă în orașul Tropez.",
+                  "category": "recreational",
+                  "coords": [
+                        6.692463,
+                        43.258978
+                  ]
+            },
+            {
+                  "name": "Plage de la Bouillabaisse",
+                  "text": "Plage de la Bouillabaisse este o plajă în orașul Tropez.",
+                  "category": "recreational",
+                  "coords": [
+                        6.624428,
+                        43.266001
+                  ]
+            },
+            {
+                  "name": "Plage de la Garrigue",
+                  "text": "Plage de la Garrigue este o plajă în orașul Tropez.",
+                  "category": "recreational",
+                  "coords": [
+                        6.680264,
+                        43.248253
+                  ]
+            },
+            {
+                  "name": "Plage des Graniers",
+                  "text": "Plage des Graniers este o plajă în orașul Tropez.",
+                  "category": "recreational",
+                  "coords": [
+                        6.648306,
+                        43.270701
+                  ]
+            },
+            {
+                  "name": "Plage des Canoubiers",
+                  "text": "Plage des Canoubiers este o plajă în orașul Tropez.",
+                  "category": "recreational",
+                  "coords": [
+                        6.66447,
+                        43.265336
+                  ]
+            },
+            {
+                  "name": "Plage de la Fontanette",
+                  "text": "Plage de la Fontanette este o plajă în orașul Tropez.",
+                  "category": "recreational",
+                  "coords": [
+                        6.6421,
+                        43.273775
+                  ]
+            },
+            {
+                  "name": "Plage de Capon",
+                  "text": "Plage de Capon este o plajă situată în Tropez.",
+                  "category": "recreational",
+                  "coords": [
+                        6.690466,
+                        43.254126
+                  ]
             }
       ],
       "en": [
@@ -11232,6 +16731,87 @@ export const poiExtraFrV2: POI[] = [
                         6.642018,
                         43.259501
                   ]
+            },
+            {
+                  "name": "Batterie du Capon",
+                  "text": "Batterie du Capon is a beach located in the city of Tropez.",
+                  "category": "recreational",
+                  "coords": [
+                        6.690412,
+                        43.252338
+                  ]
+            },
+            {
+                  "name": "Plage Neptune",
+                  "text": "Plage Neptune is a beach located in the city of Tropez.",
+                  "category": "recreational",
+                  "coords": [
+                        6.663092,
+                        43.235279
+                  ]
+            },
+            {
+                  "name": "Plage des Salins",
+                  "text": "Plage des Salins is a beach located in the city of Tropez.",
+                  "category": "recreational",
+                  "coords": [
+                        6.692463,
+                        43.258978
+                  ]
+            },
+            {
+                  "name": "Plage de la Bouillabaisse",
+                  "text": "Plage de la Bouillabaisse is a beach located in the city of Tropez.",
+                  "category": "recreational",
+                  "coords": [
+                        6.624428,
+                        43.266001
+                  ]
+            },
+            {
+                  "name": "Plage de la Garrigue",
+                  "text": "Plage de la Garrigue is a beach located in the city of Tropez.",
+                  "category": "recreational",
+                  "coords": [
+                        6.680264,
+                        43.248253
+                  ]
+            },
+            {
+                  "name": "Plage des Graniers",
+                  "text": "Plage des Graniers is a beach located in the city of Tropez.",
+                  "category": "recreational",
+                  "coords": [
+                        6.648306,
+                        43.270701
+                  ]
+            },
+            {
+                  "name": "Plage des Canoubiers",
+                  "text": "Plage des Canoubiers is a beach located in the city of Tropez.",
+                  "category": "recreational",
+                  "coords": [
+                        6.66447,
+                        43.265336
+                  ]
+            },
+            {
+                  "name": "Plage de la Fontanette",
+                  "text": "Plage de la Fontanette is a beach located in the city of Tropez.",
+                  "category": "recreational",
+                  "coords": [
+                        6.6421,
+                        43.273775
+                  ]
+            },
+            {
+                  "name": "Plage de Capon",
+                  "text": "Plage de Capon is a beach located in Tropez.",
+                  "category": "recreational",
+                  "coords": [
+                        6.690466,
+                        43.254126
+                  ]
             }
       ]
 }},
@@ -11316,6 +16896,78 @@ export const poiExtraFrV2: POI[] = [
                         6.641244,
                         43.308437
                   ]
+            },
+            {
+                  "name": "Le Club",
+                  "text": "Le Club ist ein Strand in Maxime.",
+                  "category": "recreational",
+                  "coords": [
+                        6.665724,
+                        43.318392
+                  ]
+            },
+            {
+                  "name": "Le Diamant Plage",
+                  "text": "Le Diamant Plage ist ein Strand in Maxime.",
+                  "category": "recreational",
+                  "coords": [
+                        6.626719,
+                        43.302152
+                  ]
+            },
+            {
+                  "name": "Le Saint-Barth",
+                  "text": "Le Saint-Barth ist ein Strand in Maxime.",
+                  "category": "recreational",
+                  "coords": [
+                        6.664938,
+                        43.323107
+                  ]
+            },
+            {
+                  "name": "Plage du centre ville",
+                  "text": "Plage du centre ville ist ein zentral gelegener Strand in Maxime.",
+                  "category": "recreational",
+                  "coords": [
+                        6.635891,
+                        43.307565
+                  ]
+            },
+            {
+                  "name": "Plage de la Garonnette",
+                  "text": "Plage de la Garonnette ist ein Küstenstrand in Maxime.",
+                  "category": "recreational",
+                  "coords": [
+                        6.680358,
+                        43.340321
+                  ]
+            },
+            {
+                  "name": "Plage de la Croisette",
+                  "text": "Plage de la Croisette ist ein bekannter Strand in Maxime.",
+                  "category": "recreational",
+                  "coords": [
+                        6.626405,
+                        43.30096
+                  ]
+            },
+            {
+                  "name": "Plage de Guerrevielle",
+                  "text": "Plage de Guerrevielle ist ein Strand in Maxime.",
+                  "category": "recreational",
+                  "coords": [
+                        6.609714,
+                        43.290913
+                  ]
+            },
+            {
+                  "name": "Plage des Cigales",
+                  "text": "Plage des Cigales ist ein malerischer Strand in der Stadt Maxime.",
+                  "category": "recreational",
+                  "coords": [
+                        6.617054,
+                        43.294941
+                  ]
             }
       ],
       "hu": [
@@ -11397,6 +17049,78 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         6.641244,
                         43.308437
+                  ]
+            },
+            {
+                  "name": "Le Club",
+                  "text": "A Le Club egy strand Maxime városában.",
+                  "category": "recreational",
+                  "coords": [
+                        6.665724,
+                        43.318392
+                  ]
+            },
+            {
+                  "name": "Le Diamant Plage",
+                  "text": "A Le Diamant Plage egy strand Maxime városában.",
+                  "category": "recreational",
+                  "coords": [
+                        6.626719,
+                        43.302152
+                  ]
+            },
+            {
+                  "name": "Le Saint-Barth",
+                  "text": "A Le Saint-Barth egy strand Maxime városában.",
+                  "category": "recreational",
+                  "coords": [
+                        6.664938,
+                        43.323107
+                  ]
+            },
+            {
+                  "name": "Plage du centre ville",
+                  "text": "A Plage du centre ville egy központi fekvésű strand Maxime városában.",
+                  "category": "recreational",
+                  "coords": [
+                        6.635891,
+                        43.307565
+                  ]
+            },
+            {
+                  "name": "Plage de la Garonnette",
+                  "text": "A Plage de la Garonnette egy tengerparti strand Maxime-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        6.680358,
+                        43.340321
+                  ]
+            },
+            {
+                  "name": "Plage de la Croisette",
+                  "text": "A Plage de la Croisette egy ismert strand Maxime városában.",
+                  "category": "recreational",
+                  "coords": [
+                        6.626405,
+                        43.30096
+                  ]
+            },
+            {
+                  "name": "Plage de Guerrevielle",
+                  "text": "A Plage de Guerrevielle egy strand Maxime-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        6.609714,
+                        43.290913
+                  ]
+            },
+            {
+                  "name": "Plage des Cigales",
+                  "text": "A Plage des Cigales egy festői strand Maxime városában.",
+                  "category": "recreational",
+                  "coords": [
+                        6.617054,
+                        43.294941
                   ]
             }
       ],
@@ -11480,6 +17204,78 @@ export const poiExtraFrV2: POI[] = [
                         6.641244,
                         43.308437
                   ]
+            },
+            {
+                  "name": "Le Club",
+                  "text": "Le Club este o plajă situată în Maxime.",
+                  "category": "recreational",
+                  "coords": [
+                        6.665724,
+                        43.318392
+                  ]
+            },
+            {
+                  "name": "Le Diamant Plage",
+                  "text": "Le Diamant Plage este o plajă situată în Maxime.",
+                  "category": "recreational",
+                  "coords": [
+                        6.626719,
+                        43.302152
+                  ]
+            },
+            {
+                  "name": "Le Saint-Barth",
+                  "text": "Le Saint-Barth este o plajă situată în Maxime.",
+                  "category": "recreational",
+                  "coords": [
+                        6.664938,
+                        43.323107
+                  ]
+            },
+            {
+                  "name": "Plage du centre ville",
+                  "text": "Plage du centre ville este o plajă situată central în Maxime.",
+                  "category": "recreational",
+                  "coords": [
+                        6.635891,
+                        43.307565
+                  ]
+            },
+            {
+                  "name": "Plage de la Garonnette",
+                  "text": "Plage de la Garonnette este o plajă pe coastă în Maxime.",
+                  "category": "recreational",
+                  "coords": [
+                        6.680358,
+                        43.340321
+                  ]
+            },
+            {
+                  "name": "Plage de la Croisette",
+                  "text": "Plage de la Croisette este o destinație de plajă cunoscută în Maxime.",
+                  "category": "recreational",
+                  "coords": [
+                        6.626405,
+                        43.30096
+                  ]
+            },
+            {
+                  "name": "Plage de Guerrevielle",
+                  "text": "Plage de Guerrevielle este o plajă situată în Maxime.",
+                  "category": "recreational",
+                  "coords": [
+                        6.609714,
+                        43.290913
+                  ]
+            },
+            {
+                  "name": "Plage des Cigales",
+                  "text": "Plage des Cigales este o plajă pitorească în orașul Maxime.",
+                  "category": "recreational",
+                  "coords": [
+                        6.617054,
+                        43.294941
+                  ]
             }
       ],
       "en": [
@@ -11561,6 +17357,78 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         6.641244,
                         43.308437
+                  ]
+            },
+            {
+                  "name": "Le Club",
+                  "text": "Le Club is a beach located in Maxime.",
+                  "category": "recreational",
+                  "coords": [
+                        6.665724,
+                        43.318392
+                  ]
+            },
+            {
+                  "name": "Le Diamant Plage",
+                  "text": "Le Diamant Plage is a beach located in Maxime.",
+                  "category": "recreational",
+                  "coords": [
+                        6.626719,
+                        43.302152
+                  ]
+            },
+            {
+                  "name": "Le Saint-Barth",
+                  "text": "Le Saint-Barth is a beach located in Maxime.",
+                  "category": "recreational",
+                  "coords": [
+                        6.664938,
+                        43.323107
+                  ]
+            },
+            {
+                  "name": "Plage du centre ville",
+                  "text": "Plage du centre ville is a centrally located beach in Maxime.",
+                  "category": "recreational",
+                  "coords": [
+                        6.635891,
+                        43.307565
+                  ]
+            },
+            {
+                  "name": "Plage de la Garonnette",
+                  "text": "Plage de la Garonnette is a coastal beach area in Maxime.",
+                  "category": "recreational",
+                  "coords": [
+                        6.680358,
+                        43.340321
+                  ]
+            },
+            {
+                  "name": "Plage de la Croisette",
+                  "text": "Plage de la Croisette is a well-known beach destination in Maxime.",
+                  "category": "recreational",
+                  "coords": [
+                        6.626405,
+                        43.30096
+                  ]
+            },
+            {
+                  "name": "Plage de Guerrevielle",
+                  "text": "Plage de Guerrevielle is a beach located in Maxime.",
+                  "category": "recreational",
+                  "coords": [
+                        6.609714,
+                        43.290913
+                  ]
+            },
+            {
+                  "name": "Plage des Cigales",
+                  "text": "Plage des Cigales is a scenic beach in the city of Maxime.",
+                  "category": "recreational",
+                  "coords": [
+                        6.617054,
+                        43.294941
                   ]
             }
       ]
@@ -12836,6 +18704,33 @@ export const poiExtraFrV2: POI[] = [
                         0.515056,
                         47.340364
                   ]
+            },
+            {
+                  "name": "Plage dite du « Bout du monde »",
+                  "text": "Plage dite du « Bout du monde » ist ein Strand in Villandry.",
+                  "category": "recreational",
+                  "coords": [
+                        0.483334,
+                        47.347198
+                  ]
+            },
+            {
+                  "name": "Le Port de la Vinedière",
+                  "text": "Le Port de la Vinedière ist ein Strandabschnitt in Villandry.",
+                  "category": "recreational",
+                  "coords": [
+                        0.461938,
+                        47.335088
+                  ]
+            },
+            {
+                  "name": "Plage de Savonnières",
+                  "text": "Plage de Savonnières ist ein Strand in Villandry.",
+                  "category": "recreational",
+                  "coords": [
+                        0.546056,
+                        47.349774
+                  ]
             }
       ],
       "hu": [
@@ -12907,6 +18802,33 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         0.515056,
                         47.340364
+                  ]
+            },
+            {
+                  "name": "Plage dite du « Bout du monde »",
+                  "text": "A Plage dite du « Bout du monde » egy strand Villandryban.",
+                  "category": "recreational",
+                  "coords": [
+                        0.483334,
+                        47.347198
+                  ]
+            },
+            {
+                  "name": "Le Port de la Vinedière",
+                  "text": "A Le Port de la Vinedière egy strandterület Villandryban.",
+                  "category": "recreational",
+                  "coords": [
+                        0.461938,
+                        47.335088
+                  ]
+            },
+            {
+                  "name": "Plage de Savonnières",
+                  "text": "A Plage de Savonnières egy strand Villandryban.",
+                  "category": "recreational",
+                  "coords": [
+                        0.546056,
+                        47.349774
                   ]
             }
       ],
@@ -12980,6 +18902,33 @@ export const poiExtraFrV2: POI[] = [
                         0.515056,
                         47.340364
                   ]
+            },
+            {
+                  "name": "Plage dite du « Bout du monde »",
+                  "text": "Plage dite du « Bout du monde » este o plajă situată în Villandry.",
+                  "category": "recreational",
+                  "coords": [
+                        0.483334,
+                        47.347198
+                  ]
+            },
+            {
+                  "name": "Le Port de la Vinedière",
+                  "text": "Le Port de la Vinedière este o zonă de plajă în Villandry.",
+                  "category": "recreational",
+                  "coords": [
+                        0.461938,
+                        47.335088
+                  ]
+            },
+            {
+                  "name": "Plage de Savonnières",
+                  "text": "Plage de Savonnières este o plajă situată în Villandry.",
+                  "category": "recreational",
+                  "coords": [
+                        0.546056,
+                        47.349774
+                  ]
             }
       ],
       "en": [
@@ -13051,6 +19000,33 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         0.515056,
                         47.340364
+                  ]
+            },
+            {
+                  "name": "Plage dite du « Bout du monde »",
+                  "text": "Plage dite du « Bout du monde » is a beach situated in Villandry.",
+                  "category": "recreational",
+                  "coords": [
+                        0.483334,
+                        47.347198
+                  ]
+            },
+            {
+                  "name": "Le Port de la Vinedière",
+                  "text": "Le Port de la Vinedière is a beach area in Villandry.",
+                  "category": "recreational",
+                  "coords": [
+                        0.461938,
+                        47.335088
+                  ]
+            },
+            {
+                  "name": "Plage de Savonnières",
+                  "text": "Plage de Savonnières is a beach located in Villandry.",
+                  "category": "recreational",
+                  "coords": [
+                        0.546056,
+                        47.349774
                   ]
             }
       ]

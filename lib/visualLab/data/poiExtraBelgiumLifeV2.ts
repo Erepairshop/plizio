@@ -188,7 +188,52 @@ imageHint: "Giant panda in a thematic enclosure at Pairi Daiza",
     },
   },
   {
-    id: "belgium-planckendael-life-v2",
+    id: "belgium-planckendael-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Strandzone",
+                  "text": "Strandzone bei Planckendael.",
+                  "category": "recreational",
+                  "coords": [
+                        4.514351,
+                        50.985445
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Strandzone",
+                  "text": "Planckendael melletti strandzóna.",
+                  "category": "recreational",
+                  "coords": [
+                        4.514351,
+                        50.985445
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Strandzone",
+                  "text": "Zonă de plajă lângă Planckendael.",
+                  "category": "recreational",
+                  "coords": [
+                        4.514351,
+                        50.985445
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Strandzone",
+                  "text": "Beach zone near Planckendael.",
+                  "category": "recreational",
+                  "coords": [
+                        4.514351,
+                        50.985445
+                  ]
+            }
+      ]
+},
     parent: "BE",
     type: "wildlife",
     name: { de: "Planckendael", hu: "Planckendael Állatpark", ro: "Planckendael", en: "Planckendael"},

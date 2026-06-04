@@ -138,7 +138,52 @@ export const maltaReliefV2: POI[] = [
     image: "/poi-images/malta-ta-cenc-plateau-relief-v2.webp",
   },
   {
-    id: "malta-il-qortin-ridge-relief-v2",
+    id: "malta-il-qortin-ridge-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Imgiebah Bay",
+                  "text": "Imgiebah Bay ist eine abgelegene Bucht unterhalb des Il-Qortin Rückens.",
+                  "category": "recreational",
+                  "coords": [
+                        14.382107,
+                        35.967928
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Imgiebah Bay",
+                  "text": "Az Imgiebah Bay egy eldugott öböl az Il-Qortin gerinc alatt.",
+                  "category": "recreational",
+                  "coords": [
+                        14.382107,
+                        35.967928
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Imgiebah Bay",
+                  "text": "Imgiebah Bay este un golf retras situat sub creasta Il-Qortin.",
+                  "category": "recreational",
+                  "coords": [
+                        14.382107,
+                        35.967928
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Imgiebah Bay",
+                  "text": "Imgiebah Bay is a secluded bay located below the Il-Qortin ridge.",
+                  "category": "recreational",
+                  "coords": [
+                        14.382107,
+                        35.967928
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "MT",
     name: { de: "Il-Qortin Kamm", hu: "Il-Qortin-gerinc", ro: "Creasta Il-Qortin", en: "Il-Qortin Ridge" },
@@ -273,7 +318,88 @@ export const maltaReliefV2: POI[] = [
     image: "/poi-images/malta-ix-xaghra-ta-l-iskorba-relief-v2.webp",
   },
   {
-    id: "malta-ras-il-wahx-cliffs-relief-v2",
+    id: "malta-ras-il-wahx-cliffs-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fomm ir-Riħ",
+                  "text": "Fomm ir-Riħ ist eine abgelegene Bucht unterhalb der Ras il-Wahx Klippen.",
+                  "category": "recreational",
+                  "coords": [
+                        14.340704,
+                        35.90766
+                  ]
+            },
+            {
+                  "name": "Ir-Ramla tal-Ġnejna",
+                  "text": "Ir-Ramla tal-Ġnejna ist eine Bucht nahe den Ras il-Wahx Klippen.",
+                  "category": "recreational",
+                  "coords": [
+                        14.342923,
+                        35.920368
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fomm ir-Riħ",
+                  "text": "Fomm ir-Riħ egy eldugott öböl a Ras il-Wahx sziklák alatt.",
+                  "category": "recreational",
+                  "coords": [
+                        14.340704,
+                        35.90766
+                  ]
+            },
+            {
+                  "name": "Ir-Ramla tal-Ġnejna",
+                  "text": "Ir-Ramla tal-Ġnejna egy öböl a Ras il-Wahx sziklák közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        14.342923,
+                        35.920368
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fomm ir-Riħ",
+                  "text": "Fomm ir-Riħ este un golf retras situat sub stâncile Ras il-Wahx.",
+                  "category": "recreational",
+                  "coords": [
+                        14.340704,
+                        35.90766
+                  ]
+            },
+            {
+                  "name": "Ir-Ramla tal-Ġnejna",
+                  "text": "Ir-Ramla tal-Ġnejna este un golf situat în apropierea stâncilor Ras il-Wahx.",
+                  "category": "recreational",
+                  "coords": [
+                        14.342923,
+                        35.920368
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fomm ir-Riħ",
+                  "text": "Fomm ir-Riħ is a secluded bay located below the Ras il-Wahx cliffs.",
+                  "category": "recreational",
+                  "coords": [
+                        14.340704,
+                        35.90766
+                  ]
+            },
+            {
+                  "name": "Ir-Ramla tal-Ġnejna",
+                  "text": "Ir-Ramla tal-Ġnejna is a bay located near the Ras il-Wahx cliffs.",
+                  "category": "recreational",
+                  "coords": [
+                        14.342923,
+                        35.920368
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "MT",
     name: { de: "Ras il-Waħx Klippen", hu: "Ras il-Waħx-sziklák", ro: "Stâncile Ras il-Waħx", en: "Ras il-Waħx Cliffs" },

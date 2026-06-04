@@ -318,7 +318,88 @@ export const montenegroLifeV2: POI[] = [
     image: "/poi-images/montenegro-skadarsko-eco-life-v2.webp",
   },
   {
-    id: "montenegro-rumija-forest-life-v2",
+    id: "montenegro-rumija-forest-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Veliki Pijesak",
+                  "text": "Veliki Pijesak liegt am Rand des Rumija-Waldes.",
+                  "category": "recreational",
+                  "coords": [
+                        19.142249,
+                        42.034466
+                  ]
+            },
+            {
+                  "name": "Plaža David VIP",
+                  "text": "Plaža David VIP liegt bei den Wäldern von Rumija.",
+                  "category": "recreational",
+                  "coords": [
+                        19.141855,
+                        42.036092
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Veliki Pijesak",
+                  "text": "Veliki Pijesak a Rumija-erdő szélén található.",
+                  "category": "recreational",
+                  "coords": [
+                        19.142249,
+                        42.034466
+                  ]
+            },
+            {
+                  "name": "Plaža David VIP",
+                  "text": "Plaža David VIP a Rumija-hegység erdeinél található.",
+                  "category": "recreational",
+                  "coords": [
+                        19.141855,
+                        42.036092
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Veliki Pijesak",
+                  "text": "Veliki Pijesak este situată la marginea pădurii Rumija.",
+                  "category": "recreational",
+                  "coords": [
+                        19.142249,
+                        42.034466
+                  ]
+            },
+            {
+                  "name": "Plaža David VIP",
+                  "text": "Plaža David VIP este situată lângă pădurile Rumija.",
+                  "category": "recreational",
+                  "coords": [
+                        19.141855,
+                        42.036092
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Veliki Pijesak",
+                  "text": "Veliki Pijesak is situated by the Rumija Forest.",
+                  "category": "recreational",
+                  "coords": [
+                        19.142249,
+                        42.034466
+                  ]
+            },
+            {
+                  "name": "Plaža David VIP",
+                  "text": "Plaža David VIP is located by the forests of Rumija.",
+                  "category": "recreational",
+                  "coords": [
+                        19.141855,
+                        42.036092
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "ME",
     name: { de: "Rumija Bergwald", hu: "Rumija hegyi erdő", ro: "Pădurea montană Rumija", en: "Rumija Mountain Forest" },
@@ -723,7 +804,196 @@ export const montenegroLifeV2: POI[] = [
     image: "/poi-images/montenegro-krnovo-plateau-life-v2.webp",
   },
   {
-    id: "montenegro-solila-wetland-life-v2",
+    id: "montenegro-solila-wetland-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plavi horizonti",
+                  "text": "Plavi horizonti Strand bei Solila.",
+                  "category": "recreational",
+                  "coords": [
+                        18.682994,
+                        42.385696
+                  ]
+            },
+            {
+                  "name": "Kalardovo",
+                  "text": "Kalardovo liegt in der Nähe des Solila-Feuchtgebiets.",
+                  "category": "recreational",
+                  "coords": [
+                        18.712501,
+                        42.406795
+                  ]
+            },
+            {
+                  "name": "Velika Špilja - Pecka",
+                  "text": "Velika Špilja - Pecka liegt beim Solila-Feuchtgebiet.",
+                  "category": "recreational",
+                  "coords": [
+                        18.651989,
+                        42.376242
+                  ]
+            },
+            {
+                  "name": "Almara beach",
+                  "text": "Almara beach liegt beim Solila-Feuchtgebiet.",
+                  "category": "recreational",
+                  "coords": [
+                        18.652752,
+                        42.382618
+                  ]
+            },
+            {
+                  "name": "Velja Spilja",
+                  "text": "Velja Spilja liegt beim Solila-Feuchtgebiet.",
+                  "category": "recreational",
+                  "coords": [
+                        18.652406,
+                        42.377554
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plavi horizonti",
+                  "text": "Plavi horizonti strand Solila közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.682994,
+                        42.385696
+                  ]
+            },
+            {
+                  "name": "Kalardovo",
+                  "text": "Kalardovo a Solila vizes élőhely közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        18.712501,
+                        42.406795
+                  ]
+            },
+            {
+                  "name": "Velika Špilja - Pecka",
+                  "text": "A Velika Špilja - Pecka a Solila vizesélőhelynél található.",
+                  "category": "recreational",
+                  "coords": [
+                        18.651989,
+                        42.376242
+                  ]
+            },
+            {
+                  "name": "Almara beach",
+                  "text": "Az Almara beach a Solila vizesélőhelynél található.",
+                  "category": "recreational",
+                  "coords": [
+                        18.652752,
+                        42.382618
+                  ]
+            },
+            {
+                  "name": "Velja Spilja",
+                  "text": "A Velja Spilja a Solila vizesélőhelynél található.",
+                  "category": "recreational",
+                  "coords": [
+                        18.652406,
+                        42.377554
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plavi horizonti",
+                  "text": "Plaja Plavi horizonti lângă Solila.",
+                  "category": "recreational",
+                  "coords": [
+                        18.682994,
+                        42.385696
+                  ]
+            },
+            {
+                  "name": "Kalardovo",
+                  "text": "Kalardovo este situat lângă zona umedă Solila.",
+                  "category": "recreational",
+                  "coords": [
+                        18.712501,
+                        42.406795
+                  ]
+            },
+            {
+                  "name": "Velika Špilja - Pecka",
+                  "text": "Velika Špilja - Pecka este situată lângă zona umedă Solila.",
+                  "category": "recreational",
+                  "coords": [
+                        18.651989,
+                        42.376242
+                  ]
+            },
+            {
+                  "name": "Almara beach",
+                  "text": "Almara beach este situată lângă zona umedă Solila.",
+                  "category": "recreational",
+                  "coords": [
+                        18.652752,
+                        42.382618
+                  ]
+            },
+            {
+                  "name": "Velja Spilja",
+                  "text": "Velja Spilja este situată lângă zona umedă Solila.",
+                  "category": "recreational",
+                  "coords": [
+                        18.652406,
+                        42.377554
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plavi horizonti",
+                  "text": "Plavi horizonti beach near Solila.",
+                  "category": "recreational",
+                  "coords": [
+                        18.682994,
+                        42.385696
+                  ]
+            },
+            {
+                  "name": "Kalardovo",
+                  "text": "Kalardovo is located near the Solila wetland.",
+                  "category": "recreational",
+                  "coords": [
+                        18.712501,
+                        42.406795
+                  ]
+            },
+            {
+                  "name": "Velika Špilja - Pecka",
+                  "text": "Velika Špilja - Pecka is located at the Solila wetland.",
+                  "category": "recreational",
+                  "coords": [
+                        18.651989,
+                        42.376242
+                  ]
+            },
+            {
+                  "name": "Almara beach",
+                  "text": "Almara beach is located at the Solila wetland.",
+                  "category": "recreational",
+                  "coords": [
+                        18.652752,
+                        42.382618
+                  ]
+            },
+            {
+                  "name": "Velja Spilja",
+                  "text": "Velja Spilja is located at the Solila wetland.",
+                  "category": "recreational",
+                  "coords": [
+                        18.652406,
+                        42.377554
+                  ]
+            }
+      ]
+},
     type: "wildlife",
     parent: "ME",
     name: { de: "Solila Vogelbeobachtung", hu: "Solila madármegfigyelés", ro: "Observarea păsărilor Solila", en: "Solila Bird Watching Area" },
@@ -948,7 +1218,88 @@ export const montenegroLifeV2: POI[] = [
     image: "/poi-images/montenegro-tara-canyon-wildlife-life-v2.webp",
   },
   {
-    id: "montenegro-kotor-bay-nature-life-v2",
+    id: "montenegro-kotor-bay-nature-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ljuta Beach",
+                  "text": "Ljuta Strand in der Bucht von Kotor.",
+                  "category": "recreational",
+                  "coords": [
+                        18.763875,
+                        42.480253
+                  ]
+            },
+            {
+                  "name": "Bajova kula",
+                  "text": "Bajova kula ist ein Strand in der Bucht von Kotor.",
+                  "category": "recreational",
+                  "coords": [
+                        18.734731,
+                        42.483741
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ljuta Beach",
+                  "text": "Ljuta strand a Kotori-öbölben.",
+                  "category": "recreational",
+                  "coords": [
+                        18.763875,
+                        42.480253
+                  ]
+            },
+            {
+                  "name": "Bajova kula",
+                  "text": "A Bajova kula egy strand a Kotori-öbölben.",
+                  "category": "recreational",
+                  "coords": [
+                        18.734731,
+                        42.483741
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ljuta Beach",
+                  "text": "Plaja Ljuta în Golful Kotor.",
+                  "category": "recreational",
+                  "coords": [
+                        18.763875,
+                        42.480253
+                  ]
+            },
+            {
+                  "name": "Bajova kula",
+                  "text": "Bajova kula este o plajă situată în Golful Kotor.",
+                  "category": "recreational",
+                  "coords": [
+                        18.734731,
+                        42.483741
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ljuta Beach",
+                  "text": "Ljuta beach in Kotor Bay.",
+                  "category": "recreational",
+                  "coords": [
+                        18.763875,
+                        42.480253
+                  ]
+            },
+            {
+                  "name": "Bajova kula",
+                  "text": "Bajova kula is a beach located in the Bay of Kotor.",
+                  "category": "recreational",
+                  "coords": [
+                        18.734731,
+                        42.483741
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "ME",
     name: { de: "Bucht von Kotor Flora", hu: "Kotori-öböl flóra", ro: "Flora golfului Kotor", en: "Bay of Kotor Flora" },
@@ -1083,7 +1434,268 @@ export const montenegroLifeV2: POI[] = [
     image: "/poi-images/montenegro-durmitor-bear-life-v2.webp",
   },
   {
-    id: "montenegro-valdanos-olive-life-v2",
+    id: "montenegro-valdanos-olive-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Valdanos",
+                  "text": "Valdanos liegt im Valdanos-Olivenhain.",
+                  "category": "recreational",
+                  "coords": [
+                        19.164992,
+                        41.951422
+                  ]
+            },
+            {
+                  "name": "Paljuškovo Beach",
+                  "text": "Paljuškovo Beach liegt bei den Olivenhainen von Valdanos.",
+                  "category": "recreational",
+                  "coords": [
+                        19.149161,
+                        41.999404
+                  ]
+            },
+            {
+                  "name": "Plazhi i Adës së Krruçit",
+                  "text": "Plazhi i Adës së Krruçit liegt bei Valdanos.",
+                  "category": "recreational",
+                  "coords": [
+                        19.143357,
+                        41.991307
+                  ]
+            },
+            {
+                  "name": "Plazhi i Doçes",
+                  "text": "Plazhi i Doçes liegt bei Valdanos.",
+                  "category": "recreational",
+                  "coords": [
+                        19.150384,
+                        41.981003
+                  ]
+            },
+            {
+                  "name": "Plazhi i Rakitës",
+                  "text": "Plazhi i Rakitës liegt bei Valdanos.",
+                  "category": "recreational",
+                  "coords": [
+                        19.152121,
+                        41.982414
+                  ]
+            },
+            {
+                  "name": "Plazhi i Krruçit",
+                  "text": "Plazhi i Krruçit liegt bei Valdanos.",
+                  "category": "recreational",
+                  "coords": [
+                        19.15084,
+                        41.986418
+                  ]
+            },
+            {
+                  "name": "Davudova plaža",
+                  "text": "Davudova plaža liegt bei Valdanos.",
+                  "category": "recreational",
+                  "coords": [
+                        19.141711,
+                        41.978329
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Valdanos",
+                  "text": "Valdanos a Valdanos olajfaligetben található.",
+                  "category": "recreational",
+                  "coords": [
+                        19.164992,
+                        41.951422
+                  ]
+            },
+            {
+                  "name": "Paljuškovo Beach",
+                  "text": "A Paljuškovo Beach a valdanosi olajfaligetek közelében fekszik.",
+                  "category": "recreational",
+                  "coords": [
+                        19.149161,
+                        41.999404
+                  ]
+            },
+            {
+                  "name": "Plazhi i Adës së Krruçit",
+                  "text": "A Plazhi i Adës së Krruçit Valdanosnál található.",
+                  "category": "recreational",
+                  "coords": [
+                        19.143357,
+                        41.991307
+                  ]
+            },
+            {
+                  "name": "Plazhi i Doçes",
+                  "text": "A Plazhi i Doçes Valdanosnál található.",
+                  "category": "recreational",
+                  "coords": [
+                        19.150384,
+                        41.981003
+                  ]
+            },
+            {
+                  "name": "Plazhi i Rakitës",
+                  "text": "A Plazhi i Rakitës Valdanosnál található.",
+                  "category": "recreational",
+                  "coords": [
+                        19.152121,
+                        41.982414
+                  ]
+            },
+            {
+                  "name": "Plazhi i Krruçit",
+                  "text": "A Plazhi i Krruçit Valdanosnál található.",
+                  "category": "recreational",
+                  "coords": [
+                        19.15084,
+                        41.986418
+                  ]
+            },
+            {
+                  "name": "Davudova plaža",
+                  "text": "A Davudova plaža Valdanosnál található.",
+                  "category": "recreational",
+                  "coords": [
+                        19.141711,
+                        41.978329
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Valdanos",
+                  "text": "Valdanos este situată în zona plantațiilor de măslini din Valdanos.",
+                  "category": "recreational",
+                  "coords": [
+                        19.164992,
+                        41.951422
+                  ]
+            },
+            {
+                  "name": "Paljuškovo Beach",
+                  "text": "Paljuškovo Beach este situată lângă livezile de măslini din Valdanos.",
+                  "category": "recreational",
+                  "coords": [
+                        19.149161,
+                        41.999404
+                  ]
+            },
+            {
+                  "name": "Plazhi i Adës së Krruçit",
+                  "text": "Plazhi i Adës së Krruçit este situată lângă Valdanos.",
+                  "category": "recreational",
+                  "coords": [
+                        19.143357,
+                        41.991307
+                  ]
+            },
+            {
+                  "name": "Plazhi i Doçes",
+                  "text": "Plazhi i Doçes este situată lângă Valdanos.",
+                  "category": "recreational",
+                  "coords": [
+                        19.150384,
+                        41.981003
+                  ]
+            },
+            {
+                  "name": "Plazhi i Rakitës",
+                  "text": "Plazhi i Rakitës este situată lângă Valdanos.",
+                  "category": "recreational",
+                  "coords": [
+                        19.152121,
+                        41.982414
+                  ]
+            },
+            {
+                  "name": "Plazhi i Krruçit",
+                  "text": "Plazhi i Krruçit este situată lângă Valdanos.",
+                  "category": "recreational",
+                  "coords": [
+                        19.15084,
+                        41.986418
+                  ]
+            },
+            {
+                  "name": "Davudova plaža",
+                  "text": "Davudova plaža este situată lângă Valdanos.",
+                  "category": "recreational",
+                  "coords": [
+                        19.141711,
+                        41.978329
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Valdanos",
+                  "text": "Valdanos is located near the Valdanos Olive groves.",
+                  "category": "recreational",
+                  "coords": [
+                        19.164992,
+                        41.951422
+                  ]
+            },
+            {
+                  "name": "Paljuškovo Beach",
+                  "text": "Paljuškovo Beach is located near the Valdanos olive groves.",
+                  "category": "recreational",
+                  "coords": [
+                        19.149161,
+                        41.999404
+                  ]
+            },
+            {
+                  "name": "Plazhi i Adës së Krruçit",
+                  "text": "Plazhi i Adës së Krruçit is located near Valdanos.",
+                  "category": "recreational",
+                  "coords": [
+                        19.143357,
+                        41.991307
+                  ]
+            },
+            {
+                  "name": "Plazhi i Doçes",
+                  "text": "Plazhi i Doçes is located near Valdanos.",
+                  "category": "recreational",
+                  "coords": [
+                        19.150384,
+                        41.981003
+                  ]
+            },
+            {
+                  "name": "Plazhi i Rakitës",
+                  "text": "Plazhi i Rakitës is located near Valdanos.",
+                  "category": "recreational",
+                  "coords": [
+                        19.152121,
+                        41.982414
+                  ]
+            },
+            {
+                  "name": "Plazhi i Krruçit",
+                  "text": "Plazhi i Krruçit is located near Valdanos.",
+                  "category": "recreational",
+                  "coords": [
+                        19.15084,
+                        41.986418
+                  ]
+            },
+            {
+                  "name": "Davudova plaža",
+                  "text": "Davudova plaža is located near Valdanos.",
+                  "category": "recreational",
+                  "coords": [
+                        19.141711,
+                        41.978329
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "ME",
     name: { de: "Valdanos Olivenhain-Ökosystem", hu: "Valdanos olajfaliget-ökoszisztéma", ro: "Ecosistemul livada de măslini Valdanos", en: "Valdanos Olive Grove Ecosystem" },
@@ -1218,7 +1830,52 @@ export const montenegroLifeV2: POI[] = [
     image: "/poi-images/montenegro-cetinje-cave-life-v2.webp",
   },
   {
-    id: "montenegro-adabo-wildlife-life-v2",
+    id: "montenegro-adabo-wildlife-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ka'banya Kitesurf Beach",
+                  "text": "Ka'banya Kitesurf Beach liegt bei Adabo.",
+                  "category": "recreational",
+                  "coords": [
+                        19.329221,
+                        41.874749
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ka'banya Kitesurf Beach",
+                  "text": "A Ka'banya Kitesurf Beach Adabo közelében fekszik.",
+                  "category": "recreational",
+                  "coords": [
+                        19.329221,
+                        41.874749
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ka'banya Kitesurf Beach",
+                  "text": "Ka'banya Kitesurf Beach este situată lângă Adabo.",
+                  "category": "recreational",
+                  "coords": [
+                        19.329221,
+                        41.874749
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ka'banya Kitesurf Beach",
+                  "text": "Ka'banya Kitesurf Beach is located near Adabo.",
+                  "category": "recreational",
+                  "coords": [
+                        19.329221,
+                        41.874749
+                  ]
+            }
+      ]
+},
     type: "wildlife",
     parent: "ME",
     name: { de: "Ada Bojana Mündungs-Naturraum", hu: "Ada Bojana torkolati természetvédelmi terület", ro: "Rezervația naturală estuar Ada Bojana", en: "Ada Bojana Estuary Natural Area" },

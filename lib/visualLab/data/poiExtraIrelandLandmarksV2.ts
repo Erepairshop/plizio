@@ -858,7 +858,88 @@ export const irelandLandmarksV2: POI[] = [
     image: "/poi-images/ireland-four-courts-landmarks-v2.webp",
   },
   {
-    id: "ireland-st-nicholas-church-landmarks-v2",
+    id: "ireland-st-nicholas-church-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ballyloughane Beach",
+                  "text": "Ballyloughane Beach liegt bei der St. Nicholas Church.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.019064,
+                        53.269618
+                  ]
+            },
+            {
+                  "name": "Dead Mans Beach",
+                  "text": "Dead Mans Beach liegt nahe der St. Nicholas Church.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.034565,
+                        53.269059
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ballyloughane Beach",
+                  "text": "A Ballyloughane Beach a St. Nicholas templom közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.019064,
+                        53.269618
+                  ]
+            },
+            {
+                  "name": "Dead Mans Beach",
+                  "text": "A Dead Mans Beach a St. Nicholas templom közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.034565,
+                        53.269059
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ballyloughane Beach",
+                  "text": "Ballyloughane Beach se află lângă biserica St. Nicholas.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.019064,
+                        53.269618
+                  ]
+            },
+            {
+                  "name": "Dead Mans Beach",
+                  "text": "Dead Mans Beach se află lângă biserica St. Nicholas.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.034565,
+                        53.269059
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ballyloughane Beach",
+                  "text": "Ballyloughane Beach is near St. Nicholas Church.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.019064,
+                        53.269618
+                  ]
+            },
+            {
+                  "name": "Dead Mans Beach",
+                  "text": "Dead Mans Beach is near St. Nicholas Church.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.034565,
+                        53.269059
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "IE",
     name: { de: "St. Nicholas Collegiate Church", hu: "St. Nicholas Kollégiumi templom", ro: "Biserica Colegiată St. Nicholas", en: "St. Nicholas Collegiate Church" },

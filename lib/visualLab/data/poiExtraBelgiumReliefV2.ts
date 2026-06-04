@@ -703,7 +703,52 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
     },
   },
   {
-    id: "belgium-campine-relief-v2",
+    id: "belgium-campine-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nuclea Strand",
+                  "text": "Nuclea Strand in der Campine-Region.",
+                  "category": "recreational",
+                  "coords": [
+                        5.094124,
+                        51.220839
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nuclea Strand",
+                  "text": "Nuclea strand a Campine régióban.",
+                  "category": "recreational",
+                  "coords": [
+                        5.094124,
+                        51.220839
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nuclea Strand",
+                  "text": "Plaja Nuclea din regiunea Campine.",
+                  "category": "recreational",
+                  "coords": [
+                        5.094124,
+                        51.220839
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nuclea Strand",
+                  "text": "Nuclea Beach in the Campine region.",
+                  "category": "recreational",
+                  "coords": [
+                        5.094124,
+                        51.220839
+                  ]
+            }
+      ]
+},
     parent: "BE",
     type: "landmark",
     name: { de: "Kempen (Campine)", hu: "Kempen", ro: "Campine", en: "Campine (Kempen)"},
@@ -1031,7 +1076,88 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
     },
   },
   {
-    id: "belgium-montagne-saint-pierre-relief-v2",
+    id: "belgium-montagne-saint-pierre-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "De Maasplassen Naaktstrand",
+                  "text": "Naturistenstrand an den Maasplassen bei Montagne Saint Pierre.",
+                  "category": "recreational",
+                  "coords": [
+                        5.698294,
+                        50.818207
+                  ]
+            },
+            {
+                  "name": "Fun Valley",
+                  "text": "Freizeitstrand Fun Valley bei Montagne Saint Pierre.",
+                  "category": "recreational",
+                  "coords": [
+                        5.70544,
+                        50.805575
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "De Maasplassen Naaktstrand",
+                  "text": "Természetes strand a Maasplassen-nél, Montagne Saint Pierre közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        5.698294,
+                        50.818207
+                  ]
+            },
+            {
+                  "name": "Fun Valley",
+                  "text": "Fun Valley szabadidős strand, Montagne Saint Pierre közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        5.70544,
+                        50.805575
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "De Maasplassen Naaktstrand",
+                  "text": "Plajă pentru nudiști pe Maasplassen, lângă Montagne Saint Pierre.",
+                  "category": "recreational",
+                  "coords": [
+                        5.698294,
+                        50.818207
+                  ]
+            },
+            {
+                  "name": "Fun Valley",
+                  "text": "Plaja de agrement Fun Valley, lângă Montagne Saint Pierre.",
+                  "category": "recreational",
+                  "coords": [
+                        5.70544,
+                        50.805575
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "De Maasplassen Naaktstrand",
+                  "text": "Nudist beach on the Maasplassen near Montagne Saint Pierre.",
+                  "category": "recreational",
+                  "coords": [
+                        5.698294,
+                        50.818207
+                  ]
+            },
+            {
+                  "name": "Fun Valley",
+                  "text": "Recreational beach Fun Valley near Montagne Saint Pierre.",
+                  "category": "recreational",
+                  "coords": [
+                        5.70544,
+                        50.805575
+                  ]
+            }
+      ]
+},
     parent: "BE",
     type: "landmark",
     name: { de: "Sint-Pietersberg", hu: "Sint-Pietersberg", ro: "Sint-Pietersberg", en: "Mount Saint Peter"},
@@ -1581,7 +1707,88 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
     image: "/poi-images/belgium-vallee-de-l-ambleve-relief-v2.webp",
   },
   {
-    id: "belgium-vlaamse-vallei-relief-v2",
+    id: "belgium-vlaamse-vallei-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Surfstrand",
+                  "text": "Surfstrand in der Flämischen Ebene.",
+                  "category": "recreational",
+                  "coords": [
+                        3.690632,
+                        51.043721
+                  ]
+            },
+            {
+                  "name": "Sportstrand",
+                  "text": "Sportstrand in der Flämischen Ebene.",
+                  "category": "recreational",
+                  "coords": [
+                        3.683895,
+                        51.04474
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Surfstrand",
+                  "text": "Surfstrand a Flamand-völgyben.",
+                  "category": "recreational",
+                  "coords": [
+                        3.690632,
+                        51.043721
+                  ]
+            },
+            {
+                  "name": "Sportstrand",
+                  "text": "Sportstrand a Flamand-völgyben.",
+                  "category": "recreational",
+                  "coords": [
+                        3.683895,
+                        51.04474
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Surfstrand",
+                  "text": "Plajă de surf în Vlaamse Vallei.",
+                  "category": "recreational",
+                  "coords": [
+                        3.690632,
+                        51.043721
+                  ]
+            },
+            {
+                  "name": "Sportstrand",
+                  "text": "Plajă sportivă în Vlaamse Vallei.",
+                  "category": "recreational",
+                  "coords": [
+                        3.683895,
+                        51.04474
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Surfstrand",
+                  "text": "Surf beach in the Flemish Valley.",
+                  "category": "recreational",
+                  "coords": [
+                        3.690632,
+                        51.043721
+                  ]
+            },
+            {
+                  "name": "Sportstrand",
+                  "text": "Sports beach in the Flemish Valley.",
+                  "category": "recreational",
+                  "coords": [
+                        3.683895,
+                        51.04474
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "BE",
     name: { de: "Flämisches Tal", hu: "Flamand-völgy", ro: "Valea Flamandă", en: "Flemish Valley" },

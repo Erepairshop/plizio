@@ -1296,7 +1296,52 @@ imageHint: "Belfry of Mons Baroque tower",
     },
     image: "/poi-images/belgium-mons-belfry-history-v2.webp",
 },  {
-    id: "belgium-la-roche-castle-history-v2",
+    id: "belgium-la-roche-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plage de Maboge",
+                  "text": "Badestrand von Maboge nahe Schloss La Roche.",
+                  "category": "recreational",
+                  "coords": [
+                        5.616795,
+                        50.167136
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plage de Maboge",
+                  "text": "A maboge-i strand a La Roche kastély közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        5.616795,
+                        50.167136
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plage de Maboge",
+                  "text": "Plaja Maboge lângă Castelul La Roche.",
+                  "category": "recreational",
+                  "coords": [
+                        5.616795,
+                        50.167136
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plage de Maboge",
+                  "text": "Maboge Beach near La Roche Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        5.616795,
+                        50.167136
+                  ]
+            }
+      ]
+},
     parent: "BE",
     type: "ruins",
     name: { de: "Burg La Roche-en-Ardenne", hu: "La Roche-en-Ardenne vára", ro: "Castelul La Roche-en-Ardenne", en: "Castle of La Roche-en-Ardenne"},

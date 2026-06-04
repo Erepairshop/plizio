@@ -93,6 +93,24 @@ export const poiExtraEsV2: POI[] = [
                         -2.568427,
                         36.819
                   ]
+            },
+            {
+                  "name": "Cala de La Garrofa",
+                  "text": "Cala de La Garrofa ist ein Strand in Aguadulce.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.516027,
+                        36.825264
+                  ]
+            },
+            {
+                  "name": "Cala de los Ahogados",
+                  "text": "Cala de los Ahogados ist ein Küstenstrand in Aguadulce.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.510857,
+                        36.82536
+                  ]
             }
       ],
       "hu": [
@@ -182,6 +200,24 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -2.568427,
                         36.819
+                  ]
+            },
+            {
+                  "name": "Cala de La Garrofa",
+                  "text": "A Cala de La Garrofa egy strand Aguadulce városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.516027,
+                        36.825264
+                  ]
+            },
+            {
+                  "name": "Cala de los Ahogados",
+                  "text": "A Cala de los Ahogados egy tengerparti strand Aguadulce településen.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.510857,
+                        36.82536
                   ]
             }
       ],
@@ -273,6 +309,24 @@ export const poiExtraEsV2: POI[] = [
                         -2.568427,
                         36.819
                   ]
+            },
+            {
+                  "name": "Cala de La Garrofa",
+                  "text": "Cala de La Garrofa este o plajă situată în Aguadulce.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.516027,
+                        36.825264
+                  ]
+            },
+            {
+                  "name": "Cala de los Ahogados",
+                  "text": "Cala de los Ahogados este o plajă de coastă în Aguadulce.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.510857,
+                        36.82536
+                  ]
             }
       ],
       "en": [
@@ -362,6 +416,24 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -2.568427,
                         36.819
+                  ]
+            },
+            {
+                  "name": "Cala de La Garrofa",
+                  "text": "Cala de La Garrofa is a beach situated in Aguadulce.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.516027,
+                        36.825264
+                  ]
+            },
+            {
+                  "name": "Cala de los Ahogados",
+                  "text": "Cala de los Ahogados is a coastal beach destination in Aguadulce.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.510857,
+                        36.82536
                   ]
             }
       ]
@@ -466,6 +538,33 @@ export const poiExtraEsV2: POI[] = [
                         -1.5611,
                         37.411063
                   ]
+            },
+            {
+                  "name": "Playa de Levante",
+                  "text": "Playa de Levante ist ein schöner Küstenstrand in Aguilas.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.576934,
+                        37.40641
+                  ]
+            },
+            {
+                  "name": "Cala Mijo",
+                  "text": "Cala Mijo ist ein angenehmer Strand in Aguilas.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.612637,
+                        37.385882
+                  ]
+            },
+            {
+                  "name": "Cala de las Tortugas",
+                  "text": "Cala de las Tortugas ist ein Strand in Aguilas.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.61516,
+                        37.384543
+                  ]
             }
       ],
       "hu": [
@@ -566,6 +665,33 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -1.5611,
                         37.411063
+                  ]
+            },
+            {
+                  "name": "Playa de Levante",
+                  "text": "A Playa de Levante egy gyönyörű tengerparti strand Aguilasban.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.576934,
+                        37.40641
+                  ]
+            },
+            {
+                  "name": "Cala Mijo",
+                  "text": "A Cala Mijo egy kellemes strand Aguilasban.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.612637,
+                        37.385882
+                  ]
+            },
+            {
+                  "name": "Cala de las Tortugas",
+                  "text": "A Cala de las Tortugas egy strand Aguilas városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.61516,
+                        37.384543
                   ]
             }
       ],
@@ -668,6 +794,33 @@ export const poiExtraEsV2: POI[] = [
                         -1.5611,
                         37.411063
                   ]
+            },
+            {
+                  "name": "Playa de Levante",
+                  "text": "Playa de Levante este o frumoasă plajă de coastă situată în Aguilas.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.576934,
+                        37.40641
+                  ]
+            },
+            {
+                  "name": "Cala Mijo",
+                  "text": "Cala Mijo este o plajă plăcută situată în Aguilas.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.612637,
+                        37.385882
+                  ]
+            },
+            {
+                  "name": "Cala de las Tortugas",
+                  "text": "Cala de las Tortugas este o plajă situată în Aguilas.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.61516,
+                        37.384543
+                  ]
             }
       ],
       "en": [
@@ -768,6 +921,33 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -1.5611,
                         37.411063
+                  ]
+            },
+            {
+                  "name": "Playa de Levante",
+                  "text": "Playa de Levante is a beautiful coastal beach located in Aguilas.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.576934,
+                        37.40641
+                  ]
+            },
+            {
+                  "name": "Cala Mijo",
+                  "text": "Cala Mijo is a pleasant beach situated in Aguilas.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.612637,
+                        37.385882
+                  ]
+            },
+            {
+                  "name": "Cala de las Tortugas",
+                  "text": "Cala de las Tortugas is a beach located in Aguilas.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.61516,
+                        37.384543
                   ]
             }
       ]
@@ -1036,6 +1216,42 @@ export const poiExtraEsV2: POI[] = [
                         3.11977,
                         39.83069
                   ]
+            },
+            {
+                  "name": "Platja de Muro",
+                  "text": "Platja de Muro ist ein bekannter Strand in Alcudia.",
+                  "category": "recreational",
+                  "coords": [
+                        3.11888,
+                        39.808191
+                  ]
+            },
+            {
+                  "name": "Cala Poncet",
+                  "text": "Cala Poncet ist ein Strand in Alcudia.",
+                  "category": "recreational",
+                  "coords": [
+                        3.15759,
+                        39.83773
+                  ]
+            },
+            {
+                  "name": "Platja de Can Cullerassa",
+                  "text": "Platja de Can Cullerassa ist ein Strand in Alcudia.",
+                  "category": "recreational",
+                  "coords": [
+                        3.085728,
+                        39.872986
+                  ]
+            },
+            {
+                  "name": "Platja d'Alcanada",
+                  "text": "Platja d'Alcanada ist ein Strand in Alcudia.",
+                  "category": "recreational",
+                  "coords": [
+                        3.164536,
+                        39.838454
+                  ]
             }
       ],
       "hu": [
@@ -1114,6 +1330,42 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         3.11977,
                         39.83069
+                  ]
+            },
+            {
+                  "name": "Platja de Muro",
+                  "text": "A Platja de Muro egy nevezetes tengerpart Alcudia városában.",
+                  "category": "recreational",
+                  "coords": [
+                        3.11888,
+                        39.808191
+                  ]
+            },
+            {
+                  "name": "Cala Poncet",
+                  "text": "A Cala Poncet egy tengerpart Alcudia városában.",
+                  "category": "recreational",
+                  "coords": [
+                        3.15759,
+                        39.83773
+                  ]
+            },
+            {
+                  "name": "Platja de Can Cullerassa",
+                  "text": "A Platja de Can Cullerassa egy tengerpart Alcudia városában.",
+                  "category": "recreational",
+                  "coords": [
+                        3.085728,
+                        39.872986
+                  ]
+            },
+            {
+                  "name": "Platja d'Alcanada",
+                  "text": "A Platja d'Alcanada egy tengerpart Alcudia városában.",
+                  "category": "recreational",
+                  "coords": [
+                        3.164536,
+                        39.838454
                   ]
             }
       ],
@@ -1194,6 +1446,42 @@ export const poiExtraEsV2: POI[] = [
                         3.11977,
                         39.83069
                   ]
+            },
+            {
+                  "name": "Platja de Muro",
+                  "text": "Platja de Muro este o plajă notabilă situată în Alcudia.",
+                  "category": "recreational",
+                  "coords": [
+                        3.11888,
+                        39.808191
+                  ]
+            },
+            {
+                  "name": "Cala Poncet",
+                  "text": "Cala Poncet este o plajă situată în Alcudia.",
+                  "category": "recreational",
+                  "coords": [
+                        3.15759,
+                        39.83773
+                  ]
+            },
+            {
+                  "name": "Platja de Can Cullerassa",
+                  "text": "Platja de Can Cullerassa este o plajă situată în Alcudia.",
+                  "category": "recreational",
+                  "coords": [
+                        3.085728,
+                        39.872986
+                  ]
+            },
+            {
+                  "name": "Platja d'Alcanada",
+                  "text": "Platja d'Alcanada este o plajă situată în Alcudia.",
+                  "category": "recreational",
+                  "coords": [
+                        3.164536,
+                        39.838454
+                  ]
             }
       ],
       "en": [
@@ -1272,6 +1560,42 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         3.11977,
                         39.83069
+                  ]
+            },
+            {
+                  "name": "Platja de Muro",
+                  "text": "Platja de Muro is a notable beach located in Alcudia.",
+                  "category": "recreational",
+                  "coords": [
+                        3.11888,
+                        39.808191
+                  ]
+            },
+            {
+                  "name": "Cala Poncet",
+                  "text": "Cala Poncet is a beach situated in Alcudia.",
+                  "category": "recreational",
+                  "coords": [
+                        3.15759,
+                        39.83773
+                  ]
+            },
+            {
+                  "name": "Platja de Can Cullerassa",
+                  "text": "Platja de Can Cullerassa is a beach located in Alcudia.",
+                  "category": "recreational",
+                  "coords": [
+                        3.085728,
+                        39.872986
+                  ]
+            },
+            {
+                  "name": "Platja d'Alcanada",
+                  "text": "Platja d'Alcanada is a beach located in Alcudia.",
+                  "category": "recreational",
+                  "coords": [
+                        3.164536,
+                        39.838454
                   ]
             }
       ]
@@ -1705,6 +2029,123 @@ export const poiExtraEsV2: POI[] = [
                         -3.691004,
                         36.731078
                   ]
+            },
+            {
+                  "name": "Playa Puerta del Mar",
+                  "text": "Playa Puerta del Mar ist ein beliebter Strand in Almunecar.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.687708,
+                        36.730082
+                  ]
+            },
+            {
+                  "name": "Playa de Velilla",
+                  "text": "Playa de Velilla ist ein bekanntes Strandziel in Almunecar.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.668314,
+                        36.738044
+                  ]
+            },
+            {
+                  "name": "Playa del Pozuelo",
+                  "text": "Playa del Pozuelo ist ein malerischer Strandbereich in Almunecar.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.660515,
+                        36.745771
+                  ]
+            },
+            {
+                  "name": "Playa del Muerto",
+                  "text": "Playa del Muerto ist ein anerkannter Strand in Almunecar.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.721052,
+                        36.731569
+                  ]
+            },
+            {
+                  "name": "Playa de los Berengueles",
+                  "text": "Playa de los Berengueles ist ein bekannter Strandabschnitt in Almunecar.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.728178,
+                        36.722669
+                  ]
+            },
+            {
+                  "name": "Playa Barranco de Enmedio",
+                  "text": "Playa Barranco de Enmedio ist ein Küstenstrand in Almunecar.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.644266,
+                        36.74365
+                  ]
+            },
+            {
+                  "name": "Playa Calabajío",
+                  "text": "Playa Calabajío ist ein anerkannter Strand in Almunecar.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.656899,
+                        36.746548
+                  ]
+            },
+            {
+                  "name": "Playa de Cotobro",
+                  "text": "Playa de Cotobro ist ein bekannter Strandbereich in Almunecar.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.715248,
+                        36.732934
+                  ]
+            },
+            {
+                  "name": "Playa de Cabria",
+                  "text": "Playa de Cabria ist ein beliebtes Strandziel in Almunecar.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.65188,
+                        36.745403
+                  ]
+            },
+            {
+                  "name": "Playa del Curumbico",
+                  "text": "Playa del Curumbico ist ein Strand in Almunecar.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.648859,
+                        36.744859
+                  ]
+            },
+            {
+                  "name": "Playa del Tesorillo",
+                  "text": "Playa del Tesorillo ist ein bekannter Strand in Almunecar.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.662968,
+                        36.743411
+                  ]
+            },
+            {
+                  "name": "La Veintiuna",
+                  "text": "La Veintiuna ist ein Strandbereich in Almunecar.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.707309,
+                        36.732961
+                  ]
+            },
+            {
+                  "name": "El Rincón de la China",
+                  "text": "El Rincón de la China ist ein Strand in Almunecar.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.705135,
+                        36.733755
+                  ]
             }
       ],
       "hu": [
@@ -1816,6 +2257,123 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -3.691004,
                         36.731078
+                  ]
+            },
+            {
+                  "name": "Playa Puerta del Mar",
+                  "text": "A Playa Puerta del Mar egy népszerű strand Almunecarban.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.687708,
+                        36.730082
+                  ]
+            },
+            {
+                  "name": "Playa de Velilla",
+                  "text": "A Playa de Velilla egy nevezetes tengerparti úti cél Almunecarban.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.668314,
+                        36.738044
+                  ]
+            },
+            {
+                  "name": "Playa del Pozuelo",
+                  "text": "A Playa del Pozuelo egy festői strandterület Almunecarban.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.660515,
+                        36.745771
+                  ]
+            },
+            {
+                  "name": "Playa del Muerto",
+                  "text": "A Playa del Muerto egy elismert strand Almunecarban.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.721052,
+                        36.731569
+                  ]
+            },
+            {
+                  "name": "Playa de los Berengueles",
+                  "text": "A Playa de los Berengueles egy ismert tengerparti hely Almunecarban.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.728178,
+                        36.722669
+                  ]
+            },
+            {
+                  "name": "Playa Barranco de Enmedio",
+                  "text": "A Playa Barranco de Enmedio egy tengerparti strand Almunecarban.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.644266,
+                        36.74365
+                  ]
+            },
+            {
+                  "name": "Playa Calabajío",
+                  "text": "A Playa Calabajío egy elismert strand Almunecarban.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.656899,
+                        36.746548
+                  ]
+            },
+            {
+                  "name": "Playa de Cotobro",
+                  "text": "A Playa de Cotobro egy nevezetes strandterület Almunecarban.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.715248,
+                        36.732934
+                  ]
+            },
+            {
+                  "name": "Playa de Cabria",
+                  "text": "A Playa de Cabria egy népszerű tengerparti úti cél Almunecarban.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.65188,
+                        36.745403
+                  ]
+            },
+            {
+                  "name": "Playa del Curumbico",
+                  "text": "A Playa del Curumbico egy strand Almunecar városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.648859,
+                        36.744859
+                  ]
+            },
+            {
+                  "name": "Playa del Tesorillo",
+                  "text": "A Playa del Tesorillo egy ismert strand Almunecar városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.662968,
+                        36.743411
+                  ]
+            },
+            {
+                  "name": "La Veintiuna",
+                  "text": "A La Veintiuna egy strand Almunecar területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.707309,
+                        36.732961
+                  ]
+            },
+            {
+                  "name": "El Rincón de la China",
+                  "text": "Az El Rincón de la China egy strand Almunecar városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.705135,
+                        36.733755
                   ]
             }
       ],
@@ -1929,6 +2487,123 @@ export const poiExtraEsV2: POI[] = [
                         -3.691004,
                         36.731078
                   ]
+            },
+            {
+                  "name": "Playa Puerta del Mar",
+                  "text": "Playa Puerta del Mar este o plajă populară din Almunecar.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.687708,
+                        36.730082
+                  ]
+            },
+            {
+                  "name": "Playa de Velilla",
+                  "text": "Playa de Velilla este o destinație de plajă notabilă în Almunecar.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.668314,
+                        36.738044
+                  ]
+            },
+            {
+                  "name": "Playa del Pozuelo",
+                  "text": "Playa del Pozuelo este o zonă de plajă pitorească situată în Almunecar.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.660515,
+                        36.745771
+                  ]
+            },
+            {
+                  "name": "Playa del Muerto",
+                  "text": "Playa del Muerto este o plajă recunoscută situată în Almunecar.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.721052,
+                        36.731569
+                  ]
+            },
+            {
+                  "name": "Playa de los Berengueles",
+                  "text": "Playa de los Berengueles este un loc de plajă cunoscut în Almunecar.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.728178,
+                        36.722669
+                  ]
+            },
+            {
+                  "name": "Playa Barranco de Enmedio",
+                  "text": "Playa Barranco de Enmedio este o plajă de coastă în Almunecar.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.644266,
+                        36.74365
+                  ]
+            },
+            {
+                  "name": "Playa Calabajío",
+                  "text": "Playa Calabajío este o plajă recunoscută situată în Almunecar.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.656899,
+                        36.746548
+                  ]
+            },
+            {
+                  "name": "Playa de Cotobro",
+                  "text": "Playa de Cotobro este o zonă de plajă notabilă situată în Almunecar.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.715248,
+                        36.732934
+                  ]
+            },
+            {
+                  "name": "Playa de Cabria",
+                  "text": "Playa de Cabria este o destinație de plajă populară în Almunecar.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.65188,
+                        36.745403
+                  ]
+            },
+            {
+                  "name": "Playa del Curumbico",
+                  "text": "Playa del Curumbico este o plajă situată în Almunecar.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.648859,
+                        36.744859
+                  ]
+            },
+            {
+                  "name": "Playa del Tesorillo",
+                  "text": "Playa del Tesorillo este o plajă cunoscută din Almunecar.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.662968,
+                        36.743411
+                  ]
+            },
+            {
+                  "name": "La Veintiuna",
+                  "text": "La Veintiuna este o plajă din Almunecar.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.707309,
+                        36.732961
+                  ]
+            },
+            {
+                  "name": "El Rincón de la China",
+                  "text": "El Rincón de la China este o plajă situată în Almunecar.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.705135,
+                        36.733755
+                  ]
             }
       ],
       "en": [
@@ -2040,6 +2715,123 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -3.691004,
                         36.731078
+                  ]
+            },
+            {
+                  "name": "Playa Puerta del Mar",
+                  "text": "Playa Puerta del Mar is a popular beach in Almunecar.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.687708,
+                        36.730082
+                  ]
+            },
+            {
+                  "name": "Playa de Velilla",
+                  "text": "Playa de Velilla is a notable beach destination in Almunecar.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.668314,
+                        36.738044
+                  ]
+            },
+            {
+                  "name": "Playa del Pozuelo",
+                  "text": "Playa del Pozuelo is a scenic beach area located in Almunecar.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.660515,
+                        36.745771
+                  ]
+            },
+            {
+                  "name": "Playa del Muerto",
+                  "text": "Playa del Muerto is a recognized beach situated in Almunecar.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.721052,
+                        36.731569
+                  ]
+            },
+            {
+                  "name": "Playa de los Berengueles",
+                  "text": "Playa de los Berengueles is a known beach spot in Almunecar.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.728178,
+                        36.722669
+                  ]
+            },
+            {
+                  "name": "Playa Barranco de Enmedio",
+                  "text": "Playa Barranco de Enmedio is a coastal beach in Almunecar.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.644266,
+                        36.74365
+                  ]
+            },
+            {
+                  "name": "Playa Calabajío",
+                  "text": "Playa Calabajío is a recognized beach located in Almunecar.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.656899,
+                        36.746548
+                  ]
+            },
+            {
+                  "name": "Playa de Cotobro",
+                  "text": "Playa de Cotobro is a notable beach area situated in Almunecar.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.715248,
+                        36.732934
+                  ]
+            },
+            {
+                  "name": "Playa de Cabria",
+                  "text": "Playa de Cabria is a popular beach destination in Almunecar.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.65188,
+                        36.745403
+                  ]
+            },
+            {
+                  "name": "Playa del Curumbico",
+                  "text": "Playa del Curumbico is a beach situated in Almunecar.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.648859,
+                        36.744859
+                  ]
+            },
+            {
+                  "name": "Playa del Tesorillo",
+                  "text": "Playa del Tesorillo is a popular beach located in Almunecar.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.662968,
+                        36.743411
+                  ]
+            },
+            {
+                  "name": "La Veintiuna",
+                  "text": "La Veintiuna is a beach area located in Almunecar.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.707309,
+                        36.732961
+                  ]
+            },
+            {
+                  "name": "El Rincón de la China",
+                  "text": "El Rincón de la China is a beach destination in Almunecar.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.705135,
+                        36.733755
                   ]
             }
       ]
@@ -2297,6 +3089,33 @@ export const poiExtraEsV2: POI[] = [
                         2.350625,
                         39.595882
                   ]
+            },
+            {
+                  "name": "Platja de Palmira",
+                  "text": "Platja de Palmira ist ein beliebtes Strandziel in Andratx.",
+                  "category": "recreational",
+                  "coords": [
+                        2.451177,
+                        39.536322
+                  ]
+            },
+            {
+                  "name": "Cala en Cranc",
+                  "text": "Cala en Cranc ist ein ruhiger Strandabschnitt in Andratx.",
+                  "category": "recreational",
+                  "coords": [
+                        2.413083,
+                        39.53879
+                  ]
+            },
+            {
+                  "name": "Cala Blanca",
+                  "text": "Cala Blanca ist ein einladender Strand in der Stadt Andratx.",
+                  "category": "recreational",
+                  "coords": [
+                        2.40571,
+                        39.536896
+                  ]
             }
       ],
       "hu": [
@@ -2364,6 +3183,33 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         2.350625,
                         39.595882
+                  ]
+            },
+            {
+                  "name": "Platja de Palmira",
+                  "text": "A Platja de Palmira egy népszerű strand Andratxban.",
+                  "category": "recreational",
+                  "coords": [
+                        2.451177,
+                        39.536322
+                  ]
+            },
+            {
+                  "name": "Cala en Cranc",
+                  "text": "A Cala en Cranc egy békés strand Andratxban.",
+                  "category": "recreational",
+                  "coords": [
+                        2.413083,
+                        39.53879
+                  ]
+            },
+            {
+                  "name": "Cala Blanca",
+                  "text": "A Cala Blanca egy hívogató strand Andratx városában.",
+                  "category": "recreational",
+                  "coords": [
+                        2.40571,
+                        39.536896
                   ]
             }
       ],
@@ -2433,6 +3279,33 @@ export const poiExtraEsV2: POI[] = [
                         2.350625,
                         39.595882
                   ]
+            },
+            {
+                  "name": "Platja de Palmira",
+                  "text": "Platja de Palmira este o destinație populară de plajă în Andratx.",
+                  "category": "recreational",
+                  "coords": [
+                        2.451177,
+                        39.536322
+                  ]
+            },
+            {
+                  "name": "Cala en Cranc",
+                  "text": "Cala en Cranc este un loc de plajă liniștit situat în Andratx.",
+                  "category": "recreational",
+                  "coords": [
+                        2.413083,
+                        39.53879
+                  ]
+            },
+            {
+                  "name": "Cala Blanca",
+                  "text": "Cala Blanca este o plajă primitoare situată în orașul Andratx.",
+                  "category": "recreational",
+                  "coords": [
+                        2.40571,
+                        39.536896
+                  ]
             }
       ],
       "en": [
@@ -2500,6 +3373,33 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         2.350625,
                         39.595882
+                  ]
+            },
+            {
+                  "name": "Platja de Palmira",
+                  "text": "Platja de Palmira is a popular beach destination in Andratx.",
+                  "category": "recreational",
+                  "coords": [
+                        2.451177,
+                        39.536322
+                  ]
+            },
+            {
+                  "name": "Cala en Cranc",
+                  "text": "Cala en Cranc is a tranquil beach spot located in Andratx.",
+                  "category": "recreational",
+                  "coords": [
+                        2.413083,
+                        39.53879
+                  ]
+            },
+            {
+                  "name": "Cala Blanca",
+                  "text": "Cala Blanca is an inviting beach situated in the city of Andratx.",
+                  "category": "recreational",
+                  "coords": [
+                        2.40571,
+                        39.536896
                   ]
             }
       ]
@@ -4228,6 +5128,105 @@ export const poiExtraEsV2: POI[] = [
                         -8.850553,
                         42.122429
                   ]
+            },
+            {
+                  "name": "Praia de Patos",
+                  "text": "Praia de Patos ist ein bekannter Strand in Baiona.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.827404,
+                        42.155375
+                  ]
+            },
+            {
+                  "name": "Praia da Ladeira",
+                  "text": "Praia da Ladeira ist ein bemerkenswerter Strand in der Küstenstadt Baiona.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.829031,
+                        42.115972
+                  ]
+            },
+            {
+                  "name": "Praia de Santa Marta",
+                  "text": "Praia de Santa Marta ist ein anerkanntes Strandziel in Baiona.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.83949,
+                        42.115059
+                  ]
+            },
+            {
+                  "name": "Praia da Barbeira",
+                  "text": "Praia da Barbeira ist ein bekannter Strand in Baiona.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.848172,
+                        42.123536
+                  ]
+            },
+            {
+                  "name": "Praia dos Frades",
+                  "text": "Praia dos Frades ist ein öffentlicher Strand in Baiona.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.851851,
+                        42.125621
+                  ]
+            },
+            {
+                  "name": "Praia América",
+                  "text": "Praia América ist ein bekannter Strand in Baiona.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.820822,
+                        42.134629
+                  ]
+            },
+            {
+                  "name": "Praia da Ribeira",
+                  "text": "Praia da Ribeira ist ein bemerkenswerter Sandstrand in Baiona.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.849079,
+                        42.121505
+                  ]
+            },
+            {
+                  "name": "Praia da Area Fofa",
+                  "text": "Praia da Area Fofa ist ein Strand in der Stadt Baiona.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.829417,
+                        42.147983
+                  ]
+            },
+            {
+                  "name": "Praia da Madorra",
+                  "text": "Praia da Madorra ist ein Küstenstrand in Baiona.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.826396,
+                        42.145684
+                  ]
+            },
+            {
+                  "name": "Praia de Portocelo",
+                  "text": "Praia de Portocelo ist ein Strand mit Zugang zum Meer in Baiona.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.839434,
+                        42.148341
+                  ]
+            },
+            {
+                  "name": "Praia de Ribas Brancas",
+                  "text": "Praia de Ribas Brancas ist ein Strand in Baiona.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.834044,
+                        42.14869
+                  ]
             }
       ],
       "hu": [
@@ -4284,6 +5283,105 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -8.850553,
                         42.122429
+                  ]
+            },
+            {
+                  "name": "Praia de Patos",
+                  "text": "A Praia de Patos egy ismert strand Baiona városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.827404,
+                        42.155375
+                  ]
+            },
+            {
+                  "name": "Praia da Ladeira",
+                  "text": "A Praia da Ladeira egy figyelemre méltó strand a tengerparti Baiona városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.829031,
+                        42.115972
+                  ]
+            },
+            {
+                  "name": "Praia de Santa Marta",
+                  "text": "A Praia de Santa Marta egy elismert strandolási célpont Baionában.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.83949,
+                        42.115059
+                  ]
+            },
+            {
+                  "name": "Praia da Barbeira",
+                  "text": "A Praia da Barbeira egy jól ismert strand Baionában.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.848172,
+                        42.123536
+                  ]
+            },
+            {
+                  "name": "Praia dos Frades",
+                  "text": "A Praia dos Frades egy nyilvános strand Baiona városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.851851,
+                        42.125621
+                  ]
+            },
+            {
+                  "name": "Praia América",
+                  "text": "A Praia América egy jól ismert strand Baionában.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.820822,
+                        42.134629
+                  ]
+            },
+            {
+                  "name": "Praia da Ribeira",
+                  "text": "A Praia da Ribeira egy figyelemre méltó homokos strand Baionában.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.849079,
+                        42.121505
+                  ]
+            },
+            {
+                  "name": "Praia da Area Fofa",
+                  "text": "A Praia da Area Fofa egy strand Baiona városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.829417,
+                        42.147983
+                  ]
+            },
+            {
+                  "name": "Praia da Madorra",
+                  "text": "A Praia da Madorra egy tengerparti strand Baiona területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.826396,
+                        42.145684
+                  ]
+            },
+            {
+                  "name": "Praia de Portocelo",
+                  "text": "A Praia de Portocelo egy strand Baiona városában, amely tengerparti hozzáférést kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.839434,
+                        42.148341
+                  ]
+            },
+            {
+                  "name": "Praia de Ribas Brancas",
+                  "text": "A Praia de Ribas Brancas egy strand Baiona városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.834044,
+                        42.14869
                   ]
             }
       ],
@@ -4342,6 +5440,105 @@ export const poiExtraEsV2: POI[] = [
                         -8.850553,
                         42.122429
                   ]
+            },
+            {
+                  "name": "Praia de Patos",
+                  "text": "Praia de Patos este o plajă cunoscută situată în Baiona.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.827404,
+                        42.155375
+                  ]
+            },
+            {
+                  "name": "Praia da Ladeira",
+                  "text": "Praia da Ladeira este o plajă notabilă din orașul de coastă Baiona.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.829031,
+                        42.115972
+                  ]
+            },
+            {
+                  "name": "Praia de Santa Marta",
+                  "text": "Praia de Santa Marta este o destinație de plajă recunoscută în Baiona.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.83949,
+                        42.115059
+                  ]
+            },
+            {
+                  "name": "Praia da Barbeira",
+                  "text": "Praia da Barbeira este o plajă bine cunoscută situată în Baiona.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.848172,
+                        42.123536
+                  ]
+            },
+            {
+                  "name": "Praia dos Frades",
+                  "text": "Praia dos Frades este o plajă publică situată în Baiona.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.851851,
+                        42.125621
+                  ]
+            },
+            {
+                  "name": "Praia América",
+                  "text": "Praia América este o plajă bine cunoscută din Baiona.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.820822,
+                        42.134629
+                  ]
+            },
+            {
+                  "name": "Praia da Ribeira",
+                  "text": "Praia da Ribeira este o plajă de nisip notabilă din Baiona.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.849079,
+                        42.121505
+                  ]
+            },
+            {
+                  "name": "Praia da Area Fofa",
+                  "text": "Praia da Area Fofa este o plajă situată în orașul Baiona.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.829417,
+                        42.147983
+                  ]
+            },
+            {
+                  "name": "Praia da Madorra",
+                  "text": "Praia da Madorra este o plajă de coastă situată în Baiona.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.826396,
+                        42.145684
+                  ]
+            },
+            {
+                  "name": "Praia de Portocelo",
+                  "text": "Praia de Portocelo este o plajă care oferă acces la litoral în Baiona.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.839434,
+                        42.148341
+                  ]
+            },
+            {
+                  "name": "Praia de Ribas Brancas",
+                  "text": "Praia de Ribas Brancas este o plajă situată în Baiona.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.834044,
+                        42.14869
+                  ]
             }
       ],
       "en": [
@@ -4398,6 +5595,105 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -8.850553,
                         42.122429
+                  ]
+            },
+            {
+                  "name": "Praia de Patos",
+                  "text": "Praia de Patos is a notable beach located in Baiona.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.827404,
+                        42.155375
+                  ]
+            },
+            {
+                  "name": "Praia da Ladeira",
+                  "text": "Praia da Ladeira is a notable beach in the coastal town of Baiona.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.829031,
+                        42.115972
+                  ]
+            },
+            {
+                  "name": "Praia de Santa Marta",
+                  "text": "Praia de Santa Marta is a recognized beach destination in Baiona.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.83949,
+                        42.115059
+                  ]
+            },
+            {
+                  "name": "Praia da Barbeira",
+                  "text": "Praia da Barbeira is a well-known beach situated in Baiona.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.848172,
+                        42.123536
+                  ]
+            },
+            {
+                  "name": "Praia dos Frades",
+                  "text": "Praia dos Frades is a public beach located in Baiona.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.851851,
+                        42.125621
+                  ]
+            },
+            {
+                  "name": "Praia América",
+                  "text": "Praia América is a well-known beach in Baiona.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.820822,
+                        42.134629
+                  ]
+            },
+            {
+                  "name": "Praia da Ribeira",
+                  "text": "Praia da Ribeira is a notable sandy beach in Baiona.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.849079,
+                        42.121505
+                  ]
+            },
+            {
+                  "name": "Praia da Area Fofa",
+                  "text": "Praia da Area Fofa is a beach situated in the town of Baiona.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.829417,
+                        42.147983
+                  ]
+            },
+            {
+                  "name": "Praia da Madorra",
+                  "text": "Praia da Madorra is a coastal beach located in Baiona.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.826396,
+                        42.145684
+                  ]
+            },
+            {
+                  "name": "Praia de Portocelo",
+                  "text": "Praia de Portocelo is a beach offering seaside access in Baiona.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.839434,
+                        42.148341
+                  ]
+            },
+            {
+                  "name": "Praia de Ribas Brancas",
+                  "text": "Praia de Ribas Brancas is a beach located in Baiona.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.834044,
+                        42.14869
                   ]
             }
       ]
@@ -4513,6 +5809,15 @@ export const poiExtraEsV2: POI[] = [
                         2.171549,
                         41.381796
                   ]
+            },
+            {
+                  "name": "Platja del Somorrostro",
+                  "text": "Platja del Somorrostro ist ein beliebter Strand in Barcelona.",
+                  "category": "recreational",
+                  "coords": [
+                        2.196406,
+                        41.383527
+                  ]
             }
       ],
       "hu": [
@@ -4624,6 +5929,15 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         2.171549,
                         41.381796
+                  ]
+            },
+            {
+                  "name": "Platja del Somorrostro",
+                  "text": "A Platja del Somorrostro egy népszerű strand Barcelonában.",
+                  "category": "recreational",
+                  "coords": [
+                        2.196406,
+                        41.383527
                   ]
             }
       ],
@@ -4737,6 +6051,15 @@ export const poiExtraEsV2: POI[] = [
                         2.171549,
                         41.381796
                   ]
+            },
+            {
+                  "name": "Platja del Somorrostro",
+                  "text": "Platja del Somorrostro este o plajă populară din Barcelona.",
+                  "category": "recreational",
+                  "coords": [
+                        2.196406,
+                        41.383527
+                  ]
             }
       ],
       "en": [
@@ -4849,6 +6172,15 @@ export const poiExtraEsV2: POI[] = [
                         2.171549,
                         41.381796
                   ]
+            },
+            {
+                  "name": "Platja del Somorrostro",
+                  "text": "Platja del Somorrostro is a popular beach located in Barcelona.",
+                  "category": "recreational",
+                  "coords": [
+                        2.196406,
+                        41.383527
+                  ]
             }
       ]
 }},
@@ -4930,6 +6262,33 @@ export const poiExtraEsV2: POI[] = [
                         3.20834,
                         41.95474
                   ]
+            },
+            {
+                  "name": "Cala d'Aiguafreda",
+                  "text": "Cala d'Aiguafreda ist ein Strand in Begur.",
+                  "category": "recreational",
+                  "coords": [
+                        3.227244,
+                        41.964521
+                  ]
+            },
+            {
+                  "name": "Platja de ses Llunes",
+                  "text": "Platja de ses Llunes ist ein Strand in Begur.",
+                  "category": "recreational",
+                  "coords": [
+                        3.210288,
+                        41.973822
+                  ]
+            },
+            {
+                  "name": "Cala des Falcó",
+                  "text": "Cala des Falcó ist ein Strand in Begur.",
+                  "category": "recreational",
+                  "coords": [
+                        3.227135,
+                        41.947794
+                  ]
             }
       ],
       "hu": [
@@ -5008,6 +6367,33 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         3.20834,
                         41.95474
+                  ]
+            },
+            {
+                  "name": "Cala d'Aiguafreda",
+                  "text": "A Cala d'Aiguafreda egy strand Begur városában.",
+                  "category": "recreational",
+                  "coords": [
+                        3.227244,
+                        41.964521
+                  ]
+            },
+            {
+                  "name": "Platja de ses Llunes",
+                  "text": "A Platja de ses Llunes egy strand Begur városában.",
+                  "category": "recreational",
+                  "coords": [
+                        3.210288,
+                        41.973822
+                  ]
+            },
+            {
+                  "name": "Cala des Falcó",
+                  "text": "A Cala des Falcó egy strand Begur városában.",
+                  "category": "recreational",
+                  "coords": [
+                        3.227135,
+                        41.947794
                   ]
             }
       ],
@@ -5088,6 +6474,33 @@ export const poiExtraEsV2: POI[] = [
                         3.20834,
                         41.95474
                   ]
+            },
+            {
+                  "name": "Cala d'Aiguafreda",
+                  "text": "Cala d'Aiguafreda este o plajă situată în Begur.",
+                  "category": "recreational",
+                  "coords": [
+                        3.227244,
+                        41.964521
+                  ]
+            },
+            {
+                  "name": "Platja de ses Llunes",
+                  "text": "Platja de ses Llunes este o plajă situată în Begur.",
+                  "category": "recreational",
+                  "coords": [
+                        3.210288,
+                        41.973822
+                  ]
+            },
+            {
+                  "name": "Cala des Falcó",
+                  "text": "Cala des Falcó este o plajă situată în Begur.",
+                  "category": "recreational",
+                  "coords": [
+                        3.227135,
+                        41.947794
+                  ]
             }
       ],
       "en": [
@@ -5166,6 +6579,33 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         3.20834,
                         41.95474
+                  ]
+            },
+            {
+                  "name": "Cala d'Aiguafreda",
+                  "text": "Cala d'Aiguafreda is a beach located in Begur.",
+                  "category": "recreational",
+                  "coords": [
+                        3.227244,
+                        41.964521
+                  ]
+            },
+            {
+                  "name": "Platja de ses Llunes",
+                  "text": "Platja de ses Llunes is a beach located in Begur.",
+                  "category": "recreational",
+                  "coords": [
+                        3.210288,
+                        41.973822
+                  ]
+            },
+            {
+                  "name": "Cala des Falcó",
+                  "text": "Cala des Falcó is a beach located in Begur.",
+                  "category": "recreational",
+                  "coords": [
+                        3.227135,
+                        41.947794
                   ]
             }
       ]
@@ -6060,6 +7500,24 @@ export const poiExtraEsV2: POI[] = [
                         2.806988,
                         41.678607
                   ]
+            },
+            {
+                  "name": "Platja de s'Abanell",
+                  "text": "Platja de s'Abanell ist ein bekannter Strand in Blanes.",
+                  "category": "recreational",
+                  "coords": [
+                        2.784732,
+                        41.661111
+                  ]
+            },
+            {
+                  "name": "Platja de la Punta de la Tordera",
+                  "text": "Platja de la Punta de la Tordera ist ein bemerkenswerter Strand in Blanes.",
+                  "category": "recreational",
+                  "coords": [
+                        2.772142,
+                        41.648742
+                  ]
             }
       ],
       "hu": [
@@ -6138,6 +7596,24 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         2.806988,
                         41.678607
+                  ]
+            },
+            {
+                  "name": "Platja de s'Abanell",
+                  "text": "A Platja de s'Abanell egy kiemelkedő strand Blanes városában.",
+                  "category": "recreational",
+                  "coords": [
+                        2.784732,
+                        41.661111
+                  ]
+            },
+            {
+                  "name": "Platja de la Punta de la Tordera",
+                  "text": "A Platja de la Punta de la Tordera egy figyelemre méltó strand Blanesben.",
+                  "category": "recreational",
+                  "coords": [
+                        2.772142,
+                        41.648742
                   ]
             }
       ],
@@ -6218,6 +7694,24 @@ export const poiExtraEsV2: POI[] = [
                         2.806988,
                         41.678607
                   ]
+            },
+            {
+                  "name": "Platja de s'Abanell",
+                  "text": "Platja de s'Abanell este o plajă proeminentă situată în Blanes.",
+                  "category": "recreational",
+                  "coords": [
+                        2.784732,
+                        41.661111
+                  ]
+            },
+            {
+                  "name": "Platja de la Punta de la Tordera",
+                  "text": "Platja de la Punta de la Tordera este o plajă notabilă situată în Blanes.",
+                  "category": "recreational",
+                  "coords": [
+                        2.772142,
+                        41.648742
+                  ]
             }
       ],
       "en": [
@@ -6296,6 +7790,24 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         2.806988,
                         41.678607
+                  ]
+            },
+            {
+                  "name": "Platja de s'Abanell",
+                  "text": "Platja de s'Abanell is a prominent beach located in Blanes.",
+                  "category": "recreational",
+                  "coords": [
+                        2.784732,
+                        41.661111
+                  ]
+            },
+            {
+                  "name": "Platja de la Punta de la Tordera",
+                  "text": "Platja de la Punta de la Tordera is a notable beach situated in Blanes.",
+                  "category": "recreational",
+                  "coords": [
+                        2.772142,
+                        41.648742
                   ]
             }
       ]
@@ -7014,6 +8526,33 @@ export const poiExtraEsV2: POI[] = [
                         3.414348,
                         39.636945
                   ]
+            },
+            {
+                  "name": "Cala Morlanda",
+                  "text": "Cala Morlanda ist ein Strand in der Küstenregion von Millor.",
+                  "category": "recreational",
+                  "coords": [
+                        3.371003,
+                        39.557504
+                  ]
+            },
+            {
+                  "name": "platja de sa Marjal",
+                  "text": "Platja de sa Marjal ist ein Strand an der Küste von Millor.",
+                  "category": "recreational",
+                  "coords": [
+                        3.404756,
+                        39.63536
+                  ]
+            },
+            {
+                  "name": "Caló d'en Rafelino",
+                  "text": "Caló d'en Rafelino ist ein Strand, der Entspannung am Meer in Millor bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        3.366945,
+                        39.556078
+                  ]
             }
       ],
       "hu": [
@@ -7092,6 +8631,33 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         3.414348,
                         39.636945
+                  ]
+            },
+            {
+                  "name": "Cala Morlanda",
+                  "text": "A Cala Morlanda egy strand Millor partmenti területén.",
+                  "category": "recreational",
+                  "coords": [
+                        3.371003,
+                        39.557504
+                  ]
+            },
+            {
+                  "name": "platja de sa Marjal",
+                  "text": "A platja de sa Marjal egy tengerparti strand Millorban.",
+                  "category": "recreational",
+                  "coords": [
+                        3.404756,
+                        39.63536
+                  ]
+            },
+            {
+                  "name": "Caló d'en Rafelino",
+                  "text": "A Caló d'en Rafelino egy tengerparti pihenést kínáló strand Millorban.",
+                  "category": "recreational",
+                  "coords": [
+                        3.366945,
+                        39.556078
                   ]
             }
       ],
@@ -7172,6 +8738,33 @@ export const poiExtraEsV2: POI[] = [
                         3.414348,
                         39.636945
                   ]
+            },
+            {
+                  "name": "Cala Morlanda",
+                  "text": "Cala Morlanda este o plajă situată în zona de coastă din Millor.",
+                  "category": "recreational",
+                  "coords": [
+                        3.371003,
+                        39.557504
+                  ]
+            },
+            {
+                  "name": "platja de sa Marjal",
+                  "text": "Platja de sa Marjal este o plajă de pe litoral situată în Millor.",
+                  "category": "recreational",
+                  "coords": [
+                        3.404756,
+                        39.63536
+                  ]
+            },
+            {
+                  "name": "Caló d'en Rafelino",
+                  "text": "Caló d'en Rafelino este o plajă care oferă relaxare la malul mării în Millor.",
+                  "category": "recreational",
+                  "coords": [
+                        3.366945,
+                        39.556078
+                  ]
             }
       ],
       "en": [
@@ -7250,6 +8843,33 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         3.414348,
                         39.636945
+                  ]
+            },
+            {
+                  "name": "Cala Morlanda",
+                  "text": "Cala Morlanda is a beach located in the coastal area of Millor.",
+                  "category": "recreational",
+                  "coords": [
+                        3.371003,
+                        39.557504
+                  ]
+            },
+            {
+                  "name": "platja de sa Marjal",
+                  "text": "Platja de sa Marjal is a coastal beach situated in Millor.",
+                  "category": "recreational",
+                  "coords": [
+                        3.404756,
+                        39.63536
+                  ]
+            },
+            {
+                  "name": "Caló d'en Rafelino",
+                  "text": "Caló d'en Rafelino is a beach offering seaside relaxation in Millor.",
+                  "category": "recreational",
+                  "coords": [
+                        3.366945,
+                        39.556078
                   ]
             }
       ]
@@ -7650,6 +9270,87 @@ export const poiExtraEsV2: POI[] = [
                         0.046698,
                         38.645869
                   ]
+            },
+            {
+                  "name": "Cala les Urques",
+                  "text": "Cala les Urques ist ein Strand an der Küste von Calpe.",
+                  "category": "recreational",
+                  "coords": [
+                        0.032665,
+                        38.632667
+                  ]
+            },
+            {
+                  "name": "Cala Gasparet",
+                  "text": "Cala Gasparet ist ein malerischer Strand in der Stadt Calpe.",
+                  "category": "recreational",
+                  "coords": [
+                        0.02948,
+                        38.628446
+                  ]
+            },
+            {
+                  "name": "Cala de la Fustera",
+                  "text": "Cala de la Fustera ist ein bekannter feiner Sandstrand an der Küste von Calpe.",
+                  "category": "recreational",
+                  "coords": [
+                        0.088122,
+                        38.664641
+                  ]
+            },
+            {
+                  "name": "Platja de la Calalga",
+                  "text": "Platja de la Calalga ist ein Strandziel an der Küste von Calpe.",
+                  "category": "recreational",
+                  "coords": [
+                        0.077543,
+                        38.652574
+                  ]
+            },
+            {
+                  "name": "Cala del Mallorquí",
+                  "text": "Cala del Mallorquí ist ein Strand am Meer in der Gegend von Calpe.",
+                  "category": "recreational",
+                  "coords": [
+                        0.080428,
+                        38.656359
+                  ]
+            },
+            {
+                  "name": "Cala del Racó del Corb",
+                  "text": "Cala del Racó del Corb ist ein ruhiger Strand in der Stadt Calpe.",
+                  "category": "recreational",
+                  "coords": [
+                        0.00989,
+                        38.632189
+                  ]
+            },
+            {
+                  "name": "Cala el Racó",
+                  "text": "Cala el Racó ist eine bemerkenswerte Bucht in der Nähe des Peñón de Ifach in Calpe.",
+                  "category": "recreational",
+                  "coords": [
+                        0.071109,
+                        38.63571
+                  ]
+            },
+            {
+                  "name": "Cala de la Barra Gran",
+                  "text": "Cala de la Barra Gran ist ein Strand, der in Calpe Zugang zum Meer bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        0.005672,
+                        38.630104
+                  ]
+            },
+            {
+                  "name": "Cala Punta Prado",
+                  "text": "Cala Punta Prado ist ein Strand in Calpe.",
+                  "category": "recreational",
+                  "coords": [
+                        0.088504,
+                        38.663052
+                  ]
             }
       ],
       "hu": [
@@ -7728,6 +9429,87 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         0.046698,
                         38.645869
+                  ]
+            },
+            {
+                  "name": "Cala les Urques",
+                  "text": "A Cala les Urques egy strand Calpe partvidékén.",
+                  "category": "recreational",
+                  "coords": [
+                        0.032665,
+                        38.632667
+                  ]
+            },
+            {
+                  "name": "Cala Gasparet",
+                  "text": "A Cala Gasparet egy festői strand Calpe városában.",
+                  "category": "recreational",
+                  "coords": [
+                        0.02948,
+                        38.628446
+                  ]
+            },
+            {
+                  "name": "Cala de la Fustera",
+                  "text": "A Cala de la Fustera egy jól ismert finom homokos strand Calpe partjainál.",
+                  "category": "recreational",
+                  "coords": [
+                        0.088122,
+                        38.664641
+                  ]
+            },
+            {
+                  "name": "Platja de la Calalga",
+                  "text": "A Platja de la Calalga egy tengerparti strand célpont Calpe-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        0.077543,
+                        38.652574
+                  ]
+            },
+            {
+                  "name": "Cala del Mallorquí",
+                  "text": "A Cala del Mallorquí egy tengerparti strand Calpe térségében.",
+                  "category": "recreational",
+                  "coords": [
+                        0.080428,
+                        38.656359
+                  ]
+            },
+            {
+                  "name": "Cala del Racó del Corb",
+                  "text": "A Cala del Racó del Corb egy csendes strand Calpe városában.",
+                  "category": "recreational",
+                  "coords": [
+                        0.00989,
+                        38.632189
+                  ]
+            },
+            {
+                  "name": "Cala el Racó",
+                  "text": "A Cala el Racó egy nevezetes öböl a Peñón de Ifach szikla közelében, Calpe-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        0.071109,
+                        38.63571
+                  ]
+            },
+            {
+                  "name": "Cala de la Barra Gran",
+                  "text": "A Cala de la Barra Gran egy strand, amely tengerparti hozzáférést biztosít Calpe-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        0.005672,
+                        38.630104
+                  ]
+            },
+            {
+                  "name": "Cala Punta Prado",
+                  "text": "A Cala Punta Prado egy tengerpart Calpe városában.",
+                  "category": "recreational",
+                  "coords": [
+                        0.088504,
+                        38.663052
                   ]
             }
       ],
@@ -7808,6 +9590,87 @@ export const poiExtraEsV2: POI[] = [
                         0.046698,
                         38.645869
                   ]
+            },
+            {
+                  "name": "Cala les Urques",
+                  "text": "Cala les Urques este o plajă situată de-a lungul coastei din Calpe.",
+                  "category": "recreational",
+                  "coords": [
+                        0.032665,
+                        38.632667
+                  ]
+            },
+            {
+                  "name": "Cala Gasparet",
+                  "text": "Cala Gasparet este o plajă pitorească situată în orașul Calpe.",
+                  "category": "recreational",
+                  "coords": [
+                        0.02948,
+                        38.628446
+                  ]
+            },
+            {
+                  "name": "Cala de la Fustera",
+                  "text": "Cala de la Fustera este o plajă binecunoscută cu nisip fin, situată pe coasta din Calpe.",
+                  "category": "recreational",
+                  "coords": [
+                        0.088122,
+                        38.664641
+                  ]
+            },
+            {
+                  "name": "Platja de la Calalga",
+                  "text": "Platja de la Calalga este o destinație de plajă pe coastă în Calpe.",
+                  "category": "recreational",
+                  "coords": [
+                        0.077543,
+                        38.652574
+                  ]
+            },
+            {
+                  "name": "Cala del Mallorquí",
+                  "text": "Cala del Mallorquí este o plajă la malul mării situată în zona Calpe.",
+                  "category": "recreational",
+                  "coords": [
+                        0.080428,
+                        38.656359
+                  ]
+            },
+            {
+                  "name": "Cala del Racó del Corb",
+                  "text": "Cala del Racó del Corb este o plajă liniștită situată în orașul Calpe.",
+                  "category": "recreational",
+                  "coords": [
+                        0.00989,
+                        38.632189
+                  ]
+            },
+            {
+                  "name": "Cala el Racó",
+                  "text": "Cala el Racó este un golf notabil situat lângă stânca Peñón de Ifach din Calpe.",
+                  "category": "recreational",
+                  "coords": [
+                        0.071109,
+                        38.63571
+                  ]
+            },
+            {
+                  "name": "Cala de la Barra Gran",
+                  "text": "Cala de la Barra Gran este o plajă care oferă acces la mare în Calpe.",
+                  "category": "recreational",
+                  "coords": [
+                        0.005672,
+                        38.630104
+                  ]
+            },
+            {
+                  "name": "Cala Punta Prado",
+                  "text": "Cala Punta Prado este o plajă situată în Calpe.",
+                  "category": "recreational",
+                  "coords": [
+                        0.088504,
+                        38.663052
+                  ]
             }
       ],
       "en": [
@@ -7886,6 +9749,87 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         0.046698,
                         38.645869
+                  ]
+            },
+            {
+                  "name": "Cala les Urques",
+                  "text": "Cala les Urques is a beach situated along the coast of Calpe.",
+                  "category": "recreational",
+                  "coords": [
+                        0.032665,
+                        38.632667
+                  ]
+            },
+            {
+                  "name": "Cala Gasparet",
+                  "text": "Cala Gasparet is a scenic beach located in the town of Calpe.",
+                  "category": "recreational",
+                  "coords": [
+                        0.02948,
+                        38.628446
+                  ]
+            },
+            {
+                  "name": "Cala de la Fustera",
+                  "text": "Cala de la Fustera is a well-known fine sandy beach located on the coast of Calpe.",
+                  "category": "recreational",
+                  "coords": [
+                        0.088122,
+                        38.664641
+                  ]
+            },
+            {
+                  "name": "Platja de la Calalga",
+                  "text": "Platja de la Calalga is a coastal beach destination in Calpe.",
+                  "category": "recreational",
+                  "coords": [
+                        0.077543,
+                        38.652574
+                  ]
+            },
+            {
+                  "name": "Cala del Mallorquí",
+                  "text": "Cala del Mallorquí is a seaside beach situated in the area of Calpe.",
+                  "category": "recreational",
+                  "coords": [
+                        0.080428,
+                        38.656359
+                  ]
+            },
+            {
+                  "name": "Cala del Racó del Corb",
+                  "text": "Cala del Racó del Corb is a tranquil beach located in the town of Calpe.",
+                  "category": "recreational",
+                  "coords": [
+                        0.00989,
+                        38.632189
+                  ]
+            },
+            {
+                  "name": "Cala el Racó",
+                  "text": "Cala el Racó is a notable cove located near the Peñón de Ifach rock formation in Calpe.",
+                  "category": "recreational",
+                  "coords": [
+                        0.071109,
+                        38.63571
+                  ]
+            },
+            {
+                  "name": "Cala de la Barra Gran",
+                  "text": "Cala de la Barra Gran is a beach providing seaside access in Calpe.",
+                  "category": "recreational",
+                  "coords": [
+                        0.005672,
+                        38.630104
+                  ]
+            },
+            {
+                  "name": "Cala Punta Prado",
+                  "text": "Cala Punta Prado is a beach located in Calpe.",
+                  "category": "recreational",
+                  "coords": [
+                        0.088504,
+                        38.663052
                   ]
             }
       ]
@@ -7979,6 +9923,24 @@ export const poiExtraEsV2: POI[] = [
                         -8.814968,
                         42.516154
                   ]
+            },
+            {
+                  "name": "Praia das Patiñas",
+                  "text": "Praia das Patiñas ist ein Strand in Cambados.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.827469,
+                        42.542093
+                  ]
+            },
+            {
+                  "name": "Praia da Porqueira",
+                  "text": "Praia da Porqueira befindet sich in Cambados und ist ein Strand.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.826469,
+                        42.534531
+                  ]
             }
       ],
       "hu": [
@@ -8068,6 +10030,24 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -8.814968,
                         42.516154
+                  ]
+            },
+            {
+                  "name": "Praia das Patiñas",
+                  "text": "A Praia das Patiñas egy strand Cambados városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.827469,
+                        42.542093
+                  ]
+            },
+            {
+                  "name": "Praia da Porqueira",
+                  "text": "A Praia da Porqueira egy Cambadosban található strand.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.826469,
+                        42.534531
                   ]
             }
       ],
@@ -8159,6 +10139,24 @@ export const poiExtraEsV2: POI[] = [
                         -8.814968,
                         42.516154
                   ]
+            },
+            {
+                  "name": "Praia das Patiñas",
+                  "text": "Praia das Patiñas este o plajă situată în Cambados.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.827469,
+                        42.542093
+                  ]
+            },
+            {
+                  "name": "Praia da Porqueira",
+                  "text": "Praia da Porqueira este o plajă aflată în Cambados.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.826469,
+                        42.534531
+                  ]
             }
       ],
       "en": [
@@ -8248,6 +10246,24 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -8.814968,
                         42.516154
+                  ]
+            },
+            {
+                  "name": "Praia das Patiñas",
+                  "text": "Praia das Patiñas is a beach located in Cambados.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.827469,
+                        42.542093
+                  ]
+            },
+            {
+                  "name": "Praia da Porqueira",
+                  "text": "Praia da Porqueira is a beach situated in Cambados.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.826469,
+                        42.534531
                   ]
             }
       ]
@@ -8757,6 +10773,15 @@ export const poiExtraEsV2: POI[] = [
                         3.180556,
                         39.940278
                   ]
+            },
+            {
+                  "name": "Cala en Gossalba",
+                  "text": "Cala en Gossalba ist ein bekannter Strand in De Formentor.",
+                  "category": "recreational",
+                  "coords": [
+                        3.18926,
+                        39.944038
+                  ]
             }
       ],
       "hu": [
@@ -8812,6 +10837,15 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         3.180556,
                         39.940278
+                  ]
+            },
+            {
+                  "name": "Cala en Gossalba",
+                  "text": "A Cala en Gossalba egy nevezetes tengerpart De Formentorban.",
+                  "category": "recreational",
+                  "coords": [
+                        3.18926,
+                        39.944038
                   ]
             }
       ],
@@ -8869,6 +10903,15 @@ export const poiExtraEsV2: POI[] = [
                         3.180556,
                         39.940278
                   ]
+            },
+            {
+                  "name": "Cala en Gossalba",
+                  "text": "Cala en Gossalba este o plajă notabilă situată în De Formentor.",
+                  "category": "recreational",
+                  "coords": [
+                        3.18926,
+                        39.944038
+                  ]
             }
       ],
       "en": [
@@ -8924,6 +10967,15 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         3.180556,
                         39.940278
+                  ]
+            },
+            {
+                  "name": "Cala en Gossalba",
+                  "text": "Cala en Gossalba is a notable beach situated in De Formentor.",
+                  "category": "recreational",
+                  "coords": [
+                        3.18926,
+                        39.944038
                   ]
             }
       ]
@@ -9401,6 +11453,33 @@ export const poiExtraEsV2: POI[] = [
                         -0.978611,
                         37.604167
                   ]
+            },
+            {
+                  "name": "Cala Cortina",
+                  "text": "Cala Cortina ist ein bekannter Strand in der Nähe des Stadtzentrums von Cartagena.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.975208,
+                        37.58115
+                  ]
+            },
+            {
+                  "name": "Cala del Gallito",
+                  "text": "Cala del Gallito ist ein ruhiger Strand, der eine entspannte Atmosphäre in Cartagena bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.017905,
+                        37.574048
+                  ]
+            },
+            {
+                  "name": "Playa de la Parajola",
+                  "text": "Playa de la Parajola ist ein Küstenstrandgebiet in Cartagena.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.012523,
+                        37.580648
+                  ]
             }
       ],
       "hu": [
@@ -9512,6 +11591,33 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -0.978611,
                         37.604167
+                  ]
+            },
+            {
+                  "name": "Cala Cortina",
+                  "text": "A Cala Cortina egy jól ismert strand Cartagena városközpontjának közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.975208,
+                        37.58115
+                  ]
+            },
+            {
+                  "name": "Cala del Gallito",
+                  "text": "A Cala del Gallito egy csendes strand, amely pihentető légkört kínál Cartagenában.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.017905,
+                        37.574048
+                  ]
+            },
+            {
+                  "name": "Playa de la Parajola",
+                  "text": "A Playa de la Parajola egy part menti strandövezet Cartagenában.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.012523,
+                        37.580648
                   ]
             }
       ],
@@ -9625,6 +11731,33 @@ export const poiExtraEsV2: POI[] = [
                         -0.978611,
                         37.604167
                   ]
+            },
+            {
+                  "name": "Cala Cortina",
+                  "text": "Cala Cortina este o plajă binecunoscută, aproape de centrul orașului Cartagena.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.975208,
+                        37.58115
+                  ]
+            },
+            {
+                  "name": "Cala del Gallito",
+                  "text": "Cala del Gallito este o plajă liniștită care oferă o atmosferă relaxantă în Cartagena.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.017905,
+                        37.574048
+                  ]
+            },
+            {
+                  "name": "Playa de la Parajola",
+                  "text": "Playa de la Parajola este o zonă de plajă de coastă situată în Cartagena.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.012523,
+                        37.580648
+                  ]
             }
       ],
       "en": [
@@ -9736,6 +11869,33 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -0.978611,
                         37.604167
+                  ]
+            },
+            {
+                  "name": "Cala Cortina",
+                  "text": "Cala Cortina is a well-known beach close to the city center of Cartagena.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.975208,
+                        37.58115
+                  ]
+            },
+            {
+                  "name": "Cala del Gallito",
+                  "text": "Cala del Gallito is a quiet beach offering a relaxing atmosphere in Cartagena.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.017905,
+                        37.574048
+                  ]
+            },
+            {
+                  "name": "Playa de la Parajola",
+                  "text": "Playa de la Parajola is a coastal beach area located in Cartagena.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.012523,
+                        37.580648
                   ]
             }
       ]
@@ -10081,6 +12241,51 @@ export const poiExtraEsV2: POI[] = [
                         3.837583,
                         40.004781
                   ]
+            },
+            {
+                  "name": "Cales Piques",
+                  "text": "Cales Piques ist eine kleine Bucht und ein Strand in Ciutadella.",
+                  "category": "recreational",
+                  "coords": [
+                        3.798256,
+                        40.00358
+                  ]
+            },
+            {
+                  "name": "Cala Blanca",
+                  "text": "Cala Blanca ist ein malerischer Strand in Ciutadella, der sich durch seinen weißen Sand auszeichnet.",
+                  "category": "recreational",
+                  "coords": [
+                        3.835904,
+                        39.96765
+                  ]
+            },
+            {
+                  "name": "Sa Caleta",
+                  "text": "Sa Caleta ist ein Sandstrand in Ciutadella.",
+                  "category": "recreational",
+                  "coords": [
+                        3.83456,
+                        39.981524
+                  ]
+            },
+            {
+                  "name": "Cala en Blanes",
+                  "text": "Cala en Blanes ist ein Wohngebiet am Strand an der Küste von Ciutadella.",
+                  "category": "recreational",
+                  "coords": [
+                        3.813392,
+                        40.000711
+                  ]
+            },
+            {
+                  "name": "Cala en Forcat",
+                  "text": "Cala en Forcat ist ein lokaler Strandort in Ciutadella.",
+                  "category": "recreational",
+                  "coords": [
+                        3.801084,
+                        39.999544
+                  ]
             }
       ],
       "hu": [
@@ -10148,6 +12353,51 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         3.837583,
                         40.004781
+                  ]
+            },
+            {
+                  "name": "Cales Piques",
+                  "text": "A Cales Piques egy kis strand és öböl Ciutadella városában.",
+                  "category": "recreational",
+                  "coords": [
+                        3.798256,
+                        40.00358
+                  ]
+            },
+            {
+                  "name": "Cala Blanca",
+                  "text": "A Cala Blanca egy festői strand Ciutadella városában, amelyet fehér homokja jellemez.",
+                  "category": "recreational",
+                  "coords": [
+                        3.835904,
+                        39.96765
+                  ]
+            },
+            {
+                  "name": "Sa Caleta",
+                  "text": "A Sa Caleta egy homokos strand Ciutadella településen.",
+                  "category": "recreational",
+                  "coords": [
+                        3.83456,
+                        39.981524
+                  ]
+            },
+            {
+                  "name": "Cala en Blanes",
+                  "text": "A Cala en Blanes egy lakóövezet és strand Ciutadella partja mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        3.813392,
+                        40.000711
+                  ]
+            },
+            {
+                  "name": "Cala en Forcat",
+                  "text": "A Cala en Forcat egy helyi tengerparti hely Ciutadella városában.",
+                  "category": "recreational",
+                  "coords": [
+                        3.801084,
+                        39.999544
                   ]
             }
       ],
@@ -10217,6 +12467,51 @@ export const poiExtraEsV2: POI[] = [
                         3.837583,
                         40.004781
                   ]
+            },
+            {
+                  "name": "Cales Piques",
+                  "text": "Cales Piques este o plajă mică și un golf situat în Ciutadella.",
+                  "category": "recreational",
+                  "coords": [
+                        3.798256,
+                        40.00358
+                  ]
+            },
+            {
+                  "name": "Cala Blanca",
+                  "text": "Cala Blanca este o plajă pitorească din Ciutadella, remarcată pentru nisipul său alb.",
+                  "category": "recreational",
+                  "coords": [
+                        3.835904,
+                        39.96765
+                  ]
+            },
+            {
+                  "name": "Sa Caleta",
+                  "text": "Sa Caleta este o destinație de plajă cu nisip în Ciutadella.",
+                  "category": "recreational",
+                  "coords": [
+                        3.83456,
+                        39.981524
+                  ]
+            },
+            {
+                  "name": "Cala en Blanes",
+                  "text": "Cala en Blanes este o zonă rezidențială cu plajă de-a lungul coastei din Ciutadella.",
+                  "category": "recreational",
+                  "coords": [
+                        3.813392,
+                        40.000711
+                  ]
+            },
+            {
+                  "name": "Cala en Forcat",
+                  "text": "Cala en Forcat este o plajă locală situată în Ciutadella.",
+                  "category": "recreational",
+                  "coords": [
+                        3.801084,
+                        39.999544
+                  ]
             }
       ],
       "en": [
@@ -10284,6 +12579,51 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         3.837583,
                         40.004781
+                  ]
+            },
+            {
+                  "name": "Cales Piques",
+                  "text": "Cales Piques is a small beach and cove located in Ciutadella.",
+                  "category": "recreational",
+                  "coords": [
+                        3.798256,
+                        40.00358
+                  ]
+            },
+            {
+                  "name": "Cala Blanca",
+                  "text": "Cala Blanca is a scenic beach in Ciutadella, distinguished by its white sands.",
+                  "category": "recreational",
+                  "coords": [
+                        3.835904,
+                        39.96765
+                  ]
+            },
+            {
+                  "name": "Sa Caleta",
+                  "text": "Sa Caleta is a sandy beach destination in Ciutadella.",
+                  "category": "recreational",
+                  "coords": [
+                        3.83456,
+                        39.981524
+                  ]
+            },
+            {
+                  "name": "Cala en Blanes",
+                  "text": "Cala en Blanes is a residential beach area situated along the coast of Ciutadella.",
+                  "category": "recreational",
+                  "coords": [
+                        3.813392,
+                        40.000711
+                  ]
+            },
+            {
+                  "name": "Cala en Forcat",
+                  "text": "Cala en Forcat is a local beach spot situated in Ciutadella.",
+                  "category": "recreational",
+                  "coords": [
+                        3.801084,
+                        39.999544
                   ]
             }
       ]
@@ -10355,6 +12695,33 @@ export const poiExtraEsV2: POI[] = [
                         -8.664456,
                         42.421045
                   ]
+            },
+            {
+                  "name": "A Area da Illa",
+                  "text": "A Area da Illa ist ein Strand in Combarro.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.707501,
+                        42.413704
+                  ]
+            },
+            {
+                  "name": "A Area da Hedreira",
+                  "text": "A Area da Hedreira ist ein Strand in Combarro.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.705812,
+                        42.410863
+                  ]
+            },
+            {
+                  "name": "Praia da Canteira",
+                  "text": "Praia da Canteira ist ein lokaler Strand in Combarro.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.707803,
+                        42.427294
+                  ]
             }
       ],
       "hu": [
@@ -10422,6 +12789,33 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -8.664456,
                         42.421045
+                  ]
+            },
+            {
+                  "name": "A Area da Illa",
+                  "text": "Az A Area da Illa egy strand Combarro településén.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.707501,
+                        42.413704
+                  ]
+            },
+            {
+                  "name": "A Area da Hedreira",
+                  "text": "Az A Area da Hedreira egy strand Combarro területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.705812,
+                        42.410863
+                  ]
+            },
+            {
+                  "name": "Praia da Canteira",
+                  "text": "A Praia da Canteira egy helyi strand Combarro városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.707803,
+                        42.427294
                   ]
             }
       ],
@@ -10491,6 +12885,33 @@ export const poiExtraEsV2: POI[] = [
                         -8.664456,
                         42.421045
                   ]
+            },
+            {
+                  "name": "A Area da Illa",
+                  "text": "A Area da Illa este o plajă situată în Combarro.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.707501,
+                        42.413704
+                  ]
+            },
+            {
+                  "name": "A Area da Hedreira",
+                  "text": "A Area da Hedreira este o plajă aflată în Combarro.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.705812,
+                        42.410863
+                  ]
+            },
+            {
+                  "name": "Praia da Canteira",
+                  "text": "Praia da Canteira este o plajă locală din Combarro.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.707803,
+                        42.427294
+                  ]
             }
       ],
       "en": [
@@ -10558,6 +12979,33 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -8.664456,
                         42.421045
+                  ]
+            },
+            {
+                  "name": "A Area da Illa",
+                  "text": "A Area da Illa is a beach situated in Combarro.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.707501,
+                        42.413704
+                  ]
+            },
+            {
+                  "name": "A Area da Hedreira",
+                  "text": "A Area da Hedreira is a beach located in Combarro.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.705812,
+                        42.410863
+                  ]
+            },
+            {
+                  "name": "Praia da Canteira",
+                  "text": "Praia da Canteira is a local beach in Combarro.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.707803,
+                        42.427294
                   ]
             }
       ]
@@ -10662,6 +13110,15 @@ export const poiExtraEsV2: POI[] = [
                         -4.290724,
                         43.386146
                   ]
+            },
+            {
+                  "name": "Playa de Oyambre",
+                  "text": "Playa de Oyambre ist ein markanter Strand in der Stadt Comillas.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.329461,
+                        43.394022
+                  ]
             }
       ],
       "hu": [
@@ -10762,6 +13219,15 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -4.290724,
                         43.386146
+                  ]
+            },
+            {
+                  "name": "Playa de Oyambre",
+                  "text": "A Playa de Oyambre egy kiemelkedő strand Comillas városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.329461,
+                        43.394022
                   ]
             }
       ],
@@ -10864,6 +13330,15 @@ export const poiExtraEsV2: POI[] = [
                         -4.290724,
                         43.386146
                   ]
+            },
+            {
+                  "name": "Playa de Oyambre",
+                  "text": "Playa de Oyambre este o plajă proeminentă situată în orașul Comillas.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.329461,
+                        43.394022
+                  ]
             }
       ],
       "en": [
@@ -10964,6 +13439,15 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -4.290724,
                         43.386146
+                  ]
+            },
+            {
+                  "name": "Playa de Oyambre",
+                  "text": "Playa de Oyambre is a prominent beach located in the city of Comillas.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.329461,
+                        43.394022
                   ]
             }
       ]
@@ -11342,6 +13826,69 @@ export const poiExtraEsV2: POI[] = [
                         -6.087954,
                         36.275659
                   ]
+            },
+            {
+                  "name": "Cala Melchor",
+                  "text": "Cala Melchor ist ein Strand in De La Frontera.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.127187,
+                        36.296155
+                  ]
+            },
+            {
+                  "name": "Cala Pitones",
+                  "text": "Cala Pitones befindet sich in De La Frontera und ist ein Strand.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.123296,
+                        36.295368
+                  ]
+            },
+            {
+                  "name": "Cala Camacho",
+                  "text": "Cala Camacho ist ein Strand in De La Frontera.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.117556,
+                        36.294257
+                  ]
+            },
+            {
+                  "name": "Cala Sudario",
+                  "text": "Cala Sudario ist ein Küstenstrand in De La Frontera.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.119516,
+                        36.294531
+                  ]
+            },
+            {
+                  "name": "Cala del Aceite",
+                  "text": "Cala del Aceite ist ein Strandziel in De La Frontera.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.131531,
+                        36.296697
+                  ]
+            },
+            {
+                  "name": "Cala del Río Roche",
+                  "text": "Cala del Río Roche ist ein Strandbereich in De La Frontera.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.137934,
+                        36.296521
+                  ]
+            },
+            {
+                  "name": "Cala del Puntalejo",
+                  "text": "Cala del Puntalejo ist ein einladender Strand in De La Frontera.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.115345,
+                        36.294389
+                  ]
             }
       ],
       "hu": [
@@ -11442,6 +13989,69 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -6.087954,
                         36.275659
+                  ]
+            },
+            {
+                  "name": "Cala Melchor",
+                  "text": "A Cala Melchor egy strand De La Frontera városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.127187,
+                        36.296155
+                  ]
+            },
+            {
+                  "name": "Cala Pitones",
+                  "text": "A Cala Pitones egy De La Frontera területén található strand.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.123296,
+                        36.295368
+                  ]
+            },
+            {
+                  "name": "Cala Camacho",
+                  "text": "A Cala Camacho egy strand De La Frontera területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.117556,
+                        36.294257
+                  ]
+            },
+            {
+                  "name": "Cala Sudario",
+                  "text": "A Cala Sudario egy tengerparti strand De La Frontera városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.119516,
+                        36.294531
+                  ]
+            },
+            {
+                  "name": "Cala del Aceite",
+                  "text": "A Cala del Aceite egy tengerparti úti cél De La Frontera területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.131531,
+                        36.296697
+                  ]
+            },
+            {
+                  "name": "Cala del Río Roche",
+                  "text": "A Cala del Río Roche egy strandterület De La Frontera városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.137934,
+                        36.296521
+                  ]
+            },
+            {
+                  "name": "Cala del Puntalejo",
+                  "text": "A Cala del Puntalejo egy hívogató strand De La Frontera területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.115345,
+                        36.294389
                   ]
             }
       ],
@@ -11544,6 +14154,69 @@ export const poiExtraEsV2: POI[] = [
                         -6.087954,
                         36.275659
                   ]
+            },
+            {
+                  "name": "Cala Melchor",
+                  "text": "Cala Melchor este o plajă situată în De La Frontera.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.127187,
+                        36.296155
+                  ]
+            },
+            {
+                  "name": "Cala Pitones",
+                  "text": "Cala Pitones este o plajă aflată în De La Frontera.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.123296,
+                        36.295368
+                  ]
+            },
+            {
+                  "name": "Cala Camacho",
+                  "text": "Cala Camacho este o plajă din De La Frontera.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.117556,
+                        36.294257
+                  ]
+            },
+            {
+                  "name": "Cala Sudario",
+                  "text": "Cala Sudario este o plajă de coastă din De La Frontera.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.119516,
+                        36.294531
+                  ]
+            },
+            {
+                  "name": "Cala del Aceite",
+                  "text": "Cala del Aceite este o destinație de plajă din De La Frontera.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.131531,
+                        36.296697
+                  ]
+            },
+            {
+                  "name": "Cala del Río Roche",
+                  "text": "Cala del Río Roche este o zonă de plajă din De La Frontera.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.137934,
+                        36.296521
+                  ]
+            },
+            {
+                  "name": "Cala del Puntalejo",
+                  "text": "Cala del Puntalejo este o plajă primitoare situată în De La Frontera.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.115345,
+                        36.294389
+                  ]
             }
       ],
       "en": [
@@ -11644,6 +14317,69 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -6.087954,
                         36.275659
+                  ]
+            },
+            {
+                  "name": "Cala Melchor",
+                  "text": "Cala Melchor is a beach in De La Frontera.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.127187,
+                        36.296155
+                  ]
+            },
+            {
+                  "name": "Cala Pitones",
+                  "text": "Cala Pitones is a beach situated in De La Frontera.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.123296,
+                        36.295368
+                  ]
+            },
+            {
+                  "name": "Cala Camacho",
+                  "text": "Cala Camacho is a beach located in De La Frontera.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.117556,
+                        36.294257
+                  ]
+            },
+            {
+                  "name": "Cala Sudario",
+                  "text": "Cala Sudario is a coastal beach in De La Frontera.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.119516,
+                        36.294531
+                  ]
+            },
+            {
+                  "name": "Cala del Aceite",
+                  "text": "Cala del Aceite is a beach destination in De La Frontera.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.131531,
+                        36.296697
+                  ]
+            },
+            {
+                  "name": "Cala del Río Roche",
+                  "text": "Cala del Río Roche is a beach area in De La Frontera.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.137934,
+                        36.296521
+                  ]
+            },
+            {
+                  "name": "Cala del Puntalejo",
+                  "text": "Cala del Puntalejo is an inviting beach located in De La Frontera.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.115345,
+                        36.294389
                   ]
             }
       ]
@@ -12505,6 +15241,15 @@ export const poiExtraEsV2: POI[] = [
                         -16.726211,
                         28.124229
                   ]
+            },
+            {
+                  "name": "El Duque Norte",
+                  "text": "El Duque Norte ist ein Strand in der Gemeinde Adeje.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.747985,
+                        28.092997
+                  ]
             }
       ],
       "hu": [
@@ -12594,6 +15339,15 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -16.726211,
                         28.124229
+                  ]
+            },
+            {
+                  "name": "El Duque Norte",
+                  "text": "Az El Duque Norte egy strand Adeje községben.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.747985,
+                        28.092997
                   ]
             }
       ],
@@ -12685,6 +15439,15 @@ export const poiExtraEsV2: POI[] = [
                         -16.726211,
                         28.124229
                   ]
+            },
+            {
+                  "name": "El Duque Norte",
+                  "text": "El Duque Norte este o plajă situată în municipalitatea Adeje.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.747985,
+                        28.092997
+                  ]
             }
       ],
       "en": [
@@ -12774,6 +15537,15 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -16.726211,
                         28.124229
+                  ]
+            },
+            {
+                  "name": "El Duque Norte",
+                  "text": "El Duque Norte is a beach located in the municipality of Adeje.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.747985,
+                        28.092997
                   ]
             }
       ]
@@ -12878,6 +15650,24 @@ export const poiExtraEsV2: POI[] = [
                         -6.145994,
                         43.562369
                   ]
+            },
+            {
+                  "name": "Playa de la Conchiquina",
+                  "text": "Playa de la Conchiquina ist ein lokaler Strand in Cudillero.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.132745,
+                        43.558516
+                  ]
+            },
+            {
+                  "name": "Playas de Xan-Xún y Las Llanas",
+                  "text": "Playas de Xan-Xún y Las Llanas sind bemerkenswerte Strände an der Küste von Cudillero.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.105992,
+                        43.558013
+                  ]
             }
       ],
       "hu": [
@@ -12978,6 +15768,24 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -6.145994,
                         43.562369
+                  ]
+            },
+            {
+                  "name": "Playa de la Conchiquina",
+                  "text": "A Playa de la Conchiquina egy helyi strand Cudillero területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.132745,
+                        43.558516
+                  ]
+            },
+            {
+                  "name": "Playas de Xan-Xún y Las Llanas",
+                  "text": "A Playas de Xan-Xún y Las Llanas figyelemre méltó strandok Cudillero partvidékén.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.105992,
+                        43.558013
                   ]
             }
       ],
@@ -13080,6 +15888,24 @@ export const poiExtraEsV2: POI[] = [
                         -6.145994,
                         43.562369
                   ]
+            },
+            {
+                  "name": "Playa de la Conchiquina",
+                  "text": "Playa de la Conchiquina este o plajă locală situată în Cudillero.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.132745,
+                        43.558516
+                  ]
+            },
+            {
+                  "name": "Playas de Xan-Xún y Las Llanas",
+                  "text": "Playas de Xan-Xún y Las Llanas sunt plaje remarcabile pe coasta din Cudillero.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.105992,
+                        43.558013
+                  ]
             }
       ],
       "en": [
@@ -13180,6 +16006,24 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -6.145994,
                         43.562369
+                  ]
+            },
+            {
+                  "name": "Playa de la Conchiquina",
+                  "text": "Playa de la Conchiquina is a local beach located in Cudillero.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.132745,
+                        43.558516
+                  ]
+            },
+            {
+                  "name": "Playas de Xan-Xún y Las Llanas",
+                  "text": "Playas de Xan-Xún y Las Llanas are notable beaches on the coast of Cudillero.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.105992,
+                        43.558013
                   ]
             }
       ]
@@ -13646,6 +16490,15 @@ export const poiExtraEsV2: POI[] = [
                         2.646128,
                         39.749128
                   ]
+            },
+            {
+                  "name": "es Canyaret",
+                  "text": "es Canyaret ist ein charmantes Strandziel in Deia.",
+                  "category": "recreational",
+                  "coords": [
+                        2.653119,
+                        39.767411
+                  ]
             }
       ],
       "hu": [
@@ -13702,6 +16555,15 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         2.646128,
                         39.749128
+                  ]
+            },
+            {
+                  "name": "es Canyaret",
+                  "text": "Az es Canyaret egy bájos strand Deia partjainál.",
+                  "category": "recreational",
+                  "coords": [
+                        2.653119,
+                        39.767411
                   ]
             }
       ],
@@ -13760,6 +16622,15 @@ export const poiExtraEsV2: POI[] = [
                         2.646128,
                         39.749128
                   ]
+            },
+            {
+                  "name": "es Canyaret",
+                  "text": "es Canyaret este o destinație fermecătoare de plajă în Deia.",
+                  "category": "recreational",
+                  "coords": [
+                        2.653119,
+                        39.767411
+                  ]
             }
       ],
       "en": [
@@ -13816,6 +16687,15 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         2.646128,
                         39.749128
+                  ]
+            },
+            {
+                  "name": "es Canyaret",
+                  "text": "es Canyaret is a charming beach destination located in Deia.",
+                  "category": "recreational",
+                  "coords": [
+                        2.653119,
+                        39.767411
                   ]
             }
       ]
@@ -14194,6 +17074,33 @@ export const poiExtraEsV2: POI[] = [
                         -5.146452,
                         36.425385
                   ]
+            },
+            {
+                  "name": "La Rada",
+                  "text": "La Rada ist ein Strand in Estepona.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.144217,
+                        36.42139
+                  ]
+            },
+            {
+                  "name": "Playa del Cristo",
+                  "text": "Playa del Cristo ist ein Strand in Estepona.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.16658,
+                        36.415692
+                  ]
+            },
+            {
+                  "name": "Playa de Punta Plata",
+                  "text": "Playa de Punta Plata ist ein Strand in Estepona.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.117449,
+                        36.43082
+                  ]
             }
       ],
       "hu": [
@@ -14294,6 +17201,33 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -5.146452,
                         36.425385
+                  ]
+            },
+            {
+                  "name": "La Rada",
+                  "text": "A La Rada egy tengerpart Estepona városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.144217,
+                        36.42139
+                  ]
+            },
+            {
+                  "name": "Playa del Cristo",
+                  "text": "A Playa del Cristo egy tengerpart Estepona városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.16658,
+                        36.415692
+                  ]
+            },
+            {
+                  "name": "Playa de Punta Plata",
+                  "text": "A Playa de Punta Plata egy tengerpart Estepona városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.117449,
+                        36.43082
                   ]
             }
       ],
@@ -14396,6 +17330,33 @@ export const poiExtraEsV2: POI[] = [
                         -5.146452,
                         36.425385
                   ]
+            },
+            {
+                  "name": "La Rada",
+                  "text": "La Rada este o plajă situată în Estepona.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.144217,
+                        36.42139
+                  ]
+            },
+            {
+                  "name": "Playa del Cristo",
+                  "text": "Playa del Cristo este o plajă situată în Estepona.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.16658,
+                        36.415692
+                  ]
+            },
+            {
+                  "name": "Playa de Punta Plata",
+                  "text": "Playa de Punta Plata este o plajă situată în Estepona.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.117449,
+                        36.43082
+                  ]
             }
       ],
       "en": [
@@ -14497,6 +17458,33 @@ export const poiExtraEsV2: POI[] = [
                         -5.146452,
                         36.425385
                   ]
+            },
+            {
+                  "name": "La Rada",
+                  "text": "La Rada is a beach located in Estepona.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.144217,
+                        36.42139
+                  ]
+            },
+            {
+                  "name": "Playa del Cristo",
+                  "text": "Playa del Cristo is a beach located in Estepona.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.16658,
+                        36.415692
+                  ]
+            },
+            {
+                  "name": "Playa de Punta Plata",
+                  "text": "Playa de Punta Plata is a beach situated in Estepona.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.117449,
+                        36.43082
+                  ]
             }
       ]
 }},
@@ -14567,6 +17555,24 @@ export const poiExtraEsV2: POI[] = [
                         1.5176,
                         38.659664
                   ]
+            },
+            {
+                  "name": "Platja cala Saona",
+                  "text": "Platja cala Saona ist ein bekannter Strand auf der Insel Formentera.",
+                  "category": "recreational",
+                  "coords": [
+                        1.389321,
+                        38.693138
+                  ]
+            },
+            {
+                  "name": "Platja Cavall d'en Borràs",
+                  "text": "Platja Cavall d'en Borràs ist ein bekannter Strand in Formentera.",
+                  "category": "recreational",
+                  "coords": [
+                        1.429299,
+                        38.740568
+                  ]
             }
       ],
       "hu": [
@@ -14634,6 +17640,24 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         1.5176,
                         38.659664
+                  ]
+            },
+            {
+                  "name": "Platja cala Saona",
+                  "text": "A Platja cala Saona egy jól ismert strand Formentera szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        1.389321,
+                        38.693138
+                  ]
+            },
+            {
+                  "name": "Platja Cavall d'en Borràs",
+                  "text": "A Platja Cavall d'en Borràs egy nevezetes strand Formenterán.",
+                  "category": "recreational",
+                  "coords": [
+                        1.429299,
+                        38.740568
                   ]
             }
       ],
@@ -14703,6 +17727,24 @@ export const poiExtraEsV2: POI[] = [
                         1.5176,
                         38.659664
                   ]
+            },
+            {
+                  "name": "Platja cala Saona",
+                  "text": "Platja cala Saona este o plajă bine cunoscută de pe insula Formentera.",
+                  "category": "recreational",
+                  "coords": [
+                        1.389321,
+                        38.693138
+                  ]
+            },
+            {
+                  "name": "Platja Cavall d'en Borràs",
+                  "text": "Platja Cavall d'en Borràs este o plajă remarcabilă situată în Formentera.",
+                  "category": "recreational",
+                  "coords": [
+                        1.429299,
+                        38.740568
+                  ]
             }
       ],
       "en": [
@@ -14770,6 +17812,24 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         1.5176,
                         38.659664
+                  ]
+            },
+            {
+                  "name": "Platja cala Saona",
+                  "text": "Platja cala Saona is a well-known beach on the island of Formentera.",
+                  "category": "recreational",
+                  "coords": [
+                        1.389321,
+                        38.693138
+                  ]
+            },
+            {
+                  "name": "Platja Cavall d'en Borràs",
+                  "text": "Platja Cavall d'en Borràs is a notable beach situated in Formentera.",
+                  "category": "recreational",
+                  "coords": [
+                        1.429299,
+                        38.740568
                   ]
             }
       ]
@@ -15082,6 +18142,33 @@ export const poiExtraEsV2: POI[] = [
                         -2.201177,
                         43.304667
                   ]
+            },
+            {
+                  "name": "Santiago hondartza",
+                  "text": "Santiago hondartza ist ein lokaler Strand in der Stadt Getaria.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.246812,
+                        43.301852
+                  ]
+            },
+            {
+                  "name": "Itzurun hondartza",
+                  "text": "Itzurun hondartza ist ein schöner Strand in Getaria.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.260881,
+                        43.300207
+                  ]
+            },
+            {
+                  "name": "Santiago",
+                  "text": "Santiago ist ein schöner Strand, der sich in Getaria befindet.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.246112,
+                        43.303172
+                  ]
             }
       ],
       "hu": [
@@ -15116,6 +18203,33 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -2.201177,
                         43.304667
+                  ]
+            },
+            {
+                  "name": "Santiago hondartza",
+                  "text": "A Santiago hondartza egy helyi strand Getaria városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.246812,
+                        43.301852
+                  ]
+            },
+            {
+                  "name": "Itzurun hondartza",
+                  "text": "Az Itzurun hondartza egy szép strand Getaria városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.260881,
+                        43.300207
+                  ]
+            },
+            {
+                  "name": "Santiago",
+                  "text": "A Santiago egy szép strand, amely Getaria városában található.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.246112,
+                        43.303172
                   ]
             }
       ],
@@ -15152,6 +18266,33 @@ export const poiExtraEsV2: POI[] = [
                         -2.201177,
                         43.304667
                   ]
+            },
+            {
+                  "name": "Santiago hondartza",
+                  "text": "Santiago hondartza este o plajă locală situată în orașul Getaria.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.246812,
+                        43.301852
+                  ]
+            },
+            {
+                  "name": "Itzurun hondartza",
+                  "text": "Itzurun hondartza este o plajă frumoasă situată în Getaria.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.260881,
+                        43.300207
+                  ]
+            },
+            {
+                  "name": "Santiago",
+                  "text": "Santiago este o plajă frumoasă situată în Getaria.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.246112,
+                        43.303172
+                  ]
             }
       ],
       "en": [
@@ -15186,6 +18327,33 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -2.201177,
                         43.304667
+                  ]
+            },
+            {
+                  "name": "Santiago hondartza",
+                  "text": "Santiago hondartza is a local beach located in the city of Getaria.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.246812,
+                        43.301852
+                  ]
+            },
+            {
+                  "name": "Itzurun hondartza",
+                  "text": "Itzurun hondartza is a beautiful beach situated in Getaria.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.260881,
+                        43.300207
+                  ]
+            },
+            {
+                  "name": "Santiago",
+                  "text": "Santiago is a beautiful beach situated in Getaria.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.246112,
+                        43.303172
                   ]
             }
       ]
@@ -15740,6 +18908,33 @@ export const poiExtraEsV2: POI[] = [
                         -0.649804,
                         38.100257
                   ]
+            },
+            {
+                  "name": "Platja Centre",
+                  "text": "Platja Centre ist der zentrale Sandstrand der Küstenstadt Guardamar.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.646949,
+                        38.086371
+                  ]
+            },
+            {
+                  "name": "Platja Babilònia",
+                  "text": "Platja Babilònia ist ein Strand in Guardamar.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.646251,
+                        38.091509
+                  ]
+            },
+            {
+                  "name": "Platja dels Tossals",
+                  "text": "Platja dels Tossals ist ein lokaler Strand in Guardamar.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.640392,
+                        38.12063
+                  ]
             }
       ],
       "hu": [
@@ -15840,6 +19035,33 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -0.649804,
                         38.100257
+                  ]
+            },
+            {
+                  "name": "Platja Centre",
+                  "text": "A Platja Centre Guardamar tengerparti város központi homokos strandja.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.646949,
+                        38.086371
+                  ]
+            },
+            {
+                  "name": "Platja Babilònia",
+                  "text": "A Platja Babilònia egy strand Guardamar városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.646251,
+                        38.091509
+                  ]
+            },
+            {
+                  "name": "Platja dels Tossals",
+                  "text": "A Platja dels Tossals egy helyi strand Guardamarban.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.640392,
+                        38.12063
                   ]
             }
       ],
@@ -15942,6 +19164,33 @@ export const poiExtraEsV2: POI[] = [
                         -0.649804,
                         38.100257
                   ]
+            },
+            {
+                  "name": "Platja Centre",
+                  "text": "Platja Centre este plaja centrală cu nisip a orașului de coastă Guardamar.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.646949,
+                        38.086371
+                  ]
+            },
+            {
+                  "name": "Platja Babilònia",
+                  "text": "Platja Babilònia este o plajă situată în Guardamar.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.646251,
+                        38.091509
+                  ]
+            },
+            {
+                  "name": "Platja dels Tossals",
+                  "text": "Platja dels Tossals este o plajă locală în Guardamar.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.640392,
+                        38.12063
+                  ]
             }
       ],
       "en": [
@@ -16043,6 +19292,33 @@ export const poiExtraEsV2: POI[] = [
                         -0.649804,
                         38.100257
                   ]
+            },
+            {
+                  "name": "Platja Centre",
+                  "text": "Platja Centre is the central sandy beach of the coastal town Guardamar.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.646949,
+                        38.086371
+                  ]
+            },
+            {
+                  "name": "Platja Babilònia",
+                  "text": "Platja Babilònia is a beach located in Guardamar.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.646251,
+                        38.091509
+                  ]
+            },
+            {
+                  "name": "Platja dels Tossals",
+                  "text": "Platja dels Tossals is a local beach in Guardamar.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.640392,
+                        38.12063
+                  ]
             }
       ]
 }},
@@ -16135,6 +19411,42 @@ export const poiExtraEsV2: POI[] = [
                         -1.791088,
                         43.363634
                   ]
+            },
+            {
+                  "name": "Plage naturiste",
+                  "text": "Dieser FKK-Strand befindet sich in Hondarribia.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.755864,
+                        43.379503
+                  ]
+            },
+            {
+                  "name": "Erdiko Ura",
+                  "text": "Erdiko Ura ist ein Strand in Hondarribia.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.754066,
+                        43.381031
+                  ]
+            },
+            {
+                  "name": "Ondarraitz",
+                  "text": "Ondarraitz ist ein Strand in Hondarribia.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.774328,
+                        43.374527
+                  ]
+            },
+            {
+                  "name": "Plage des Deux Jumeaux",
+                  "text": "Plage des Deux Jumeaux ist ein Strand in Hondarribia.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.757715,
+                        43.378385
+                  ]
             }
       ],
       "hu": [
@@ -16224,6 +19536,42 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -1.791088,
                         43.363634
+                  ]
+            },
+            {
+                  "name": "Plage naturiste",
+                  "text": "Ez a naturista strand Hondarribiában található.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.755864,
+                        43.379503
+                  ]
+            },
+            {
+                  "name": "Erdiko Ura",
+                  "text": "Az Erdiko Ura egy strand Hondarribiában.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.754066,
+                        43.381031
+                  ]
+            },
+            {
+                  "name": "Ondarraitz",
+                  "text": "Az Ondarraitz egy strand Hondarribiában.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.774328,
+                        43.374527
+                  ]
+            },
+            {
+                  "name": "Plage des Deux Jumeaux",
+                  "text": "A Plage des Deux Jumeaux egy strand Hondarribiában.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.757715,
+                        43.378385
                   ]
             }
       ],
@@ -16315,6 +19663,42 @@ export const poiExtraEsV2: POI[] = [
                         -1.791088,
                         43.363634
                   ]
+            },
+            {
+                  "name": "Plage naturiste",
+                  "text": "Această plajă naturistă se află în Hondarribia.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.755864,
+                        43.379503
+                  ]
+            },
+            {
+                  "name": "Erdiko Ura",
+                  "text": "Erdiko Ura este o plajă din Hondarribia.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.754066,
+                        43.381031
+                  ]
+            },
+            {
+                  "name": "Ondarraitz",
+                  "text": "Ondarraitz este o plajă situată în Hondarribia.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.774328,
+                        43.374527
+                  ]
+            },
+            {
+                  "name": "Plage des Deux Jumeaux",
+                  "text": "Plage des Deux Jumeaux este o plajă din Hondarribia.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.757715,
+                        43.378385
+                  ]
             }
       ],
       "en": [
@@ -16405,6 +19789,42 @@ export const poiExtraEsV2: POI[] = [
                         -1.791088,
                         43.363634
                   ]
+            },
+            {
+                  "name": "Plage naturiste",
+                  "text": "This naturist beach is located in Hondarribia.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.755864,
+                        43.379503
+                  ]
+            },
+            {
+                  "name": "Erdiko Ura",
+                  "text": "Erdiko Ura is a beach in Hondarribia.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.754066,
+                        43.381031
+                  ]
+            },
+            {
+                  "name": "Ondarraitz",
+                  "text": "Ondarraitz is a beach located in Hondarribia.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.774328,
+                        43.374527
+                  ]
+            },
+            {
+                  "name": "Plage des Deux Jumeaux",
+                  "text": "Plage des Deux Jumeaux is a beach in Hondarribia.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.757715,
+                        43.378385
+                  ]
             }
       ]
 }},
@@ -16475,6 +19895,33 @@ export const poiExtraEsV2: POI[] = [
                         1.439347,
                         38.910343
                   ]
+            },
+            {
+                  "name": "Platja d'en Bossa",
+                  "text": "Platja d'en Bossa ist ein bekannter Strand in Town.",
+                  "category": "recreational",
+                  "coords": [
+                        1.408999,
+                        38.885494
+                  ]
+            },
+            {
+                  "name": "Platja de ses Figueretes",
+                  "text": "Platja de ses Figueretes ist ein beliebter Strand in Town.",
+                  "category": "recreational",
+                  "coords": [
+                        1.422387,
+                        38.903677
+                  ]
+            },
+            {
+                  "name": "Platja de Talamanca",
+                  "text": "Platja de Talamanca ist ein Strand in Town.",
+                  "category": "recreational",
+                  "coords": [
+                        1.454733,
+                        38.915478
+                  ]
             }
       ],
       "hu": [
@@ -16542,6 +19989,33 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         1.439347,
                         38.910343
+                  ]
+            },
+            {
+                  "name": "Platja d'en Bossa",
+                  "text": "A Platja d'en Bossa egy ismert strand Town területén.",
+                  "category": "recreational",
+                  "coords": [
+                        1.408999,
+                        38.885494
+                  ]
+            },
+            {
+                  "name": "Platja de ses Figueretes",
+                  "text": "A Platja de ses Figueretes egy népszerű strand Town területén.",
+                  "category": "recreational",
+                  "coords": [
+                        1.422387,
+                        38.903677
+                  ]
+            },
+            {
+                  "name": "Platja de Talamanca",
+                  "text": "A Platja de Talamanca egy strand Town területén.",
+                  "category": "recreational",
+                  "coords": [
+                        1.454733,
+                        38.915478
                   ]
             }
       ],
@@ -16611,6 +20085,33 @@ export const poiExtraEsV2: POI[] = [
                         1.439347,
                         38.910343
                   ]
+            },
+            {
+                  "name": "Platja d'en Bossa",
+                  "text": "Platja d'en Bossa este o plajă renumită situată în Town.",
+                  "category": "recreational",
+                  "coords": [
+                        1.408999,
+                        38.885494
+                  ]
+            },
+            {
+                  "name": "Platja de ses Figueretes",
+                  "text": "Platja de ses Figueretes este o plajă populară din Town.",
+                  "category": "recreational",
+                  "coords": [
+                        1.422387,
+                        38.903677
+                  ]
+            },
+            {
+                  "name": "Platja de Talamanca",
+                  "text": "Platja de Talamanca este o plajă situată în Town.",
+                  "category": "recreational",
+                  "coords": [
+                        1.454733,
+                        38.915478
+                  ]
             }
       ],
       "en": [
@@ -16678,6 +20179,33 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         1.439347,
                         38.910343
+                  ]
+            },
+            {
+                  "name": "Platja d'en Bossa",
+                  "text": "Platja d'en Bossa is a well-known beach located in Town.",
+                  "category": "recreational",
+                  "coords": [
+                        1.408999,
+                        38.885494
+                  ]
+            },
+            {
+                  "name": "Platja de ses Figueretes",
+                  "text": "Platja de ses Figueretes is a popular urban beach in Town.",
+                  "category": "recreational",
+                  "coords": [
+                        1.422387,
+                        38.903677
+                  ]
+            },
+            {
+                  "name": "Platja de Talamanca",
+                  "text": "Platja de Talamanca is a beach situated in Town.",
+                  "category": "recreational",
+                  "coords": [
+                        1.454733,
+                        38.915478
                   ]
             }
       ]
@@ -17144,6 +20672,42 @@ export const poiExtraEsV2: POI[] = [
                         0.1897,
                         38.7733
                   ]
+            },
+            {
+                  "name": "Cala Tango",
+                  "text": "Cala Tango ist ein Strand in der Stadt Javea.",
+                  "category": "recreational",
+                  "coords": [
+                        0.192514,
+                        38.799846
+                  ]
+            },
+            {
+                  "name": "Cala d'Aigua Dolç",
+                  "text": "Cala d'Aigua Dolç ist ein lokaler Strand in Javea.",
+                  "category": "recreational",
+                  "coords": [
+                        0.160635,
+                        38.820957
+                  ]
+            },
+            {
+                  "name": "Cala del Francés",
+                  "text": "Cala del Francés ist ein Küstenstrand in Javea.",
+                  "category": "recreational",
+                  "coords": [
+                        0.211532,
+                        38.760473
+                  ]
+            },
+            {
+                  "name": "Cala del Ministre",
+                  "text": "Cala del Ministre ist ein Strandgebiet in Javea.",
+                  "category": "recreational",
+                  "coords": [
+                        0.19063,
+                        38.776195
+                  ]
             }
       ],
       "hu": [
@@ -17244,6 +20808,42 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         0.1897,
                         38.7733
+                  ]
+            },
+            {
+                  "name": "Cala Tango",
+                  "text": "A Cala Tango egy strand Javea területén.",
+                  "category": "recreational",
+                  "coords": [
+                        0.192514,
+                        38.799846
+                  ]
+            },
+            {
+                  "name": "Cala d'Aigua Dolç",
+                  "text": "A Cala d'Aigua Dolç egy helyi strand Javea városában.",
+                  "category": "recreational",
+                  "coords": [
+                        0.160635,
+                        38.820957
+                  ]
+            },
+            {
+                  "name": "Cala del Francés",
+                  "text": "A Cala del Francés egy tengerparti strand Javea területén.",
+                  "category": "recreational",
+                  "coords": [
+                        0.211532,
+                        38.760473
+                  ]
+            },
+            {
+                  "name": "Cala del Ministre",
+                  "text": "A Cala del Ministre egy strandterület Javea városában.",
+                  "category": "recreational",
+                  "coords": [
+                        0.19063,
+                        38.776195
                   ]
             }
       ],
@@ -17346,6 +20946,42 @@ export const poiExtraEsV2: POI[] = [
                         0.1897,
                         38.7733
                   ]
+            },
+            {
+                  "name": "Cala Tango",
+                  "text": "Cala Tango este o plajă din Javea.",
+                  "category": "recreational",
+                  "coords": [
+                        0.192514,
+                        38.799846
+                  ]
+            },
+            {
+                  "name": "Cala d'Aigua Dolç",
+                  "text": "Cala d'Aigua Dolç este o plajă locală din Javea.",
+                  "category": "recreational",
+                  "coords": [
+                        0.160635,
+                        38.820957
+                  ]
+            },
+            {
+                  "name": "Cala del Francés",
+                  "text": "Cala del Francés este o plajă de coastă din Javea.",
+                  "category": "recreational",
+                  "coords": [
+                        0.211532,
+                        38.760473
+                  ]
+            },
+            {
+                  "name": "Cala del Ministre",
+                  "text": "Cala del Ministre este o zonă de plajă din Javea.",
+                  "category": "recreational",
+                  "coords": [
+                        0.19063,
+                        38.776195
+                  ]
             }
       ],
       "en": [
@@ -17447,6 +21083,42 @@ export const poiExtraEsV2: POI[] = [
                         0.1897,
                         38.7733
                   ]
+            },
+            {
+                  "name": "Cala Tango",
+                  "text": "Cala Tango is a beach destination in Javea.",
+                  "category": "recreational",
+                  "coords": [
+                        0.192514,
+                        38.799846
+                  ]
+            },
+            {
+                  "name": "Cala d'Aigua Dolç",
+                  "text": "Cala d'Aigua Dolç is a local beach in Javea.",
+                  "category": "recreational",
+                  "coords": [
+                        0.160635,
+                        38.820957
+                  ]
+            },
+            {
+                  "name": "Cala del Francés",
+                  "text": "Cala del Francés is a coastal beach in Javea.",
+                  "category": "recreational",
+                  "coords": [
+                        0.211532,
+                        38.760473
+                  ]
+            },
+            {
+                  "name": "Cala del Ministre",
+                  "text": "Cala del Ministre is a beach area located in Javea.",
+                  "category": "recreational",
+                  "coords": [
+                        0.19063,
+                        38.776195
+                  ]
             }
       ]
 }},
@@ -17517,6 +21189,78 @@ export const poiExtraEsV2: POI[] = [
                         -0.742483,
                         37.706831
                   ]
+            },
+            {
+                  "name": "Playa de Calblanque",
+                  "text": "Playa de Calblanque ist ein malerischer Naturstrand in der Nähe von Manga.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.729777,
+                        37.603709
+                  ]
+            },
+            {
+                  "name": "Cala Arturo",
+                  "text": "Cala Arturo ist ein Küstenstrand in Manga.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.726473,
+                        37.605234
+                  ]
+            },
+            {
+                  "name": "Cala Magre",
+                  "text": "Cala Magre ist ein erholsamer Strand in der Gegend von Manga.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.724503,
+                        37.605469
+                  ]
+            },
+            {
+                  "name": "Gollerón",
+                  "text": "Gollerón ist ein lokaler Strand mit Küstenblick in Manga.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.734123,
+                        37.664123
+                  ]
+            },
+            {
+                  "name": "Cala Reona",
+                  "text": "Cala Reona ist eine bekannte Strandbucht in Manga.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.714121,
+                        37.618283
+                  ]
+            },
+            {
+                  "name": "Playa Paraíso",
+                  "text": "Playa Paraíso ist ein beliebtes Strandgebiet in Manga.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.727951,
+                        37.635079
+                  ]
+            },
+            {
+                  "name": "Cala de los Dentoles",
+                  "text": "Cala de los Dentoles ist ein ruhiger Strand in Manga.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.71988,
+                        37.607429
+                  ]
+            },
+            {
+                  "name": "Cala Cocón",
+                  "text": "Cala Cocón ist eine malerische Strandumgebung in Manga.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.717247,
+                        37.612475
+                  ]
             }
       ],
       "hu": [
@@ -17584,6 +21328,78 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -0.742483,
                         37.706831
+                  ]
+            },
+            {
+                  "name": "Playa de Calblanque",
+                  "text": "A Playa de Calblanque egy festői természetes strand Manga közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.729777,
+                        37.603709
+                  ]
+            },
+            {
+                  "name": "Cala Arturo",
+                  "text": "A Cala Arturo egy tengerparti strand célpont Mangában.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.726473,
+                        37.605234
+                  ]
+            },
+            {
+                  "name": "Cala Magre",
+                  "text": "A Cala Magre egy pihentető strand Manga térségében.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.724503,
+                        37.605469
+                  ]
+            },
+            {
+                  "name": "Gollerón",
+                  "text": "A Gollerón egy helyi strand, amely parti kilátást nyújt Mangában.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.734123,
+                        37.664123
+                  ]
+            },
+            {
+                  "name": "Cala Reona",
+                  "text": "A Cala Reona egy jól ismert strandöböl Mangában.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.714121,
+                        37.618283
+                  ]
+            },
+            {
+                  "name": "Playa Paraíso",
+                  "text": "A Playa Paraíso egy népszerű strandterület Mangában.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.727951,
+                        37.635079
+                  ]
+            },
+            {
+                  "name": "Cala de los Dentoles",
+                  "text": "A Cala de los Dentoles egy békés strand Mangában.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.71988,
+                        37.607429
+                  ]
+            },
+            {
+                  "name": "Cala Cocón",
+                  "text": "A Cala Cocón egy festői strandkörnyezet Mangában.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.717247,
+                        37.612475
                   ]
             }
       ],
@@ -17653,6 +21469,78 @@ export const poiExtraEsV2: POI[] = [
                         -0.742483,
                         37.706831
                   ]
+            },
+            {
+                  "name": "Playa de Calblanque",
+                  "text": "Playa de Calblanque este o plajă naturală pitorească situată lângă Manga.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.729777,
+                        37.603709
+                  ]
+            },
+            {
+                  "name": "Cala Arturo",
+                  "text": "Cala Arturo este o plajă de coastă situată în Manga.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.726473,
+                        37.605234
+                  ]
+            },
+            {
+                  "name": "Cala Magre",
+                  "text": "Cala Magre este o plajă relaxantă situată în zona Manga.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.724503,
+                        37.605469
+                  ]
+            },
+            {
+                  "name": "Gollerón",
+                  "text": "Gollerón este o plajă locală care oferă vedere la coastă în Manga.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.734123,
+                        37.664123
+                  ]
+            },
+            {
+                  "name": "Cala Reona",
+                  "text": "Cala Reona este un golf de plajă bine cunoscut situat în Manga.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.714121,
+                        37.618283
+                  ]
+            },
+            {
+                  "name": "Playa Paraíso",
+                  "text": "Playa Paraíso este o zonă de plajă populară situată în Manga.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.727951,
+                        37.635079
+                  ]
+            },
+            {
+                  "name": "Cala de los Dentoles",
+                  "text": "Cala de los Dentoles este o plajă liniștită situată în Manga.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.71988,
+                        37.607429
+                  ]
+            },
+            {
+                  "name": "Cala Cocón",
+                  "text": "Cala Cocón este un mediu de plajă pitoresc situat în Manga.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.717247,
+                        37.612475
+                  ]
             }
       ],
       "en": [
@@ -17720,6 +21608,78 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -0.742483,
                         37.706831
+                  ]
+            },
+            {
+                  "name": "Playa de Calblanque",
+                  "text": "Playa de Calblanque is a scenic natural beach situated near Manga.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.729777,
+                        37.603709
+                  ]
+            },
+            {
+                  "name": "Cala Arturo",
+                  "text": "Cala Arturo is a coastal beach destination located in Manga.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.726473,
+                        37.605234
+                  ]
+            },
+            {
+                  "name": "Cala Magre",
+                  "text": "Cala Magre is a relaxing beach situated in the Manga area.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.724503,
+                        37.605469
+                  ]
+            },
+            {
+                  "name": "Gollerón",
+                  "text": "Gollerón is a local beach offering coastal views in Manga.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.734123,
+                        37.664123
+                  ]
+            },
+            {
+                  "name": "Cala Reona",
+                  "text": "Cala Reona is a well-known beach cove located in Manga.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.714121,
+                        37.618283
+                  ]
+            },
+            {
+                  "name": "Playa Paraíso",
+                  "text": "Playa Paraíso is a popular beach area located in Manga.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.727951,
+                        37.635079
+                  ]
+            },
+            {
+                  "name": "Cala de los Dentoles",
+                  "text": "Cala de los Dentoles is a peaceful beach situated in Manga.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.71988,
+                        37.607429
+                  ]
+            },
+            {
+                  "name": "Cala Cocón",
+                  "text": "Cala Cocón is a scenic beach environment located in Manga.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.717247,
+                        37.612475
                   ]
             }
       ]
@@ -18383,6 +22343,51 @@ export const poiExtraEsV2: POI[] = [
                         -4.752352,
                         43.421089
                   ]
+            },
+            {
+                  "name": "Playa de Toró",
+                  "text": "Playa de Toró ist ein markanter Küstenstrand in Llanes.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.743472,
+                        43.416854
+                  ]
+            },
+            {
+                  "name": "Playa de Andrin",
+                  "text": "Playa de Andrin ist ein Strand in Llanes.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.707866,
+                        43.410976
+                  ]
+            },
+            {
+                  "name": "Playa de Poo",
+                  "text": "Playa de Poo ist ein bekannter Strand in Llanes.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.785011,
+                        43.428202
+                  ]
+            },
+            {
+                  "name": "Playa de La Ballota",
+                  "text": "Playa de La Ballota ist ein Strand in Llanes.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.713485,
+                        43.412577
+                  ]
+            },
+            {
+                  "name": "Playa de San Martín",
+                  "text": "Playa de San Martín ist ein Strand in Llanes.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.792173,
+                        43.431041
+                  ]
             }
       ],
       "hu": [
@@ -18494,6 +22499,51 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -4.752352,
                         43.421089
+                  ]
+            },
+            {
+                  "name": "Playa de Toró",
+                  "text": "A Playa de Toró egy jellegzetes tengerparti strand Llanes területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.743472,
+                        43.416854
+                  ]
+            },
+            {
+                  "name": "Playa de Andrin",
+                  "text": "A Playa de Andrin egy strand Llanes városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.707866,
+                        43.410976
+                  ]
+            },
+            {
+                  "name": "Playa de Poo",
+                  "text": "A Playa de Poo egy ismert strand Llanes területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.785011,
+                        43.428202
+                  ]
+            },
+            {
+                  "name": "Playa de La Ballota",
+                  "text": "A Playa de La Ballota egy strand Llanes városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.713485,
+                        43.412577
+                  ]
+            },
+            {
+                  "name": "Playa de San Martín",
+                  "text": "A Playa de San Martín egy strand Llanes városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.792173,
+                        43.431041
                   ]
             }
       ],
@@ -18607,6 +22657,51 @@ export const poiExtraEsV2: POI[] = [
                         -4.752352,
                         43.421089
                   ]
+            },
+            {
+                  "name": "Playa de Toró",
+                  "text": "Playa de Toró este o plajă distinctă de coastă situată în Llanes.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.743472,
+                        43.416854
+                  ]
+            },
+            {
+                  "name": "Playa de Andrin",
+                  "text": "Playa de Andrin este o plajă situată în Llanes.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.707866,
+                        43.410976
+                  ]
+            },
+            {
+                  "name": "Playa de Poo",
+                  "text": "Playa de Poo este o plajă cunoscută situată în Llanes.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.785011,
+                        43.428202
+                  ]
+            },
+            {
+                  "name": "Playa de La Ballota",
+                  "text": "Playa de La Ballota este o plajă situată în Llanes.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.713485,
+                        43.412577
+                  ]
+            },
+            {
+                  "name": "Playa de San Martín",
+                  "text": "Playa de San Martín este o plajă situată în Llanes.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.792173,
+                        43.431041
+                  ]
             }
       ],
       "en": [
@@ -18718,6 +22813,51 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -4.752352,
                         43.421089
+                  ]
+            },
+            {
+                  "name": "Playa de Toró",
+                  "text": "Playa de Toró is a distinctive coastal beach located in Llanes.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.743472,
+                        43.416854
+                  ]
+            },
+            {
+                  "name": "Playa de Andrin",
+                  "text": "Playa de Andrin is a beach located in Llanes.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.707866,
+                        43.410976
+                  ]
+            },
+            {
+                  "name": "Playa de Poo",
+                  "text": "Playa de Poo is a well-known beach situated in Llanes.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.785011,
+                        43.428202
+                  ]
+            },
+            {
+                  "name": "Playa de La Ballota",
+                  "text": "Playa de La Ballota is a beach located in Llanes.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.713485,
+                        43.412577
+                  ]
+            },
+            {
+                  "name": "Playa de San Martín",
+                  "text": "Playa de San Martín is a beach located in Llanes.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.792173,
+                        43.431041
                   ]
             }
       ]
@@ -19129,6 +23269,15 @@ export const poiExtraEsV2: POI[] = [
                         -16.709705,
                         28.046258
                   ]
+            },
+            {
+                  "name": "Playa de la Arenita",
+                  "text": "Playa de la Arenita ist ein malerischer Strand in Cristianos.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.705254,
+                        28.025636
+                  ]
             }
       ],
       "hu": [
@@ -19218,6 +23367,15 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -16.709705,
                         28.046258
+                  ]
+            },
+            {
+                  "name": "Playa de la Arenita",
+                  "text": "A Playa de la Arenita egy festői strand Cristianosban.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.705254,
+                        28.025636
                   ]
             }
       ],
@@ -19309,6 +23467,15 @@ export const poiExtraEsV2: POI[] = [
                         -16.709705,
                         28.046258
                   ]
+            },
+            {
+                  "name": "Playa de la Arenita",
+                  "text": "Playa de la Arenita este o plajă pitorească situată în Cristianos.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.705254,
+                        28.025636
+                  ]
             }
       ],
       "en": [
@@ -19398,6 +23565,15 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -16.709705,
                         28.046258
+                  ]
+            },
+            {
+                  "name": "Playa de la Arenita",
+                  "text": "Playa de la Arenita is a picturesque beach situated in Cristianos.",
+                  "category": "recreational",
+                  "coords": [
+                        -16.705254,
+                        28.025636
                   ]
             }
       ]
@@ -19941,6 +24117,15 @@ export const poiExtraEsV2: POI[] = [
                         4.261845,
                         39.891486
                   ]
+            },
+            {
+                  "name": "Cala Teulera",
+                  "text": "Cala Teulera ist ein Strand in Mao.",
+                  "category": "recreational",
+                  "coords": [
+                        4.308593,
+                        39.880088
+                  ]
             }
       ],
       "hu": [
@@ -20030,6 +24215,15 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         4.261845,
                         39.891486
+                  ]
+            },
+            {
+                  "name": "Cala Teulera",
+                  "text": "A Cala Teulera egy strand Mao városában.",
+                  "category": "recreational",
+                  "coords": [
+                        4.308593,
+                        39.880088
                   ]
             }
       ],
@@ -20121,6 +24315,15 @@ export const poiExtraEsV2: POI[] = [
                         4.261845,
                         39.891486
                   ]
+            },
+            {
+                  "name": "Cala Teulera",
+                  "text": "Cala Teulera este o plajă situată în Mao.",
+                  "category": "recreational",
+                  "coords": [
+                        4.308593,
+                        39.880088
+                  ]
             }
       ],
       "en": [
@@ -20210,6 +24413,15 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         4.261845,
                         39.891486
+                  ]
+            },
+            {
+                  "name": "Cala Teulera",
+                  "text": "Cala Teulera is a beach located in Mao.",
+                  "category": "recreational",
+                  "coords": [
+                        4.308593,
+                        39.880088
                   ]
             }
       ]
@@ -20621,6 +24833,42 @@ export const poiExtraEsV2: POI[] = [
                         -15.564901,
                         27.759751
                   ]
+            },
+            {
+                  "name": "Playa Meloneras",
+                  "text": "Playa Meloneras ist ein Küstenstrand in der Gegend von Maspalomas.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.612041,
+                        27.744939
+                  ]
+            },
+            {
+                  "name": "Playa de las mujeres",
+                  "text": "Playa de las mujeres ist ein malerischer Strandbereich in Maspalomas.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.608697,
+                        27.74198
+                  ]
+            },
+            {
+                  "name": "Pasito Bea - Playa de las Mujeres",
+                  "text": "Pasito Bea - Playa de las Mujeres ist ein natürlicher Strand in Maspalomas.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.634582,
+                        27.748698
+                  ]
+            },
+            {
+                  "name": "Playa de Pasito Blanco",
+                  "text": "Playa de Pasito Blanco ist ein lokaler Strand in der Stadt Maspalomas.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.620883,
+                        27.748965
+                  ]
             }
       ],
       "hu": [
@@ -20710,6 +24958,42 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -15.564901,
                         27.759751
+                  ]
+            },
+            {
+                  "name": "Playa Meloneras",
+                  "text": "A Playa Meloneras egy tengerparti strand Maspalomas térségében.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.612041,
+                        27.744939
+                  ]
+            },
+            {
+                  "name": "Playa de las mujeres",
+                  "text": "A Playa de las mujeres egy festői strandzóna Maspalomas városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.608697,
+                        27.74198
+                  ]
+            },
+            {
+                  "name": "Pasito Bea - Playa de las Mujeres",
+                  "text": "A Pasito Bea - Playa de las Mujeres egy természetes strand Maspalomas régiójában.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.634582,
+                        27.748698
+                  ]
+            },
+            {
+                  "name": "Playa de Pasito Blanco",
+                  "text": "A Playa de Pasito Blanco egy helyi strand Maspalomas városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.620883,
+                        27.748965
                   ]
             }
       ],
@@ -20801,6 +25085,42 @@ export const poiExtraEsV2: POI[] = [
                         -15.564901,
                         27.759751
                   ]
+            },
+            {
+                  "name": "Playa Meloneras",
+                  "text": "Playa Meloneras este o plajă de coastă situată în zona Maspalomas.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.612041,
+                        27.744939
+                  ]
+            },
+            {
+                  "name": "Playa de las mujeres",
+                  "text": "Playa de las mujeres este o zonă pitorească de plajă situată în Maspalomas.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.608697,
+                        27.74198
+                  ]
+            },
+            {
+                  "name": "Pasito Bea - Playa de las Mujeres",
+                  "text": "Pasito Bea - Playa de las Mujeres este un mediu natural de plajă situat în Maspalomas.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.634582,
+                        27.748698
+                  ]
+            },
+            {
+                  "name": "Playa de Pasito Blanco",
+                  "text": "Playa de Pasito Blanco este o plajă locală din orașul Maspalomas.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.620883,
+                        27.748965
+                  ]
             }
       ],
       "en": [
@@ -20890,6 +25210,42 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -15.564901,
                         27.759751
+                  ]
+            },
+            {
+                  "name": "Playa Meloneras",
+                  "text": "Playa Meloneras is a coastal beach located in the area of Maspalomas.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.612041,
+                        27.744939
+                  ]
+            },
+            {
+                  "name": "Playa de las mujeres",
+                  "text": "Playa de las mujeres is a scenic beach area situated in Maspalomas.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.608697,
+                        27.74198
+                  ]
+            },
+            {
+                  "name": "Pasito Bea - Playa de las Mujeres",
+                  "text": "Pasito Bea - Playa de las Mujeres is a natural beach environment located in Maspalomas.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.634582,
+                        27.748698
+                  ]
+            },
+            {
+                  "name": "Playa de Pasito Blanco",
+                  "text": "Playa de Pasito Blanco is a local beach found in the city of Maspalomas.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.620883,
+                        27.748965
                   ]
             }
       ]
@@ -20994,6 +25350,60 @@ export const poiExtraEsV2: POI[] = [
                         -1.316358,
                         37.597761
                   ]
+            },
+            {
+                  "name": "Playa de Cueva Lobos",
+                  "text": "Playa de Cueva Lobos ist ein Sandstrandziel in Mazarron.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.32888,
+                        37.561669
+                  ]
+            },
+            {
+                  "name": "Playa Amarilla",
+                  "text": "Playa Amarilla ist ein Naturstrand an der Küste von Mazarron.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.331506,
+                        37.559829
+                  ]
+            },
+            {
+                  "name": "Playa de Bolnuevo",
+                  "text": "Playa de Bolnuevo ist ein schöner Strand in Mazarron.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.306802,
+                        37.561824
+                  ]
+            },
+            {
+                  "name": "Playa del Rincón",
+                  "text": "Playa del Rincón ist ein entspannender Strand in Mazarron.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.318546,
+                        37.562277
+                  ]
+            },
+            {
+                  "name": "Playa del Castellar",
+                  "text": "Playa del Castellar bietet ein angenehmes Küstenerlebnis in Mazarron.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.289499,
+                        37.559413
+                  ]
+            },
+            {
+                  "name": "Playa de Piedra Mala",
+                  "text": "Playa de Piedra Mala ist ein malerischer Strand in der Küstenstadt Mazarron.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.319756,
+                        37.562984
+                  ]
             }
       ],
       "hu": [
@@ -21094,6 +25504,60 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -1.316358,
                         37.597761
+                  ]
+            },
+            {
+                  "name": "Playa de Cueva Lobos",
+                  "text": "A Playa de Cueva Lobos egy homokos strand célpont Mazarronban.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.32888,
+                        37.561669
+                  ]
+            },
+            {
+                  "name": "Playa Amarilla",
+                  "text": "A Playa Amarilla egy természetes strand Mazarron partja mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.331506,
+                        37.559829
+                  ]
+            },
+            {
+                  "name": "Playa de Bolnuevo",
+                  "text": "A Playa de Bolnuevo egy gyönyörű strand Mazarronban.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.306802,
+                        37.561824
+                  ]
+            },
+            {
+                  "name": "Playa del Rincón",
+                  "text": "A Playa del Rincón egy pihentető strand Mazarronban.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.318546,
+                        37.562277
+                  ]
+            },
+            {
+                  "name": "Playa del Castellar",
+                  "text": "A Playa del Castellar kellemes tengerparti élményt nyújt Mazarronban.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.289499,
+                        37.559413
+                  ]
+            },
+            {
+                  "name": "Playa de Piedra Mala",
+                  "text": "A Playa de Piedra Mala egy festői strand Mazarron tengerparti városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.319756,
+                        37.562984
                   ]
             }
       ],
@@ -21196,6 +25660,60 @@ export const poiExtraEsV2: POI[] = [
                         -1.316358,
                         37.597761
                   ]
+            },
+            {
+                  "name": "Playa de Cueva Lobos",
+                  "text": "Playa de Cueva Lobos este o destinație de plajă cu nisip în Mazarron.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.32888,
+                        37.561669
+                  ]
+            },
+            {
+                  "name": "Playa Amarilla",
+                  "text": "Playa Amarilla este o plajă naturală situată de-a lungul coastei din Mazarron.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.331506,
+                        37.559829
+                  ]
+            },
+            {
+                  "name": "Playa de Bolnuevo",
+                  "text": "Playa de Bolnuevo este o plajă frumoasă situată în Mazarron.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.306802,
+                        37.561824
+                  ]
+            },
+            {
+                  "name": "Playa del Rincón",
+                  "text": "Playa del Rincón este o plajă relaxantă situată în Mazarron.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.318546,
+                        37.562277
+                  ]
+            },
+            {
+                  "name": "Playa del Castellar",
+                  "text": "Playa del Castellar oferă o experiență de coastă plăcută în Mazarron.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.289499,
+                        37.559413
+                  ]
+            },
+            {
+                  "name": "Playa de Piedra Mala",
+                  "text": "Playa de Piedra Mala este o plajă pitorească situată în orașul de coastă Mazarron.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.319756,
+                        37.562984
+                  ]
             }
       ],
       "en": [
@@ -21296,6 +25814,60 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -1.316358,
                         37.597761
+                  ]
+            },
+            {
+                  "name": "Playa de Cueva Lobos",
+                  "text": "Playa de Cueva Lobos is a sandy beach destination in Mazarron.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.32888,
+                        37.561669
+                  ]
+            },
+            {
+                  "name": "Playa Amarilla",
+                  "text": "Playa Amarilla is a natural beach located along the coast of Mazarron.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.331506,
+                        37.559829
+                  ]
+            },
+            {
+                  "name": "Playa de Bolnuevo",
+                  "text": "Playa de Bolnuevo is a beautiful beach located in Mazarron.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.306802,
+                        37.561824
+                  ]
+            },
+            {
+                  "name": "Playa del Rincón",
+                  "text": "Playa del Rincón is a relaxing beach situated in Mazarron.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.318546,
+                        37.562277
+                  ]
+            },
+            {
+                  "name": "Playa del Castellar",
+                  "text": "Playa del Castellar offers a pleasant coastal experience in Mazarron.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.289499,
+                        37.559413
+                  ]
+            },
+            {
+                  "name": "Playa de Piedra Mala",
+                  "text": "Playa de Piedra Mala is a scenic beach located in the coastal city of Mazarron.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.319756,
+                        37.562984
                   ]
             }
       ]
@@ -22463,6 +27035,51 @@ export const poiExtraEsV2: POI[] = [
                         -2.6998,
                         43.404697
                   ]
+            },
+            {
+                  "name": "Laga",
+                  "text": "Laga ist ein Strand in Mundaka.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.657362,
+                        43.409289
+                  ]
+            },
+            {
+                  "name": "Laida",
+                  "text": "Laida ist ein Strand in Mundaka.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.685014,
+                        43.400298
+                  ]
+            },
+            {
+                  "name": "Abinagako hondartza",
+                  "text": "Abinagako hondartza ist ein Strand in Mundaka.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.689803,
+                        43.387537
+                  ]
+            },
+            {
+                  "name": "Toñako hondartza",
+                  "text": "Toñako hondartza ist ein lokaler Strand in der Küstenstadt Mundaka.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.694926,
+                        43.393618
+                  ]
+            },
+            {
+                  "name": "Solabe hondartza",
+                  "text": "Solabe hondartza ist ein malerischer Strand in Mundaka.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.679901,
+                        43.383129
+                  ]
             }
       ],
       "hu": [
@@ -22486,6 +27103,51 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -2.6998,
                         43.404697
+                  ]
+            },
+            {
+                  "name": "Laga",
+                  "text": "A Laga egy strand Mundaka településen.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.657362,
+                        43.409289
+                  ]
+            },
+            {
+                  "name": "Laida",
+                  "text": "A Laida egy tengerparti strand Mundakában.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.685014,
+                        43.400298
+                  ]
+            },
+            {
+                  "name": "Abinagako hondartza",
+                  "text": "Az Abinagako hondartza egy strand Mundaka városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.689803,
+                        43.387537
+                  ]
+            },
+            {
+                  "name": "Toñako hondartza",
+                  "text": "A Toñako hondartza egy helyi strand a tengerparti Mundaka városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.694926,
+                        43.393618
+                  ]
+            },
+            {
+                  "name": "Solabe hondartza",
+                  "text": "A Solabe hondartza egy festői strand Mundaka városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.679901,
+                        43.383129
                   ]
             }
       ],
@@ -22511,6 +27173,51 @@ export const poiExtraEsV2: POI[] = [
                         -2.6998,
                         43.404697
                   ]
+            },
+            {
+                  "name": "Laga",
+                  "text": "Laga este o plajă situată în Mundaka.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.657362,
+                        43.409289
+                  ]
+            },
+            {
+                  "name": "Laida",
+                  "text": "Laida este o plajă situată în Mundaka.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.685014,
+                        43.400298
+                  ]
+            },
+            {
+                  "name": "Abinagako hondartza",
+                  "text": "Abinagako hondartza este o plajă aflată în Mundaka.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.689803,
+                        43.387537
+                  ]
+            },
+            {
+                  "name": "Toñako hondartza",
+                  "text": "Toñako hondartza este o plajă locală situată în orașul de coastă Mundaka.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.694926,
+                        43.393618
+                  ]
+            },
+            {
+                  "name": "Solabe hondartza",
+                  "text": "Solabe hondartza este o plajă pitorească situată în Mundaka.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.679901,
+                        43.383129
+                  ]
             }
       ],
       "en": [
@@ -22534,6 +27241,51 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -2.6998,
                         43.404697
+                  ]
+            },
+            {
+                  "name": "Laga",
+                  "text": "Laga is a beach situated in Mundaka.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.657362,
+                        43.409289
+                  ]
+            },
+            {
+                  "name": "Laida",
+                  "text": "Laida is a coastal beach located in Mundaka.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.685014,
+                        43.400298
+                  ]
+            },
+            {
+                  "name": "Abinagako hondartza",
+                  "text": "Abinagako hondartza is a beach found in Mundaka.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.689803,
+                        43.387537
+                  ]
+            },
+            {
+                  "name": "Toñako hondartza",
+                  "text": "Toñako hondartza is a local beach located in the coastal town of Mundaka.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.694926,
+                        43.393618
+                  ]
+            },
+            {
+                  "name": "Solabe hondartza",
+                  "text": "Solabe hondartza is a scenic beach situated in Mundaka.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.679901,
+                        43.383129
                   ]
             }
       ]
@@ -22638,6 +27390,24 @@ export const poiExtraEsV2: POI[] = [
                         -3.870243,
                         36.748436
                   ]
+            },
+            {
+                  "name": "Playa La Torrecilla",
+                  "text": "Playa La Torrecilla ist ein beliebter Strand in der Stadt Nerja.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.882698,
+                        36.741643
+                  ]
+            },
+            {
+                  "name": "Cala Barranco de Maro",
+                  "text": "Cala Barranco de Maro ist ein natürlicher Strand an der Küste von Nerja.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.850971,
+                        36.751053
+                  ]
             }
       ],
       "hu": [
@@ -22738,6 +27508,24 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -3.870243,
                         36.748436
+                  ]
+            },
+            {
+                  "name": "Playa La Torrecilla",
+                  "text": "A Playa La Torrecilla egy népszerű strand Nerja városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.882698,
+                        36.741643
+                  ]
+            },
+            {
+                  "name": "Cala Barranco de Maro",
+                  "text": "A Cala Barranco de Maro egy természetes strand Nerja partjai mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.850971,
+                        36.751053
                   ]
             }
       ],
@@ -22840,6 +27628,24 @@ export const poiExtraEsV2: POI[] = [
                         -3.870243,
                         36.748436
                   ]
+            },
+            {
+                  "name": "Playa La Torrecilla",
+                  "text": "Playa La Torrecilla este o plajă populară situată în orașul Nerja.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.882698,
+                        36.741643
+                  ]
+            },
+            {
+                  "name": "Cala Barranco de Maro",
+                  "text": "Cala Barranco de Maro este o plajă naturală situată de-a lungul coastei din Nerja.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.850971,
+                        36.751053
+                  ]
             }
       ],
       "en": [
@@ -22941,6 +27747,24 @@ export const poiExtraEsV2: POI[] = [
                         -3.870243,
                         36.748436
                   ]
+            },
+            {
+                  "name": "Playa La Torrecilla",
+                  "text": "Playa La Torrecilla is a popular beach situated in the town of Nerja.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.882698,
+                        36.741643
+                  ]
+            },
+            {
+                  "name": "Cala Barranco de Maro",
+                  "text": "Cala Barranco de Maro is a natural beach located along the coast of Nerja.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.850971,
+                        36.751053
+                  ]
             }
       ]
 }},
@@ -23011,6 +27835,15 @@ export const poiExtraEsV2: POI[] = [
                         -8.930935,
                         42.477719
                   ]
+            },
+            {
+                  "name": "Cala San Martiño",
+                  "text": "Cala San Martiño ist ein entspannender Küstenabschnitt in Grove.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.877337,
+                        42.539398
+                  ]
             }
       ],
       "hu": [
@@ -23078,6 +27911,15 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -8.930935,
                         42.477719
+                  ]
+            },
+            {
+                  "name": "Cala San Martiño",
+                  "text": "A Cala San Martiño egy pihentető partszakasz Grove területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.877337,
+                        42.539398
                   ]
             }
       ],
@@ -23147,6 +27989,15 @@ export const poiExtraEsV2: POI[] = [
                         -8.930935,
                         42.477719
                   ]
+            },
+            {
+                  "name": "Cala San Martiño",
+                  "text": "Cala San Martiño este o zonă de coastă relaxantă din Grove.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.877337,
+                        42.539398
+                  ]
             }
       ],
       "en": [
@@ -23214,6 +28065,15 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -8.930935,
                         42.477719
+                  ]
+            },
+            {
+                  "name": "Cala San Martiño",
+                  "text": "Cala San Martiño is a relaxing coastal area in Grove.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.877337,
+                        42.539398
                   ]
             }
       ]
@@ -23789,6 +28649,15 @@ export const poiExtraEsV2: POI[] = [
                         0.131447,
                         40.077098
                   ]
+            },
+            {
+                  "name": "Cala d'Orpesa la Vella",
+                  "text": "Cala d'Orpesa la Vella ist ein Strand in Del Mar.",
+                  "category": "recreational",
+                  "coords": [
+                        0.134618,
+                        40.078353
+                  ]
             }
       ],
       "hu": [
@@ -23900,6 +28769,15 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         0.131447,
                         40.077098
+                  ]
+            },
+            {
+                  "name": "Cala d'Orpesa la Vella",
+                  "text": "A Cala d'Orpesa la Vella egy strand Del Mar területén.",
+                  "category": "recreational",
+                  "coords": [
+                        0.134618,
+                        40.078353
                   ]
             }
       ],
@@ -24013,6 +28891,15 @@ export const poiExtraEsV2: POI[] = [
                         0.131447,
                         40.077098
                   ]
+            },
+            {
+                  "name": "Cala d'Orpesa la Vella",
+                  "text": "Cala d'Orpesa la Vella este o plajă situată în Del Mar.",
+                  "category": "recreational",
+                  "coords": [
+                        0.134618,
+                        40.078353
+                  ]
             }
       ],
       "en": [
@@ -24124,6 +29011,15 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         0.131447,
                         40.077098
+                  ]
+            },
+            {
+                  "name": "Cala d'Orpesa la Vella",
+                  "text": "Cala d'Orpesa la Vella is a beach located in Del Mar.",
+                  "category": "recreational",
+                  "coords": [
+                        0.134618,
+                        40.078353
                   ]
             }
       ]
@@ -24524,6 +29420,51 @@ export const poiExtraEsV2: POI[] = [
                         0.319167,
                         40.331111
                   ]
+            },
+            {
+                  "name": "Cala del Moro",
+                  "text": "Cala del Moro ist ein Strand in Peniscola.",
+                  "category": "recreational",
+                  "coords": [
+                        0.389254,
+                        40.347387
+                  ]
+            },
+            {
+                  "name": "Cala Ordí",
+                  "text": "Cala Ordí ist ein Strand in Peniscola.",
+                  "category": "recreational",
+                  "coords": [
+                        0.386374,
+                        40.341067
+                  ]
+            },
+            {
+                  "name": "Cala Puerto Azul",
+                  "text": "Cala Puerto Azul ist ein Strand in Peniscola.",
+                  "category": "recreational",
+                  "coords": [
+                        0.387925,
+                        40.344463
+                  ]
+            },
+            {
+                  "name": "Cala de l'Arjub",
+                  "text": "Cala de l'Arjub ist ein Strand in Peniscola.",
+                  "category": "recreational",
+                  "coords": [
+                        0.376427,
+                        40.333599
+                  ]
+            },
+            {
+                  "name": "Cala del Volante",
+                  "text": "Cala del Volante ist ein Strand in Peniscola.",
+                  "category": "recreational",
+                  "coords": [
+                        0.374017,
+                        40.330985
+                  ]
             }
       ],
       "hu": [
@@ -24602,6 +29543,51 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         0.319167,
                         40.331111
+                  ]
+            },
+            {
+                  "name": "Cala del Moro",
+                  "text": "A Cala del Moro egy strand Peniscola városában.",
+                  "category": "recreational",
+                  "coords": [
+                        0.389254,
+                        40.347387
+                  ]
+            },
+            {
+                  "name": "Cala Ordí",
+                  "text": "A Cala Ordí egy strand Peniscola városában.",
+                  "category": "recreational",
+                  "coords": [
+                        0.386374,
+                        40.341067
+                  ]
+            },
+            {
+                  "name": "Cala Puerto Azul",
+                  "text": "A Cala Puerto Azul egy strand Peniscola városában.",
+                  "category": "recreational",
+                  "coords": [
+                        0.387925,
+                        40.344463
+                  ]
+            },
+            {
+                  "name": "Cala de l'Arjub",
+                  "text": "A Cala de l'Arjub egy strand Peniscola városában.",
+                  "category": "recreational",
+                  "coords": [
+                        0.376427,
+                        40.333599
+                  ]
+            },
+            {
+                  "name": "Cala del Volante",
+                  "text": "A Cala del Volante egy strand Peniscola városában.",
+                  "category": "recreational",
+                  "coords": [
+                        0.374017,
+                        40.330985
                   ]
             }
       ],
@@ -24682,6 +29668,51 @@ export const poiExtraEsV2: POI[] = [
                         0.319167,
                         40.331111
                   ]
+            },
+            {
+                  "name": "Cala del Moro",
+                  "text": "Cala del Moro este o plajă situată în Peniscola.",
+                  "category": "recreational",
+                  "coords": [
+                        0.389254,
+                        40.347387
+                  ]
+            },
+            {
+                  "name": "Cala Ordí",
+                  "text": "Cala Ordí este o plajă situată în Peniscola.",
+                  "category": "recreational",
+                  "coords": [
+                        0.386374,
+                        40.341067
+                  ]
+            },
+            {
+                  "name": "Cala Puerto Azul",
+                  "text": "Cala Puerto Azul este o plajă situată în Peniscola.",
+                  "category": "recreational",
+                  "coords": [
+                        0.387925,
+                        40.344463
+                  ]
+            },
+            {
+                  "name": "Cala de l'Arjub",
+                  "text": "Cala de l'Arjub este o plajă situată în Peniscola.",
+                  "category": "recreational",
+                  "coords": [
+                        0.376427,
+                        40.333599
+                  ]
+            },
+            {
+                  "name": "Cala del Volante",
+                  "text": "Cala del Volante este o plajă situată în Peniscola.",
+                  "category": "recreational",
+                  "coords": [
+                        0.374017,
+                        40.330985
+                  ]
             }
       ],
       "en": [
@@ -24760,6 +29791,51 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         0.319167,
                         40.331111
+                  ]
+            },
+            {
+                  "name": "Cala del Moro",
+                  "text": "Cala del Moro is a beach located in Peniscola.",
+                  "category": "recreational",
+                  "coords": [
+                        0.389254,
+                        40.347387
+                  ]
+            },
+            {
+                  "name": "Cala Ordí",
+                  "text": "Cala Ordí is a beach located in Peniscola.",
+                  "category": "recreational",
+                  "coords": [
+                        0.386374,
+                        40.341067
+                  ]
+            },
+            {
+                  "name": "Cala Puerto Azul",
+                  "text": "Cala Puerto Azul is a beach located in Peniscola.",
+                  "category": "recreational",
+                  "coords": [
+                        0.387925,
+                        40.344463
+                  ]
+            },
+            {
+                  "name": "Cala de l'Arjub",
+                  "text": "Cala de l'Arjub is a beach located in Peniscola.",
+                  "category": "recreational",
+                  "coords": [
+                        0.376427,
+                        40.333599
+                  ]
+            },
+            {
+                  "name": "Cala del Volante",
+                  "text": "Cala del Volante is a beach located in Peniscola.",
+                  "category": "recreational",
+                  "coords": [
+                        0.374017,
+                        40.330985
                   ]
             }
       ]
@@ -24853,6 +29929,60 @@ export const poiExtraEsV2: POI[] = [
                         -13.82259,
                         28.86251
                   ]
+            },
+            {
+                  "name": "Playa Mujeres",
+                  "text": "Playa Mujeres ist ein entspannender Strand in Blanca.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.79291,
+                        28.853035
+                  ]
+            },
+            {
+                  "name": "Playa Caleta del Congrio",
+                  "text": "Playa Caleta del Congrio ist ein Küstenstrand in Blanca.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.78456,
+                        28.841661
+                  ]
+            },
+            {
+                  "name": "Playa de Papagayo",
+                  "text": "Playa de Papagayo ist ein bekannter Strand in Blanca, berühmt für sein klares Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.788289,
+                        28.842463
+                  ]
+            },
+            {
+                  "name": "Playa de Puerto Muelas",
+                  "text": "Playa de Puerto Muelas ist ein ruhiger Strand in Blanca.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.781327,
+                        28.843819
+                  ]
+            },
+            {
+                  "name": "Playa de la Cera",
+                  "text": "Playa de la Cera ist ein angenehmes Strandziel in Blanca.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.788828,
+                        28.844644
+                  ]
+            },
+            {
+                  "name": "Caletón de San Marcial",
+                  "text": "Caletón de San Marcial ist ein schöner Strandabschnitt in Blanca.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.791229,
+                        28.850147
+                  ]
             }
       ],
       "hu": [
@@ -24942,6 +30072,60 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -13.82259,
                         28.86251
+                  ]
+            },
+            {
+                  "name": "Playa Mujeres",
+                  "text": "A Playa Mujeres egy pihentető strand Blanca városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.79291,
+                        28.853035
+                  ]
+            },
+            {
+                  "name": "Playa Caleta del Congrio",
+                  "text": "A Playa Caleta del Congrio egy tengerparti strand Blancában.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.78456,
+                        28.841661
+                  ]
+            },
+            {
+                  "name": "Playa de Papagayo",
+                  "text": "A Playa de Papagayo egy jól ismert strand Blancában, amely tiszta vizéről híres.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.788289,
+                        28.842463
+                  ]
+            },
+            {
+                  "name": "Playa de Puerto Muelas",
+                  "text": "A Playa de Puerto Muelas egy csendes strand Blancában.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.781327,
+                        28.843819
+                  ]
+            },
+            {
+                  "name": "Playa de la Cera",
+                  "text": "A Playa de la Cera egy kellemes strand Blancában.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.788828,
+                        28.844644
+                  ]
+            },
+            {
+                  "name": "Caletón de San Marcial",
+                  "text": "A Caletón de San Marcial egy gyönyörű strand Blancában.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.791229,
+                        28.850147
                   ]
             }
       ],
@@ -25033,6 +30217,60 @@ export const poiExtraEsV2: POI[] = [
                         -13.82259,
                         28.86251
                   ]
+            },
+            {
+                  "name": "Playa Mujeres",
+                  "text": "Playa Mujeres este o plajă relaxantă situată în Blanca.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.79291,
+                        28.853035
+                  ]
+            },
+            {
+                  "name": "Playa Caleta del Congrio",
+                  "text": "Playa Caleta del Congrio este o plajă de coastă din Blanca.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.78456,
+                        28.841661
+                  ]
+            },
+            {
+                  "name": "Playa de Papagayo",
+                  "text": "Playa de Papagayo este o plajă renumită din Blanca, faimoasă pentru apele sale limpezi.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.788289,
+                        28.842463
+                  ]
+            },
+            {
+                  "name": "Playa de Puerto Muelas",
+                  "text": "Playa de Puerto Muelas este o plajă liniștită din Blanca.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.781327,
+                        28.843819
+                  ]
+            },
+            {
+                  "name": "Playa de la Cera",
+                  "text": "Playa de la Cera este o destinație de plajă plăcută în Blanca.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.788828,
+                        28.844644
+                  ]
+            },
+            {
+                  "name": "Caletón de San Marcial",
+                  "text": "Caletón de San Marcial este un loc frumos de plajă din Blanca.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.791229,
+                        28.850147
+                  ]
             }
       ],
       "en": [
@@ -25122,6 +30360,60 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -13.82259,
                         28.86251
+                  ]
+            },
+            {
+                  "name": "Playa Mujeres",
+                  "text": "Playa Mujeres is a relaxing beach situated in Blanca.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.79291,
+                        28.853035
+                  ]
+            },
+            {
+                  "name": "Playa Caleta del Congrio",
+                  "text": "Playa Caleta del Congrio is a coastal beach area in Blanca.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.78456,
+                        28.841661
+                  ]
+            },
+            {
+                  "name": "Playa de Papagayo",
+                  "text": "Playa de Papagayo is a well-known beach in Blanca, famous for its clear waters.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.788289,
+                        28.842463
+                  ]
+            },
+            {
+                  "name": "Playa de Puerto Muelas",
+                  "text": "Playa de Puerto Muelas is a quiet beach located in Blanca.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.781327,
+                        28.843819
+                  ]
+            },
+            {
+                  "name": "Playa de la Cera",
+                  "text": "Playa de la Cera is a pleasant beach destination in Blanca.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.788828,
+                        28.844644
+                  ]
+            },
+            {
+                  "name": "Caletón de San Marcial",
+                  "text": "Caletón de San Marcial is a beautiful beach spot in Blanca.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.791229,
+                        28.850147
                   ]
             }
       ]
@@ -26290,6 +31582,60 @@ export const poiExtraEsV2: POI[] = [
                         -15.761539,
                         27.81734
                   ]
+            },
+            {
+                  "name": "Playa de Amadores",
+                  "text": "Playa de Amadores ist ein erholsamer Strand in der Gemeinde De Mogan.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.724996,
+                        27.78988
+                  ]
+            },
+            {
+                  "name": "Playa Taurito",
+                  "text": "Playa Taurito ist ein Küstenstrand in De Mogan.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.753347,
+                        27.814225
+                  ]
+            },
+            {
+                  "name": "Playa de Veneguera",
+                  "text": "Playa de Veneguera ist ein malerischer Strand in der Gemeinde De Mogan.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.791663,
+                        27.846479
+                  ]
+            },
+            {
+                  "name": "Playa Medio Almud",
+                  "text": "Playa Medio Almud ist ein ruhiger Strandabschnitt in De Mogan.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.739889,
+                        27.801805
+                  ]
+            },
+            {
+                  "name": "Playa de Tauro",
+                  "text": "Playa de Tauro ist ein Küstenstrand in der Region De Mogan.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.727701,
+                        27.795506
+                  ]
+            },
+            {
+                  "name": "Playa del Cerrillo",
+                  "text": "Playa del Cerrillo ist ein Strand in der Küstenregion von Mogan.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.798782,
+                        27.857973
+                  ]
             }
       ],
       "hu": [
@@ -26368,6 +31714,60 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -15.761539,
                         27.81734
+                  ]
+            },
+            {
+                  "name": "Playa de Amadores",
+                  "text": "A Playa de Amadores egy pihentető tengerparti környezet De Mogan községben.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.724996,
+                        27.78988
+                  ]
+            },
+            {
+                  "name": "Playa Taurito",
+                  "text": "A Playa Taurito egy tengerparti strand De Mogan városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.753347,
+                        27.814225
+                  ]
+            },
+            {
+                  "name": "Playa de Veneguera",
+                  "text": "A Playa de Veneguera egy festői strand De Mogan községben.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.791663,
+                        27.846479
+                  ]
+            },
+            {
+                  "name": "Playa Medio Almud",
+                  "text": "A Playa Medio Almud egy csendes partszakasz De Mogan területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.739889,
+                        27.801805
+                  ]
+            },
+            {
+                  "name": "Playa de Tauro",
+                  "text": "A Playa de Tauro egy tengerparti strand De Mogan régiójában.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.727701,
+                        27.795506
+                  ]
+            },
+            {
+                  "name": "Playa del Cerrillo",
+                  "text": "A Playa del Cerrillo egy strand Mogan partvidékén.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.798782,
+                        27.857973
                   ]
             }
       ],
@@ -26448,6 +31848,60 @@ export const poiExtraEsV2: POI[] = [
                         -15.761539,
                         27.81734
                   ]
+            },
+            {
+                  "name": "Playa de Amadores",
+                  "text": "Playa de Amadores este un mediu relaxant de plajă situat în De Mogan.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.724996,
+                        27.78988
+                  ]
+            },
+            {
+                  "name": "Playa Taurito",
+                  "text": "Playa Taurito este o zonă de plajă de coastă situată în De Mogan.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.753347,
+                        27.814225
+                  ]
+            },
+            {
+                  "name": "Playa de Veneguera",
+                  "text": "Playa de Veneguera este o plajă pitorească situată în municipalitatea De Mogan.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.791663,
+                        27.846479
+                  ]
+            },
+            {
+                  "name": "Playa Medio Almud",
+                  "text": "Playa Medio Almud este o zonă de plajă liniștită situată în De Mogan.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.739889,
+                        27.801805
+                  ]
+            },
+            {
+                  "name": "Playa de Tauro",
+                  "text": "Playa de Tauro este o destinație de plajă pe coastă aflată în De Mogan.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.727701,
+                        27.795506
+                  ]
+            },
+            {
+                  "name": "Playa del Cerrillo",
+                  "text": "Playa del Cerrillo este o plajă situată în zona de coastă din Mogan.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.798782,
+                        27.857973
+                  ]
             }
       ],
       "en": [
@@ -26527,6 +31981,60 @@ export const poiExtraEsV2: POI[] = [
                         -15.761539,
                         27.81734
                   ]
+            },
+            {
+                  "name": "Playa de Amadores",
+                  "text": "Playa de Amadores is a relaxing beach environment situated in the municipality of De Mogan.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.724996,
+                        27.78988
+                  ]
+            },
+            {
+                  "name": "Playa Taurito",
+                  "text": "Playa Taurito is a coastal beach area located in De Mogan.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.753347,
+                        27.814225
+                  ]
+            },
+            {
+                  "name": "Playa de Veneguera",
+                  "text": "Playa de Veneguera is a scenic beach located in the municipality of De Mogan.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.791663,
+                        27.846479
+                  ]
+            },
+            {
+                  "name": "Playa Medio Almud",
+                  "text": "Playa Medio Almud is a tranquil beach area situated in De Mogan.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.739889,
+                        27.801805
+                  ]
+            },
+            {
+                  "name": "Playa de Tauro",
+                  "text": "Playa de Tauro is a coastal beach destination found in De Mogan.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.727701,
+                        27.795506
+                  ]
+            },
+            {
+                  "name": "Playa del Cerrillo",
+                  "text": "Playa del Cerrillo is a beach located in the coastal area of Mogan.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.798782,
+                        27.857973
+                  ]
             }
       ]
 }},
@@ -26586,6 +32094,33 @@ export const poiExtraEsV2: POI[] = [
                         -13.656208,
                         28.920244
                   ]
+            },
+            {
+                  "name": "Playa de Matagorda",
+                  "text": "Playa de Matagorda ist ein Strand in Del Carmen.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.623613,
+                        28.929628
+                  ]
+            },
+            {
+                  "name": "El Barranquillo",
+                  "text": "El Barranquillo ist ein Strand in Del Carmen.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.64467,
+                        28.919506
+                  ]
+            },
+            {
+                  "name": "La Peña del Dice",
+                  "text": "La Peña del Dice ist ein Küstenstrand in Del Carmen.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.64871,
+                        28.919825
+                  ]
             }
       ],
       "hu": [
@@ -26642,6 +32177,33 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -13.656208,
                         28.920244
+                  ]
+            },
+            {
+                  "name": "Playa de Matagorda",
+                  "text": "A Playa de Matagorda egy strand Del Carmen városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.623613,
+                        28.929628
+                  ]
+            },
+            {
+                  "name": "El Barranquillo",
+                  "text": "Az El Barranquillo egy strand Del Carmen területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.64467,
+                        28.919506
+                  ]
+            },
+            {
+                  "name": "La Peña del Dice",
+                  "text": "A La Peña del Dice egy tengerparti strand Del Carmen városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.64871,
+                        28.919825
                   ]
             }
       ],
@@ -26700,6 +32262,33 @@ export const poiExtraEsV2: POI[] = [
                         -13.656208,
                         28.920244
                   ]
+            },
+            {
+                  "name": "Playa de Matagorda",
+                  "text": "Playa de Matagorda este o plajă situată în Del Carmen.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.623613,
+                        28.929628
+                  ]
+            },
+            {
+                  "name": "El Barranquillo",
+                  "text": "El Barranquillo este o plajă aflată în Del Carmen.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.64467,
+                        28.919506
+                  ]
+            },
+            {
+                  "name": "La Peña del Dice",
+                  "text": "La Peña del Dice este o plajă de coastă din Del Carmen.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.64871,
+                        28.919825
+                  ]
             }
       ],
       "en": [
@@ -26756,6 +32345,33 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -13.656208,
                         28.920244
+                  ]
+            },
+            {
+                  "name": "Playa de Matagorda",
+                  "text": "Playa de Matagorda is a beach situated in Del Carmen.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.623613,
+                        28.929628
+                  ]
+            },
+            {
+                  "name": "El Barranquillo",
+                  "text": "El Barranquillo is a beach located in Del Carmen.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.64467,
+                        28.919506
+                  ]
+            },
+            {
+                  "name": "La Peña del Dice",
+                  "text": "La Peña del Dice is a coastal beach in Del Carmen.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.64871,
+                        28.919825
                   ]
             }
       ]
@@ -26860,6 +32476,69 @@ export const poiExtraEsV2: POI[] = [
                         -7.02104,
                         43.537754
                   ]
+            },
+            {
+                  "name": "Playa de Peñarronda",
+                  "text": "Playa de Peñarronda ist ein Strand in Ribadeo.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.996816,
+                        43.553282
+                  ]
+            },
+            {
+                  "name": "Praia dos Bloques",
+                  "text": "Praia dos Bloques ist ein bekannter Strand in Ribadeo.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.044264,
+                        43.529192
+                  ]
+            },
+            {
+                  "name": "Praia da Arnela",
+                  "text": "Praia da Arnela ist ein anerkannter Strand in Ribadeo.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.058634,
+                        43.556849
+                  ]
+            },
+            {
+                  "name": "Praia de Rochas Brancas",
+                  "text": "Praia de Rochas Brancas ist ein bekannter Küstenabschnitt in Ribadeo.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.043993,
+                        43.553689
+                  ]
+            },
+            {
+                  "name": "Playa de Arnao",
+                  "text": "Playa de Arnao ist ein Strand in Ribadeo.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.022011,
+                        43.549626
+                  ]
+            },
+            {
+                  "name": "Praia da Areosa",
+                  "text": "Praia da Areosa ist ein beliebter Strand in Ribadeo.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.064355,
+                        43.556489
+                  ]
+            },
+            {
+                  "name": "Playa de Figueras",
+                  "text": "Playa de Figueras ist ein bekannter Strand in Ribadeo.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.030441,
+                        43.542308
+                  ]
             }
       ],
       "hu": [
@@ -26960,6 +32639,69 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -7.02104,
                         43.537754
+                  ]
+            },
+            {
+                  "name": "Playa de Peñarronda",
+                  "text": "A Playa de Peñarronda egy strand Ribadeo városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.996816,
+                        43.553282
+                  ]
+            },
+            {
+                  "name": "Praia dos Bloques",
+                  "text": "A Praia dos Bloques egy nevezetes strand Ribadeo területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.044264,
+                        43.529192
+                  ]
+            },
+            {
+                  "name": "Praia da Arnela",
+                  "text": "A Praia da Arnela egy elismert strand Ribadeo városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.058634,
+                        43.556849
+                  ]
+            },
+            {
+                  "name": "Praia de Rochas Brancas",
+                  "text": "A Praia de Rochas Brancas egy ismert partszakasz Ribadeo területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.043993,
+                        43.553689
+                  ]
+            },
+            {
+                  "name": "Playa de Arnao",
+                  "text": "A Playa de Arnao egy strand Ribadeo városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.022011,
+                        43.549626
+                  ]
+            },
+            {
+                  "name": "Praia da Areosa",
+                  "text": "A Praia da Areosa egy népszerű strand Ribadeo városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.064355,
+                        43.556489
+                  ]
+            },
+            {
+                  "name": "Playa de Figueras",
+                  "text": "A Playa de Figueras egy elismert strand Ribadeo területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.030441,
+                        43.542308
                   ]
             }
       ],
@@ -27062,6 +32804,69 @@ export const poiExtraEsV2: POI[] = [
                         -7.02104,
                         43.537754
                   ]
+            },
+            {
+                  "name": "Playa de Peñarronda",
+                  "text": "Playa de Peñarronda este o plajă situată în Ribadeo.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.996816,
+                        43.553282
+                  ]
+            },
+            {
+                  "name": "Praia dos Bloques",
+                  "text": "Praia dos Bloques este o plajă notabilă situată în Ribadeo.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.044264,
+                        43.529192
+                  ]
+            },
+            {
+                  "name": "Praia da Arnela",
+                  "text": "Praia da Arnela este o plajă recunoscută situată în Ribadeo.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.058634,
+                        43.556849
+                  ]
+            },
+            {
+                  "name": "Praia de Rochas Brancas",
+                  "text": "Praia de Rochas Brancas este o zonă de coastă notabilă din Ribadeo.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.043993,
+                        43.553689
+                  ]
+            },
+            {
+                  "name": "Playa de Arnao",
+                  "text": "Playa de Arnao este o plajă situată în Ribadeo.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.022011,
+                        43.549626
+                  ]
+            },
+            {
+                  "name": "Praia da Areosa",
+                  "text": "Praia da Areosa este o plajă populară situată în Ribadeo.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.064355,
+                        43.556489
+                  ]
+            },
+            {
+                  "name": "Playa de Figueras",
+                  "text": "Playa de Figueras este o plajă recunoscută din Ribadeo.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.030441,
+                        43.542308
+                  ]
             }
       ],
       "en": [
@@ -27162,6 +32967,69 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -7.02104,
                         43.537754
+                  ]
+            },
+            {
+                  "name": "Playa de Peñarronda",
+                  "text": "Playa de Peñarronda is a beach located in Ribadeo.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.996816,
+                        43.553282
+                  ]
+            },
+            {
+                  "name": "Praia dos Bloques",
+                  "text": "Praia dos Bloques is a notable beach destination located in Ribadeo.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.044264,
+                        43.529192
+                  ]
+            },
+            {
+                  "name": "Praia da Arnela",
+                  "text": "Praia da Arnela is a recognized beach situated in Ribadeo.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.058634,
+                        43.556849
+                  ]
+            },
+            {
+                  "name": "Praia de Rochas Brancas",
+                  "text": "Praia de Rochas Brancas is a notable coastal spot in Ribadeo.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.043993,
+                        43.553689
+                  ]
+            },
+            {
+                  "name": "Playa de Arnao",
+                  "text": "Playa de Arnao is a beach located in Ribadeo.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.022011,
+                        43.549626
+                  ]
+            },
+            {
+                  "name": "Praia da Areosa",
+                  "text": "Praia da Areosa is a popular beach area located in Ribadeo.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.064355,
+                        43.556489
+                  ]
+            },
+            {
+                  "name": "Playa de Figueras",
+                  "text": "Playa de Figueras is a recognized beach destination in Ribadeo.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.030441,
+                        43.542308
                   ]
             }
       ]
@@ -27266,6 +33134,24 @@ export const poiExtraEsV2: POI[] = [
                         -5.056226,
                         43.463734
                   ]
+            },
+            {
+                  "name": "Playa de la Atalaya",
+                  "text": "Playa de la Atalaya ist ein anerkannter Strand in Ribadesella.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.054765,
+                        43.464474
+                  ]
+            },
+            {
+                  "name": "Playa de Arra",
+                  "text": "Playa de Arra ist ein bemerkenswertes Strandziel in Ribadesella.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.039238,
+                        43.461391
+                  ]
             }
       ],
       "hu": [
@@ -27366,6 +33252,24 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -5.056226,
                         43.463734
+                  ]
+            },
+            {
+                  "name": "Playa de la Atalaya",
+                  "text": "A Playa de la Atalaya egy elismert strand Ribadesellában.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.054765,
+                        43.464474
+                  ]
+            },
+            {
+                  "name": "Playa de Arra",
+                  "text": "A Playa de Arra egy nevezetes tengerparti célpont Ribadesellában.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.039238,
+                        43.461391
                   ]
             }
       ],
@@ -27468,6 +33372,24 @@ export const poiExtraEsV2: POI[] = [
                         -5.056226,
                         43.463734
                   ]
+            },
+            {
+                  "name": "Playa de la Atalaya",
+                  "text": "Playa de la Atalaya este o plajă recunoscută situată în Ribadesella.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.054765,
+                        43.464474
+                  ]
+            },
+            {
+                  "name": "Playa de Arra",
+                  "text": "Playa de Arra este o destinație de plajă notabilă în Ribadesella.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.039238,
+                        43.461391
+                  ]
             }
       ],
       "en": [
@@ -27568,6 +33490,24 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -5.056226,
                         43.463734
+                  ]
+            },
+            {
+                  "name": "Playa de la Atalaya",
+                  "text": "Playa de la Atalaya is a recognized beach situated in Ribadesella.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.054765,
+                        43.464474
+                  ]
+            },
+            {
+                  "name": "Playa de Arra",
+                  "text": "Playa de Arra is a notable beach destination in Ribadesella.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.039238,
+                        43.461391
                   ]
             }
       ]
@@ -28890,6 +34830,51 @@ export const poiExtraEsV2: POI[] = [
                         -3.585556,
                         36.729722
                   ]
+            },
+            {
+                  "name": "Playa del Molino",
+                  "text": "Playa del Molino ist ein Strand in Salobrena.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.588239,
+                        36.732225
+                  ]
+            },
+            {
+                  "name": "Cala del Cambrón",
+                  "text": "Cala del Cambrón ist ein Strandabschnitt in Salobrena.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.624824,
+                        36.742058
+                  ]
+            },
+            {
+                  "name": "Playa de La Guardia",
+                  "text": "Playa de La Guardia ist ein bekannter Strand in Salobrena.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.596256,
+                        36.740227
+                  ]
+            },
+            {
+                  "name": "Cala el Pargo",
+                  "text": "Cala el Pargo ist ein Strand in Salobrena.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.611702,
+                        36.74345
+                  ]
+            },
+            {
+                  "name": "Playa Punta del Río",
+                  "text": "Playa Punta del Río ist ein Strand in der Küstenstadt Salobrena.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.572818,
+                        36.721964
+                  ]
             }
       ],
       "hu": [
@@ -28946,6 +34931,51 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -3.585556,
                         36.729722
+                  ]
+            },
+            {
+                  "name": "Playa del Molino",
+                  "text": "A Playa del Molino egy strand Salobrena városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.588239,
+                        36.732225
+                  ]
+            },
+            {
+                  "name": "Cala del Cambrón",
+                  "text": "A Cala del Cambrón egy partszakasz Salobrena területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.624824,
+                        36.742058
+                  ]
+            },
+            {
+                  "name": "Playa de La Guardia",
+                  "text": "A Playa de La Guardia egy ismert strand Salobrena városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.596256,
+                        36.740227
+                  ]
+            },
+            {
+                  "name": "Cala el Pargo",
+                  "text": "A Cala el Pargo egy strand Salobrena területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.611702,
+                        36.74345
+                  ]
+            },
+            {
+                  "name": "Playa Punta del Río",
+                  "text": "A Playa Punta del Río egy strand a part menti Salobrena városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.572818,
+                        36.721964
                   ]
             }
       ],
@@ -29004,6 +35034,51 @@ export const poiExtraEsV2: POI[] = [
                         -3.585556,
                         36.729722
                   ]
+            },
+            {
+                  "name": "Playa del Molino",
+                  "text": "Playa del Molino este o plajă situată în Salobrena.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.588239,
+                        36.732225
+                  ]
+            },
+            {
+                  "name": "Cala del Cambrón",
+                  "text": "Cala del Cambrón este o zonă de plajă din Salobrena.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.624824,
+                        36.742058
+                  ]
+            },
+            {
+                  "name": "Playa de La Guardia",
+                  "text": "Playa de La Guardia este o plajă cunoscută situată în Salobrena.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.596256,
+                        36.740227
+                  ]
+            },
+            {
+                  "name": "Cala el Pargo",
+                  "text": "Cala el Pargo este o plajă situată în Salobrena.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.611702,
+                        36.74345
+                  ]
+            },
+            {
+                  "name": "Playa Punta del Río",
+                  "text": "Playa Punta del Río este o plajă situată în orașul de coastă Salobrena.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.572818,
+                        36.721964
+                  ]
             }
       ],
       "en": [
@@ -29060,6 +35135,51 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -3.585556,
                         36.729722
+                  ]
+            },
+            {
+                  "name": "Playa del Molino",
+                  "text": "Playa del Molino is a beach situated in Salobrena.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.588239,
+                        36.732225
+                  ]
+            },
+            {
+                  "name": "Cala del Cambrón",
+                  "text": "Cala del Cambrón is a beach area located in Salobrena.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.624824,
+                        36.742058
+                  ]
+            },
+            {
+                  "name": "Playa de La Guardia",
+                  "text": "Playa de La Guardia is a well-known beach in Salobrena.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.596256,
+                        36.740227
+                  ]
+            },
+            {
+                  "name": "Cala el Pargo",
+                  "text": "Cala el Pargo is a beach located in Salobrena.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.611702,
+                        36.74345
+                  ]
+            },
+            {
+                  "name": "Playa Punta del Río",
+                  "text": "Playa Punta del Río is a beach located in the coastal town of Salobrena.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.572818,
+                        36.721964
                   ]
             }
       ]
@@ -29493,6 +35613,33 @@ export const poiExtraEsV2: POI[] = [
                         -1.985301,
                         43.32477
                   ]
+            },
+            {
+                  "name": "Kontxa hondartza",
+                  "text": "Kontxa hondartza ist ein sehr bekannter Stadtstrand in Sebastian. Er ist für seine charakteristische Halbmondform bekannt.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.991522,
+                        43.317723
+                  ]
+            },
+            {
+                  "name": "Ondarreta",
+                  "text": "Ondarreta ist ein beliebter Stadtstrand in Sebastian.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.001507,
+                        43.316926
+                  ]
+            },
+            {
+                  "name": "Cala de Santa Clara",
+                  "text": "Cala de Santa Clara ist ein Strand in Sebastian.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.999589,
+                        43.320706
+                  ]
             }
       ],
       "hu": [
@@ -29604,6 +35751,33 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -1.985301,
                         43.32477
+                  ]
+            },
+            {
+                  "name": "Kontxa hondartza",
+                  "text": "A Kontxa hondartza egy híres városi strand Sebastianban. Jellegzetes félhold alakjáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.991522,
+                        43.317723
+                  ]
+            },
+            {
+                  "name": "Ondarreta",
+                  "text": "Az Ondarreta egy népszerű városi strand Sebastianban.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.001507,
+                        43.316926
+                  ]
+            },
+            {
+                  "name": "Cala de Santa Clara",
+                  "text": "A Cala de Santa Clara egy strand Sebastian városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.999589,
+                        43.320706
                   ]
             }
       ],
@@ -29717,6 +35891,33 @@ export const poiExtraEsV2: POI[] = [
                         -1.985301,
                         43.32477
                   ]
+            },
+            {
+                  "name": "Kontxa hondartza",
+                  "text": "Kontxa hondartza este o plajă urbană celebră din Sebastian. Este cunoscută pentru forma sa distinctivă de semilună.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.991522,
+                        43.317723
+                  ]
+            },
+            {
+                  "name": "Ondarreta",
+                  "text": "Ondarreta este o plajă urbană populară situată în Sebastian.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.001507,
+                        43.316926
+                  ]
+            },
+            {
+                  "name": "Cala de Santa Clara",
+                  "text": "Cala de Santa Clara este o plajă situată în Sebastian.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.999589,
+                        43.320706
+                  ]
             }
       ],
       "en": [
@@ -29829,6 +36030,33 @@ export const poiExtraEsV2: POI[] = [
                         -1.985301,
                         43.32477
                   ]
+            },
+            {
+                  "name": "Kontxa hondartza",
+                  "text": "Kontxa hondartza is a highly famous urban beach in Sebastian. It is known for its distinctive crescent shape.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.991522,
+                        43.317723
+                  ]
+            },
+            {
+                  "name": "Ondarreta",
+                  "text": "Ondarreta is a popular urban beach situated in Sebastian.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.001507,
+                        43.316926
+                  ]
+            },
+            {
+                  "name": "Cala de Santa Clara",
+                  "text": "Cala de Santa Clara is a beach located in Sebastian.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.999589,
+                        43.320706
+                  ]
             }
       ]
 }},
@@ -29932,6 +36160,42 @@ export const poiExtraEsV2: POI[] = [
                         -4.36535,
                         43.386586
                   ]
+            },
+            {
+                  "name": "Playa de El Tostadero",
+                  "text": "Playa de El Tostadero ist ein bekannter Strand in Vicente De La Barquera.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.387328,
+                        43.387022
+                  ]
+            },
+            {
+                  "name": "Playa de la Maza",
+                  "text": "Playa de la Maza ist ein bekannter Strand in Vicente De La Barquera.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.39034,
+                        43.383453
+                  ]
+            },
+            {
+                  "name": "Playa de Fuentes",
+                  "text": "Playa de Fuentes ist ein bekannter Strand in Vicente De La Barquera.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.431452,
+                        43.392947
+                  ]
+            },
+            {
+                  "name": "Cala de Liñera",
+                  "text": "Cala de Liñera ist ein malerischer Strand in Vicente De La Barquera.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.397423,
+                        43.394104
+                  ]
             }
       ],
       "hu": [
@@ -30032,6 +36296,42 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -4.36535,
                         43.386586
+                  ]
+            },
+            {
+                  "name": "Playa de El Tostadero",
+                  "text": "A Playa de El Tostadero egy jól ismert tengerpart Vicente De La Barquera városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.387328,
+                        43.387022
+                  ]
+            },
+            {
+                  "name": "Playa de la Maza",
+                  "text": "A Playa de la Maza egy nevezetes tengerpart Vicente De La Barquera városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.39034,
+                        43.383453
+                  ]
+            },
+            {
+                  "name": "Playa de Fuentes",
+                  "text": "A Playa de Fuentes egy elismert tengerpart Vicente De La Barquera városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.431452,
+                        43.392947
+                  ]
+            },
+            {
+                  "name": "Cala de Liñera",
+                  "text": "A Cala de Liñera egy festői strand Vicente De La Barquera városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.397423,
+                        43.394104
                   ]
             }
       ],
@@ -30134,6 +36434,42 @@ export const poiExtraEsV2: POI[] = [
                         -4.36535,
                         43.386586
                   ]
+            },
+            {
+                  "name": "Playa de El Tostadero",
+                  "text": "Playa de El Tostadero este o plajă binecunoscută situată în Vicente De La Barquera.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.387328,
+                        43.387022
+                  ]
+            },
+            {
+                  "name": "Playa de la Maza",
+                  "text": "Playa de la Maza este o plajă notabilă situată în Vicente De La Barquera.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.39034,
+                        43.383453
+                  ]
+            },
+            {
+                  "name": "Playa de Fuentes",
+                  "text": "Playa de Fuentes este o plajă recunoscută situată în Vicente De La Barquera.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.431452,
+                        43.392947
+                  ]
+            },
+            {
+                  "name": "Cala de Liñera",
+                  "text": "Cala de Liñera este o plajă pitorească situată în Vicente De La Barquera.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.397423,
+                        43.394104
+                  ]
             }
       ],
       "en": [
@@ -30235,6 +36571,42 @@ export const poiExtraEsV2: POI[] = [
                         -4.36535,
                         43.386586
                   ]
+            },
+            {
+                  "name": "Playa de El Tostadero",
+                  "text": "Playa de El Tostadero is a well-known beach situated in Vicente De La Barquera.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.387328,
+                        43.387022
+                  ]
+            },
+            {
+                  "name": "Playa de la Maza",
+                  "text": "Playa de la Maza is a notable beach located in Vicente De La Barquera.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.39034,
+                        43.383453
+                  ]
+            },
+            {
+                  "name": "Playa de Fuentes",
+                  "text": "Playa de Fuentes is a recognized beach located in Vicente De La Barquera.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.431452,
+                        43.392947
+                  ]
+            },
+            {
+                  "name": "Cala de Liñera",
+                  "text": "Cala de Liñera is a scenic beach located in Vicente De La Barquera.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.397423,
+                        43.394104
+                  ]
             }
       ]
 }},
@@ -30316,6 +36688,15 @@ export const poiExtraEsV2: POI[] = [
                         -6.357639,
                         36.784138
                   ]
+            },
+            {
+                  "name": "Playa de Malandar",
+                  "text": "Playa de Malandar ist ein schöner Strand in Sanlucar.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.371215,
+                        36.802686
+                  ]
             }
       ],
       "hu": [
@@ -30394,6 +36775,15 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -6.357639,
                         36.784138
+                  ]
+            },
+            {
+                  "name": "Playa de Malandar",
+                  "text": "A Playa de Malandar egy szép strand Sanlucar városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.371215,
+                        36.802686
                   ]
             }
       ],
@@ -30474,6 +36864,15 @@ export const poiExtraEsV2: POI[] = [
                         -6.357639,
                         36.784138
                   ]
+            },
+            {
+                  "name": "Playa de Malandar",
+                  "text": "Playa de Malandar este o plajă frumoasă situată în Sanlucar.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.371215,
+                        36.802686
+                  ]
             }
       ],
       "en": [
@@ -30553,6 +36952,15 @@ export const poiExtraEsV2: POI[] = [
                         -6.357639,
                         36.784138
                   ]
+            },
+            {
+                  "name": "Playa de Malandar",
+                  "text": "Playa de Malandar is a nice beach located in Sanlucar.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.371215,
+                        36.802686
+                  ]
             }
       ]
 }},
@@ -30623,6 +37031,60 @@ export const poiExtraEsV2: POI[] = [
                         1.294157,
                         39.02196
                   ]
+            },
+            {
+                  "name": "Cala Grassio",
+                  "text": "Cala Grassio ist ein malerischer Strand in Antoni.",
+                  "category": "recreational",
+                  "coords": [
+                        1.290672,
+                        38.992001
+                  ]
+            },
+            {
+                  "name": "Cala Grassionetta",
+                  "text": "Cala Grassionetta ist ein entspannender Strand in Antoni.",
+                  "category": "recreational",
+                  "coords": [
+                        1.289143,
+                        38.993001
+                  ]
+            },
+            {
+                  "name": "Platja Port d'es Torrent",
+                  "text": "Platja Port d'es Torrent ist ein beliebter Sandstrand in einer geschützten Bucht in Antoni.",
+                  "category": "recreational",
+                  "coords": [
+                        1.268332,
+                        38.966656
+                  ]
+            },
+            {
+                  "name": "Cala Saladeta",
+                  "text": "Cala Saladeta ist ein schöner Strand in Antoni.",
+                  "category": "recreational",
+                  "coords": [
+                        1.297739,
+                        39.011282
+                  ]
+            },
+            {
+                  "name": "Platja Es Pinet",
+                  "text": "Platja Es Pinet ist ein bekannter Strand an der Bucht von Antoni.",
+                  "category": "recreational",
+                  "coords": [
+                        1.292201,
+                        38.971025
+                  ]
+            },
+            {
+                  "name": "Platja d'en Xinxó",
+                  "text": "Platja d'en Xinxó, auch bekannt als Cala de Bou, ist ein markanter Strand in Antoni.",
+                  "category": "recreational",
+                  "coords": [
+                        1.286008,
+                        38.971944
+                  ]
             }
       ],
       "hu": [
@@ -30690,6 +37152,60 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         1.294157,
                         39.02196
+                  ]
+            },
+            {
+                  "name": "Cala Grassio",
+                  "text": "A Cala Grassio egy festői strand Antoni városában.",
+                  "category": "recreational",
+                  "coords": [
+                        1.290672,
+                        38.992001
+                  ]
+            },
+            {
+                  "name": "Cala Grassionetta",
+                  "text": "A Cala Grassionetta egy pihentető strand Antoni városában.",
+                  "category": "recreational",
+                  "coords": [
+                        1.289143,
+                        38.993001
+                  ]
+            },
+            {
+                  "name": "Platja Port d'es Torrent",
+                  "text": "A Platja Port d'es Torrent egy népszerű homokos strand egy védett öbölben Antoni városában.",
+                  "category": "recreational",
+                  "coords": [
+                        1.268332,
+                        38.966656
+                  ]
+            },
+            {
+                  "name": "Cala Saladeta",
+                  "text": "A Cala Saladeta egy gyönyörű strand Antoni területén.",
+                  "category": "recreational",
+                  "coords": [
+                        1.297739,
+                        39.011282
+                  ]
+            },
+            {
+                  "name": "Platja Es Pinet",
+                  "text": "A Platja Es Pinet egy ismert strand Antoni öblében.",
+                  "category": "recreational",
+                  "coords": [
+                        1.292201,
+                        38.971025
+                  ]
+            },
+            {
+                  "name": "Platja d'en Xinxó",
+                  "text": "A Platja d'en Xinxó, más néven Cala de Bou, egy jelentős strand Antoni városában.",
+                  "category": "recreational",
+                  "coords": [
+                        1.286008,
+                        38.971944
                   ]
             }
       ],
@@ -30759,6 +37275,60 @@ export const poiExtraEsV2: POI[] = [
                         1.294157,
                         39.02196
                   ]
+            },
+            {
+                  "name": "Cala Grassio",
+                  "text": "Cala Grassio este o plajă pitorească în Antoni.",
+                  "category": "recreational",
+                  "coords": [
+                        1.290672,
+                        38.992001
+                  ]
+            },
+            {
+                  "name": "Cala Grassionetta",
+                  "text": "Cala Grassionetta este o plajă relaxantă în Antoni.",
+                  "category": "recreational",
+                  "coords": [
+                        1.289143,
+                        38.993001
+                  ]
+            },
+            {
+                  "name": "Platja Port d'es Torrent",
+                  "text": "Platja Port d'es Torrent este o plajă populară cu nisip într-un golf adăpostit din Antoni.",
+                  "category": "recreational",
+                  "coords": [
+                        1.268332,
+                        38.966656
+                  ]
+            },
+            {
+                  "name": "Cala Saladeta",
+                  "text": "Cala Saladeta este o plajă frumoasă în Antoni.",
+                  "category": "recreational",
+                  "coords": [
+                        1.297739,
+                        39.011282
+                  ]
+            },
+            {
+                  "name": "Platja Es Pinet",
+                  "text": "Platja Es Pinet este o plajă cunoscută situată în golful din Antoni.",
+                  "category": "recreational",
+                  "coords": [
+                        1.292201,
+                        38.971025
+                  ]
+            },
+            {
+                  "name": "Platja d'en Xinxó",
+                  "text": "Platja d'en Xinxó, cunoscută și sub numele de Cala de Bou, este o plajă importantă din Antoni.",
+                  "category": "recreational",
+                  "coords": [
+                        1.286008,
+                        38.971944
+                  ]
             }
       ],
       "en": [
@@ -30826,6 +37396,60 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         1.294157,
                         39.02196
+                  ]
+            },
+            {
+                  "name": "Cala Grassio",
+                  "text": "Cala Grassio is a picturesque beach in Antoni.",
+                  "category": "recreational",
+                  "coords": [
+                        1.290672,
+                        38.992001
+                  ]
+            },
+            {
+                  "name": "Cala Grassionetta",
+                  "text": "Cala Grassionetta is a relaxing beach in Antoni.",
+                  "category": "recreational",
+                  "coords": [
+                        1.289143,
+                        38.993001
+                  ]
+            },
+            {
+                  "name": "Platja Port d'es Torrent",
+                  "text": "Platja Port d'es Torrent is a popular sandy beach in a sheltered bay in Antoni.",
+                  "category": "recreational",
+                  "coords": [
+                        1.268332,
+                        38.966656
+                  ]
+            },
+            {
+                  "name": "Cala Saladeta",
+                  "text": "Cala Saladeta is a beautiful beach in Antoni.",
+                  "category": "recreational",
+                  "coords": [
+                        1.297739,
+                        39.011282
+                  ]
+            },
+            {
+                  "name": "Platja Es Pinet",
+                  "text": "Platja Es Pinet is a popular beach located on the bay in Antoni.",
+                  "category": "recreational",
+                  "coords": [
+                        1.292201,
+                        38.971025
+                  ]
+            },
+            {
+                  "name": "Platja d'en Xinxó",
+                  "text": "Platja d'en Xinxó, also known as Cala de Bou, is a prominent beach in Antoni.",
+                  "category": "recreational",
+                  "coords": [
+                        1.286008,
+                        38.971944
                   ]
             }
       ]
@@ -30908,6 +37532,15 @@ export const poiExtraEsV2: POI[] = [
                         -17.764743,
                         28.683211
                   ]
+            },
+            {
+                  "name": "Playa de Bajamar",
+                  "text": "Playa de Bajamar ist ein weithin bekannter Strand in Cruz De La Palma.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.768916,
+                        28.670264
+                  ]
             }
       ],
       "hu": [
@@ -30986,6 +37619,15 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -17.764743,
                         28.683211
+                  ]
+            },
+            {
+                  "name": "Playa de Bajamar",
+                  "text": "A Playa de Bajamar egy széles körben ismert strand Cruz De La Palma városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.768916,
+                        28.670264
                   ]
             }
       ],
@@ -31066,6 +37708,15 @@ export const poiExtraEsV2: POI[] = [
                         -17.764743,
                         28.683211
                   ]
+            },
+            {
+                  "name": "Playa de Bajamar",
+                  "text": "Playa de Bajamar este o plajă recunoscută pe scară largă, situată în Cruz De La Palma.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.768916,
+                        28.670264
+                  ]
             }
       ],
       "en": [
@@ -31144,6 +37795,15 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -17.764743,
                         28.683211
+                  ]
+            },
+            {
+                  "name": "Playa de Bajamar",
+                  "text": "Playa de Bajamar is a widely recognized beach situated in Cruz De La Palma.",
+                  "category": "recreational",
+                  "coords": [
+                        -17.768916,
+                        28.670264
                   ]
             }
       ]
@@ -31237,6 +37897,105 @@ export const poiExtraEsV2: POI[] = [
                         1.557141,
                         39.028634
                   ]
+            },
+            {
+                  "name": "Cala Llonga",
+                  "text": "Cala Llonga ist ein bekannter Strand in der Gegend von Eularia auf Ibiza.",
+                  "category": "recreational",
+                  "coords": [
+                        1.519767,
+                        38.952573
+                  ]
+            },
+            {
+                  "name": "Platja del riu de Santa Eulària",
+                  "text": "Platja del riu de Santa Eulària ist ein bekannter Strand in der Gegend von Eularia.",
+                  "category": "recreational",
+                  "coords": [
+                        1.531351,
+                        38.979591
+                  ]
+            },
+            {
+                  "name": "Cala Pada",
+                  "text": "Cala Pada ist ein bekannter Strand in der Gegend von Eularia.",
+                  "category": "recreational",
+                  "coords": [
+                        1.561586,
+                        38.993211
+                  ]
+            },
+            {
+                  "name": "Platja es Canar",
+                  "text": "Platja es Canar ist ein Strand in Eularia.",
+                  "category": "recreational",
+                  "coords": [
+                        1.578993,
+                        39.001802
+                  ]
+            },
+            {
+                  "name": "Platja de Cala Martina",
+                  "text": "Platja de Cala Martina ist ein bekannter Strand in Eularia.",
+                  "category": "recreational",
+                  "coords": [
+                        1.573187,
+                        38.991287
+                  ]
+            },
+            {
+                  "name": "Cala Nova",
+                  "text": "Cala Nova ist ein Strand in der Gemeinde Eularia.",
+                  "category": "recreational",
+                  "coords": [
+                        1.582024,
+                        39.008797
+                  ]
+            },
+            {
+                  "name": "Sol d’en Serra",
+                  "text": "Sol d’en Serra ist ein Strandabschnitt in Eularia.",
+                  "category": "recreational",
+                  "coords": [
+                        1.511542,
+                        38.947074
+                  ]
+            },
+            {
+                  "name": "S'Argamassa",
+                  "text": "S'Argamassa ist ein Strandort in Eularia.",
+                  "category": "recreational",
+                  "coords": [
+                        1.5692,
+                        38.991622
+                  ]
+            },
+            {
+                  "name": "Platja des Niu Blau",
+                  "text": "Platja des Niu Blau ist ein lokaler Strand in Eularia.",
+                  "category": "recreational",
+                  "coords": [
+                        1.552519,
+                        38.992559
+                  ]
+            },
+            {
+                  "name": "Caló de s'Alga",
+                  "text": "Caló de s'Alga ist eine kleine Bucht mit Strand in Eularia.",
+                  "category": "recreational",
+                  "coords": [
+                        1.531434,
+                        38.97443
+                  ]
+            },
+            {
+                  "name": "Ses Estaques",
+                  "text": "Ses Estaques ist ein Strand in Eularia.",
+                  "category": "recreational",
+                  "coords": [
+                        1.542653,
+                        38.984052
+                  ]
             }
       ],
       "hu": [
@@ -31326,6 +38085,105 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         1.557141,
                         39.028634
+                  ]
+            },
+            {
+                  "name": "Cala Llonga",
+                  "text": "A Cala Llonga egy jól ismert tengerparti strand Eularia területén, Ibizán.",
+                  "category": "recreational",
+                  "coords": [
+                        1.519767,
+                        38.952573
+                  ]
+            },
+            {
+                  "name": "Platja del riu de Santa Eulària",
+                  "text": "A Platja del riu de Santa Eulària egy jól ismert tengerparti strand Eularia területén.",
+                  "category": "recreational",
+                  "coords": [
+                        1.531351,
+                        38.979591
+                  ]
+            },
+            {
+                  "name": "Cala Pada",
+                  "text": "A Cala Pada egy jól ismert tengerparti strand Eularia területén.",
+                  "category": "recreational",
+                  "coords": [
+                        1.561586,
+                        38.993211
+                  ]
+            },
+            {
+                  "name": "Platja es Canar",
+                  "text": "A Platja es Canar egy strand Eularia városában.",
+                  "category": "recreational",
+                  "coords": [
+                        1.578993,
+                        39.001802
+                  ]
+            },
+            {
+                  "name": "Platja de Cala Martina",
+                  "text": "A Platja de Cala Martina egy ismert strand Eularia területén.",
+                  "category": "recreational",
+                  "coords": [
+                        1.573187,
+                        38.991287
+                  ]
+            },
+            {
+                  "name": "Cala Nova",
+                  "text": "A Cala Nova egy strand Eularia településen.",
+                  "category": "recreational",
+                  "coords": [
+                        1.582024,
+                        39.008797
+                  ]
+            },
+            {
+                  "name": "Sol d’en Serra",
+                  "text": "A Sol d’en Serra egy strandszakasz Eularia városában.",
+                  "category": "recreational",
+                  "coords": [
+                        1.511542,
+                        38.947074
+                  ]
+            },
+            {
+                  "name": "S'Argamassa",
+                  "text": "A S'Argamassa egy strand Eularia közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        1.5692,
+                        38.991622
+                  ]
+            },
+            {
+                  "name": "Platja des Niu Blau",
+                  "text": "A Platja des Niu Blau egy helyi strand Eularia területén.",
+                  "category": "recreational",
+                  "coords": [
+                        1.552519,
+                        38.992559
+                  ]
+            },
+            {
+                  "name": "Caló de s'Alga",
+                  "text": "A Caló de s'Alga egy kis öböl stranddal Eularia városában.",
+                  "category": "recreational",
+                  "coords": [
+                        1.531434,
+                        38.97443
+                  ]
+            },
+            {
+                  "name": "Ses Estaques",
+                  "text": "A Ses Estaques egy strand Eularia városában.",
+                  "category": "recreational",
+                  "coords": [
+                        1.542653,
+                        38.984052
                   ]
             }
       ],
@@ -31417,6 +38275,105 @@ export const poiExtraEsV2: POI[] = [
                         1.557141,
                         39.028634
                   ]
+            },
+            {
+                  "name": "Cala Llonga",
+                  "text": "Cala Llonga este o plajă cunoscută situată în Eularia, Ibiza.",
+                  "category": "recreational",
+                  "coords": [
+                        1.519767,
+                        38.952573
+                  ]
+            },
+            {
+                  "name": "Platja del riu de Santa Eulària",
+                  "text": "Platja del riu de Santa Eulària este o plajă recunoscută situată în Eularia.",
+                  "category": "recreational",
+                  "coords": [
+                        1.531351,
+                        38.979591
+                  ]
+            },
+            {
+                  "name": "Cala Pada",
+                  "text": "Cala Pada este o plajă recunoscută situată în Eularia.",
+                  "category": "recreational",
+                  "coords": [
+                        1.561586,
+                        38.993211
+                  ]
+            },
+            {
+                  "name": "Platja es Canar",
+                  "text": "Platja es Canar este o plajă în Eularia.",
+                  "category": "recreational",
+                  "coords": [
+                        1.578993,
+                        39.001802
+                  ]
+            },
+            {
+                  "name": "Platja de Cala Martina",
+                  "text": "Platja de Cala Martina este o plajă cunoscută în Eularia.",
+                  "category": "recreational",
+                  "coords": [
+                        1.573187,
+                        38.991287
+                  ]
+            },
+            {
+                  "name": "Cala Nova",
+                  "text": "Cala Nova este o plajă situată în Eularia.",
+                  "category": "recreational",
+                  "coords": [
+                        1.582024,
+                        39.008797
+                  ]
+            },
+            {
+                  "name": "Sol d’en Serra",
+                  "text": "Sol d’en Serra este o secțiune de plajă din Eularia.",
+                  "category": "recreational",
+                  "coords": [
+                        1.511542,
+                        38.947074
+                  ]
+            },
+            {
+                  "name": "S'Argamassa",
+                  "text": "S'Argamassa este o plajă în Eularia.",
+                  "category": "recreational",
+                  "coords": [
+                        1.5692,
+                        38.991622
+                  ]
+            },
+            {
+                  "name": "Platja des Niu Blau",
+                  "text": "Platja des Niu Blau este o plajă locală în Eularia.",
+                  "category": "recreational",
+                  "coords": [
+                        1.552519,
+                        38.992559
+                  ]
+            },
+            {
+                  "name": "Caló de s'Alga",
+                  "text": "Caló de s'Alga este un mic golf cu plajă din Eularia.",
+                  "category": "recreational",
+                  "coords": [
+                        1.531434,
+                        38.97443
+                  ]
+            },
+            {
+                  "name": "Ses Estaques",
+                  "text": "Ses Estaques este o plajă în Eularia.",
+                  "category": "recreational",
+                  "coords": [
+                        1.542653,
+                        38.984052
+                  ]
             }
       ],
       "en": [
@@ -31506,6 +38463,105 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         1.557141,
                         39.028634
+                  ]
+            },
+            {
+                  "name": "Cala Llonga",
+                  "text": "Cala Llonga is a recognized beach located in Eularia on the island of Ibiza.",
+                  "category": "recreational",
+                  "coords": [
+                        1.519767,
+                        38.952573
+                  ]
+            },
+            {
+                  "name": "Platja del riu de Santa Eulària",
+                  "text": "Platja del riu de Santa Eulària is a recognized beach located in Eularia.",
+                  "category": "recreational",
+                  "coords": [
+                        1.531351,
+                        38.979591
+                  ]
+            },
+            {
+                  "name": "Cala Pada",
+                  "text": "Cala Pada is a recognized beach located in Eularia.",
+                  "category": "recreational",
+                  "coords": [
+                        1.561586,
+                        38.993211
+                  ]
+            },
+            {
+                  "name": "Platja es Canar",
+                  "text": "Platja es Canar is a beach located in Eularia.",
+                  "category": "recreational",
+                  "coords": [
+                        1.578993,
+                        39.001802
+                  ]
+            },
+            {
+                  "name": "Platja de Cala Martina",
+                  "text": "Platja de Cala Martina is a well-known beach in Eularia.",
+                  "category": "recreational",
+                  "coords": [
+                        1.573187,
+                        38.991287
+                  ]
+            },
+            {
+                  "name": "Cala Nova",
+                  "text": "Cala Nova is a beach located in the municipality of Eularia.",
+                  "category": "recreational",
+                  "coords": [
+                        1.582024,
+                        39.008797
+                  ]
+            },
+            {
+                  "name": "Sol d’en Serra",
+                  "text": "Sol d’en Serra is a stretch of beach in Eularia.",
+                  "category": "recreational",
+                  "coords": [
+                        1.511542,
+                        38.947074
+                  ]
+            },
+            {
+                  "name": "S'Argamassa",
+                  "text": "S'Argamassa is a beach location in Eularia.",
+                  "category": "recreational",
+                  "coords": [
+                        1.5692,
+                        38.991622
+                  ]
+            },
+            {
+                  "name": "Platja des Niu Blau",
+                  "text": "Platja des Niu Blau is a local beach in Eularia.",
+                  "category": "recreational",
+                  "coords": [
+                        1.552519,
+                        38.992559
+                  ]
+            },
+            {
+                  "name": "Caló de s'Alga",
+                  "text": "Caló de s'Alga is a small cove with a beach in Eularia.",
+                  "category": "recreational",
+                  "coords": [
+                        1.531434,
+                        38.97443
+                  ]
+            },
+            {
+                  "name": "Ses Estaques",
+                  "text": "Ses Estaques is a beach in Eularia.",
+                  "category": "recreational",
+                  "coords": [
+                        1.542653,
+                        38.984052
                   ]
             }
       ]
@@ -32180,6 +39236,15 @@ export const poiExtraEsV2: POI[] = [
                         1.81439,
                         41.23585
                   ]
+            },
+            {
+                  "name": "Cala Balmins",
+                  "text": "Cala Balmins ist ein Strand an der Küste von Sitges.",
+                  "category": "recreational",
+                  "coords": [
+                        1.820697,
+                        41.235993
+                  ]
             }
       ],
       "hu": [
@@ -32258,6 +39323,15 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         1.81439,
                         41.23585
+                  ]
+            },
+            {
+                  "name": "Cala Balmins",
+                  "text": "A Cala Balmins egy tengerparti strand Sitges városában.",
+                  "category": "recreational",
+                  "coords": [
+                        1.820697,
+                        41.235993
                   ]
             }
       ],
@@ -32338,6 +39412,15 @@ export const poiExtraEsV2: POI[] = [
                         1.81439,
                         41.23585
                   ]
+            },
+            {
+                  "name": "Cala Balmins",
+                  "text": "Cala Balmins este o plajă pe coasta din Sitges.",
+                  "category": "recreational",
+                  "coords": [
+                        1.820697,
+                        41.235993
+                  ]
             }
       ],
       "en": [
@@ -32416,6 +39499,15 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         1.81439,
                         41.23585
+                  ]
+            },
+            {
+                  "name": "Cala Balmins",
+                  "text": "Cala Balmins is a coastal beach in the town of Sitges.",
+                  "category": "recreational",
+                  "coords": [
+                        1.820697,
+                        41.235993
                   ]
             }
       ]
@@ -33639,6 +40731,15 @@ export const poiExtraEsV2: POI[] = [
                         -4.499071,
                         36.622651
                   ]
+            },
+            {
+                  "name": "Playa Campo de Golf",
+                  "text": "Playa Campo de Golf ist ein bekannter Strand in Torremolinos, der auch als Playa de San Julián bezeichnet wird.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.467862,
+                        36.654597
+                  ]
             }
       ],
       "hu": [
@@ -33728,6 +40829,15 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -4.499071,
                         36.622651
+                  ]
+            },
+            {
+                  "name": "Playa Campo de Golf",
+                  "text": "A Playa Campo de Golf egy ismert strand Torremolinosban, amelyet Playa de San Julián néven is emlegetnek.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.467862,
+                        36.654597
                   ]
             }
       ],
@@ -33819,6 +40929,15 @@ export const poiExtraEsV2: POI[] = [
                         -4.499071,
                         36.622651
                   ]
+            },
+            {
+                  "name": "Playa Campo de Golf",
+                  "text": "Playa Campo de Golf este o plajă cunoscută din Torremolinos, numită și Playa de San Julián.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.467862,
+                        36.654597
+                  ]
             }
       ],
       "en": [
@@ -33908,6 +41027,15 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -4.499071,
                         36.622651
+                  ]
+            },
+            {
+                  "name": "Playa Campo de Golf",
+                  "text": "Playa Campo de Golf is a well-known beach in Torremolinos, also referred to as Playa de San Julián.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.467862,
+                        36.654597
                   ]
             }
       ]
@@ -35349,6 +42477,33 @@ export const poiExtraEsV2: POI[] = [
                         -2.163196,
                         43.288083
                   ]
+            },
+            {
+                  "name": "Orioko hondartza",
+                  "text": "Orioko hondartza ist ein Strand in Zarautz.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.127823,
+                        43.288557
+                  ]
+            },
+            {
+                  "name": "Oribarzar",
+                  "text": "Oribarzar ist ein Strandbereich in Zarautz.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.131284,
+                        43.284529
+                  ]
+            },
+            {
+                  "name": "Zarauzko hondartza",
+                  "text": "Zarauzko hondartza ist ein bekannter Strand in Zarautz, der bei Surfern sehr beliebt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.165988,
+                        43.28994
+                  ]
             }
       ],
       "hu": [
@@ -35416,6 +42571,33 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -2.163196,
                         43.288083
+                  ]
+            },
+            {
+                  "name": "Orioko hondartza",
+                  "text": "Az Orioko hondartza egy strand Zarautz városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.127823,
+                        43.288557
+                  ]
+            },
+            {
+                  "name": "Oribarzar",
+                  "text": "Az Oribarzar egy strandszakasz Zarautz városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.131284,
+                        43.284529
+                  ]
+            },
+            {
+                  "name": "Zarauzko hondartza",
+                  "text": "A Zarauzko hondartza egy jól ismert strand Zarautz városában, amely a szörfösök körében is népszerű.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.165988,
+                        43.28994
                   ]
             }
       ],
@@ -35485,6 +42667,33 @@ export const poiExtraEsV2: POI[] = [
                         -2.163196,
                         43.288083
                   ]
+            },
+            {
+                  "name": "Orioko hondartza",
+                  "text": "Orioko hondartza este o plajă situată în Zarautz.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.127823,
+                        43.288557
+                  ]
+            },
+            {
+                  "name": "Oribarzar",
+                  "text": "Oribarzar este o plajă din Zarautz.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.131284,
+                        43.284529
+                  ]
+            },
+            {
+                  "name": "Zarauzko hondartza",
+                  "text": "Zarauzko hondartza este o plajă binecunoscută din Zarautz, populară printre surferi.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.165988,
+                        43.28994
+                  ]
             }
       ],
       "en": [
@@ -35552,6 +42761,33 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -2.163196,
                         43.288083
+                  ]
+            },
+            {
+                  "name": "Orioko hondartza",
+                  "text": "Orioko hondartza is a beach located in Zarautz.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.127823,
+                        43.288557
+                  ]
+            },
+            {
+                  "name": "Oribarzar",
+                  "text": "Oribarzar is a beach area located in Zarautz.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.131284,
+                        43.284529
+                  ]
+            },
+            {
+                  "name": "Zarauzko hondartza",
+                  "text": "Zarauzko hondartza is a well-known beach in Zarautz, highly popular among surfers.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.165988,
+                        43.28994
                   ]
             }
       ]
@@ -35638,6 +42874,24 @@ export const poiExtraEsV2: POI[] = [
                         2.646472,
                         39.569306
                   ]
+            },
+            {
+                  "name": "Caló des Grells",
+                  "text": "Caló des Grells ist ein Strand in Palma De Mallorca.",
+                  "category": "recreational",
+                  "coords": [
+                        2.618287,
+                        39.546224
+                  ]
+            },
+            {
+                  "name": "Cala del Guix",
+                  "text": "Cala del Guix ist ein kleiner Strand in Palma De Mallorca.",
+                  "category": "recreational",
+                  "coords": [
+                        2.600039,
+                        39.550447
+                  ]
             }
       ],
       "hu": [
@@ -35719,6 +42973,24 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         2.646472,
                         39.569306
+                  ]
+            },
+            {
+                  "name": "Caló des Grells",
+                  "text": "A Caló des Grells egy strand Palma De Mallorca városában.",
+                  "category": "recreational",
+                  "coords": [
+                        2.618287,
+                        39.546224
+                  ]
+            },
+            {
+                  "name": "Cala del Guix",
+                  "text": "A Cala del Guix egy kis strand Palma De Mallorca területén.",
+                  "category": "recreational",
+                  "coords": [
+                        2.600039,
+                        39.550447
                   ]
             }
       ],
@@ -35802,6 +43074,24 @@ export const poiExtraEsV2: POI[] = [
                         2.646472,
                         39.569306
                   ]
+            },
+            {
+                  "name": "Caló des Grells",
+                  "text": "Caló des Grells este o plajă în Palma De Mallorca.",
+                  "category": "recreational",
+                  "coords": [
+                        2.618287,
+                        39.546224
+                  ]
+            },
+            {
+                  "name": "Cala del Guix",
+                  "text": "Cala del Guix este o mică plajă din Palma De Mallorca.",
+                  "category": "recreational",
+                  "coords": [
+                        2.600039,
+                        39.550447
+                  ]
             }
       ],
       "en": [
@@ -35883,6 +43173,24 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         2.646472,
                         39.569306
+                  ]
+            },
+            {
+                  "name": "Caló des Grells",
+                  "text": "Caló des Grells is a beach located in Palma De Mallorca.",
+                  "category": "recreational",
+                  "coords": [
+                        2.618287,
+                        39.546224
+                  ]
+            },
+            {
+                  "name": "Cala del Guix",
+                  "text": "Cala del Guix is a small beach in Palma De Mallorca.",
+                  "category": "recreational",
+                  "coords": [
+                        2.600039,
+                        39.550447
                   ]
             }
       ]
@@ -36140,6 +43448,15 @@ export const poiExtraEsV2: POI[] = [
                         -15.416887,
                         28.108177
                   ]
+            },
+            {
+                  "name": "Playa del Confital",
+                  "text": "Playa del Confital ist ein angenehmer Strand in Las Palmas De Gran Canaria.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.435981,
+                        28.159486
+                  ]
             }
       ],
       "hu": [
@@ -36391,6 +43708,15 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -15.416887,
                         28.108177
+                  ]
+            },
+            {
+                  "name": "Playa del Confital",
+                  "text": "A Playa del Confital egy kellemes strand Las Palmas De Gran Canaria területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.435981,
+                        28.159486
                   ]
             }
       ],
@@ -36644,6 +43970,15 @@ export const poiExtraEsV2: POI[] = [
                         -15.416887,
                         28.108177
                   ]
+            },
+            {
+                  "name": "Playa del Confital",
+                  "text": "Playa del Confital este o plajă plăcută în Las Palmas De Gran Canaria.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.435981,
+                        28.159486
+                  ]
             }
       ],
       "en": [
@@ -36895,6 +44230,15 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -15.416887,
                         28.108177
+                  ]
+            },
+            {
+                  "name": "Playa del Confital",
+                  "text": "Playa del Confital is a pleasant beach situated in Las Palmas De Gran Canaria.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.435981,
+                        28.159486
                   ]
             }
       ]

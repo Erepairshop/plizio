@@ -183,7 +183,52 @@ export const latviaCitiesV2: POI[] = [
     image: "/poi-images/latvia-ludza-cities-v2.webp",
   },
   {
-    id: "latvia-krustpils-cities-v2",
+    id: "latvia-krustpils-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jēkabpils Zilā karoga pludmale",
+                  "text": "Der Strand in Jēkabpils trägt die Blaue Flagge für Umweltstandards.",
+                  "category": "recreational",
+                  "coords": [
+                        25.851828,
+                        56.481561
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jēkabpils Zilā karoga pludmale",
+                  "text": "A jēkabpilsi strand Kék Zászló minősítéssel rendelkezik.",
+                  "category": "recreational",
+                  "coords": [
+                        25.851828,
+                        56.481561
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jēkabpils Zilā karoga pludmale",
+                  "text": "Plaja din Jēkabpils deține distincția Blue Flag pentru standarde ecologice.",
+                  "category": "recreational",
+                  "coords": [
+                        25.851828,
+                        56.481561
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jēkabpils Zilā karoga pludmale",
+                  "text": "The beach in Jēkabpils holds a Blue Flag for environmental standards.",
+                  "category": "recreational",
+                  "coords": [
+                        25.851828,
+                        56.481561
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LV",
     name: { de: "Krustpils", hu: "Krustpils", ro: "Krustpils", en: "Krustpils" },
@@ -768,7 +813,52 @@ export const latviaCitiesV2: POI[] = [
     image: "/poi-images/latvia-janunpils-cities-v2.webp",
   },
   {
-    id: "latvia-priedaine-cities-v2",
+    id: "latvia-priedaine-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mellužu pludmale",
+                  "text": "Der Melluži-Strand befindet sich in der Gegend von Priedaine.",
+                  "category": "recreational",
+                  "coords": [
+                        23.712213,
+                        56.965249
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mellužu pludmale",
+                  "text": "A Melluži strand a Priedaine területén található.",
+                  "category": "recreational",
+                  "coords": [
+                        23.712213,
+                        56.965249
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mellužu pludmale",
+                  "text": "Plaja Melluži este situată în zona Priedaine.",
+                  "category": "recreational",
+                  "coords": [
+                        23.712213,
+                        56.965249
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mellužu pludmale",
+                  "text": "Melluži beach is located in the area of Priedaine.",
+                  "category": "recreational",
+                  "coords": [
+                        23.712213,
+                        56.965249
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LV",
     name: { de: "Priedaine", hu: "Priedaine", ro: "Priedaine", en: "Priedaine" },
@@ -993,7 +1083,52 @@ export const latviaCitiesV2: POI[] = [
     image: "/poi-images/latvia-alksne-cities-v2.webp",
   },
   {
-    id: "latvia-dagda-cities-v2",
+    id: "latvia-dagda-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dagdas pilsētas pludmale",
+                  "text": "Der Stadtstrand von Dagda lädt zum Entspannen ein.",
+                  "category": "recreational",
+                  "coords": [
+                        27.545694,
+                        56.092447
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dagdas pilsētas pludmale",
+                  "text": "Dagda városi strandja pihenésre hívogat.",
+                  "category": "recreational",
+                  "coords": [
+                        27.545694,
+                        56.092447
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dagdas pilsētas pludmale",
+                  "text": "Plaja urbană din Dagda invită la relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        27.545694,
+                        56.092447
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dagdas pilsētas pludmale",
+                  "text": "The city beach of Dagda invites visitors to relax.",
+                  "category": "recreational",
+                  "coords": [
+                        27.545694,
+                        56.092447
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LV",
     name: { de: "Dagda", hu: "Dagda", ro: "Dagda", en: "Dagda" },

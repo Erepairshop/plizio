@@ -326,7 +326,52 @@ imageHint: "British Museum Great Court glass roof",
     image: "/poi-images/uk-british-museum-landmarks-v2.webp",
 },
   {
-    id: "uk-york-minster-landmarks-v2",
+    id: "uk-york-minster-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "York Beach",
+                  "text": "Ein Uferbereich in der Nähe des York Minster.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.084291,
+                        53.957215
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "York Beach",
+                  "text": "Partszakasz York Minster közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.084291,
+                        53.957215
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "York Beach",
+                  "text": "O zonă de mal lângă York Minster.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.084291,
+                        53.957215
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "York Beach",
+                  "text": "A riverside area near York Minster.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.084291,
+                        53.957215
+                  ]
+            }
+      ]
+},
     parent: "GB",
     type: "cathedral",
     name: { de: "York Minster", hu: "Yorki székesegyház", ro: "York Minster", en: "York Minster"},

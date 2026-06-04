@@ -578,7 +578,88 @@ export const poiExtraMaltaOther: POI[] = [
     },
   },
   {
-    id: "animal-habitat-l-ahrax-tal-mellieha-extra",
+    id: "animal-habitat-l-ahrax-tal-mellieha-extra", "sights": {
+      "de": [
+            {
+                  "name": "Il-Bajja tal-Armier iż-Żgħir",
+                  "text": "Die Bajja tal-Armier iż-Żgħir liegt im Gebiet L-Aħrax tal-Mellieħa.",
+                  "category": "recreational",
+                  "coords": [
+                        14.359248,
+                        35.989573
+                  ]
+            },
+            {
+                  "name": "Ir-Ramla tat-Torri",
+                  "text": "Ir-Ramla tat-Torri liegt im Gebiet L-Aħrax tal-Mellieħa.",
+                  "category": "recreational",
+                  "coords": [
+                        14.365342,
+                        35.992407
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Il-Bajja tal-Armier iż-Żgħir",
+                  "text": "A Bajja tal-Armier iż-Żgħir a L-Aħrax tal-Mellieħa területén található.",
+                  "category": "recreational",
+                  "coords": [
+                        14.359248,
+                        35.989573
+                  ]
+            },
+            {
+                  "name": "Ir-Ramla tat-Torri",
+                  "text": "Ir-Ramla tat-Torri a L-Aħrax tal-Mellieħa területén található.",
+                  "category": "recreational",
+                  "coords": [
+                        14.365342,
+                        35.992407
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Il-Bajja tal-Armier iż-Żgħir",
+                  "text": "Bajja tal-Armier iż-Żgħir este situată în zona L-Aħrax tal-Mellieħa.",
+                  "category": "recreational",
+                  "coords": [
+                        14.359248,
+                        35.989573
+                  ]
+            },
+            {
+                  "name": "Ir-Ramla tat-Torri",
+                  "text": "Ir-Ramla tat-Torri este situată în zona L-Aħrax tal-Mellieħa.",
+                  "category": "recreational",
+                  "coords": [
+                        14.365342,
+                        35.992407
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Il-Bajja tal-Armier iż-Żgħir",
+                  "text": "Bajja tal-Armier iż-Żgħir is located in the L-Aħrax tal-Mellieħa area.",
+                  "category": "recreational",
+                  "coords": [
+                        14.359248,
+                        35.989573
+                  ]
+            },
+            {
+                  "name": "Ir-Ramla tat-Torri",
+                  "text": "Ir-Ramla tat-Torri is located in the L-Aħrax tal-Mellieħa area.",
+                  "category": "recreational",
+                  "coords": [
+                        14.365342,
+                        35.992407
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "MT",
     coords: [14.363, 35.978],
@@ -1279,7 +1360,52 @@ export const poiExtraMaltaOther: POI[] = [
     },
   },
   {
-    id: "animal-habitat-xrobb-l-ghagin-nature-park-extra",
+    id: "animal-habitat-xrobb-l-ghagin-nature-park-extra", "sights": {
+      "de": [
+            {
+                  "name": "Ras il-Qali",
+                  "text": "Ras il-Qali ist ein Küstenabschnitt beim Xrobb L Ghagin Nature Park.",
+                  "category": "recreational",
+                  "coords": [
+                        14.564513,
+                        35.837656
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ras il-Qali",
+                  "text": "Ras il-Qali egy partszakasz a Xrobb L Ghagin Nature Park közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        14.564513,
+                        35.837656
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ras il-Qali",
+                  "text": "Ras il-Qali este o porțiune de coastă lângă parcul natural Xrobb L Ghagin.",
+                  "category": "recreational",
+                  "coords": [
+                        14.564513,
+                        35.837656
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ras il-Qali",
+                  "text": "Ras il-Qali is a coastal stretch near the Xrobb L Ghagin Nature Park.",
+                  "category": "recreational",
+                  "coords": [
+                        14.564513,
+                        35.837656
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "MT",
     coords: [14.564, 35.837],
@@ -1956,7 +2082,52 @@ export const poiExtraMaltaOther: POI[] = [
     },
   },
   {
-    id: "kid-landmark-bouncy-castles-ghadira-bay-extra",
+    id: "kid-landmark-bouncy-castles-ghadira-bay-extra", "sights": {
+      "de": [
+            {
+                  "name": "Il-Bajja tal-Għadira",
+                  "text": "Die Bajja tal-Għadira bietet zahlreiche Freizeitangebote am Strand.",
+                  "category": "recreational",
+                  "coords": [
+                        14.352779,
+                        35.966948
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Il-Bajja tal-Għadira",
+                  "text": "A Bajja tal-Għadira számos szabadidős lehetőséget kínál a parton.",
+                  "category": "recreational",
+                  "coords": [
+                        14.352779,
+                        35.966948
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Il-Bajja tal-Għadira",
+                  "text": "Bajja tal-Għadira oferă numeroase facilități de agrement pe plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        14.352779,
+                        35.966948
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Il-Bajja tal-Għadira",
+                  "text": "Bajja tal-Għadira offers numerous leisure facilities on the beach.",
+                  "category": "recreational",
+                  "coords": [
+                        14.352779,
+                        35.966948
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "MT",
     coords: [14.352, 35.968],
@@ -2726,7 +2897,52 @@ export const poiExtraMaltaOther: POI[] = [
     },
   },
   {
-    id: "kid-landmark-city-sightseeing-hop-on-hop-off-bus-extra",
+    id: "kid-landmark-city-sightseeing-hop-on-hop-off-bus-extra", "sights": {
+      "de": [
+            {
+                  "name": "IL-Bajja tal-Balluta",
+                  "text": "Die Balluta Bay liegt in einem bekannten touristischen Gebiet.",
+                  "category": "recreational",
+                  "coords": [
+                        14.493982,
+                        35.914415
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "IL-Bajja tal-Balluta",
+                  "text": "A Balluta Bay egy jól ismert turisztikai területen található.",
+                  "category": "recreational",
+                  "coords": [
+                        14.493982,
+                        35.914415
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "IL-Bajja tal-Balluta",
+                  "text": "Balluta Bay este situată într-o zonă turistică cunoscută.",
+                  "category": "recreational",
+                  "coords": [
+                        14.493982,
+                        35.914415
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "IL-Bajja tal-Balluta",
+                  "text": "Balluta Bay is located in a well-known tourist area.",
+                  "category": "recreational",
+                  "coords": [
+                        14.493982,
+                        35.914415
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "MT",
     coords: [14.49, 35.914],
@@ -4412,7 +4628,52 @@ export const poiExtraMaltaOther: POI[] = [
     },
   },
   {
-    id: "industry-delimara-power-station-extra",
+    id: "industry-delimara-power-station-extra", "sights": {
+      "de": [
+            {
+                  "name": "Xifer l-Infern",
+                  "text": "Xifer l-Infern ist ein Küstengebiet in der Nähe des Kraftwerks Delimara.",
+                  "category": "recreational",
+                  "coords": [
+                        14.561264,
+                        35.821177
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Xifer l-Infern",
+                  "text": "Xifer l-Infern egy tengerparti terület a Delimara erőmű közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        14.561264,
+                        35.821177
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Xifer l-Infern",
+                  "text": "Xifer l-Infern este o zonă de coastă situată în apropierea centralei electrice Delimara.",
+                  "category": "recreational",
+                  "coords": [
+                        14.561264,
+                        35.821177
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Xifer l-Infern",
+                  "text": "Xifer l-Infern is a coastal area near the Delimara power station.",
+                  "category": "recreational",
+                  "coords": [
+                        14.561264,
+                        35.821177
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "MT",
     coords: [14.56, 35.828],
@@ -4990,7 +5251,52 @@ export const poiExtraMaltaOther: POI[] = [
     },
   },
   {
-    id: "industry-gaming-industry-hub-sliema-st-julians-extra",
+    id: "industry-gaming-industry-hub-sliema-st-julians-extra", "sights": {
+      "de": [
+            {
+                  "name": "Sliema Bay",
+                  "text": "Sliema Bay ist ein Küstenabschnitt im geschäftigen Sliema.",
+                  "category": "recreational",
+                  "coords": [
+                        14.496658,
+                        35.915082
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sliema Bay",
+                  "text": "Sliema Bay egy partszakasz a forgalmas Sliemában.",
+                  "category": "recreational",
+                  "coords": [
+                        14.496658,
+                        35.915082
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sliema Bay",
+                  "text": "Sliema Bay este o porțiune de coastă în Sliema.",
+                  "category": "recreational",
+                  "coords": [
+                        14.496658,
+                        35.915082
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sliema Bay",
+                  "text": "Sliema Bay is a coastal area in busy Sliema.",
+                  "category": "recreational",
+                  "coords": [
+                        14.496658,
+                        35.915082
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "MT",
     coords: [14.495, 35.918],
@@ -5955,7 +6261,52 @@ export const poiExtraMaltaOther: POI[] = [
     },
   },
   {
-    id: "port-bugibba-jetty-for-boat-trips-extra",
+    id: "port-bugibba-jetty-for-boat-trips-extra", "sights": {
+      "de": [
+            {
+                  "name": "Amazonia Beach",
+                  "text": "Amazonia Beach ist ein Badebereich am Hafen von Bugibba.",
+                  "category": "recreational",
+                  "coords": [
+                        14.417319,
+                        35.955102
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Amazonia Beach",
+                  "text": "Az Amazonia Beach egy fürdőhely a Bugibba kikötőnél.",
+                  "category": "recreational",
+                  "coords": [
+                        14.417319,
+                        35.955102
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Amazonia Beach",
+                  "text": "Amazonia Beach este o zonă de scăldat situată în portul Bugibba.",
+                  "category": "recreational",
+                  "coords": [
+                        14.417319,
+                        35.955102
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Amazonia Beach",
+                  "text": "Amazonia Beach is a swimming area at the harbor of Bugibba.",
+                  "category": "recreational",
+                  "coords": [
+                        14.417319,
+                        35.955102
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "MT",
     coords: [14.417, 35.952],
@@ -6656,7 +7007,52 @@ export const poiExtraMaltaOther: POI[] = [
     },
   },
   {
-    id: "port-st-georges-bay-boat-charters-extra",
+    id: "port-st-georges-bay-boat-charters-extra", "sights": {
+      "de": [
+            {
+                  "name": "Saint George's Beach",
+                  "text": "Saint George's Beach ist eine Bucht in der Nähe von St. Julians.",
+                  "category": "recreational",
+                  "coords": [
+                        14.488049,
+                        35.925863
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Saint George's Beach",
+                  "text": "A Saint George's Beach egy öböl St. Julians közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        14.488049,
+                        35.925863
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Saint George's Beach",
+                  "text": "Saint George's Beach este un golf situat în apropierea orașului St. Julians.",
+                  "category": "recreational",
+                  "coords": [
+                        14.488049,
+                        35.925863
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Saint George's Beach",
+                  "text": "Saint George's Beach is a bay located near St. Julians.",
+                  "category": "recreational",
+                  "coords": [
+                        14.488049,
+                        35.925863
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "MT",
     coords: [14.49, 35.925],
@@ -6900,7 +7296,52 @@ export const poiExtraMaltaOther: POI[] = [
     },
   },
   {
-    id: "landscape-ghajn-tuffieha-bay-extra",
+    id: "landscape-ghajn-tuffieha-bay-extra", "sights": {
+      "de": [
+            {
+                  "name": "Ir-Ramla t' Għajn Tuffieħa",
+                  "text": "Ir-Ramla t' Għajn Tuffieħa ist eine bekannte Bucht im Nordwesten Maltas.",
+                  "category": "recreational",
+                  "coords": [
+                        14.344136,
+                        35.928969
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ir-Ramla t' Għajn Tuffieħa",
+                  "text": "Ir-Ramla t' Għajn Tuffieħa egy népszerű öböl Málta északnyugati részén.",
+                  "category": "recreational",
+                  "coords": [
+                        14.344136,
+                        35.928969
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ir-Ramla t' Għajn Tuffieħa",
+                  "text": "Ir-Ramla t' Għajn Tuffieħa este un golf popular situat în nord-vestul Maltei.",
+                  "category": "recreational",
+                  "coords": [
+                        14.344136,
+                        35.928969
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ir-Ramla t' Għajn Tuffieħa",
+                  "text": "Ir-Ramla t' Għajn Tuffieħa is a popular beach in the northwest of Malta.",
+                  "category": "recreational",
+                  "coords": [
+                        14.344136,
+                        35.928969
+                  ]
+            }
+      ]
+},
     type: "geo",
     parent: "MT",
     coords: [14.343, 35.932],
@@ -6948,7 +7389,52 @@ export const poiExtraMaltaOther: POI[] = [
     },
   },
   {
-    id: "landscape-golden-bay-extra",
+    id: "landscape-golden-bay-extra", "sights": {
+      "de": [
+            {
+                  "name": "Ras il-Wahx",
+                  "text": "Ras il-Wahx ist ein markanter Küstenpunkt bei der Golden Bay.",
+                  "category": "recreational",
+                  "coords": [
+                        14.329371,
+                        35.941651
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ras il-Wahx",
+                  "text": "Ras il-Wahx egy jellegzetes partvonal Golden Bay közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        14.329371,
+                        35.941651
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ras il-Wahx",
+                  "text": "Ras il-Wahx este un punct de coastă distinctiv lângă Golden Bay.",
+                  "category": "recreational",
+                  "coords": [
+                        14.329371,
+                        35.941651
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ras il-Wahx",
+                  "text": "Ras il-Wahx is a prominent coastal point near Golden Bay.",
+                  "category": "recreational",
+                  "coords": [
+                        14.329371,
+                        35.941651
+                  ]
+            }
+      ]
+},
     type: "geo",
     parent: "MT",
     coords: [14.345, 35.935],

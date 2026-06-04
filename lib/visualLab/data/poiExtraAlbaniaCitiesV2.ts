@@ -700,7 +700,232 @@ imageHint: "Krujë Castle and old bazaar street",
     },
   },
   {
-    id: "albania-corovode-cities-v2",
+    id: "albania-corovode-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plazhi i Varishtit",
+                  "text": "Plazhi i Varishtit in Corovode.",
+                  "category": "recreational",
+                  "coords": [
+                        20.22603,
+                        40.49978
+                  ]
+            },
+            {
+                  "name": "Plazhi \"Ballkonet\"",
+                  "text": "Plazhi Ballkonet Strand in Corovode.",
+                  "category": "recreational",
+                  "coords": [
+                        20.227199,
+                        40.496176
+                  ]
+            },
+            {
+                  "name": "Plazhi \"Ura gjermane\"",
+                  "text": "Plazhi Ura gjermane Strand in Corovode.",
+                  "category": "recreational",
+                  "coords": [
+                        20.226102,
+                        40.495064
+                  ]
+            },
+            {
+                  "name": "Plazhi \"Pllakat\"",
+                  "text": "Plazhi Pllakat Strand in Corovode.",
+                  "category": "recreational",
+                  "coords": [
+                        20.225345,
+                        40.492766
+                  ]
+            },
+            {
+                  "name": "Plazhi \"Vau\"",
+                  "text": "Strand in der Nähe von Corovode am Osum-Fluss.",
+                  "category": "recreational",
+                  "coords": [
+                        20.226255,
+                        40.489559
+                  ]
+            },
+            {
+                  "name": "Plazhi \"Vau i Cerenishtit\"",
+                  "text": "Strand in der Nähe von Corovode am Osum-Fluss.",
+                  "category": "recreational",
+                  "coords": [
+                        20.22931,
+                        40.488607
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plazhi i Varishtit",
+                  "text": "Plazhi i Varishtit strand Corovodében.",
+                  "category": "recreational",
+                  "coords": [
+                        20.22603,
+                        40.49978
+                  ]
+            },
+            {
+                  "name": "Plazhi \"Ballkonet\"",
+                  "text": "Plazhi Ballkonet strand Corovodében.",
+                  "category": "recreational",
+                  "coords": [
+                        20.227199,
+                        40.496176
+                  ]
+            },
+            {
+                  "name": "Plazhi \"Ura gjermane\"",
+                  "text": "Plazhi Ura gjermane strand Corovodében.",
+                  "category": "recreational",
+                  "coords": [
+                        20.226102,
+                        40.495064
+                  ]
+            },
+            {
+                  "name": "Plazhi \"Pllakat\"",
+                  "text": "Plazhi Pllakat strand Corovodében.",
+                  "category": "recreational",
+                  "coords": [
+                        20.225345,
+                        40.492766
+                  ]
+            },
+            {
+                  "name": "Plazhi \"Vau\"",
+                  "text": "Strand Corovode közelében, az Osum folyó mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        20.226255,
+                        40.489559
+                  ]
+            },
+            {
+                  "name": "Plazhi \"Vau i Cerenishtit\"",
+                  "text": "Strand Corovode közelében, az Osum folyó mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        20.22931,
+                        40.488607
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plazhi i Varishtit",
+                  "text": "Plaja Plazhi i Varishtit în Corovode.",
+                  "category": "recreational",
+                  "coords": [
+                        20.22603,
+                        40.49978
+                  ]
+            },
+            {
+                  "name": "Plazhi \"Ballkonet\"",
+                  "text": "Plaja Plazhi Ballkonet în Corovode.",
+                  "category": "recreational",
+                  "coords": [
+                        20.227199,
+                        40.496176
+                  ]
+            },
+            {
+                  "name": "Plazhi \"Ura gjermane\"",
+                  "text": "Plaja Plazhi Ura gjermane în Corovode.",
+                  "category": "recreational",
+                  "coords": [
+                        20.226102,
+                        40.495064
+                  ]
+            },
+            {
+                  "name": "Plazhi \"Pllakat\"",
+                  "text": "Plaja Plazhi Pllakat în Corovode.",
+                  "category": "recreational",
+                  "coords": [
+                        20.225345,
+                        40.492766
+                  ]
+            },
+            {
+                  "name": "Plazhi \"Vau\"",
+                  "text": "Plajă lângă Corovode, de-a lungul râului Osum.",
+                  "category": "recreational",
+                  "coords": [
+                        20.226255,
+                        40.489559
+                  ]
+            },
+            {
+                  "name": "Plazhi \"Vau i Cerenishtit\"",
+                  "text": "Plajă lângă Corovode, de-a lungul râului Osum.",
+                  "category": "recreational",
+                  "coords": [
+                        20.22931,
+                        40.488607
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plazhi i Varishtit",
+                  "text": "Plazhi i Varishtit beach in Corovode.",
+                  "category": "recreational",
+                  "coords": [
+                        20.22603,
+                        40.49978
+                  ]
+            },
+            {
+                  "name": "Plazhi \"Ballkonet\"",
+                  "text": "Plazhi Ballkonet beach in Corovode.",
+                  "category": "recreational",
+                  "coords": [
+                        20.227199,
+                        40.496176
+                  ]
+            },
+            {
+                  "name": "Plazhi \"Ura gjermane\"",
+                  "text": "Plazhi Ura gjermane beach in Corovode.",
+                  "category": "recreational",
+                  "coords": [
+                        20.226102,
+                        40.495064
+                  ]
+            },
+            {
+                  "name": "Plazhi \"Pllakat\"",
+                  "text": "Plazhi Pllakat beach in Corovode.",
+                  "category": "recreational",
+                  "coords": [
+                        20.225345,
+                        40.492766
+                  ]
+            },
+            {
+                  "name": "Plazhi \"Vau\"",
+                  "text": "Beach near Corovode, along the Osum river.",
+                  "category": "recreational",
+                  "coords": [
+                        20.226255,
+                        40.489559
+                  ]
+            },
+            {
+                  "name": "Plazhi \"Vau i Cerenishtit\"",
+                  "text": "Beach near Corovode, along the Osum river.",
+                  "category": "recreational",
+                  "coords": [
+                        20.22931,
+                        40.488607
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "city",
     name: { de: "Çorovodë", hu: "Çorovodë", ro: "Çorovodë", en: "Çorovodë"},
@@ -1639,7 +1864,268 @@ imageHint: "Krujë Castle and old bazaar street",
     },
   },
   {
-    id: "albania-himare-cities-v2",
+    id: "albania-himare-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "VARKA",
+                  "text": "VARKA Strand in Himare.",
+                  "category": "recreational",
+                  "coords": [
+                        19.7547,
+                        40.094743
+                  ]
+            },
+            {
+                  "name": "Rescue",
+                  "text": "Strand bei Himarë am Ionischen Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        19.751389,
+                        40.098718
+                  ]
+            },
+            {
+                  "name": "Akacia",
+                  "text": "Strand bei Himarë am Ionischen Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        19.752659,
+                        40.097807
+                  ]
+            },
+            {
+                  "name": "Plazhi i Potamit",
+                  "text": "Strand im Ortsteil Potam bei Himarë.",
+                  "category": "recreational",
+                  "coords": [
+                        19.754458,
+                        40.092968
+                  ]
+            },
+            {
+                  "name": "Marachi",
+                  "text": "Strand bei Himarë am Ionischen Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        19.749152,
+                        40.099195
+                  ]
+            },
+            {
+                  "name": "Plazhi i Himarës",
+                  "text": "Der Strand von Himarë ist zentral gelegen.",
+                  "category": "recreational",
+                  "coords": [
+                        19.744221,
+                        40.100927
+                  ]
+            },
+            {
+                  "name": "Plazhi i Filikurit",
+                  "text": "Strand in der Nähe von Himarë, erreichbar über einen Pfad.",
+                  "category": "recreational",
+                  "coords": [
+                        19.75185,
+                        40.085674
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "VARKA",
+                  "text": "VARKA strand Himareban.",
+                  "category": "recreational",
+                  "coords": [
+                        19.7547,
+                        40.094743
+                  ]
+            },
+            {
+                  "name": "Rescue",
+                  "text": "Strand Himarë közelében, a Jón-tengeren.",
+                  "category": "recreational",
+                  "coords": [
+                        19.751389,
+                        40.098718
+                  ]
+            },
+            {
+                  "name": "Akacia",
+                  "text": "Strand Himarë közelében, a Jón-tengeren.",
+                  "category": "recreational",
+                  "coords": [
+                        19.752659,
+                        40.097807
+                  ]
+            },
+            {
+                  "name": "Plazhi i Potamit",
+                  "text": "Strand Potam településrészen, Himarë közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        19.754458,
+                        40.092968
+                  ]
+            },
+            {
+                  "name": "Marachi",
+                  "text": "Strand Himarë közelében, a Jón-tengeren.",
+                  "category": "recreational",
+                  "coords": [
+                        19.749152,
+                        40.099195
+                  ]
+            },
+            {
+                  "name": "Plazhi i Himarës",
+                  "text": "Himarë strandja központi helyen található.",
+                  "category": "recreational",
+                  "coords": [
+                        19.744221,
+                        40.100927
+                  ]
+            },
+            {
+                  "name": "Plazhi i Filikurit",
+                  "text": "Strand Himarë közelében, egy ösvényen keresztül közelíthető meg.",
+                  "category": "recreational",
+                  "coords": [
+                        19.75185,
+                        40.085674
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "VARKA",
+                  "text": "Plaja VARKA în Himare.",
+                  "category": "recreational",
+                  "coords": [
+                        19.7547,
+                        40.094743
+                  ]
+            },
+            {
+                  "name": "Rescue",
+                  "text": "Plajă lângă Himarë, la Marea Ionică.",
+                  "category": "recreational",
+                  "coords": [
+                        19.751389,
+                        40.098718
+                  ]
+            },
+            {
+                  "name": "Akacia",
+                  "text": "Plajă lângă Himarë, la Marea Ionică.",
+                  "category": "recreational",
+                  "coords": [
+                        19.752659,
+                        40.097807
+                  ]
+            },
+            {
+                  "name": "Plazhi i Potamit",
+                  "text": "Plajă în zona Potam, lângă Himarë.",
+                  "category": "recreational",
+                  "coords": [
+                        19.754458,
+                        40.092968
+                  ]
+            },
+            {
+                  "name": "Marachi",
+                  "text": "Plajă lângă Himarë, la Marea Ionică.",
+                  "category": "recreational",
+                  "coords": [
+                        19.749152,
+                        40.099195
+                  ]
+            },
+            {
+                  "name": "Plazhi i Himarës",
+                  "text": "Plaja din Himare este situată central.",
+                  "category": "recreational",
+                  "coords": [
+                        19.744221,
+                        40.100927
+                  ]
+            },
+            {
+                  "name": "Plazhi i Filikurit",
+                  "text": "Plajă lângă Himarë, accesibilă printr-o potecă.",
+                  "category": "recreational",
+                  "coords": [
+                        19.75185,
+                        40.085674
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "VARKA",
+                  "text": "VARKA beach in Himare.",
+                  "category": "recreational",
+                  "coords": [
+                        19.7547,
+                        40.094743
+                  ]
+            },
+            {
+                  "name": "Rescue",
+                  "text": "Beach near Himarë, on the Ionian Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        19.751389,
+                        40.098718
+                  ]
+            },
+            {
+                  "name": "Akacia",
+                  "text": "Beach near Himarë, on the Ionian Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        19.752659,
+                        40.097807
+                  ]
+            },
+            {
+                  "name": "Plazhi i Potamit",
+                  "text": "Beach in the Potam area, near Himarë.",
+                  "category": "recreational",
+                  "coords": [
+                        19.754458,
+                        40.092968
+                  ]
+            },
+            {
+                  "name": "Marachi",
+                  "text": "Beach near Himarë, on the Ionian Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        19.749152,
+                        40.099195
+                  ]
+            },
+            {
+                  "name": "Plazhi i Himarës",
+                  "text": "The beach in Himare is centrally located.",
+                  "category": "recreational",
+                  "coords": [
+                        19.744221,
+                        40.100927
+                  ]
+            },
+            {
+                  "name": "Plazhi i Filikurit",
+                  "text": "Beach near Himarë, accessible via a footpath.",
+                  "category": "recreational",
+                  "coords": [
+                        19.75185,
+                        40.085674
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "town",
     name: { de: "Himarë", hu: "Himarë", ro: "Himarë", en: "Himarë"},
@@ -1733,7 +2219,52 @@ imageHint: "Krujë Castle and old bazaar street",
     },
   },
   {
-    id: "albania-orikum-cities-v2",
+    id: "albania-orikum-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Amanti's Beach",
+                  "text": "Amanti's Strand in Orikum.",
+                  "category": "recreational",
+                  "coords": [
+                        19.485262,
+                        40.349717
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Amanti's Beach",
+                  "text": "Amanti's strand Orikumban.",
+                  "category": "recreational",
+                  "coords": [
+                        19.485262,
+                        40.349717
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Amanti's Beach",
+                  "text": "Plaja Amanti's în Orikum.",
+                  "category": "recreational",
+                  "coords": [
+                        19.485262,
+                        40.349717
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Amanti's Beach",
+                  "text": "Amanti's beach in Orikum.",
+                  "category": "recreational",
+                  "coords": [
+                        19.485262,
+                        40.349717
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "town",
     name: { de: "Orikum", hu: "Orikum", ro: "Orikum", en: "Orikum"},
@@ -2344,7 +2875,412 @@ imageHint: "Krujë Castle and old bazaar street",
   }
 ,
   {
-    id: "albania-voskopoje-cities-v2",
+    id: "albania-voskopoje-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kisha e Shën Mëhillit",
+                  "text": "Die Kirche der Erzengel ist eine bekannte Sehenswürdigkeit in Voskopojë.",
+                  "category": "landmark",
+                  "coords": [
+                        20.587014,
+                        40.629122
+                  ]
+            },
+            {
+                  "name": "Kisha e Shën Thanasit",
+                  "text": "Die St.-Athanasius-Kirche ist eine geschichtsträchtige Sehenswürdigkeit in Voskopojë.",
+                  "category": "landmark",
+                  "coords": [
+                        20.58999,
+                        40.638173
+                  ]
+            },
+            {
+                  "name": "Kisha e Shën Kollit",
+                  "text": "Die St.-Nikolaus-Kirche ist eine bekannte Sehenswürdigkeit in Voskopojë.",
+                  "category": "landmark",
+                  "coords": [
+                        20.589206,
+                        40.631648
+                  ]
+            },
+            {
+                  "name": "Kisha e Shën Marisë",
+                  "text": "Die St.-Marien-Kirche ist eine bedeutende Sehenswürdigkeit in Voskopojë.",
+                  "category": "landmark",
+                  "coords": [
+                        20.591483,
+                        40.635495
+                  ]
+            },
+            {
+                  "name": "Kisha e Shën Dëlliut",
+                  "text": "Die Kirche des Propheten Elias ist eine Sehenswürdigkeit in Voskopojë.",
+                  "category": "landmark",
+                  "coords": [
+                        20.583399,
+                        40.635762
+                  ]
+            },
+            {
+                  "name": "Rrënojat e Kishës së Shën Pjetrit",
+                  "text": "Die Ruinen der St.-Petrus-Kirche sind ein historisches Überbleibsel in Voskopojë.",
+                  "category": "historical",
+                  "coords": [
+                        20.585969,
+                        40.635738
+                  ]
+            },
+            {
+                  "name": "Shen mërisë",
+                  "text": "Dieses Mariendenkmal befindet sich in Voskopojë.",
+                  "category": "historical",
+                  "coords": [
+                        20.590362,
+                        40.633577
+                  ]
+            },
+            {
+                  "name": "Manastiri i Shën Gjon Pagëzorit",
+                  "text": "Das Kloster des Heiligen Johannes des Täufers ist eine Sehenswürdigkeit in Voskopojë.",
+                  "category": "landmark",
+                  "coords": [
+                        20.60304,
+                        40.645609
+                  ]
+            },
+            {
+                  "name": "Shën e Premte",
+                  "text": "Diese St.-Paraskevi-Kirche ist eine Sehenswürdigkeit in Voskopojë.",
+                  "category": "landmark",
+                  "coords": [
+                        20.593792,
+                        40.639295
+                  ]
+            },
+            {
+                  "name": "Shën Harallambi",
+                  "text": "Die Ruinen der St.-Charalambos-Kirche befinden sich in Voskopojë.",
+                  "category": "historical",
+                  "coords": [
+                        20.587004,
+                        40.624777
+                  ]
+            },
+            {
+                  "name": "Kisha Fjetja e Shën Mërisë",
+                  "text": "Die Kirche Mariä Entschlafung ist eine Sehenswürdigkeit in Voskopojë.",
+                  "category": "landmark",
+                  "coords": [
+                        20.590204,
+                        40.635003
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kisha e Shën Mëhillit",
+                  "text": "Az Arkangyalok temploma egy népszerű látnivaló Voskopojë-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        20.587014,
+                        40.629122
+                  ]
+            },
+            {
+                  "name": "Kisha e Shën Thanasit",
+                  "text": "A Szent Athanáz templom egy történelmi látnivaló Voskopojë-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        20.58999,
+                        40.638173
+                  ]
+            },
+            {
+                  "name": "Kisha e Shën Kollit",
+                  "text": "A Szent Miklós templom egy népszerű látnivaló Voskopojë-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        20.589206,
+                        40.631648
+                  ]
+            },
+            {
+                  "name": "Kisha e Shën Marisë",
+                  "text": "A Szent Mária templom egy jelentős látnivaló Voskopojë-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        20.591483,
+                        40.635495
+                  ]
+            },
+            {
+                  "name": "Kisha e Shën Dëlliut",
+                  "text": "Illés próféta temploma egy látnivaló Voskopojë-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        20.583399,
+                        40.635762
+                  ]
+            },
+            {
+                  "name": "Rrënojat e Kishës së Shën Pjetrit",
+                  "text": "A Szent Péter templom romjai egy történelmi emlékhely Voskopojë-ban.",
+                  "category": "historical",
+                  "coords": [
+                        20.585969,
+                        40.635738
+                  ]
+            },
+            {
+                  "name": "Shen mërisë",
+                  "text": "Ez a Mária-emlékmű Voskopojë-ban található.",
+                  "category": "historical",
+                  "coords": [
+                        20.590362,
+                        40.633577
+                  ]
+            },
+            {
+                  "name": "Manastiri i Shën Gjon Pagëzorit",
+                  "text": "Keresztelő Szent János kolostora egy látnivaló Voskopojë-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        20.60304,
+                        40.645609
+                  ]
+            },
+            {
+                  "name": "Shën e Premte",
+                  "text": "Ez a Szent Paraskevi templom egy látnivaló Voskopojë-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        20.593792,
+                        40.639295
+                  ]
+            },
+            {
+                  "name": "Shën Harallambi",
+                  "text": "A Szent Haralambosz templom romjai Voskopojë-ban találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        20.587004,
+                        40.624777
+                  ]
+            },
+            {
+                  "name": "Kisha Fjetja e Shën Mërisë",
+                  "text": "Az Istenszülő elszenderedése templom egy látnivaló Voskopojë-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        20.590204,
+                        40.635003
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kisha e Shën Mëhillit",
+                  "text": "Biserica Arhanghelilor este o atracție renumită în Voskopojë.",
+                  "category": "landmark",
+                  "coords": [
+                        20.587014,
+                        40.629122
+                  ]
+            },
+            {
+                  "name": "Kisha e Shën Thanasit",
+                  "text": "Biserica Sfântul Atanasie este o atracție istorică în Voskopojë.",
+                  "category": "landmark",
+                  "coords": [
+                        20.58999,
+                        40.638173
+                  ]
+            },
+            {
+                  "name": "Kisha e Shën Kollit",
+                  "text": "Biserica Sfântul Nicolae este o atracție renumită în Voskopojë.",
+                  "category": "landmark",
+                  "coords": [
+                        20.589206,
+                        40.631648
+                  ]
+            },
+            {
+                  "name": "Kisha e Shën Marisë",
+                  "text": "Biserica Sfânta Maria este o atracție importantă în Voskopojë.",
+                  "category": "landmark",
+                  "coords": [
+                        20.591483,
+                        40.635495
+                  ]
+            },
+            {
+                  "name": "Kisha e Shën Dëlliut",
+                  "text": "Biserica Profetului Ilie este o atracție în Voskopojë.",
+                  "category": "landmark",
+                  "coords": [
+                        20.583399,
+                        40.635762
+                  ]
+            },
+            {
+                  "name": "Rrënojat e Kishës së Shën Pjetrit",
+                  "text": "Ruinele Bisericii Sfântul Petru sunt o vestigiu istoric în Voskopojë.",
+                  "category": "historical",
+                  "coords": [
+                        20.585969,
+                        40.635738
+                  ]
+            },
+            {
+                  "name": "Shen mërisë",
+                  "text": "Acest monument al Sfintei Maria se află în Voskopojë.",
+                  "category": "historical",
+                  "coords": [
+                        20.590362,
+                        40.633577
+                  ]
+            },
+            {
+                  "name": "Manastiri i Shën Gjon Pagëzorit",
+                  "text": "Mănăstirea Sfântul Ioan Botezătorul este o atracție în Voskopojë.",
+                  "category": "landmark",
+                  "coords": [
+                        20.60304,
+                        40.645609
+                  ]
+            },
+            {
+                  "name": "Shën e Premte",
+                  "text": "Această biserică Sfânta Parascheva este o atracție în Voskopojë.",
+                  "category": "landmark",
+                  "coords": [
+                        20.593792,
+                        40.639295
+                  ]
+            },
+            {
+                  "name": "Shën Harallambi",
+                  "text": "Ruinele bisericii Sfântul Haralambie se află în Voskopojë.",
+                  "category": "historical",
+                  "coords": [
+                        20.587004,
+                        40.624777
+                  ]
+            },
+            {
+                  "name": "Kisha Fjetja e Shën Mërisë",
+                  "text": "Biserica Adormirii Maicii Domnului este o atracție în Voskopojë.",
+                  "category": "landmark",
+                  "coords": [
+                        20.590204,
+                        40.635003
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Church of the Archangels",
+                  "text": "The Church of the Archangels is a well-known attraction in Voskopojë.",
+                  "category": "landmark",
+                  "coords": [
+                        20.587014,
+                        40.629122
+                  ]
+            },
+            {
+                  "name": "Church of St. Athanasios",
+                  "text": "The Church of St. Athanasios is a historic attraction in Voskopojë.",
+                  "category": "landmark",
+                  "coords": [
+                        20.58999,
+                        40.638173
+                  ]
+            },
+            {
+                  "name": "Church of St. Nicholas",
+                  "text": "The Church of St. Nicholas is a well-known attraction in Voskopojë.",
+                  "category": "landmark",
+                  "coords": [
+                        20.589206,
+                        40.631648
+                  ]
+            },
+            {
+                  "name": "Kisha e Shën Marisë",
+                  "text": "The Church of St. Mary is an important attraction in Voskopojë.",
+                  "category": "landmark",
+                  "coords": [
+                        20.591483,
+                        40.635495
+                  ]
+            },
+            {
+                  "name": "The Church of Prophet Elijah",
+                  "text": "The Church of Prophet Elijah is an attraction in Voskopojë.",
+                  "category": "landmark",
+                  "coords": [
+                        20.583399,
+                        40.635762
+                  ]
+            },
+            {
+                  "name": "Rrënojat e Kishës së Shën Pjetrit",
+                  "text": "The ruins of St. Peter's Church are a historic site in Voskopojë.",
+                  "category": "historical",
+                  "coords": [
+                        20.585969,
+                        40.635738
+                  ]
+            },
+            {
+                  "name": "Shen mërisë",
+                  "text": "This monument of St. Mary is located in Voskopojë.",
+                  "category": "historical",
+                  "coords": [
+                        20.590362,
+                        40.633577
+                  ]
+            },
+            {
+                  "name": "Manastiri i Shën Gjon Pagëzorit",
+                  "text": "The Monastery of St. John the Baptist is an attraction in Voskopojë.",
+                  "category": "landmark",
+                  "coords": [
+                        20.60304,
+                        40.645609
+                  ]
+            },
+            {
+                  "name": "Shën e Premte",
+                  "text": "This Church of St. Paraskevi is an attraction in Voskopojë.",
+                  "category": "landmark",
+                  "coords": [
+                        20.593792,
+                        40.639295
+                  ]
+            },
+            {
+                  "name": "Shën Harallambi",
+                  "text": "The ruins of St. Charalambos Church are located in Voskopojë.",
+                  "category": "historical",
+                  "coords": [
+                        20.587004,
+                        40.624777
+                  ]
+            },
+            {
+                  "name": "Church of the Dormition of the Theotokos",
+                  "text": "The Church of the Dormition of the Theotokos is an attraction in Voskopojë.",
+                  "category": "landmark",
+                  "coords": [
+                        20.590204,
+                        40.635003
+                  ]
+            }
+      ]
+},
     type: "village",
     parent: "AL",
     name: { de: "Voskopojë", hu: "Voskopojë", ro: "Voskopojë", en: "Voskopojë" },
@@ -2524,7 +3460,448 @@ imageHint: "Krujë Castle and old bazaar street",
     image: "/poi-images/albania-dimal-cities-v2.webp",
   },
   {
-    id: "albania-golem-cities-v2",
+    id: "albania-golem-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plazhi i Golemit",
+                  "text": "Plazhi i Golemit ist ein bekannter Sandstrand, der sich entlang der Küste von Golem erstreckt.",
+                  "category": "recreational",
+                  "coords": [
+                        19.514761,
+                        41.258011
+                  ]
+            },
+            {
+                  "name": "Plazh Publik",
+                  "text": "Public Beach ist ein zugänglicher Strandbereich, der in Golem Entspannung an der Küste bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        19.51856,
+                        41.244742
+                  ]
+            },
+            {
+                  "name": "Kalaja e Zigxhafajt",
+                  "text": "Kalaja e Zigxhafajt ist eine bedeutende archäologische Stätte in der Region Golem.",
+                  "category": "historical",
+                  "coords": [
+                        19.564992,
+                        41.199567
+                  ]
+            },
+            {
+                  "name": "AQUAPARK",
+                  "text": "AQUAPARK ist ein Wasserpark in der Stadt Golem, der Unterhaltung im Wasser bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        19.517739,
+                        41.231887
+                  ]
+            },
+            {
+                  "name": "Lapidar",
+                  "text": "Lapidar ist ein lokales Denkmal in Golem.",
+                  "category": "historical",
+                  "coords": [
+                        19.530871,
+                        41.245644
+                  ]
+            },
+            {
+                  "name": "Enera Beach",
+                  "text": "Enera Beach ist ein Strandresort in Golem.",
+                  "category": "recreational",
+                  "coords": [
+                        19.51615,
+                        41.239138
+                  ]
+            },
+            {
+                  "name": "Klajdi Resort",
+                  "text": "Das Klajdi Resort ist ein Strandresort in Golem, das Unterkünfte am Meer bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        19.515468,
+                        41.237228
+                  ]
+            },
+            {
+                  "name": "Fafa Beach",
+                  "text": "Fafa Beach ist ein Küstenresort in Golem.",
+                  "category": "recreational",
+                  "coords": [
+                        19.515193,
+                        41.236302
+                  ]
+            },
+            {
+                  "name": "Kastrati Beach",
+                  "text": "Kastrati Beach ist ein Strandresort in der Stadt Golem.",
+                  "category": "recreational",
+                  "coords": [
+                        19.514245,
+                        41.233871
+                  ]
+            },
+            {
+                  "name": "Prestige Beach",
+                  "text": "Prestige Beach ist ein Resort an der Küste von Golem.",
+                  "category": "recreational",
+                  "coords": [
+                        19.513773,
+                        41.232615
+                  ]
+            },
+            {
+                  "name": "Golems Beach",
+                  "text": "Strand in Golem.",
+                  "category": "recreational",
+                  "coords": [
+                        19.518471,
+                        41.266998
+                  ]
+            },
+            {
+                  "name": "Playa Del Este",
+                  "text": "Playa Del Este ist ein Strand in Golem.",
+                  "category": "recreational",
+                  "coords": [
+                        19.495886,
+                        41.208414
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plazhi i Golemit",
+                  "text": "A Plazhi i Golemit egy jól ismert homokos strand, amely Golem partja mentén húzódik.",
+                  "category": "recreational",
+                  "coords": [
+                        19.514761,
+                        41.258011
+                  ]
+            },
+            {
+                  "name": "Plazh Publik",
+                  "text": "A Public Beach egy könnyen megközelíthető strand, amely tengerparti kikapcsolódást kínál Golemben.",
+                  "category": "recreational",
+                  "coords": [
+                        19.51856,
+                        41.244742
+                  ]
+            },
+            {
+                  "name": "Kalaja e Zigxhafajt",
+                  "text": "A Kalaja e Zigxhafajt egy figyelemre méltó régészeti lelőhely Golem régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        19.564992,
+                        41.199567
+                  ]
+            },
+            {
+                  "name": "AQUAPARK",
+                  "text": "Az AQUAPARK egy vízi vidámpark, amely szórakozási lehetőségeket kínál Golem városában.",
+                  "category": "recreational",
+                  "coords": [
+                        19.517739,
+                        41.231887
+                  ]
+            },
+            {
+                  "name": "Lapidar",
+                  "text": "A Lapidar egy helyi emlékmű Golem városában.",
+                  "category": "historical",
+                  "coords": [
+                        19.530871,
+                        41.245644
+                  ]
+            },
+            {
+                  "name": "Enera Beach",
+                  "text": "Az Enera Beach egy tengerparti üdülőhely Golem városában.",
+                  "category": "recreational",
+                  "coords": [
+                        19.51615,
+                        41.239138
+                  ]
+            },
+            {
+                  "name": "Klajdi Resort",
+                  "text": "A Klajdi Resort egy tengerparti üdülőhely, amely tengerparti hozzáférést biztosít Golemben.",
+                  "category": "recreational",
+                  "coords": [
+                        19.515468,
+                        41.237228
+                  ]
+            },
+            {
+                  "name": "Fafa Beach",
+                  "text": "A Fafa Beach egy tengerparti üdülőterület Golem városában.",
+                  "category": "recreational",
+                  "coords": [
+                        19.515193,
+                        41.236302
+                  ]
+            },
+            {
+                  "name": "Kastrati Beach",
+                  "text": "A Kastrati Beach egy tengerparti üdülőhely Golem városában.",
+                  "category": "recreational",
+                  "coords": [
+                        19.514245,
+                        41.233871
+                  ]
+            },
+            {
+                  "name": "Prestige Beach",
+                  "text": "A Prestige Beach egy partmenti üdülőhely Golem városában.",
+                  "category": "recreational",
+                  "coords": [
+                        19.513773,
+                        41.232615
+                  ]
+            },
+            {
+                  "name": "Golems Beach",
+                  "text": "Strand Golemben.",
+                  "category": "recreational",
+                  "coords": [
+                        19.518471,
+                        41.266998
+                  ]
+            },
+            {
+                  "name": "Playa Del Este",
+                  "text": "Playa Del Este egy strand Golemben.",
+                  "category": "recreational",
+                  "coords": [
+                        19.495886,
+                        41.208414
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plazhi i Golemit",
+                  "text": "Plazhi i Golemit este o plajă cu nisip binecunoscută care se întinde de-a lungul coastei Golemului.",
+                  "category": "recreational",
+                  "coords": [
+                        19.514761,
+                        41.258011
+                  ]
+            },
+            {
+                  "name": "Plazh Publik",
+                  "text": "Public Beach este o zonă de plajă accesibilă care oferă relaxare pe coastă în Golem.",
+                  "category": "recreational",
+                  "coords": [
+                        19.51856,
+                        41.244742
+                  ]
+            },
+            {
+                  "name": "Kalaja e Zigxhafajt",
+                  "text": "Kalaja e Zigxhafajt este un sit arheologic notabil situat în regiunea Golem.",
+                  "category": "historical",
+                  "coords": [
+                        19.564992,
+                        41.199567
+                  ]
+            },
+            {
+                  "name": "AQUAPARK",
+                  "text": "AQUAPARK este un parc acvatic care oferă divertisment în orașul Golem.",
+                  "category": "recreational",
+                  "coords": [
+                        19.517739,
+                        41.231887
+                  ]
+            },
+            {
+                  "name": "Lapidar",
+                  "text": "Lapidar este un monument local situat în Golem.",
+                  "category": "historical",
+                  "coords": [
+                        19.530871,
+                        41.245644
+                  ]
+            },
+            {
+                  "name": "Enera Beach",
+                  "text": "Enera Beach este o stațiune balneară situată în Golem.",
+                  "category": "recreational",
+                  "coords": [
+                        19.51615,
+                        41.239138
+                  ]
+            },
+            {
+                  "name": "Klajdi Resort",
+                  "text": "Klajdi Resort este o stațiune balneară ce oferă cazare pe litoral în Golem.",
+                  "category": "recreational",
+                  "coords": [
+                        19.515468,
+                        41.237228
+                  ]
+            },
+            {
+                  "name": "Fafa Beach",
+                  "text": "Fafa Beach este o stațiune de coastă situată în Golem.",
+                  "category": "recreational",
+                  "coords": [
+                        19.515193,
+                        41.236302
+                  ]
+            },
+            {
+                  "name": "Kastrati Beach",
+                  "text": "Kastrati Beach este o stațiune balneară situată în orașul Golem.",
+                  "category": "recreational",
+                  "coords": [
+                        19.514245,
+                        41.233871
+                  ]
+            },
+            {
+                  "name": "Prestige Beach",
+                  "text": "Prestige Beach este o stațiune situată pe coasta din Golem.",
+                  "category": "recreational",
+                  "coords": [
+                        19.513773,
+                        41.232615
+                  ]
+            },
+            {
+                  "name": "Golems Beach",
+                  "text": "Plajă în Golem.",
+                  "category": "recreational",
+                  "coords": [
+                        19.518471,
+                        41.266998
+                  ]
+            },
+            {
+                  "name": "Playa Del Este",
+                  "text": "Playa Del Este este o plajă în Golem.",
+                  "category": "recreational",
+                  "coords": [
+                        19.495886,
+                        41.208414
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plazhi i Golemit",
+                  "text": "Plazhi i Golemit is a well-known sandy beach stretching along the coast of Golem.",
+                  "category": "recreational",
+                  "coords": [
+                        19.514761,
+                        41.258011
+                  ]
+            },
+            {
+                  "name": "Public Beach",
+                  "text": "Public Beach is an accessible beach area offering coastal relaxation in Golem.",
+                  "category": "recreational",
+                  "coords": [
+                        19.51856,
+                        41.244742
+                  ]
+            },
+            {
+                  "name": "Kalaja e Zigxhafajt",
+                  "text": "Kalaja e Zigxhafajt is a notable archaeological site located within the region of Golem.",
+                  "category": "historical",
+                  "coords": [
+                        19.564992,
+                        41.199567
+                  ]
+            },
+            {
+                  "name": "AQUAPARK",
+                  "text": "AQUAPARK is a water park offering aquatic entertainment in the city of Golem.",
+                  "category": "recreational",
+                  "coords": [
+                        19.517739,
+                        41.231887
+                  ]
+            },
+            {
+                  "name": "Lapidar",
+                  "text": "Lapidar is a local monument situated in Golem.",
+                  "category": "historical",
+                  "coords": [
+                        19.530871,
+                        41.245644
+                  ]
+            },
+            {
+                  "name": "Enera Beach",
+                  "text": "Enera Beach is a beach resort destination located in Golem.",
+                  "category": "recreational",
+                  "coords": [
+                        19.51615,
+                        41.239138
+                  ]
+            },
+            {
+                  "name": "Klajdi Resort",
+                  "text": "Klajdi Resort is a beach resort offering accommodation and coastal access in Golem.",
+                  "category": "recreational",
+                  "coords": [
+                        19.515468,
+                        41.237228
+                  ]
+            },
+            {
+                  "name": "Fafa Beach",
+                  "text": "Fafa Beach is a coastal resort area located in Golem.",
+                  "category": "recreational",
+                  "coords": [
+                        19.515193,
+                        41.236302
+                  ]
+            },
+            {
+                  "name": "Kastrati Beach",
+                  "text": "Kastrati Beach is a beach resort facility operating in Golem.",
+                  "category": "recreational",
+                  "coords": [
+                        19.514245,
+                        41.233871
+                  ]
+            },
+            {
+                  "name": "Prestige Beach",
+                  "text": "Prestige Beach is a resort destination situated along the coast of Golem.",
+                  "category": "recreational",
+                  "coords": [
+                        19.513773,
+                        41.232615
+                  ]
+            },
+            {
+                  "name": "Golems Beach",
+                  "text": "Beach in Golem.",
+                  "category": "recreational",
+                  "coords": [
+                        19.518471,
+                        41.266998
+                  ]
+            },
+            {
+                  "name": "Playa Del Este",
+                  "text": "Playa Del Este is a beach in Golem.",
+                  "category": "recreational",
+                  "coords": [
+                        19.495886,
+                        41.208414
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "AL",
     name: { de: "Golem", hu: "Golem", ro: "Golem", en: "Golem" },
@@ -3334,7 +4711,160 @@ imageHint: "Krujë Castle and old bazaar street",
     image: "/poi-images/albania-postribe-cities-v2.webp",
   },
   {
-    id: "albania-velipoje-town-cities-v2",
+    id: "albania-velipoje-town-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plazhi Mario",
+                  "text": "Plazhi Mario Strand in Velipoje.",
+                  "category": "recreational",
+                  "coords": [
+                        19.432824,
+                        41.86048
+                  ]
+            },
+            {
+                  "name": "Faro",
+                  "text": "Faro Strand in Velipoje.",
+                  "category": "recreational",
+                  "coords": [
+                        19.438111,
+                        41.859962
+                  ]
+            },
+            {
+                  "name": "Royal Beach",
+                  "text": "Royal Strand in Velipoje.",
+                  "category": "recreational",
+                  "coords": [
+                        19.439223,
+                        41.859594
+                  ]
+            },
+            {
+                  "name": "Viluni Beach",
+                  "text": "Viluni Strand in Velipoje.",
+                  "category": "recreational",
+                  "coords": [
+                        19.445435,
+                        41.858698
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plazhi Mario",
+                  "text": "Plazhi Mario strand Velipojéban.",
+                  "category": "recreational",
+                  "coords": [
+                        19.432824,
+                        41.86048
+                  ]
+            },
+            {
+                  "name": "Faro",
+                  "text": "Faro strand Velipojéban.",
+                  "category": "recreational",
+                  "coords": [
+                        19.438111,
+                        41.859962
+                  ]
+            },
+            {
+                  "name": "Royal Beach",
+                  "text": "Royal strand Velipojéban.",
+                  "category": "recreational",
+                  "coords": [
+                        19.439223,
+                        41.859594
+                  ]
+            },
+            {
+                  "name": "Viluni Beach",
+                  "text": "Viluni strand Velipojéban.",
+                  "category": "recreational",
+                  "coords": [
+                        19.445435,
+                        41.858698
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plazhi Mario",
+                  "text": "Plaja Plazhi Mario în Velipoje.",
+                  "category": "recreational",
+                  "coords": [
+                        19.432824,
+                        41.86048
+                  ]
+            },
+            {
+                  "name": "Faro",
+                  "text": "Plaja Faro în Velipoje.",
+                  "category": "recreational",
+                  "coords": [
+                        19.438111,
+                        41.859962
+                  ]
+            },
+            {
+                  "name": "Royal Beach",
+                  "text": "Plaja Royal în Velipoje.",
+                  "category": "recreational",
+                  "coords": [
+                        19.439223,
+                        41.859594
+                  ]
+            },
+            {
+                  "name": "Viluni Beach",
+                  "text": "Plaja Viluni în Velipoje.",
+                  "category": "recreational",
+                  "coords": [
+                        19.445435,
+                        41.858698
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plazhi Mario",
+                  "text": "Plazhi Mario beach in Velipoje.",
+                  "category": "recreational",
+                  "coords": [
+                        19.432824,
+                        41.86048
+                  ]
+            },
+            {
+                  "name": "Faro",
+                  "text": "Faro beach in Velipoje.",
+                  "category": "recreational",
+                  "coords": [
+                        19.438111,
+                        41.859962
+                  ]
+            },
+            {
+                  "name": "Royal Beach",
+                  "text": "Royal beach in Velipoje.",
+                  "category": "recreational",
+                  "coords": [
+                        19.439223,
+                        41.859594
+                  ]
+            },
+            {
+                  "name": "Viluni Beach",
+                  "text": "Viluni beach in Velipoje.",
+                  "category": "recreational",
+                  "coords": [
+                        19.445435,
+                        41.858698
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "AL",
     name: { de: "Velipojë", hu: "Velipojë", ro: "Velipojë", en: "Velipojë" },
@@ -3379,7 +4909,52 @@ imageHint: "Krujë Castle and old bazaar street",
     image: "/poi-images/albania-velipoje-town-cities-v2.webp",
   },
   {
-    id: "albania-tale-cities-v2",
+    id: "albania-tale-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plazhi i Tales",
+                  "text": "Der Strand von Tale liegt bei der gleichnamigen Stadt.",
+                  "category": "recreational",
+                  "coords": [
+                        19.577448,
+                        41.685941
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plazhi i Tales",
+                  "text": "Tale strandja a hasonló nevű város közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        19.577448,
+                        41.685941
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plazhi i Tales",
+                  "text": "Plaja Tale se află lângă orașul cu același nume.",
+                  "category": "recreational",
+                  "coords": [
+                        19.577448,
+                        41.685941
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plazhi i Tales",
+                  "text": "Tale Beach is located near the town of the same name.",
+                  "category": "recreational",
+                  "coords": [
+                        19.577448,
+                        41.685941
+                  ]
+            }
+      ]
+},
     type: "village",
     parent: "AL",
     name: { de: "Tale", hu: "Tale", ro: "Tale", en: "Tale" },
@@ -3919,7 +5494,124 @@ imageHint: "Krujë Castle and old bazaar street",
     image: "/poi-images/albania-aliko-cities-v2.webp",
   },
   {
-    id: "albania-lukove-cities-v2",
+    id: "albania-lukove-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plazhi i Bunecit",
+                  "text": "Strand bei Lukovë am Ionischen Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        19.890423,
+                        40.005937
+                  ]
+            },
+            {
+                  "name": "Plazhi i Lukovës",
+                  "text": "Strand bei der Stadt Lukovë.",
+                  "category": "recreational",
+                  "coords": [
+                        19.913501,
+                        39.972214
+                  ]
+            },
+            {
+                  "name": "Plazhi Krorëz",
+                  "text": "Plazhi Krorëz ist ein abgelegener Strand bei Lukovë.",
+                  "category": "recreational",
+                  "coords": [
+                        19.936813,
+                        39.933845
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plazhi i Bunecit",
+                  "text": "Strand Lukovë közelében, a Jón-tengeren.",
+                  "category": "recreational",
+                  "coords": [
+                        19.890423,
+                        40.005937
+                  ]
+            },
+            {
+                  "name": "Plazhi i Lukovës",
+                  "text": "Strand Lukovë városánál.",
+                  "category": "recreational",
+                  "coords": [
+                        19.913501,
+                        39.972214
+                  ]
+            },
+            {
+                  "name": "Plazhi Krorëz",
+                  "text": "Plazhi Krorëz egy eldugott strand Lukovë közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        19.936813,
+                        39.933845
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plazhi i Bunecit",
+                  "text": "Plajă lângă Lukovë, la Marea Ionică.",
+                  "category": "recreational",
+                  "coords": [
+                        19.890423,
+                        40.005937
+                  ]
+            },
+            {
+                  "name": "Plazhi i Lukovës",
+                  "text": "Plajă lângă orașul Lukove.",
+                  "category": "recreational",
+                  "coords": [
+                        19.913501,
+                        39.972214
+                  ]
+            },
+            {
+                  "name": "Plazhi Krorëz",
+                  "text": "Plazhi Krorëz este o plajă izolată lângă Lukovë.",
+                  "category": "recreational",
+                  "coords": [
+                        19.936813,
+                        39.933845
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plazhi i Bunecit",
+                  "text": "Beach near Lukovë, on the Ionian Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        19.890423,
+                        40.005937
+                  ]
+            },
+            {
+                  "name": "Plazhi i Lukovës",
+                  "text": "Beach near the town of Lukove.",
+                  "category": "recreational",
+                  "coords": [
+                        19.913501,
+                        39.972214
+                  ]
+            },
+            {
+                  "name": "Plazhi Krorëz",
+                  "text": "Plazhi Krorëz is a secluded beach near Lukovë.",
+                  "category": "recreational",
+                  "coords": [
+                        19.936813,
+                        39.933845
+                  ]
+            }
+      ]
+},
     type: "village",
     parent: "AL",
     name: { de: "Lukovë", hu: "Lukovë", ro: "Lukovë", en: "Lukovë" },
@@ -4144,7 +5836,52 @@ imageHint: "Krujë Castle and old bazaar street",
     image: "/poi-images/albania-manez-cities-v2.webp",
   },
   {
-    id: "albania-katund-i-ri-cities-v2",
+    id: "albania-katund-i-ri-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ammos Beach",
+                  "text": "Ammos Beach ist ein Strand bei Katund i Ri.",
+                  "category": "recreational",
+                  "coords": [
+                        19.44202,
+                        41.415841
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ammos Beach",
+                  "text": "Ammos Beach egy strand Katund i Ri közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        19.44202,
+                        41.415841
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ammos Beach",
+                  "text": "Ammos Beach este o plajă lângă Katund i Ri.",
+                  "category": "recreational",
+                  "coords": [
+                        19.44202,
+                        41.415841
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ammos Beach",
+                  "text": "Ammos Beach is a beach near Katund i Ri.",
+                  "category": "recreational",
+                  "coords": [
+                        19.44202,
+                        41.415841
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "AL",
     name: { de: "Katund i Ri", hu: "Katund i Ri", ro: "Katund i Ri", en: "Katund i Ri" },
@@ -4369,7 +6106,52 @@ imageHint: "Krujë Castle and old bazaar street",
     image: "/poi-images/albania-borie-cities-v2.webp",
   },
   {
-    id: "albania-arapaj-cities-v2",
+    id: "albania-arapaj-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Beach of Durrës",
+                  "text": "Strand bei Arapaj, in der Nähe von Durrës.",
+                  "category": "recreational",
+                  "coords": [
+                        19.485036,
+                        41.306404
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Beach of Durrës",
+                  "text": "Strand Arapaj mellett, Durrës közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        19.485036,
+                        41.306404
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Beach of Durrës",
+                  "text": "Plajă lângă Arapaj, aproape de Durrës.",
+                  "category": "recreational",
+                  "coords": [
+                        19.485036,
+                        41.306404
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Beach of Durrës",
+                  "text": "Beach near Arapaj, close to Durrës.",
+                  "category": "recreational",
+                  "coords": [
+                        19.485036,
+                        41.306404
+                  ]
+            }
+      ]
+},
     type: "village",
     parent: "AL",
     name: { de: "Arapaj", hu: "Arapaj", ro: "Arapaj", en: "Arapaj" },

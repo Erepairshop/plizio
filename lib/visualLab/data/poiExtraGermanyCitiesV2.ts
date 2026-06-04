@@ -7276,6 +7276,15 @@ export const germanyCitiesV2: POI[] = [
                         6.851693,
                         51.121181
                   ]
+            },
+            {
+                  "name": "Strabeach",
+                  "text": "Der Strabeach liegt in Speyer.",
+                  "category": "recreational",
+                  "coords": [
+                        6.774689,
+                        51.103831
+                  ]
             }
       ],
       "hu": [
@@ -7349,6 +7358,15 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         6.851693,
                         51.121181
+                  ]
+            },
+            {
+                  "name": "Strabeach",
+                  "text": "A Strabeach Speyerben található.",
+                  "category": "recreational",
+                  "coords": [
+                        6.774689,
+                        51.103831
                   ]
             }
       ],
@@ -7424,6 +7442,15 @@ export const germanyCitiesV2: POI[] = [
                         6.851693,
                         51.121181
                   ]
+            },
+            {
+                  "name": "Strabeach",
+                  "text": "Zona Strabeach este situată în Speyer.",
+                  "category": "recreational",
+                  "coords": [
+                        6.774689,
+                        51.103831
+                  ]
             }
       ],
       "en": [
@@ -7497,6 +7524,15 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         6.851693,
                         51.121181
+                  ]
+            },
+            {
+                  "name": "Strabeach",
+                  "text": "The Strabeach is located in Speyer.",
+                  "category": "recreational",
+                  "coords": [
+                        6.774689,
+                        51.103831
                   ]
             }
       ]
@@ -8220,6 +8256,15 @@ export const germanyCitiesV2: POI[] = [
                         7.940943,
                         48.469878
                   ]
+            },
+            {
+                  "name": "Sommerbad",
+                  "text": "Sommerbad in Offenburg.",
+                  "category": "recreational",
+                  "coords": [
+                        7.891203,
+                        48.462715
+                  ]
             }
       ],
       "hu": [
@@ -8293,6 +8338,15 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         7.940943,
                         48.469878
+                  ]
+            },
+            {
+                  "name": "Sommerbad",
+                  "text": "Sommerbad fürdőhely Offenburgban.",
+                  "category": "recreational",
+                  "coords": [
+                        7.891203,
+                        48.462715
                   ]
             }
       ],
@@ -8368,6 +8422,15 @@ export const germanyCitiesV2: POI[] = [
                         7.940943,
                         48.469878
                   ]
+            },
+            {
+                  "name": "Sommerbad",
+                  "text": "Plajă la Sommerbad din Offenburg.",
+                  "category": "recreational",
+                  "coords": [
+                        7.891203,
+                        48.462715
+                  ]
             }
       ],
       "en": [
@@ -8441,6 +8504,15 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         7.940943,
                         48.469878
+                  ]
+            },
+            {
+                  "name": "Sommerbad",
+                  "text": "Sommerbad bathing area in Offenburg.",
+                  "category": "recreational",
+                  "coords": [
+                        7.891203,
+                        48.462715
                   ]
             }
       ]

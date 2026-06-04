@@ -32639,6 +32639,33 @@ export const italyCitiesV2: POI[] = [
                         13.578698,
                         41.251567
                   ]
+            },
+            {
+                  "name": "spiaggia di porto Cofaniello",
+                  "text": "Die spiaggia di porto Cofaniello ist ein Strand in Formia.",
+                  "category": "recreational",
+                  "coords": [
+                        13.680455,
+                        41.245578
+                  ]
+            },
+            {
+                  "name": "Spiaggia dei Sassolini",
+                  "text": "Die Spiaggia dei Sassolini ist ein malerischer Strand in Formia.",
+                  "category": "recreational",
+                  "coords": [
+                        13.694791,
+                        41.250631
+                  ]
+            },
+            {
+                  "name": "Spiaggia del porticciolo Romano",
+                  "text": "Die Spiaggia del porticciolo Romano ist ein Strand in Formia.",
+                  "category": "recreational",
+                  "coords": [
+                        13.675214,
+                        41.248096
+                  ]
             }
       ],
       "hu": [
@@ -32721,6 +32748,33 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.578698,
                         41.251567
+                  ]
+            },
+            {
+                  "name": "spiaggia di porto Cofaniello",
+                  "text": "A spiaggia di porto Cofaniello egy strand Formiában.",
+                  "category": "recreational",
+                  "coords": [
+                        13.680455,
+                        41.245578
+                  ]
+            },
+            {
+                  "name": "Spiaggia dei Sassolini",
+                  "text": "A Spiaggia dei Sassolini egy festői strand Formiában.",
+                  "category": "recreational",
+                  "coords": [
+                        13.694791,
+                        41.250631
+                  ]
+            },
+            {
+                  "name": "Spiaggia del porticciolo Romano",
+                  "text": "A Spiaggia del porticciolo Romano egy strand Formiában.",
+                  "category": "recreational",
+                  "coords": [
+                        13.675214,
+                        41.248096
                   ]
             }
       ],
@@ -32805,6 +32859,33 @@ export const italyCitiesV2: POI[] = [
                         13.578698,
                         41.251567
                   ]
+            },
+            {
+                  "name": "spiaggia di porto Cofaniello",
+                  "text": "Spiaggia di porto Cofaniello este o plajă în Formia.",
+                  "category": "recreational",
+                  "coords": [
+                        13.680455,
+                        41.245578
+                  ]
+            },
+            {
+                  "name": "Spiaggia dei Sassolini",
+                  "text": "Spiaggia dei Sassolini este o plajă pitorească în Formia.",
+                  "category": "recreational",
+                  "coords": [
+                        13.694791,
+                        41.250631
+                  ]
+            },
+            {
+                  "name": "Spiaggia del porticciolo Romano",
+                  "text": "Spiaggia del porticciolo Romano este o plajă în Formia.",
+                  "category": "recreational",
+                  "coords": [
+                        13.675214,
+                        41.248096
+                  ]
             }
       ],
       "en": [
@@ -32887,6 +32968,33 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.578698,
                         41.251567
+                  ]
+            },
+            {
+                  "name": "spiaggia di porto Cofaniello",
+                  "text": "Spiaggia di porto Cofaniello is a beach in Formia.",
+                  "category": "recreational",
+                  "coords": [
+                        13.680455,
+                        41.245578
+                  ]
+            },
+            {
+                  "name": "Spiaggia dei Sassolini",
+                  "text": "Spiaggia dei Sassolini is a picturesque beach in Formia.",
+                  "category": "recreational",
+                  "coords": [
+                        13.694791,
+                        41.250631
+                  ]
+            },
+            {
+                  "name": "Spiaggia del porticciolo Romano",
+                  "text": "Spiaggia del porticciolo Romano is a beach in Formia.",
+                  "category": "recreational",
+                  "coords": [
+                        13.675214,
+                        41.248096
                   ]
             }
       ]

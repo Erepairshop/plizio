@@ -608,7 +608,88 @@ imageHint: "Barges and cranes at the inland Port of Liège",
     },
   },
   {
-    id: "belgium-feluy-petrochemical-economic-v2",
+    id: "belgium-feluy-petrochemical-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Piste hippique",
+                  "text": "Reitplatz bei Feluy Petrochemical.",
+                  "category": "recreational",
+                  "coords": [
+                        4.184533,
+                        50.576996
+                  ]
+            },
+            {
+                  "name": "Pétangue",
+                  "text": "Petanque-Platz bei Feluy Petrochemical.",
+                  "category": "recreational",
+                  "coords": [
+                        4.223902,
+                        50.610542
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Piste hippique",
+                  "text": "Lovaspálya a Feluy petrolkémiai üzem mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        4.184533,
+                        50.576996
+                  ]
+            },
+            {
+                  "name": "Pétangue",
+                  "text": "Pétanque-pálya a Feluy petrolkémiai üzem mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        4.223902,
+                        50.610542
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Piste hippique",
+                  "text": "Pistă de echitație lângă Feluy Petrochemical.",
+                  "category": "recreational",
+                  "coords": [
+                        4.184533,
+                        50.576996
+                  ]
+            },
+            {
+                  "name": "Pétangue",
+                  "text": "Teren de pétanque lângă Feluy Petrochemical.",
+                  "category": "recreational",
+                  "coords": [
+                        4.223902,
+                        50.610542
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Piste hippique",
+                  "text": "Equestrian track near Feluy Petrochemical.",
+                  "category": "recreational",
+                  "coords": [
+                        4.184533,
+                        50.576996
+                  ]
+            },
+            {
+                  "name": "Pétangue",
+                  "text": "Petanque court near Feluy Petrochemical.",
+                  "category": "recreational",
+                  "coords": [
+                        4.223902,
+                        50.610542
+                  ]
+            }
+      ]
+},
     parent: "BE",
     type: "industry",
     name: { de: "Petrochemie-Komplex Feluy", hu: "Feluy-i petrolkémiai komplexum", ro: "Complexul petrochimic Feluy", en: "Feluy Petrochemical Complex"},
@@ -1402,7 +1483,52 @@ imageHint: "Modern office park and logistics warehouses in Nivelles",
     },
   },
   {
-    id: "belgium-la-louviere-canal-lift-economic-v2",
+    id: "belgium-la-louviere-canal-lift-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hippisme",
+                  "text": "Pferdesportanlage am Kanalhebewerk La Louvière.",
+                  "category": "recreational",
+                  "coords": [
+                        4.110095,
+                        50.493096
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hippisme",
+                  "text": "Lovassport-létesítmény a La Louvière-i csatornafelvonónál.",
+                  "category": "recreational",
+                  "coords": [
+                        4.110095,
+                        50.493096
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hippisme",
+                  "text": "Facilitate ecvestră la liftul pentru canale din La Louvière.",
+                  "category": "recreational",
+                  "coords": [
+                        4.110095,
+                        50.493096
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hippisme",
+                  "text": "Equestrian facility at the La Louviere Canal Lift.",
+                  "category": "recreational",
+                  "coords": [
+                        4.110095,
+                        50.493096
+                  ]
+            }
+      ]
+},
     parent: "BE",
     type: "landmark",
     name: { de: "Schiffshebewerk Strépy-Thieu", hu: "Strépy-Thieu hajólift", ro: "Ascensorul pentru nave Strépy-Thieu", en: "Strépy-Thieu Boat Lift"},

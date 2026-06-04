@@ -183,7 +183,52 @@ export const cyprusHistoryV2: POI[] = [
     image: "/poi-images/cyprus-soli-ruins-history-v2.webp",
   },
   {
-    id: "cyprus-vouni-palace-history-v2",
+    id: "cyprus-vouni-palace-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Omega Beach",
+                  "text": "Strand beim Vouni-Palast.",
+                  "category": "recreational",
+                  "coords": [
+                        32.664087,
+                        35.191986
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Omega Beach",
+                  "text": "Strand a Vouni-palotánál.",
+                  "category": "recreational",
+                  "coords": [
+                        32.664087,
+                        35.191986
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Omega Beach",
+                  "text": "Plajă lângă Palatul Vouni.",
+                  "category": "recreational",
+                  "coords": [
+                        32.664087,
+                        35.191986
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Omega Beach",
+                  "text": "Beach near Vouni Palace.",
+                  "category": "recreational",
+                  "coords": [
+                        32.664087,
+                        35.191986
+                  ]
+            }
+      ]
+},
     type: "palace",
     parent: "CY",
     name: { de: "Palast von Vouni", hu: "Vouni palotája", ro: "Palatul din Vouni", en: "Vouni Palace" },
@@ -453,7 +498,52 @@ export const cyprusHistoryV2: POI[] = [
     image: "/poi-images/cyprus-paphos-odeon-history-v2.webp",
   },
   {
-    id: "cyprus-saranta-kolones-history-v2",
+    id: "cyprus-saranta-kolones-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Alykes Beach",
+                  "text": "Strand bei Saranta Kolones.",
+                  "category": "recreational",
+                  "coords": [
+                        32.416996,
+                        34.754775
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Alykes Beach",
+                  "text": "Strand Szaránda Kolónesznél.",
+                  "category": "recreational",
+                  "coords": [
+                        32.416996,
+                        34.754775
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Alykes Beach",
+                  "text": "Plajă lângă Saranta Kolones.",
+                  "category": "recreational",
+                  "coords": [
+                        32.416996,
+                        34.754775
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Alykes Beach",
+                  "text": "Beach near Saranta Kolones.",
+                  "category": "recreational",
+                  "coords": [
+                        32.416996,
+                        34.754775
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "CY",
     name: { de: "Saranta Kolones", hu: "Szaránta Kolónesz", ro: "Saranta Kolones", en: "Saranta Kolones" },
@@ -543,7 +633,88 @@ export const cyprusHistoryV2: POI[] = [
     image: "/poi-images/cyprus-machairas-monastery-history-v2.webp",
   },
     {
-    id: "cyprus-kyrenia-castle-history-v2",
+    id: "cyprus-kyrenia-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bella Marin",
+                  "text": "Bella Marin liegt in der Nähe von Kyrenia.",
+                  "category": "recreational",
+                  "coords": [
+                        33.331216,
+                        35.341196
+                  ]
+            },
+            {
+                  "name": "Bella Marin Beach",
+                  "text": "Bella Marin-Strand bei der Burg Kyrenia.",
+                  "category": "recreational",
+                  "coords": [
+                        33.334569,
+                        35.338185
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bella Marin",
+                  "text": "Bella Marin Kyrenia közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        33.331216,
+                        35.341196
+                  ]
+            },
+            {
+                  "name": "Bella Marin Beach",
+                  "text": "Bella Marin-part a Kyrenia-vár közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        33.334569,
+                        35.338185
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bella Marin",
+                  "text": "Bella Marin este situată lângă Kyrenia.",
+                  "category": "recreational",
+                  "coords": [
+                        33.331216,
+                        35.341196
+                  ]
+            },
+            {
+                  "name": "Bella Marin Beach",
+                  "text": "Plaja Bella Marin lângă castelul Kyrenia.",
+                  "category": "recreational",
+                  "coords": [
+                        33.334569,
+                        35.338185
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bella Marin",
+                  "text": "Bella Marin is located near Kyrenia.",
+                  "category": "recreational",
+                  "coords": [
+                        33.331216,
+                        35.341196
+                  ]
+            },
+            {
+                  "name": "Bella Marin Beach",
+                  "text": "Bella Marin Beach near Kyrenia Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        33.334569,
+                        35.338185
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "CY",
     name: { de: "Burg Kyrenia", hu: "Kyreniai vár", ro: "Castelul din Kyrenia", en: "Kyrenia Castle" },
@@ -588,7 +759,52 @@ export const cyprusHistoryV2: POI[] = [
     image: "/poi-images/cyprus-kyrenia-castle-history-v2.webp",
   },
   {
-    id: "cyprus-salamis-ruins-history-v2",
+    id: "cyprus-salamis-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kocareis Beach",
+                  "text": "Kocareis-Strand bei den Ruinen von Salamis.",
+                  "category": "recreational",
+                  "coords": [
+                        33.899803,
+                        35.203271
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kocareis Beach",
+                  "text": "Kocareis-part a Salamis-romok közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        33.899803,
+                        35.203271
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kocareis Beach",
+                  "text": "Plaja Kocareis lângă ruinele Salamis.",
+                  "category": "recreational",
+                  "coords": [
+                        33.899803,
+                        35.203271
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kocareis Beach",
+                  "text": "Kocareis Beach near the Salamis ruins.",
+                  "category": "recreational",
+                  "coords": [
+                        33.899803,
+                        35.203271
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "CY",
     name: { de: "Ruinen von Salamis", hu: "Salamis romjai", ro: "Ruinele din Salamis", en: "Ruins of Salamis" },

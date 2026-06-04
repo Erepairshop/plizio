@@ -371,7 +371,52 @@ imageHint: "Rumsiskes Open Air Museum traditional wooden houses",
     },
     image: "/poi-images/lithuania-open-air-museum-landmarks-v2.webp",
 },  {
-    id: "lithuania-vilnius-tv-tower-landmarks-v2",
+    id: "lithuania-vilnius-tv-tower-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Buivydiškių paplūdimys",
+                  "text": "Strand Buivydiškės beim Fernsehturm Vilnius.",
+                  "category": "recreational",
+                  "coords": [
+                        25.202395,
+                        54.71302
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Buivydiškių paplūdimys",
+                  "text": "Buivydiškės strand a vilniusi tévétoronynál.",
+                  "category": "recreational",
+                  "coords": [
+                        25.202395,
+                        54.71302
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Buivydiškių paplūdimys",
+                  "text": "Plaja Buivydiškės lângă turnul TV din Vilnius.",
+                  "category": "recreational",
+                  "coords": [
+                        25.202395,
+                        54.71302
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Buivydiškių paplūdimys",
+                  "text": "Buivydiškių beach near Vilnius Tv Tower.",
+                  "category": "recreational",
+                  "coords": [
+                        25.202395,
+                        54.71302
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "tower",
     name: { de: "Fernsehturm Vilnius", hu: "Vilniusi tévétorony", ro: "Turnul TV din Vilnius", en: "Vilnius TV Tower"},
@@ -1010,7 +1055,88 @@ imageHint: "Ciurlionis Art Museum Kaunas exterior building",
     },
     image: "/poi-images/lithuania-ciurlionis-museum-landmarks-v2.webp",
 },  {
-    id: "lithuania-raudondvaris-castle-landmarks-v2",
+    id: "lithuania-raudondvaris-castle-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Senasis Lampėdžių paplūdimys",
+                  "text": "Alter Lampėdžiai-Strand beim Schloss Raudondvaris.",
+                  "category": "recreational",
+                  "coords": [
+                        23.818473,
+                        54.913515
+                  ]
+            },
+            {
+                  "name": "Nemuno nudistų paplūdimys",
+                  "text": "FKK-Badestelle Nemunas, nahe dem Schloss Raudondvaris.",
+                  "category": "recreational",
+                  "coords": [
+                        23.810296,
+                        54.906178
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Senasis Lampėdžių paplūdimys",
+                  "text": "Régi Lampėdžiai strand a Raudondvaris kastélynál.",
+                  "category": "recreational",
+                  "coords": [
+                        23.818473,
+                        54.913515
+                  ]
+            },
+            {
+                  "name": "Nemuno nudistų paplūdimys",
+                  "text": "Nemuno nudista fürdőhely, a Raudondvaris kastély közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        23.810296,
+                        54.906178
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Senasis Lampėdžių paplūdimys",
+                  "text": "Vechea plajă Lampėdžiai lângă castelul Raudondvaris.",
+                  "category": "recreational",
+                  "coords": [
+                        23.818473,
+                        54.913515
+                  ]
+            },
+            {
+                  "name": "Nemuno nudistų paplūdimys",
+                  "text": "Plajă de nudiști Nemuno, situată lângă Castelul Raudondvaris.",
+                  "category": "recreational",
+                  "coords": [
+                        23.810296,
+                        54.906178
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Senasis Lampėdžių paplūdimys",
+                  "text": "Old Lampėdžių beach near Raudondvaris Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        23.818473,
+                        54.913515
+                  ]
+            },
+            {
+                  "name": "Nemuno nudistų paplūdimys",
+                  "text": "Nemuno naturist beach, near Raudondvaris Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        23.810296,
+                        54.906178
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "castle",
     name: { de: "Schloss Raudondvaris", hu: "Raudondvaris kastély", ro: "Castelul Raudondvaris", en: "Raudondvaris Castle"},

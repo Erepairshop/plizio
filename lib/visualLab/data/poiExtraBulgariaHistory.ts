@@ -127,7 +127,52 @@ export const poiExtraBulgariaHistory: POI[] = [
     },
   },
   {
-    id: "cult-nessebar",
+    id: "cult-nessebar", "sights": {
+      "de": [
+            {
+                  "name": "Yuzhen plazh",
+                  "text": "Der Südstrand bei Nessebar am Schwarzen Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        27.716534,
+                        42.654951
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Yuzhen plazh",
+                  "text": "Nessebar déli strandja a Fekete-tenger partján.",
+                  "category": "recreational",
+                  "coords": [
+                        27.716534,
+                        42.654951
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Yuzhen plazh",
+                  "text": "Plaja de sud din Nessebar, la Marea Neagră.",
+                  "category": "recreational",
+                  "coords": [
+                        27.716534,
+                        42.654951
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Yuzhen plazh",
+                  "text": "The south beach near Nessebar on the Black Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        27.716534,
+                        42.654951
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "bg-country",
     coords: [27.7269, 42.6587],

@@ -228,7 +228,196 @@ export const franceNatureV2: POI[] = [
     image: "/poi-images/france-les-aiguilles-d-arves-nature-v2.webp",
   },
   {
-    id: "france-lac-de-sainte-croix-nature-v2",
+    id: "france-lac-de-sainte-croix-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plage de Bauduen",
+                  "text": "Plage de Bauduen ist ein lokaler Strand in der Stadt Bauduen.",
+                  "category": "recreational",
+                  "coords": [
+                        6.176779,
+                        43.732009
+                  ]
+            },
+            {
+                  "name": "Plage des Chaumets",
+                  "text": "Plage des Chaumets ist ein schöner Strand in Bauduen.",
+                  "category": "recreational",
+                  "coords": [
+                        6.172261,
+                        43.741132
+                  ]
+            },
+            {
+                  "name": "Plage de la petite ruine",
+                  "text": "Plage de la petite ruine ist ein Strandziel in Bauduen.",
+                  "category": "recreational",
+                  "coords": [
+                        6.18478,
+                        43.730526
+                  ]
+            },
+            {
+                  "name": "Plage de Sulagran",
+                  "text": "Plage de Sulagran ist ein ruhiger Strand in Bauduen.",
+                  "category": "recreational",
+                  "coords": [
+                        6.161557,
+                        43.73695
+                  ]
+            },
+            {
+                  "name": "Plage naturiste de Sainte Croix",
+                  "text": "Plage naturiste de Sainte Croix ist ein FKK-Strand in Bauduen.",
+                  "category": "recreational",
+                  "coords": [
+                        6.173876,
+                        43.769463
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plage de Bauduen",
+                  "text": "A Plage de Bauduen egy helyi strand Bauduen városában.",
+                  "category": "recreational",
+                  "coords": [
+                        6.176779,
+                        43.732009
+                  ]
+            },
+            {
+                  "name": "Plage des Chaumets",
+                  "text": "A Plage des Chaumets egy gyönyörű strand Bauduen-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        6.172261,
+                        43.741132
+                  ]
+            },
+            {
+                  "name": "Plage de la petite ruine",
+                  "text": "A Plage de la petite ruine egy strand úticél Bauduen-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        6.18478,
+                        43.730526
+                  ]
+            },
+            {
+                  "name": "Plage de Sulagran",
+                  "text": "A Plage de Sulagran egy csendes strand Bauduen-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        6.161557,
+                        43.73695
+                  ]
+            },
+            {
+                  "name": "Plage naturiste de Sainte Croix",
+                  "text": "A Plage naturiste de Sainte Croix egy naturista strand Bauduen-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        6.173876,
+                        43.769463
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plage de Bauduen",
+                  "text": "Plage de Bauduen este o plajă locală din orașul Bauduen.",
+                  "category": "recreational",
+                  "coords": [
+                        6.176779,
+                        43.732009
+                  ]
+            },
+            {
+                  "name": "Plage des Chaumets",
+                  "text": "Plage des Chaumets este o plajă frumoasă situată în Bauduen.",
+                  "category": "recreational",
+                  "coords": [
+                        6.172261,
+                        43.741132
+                  ]
+            },
+            {
+                  "name": "Plage de la petite ruine",
+                  "text": "Plage de la petite ruine este o destinație de plajă din Bauduen.",
+                  "category": "recreational",
+                  "coords": [
+                        6.18478,
+                        43.730526
+                  ]
+            },
+            {
+                  "name": "Plage de Sulagran",
+                  "text": "Plage de Sulagran este o plajă liniștită aflată în Bauduen.",
+                  "category": "recreational",
+                  "coords": [
+                        6.161557,
+                        43.73695
+                  ]
+            },
+            {
+                  "name": "Plage naturiste de Sainte Croix",
+                  "text": "Plage naturiste de Sainte Croix este o plajă de nudiști din Bauduen.",
+                  "category": "recreational",
+                  "coords": [
+                        6.173876,
+                        43.769463
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plage de Bauduen",
+                  "text": "Plage de Bauduen is a local beach in the city of Bauduen.",
+                  "category": "recreational",
+                  "coords": [
+                        6.176779,
+                        43.732009
+                  ]
+            },
+            {
+                  "name": "Plage des Chaumets",
+                  "text": "Plage des Chaumets is a beautiful beach situated in Bauduen.",
+                  "category": "recreational",
+                  "coords": [
+                        6.172261,
+                        43.741132
+                  ]
+            },
+            {
+                  "name": "Plage de la petite ruine",
+                  "text": "Plage de la petite ruine is a beach destination located in Bauduen.",
+                  "category": "recreational",
+                  "coords": [
+                        6.18478,
+                        43.730526
+                  ]
+            },
+            {
+                  "name": "Plage de Sulagran",
+                  "text": "Plage de Sulagran is a quiet beach found in Bauduen.",
+                  "category": "recreational",
+                  "coords": [
+                        6.161557,
+                        43.73695
+                  ]
+            },
+            {
+                  "name": "Plage naturiste de Sainte Croix",
+                  "text": "Plage naturiste de Sainte Croix is a naturist beach in Bauduen.",
+                  "category": "recreational",
+                  "coords": [
+                        6.173876,
+                        43.769463
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "FR",
     name: { de: "Lac de Sainte-Croix", hu: "Lac de Sainte-Croix", ro: "Lac de Sainte-Croix", en: "Lac de Sainte-Croix" , fr: "Lac de Sainte-Croix"},

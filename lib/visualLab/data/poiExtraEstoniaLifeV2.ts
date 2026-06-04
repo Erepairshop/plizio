@@ -273,7 +273,88 @@ export const estoniaLifeV2: POI[] = [
     image: "/poi-images/estonia-noku-forest-life-v2.webp",
   },
   {
-    id: "estonia-viljandi-lake-park-life-v2",
+    id: "estonia-viljandi-lake-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Viljandi rand",
+                  "text": "Viljandi-Strand am Viljandi-See.",
+                  "category": "recreational",
+                  "coords": [
+                        25.607826,
+                        58.360187
+                  ]
+            },
+            {
+                  "name": "Viljandi järve Huntaugu supelrand",
+                  "text": "Huntaugu-Strand am Viljandi-See.",
+                  "category": "recreational",
+                  "coords": [
+                        25.592801,
+                        58.353442
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Viljandi rand",
+                  "text": "Viljandi strand a Viljandi-tónál.",
+                  "category": "recreational",
+                  "coords": [
+                        25.607826,
+                        58.360187
+                  ]
+            },
+            {
+                  "name": "Viljandi järve Huntaugu supelrand",
+                  "text": "Huntaugu strand a Viljandi-tónál.",
+                  "category": "recreational",
+                  "coords": [
+                        25.592801,
+                        58.353442
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Viljandi rand",
+                  "text": "Plaja Viljandi la lacul Viljandi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.607826,
+                        58.360187
+                  ]
+            },
+            {
+                  "name": "Viljandi järve Huntaugu supelrand",
+                  "text": "Plaja Huntaugu la lacul Viljandi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.592801,
+                        58.353442
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Viljandi rand",
+                  "text": "Viljandi beach at Viljandi Lake.",
+                  "category": "recreational",
+                  "coords": [
+                        25.607826,
+                        58.360187
+                  ]
+            },
+            {
+                  "name": "Viljandi järve Huntaugu supelrand",
+                  "text": "Huntaugu beach at Viljandi Lake.",
+                  "category": "recreational",
+                  "coords": [
+                        25.592801,
+                        58.353442
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "EE",
     name: { de: "Viljandi Seeuferpark", hu: "Viljandi tavi park", ro: "Parcul lacustru Viljandi", en: "Viljandi Lake Park" },
@@ -453,7 +534,88 @@ export const estoniaLifeV2: POI[] = [
     image: "/poi-images/estonia-tolkuse-bog-life-v2.webp",
   },
   {
-    id: "estonia-aegviidu-forest-life-v2",
+    id: "estonia-aegviidu-forest-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nikerjärve supelrand",
+                  "text": "Badestrand am Nikerjärv-See im Wald von Aegviidu.",
+                  "category": "recreational",
+                  "coords": [
+                        25.629469,
+                        59.273473
+                  ]
+            },
+            {
+                  "name": "Purgatsi järve supelrand",
+                  "text": "Badestrand am Purgatsi-See bei Aegviidu.",
+                  "category": "recreational",
+                  "coords": [
+                        25.650703,
+                        59.265381
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nikerjärve supelrand",
+                  "text": "Nikerjärv-tavi strand az Aegviidu erdőben.",
+                  "category": "recreational",
+                  "coords": [
+                        25.629469,
+                        59.273473
+                  ]
+            },
+            {
+                  "name": "Purgatsi järve supelrand",
+                  "text": "Strand a Purgatsi-tónál, Aegviidu közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        25.650703,
+                        59.265381
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nikerjärve supelrand",
+                  "text": "Plaja lacului Nikerjärv în pădurea Aegviidu.",
+                  "category": "recreational",
+                  "coords": [
+                        25.629469,
+                        59.273473
+                  ]
+            },
+            {
+                  "name": "Purgatsi järve supelrand",
+                  "text": "Plajă la lacul Purgatsi, lângă Aegviidu.",
+                  "category": "recreational",
+                  "coords": [
+                        25.650703,
+                        59.265381
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nikerjärve supelrand",
+                  "text": "Nikerjärv lake beach in Aegviidu forest.",
+                  "category": "recreational",
+                  "coords": [
+                        25.629469,
+                        59.273473
+                  ]
+            },
+            {
+                  "name": "Purgatsi järve supelrand",
+                  "text": "Beach at Purgatsi Lake near Aegviidu.",
+                  "category": "recreational",
+                  "coords": [
+                        25.650703,
+                        59.265381
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "EE",
     name: { de: "Aegviidu Waldgebiet", hu: "Aegviidu erdőterület", ro: "Zona forestieră Aegviidu", en: "Aegviidu Forest Area" },
@@ -543,7 +705,52 @@ export const estoniaLifeV2: POI[] = [
     image: "/poi-images/estonia-viidumae-life-v2.webp",
   },
   {
-    id: "estonia-puhtu-laelatu-life-v2",
+    id: "estonia-puhtu-laelatu-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Virtsu Vanaluubi supelrand",
+                  "text": "Badestrand am Vanaluubi bei Puhtu-Laelatu.",
+                  "category": "recreational",
+                  "coords": [
+                        23.552021,
+                        58.570187
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Virtsu Vanaluubi supelrand",
+                  "text": "Strand a Vanaluubinál, Puhtu-Laelatu közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        23.552021,
+                        58.570187
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Virtsu Vanaluubi supelrand",
+                  "text": "Plajă la Vanaluubi, lângă Puhtu-Laelatu.",
+                  "category": "recreational",
+                  "coords": [
+                        23.552021,
+                        58.570187
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Virtsu Vanaluubi supelrand",
+                  "text": "Beach at Vanaluubi near Puhtu-Laelatu.",
+                  "category": "recreational",
+                  "coords": [
+                        23.552021,
+                        58.570187
+                  ]
+            }
+      ]
+},
     type: "wildlife",
     parent: "EE",
     name: { de: "Puhtu-Laelatu Naturschutzgebiet", hu: "Puhtu-Laelatu Természetvédelmi Terület", ro: "Rezervația Naturală Puhtu-Laelatu", en: "Puhtu-Laelatu Nature Reserve" },
@@ -588,7 +795,88 @@ export const estoniaLifeV2: POI[] = [
     image: "/poi-images/estonia-puhtu-laelatu-life-v2.webp",
   },
   {
-    id: "estonia-otsa-park-life-v2",
+    id: "estonia-otsa-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Järlepa supelrand",
+                  "text": "Badestrand am Järlepa-See beim Otsa-Park.",
+                  "category": "recreational",
+                  "coords": [
+                        24.932761,
+                        59.141767
+                  ]
+            },
+            {
+                  "name": "Pirgu supelrand",
+                  "text": "Strand im Otsa-Park.",
+                  "category": "recreational",
+                  "coords": [
+                        24.820345,
+                        59.111073
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Järlepa supelrand",
+                  "text": "Järlepa-tavi strand az Otsa parknál.",
+                  "category": "recreational",
+                  "coords": [
+                        24.932761,
+                        59.141767
+                  ]
+            },
+            {
+                  "name": "Pirgu supelrand",
+                  "text": "Strand az Otsa Parkban.",
+                  "category": "recreational",
+                  "coords": [
+                        24.820345,
+                        59.111073
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Järlepa supelrand",
+                  "text": "Plaja lacului Järlepa lângă parcul Otsa.",
+                  "category": "recreational",
+                  "coords": [
+                        24.932761,
+                        59.141767
+                  ]
+            },
+            {
+                  "name": "Pirgu supelrand",
+                  "text": "Plajă în parcul Otsa.",
+                  "category": "recreational",
+                  "coords": [
+                        24.820345,
+                        59.111073
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Järlepa supelrand",
+                  "text": "Järlepa lake beach near Otsa Park.",
+                  "category": "recreational",
+                  "coords": [
+                        24.932761,
+                        59.141767
+                  ]
+            },
+            {
+                  "name": "Pirgu supelrand",
+                  "text": "Beach located in Otsa Park.",
+                  "category": "recreational",
+                  "coords": [
+                        24.820345,
+                        59.111073
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "EE",
     name: { de: "Otsa Landschaftspark", hu: "Otsa tájpark", ro: "Parcul peisagistic Otsa", en: "Otsa Landscape Park" },
@@ -633,7 +921,52 @@ export const estoniaLifeV2: POI[] = [
     image: "/poi-images/estonia-otsa-park-life-v2.webp",
   },
   {
-    id: "estonia-tehumardi-forest-life-v2",
+    id: "estonia-tehumardi-forest-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mändjala rand",
+                  "text": "Mändjala-Strand beim Tehumardi-Wald.",
+                  "category": "recreational",
+                  "coords": [
+                        22.324026,
+                        58.211536
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mändjala rand",
+                  "text": "Mändjala strand a Tehumardi erdőnél.",
+                  "category": "recreational",
+                  "coords": [
+                        22.324026,
+                        58.211536
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mändjala rand",
+                  "text": "Plaja Mändjala lângă pădurea Tehumardi.",
+                  "category": "recreational",
+                  "coords": [
+                        22.324026,
+                        58.211536
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mändjala rand",
+                  "text": "Mändjala beach near Tehumardi Forest.",
+                  "category": "recreational",
+                  "coords": [
+                        22.324026,
+                        58.211536
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "EE",
     name: { de: "Tehumardi Waldgebiet", hu: "Tehumardi erdőterület", ro: "Zona forestieră Tehumardi", en: "Tehumardi Forest Area" },
@@ -678,7 +1011,160 @@ export const estoniaLifeV2: POI[] = [
     image: "/poi-images/estonia-tehumardi-forest-life-v2.webp",
   },
   {
-    id: "estonia-vaike-viik-park-life-v2",
+    id: "estonia-vaike-viik-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Paralepa supelrand",
+                  "text": "Paralepa-Badestrand beim Väike-Viik-Park.",
+                  "category": "recreational",
+                  "coords": [
+                        23.516113,
+                        58.94287
+                  ]
+            },
+            {
+                  "name": "Vasikaholmi supelrand",
+                  "text": "Vasikaholmi-Badestrand beim Park Väike-Viik.",
+                  "category": "recreational",
+                  "coords": [
+                        23.52016,
+                        58.953732
+                  ]
+            },
+            {
+                  "name": "Väikese viigi supelrand",
+                  "text": "Strand am Väike Viik.",
+                  "category": "recreational",
+                  "coords": [
+                        23.52952,
+                        58.949477
+                  ]
+            },
+            {
+                  "name": "Pullapää supelrand",
+                  "text": "Strand in Pullapää.",
+                  "category": "recreational",
+                  "coords": [
+                        23.452745,
+                        58.944611
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Paralepa supelrand",
+                  "text": "Paralepa strand a Väike Viik parknál.",
+                  "category": "recreational",
+                  "coords": [
+                        23.516113,
+                        58.94287
+                  ]
+            },
+            {
+                  "name": "Vasikaholmi supelrand",
+                  "text": "Vasikaholmi strand a Väike Viik parknál.",
+                  "category": "recreational",
+                  "coords": [
+                        23.52016,
+                        58.953732
+                  ]
+            },
+            {
+                  "name": "Väikese viigi supelrand",
+                  "text": "Strand a Väike Viiknél.",
+                  "category": "recreational",
+                  "coords": [
+                        23.52952,
+                        58.949477
+                  ]
+            },
+            {
+                  "name": "Pullapää supelrand",
+                  "text": "Strand Pullapääben.",
+                  "category": "recreational",
+                  "coords": [
+                        23.452745,
+                        58.944611
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Paralepa supelrand",
+                  "text": "Plaja Paralepa lângă parcul Väike Viik.",
+                  "category": "recreational",
+                  "coords": [
+                        23.516113,
+                        58.94287
+                  ]
+            },
+            {
+                  "name": "Vasikaholmi supelrand",
+                  "text": "Plaja Vasikaholmi lângă parcul Väike Viik.",
+                  "category": "recreational",
+                  "coords": [
+                        23.52016,
+                        58.953732
+                  ]
+            },
+            {
+                  "name": "Väikese viigi supelrand",
+                  "text": "Plajă la Väike Viik.",
+                  "category": "recreational",
+                  "coords": [
+                        23.52952,
+                        58.949477
+                  ]
+            },
+            {
+                  "name": "Pullapää supelrand",
+                  "text": "Plajă în Pullapää.",
+                  "category": "recreational",
+                  "coords": [
+                        23.452745,
+                        58.944611
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Paralepa supelrand",
+                  "text": "Paralepa beach near Väike Viik Park.",
+                  "category": "recreational",
+                  "coords": [
+                        23.516113,
+                        58.94287
+                  ]
+            },
+            {
+                  "name": "Vasikaholmi supelrand",
+                  "text": "Vasikaholmi beach near Väike Viik Park.",
+                  "category": "recreational",
+                  "coords": [
+                        23.52016,
+                        58.953732
+                  ]
+            },
+            {
+                  "name": "Väikese viigi supelrand",
+                  "text": "Beach at Väike Viik.",
+                  "category": "recreational",
+                  "coords": [
+                        23.52952,
+                        58.949477
+                  ]
+            },
+            {
+                  "name": "Pullapää supelrand",
+                  "text": "Beach in Pullapää.",
+                  "category": "recreational",
+                  "coords": [
+                        23.452745,
+                        58.944611
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "EE",
     name: { de: "Väike Viik Park", hu: "Väike Viik park", ro: "Parcul Väike Viik", en: "Väike Viik Park" },
@@ -723,7 +1209,52 @@ export const estoniaLifeV2: POI[] = [
     image: "/poi-images/estonia-vaike-viik-park-life-v2.webp",
   },
   {
-    id: "estonia-paunkula-park-life-v2",
+    id: "estonia-paunkula-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Alavere supelrand",
+                  "text": "Strand bei Alavere.",
+                  "category": "recreational",
+                  "coords": [
+                        25.331162,
+                        59.247679
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Alavere supelrand",
+                  "text": "Strand Alaverénél.",
+                  "category": "recreational",
+                  "coords": [
+                        25.331162,
+                        59.247679
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Alavere supelrand",
+                  "text": "Plajă lângă Alavere.",
+                  "category": "recreational",
+                  "coords": [
+                        25.331162,
+                        59.247679
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Alavere supelrand",
+                  "text": "Beach near Alavere.",
+                  "category": "recreational",
+                  "coords": [
+                        25.331162,
+                        59.247679
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "EE",
     name: { de: "Paunkula Erholungspark", hu: "Paunkula pihenőpark", ro: "Parcul de recreere Paunkula", en: "Paunkula Recreation Park" },
@@ -948,7 +1479,88 @@ export const estoniaLifeV2: POI[] = [
     image: "/poi-images/estonia-kaldase-park-life-v2.webp",
   },
   {
-    id: "estonia-salme-park-life-v2",
+    id: "estonia-salme-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Läätsa supelrand",
+                  "text": "Badestrand Läätsa im Salme Park.",
+                  "category": "recreational",
+                  "coords": [
+                        22.254945,
+                        58.145738
+                  ]
+            },
+            {
+                  "name": "Pagila supelrand",
+                  "text": "Badestrand Pagila im Salme Park.",
+                  "category": "recreational",
+                  "coords": [
+                        22.260173,
+                        58.137802
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Läätsa supelrand",
+                  "text": "Läätsa strand a Salme parkban.",
+                  "category": "recreational",
+                  "coords": [
+                        22.254945,
+                        58.145738
+                  ]
+            },
+            {
+                  "name": "Pagila supelrand",
+                  "text": "Pagila strand a Salme parkban.",
+                  "category": "recreational",
+                  "coords": [
+                        22.260173,
+                        58.137802
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Läätsa supelrand",
+                  "text": "Plaja Läätsa în parcul Salme.",
+                  "category": "recreational",
+                  "coords": [
+                        22.254945,
+                        58.145738
+                  ]
+            },
+            {
+                  "name": "Pagila supelrand",
+                  "text": "Plaja Pagila în parcul Salme.",
+                  "category": "recreational",
+                  "coords": [
+                        22.260173,
+                        58.137802
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Läätsa supelrand",
+                  "text": "Läätsa beach in Salme Park.",
+                  "category": "recreational",
+                  "coords": [
+                        22.254945,
+                        58.145738
+                  ]
+            },
+            {
+                  "name": "Pagila supelrand",
+                  "text": "Pagila beach in Salme Park.",
+                  "category": "recreational",
+                  "coords": [
+                        22.260173,
+                        58.137802
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "EE",
     name: { de: "Salme Park", hu: "Salme park", ro: "Parcul Salme", en: "Salme Park" },

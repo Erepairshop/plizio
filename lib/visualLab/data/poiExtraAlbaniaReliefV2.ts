@@ -417,7 +417,52 @@ imageHint: "Munella mountain northern Albania",
     },
     image: "/poi-images/albania-mali-i-munelles-relief-v2.webp",
 },  {
-    id: "albania-dumre-plateau-relief-v2",
+    id: "albania-dumre-plateau-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plazhi në Liqen \"LIO\"",
+                  "text": "Strand am See auf dem Dumre-Plateau.",
+                  "category": "recreational",
+                  "coords": [
+                        19.867287,
+                        40.944103
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plazhi në Liqen \"LIO\"",
+                  "text": "Tavi strand a Dumre-fennsíkon.",
+                  "category": "recreational",
+                  "coords": [
+                        19.867287,
+                        40.944103
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plazhi në Liqen \"LIO\"",
+                  "text": "Plajă pe lac pe platoul Dumre.",
+                  "category": "recreational",
+                  "coords": [
+                        19.867287,
+                        40.944103
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plazhi në Liqen \"LIO\"",
+                  "text": "Beach on the lake on the Dumre Plateau.",
+                  "category": "recreational",
+                  "coords": [
+                        19.867287,
+                        40.944103
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "landmark",
     name: { de: "Dumre-Plateau", hu: "Dumre-fennsík", ro: "Podișul Dumre", en: "Dumre Plateau"},
@@ -1107,7 +1152,52 @@ imageHint: "Lunxheria mountain Albania landscape",
     },
     image: "/poi-images/albania-mali-i-lunxherise-relief-v2.webp",
 },  {
-    id: "albania-mali-i-cukalit-relief-v2",
+    id: "albania-mali-i-cukalit-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plazhi i Shalës",
+                  "text": "Plazhi i Shalës ist ein Uferbereich bei Mali i Cukalit.",
+                  "category": "recreational",
+                  "coords": [
+                        19.807947,
+                        42.198295
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plazhi i Shalës",
+                  "text": "Plazhi i Shalës egy partszakasz Mali i Cukalit közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        19.807947,
+                        42.198295
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plazhi i Shalës",
+                  "text": "Plazhi i Shalës este o zonă de țărm lângă Mali i Cukalit.",
+                  "category": "recreational",
+                  "coords": [
+                        19.807947,
+                        42.198295
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plazhi i Shalës",
+                  "text": "Plazhi i Shalës is a waterfront area near Mali i Cukalit.",
+                  "category": "recreational",
+                  "coords": [
+                        19.807947,
+                        42.198295
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "mountain",
     name: { de: "Cukali-Massiv", hu: "Cukali-masszívum", ro: "Masivul Cukali", en: "Cukali Mountain"},

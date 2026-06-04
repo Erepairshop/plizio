@@ -3,7 +3,52 @@ import { POI } from './poi';
 export const denmarkCitiesV2: POI[] = [
 
   {
-    id: "denmark-herning-cities-v2",
+    id: "denmark-herning-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Holtbjerg Sø Badestrand",
+                  "text": "Holtbjerg Sø Badestrand liegt bei Herning.",
+                  "category": "recreational",
+                  "coords": [
+                        9.001292,
+                        56.127324
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Holtbjerg Sø Badestrand",
+                  "text": "A Holtbjerg Sø Badestrand Herning közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        9.001292,
+                        56.127324
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Holtbjerg Sø Badestrand",
+                  "text": "Holtbjerg Sø Badestrand este situată lângă Herning.",
+                  "category": "recreational",
+                  "coords": [
+                        9.001292,
+                        56.127324
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Holtbjerg Sø Badestrand",
+                  "text": "Holtbjerg Sø Badestrand is located near Herning.",
+                  "category": "recreational",
+                  "coords": [
+                        9.001292,
+                        56.127324
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DK",
     name: { de: "Herning", hu: "Herning", ro: "Herning", en: "Herning" },
@@ -453,7 +498,124 @@ export const denmarkCitiesV2: POI[] = [
     image: "/poi-images/denmark-svendborg-cities-v2.webp",
   },
   {
-    id: "denmark-soenderborg-cities-v2",
+    id: "denmark-soenderborg-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Den Sorte Strand",
+                  "text": "Ein Strandabschnitt nahe Sonderburg.",
+                  "category": "recreational",
+                  "coords": [
+                        9.798899,
+                        54.897438
+                  ]
+            },
+            {
+                  "name": "Den gule strand",
+                  "text": "Ein Strandabschnitt nahe Sonderburg.",
+                  "category": "recreational",
+                  "coords": [
+                        9.786595,
+                        54.904691
+                  ]
+            },
+            {
+                  "name": "Dybbøl Strand",
+                  "text": "Ein Strand nahe Sonderburg.",
+                  "category": "recreational",
+                  "coords": [
+                        9.779291,
+                        54.904397
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Den Sorte Strand",
+                  "text": "Strandpart Sønderborg közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        9.798899,
+                        54.897438
+                  ]
+            },
+            {
+                  "name": "Den gule strand",
+                  "text": "Strandpart Sønderborg közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        9.786595,
+                        54.904691
+                  ]
+            },
+            {
+                  "name": "Dybbøl Strand",
+                  "text": "Strand Sønderborg közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        9.779291,
+                        54.904397
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Den Sorte Strand",
+                  "text": "O secțiune de plajă lângă Sønderborg.",
+                  "category": "recreational",
+                  "coords": [
+                        9.798899,
+                        54.897438
+                  ]
+            },
+            {
+                  "name": "Den gule strand",
+                  "text": "O secțiune de plajă lângă Sønderborg.",
+                  "category": "recreational",
+                  "coords": [
+                        9.786595,
+                        54.904691
+                  ]
+            },
+            {
+                  "name": "Dybbøl Strand",
+                  "text": "O plajă lângă Sønderborg.",
+                  "category": "recreational",
+                  "coords": [
+                        9.779291,
+                        54.904397
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Den Sorte Strand",
+                  "text": "A stretch of beach near Sønderborg.",
+                  "category": "recreational",
+                  "coords": [
+                        9.798899,
+                        54.897438
+                  ]
+            },
+            {
+                  "name": "Den gule strand",
+                  "text": "A stretch of beach near Sønderborg.",
+                  "category": "recreational",
+                  "coords": [
+                        9.786595,
+                        54.904691
+                  ]
+            },
+            {
+                  "name": "Dybbøl Strand",
+                  "text": "A beach near Sønderborg.",
+                  "category": "recreational",
+                  "coords": [
+                        9.779291,
+                        54.904397
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DK",
     name: { de: "Sønderborg", hu: "Sønderborg", ro: "Sønderborg", en: "Soenderborg" },
@@ -498,7 +660,52 @@ export const denmarkCitiesV2: POI[] = [
     image: "/poi-images/denmark-soenderborg-cities-v2.webp",
   },
   {
-    id: "denmark-vejle-cities-v2",
+    id: "denmark-vejle-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Albuen Strand",
+                  "text": "Ein Strand nahe der Stadt Vejle.",
+                  "category": "recreational",
+                  "coords": [
+                        9.580554,
+                        55.704649
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Albuen Strand",
+                  "text": "Strand Vejle városa közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        9.580554,
+                        55.704649
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Albuen Strand",
+                  "text": "O plajă lângă orașul Vejle.",
+                  "category": "recreational",
+                  "coords": [
+                        9.580554,
+                        55.704649
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Albuen Strand",
+                  "text": "A beach near the town of Vejle.",
+                  "category": "recreational",
+                  "coords": [
+                        9.580554,
+                        55.704649
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DK",
     name: { de: "Vejle", hu: "Vejle", ro: "Vejle", en: "Vejle" },
@@ -723,7 +930,52 @@ export const denmarkCitiesV2: POI[] = [
     image: "/poi-images/denmark-hjoerring-cities-v2.webp",
   },
   {
-    id: "denmark-frederikssund-cities-v2",
+    id: "denmark-frederikssund-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Marbæk Strandpark",
+                  "text": "Marbæk Strandpark liegt in Frederikssund und bietet Zugang zum Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        12.065576,
+                        55.819548
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Marbæk Strandpark",
+                  "text": "A Marbæk Strandpark Frederikssundban található, és vízparti hozzáférést biztosít.",
+                  "category": "recreational",
+                  "coords": [
+                        12.065576,
+                        55.819548
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Marbæk Strandpark",
+                  "text": "Parcul de plajă Marbæk este situat în Frederikssund și oferă acces la apă.",
+                  "category": "recreational",
+                  "coords": [
+                        12.065576,
+                        55.819548
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Marbæk Strandpark",
+                  "text": "Marbæk Strandpark is located in Frederikssund and provides water access.",
+                  "category": "recreational",
+                  "coords": [
+                        12.065576,
+                        55.819548
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DK",
     name: { de: "Frederikssund", hu: "Frederikssund", ro: "Frederikssund", en: "Frederikssund" },
@@ -993,7 +1245,52 @@ export const denmarkCitiesV2: POI[] = [
     image: "/poi-images/denmark-odder-cities-v2.webp",
   },
   {
-    id: "denmark-aabenraa-cities-v2",
+    id: "denmark-aabenraa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Avbæk Strand",
+                  "text": "Strand in der Nähe von Aabenraa.",
+                  "category": "recreational",
+                  "coords": [
+                        9.464674,
+                        55.047811
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Avbæk Strand",
+                  "text": "Strand Aabenraa közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        9.464674,
+                        55.047811
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Avbæk Strand",
+                  "text": "Plajă în apropierea orașului Aabenraa.",
+                  "category": "recreational",
+                  "coords": [
+                        9.464674,
+                        55.047811
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Avbæk Strand",
+                  "text": "Beach near Aabenraa.",
+                  "category": "recreational",
+                  "coords": [
+                        9.464674,
+                        55.047811
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DK",
     name: { de: "Aabenraa", hu: "Aabenraa", ro: "Aabenraa", en: "Aabenraa" },
@@ -1173,7 +1470,88 @@ export const denmarkCitiesV2: POI[] = [
     image: "/poi-images/denmark-greve-cities-v2.webp",
   },
   {
-    id: "denmark-ishøj-cities-v2",
+    id: "denmark-ishøj-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hundige Strand - Ishøj Strand",
+                  "text": "Hundige Strand ist ein Badestrand bei Ishøj.",
+                  "category": "recreational",
+                  "coords": [
+                        12.384864,
+                        55.602346
+                  ]
+            },
+            {
+                  "name": "Hundige Hundestrand",
+                  "text": "Hundige Hundestrand ist ein Strandabschnitt bei Ishøj.",
+                  "category": "recreational",
+                  "coords": [
+                        12.357027,
+                        55.592145
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hundige Strand - Ishøj Strand",
+                  "text": "A Hundige Strand egy strand Ishøj közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        12.384864,
+                        55.602346
+                  ]
+            },
+            {
+                  "name": "Hundige Hundestrand",
+                  "text": "Hundige Hundestrand egy strandszakasz Ishøj közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        12.357027,
+                        55.592145
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hundige Strand - Ishøj Strand",
+                  "text": "Hundige Strand este o plajă lângă Ishøj.",
+                  "category": "recreational",
+                  "coords": [
+                        12.384864,
+                        55.602346
+                  ]
+            },
+            {
+                  "name": "Hundige Hundestrand",
+                  "text": "Hundige Hundestrand este o secțiune de plajă lângă Ishøj.",
+                  "category": "recreational",
+                  "coords": [
+                        12.357027,
+                        55.592145
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hundige Strand - Ishøj Strand",
+                  "text": "Hundige Strand is a beach near Ishøj.",
+                  "category": "recreational",
+                  "coords": [
+                        12.384864,
+                        55.602346
+                  ]
+            },
+            {
+                  "name": "Hundige Hundestrand",
+                  "text": "Hundige Hundestrand is a beach section near Ishøj.",
+                  "category": "recreational",
+                  "coords": [
+                        12.357027,
+                        55.592145
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DK",
     name: { de: "Ishøj", hu: "Ishøj", ro: "Ishøj", en: "Ishoj" },
@@ -1353,7 +1731,52 @@ export const denmarkCitiesV2: POI[] = [
     image: "/poi-images/denmark-gladsaxe-cities-v2.webp",
   },
   {
-    id: "denmark-brøndby-cities-v2",
+    id: "denmark-brøndby-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vallensbæk Strand - Brøndby Strand",
+                  "text": "Der Strandbereich Vallensbæk-Brøndby liegt bei Brøndby.",
+                  "category": "recreational",
+                  "coords": [
+                        12.419404,
+                        55.61237
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vallensbæk Strand - Brøndby Strand",
+                  "text": "A Vallensbæk-Brøndby strandterület Brøndby közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        12.419404,
+                        55.61237
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vallensbæk Strand - Brøndby Strand",
+                  "text": "Zona de plajă Vallensbæk-Brøndby se află lângă Brøndby.",
+                  "category": "recreational",
+                  "coords": [
+                        12.419404,
+                        55.61237
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vallensbæk Strand - Brøndby Strand",
+                  "text": "The Vallensbæk-Brøndby beach area is located near Brøndby.",
+                  "category": "recreational",
+                  "coords": [
+                        12.419404,
+                        55.61237
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DK",
     name: { de: "Brøndby", hu: "Brøndby", ro: "Brøndby", en: "Brondby" },
@@ -1623,7 +2046,88 @@ export const denmarkCitiesV2: POI[] = [
     image: "/poi-images/denmark-taastrup-cities-v2.webp",
   },
   {
-    id: "denmark-farum-cities-v2",
+    id: "denmark-farum-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Furesøbad",
+                  "text": "Furesøbad ist ein Strand am Furesø-See bei Farum.",
+                  "category": "recreational",
+                  "coords": [
+                        12.385678,
+                        55.803418
+                  ]
+            },
+            {
+                  "name": "Doktorens Bugt",
+                  "text": "Doktorens Bugt ist ein naturnaher Strandabschnitt bei Farum.",
+                  "category": "recreational",
+                  "coords": [
+                        12.359117,
+                        55.805562
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Furesøbad",
+                  "text": "A Furesøbad egy strand a Furesø tónál, Farum közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        12.385678,
+                        55.803418
+                  ]
+            },
+            {
+                  "name": "Doktorens Bugt",
+                  "text": "A Doktorens Bugt egy természetközeli partszakasz Farum közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        12.359117,
+                        55.805562
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Furesøbad",
+                  "text": "Furesøbad este o plajă pe lacul Furesø lângă Farum.",
+                  "category": "recreational",
+                  "coords": [
+                        12.385678,
+                        55.803418
+                  ]
+            },
+            {
+                  "name": "Doktorens Bugt",
+                  "text": "Doktorens Bugt este o secțiune de plajă aproape de natură de lângă Farum.",
+                  "category": "recreational",
+                  "coords": [
+                        12.359117,
+                        55.805562
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Furesøbad",
+                  "text": "Furesøbad is a beach on the Furesø lake near Farum.",
+                  "category": "recreational",
+                  "coords": [
+                        12.385678,
+                        55.803418
+                  ]
+            },
+            {
+                  "name": "Doktorens Bugt",
+                  "text": "Doktorens Bugt is a natural beach area near Farum.",
+                  "category": "recreational",
+                  "coords": [
+                        12.359117,
+                        55.805562
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DK",
     name: { de: "Farum", hu: "Farum", ro: "Farum", en: "Farum" },
@@ -1893,7 +2397,52 @@ export const denmarkCitiesV2: POI[] = [
     image: "/poi-images/denmark-holte-cities-v2.webp",
   },
   {
-    id: "denmark-birkerød-cities-v2",
+    id: "denmark-birkerød-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sjælsø strand ved Eskemose skov",
+                  "text": "Dieser Strand liegt am Sjælsø in der Nähe des Eskemose-Waldes bei Birkerød.",
+                  "category": "recreational",
+                  "coords": [
+                        12.443083,
+                        55.859953
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sjælsø strand ved Eskemose skov",
+                  "text": "Ez a strand a Sjælsø-tónál, az Eskemose erdő közelében fekszik Birkerød mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        12.443083,
+                        55.859953
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sjælsø strand ved Eskemose skov",
+                  "text": "Această plajă este situată la Sjælsø, lângă pădurea Eskemose de lângă Birkerød.",
+                  "category": "recreational",
+                  "coords": [
+                        12.443083,
+                        55.859953
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sjælsø strand ved Eskemose skov",
+                  "text": "This beach is located at Sjælsø near the Eskemose forest by Birkerød.",
+                  "category": "recreational",
+                  "coords": [
+                        12.443083,
+                        55.859953
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DK",
     name: { de: "Birkerød", hu: "Birkerød", ro: "Birkerød", en: "Birkerod" },
@@ -2028,7 +2577,88 @@ export const denmarkCitiesV2: POI[] = [
     image: "/poi-images/denmark-fredensborg-cities-v2.webp",
   },
   {
-    id: "denmark-humlebæk-cities-v2",
+    id: "denmark-humlebæk-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Espergærde Strand",
+                  "text": "Ein Strand nahe dem Ort Humlebæk.",
+                  "category": "recreational",
+                  "coords": [
+                        12.561308,
+                        55.991388
+                  ]
+            },
+            {
+                  "name": "Skolestranden",
+                  "text": "Skolestranden in Humlebæk ist ein lokaler Küstenabschnitt.",
+                  "category": "recreational",
+                  "coords": [
+                        12.557861,
+                        55.988559
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Espergærde Strand",
+                  "text": "Strand Humlebæk városa közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        12.561308,
+                        55.991388
+                  ]
+            },
+            {
+                  "name": "Skolestranden",
+                  "text": "A humlebæki Skolestranden egy helyi tengerparti szakasz.",
+                  "category": "recreational",
+                  "coords": [
+                        12.557861,
+                        55.988559
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Espergærde Strand",
+                  "text": "O plajă lângă localitatea Humlebæk.",
+                  "category": "recreational",
+                  "coords": [
+                        12.561308,
+                        55.991388
+                  ]
+            },
+            {
+                  "name": "Skolestranden",
+                  "text": "Skolestranden din Humlebæk este o secțiune locală de coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        12.557861,
+                        55.988559
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Espergærde Strand",
+                  "text": "A beach near the town of Humlebæk.",
+                  "category": "recreational",
+                  "coords": [
+                        12.561308,
+                        55.991388
+                  ]
+            },
+            {
+                  "name": "Skolestranden",
+                  "text": "Skolestranden in Humlebæk is a local coastal area.",
+                  "category": "recreational",
+                  "coords": [
+                        12.557861,
+                        55.988559
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DK",
     name: { de: "Humlebæk", hu: "Humlebæk", ro: "Humlebæk", en: "Humlebaek" },
@@ -2073,7 +2703,88 @@ export const denmarkCitiesV2: POI[] = [
     image: "/poi-images/denmark-humlebæk-cities-v2.webp",
   },
   {
-    id: "denmark-nivå-cities-v2",
+    id: "denmark-nivå-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Peder Mads Strand",
+                  "text": "Ein Strandabschnitt nahe Nivå.",
+                  "category": "recreational",
+                  "coords": [
+                        12.531877,
+                        55.949941
+                  ]
+            },
+            {
+                  "name": "Nivå Strandpark",
+                  "text": "Nivå Strandpark ist ein Erholungsgebiet am Wasser in Nivå.",
+                  "category": "recreational",
+                  "coords": [
+                        12.527296,
+                        55.936767
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Peder Mads Strand",
+                  "text": "Strandpart Nivå közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        12.531877,
+                        55.949941
+                  ]
+            },
+            {
+                  "name": "Nivå Strandpark",
+                  "text": "Nivå Strandpark egy vízparti üdülőterület Nivåban.",
+                  "category": "recreational",
+                  "coords": [
+                        12.527296,
+                        55.936767
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Peder Mads Strand",
+                  "text": "O secțiune de plajă lângă Nivå.",
+                  "category": "recreational",
+                  "coords": [
+                        12.531877,
+                        55.949941
+                  ]
+            },
+            {
+                  "name": "Nivå Strandpark",
+                  "text": "Nivå Strandpark este o zonă de agrement pe malul apei în Nivå.",
+                  "category": "recreational",
+                  "coords": [
+                        12.527296,
+                        55.936767
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Peder Mads Strand",
+                  "text": "A stretch of beach near Nivå.",
+                  "category": "recreational",
+                  "coords": [
+                        12.531877,
+                        55.949941
+                  ]
+            },
+            {
+                  "name": "Nivå Strandpark",
+                  "text": "Nivå Strandpark is a waterfront recreational area in Nivå.",
+                  "category": "recreational",
+                  "coords": [
+                        12.527296,
+                        55.936767
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DK",
     name: { de: "Nivå", hu: "Nivå", ro: "Nivå", en: "Niva" },
@@ -2208,7 +2919,160 @@ export const denmarkCitiesV2: POI[] = [
     image: "/poi-images/denmark-hørsholm-cities-v2.webp",
   },
   {
-    id: "denmark-vedbæk-cities-v2",
+    id: "denmark-vedbæk-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vedbæk Sydstrand",
+                  "text": "Vedbæk Sydstrand ist ein Strandbereich in der Nähe von Vedbæk.",
+                  "category": "recreational",
+                  "coords": [
+                        12.572039,
+                        55.847248
+                  ]
+            },
+            {
+                  "name": "Vedbæk Nordstrand",
+                  "text": "Ein Strandabschnitt nahe dem Ort Vedbæk.",
+                  "category": "recreational",
+                  "coords": [
+                        12.570016,
+                        55.851342
+                  ]
+            },
+            {
+                  "name": "Skodsborg Strand - Struckmannparken",
+                  "text": "Ein Strandabschnitt nahe Vedbæk.",
+                  "category": "recreational",
+                  "coords": [
+                        12.57457,
+                        55.831127
+                  ]
+            },
+            {
+                  "name": "Frydenlund Strand",
+                  "text": "Der Frydenlund Strand bei Vedbæk bietet eine entspannte Küstenlage.",
+                  "category": "recreational",
+                  "coords": [
+                        12.574372,
+                        55.839004
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vedbæk Sydstrand",
+                  "text": "A Vedbæk Sydstrand egy tengerparti terület Vedbæk közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        12.572039,
+                        55.847248
+                  ]
+            },
+            {
+                  "name": "Vedbæk Nordstrand",
+                  "text": "Strandpart Vedbæk közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        12.570016,
+                        55.851342
+                  ]
+            },
+            {
+                  "name": "Skodsborg Strand - Struckmannparken",
+                  "text": "Strandpart Vedbæk közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        12.57457,
+                        55.831127
+                  ]
+            },
+            {
+                  "name": "Frydenlund Strand",
+                  "text": "A Vedbæk melletti Frydenlund Strand pihentető tengerparti környezetet kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        12.574372,
+                        55.839004
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vedbæk Sydstrand",
+                  "text": "Vedbæk Sydstrand este o zonă de plajă lângă Vedbæk.",
+                  "category": "recreational",
+                  "coords": [
+                        12.572039,
+                        55.847248
+                  ]
+            },
+            {
+                  "name": "Vedbæk Nordstrand",
+                  "text": "O secțiune de plajă lângă localitatea Vedbæk.",
+                  "category": "recreational",
+                  "coords": [
+                        12.570016,
+                        55.851342
+                  ]
+            },
+            {
+                  "name": "Skodsborg Strand - Struckmannparken",
+                  "text": "O secțiune de plajă lângă Vedbæk.",
+                  "category": "recreational",
+                  "coords": [
+                        12.57457,
+                        55.831127
+                  ]
+            },
+            {
+                  "name": "Frydenlund Strand",
+                  "text": "Plaja Frydenlund de lângă Vedbæk oferă un cadru relaxant de coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        12.574372,
+                        55.839004
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vedbæk Sydstrand",
+                  "text": "Vedbæk Sydstrand is a beach area near Vedbæk.",
+                  "category": "recreational",
+                  "coords": [
+                        12.572039,
+                        55.847248
+                  ]
+            },
+            {
+                  "name": "Vedbæk Nordstrand",
+                  "text": "A stretch of beach near the town of Vedbæk.",
+                  "category": "recreational",
+                  "coords": [
+                        12.570016,
+                        55.851342
+                  ]
+            },
+            {
+                  "name": "Skodsborg Strand - Struckmannparken",
+                  "text": "A stretch of beach near Vedbæk.",
+                  "category": "recreational",
+                  "coords": [
+                        12.57457,
+                        55.831127
+                  ]
+            },
+            {
+                  "name": "Frydenlund Strand",
+                  "text": "Frydenlund Strand near Vedbæk offers a relaxing coastal setting.",
+                  "category": "recreational",
+                  "coords": [
+                        12.574372,
+                        55.839004
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DK",
     name: { de: "Vedbæk", hu: "Vedbæk", ro: "Vedbæk", en: "Vedbaek" },
@@ -2253,7 +3117,52 @@ export const denmarkCitiesV2: POI[] = [
     image: "/poi-images/denmark-vedbæk-cities-v2.webp",
   },
   {
-    id: "denmark-rungsted-cities-v2",
+    id: "denmark-rungsted-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rungsted Badestrand",
+                  "text": "Ein Badestrand nahe Rungsted.",
+                  "category": "recreational",
+                  "coords": [
+                        12.546559,
+                        55.882646
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rungsted Badestrand",
+                  "text": "Strand Rungsted közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        12.546559,
+                        55.882646
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rungsted Badestrand",
+                  "text": "O plajă pentru scăldat lângă Rungsted.",
+                  "category": "recreational",
+                  "coords": [
+                        12.546559,
+                        55.882646
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rungsted Badestrand",
+                  "text": "A bathing beach near Rungsted.",
+                  "category": "recreational",
+                  "coords": [
+                        12.546559,
+                        55.882646
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DK",
     name: { de: "Rungsted", hu: "Rungsted", ro: "Rungsted", en: "Rungsted" },
@@ -2343,7 +3252,52 @@ export const denmarkCitiesV2: POI[] = [
     image: "/poi-images/denmark-taarbæk-cities-v2.webp",
   },
   {
-    id: "denmark-klampenborg-cities-v2",
+    id: "denmark-klampenborg-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bellevue Strand",
+                  "text": "Bellevue Strand ist ein bekannter Sandstrand bei Klampenborg.",
+                  "category": "recreational",
+                  "coords": [
+                        12.592574,
+                        55.777272
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bellevue Strand",
+                  "text": "A Bellevue Strand egy ismert homokos tengerpart Klampenborgnál.",
+                  "category": "recreational",
+                  "coords": [
+                        12.592574,
+                        55.777272
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bellevue Strand",
+                  "text": "Bellevue Strand este o plajă de nisip cunoscută lângă Klampenborg.",
+                  "category": "recreational",
+                  "coords": [
+                        12.592574,
+                        55.777272
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bellevue Strand",
+                  "text": "Bellevue Strand is a well-known sandy beach near Klampenborg.",
+                  "category": "recreational",
+                  "coords": [
+                        12.592574,
+                        55.777272
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DK",
     name: { de: "Klampenborg", hu: "Klampenborg", ro: "Klampenborg", en: "Klampenborg" },
@@ -2433,7 +3387,52 @@ export const denmarkCitiesV2: POI[] = [
     image: "/poi-images/denmark-charlottenlund-cities-v2.webp",
   },
   {
-    id: "denmark-hellerup-cities-v2",
+    id: "denmark-hellerup-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hellerup Strand",
+                  "text": "Hellerup Strand ist ein Badebereich in Hellerup.",
+                  "category": "recreational",
+                  "coords": [
+                        12.582195,
+                        55.733324
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hellerup Strand",
+                  "text": "A Hellerup Strand egy fürdőhely Hellerupban.",
+                  "category": "recreational",
+                  "coords": [
+                        12.582195,
+                        55.733324
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hellerup Strand",
+                  "text": "Hellerup Strand este o zonă de scăldat în Hellerup.",
+                  "category": "recreational",
+                  "coords": [
+                        12.582195,
+                        55.733324
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hellerup Strand",
+                  "text": "Hellerup Strand is a swimming area in Hellerup.",
+                  "category": "recreational",
+                  "coords": [
+                        12.582195,
+                        55.733324
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DK",
     name: { de: "Hellerup", hu: "Hellerup", ro: "Hellerup", en: "Hellerup" },
@@ -2478,7 +3477,52 @@ export const denmarkCitiesV2: POI[] = [
     image: "/poi-images/denmark-hellerup-cities-v2.webp",
   },
   {
-    id: "denmark-nordhavn-cities-v2",
+    id: "denmark-nordhavn-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Svanemølle Strand",
+                  "text": "Ein beliebter Badestrand im Stadtteil Nordhavn von Kopenhagen.",
+                  "category": "recreational",
+                  "coords": [
+                        12.583747,
+                        55.72029
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Svanemølle Strand",
+                  "text": "Népszerű strand a koppenhágai Nordhavn negyedben.",
+                  "category": "recreational",
+                  "coords": [
+                        12.583747,
+                        55.72029
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Svanemølle Strand",
+                  "text": "O plajă populară situată în cartierul Nordhavn din Copenhaga.",
+                  "category": "recreational",
+                  "coords": [
+                        12.583747,
+                        55.72029
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Svanemølle Strand",
+                  "text": "A popular beach located in the Nordhavn district of Copenhagen.",
+                  "category": "recreational",
+                  "coords": [
+                        12.583747,
+                        55.72029
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DK",
     name: { de: "Nordhavn", hu: "Nordhavn", ro: "Nordhavn", en: "Nordhavn" },
@@ -2568,7 +3612,88 @@ export const denmarkCitiesV2: POI[] = [
     image: "/poi-images/denmark-amager-cities-v2.webp",
   },
   {
-    id: "denmark-dragør-cities-v2",
+    id: "denmark-dragør-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dragør Sydstrand",
+                  "text": "Dragør Sydstrand ist eine Küste bei Dragør.",
+                  "category": "recreational",
+                  "coords": [
+                        12.665098,
+                        55.583393
+                  ]
+            },
+            {
+                  "name": "Dragør Strand",
+                  "text": "Ein Strand in der historischen Stadt Dragør.",
+                  "category": "recreational",
+                  "coords": [
+                        12.675231,
+                        55.587901
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dragør Sydstrand",
+                  "text": "A Dragør Sydstrand egy tengerparti rész Dragør közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        12.665098,
+                        55.583393
+                  ]
+            },
+            {
+                  "name": "Dragør Strand",
+                  "text": "Strand a történelmi Dragør városában.",
+                  "category": "recreational",
+                  "coords": [
+                        12.675231,
+                        55.587901
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dragør Sydstrand",
+                  "text": "Dragør Sydstrand este o zonă de coastă lângă Dragør.",
+                  "category": "recreational",
+                  "coords": [
+                        12.665098,
+                        55.583393
+                  ]
+            },
+            {
+                  "name": "Dragør Strand",
+                  "text": "O plajă în orașul istoric Dragør.",
+                  "category": "recreational",
+                  "coords": [
+                        12.675231,
+                        55.587901
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dragør Sydstrand",
+                  "text": "Dragør Sydstrand is a coastal area near Dragør.",
+                  "category": "recreational",
+                  "coords": [
+                        12.665098,
+                        55.583393
+                  ]
+            },
+            {
+                  "name": "Dragør Strand",
+                  "text": "A beach in the historic town of Dragør.",
+                  "category": "recreational",
+                  "coords": [
+                        12.675231,
+                        55.587901
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DK",
     name: { de: "Dragør", hu: "Dragør", ro: "Dragør", en: "Dragor" },
@@ -3423,7 +4548,52 @@ export const denmarkCitiesV2: POI[] = [
     image: "/poi-images/denmark-valby-park-cities-v2.webp",
   },
   {
-    id: "denmark-hvidovre-strand-cities-v2",
+    id: "denmark-hvidovre-strand-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hvidovre strand",
+                  "text": "Hvidovre Strand ist ein Uferbereich in Hvidovre.",
+                  "category": "recreational",
+                  "coords": [
+                        12.50198,
+                        55.627156
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hvidovre strand",
+                  "text": "Hvidovre Strand egy vízparti terület Hvidovre-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        12.50198,
+                        55.627156
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hvidovre strand",
+                  "text": "Hvidovre Strand este o zonă de țărm în Hvidovre.",
+                  "category": "recreational",
+                  "coords": [
+                        12.50198,
+                        55.627156
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hvidovre strand",
+                  "text": "Hvidovre Strand is a waterfront area in Hvidovre.",
+                  "category": "recreational",
+                  "coords": [
+                        12.50198,
+                        55.627156
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DK",
     name: { de: "Hvidovre Strand", hu: "Hvidovre Strand", ro: "Hvidovre Strand", en: "Hvidovre Strand" },
@@ -3513,7 +4683,52 @@ export const denmarkCitiesV2: POI[] = [
     image: "/poi-images/denmark-greve-strand-cities-v2.webp",
   },
   {
-    id: "denmark-hundige-cities-v2",
+    id: "denmark-hundige-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Olsbæk Strand",
+                  "text": "Olsbæk Strand ist eine Küste bei Hundige.",
+                  "category": "recreational",
+                  "coords": [
+                        12.332776,
+                        55.585906
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Olsbæk Strand",
+                  "text": "Az Olsbæk Strand egy tengerparti terület Hundige közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        12.332776,
+                        55.585906
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Olsbæk Strand",
+                  "text": "Olsbæk Strand este o zonă de coastă lângă Hundige.",
+                  "category": "recreational",
+                  "coords": [
+                        12.332776,
+                        55.585906
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Olsbæk Strand",
+                  "text": "Olsbæk Strand is a coastal area near Hundige.",
+                  "category": "recreational",
+                  "coords": [
+                        12.332776,
+                        55.585906
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DK",
     name: { de: "Hundige", hu: "Hundige", ro: "Hundige", en: "Hundige" },
@@ -3558,7 +4773,88 @@ export const denmarkCitiesV2: POI[] = [
     image: "/poi-images/denmark-hundige-cities-v2.webp",
   },
   {
-    id: "denmark-karlslunde-cities-v2",
+    id: "denmark-karlslunde-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Trylleskoven strand",
+                  "text": "Trylleskoven Strand bei Karlslunde ist ein waldreicher Küstenbereich.",
+                  "category": "recreational",
+                  "coords": [
+                        12.249125,
+                        55.550099
+                  ]
+            },
+            {
+                  "name": "Solrød Strand",
+                  "text": "Solrød Strand liegt bei Karlslunde und bietet einen langen Küstenabschnitt.",
+                  "category": "recreational",
+                  "coords": [
+                        12.236766,
+                        55.538826
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Trylleskoven strand",
+                  "text": "A Karlslunde melletti Trylleskoven Strand egy erdős tengerparti terület.",
+                  "category": "recreational",
+                  "coords": [
+                        12.249125,
+                        55.550099
+                  ]
+            },
+            {
+                  "name": "Solrød Strand",
+                  "text": "A Solrød Strand Karlslunde mellett található, és hosszú partszakaszt kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        12.236766,
+                        55.538826
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Trylleskoven strand",
+                  "text": "Plaja Trylleskoven de lângă Karlslunde este o zonă de coastă împădurită.",
+                  "category": "recreational",
+                  "coords": [
+                        12.249125,
+                        55.550099
+                  ]
+            },
+            {
+                  "name": "Solrød Strand",
+                  "text": "Plaja Solrød este situată lângă Karlslunde și oferă o porțiune lungă de coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        12.236766,
+                        55.538826
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Trylleskoven strand",
+                  "text": "Trylleskoven Strand near Karlslunde is a forested coastal area.",
+                  "category": "recreational",
+                  "coords": [
+                        12.249125,
+                        55.550099
+                  ]
+            },
+            {
+                  "name": "Solrød Strand",
+                  "text": "Solrød Strand is located near Karlslunde and offers a long stretch of coast.",
+                  "category": "recreational",
+                  "coords": [
+                        12.236766,
+                        55.538826
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DK",
     name: { de: "Karlslunde", hu: "Karlslunde", ro: "Karlslunde", en: "Karlslunde" },
@@ -3603,7 +4899,88 @@ export const denmarkCitiesV2: POI[] = [
     image: "/poi-images/denmark-karlslunde-cities-v2.webp",
   },
   {
-    id: "denmark-solrød-cities-v2",
+    id: "denmark-solrød-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ølsemagle Revle",
+                  "text": "Ølsemagle Revle ist ein Strand bei Solrød.",
+                  "category": "recreational",
+                  "coords": [
+                        12.20914,
+                        55.495441
+                  ]
+            },
+            {
+                  "name": "Jersie Strand",
+                  "text": "Jersie Strand ist ein Küstenabschnitt bei Solrød.",
+                  "category": "recreational",
+                  "coords": [
+                        12.222947,
+                        55.520727
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ølsemagle Revle",
+                  "text": "Az Ølsemagle Revle egy strand Solrød mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        12.20914,
+                        55.495441
+                  ]
+            },
+            {
+                  "name": "Jersie Strand",
+                  "text": "A Jersie Strand egy tengerparti szakasz Solrød közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        12.222947,
+                        55.520727
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ølsemagle Revle",
+                  "text": "Ølsemagle Revle este o plajă lângă Solrød.",
+                  "category": "recreational",
+                  "coords": [
+                        12.20914,
+                        55.495441
+                  ]
+            },
+            {
+                  "name": "Jersie Strand",
+                  "text": "Jersie Strand este o secțiune de coastă lângă Solrød.",
+                  "category": "recreational",
+                  "coords": [
+                        12.222947,
+                        55.520727
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ølsemagle Revle",
+                  "text": "Ølsemagle Revle is a beach near Solrød.",
+                  "category": "recreational",
+                  "coords": [
+                        12.20914,
+                        55.495441
+                  ]
+            },
+            {
+                  "name": "Jersie Strand",
+                  "text": "Jersie Strand is a coastal section near Solrød.",
+                  "category": "recreational",
+                  "coords": [
+                        12.222947,
+                        55.520727
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DK",
     name: { de: "Solrød", hu: "Solrød", ro: "Solrød", en: "Solrod" },

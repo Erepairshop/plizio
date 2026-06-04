@@ -102351,6 +102351,15 @@ export const poiExtraHrV3: POI[] = [
                         18.251818,
                         42.597325
                   ]
+            },
+            {
+                  "name": "Plaža Plat",
+                  "text": "Plaža Plat ist ein Strand in der Küstenstadt Plat.",
+                  "category": "recreational",
+                  "coords": [
+                        18.224088,
+                        42.610957
+                  ]
             }
       ],
       "hu": [
@@ -102469,6 +102478,15 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         18.251818,
                         42.597325
+                  ]
+            },
+            {
+                  "name": "Plaža Plat",
+                  "text": "A Plaža Plat egy strand Plat tengerparti városában.",
+                  "category": "recreational",
+                  "coords": [
+                        18.224088,
+                        42.610957
                   ]
             }
       ],
@@ -102589,6 +102607,15 @@ export const poiExtraHrV3: POI[] = [
                         18.251818,
                         42.597325
                   ]
+            },
+            {
+                  "name": "Plaža Plat",
+                  "text": "Plaža Plat este o plajă din orașul de coastă Plat.",
+                  "category": "recreational",
+                  "coords": [
+                        18.224088,
+                        42.610957
+                  ]
             }
       ],
       "en": [
@@ -102707,6 +102734,15 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         18.251818,
                         42.597325
+                  ]
+            },
+            {
+                  "name": "Plaža Plat",
+                  "text": "Plaža Plat is a beach in the coastal town of Plat.",
+                  "category": "recreational",
+                  "coords": [
+                        18.224088,
+                        42.610957
                   ]
             }
       ],
@@ -127908,6 +127944,15 @@ export const poiExtraHrV3: POI[] = [
                         14.841343,
                         45.098355
                   ]
+            },
+            {
+                  "name": "Povile",
+                  "text": "Povile ist ein Küstenstrand in der Stadt Povile.",
+                  "category": "recreational",
+                  "coords": [
+                        14.816921,
+                        45.115628
+                  ]
             }
       ],
       "hu": [
@@ -128053,6 +128098,15 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         14.841343,
                         45.098355
+                  ]
+            },
+            {
+                  "name": "Povile",
+                  "text": "A Povile egy tengerparti strand Povile városában.",
+                  "category": "recreational",
+                  "coords": [
+                        14.816921,
+                        45.115628
                   ]
             }
       ],
@@ -128200,6 +128254,15 @@ export const poiExtraHrV3: POI[] = [
                         14.841343,
                         45.098355
                   ]
+            },
+            {
+                  "name": "Povile",
+                  "text": "Povile este o plajă de coastă din orașul Povile.",
+                  "category": "recreational",
+                  "coords": [
+                        14.816921,
+                        45.115628
+                  ]
             }
       ],
       "en": [
@@ -128345,6 +128408,15 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         14.841343,
                         45.098355
+                  ]
+            },
+            {
+                  "name": "Povile",
+                  "text": "Povile is a coastal beach located in the town of Povile.",
+                  "category": "recreational",
+                  "coords": [
+                        14.816921,
+                        45.115628
                   ]
             }
       ],
@@ -183051,6 +183123,15 @@ export const poiExtraHrV3: POI[] = [
                         15.125851,
                         45.42815
                   ]
+            },
+            {
+                  "name": "Radenci - Mlin",
+                  "text": "Strand in Radenci, bei Lukovdol (Kroatien).",
+                  "category": "recreational",
+                  "coords": [
+                        15.088567,
+                        45.465967
+                  ]
             }
       ],
       "hu": [
@@ -183061,6 +183142,15 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         15.125851,
                         45.42815
+                  ]
+            },
+            {
+                  "name": "Radenci - Mlin",
+                  "text": "Strand Radenciben, Lukovdol (Horvátország) mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        15.088567,
+                        45.465967
                   ]
             }
       ],
@@ -183073,6 +183163,15 @@ export const poiExtraHrV3: POI[] = [
                         15.125851,
                         45.42815
                   ]
+            },
+            {
+                  "name": "Radenci - Mlin",
+                  "text": "Plajă în Radenci, lângă Lukovdol (Croația).",
+                  "category": "recreational",
+                  "coords": [
+                        15.088567,
+                        45.465967
+                  ]
             }
       ],
       "en": [
@@ -183083,6 +183182,15 @@ export const poiExtraHrV3: POI[] = [
                   "coords": [
                         15.125851,
                         45.42815
+                  ]
+            },
+            {
+                  "name": "Radenci - Mlin",
+                  "text": "Beach in Radenci, near Lukovdol (Croatia).",
+                  "category": "recreational",
+                  "coords": [
+                        15.088567,
+                        45.465967
                   ]
             }
       ],

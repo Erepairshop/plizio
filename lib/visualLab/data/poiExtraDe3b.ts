@@ -939,7 +939,124 @@ export const poiExtraDe3b: POI[] = [
     
       "tr": ["Toplam uzunluğu 334 km olup kaynağından döküldüğü yere kadar olan yükseklik farkı sadece 40 metredir.", "Mecklenburg-Vorpommern'de Ankershagen yakınlarındaki Diekenbruch'tan doğar.", "Havelberg yakınlarında Elbe'ye dökülür.", "Brandenburg'un en büyük milli parkı olan Naturpark Westhavelland'dan geçer.", "En önemli kolu Berlin-Spandau'daki Spree'dir.", "Untere Havelbeck, Orta Avrupa'nın en önemli iç deltasıdır."]}, image: "/poi-images/river-havel-bb-extra.webp"},
   {
-    id: "lake-scharmuetzelsee-extra",
+    id: "lake-scharmuetzelsee-extra", "sights": {
+      "de": [
+            {
+                  "name": "Badestelle Diensdorf",
+                  "text": "Die Badestelle Diensdorf liegt am Scharmützelsee.",
+                  "category": "recreational",
+                  "coords": [
+                        14.064289,
+                        52.243808
+                  ]
+            },
+            {
+                  "name": "Badestelle Radlow",
+                  "text": "Badestelle am Scharmützelsee bei Radlow.",
+                  "category": "recreational",
+                  "coords": [
+                        14.050397,
+                        52.234574
+                  ]
+            },
+            {
+                  "name": "Hundebadestelle",
+                  "text": "Die Hundebadestelle liegt am Scharmützelsee.",
+                  "category": "recreational",
+                  "coords": [
+                        14.020986,
+                        52.221598
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Badestelle Diensdorf",
+                  "text": "A Badestelle Diensdorf fürdőhely a Scharmützelsee tónál található.",
+                  "category": "recreational",
+                  "coords": [
+                        14.064289,
+                        52.243808
+                  ]
+            },
+            {
+                  "name": "Badestelle Radlow",
+                  "text": "Fürdőhely a Scharmützelsee-nél, Radlow mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        14.050397,
+                        52.234574
+                  ]
+            },
+            {
+                  "name": "Hundebadestelle",
+                  "text": "A Hundebadestelle a Scharmützelsee tónál található.",
+                  "category": "recreational",
+                  "coords": [
+                        14.020986,
+                        52.221598
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Badestelle Diensdorf",
+                  "text": "Zona de îmbăiere Diensdorf este situată la lacul Scharmuetzelsee.",
+                  "category": "recreational",
+                  "coords": [
+                        14.064289,
+                        52.243808
+                  ]
+            },
+            {
+                  "name": "Badestelle Radlow",
+                  "text": "Loc de îmbăiere la lacul Scharmützelsee lângă Radlow.",
+                  "category": "recreational",
+                  "coords": [
+                        14.050397,
+                        52.234574
+                  ]
+            },
+            {
+                  "name": "Hundebadestelle",
+                  "text": "Hundebadestelle este situată pe lacul Scharmützelsee.",
+                  "category": "recreational",
+                  "coords": [
+                        14.020986,
+                        52.221598
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Badestelle Diensdorf",
+                  "text": "The Diensdorf bathing area is located on Lake Scharmuetzelsee.",
+                  "category": "recreational",
+                  "coords": [
+                        14.064289,
+                        52.243808
+                  ]
+            },
+            {
+                  "name": "Badestelle Radlow",
+                  "text": "Bathing area at Lake Scharmützelsee near Radlow.",
+                  "category": "recreational",
+                  "coords": [
+                        14.050397,
+                        52.234574
+                  ]
+            },
+            {
+                  "name": "Hundebadestelle",
+                  "text": "Hundebadestelle is located on Lake Scharmuetzelsee.",
+                  "category": "recreational",
+                  "coords": [
+                        14.020986,
+                        52.221598
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "DE-BB",
     coords: [14.0500, 52.2000],
@@ -2929,7 +3046,52 @@ export const poiExtraDe3b: POI[] = [
     
       "tr": ["Elbe'nin toplam uzunluğu 1094 kilometredir ve bunun büyük bir kısmı Almanya'dadır.", "Biosphärenreservat Mittelelbe 1979 yılında UNESCO tarafından tanınmıştır.", "Nehir, Çekya'daki Riesengebirge dağlarında 1386 metre yükseklikte doğar.", "Elbe, Orta Avrupa'da orta kesiminde hala büyük ölçüde serbest akan az sayıdaki nehirden biridir.", "Magdeburg'da Mittellandkanal, Elbe'yi 918 metre uzunluğunda bir kanal köprüsüyle geçer.", "2002 ve 2013 yıllarında Elbe bölgesinde yüzyılın aşırı sel baskınları yaşandı."]}, image: "/poi-images/river-elbe-st-extra.webp"},
   {
-    id: "river-saale-st-extra",
+    id: "river-saale-st-extra", "sights": {
+      "de": [
+            {
+                  "name": "Saalestrand Ziegelwiese",
+                  "text": "Der Saalestrand an der Ziegelwiese liegt direkt an der Saale.",
+                  "category": "recreational",
+                  "coords": [
+                        11.951878,
+                        51.496201
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Saalestrand Ziegelwiese",
+                  "text": "A Ziegelwiese-i Saalestrand közvetlenül a Saale folyó mentén található.",
+                  "category": "recreational",
+                  "coords": [
+                        11.951878,
+                        51.496201
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Saalestrand Ziegelwiese",
+                  "text": "Saalestrand de la Ziegelwiese este situat direct pe râul Saale.",
+                  "category": "recreational",
+                  "coords": [
+                        11.951878,
+                        51.496201
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Saalestrand Ziegelwiese",
+                  "text": "The Saalestrand at Ziegelwiese is located directly on the Saale river.",
+                  "category": "recreational",
+                  "coords": [
+                        11.951878,
+                        51.496201
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "DE-ST",
     coords: [11.9700, 51.5000],
@@ -2975,7 +3137,88 @@ export const poiExtraDe3b: POI[] = [
     
       "tr": ["Saale, Bavyera'daki Fichtelgebirge'de Waldstein'ın kuzeybatı yamacında doğar.", "Orta çağda Saale, yüzyıllar boyunca Germenler ve Slavlar arasındaki sınırı oluşturdu.", "Nehir yaklaşık 24.100 kilometrekarelik bir drenaj havzasına sahiptir.", "Halle yakınlarında Saale birkaç kola ayrılarak geniş bir nehir adası manzarası oluşturur.", "DDR döneminde Saale kimya endüstrisi nedeniyle ağır kirlenmişti, ancak bugün iyileşmiştir.", "Saale-Unstrut bölgesi 1000 yılı aşkın süredir bağcılığıyla tanınmaktadır."]}, image: "/poi-images/river-saale-st-extra.webp"},
   {
-    id: "lake-arendsee-extra",
+    id: "lake-arendsee-extra", "sights": {
+      "de": [
+            {
+                  "name": "Badestelle Zießau",
+                  "text": "Badestelle am Arendsee bei Zießau.",
+                  "category": "recreational",
+                  "coords": [
+                        11.469195,
+                        52.899042
+                  ]
+            },
+            {
+                  "name": "Pferdeschwemme",
+                  "text": "Badestelle an der Pferdeschwemme am Arendsee.",
+                  "category": "recreational",
+                  "coords": [
+                        11.462603,
+                        52.896008
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Badestelle Zießau",
+                  "text": "Fürdőhely az Arendsee-nél, Zießau mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        11.469195,
+                        52.899042
+                  ]
+            },
+            {
+                  "name": "Pferdeschwemme",
+                  "text": "Fürdőhely az Arendsee-nél, a Pferdeschwemme-nél.",
+                  "category": "recreational",
+                  "coords": [
+                        11.462603,
+                        52.896008
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Badestelle Zießau",
+                  "text": "Loc de îmbăiere la lacul Arendsee lângă Zießau.",
+                  "category": "recreational",
+                  "coords": [
+                        11.469195,
+                        52.899042
+                  ]
+            },
+            {
+                  "name": "Pferdeschwemme",
+                  "text": "Loc de îmbăiere la lacul Arendsee, zona Pferdeschwemme.",
+                  "category": "recreational",
+                  "coords": [
+                        11.462603,
+                        52.896008
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Badestelle Zießau",
+                  "text": "Bathing area at Lake Arendsee near Zießau.",
+                  "category": "recreational",
+                  "coords": [
+                        11.469195,
+                        52.899042
+                  ]
+            },
+            {
+                  "name": "Pferdeschwemme",
+                  "text": "Bathing area at the Pferdeschwemme on Lake Arendsee.",
+                  "category": "recreational",
+                  "coords": [
+                        11.462603,
+                        52.896008
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "DE-ST",
     coords: [11.4800, 52.8900],

@@ -557,6 +557,7 @@ import * as _src_poiExtraEthiopiaLandmarksV2 from "./poiExtraEthiopiaLandmarksV2
 import * as _src_poiExtraEthiopiaLifeV2 from "./poiExtraEthiopiaLifeV2";
 import * as _src_poiExtraEthiopiaNatureV2 from "./poiExtraEthiopiaNatureV2";
 import * as _src_poiExtraEthiopiaReliefV2 from "./poiExtraEthiopiaReliefV2";
+import * as _src_poiExtraEuNewV1 from "./poiExtraEuNewV1";
 import * as _src_poiExtraFinlandCitiesV2 from "./poiExtraFinlandCitiesV2";
 import * as _src_poiExtraFinlandEconomicV2 from "./poiExtraFinlandEconomicV2";
 import * as _src_poiExtraFinlandHistoryV2 from "./poiExtraFinlandHistoryV2";
@@ -620,6 +621,7 @@ import * as _src_poiExtraGhanaLandmarksV2 from "./poiExtraGhanaLandmarksV2";
 import * as _src_poiExtraGhanaLifeV2 from "./poiExtraGhanaLifeV2";
 import * as _src_poiExtraGhanaNatureV2 from "./poiExtraGhanaNatureV2";
 import * as _src_poiExtraGhanaReliefV2 from "./poiExtraGhanaReliefV2";
+import * as _src_poiExtraGlNewV1 from "./poiExtraGlNewV1";
 import * as _src_poiExtraGreeceCities_lite from "./poiExtraGreeceCities.lite";
 import * as _src_poiExtraGreeceCities from "./poiExtraGreeceCities";
 import * as _src_poiExtraGreeceCitiesV2 from "./poiExtraGreeceCitiesV2";
@@ -2318,6 +2320,7 @@ const _raw: any[] = [
   ...((_src_poiExtraEthiopiaLifeV2 as any).poiExtraEthiopiaLifeV2 as any[]),
   ...((_src_poiExtraEthiopiaNatureV2 as any).poiExtraEthiopiaNatureV2 as any[]),
   ...((_src_poiExtraEthiopiaReliefV2 as any).poiExtraEthiopiaReliefV2 as any[]),
+  ...((_src_poiExtraEuNewV1 as any).euNewV1 as any[]),
   ...((_src_poiExtraFinlandCitiesV2 as any).finlandCitiesV2 as any[]),
   ...((_src_poiExtraFinlandEconomicV2 as any).finlandEconomicV2 as any[]),
   ...((_src_poiExtraFinlandHistoryV2 as any).finlandHistoryV2 as any[]),
@@ -2381,6 +2384,7 @@ const _raw: any[] = [
   ...((_src_poiExtraGhanaLifeV2 as any).poiExtraGhanaLifeV2 as any[]),
   ...((_src_poiExtraGhanaNatureV2 as any).poiExtraGhanaNatureV2 as any[]),
   ...((_src_poiExtraGhanaReliefV2 as any).poiExtraGhanaReliefV2 as any[]),
+  ...((_src_poiExtraGlNewV1 as any).glNewV1 as any[]),
   ...((_src_poiExtraGreeceCities_lite as any).poiExtraGreeceCities as any[]),
   ...((_src_poiExtraGreeceCities as any).poiExtraGreeceCities as any[]),
   ...((_src_poiExtraGreeceCitiesV2 as any).greeceCitiesV2 as any[]),

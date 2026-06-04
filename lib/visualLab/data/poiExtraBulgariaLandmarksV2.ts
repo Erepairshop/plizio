@@ -588,7 +588,160 @@ export const bulgariaLandmarksV2: POI[] = [
     image: "/poi-images/bulgaria-st-archangel-michael-church-landmarks-v2.webp",
   },
   {
-    id: "bulgaria-varna-dormition-cathedral-landmarks-v2",
+    id: "bulgaria-varna-dormition-cathedral-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ofitserski plazh - Iztok",
+                  "text": "Ein Strand bei Varna am Schwarzen Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        27.938415,
+                        43.208844
+                  ]
+            },
+            {
+                  "name": "plazh Bunite-2",
+                  "text": "Ein Strand bei Varna am Schwarzen Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        27.950108,
+                        43.210615
+                  ]
+            },
+            {
+                  "name": "Chetvarta buna",
+                  "text": "Ein Strandabschnitt bei Varna am Schwarzen Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        27.959942,
+                        43.212891
+                  ]
+            },
+            {
+                  "name": "plazh Bunite",
+                  "text": "Ein Strandabschnitt bei Varna am Schwarzen Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        27.941304,
+                        43.209758
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ofitserski plazh - Iztok",
+                  "text": "Egy strand Várna mellett, a Fekete-tengeren.",
+                  "category": "recreational",
+                  "coords": [
+                        27.938415,
+                        43.208844
+                  ]
+            },
+            {
+                  "name": "plazh Bunite-2",
+                  "text": "Egy strand Várna mellett, a Fekete-tengeren.",
+                  "category": "recreational",
+                  "coords": [
+                        27.950108,
+                        43.210615
+                  ]
+            },
+            {
+                  "name": "Chetvarta buna",
+                  "text": "Strandszakasz Várna közelében, a Fekete-tenger partján.",
+                  "category": "recreational",
+                  "coords": [
+                        27.959942,
+                        43.212891
+                  ]
+            },
+            {
+                  "name": "plazh Bunite",
+                  "text": "Strandszakasz Várna közelében, a Fekete-tenger partján.",
+                  "category": "recreational",
+                  "coords": [
+                        27.941304,
+                        43.209758
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ofitserski plazh - Iztok",
+                  "text": "O plajă lângă Varna la Marea Neagră.",
+                  "category": "recreational",
+                  "coords": [
+                        27.938415,
+                        43.208844
+                  ]
+            },
+            {
+                  "name": "plazh Bunite-2",
+                  "text": "O plajă lângă Varna la Marea Neagră.",
+                  "category": "recreational",
+                  "coords": [
+                        27.950108,
+                        43.210615
+                  ]
+            },
+            {
+                  "name": "Chetvarta buna",
+                  "text": "O plajă lângă Varna, la Marea Neagră.",
+                  "category": "recreational",
+                  "coords": [
+                        27.959942,
+                        43.212891
+                  ]
+            },
+            {
+                  "name": "plazh Bunite",
+                  "text": "O plajă lângă Varna, la Marea Neagră.",
+                  "category": "recreational",
+                  "coords": [
+                        27.941304,
+                        43.209758
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ofitserski plazh - Iztok",
+                  "text": "A beach near Varna on the Black Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        27.938415,
+                        43.208844
+                  ]
+            },
+            {
+                  "name": "plazh Bunite-2",
+                  "text": "A beach near Varna on the Black Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        27.950108,
+                        43.210615
+                  ]
+            },
+            {
+                  "name": "Chetvarta buna",
+                  "text": "A beach section near Varna on the Black Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        27.959942,
+                        43.212891
+                  ]
+            },
+            {
+                  "name": "plazh Bunite",
+                  "text": "A beach section near Varna on the Black Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        27.941304,
+                        43.209758
+                  ]
+            }
+      ]
+},
     type: "cathedral",
     parent: "BG",
     name: { de: "Mariä-Entschlafens-Kathedrale Warna", hu: "Várnai Nagyboldogasszony-katedrális", ro: "Catedrala Adormirea Maicii Domnului din Varna", en: "Dormition of the Mother of God Cathedral Varna" },

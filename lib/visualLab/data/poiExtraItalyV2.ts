@@ -114,6 +114,15 @@ export const poiExtraItalyV2: POI[] = [
                         13.578028,
                         37.312944
                   ]
+            },
+            {
+                  "name": "Spiaggia del Caos",
+                  "text": "Küstenabschnitt bei Agrigento.",
+                  "category": "recreational",
+                  "coords": [
+                        13.551418,
+                        37.286936
+                  ]
             }
       ],
       "hu": [
@@ -225,6 +234,15 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         13.578028,
                         37.312944
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Caos",
+                  "text": "Partszakasz Agrigento közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        13.551418,
+                        37.286936
                   ]
             }
       ],
@@ -338,6 +356,15 @@ export const poiExtraItalyV2: POI[] = [
                         13.578028,
                         37.312944
                   ]
+            },
+            {
+                  "name": "Spiaggia del Caos",
+                  "text": "Secțiune de coastă lângă Agrigento.",
+                  "category": "recreational",
+                  "coords": [
+                        13.551418,
+                        37.286936
+                  ]
             }
       ],
       "en": [
@@ -449,6 +476,15 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         13.578028,
                         37.312944
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Caos",
+                  "text": "Coastal area near Agrigento.",
+                  "category": "recreational",
+                  "coords": [
+                        13.551418,
+                        37.286936
                   ]
             }
       ]
@@ -2726,6 +2762,15 @@ export const poiExtraItalyV2: POI[] = [
                         14.242533,
                         40.546942
                   ]
+            },
+            {
+                  "name": "Spiaggia Libera di Marina Grande",
+                  "text": "Spiaggia Libera di Marina Grande ist ein öffentlicher Strand auf Capri.",
+                  "category": "recreational",
+                  "coords": [
+                        14.235823,
+                        40.557571
+                  ]
             }
       ],
       "hu": [
@@ -2837,6 +2882,15 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         14.242533,
                         40.546942
+                  ]
+            },
+            {
+                  "name": "Spiaggia Libera di Marina Grande",
+                  "text": "A Spiaggia Libera di Marina Grande egy nyilvános strand Caprin.",
+                  "category": "recreational",
+                  "coords": [
+                        14.235823,
+                        40.557571
                   ]
             }
       ],
@@ -2950,6 +3004,15 @@ export const poiExtraItalyV2: POI[] = [
                         14.242533,
                         40.546942
                   ]
+            },
+            {
+                  "name": "Spiaggia Libera di Marina Grande",
+                  "text": "Spiaggia Libera di Marina Grande este o plajă publică în Capri.",
+                  "category": "recreational",
+                  "coords": [
+                        14.235823,
+                        40.557571
+                  ]
             }
       ],
       "en": [
@@ -3061,6 +3124,15 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         14.242533,
                         40.546942
+                  ]
+            },
+            {
+                  "name": "Spiaggia Libera di Marina Grande",
+                  "text": "Spiaggia Libera di Marina Grande is a public beach on Capri.",
+                  "category": "recreational",
+                  "coords": [
+                        14.235823,
+                        40.557571
                   ]
             }
       ]
@@ -3900,6 +3972,15 @@ export const poiExtraItalyV2: POI[] = [
                         8.974673,
                         44.390126
                   ]
+            },
+            {
+                  "name": "Punta Vagno",
+                  "text": "Ein öffentlicher Strand in Genova.",
+                  "category": "recreational",
+                  "coords": [
+                        8.949874,
+                        44.393296
+                  ]
             }
       ],
       "hu": [
@@ -4011,6 +4092,15 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         8.974673,
                         44.390126
+                  ]
+            },
+            {
+                  "name": "Punta Vagno",
+                  "text": "Nyilvános strand Genovában.",
+                  "category": "recreational",
+                  "coords": [
+                        8.949874,
+                        44.393296
                   ]
             }
       ],
@@ -4124,6 +4214,15 @@ export const poiExtraItalyV2: POI[] = [
                         8.974673,
                         44.390126
                   ]
+            },
+            {
+                  "name": "Punta Vagno",
+                  "text": "O plajă publică în Genova.",
+                  "category": "recreational",
+                  "coords": [
+                        8.949874,
+                        44.393296
+                  ]
             }
       ],
       "en": [
@@ -4235,6 +4334,15 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         8.974673,
                         44.390126
+                  ]
+            },
+            {
+                  "name": "Punta Vagno",
+                  "text": "A public beach in Genova.",
+                  "category": "recreational",
+                  "coords": [
+                        8.949874,
+                        44.393296
                   ]
             }
       ]
@@ -4712,6 +4820,15 @@ export const poiExtraItalyV2: POI[] = [
                         10.510393,
                         43.840867
                   ]
+            },
+            {
+                  "name": "Spiaggia degli indiani",
+                  "text": "Ein schöner Strand in Lucca.",
+                  "category": "recreational",
+                  "coords": [
+                        10.44302,
+                        43.843381
+                  ]
             }
       ],
       "hu": [
@@ -4823,6 +4940,15 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         10.510393,
                         43.840867
+                  ]
+            },
+            {
+                  "name": "Spiaggia degli indiani",
+                  "text": "Egy szép strand Luccában.",
+                  "category": "recreational",
+                  "coords": [
+                        10.44302,
+                        43.843381
                   ]
             }
       ],
@@ -4936,6 +5062,15 @@ export const poiExtraItalyV2: POI[] = [
                         10.510393,
                         43.840867
                   ]
+            },
+            {
+                  "name": "Spiaggia degli indiani",
+                  "text": "O plajă frumoasă în Lucca.",
+                  "category": "recreational",
+                  "coords": [
+                        10.44302,
+                        43.843381
+                  ]
             }
       ],
       "en": [
@@ -5047,6 +5182,15 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         10.510393,
                         43.840867
+                  ]
+            },
+            {
+                  "name": "Spiaggia degli indiani",
+                  "text": "A beautiful beach in Lucca.",
+                  "category": "recreational",
+                  "coords": [
+                        10.44302,
+                        43.843381
                   ]
             }
       ]
@@ -7158,6 +7302,15 @@ export const poiExtraItalyV2: POI[] = [
                         13.341101,
                         38.115776
                   ]
+            },
+            {
+                  "name": "Spiaggia dell'Arenella",
+                  "text": "Sandstrand in einem beliebten Viertel von Palermo.",
+                  "category": "recreational",
+                  "coords": [
+                        13.375154,
+                        38.153538
+                  ]
             }
       ],
       "hu": [
@@ -7269,6 +7422,15 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         13.341101,
                         38.115776
+                  ]
+            },
+            {
+                  "name": "Spiaggia dell'Arenella",
+                  "text": "Homokos strand Palermo egyik kedvelt negyedében.",
+                  "category": "recreational",
+                  "coords": [
+                        13.375154,
+                        38.153538
                   ]
             }
       ],
@@ -7382,6 +7544,15 @@ export const poiExtraItalyV2: POI[] = [
                         13.341101,
                         38.115776
                   ]
+            },
+            {
+                  "name": "Spiaggia dell'Arenella",
+                  "text": "Plajă cu nisip într-un cartier popular din Palermo.",
+                  "category": "recreational",
+                  "coords": [
+                        13.375154,
+                        38.153538
+                  ]
             }
       ],
       "en": [
@@ -7493,6 +7664,15 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         13.341101,
                         38.115776
+                  ]
+            },
+            {
+                  "name": "Spiaggia dell'Arenella",
+                  "text": "Sandy beach in a popular district of Palermo.",
+                  "category": "recreational",
+                  "coords": [
+                        13.375154,
+                        38.153538
                   ]
             }
       ]
@@ -7904,6 +8084,51 @@ export const poiExtraItalyV2: POI[] = [
                         17.218075,
                         40.995566
                   ]
+            },
+            {
+                  "name": "Cala San Giovanni",
+                  "text": "Cala San Giovanni ist ein Strandabschnitt bei A Mare.",
+                  "category": "recreational",
+                  "coords": [
+                        17.187318,
+                        41.016079
+                  ]
+            },
+            {
+                  "name": "Cala Sala - Portacola - Portalga",
+                  "text": "Cala Sala, Portacola und Portalga sind Strandbereiche bei A Mare.",
+                  "category": "recreational",
+                  "coords": [
+                        17.237993,
+                        40.990365
+                  ]
+            },
+            {
+                  "name": "Spiaggia Cala Incina",
+                  "text": "Die Spiaggia Cala Incina ist ein Strand bei A Mare.",
+                  "category": "recreational",
+                  "coords": [
+                        17.258015,
+                        40.978456
+                  ]
+            },
+            {
+                  "name": "Cala Fetente",
+                  "text": "Cala Fetente ist ein Strandbereich bei A Mare.",
+                  "category": "recreational",
+                  "coords": [
+                        17.176629,
+                        41.025978
+                  ]
+            },
+            {
+                  "name": "Cala di Pozzo Vivo",
+                  "text": "Cala di Pozzo Vivo ist ein Strand bei A Mare.",
+                  "category": "recreational",
+                  "coords": [
+                        17.246409,
+                        40.985345
+                  ]
             }
       ],
       "hu": [
@@ -7993,6 +8218,51 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         17.218075,
                         40.995566
+                  ]
+            },
+            {
+                  "name": "Cala San Giovanni",
+                  "text": "A Cala San Giovanni egy partszakasz A Mare mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        17.187318,
+                        41.016079
+                  ]
+            },
+            {
+                  "name": "Cala Sala - Portacola - Portalga",
+                  "text": "A Cala Sala, Portacola és Portalga strandterületek A Mare mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        17.237993,
+                        40.990365
+                  ]
+            },
+            {
+                  "name": "Spiaggia Cala Incina",
+                  "text": "A Spiaggia Cala Incina egy strand A Mare mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        17.258015,
+                        40.978456
+                  ]
+            },
+            {
+                  "name": "Cala Fetente",
+                  "text": "A Cala Fetente egy strandterület A Mare mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        17.176629,
+                        41.025978
+                  ]
+            },
+            {
+                  "name": "Cala di Pozzo Vivo",
+                  "text": "A Cala di Pozzo Vivo egy strand A Mare mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        17.246409,
+                        40.985345
                   ]
             }
       ],
@@ -8084,6 +8354,51 @@ export const poiExtraItalyV2: POI[] = [
                         17.218075,
                         40.995566
                   ]
+            },
+            {
+                  "name": "Cala San Giovanni",
+                  "text": "Cala San Giovanni este o secțiune de plajă de lângă A Mare.",
+                  "category": "recreational",
+                  "coords": [
+                        17.187318,
+                        41.016079
+                  ]
+            },
+            {
+                  "name": "Cala Sala - Portacola - Portalga",
+                  "text": "Cala Sala, Portacola și Portalga sunt zone de plajă de lângă A Mare.",
+                  "category": "recreational",
+                  "coords": [
+                        17.237993,
+                        40.990365
+                  ]
+            },
+            {
+                  "name": "Spiaggia Cala Incina",
+                  "text": "Spiaggia Cala Incina este o plajă de lângă A Mare.",
+                  "category": "recreational",
+                  "coords": [
+                        17.258015,
+                        40.978456
+                  ]
+            },
+            {
+                  "name": "Cala Fetente",
+                  "text": "Cala Fetente este o zonă de plajă de lângă A Mare.",
+                  "category": "recreational",
+                  "coords": [
+                        17.176629,
+                        41.025978
+                  ]
+            },
+            {
+                  "name": "Cala di Pozzo Vivo",
+                  "text": "Cala di Pozzo Vivo este o plajă de lângă A Mare.",
+                  "category": "recreational",
+                  "coords": [
+                        17.246409,
+                        40.985345
+                  ]
             }
       ],
       "en": [
@@ -8174,6 +8489,51 @@ export const poiExtraItalyV2: POI[] = [
                         17.218075,
                         40.995566
                   ]
+            },
+            {
+                  "name": "Cala San Giovanni",
+                  "text": "Cala San Giovanni is a stretch of beach near A Mare.",
+                  "category": "recreational",
+                  "coords": [
+                        17.187318,
+                        41.016079
+                  ]
+            },
+            {
+                  "name": "Cala Sala - Portacola - Portalga",
+                  "text": "Cala Sala, Portacola, and Portalga are beach areas near A Mare.",
+                  "category": "recreational",
+                  "coords": [
+                        17.237993,
+                        40.990365
+                  ]
+            },
+            {
+                  "name": "Spiaggia Cala Incina",
+                  "text": "Spiaggia Cala Incina is a beach near A Mare.",
+                  "category": "recreational",
+                  "coords": [
+                        17.258015,
+                        40.978456
+                  ]
+            },
+            {
+                  "name": "Cala Fetente",
+                  "text": "Cala Fetente is a beach area near A Mare.",
+                  "category": "recreational",
+                  "coords": [
+                        17.176629,
+                        41.025978
+                  ]
+            },
+            {
+                  "name": "Cala di Pozzo Vivo",
+                  "text": "Cala di Pozzo Vivo is a beach near A Mare.",
+                  "category": "recreational",
+                  "coords": [
+                        17.246409,
+                        40.985345
+                  ]
             }
       ]
 }},
@@ -8233,6 +8593,15 @@ export const poiExtraItalyV2: POI[] = [
                         9.303983,
                         44.32674
                   ]
+            },
+            {
+                  "name": "Spiaggia Bosetti",
+                  "text": "Ein Strand bei Portofino.",
+                  "category": "recreational",
+                  "coords": [
+                        9.209158,
+                        44.310662
+                  ]
             }
       ],
       "hu": [
@@ -8289,6 +8658,15 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         9.303983,
                         44.32674
+                  ]
+            },
+            {
+                  "name": "Spiaggia Bosetti",
+                  "text": "Strand Portofino közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        9.209158,
+                        44.310662
                   ]
             }
       ],
@@ -8347,6 +8725,15 @@ export const poiExtraItalyV2: POI[] = [
                         9.303983,
                         44.32674
                   ]
+            },
+            {
+                  "name": "Spiaggia Bosetti",
+                  "text": "O plajă lângă Portofino.",
+                  "category": "recreational",
+                  "coords": [
+                        9.209158,
+                        44.310662
+                  ]
             }
       ],
       "en": [
@@ -8403,6 +8790,15 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         9.303983,
                         44.32674
+                  ]
+            },
+            {
+                  "name": "Spiaggia Bosetti",
+                  "text": "A beach near Portofino.",
+                  "category": "recreational",
+                  "coords": [
+                        9.209158,
+                        44.310662
                   ]
             }
       ]
@@ -8473,6 +8869,24 @@ export const poiExtraItalyV2: POI[] = [
                         14.484158,
                         40.62833
                   ]
+            },
+            {
+                  "name": "Spiaggia grande di Tordigliano",
+                  "text": "Der Spiaggia grande di Tordigliano ist ein Strand in Positano.",
+                  "category": "recreational",
+                  "coords": [
+                        14.452247,
+                        40.619145
+                  ]
+            },
+            {
+                  "name": "Spiaggia d'Arienzo",
+                  "text": "Der Spiaggia d'Arienzo ist ein Strand in Positano.",
+                  "category": "recreational",
+                  "coords": [
+                        14.4958,
+                        40.62684
+                  ]
             }
       ],
       "hu": [
@@ -8539,6 +8953,24 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         14.484158,
                         40.62833
+                  ]
+            },
+            {
+                  "name": "Spiaggia grande di Tordigliano",
+                  "text": "A Spiaggia grande di Tordigliano egy strand Positano városában.",
+                  "category": "recreational",
+                  "coords": [
+                        14.452247,
+                        40.619145
+                  ]
+            },
+            {
+                  "name": "Spiaggia d'Arienzo",
+                  "text": "A Spiaggia d'Arienzo egy strand Positano városában.",
+                  "category": "recreational",
+                  "coords": [
+                        14.4958,
+                        40.62684
                   ]
             }
       ],
@@ -8607,6 +9039,24 @@ export const poiExtraItalyV2: POI[] = [
                         14.484158,
                         40.62833
                   ]
+            },
+            {
+                  "name": "Spiaggia grande di Tordigliano",
+                  "text": "Spiaggia grande di Tordigliano este o plajă din Positano.",
+                  "category": "recreational",
+                  "coords": [
+                        14.452247,
+                        40.619145
+                  ]
+            },
+            {
+                  "name": "Spiaggia d'Arienzo",
+                  "text": "Spiaggia d'Arienzo este o plajă din Positano.",
+                  "category": "recreational",
+                  "coords": [
+                        14.4958,
+                        40.62684
+                  ]
             }
       ],
       "en": [
@@ -8673,6 +9123,24 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         14.484158,
                         40.62833
+                  ]
+            },
+            {
+                  "name": "Spiaggia grande di Tordigliano",
+                  "text": "Spiaggia grande di Tordigliano is a beach in Positano.",
+                  "category": "recreational",
+                  "coords": [
+                        14.452247,
+                        40.619145
+                  ]
+            },
+            {
+                  "name": "Spiaggia d'Arienzo",
+                  "text": "Spiaggia d'Arienzo is a beach in Positano.",
+                  "category": "recreational",
+                  "coords": [
+                        14.4958,
+                        40.62684
                   ]
             }
       ]
@@ -8755,6 +9223,15 @@ export const poiExtraItalyV2: POI[] = [
                         10.839825,
                         45.886544
                   ]
+            },
+            {
+                  "name": "Spiaggia dello sperone",
+                  "text": "Strand am Gardasee.",
+                  "category": "recreational",
+                  "coords": [
+                        10.83499,
+                        45.869556
+                  ]
             }
       ],
       "hu": [
@@ -8833,6 +9310,15 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         10.839825,
                         45.886544
+                  ]
+            },
+            {
+                  "name": "Spiaggia dello sperone",
+                  "text": "Strand a Garda-tónál.",
+                  "category": "recreational",
+                  "coords": [
+                        10.83499,
+                        45.869556
                   ]
             }
       ],
@@ -8913,6 +9399,15 @@ export const poiExtraItalyV2: POI[] = [
                         10.839825,
                         45.886544
                   ]
+            },
+            {
+                  "name": "Spiaggia dello sperone",
+                  "text": "Plajă la lacul Garda.",
+                  "category": "recreational",
+                  "coords": [
+                        10.83499,
+                        45.869556
+                  ]
             }
       ],
       "en": [
@@ -8991,6 +9486,15 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         10.839825,
                         45.886544
+                  ]
+            },
+            {
+                  "name": "Spiaggia dello sperone",
+                  "text": "Beach at Lake Garda.",
+                  "category": "recreational",
+                  "coords": [
+                        10.83499,
+                        45.869556
                   ]
             }
       ]
@@ -9918,6 +10422,51 @@ export const poiExtraItalyV2: POI[] = [
                         15.291694,
                         37.072858
                   ]
+            },
+            {
+                  "name": "Spiaggia della Pillirina",
+                  "text": "Der Strand Spiaggia della Pillirina in Siracusa ist für seine Naturschönheit bekannt.",
+                  "category": "recreational",
+                  "coords": [
+                        15.306317,
+                        37.039806
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Minareto",
+                  "text": "Der Spiaggia del Minareto ist ein Strand in Syrakus.",
+                  "category": "recreational",
+                  "coords": [
+                        15.301982,
+                        37.04074
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Punta Carrozza",
+                  "text": "Der Spiaggia di Punta Carrozza ist ein Strand in Syrakus.",
+                  "category": "recreational",
+                  "coords": [
+                        15.297824,
+                        37.04031
+                  ]
+            },
+            {
+                  "name": "Spiaggia Punta del Pero",
+                  "text": "Der Spiaggia Punta del Pero ist ein Strand in Syrakus.",
+                  "category": "recreational",
+                  "coords": [
+                        15.292889,
+                        37.036209
+                  ]
+            },
+            {
+                  "name": "Spiaggetta di Cala Rossa",
+                  "text": "Die Spiaggetta di Cala Rossa ist ein kleiner Strand in Syrakus.",
+                  "category": "recreational",
+                  "coords": [
+                        15.294955,
+                        37.057108
+                  ]
             }
       ],
       "hu": [
@@ -10029,6 +10578,51 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         15.291694,
                         37.072858
+                  ]
+            },
+            {
+                  "name": "Spiaggia della Pillirina",
+                  "text": "A Spiaggia della Pillirina strand Siracusában természeti szépségéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        15.306317,
+                        37.039806
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Minareto",
+                  "text": "A Spiaggia del Minareto egy strand Siracusa városában.",
+                  "category": "recreational",
+                  "coords": [
+                        15.301982,
+                        37.04074
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Punta Carrozza",
+                  "text": "A Spiaggia di Punta Carrozza egy strand Siracusa városában.",
+                  "category": "recreational",
+                  "coords": [
+                        15.297824,
+                        37.04031
+                  ]
+            },
+            {
+                  "name": "Spiaggia Punta del Pero",
+                  "text": "A Spiaggia Punta del Pero egy strand Siracusa városában.",
+                  "category": "recreational",
+                  "coords": [
+                        15.292889,
+                        37.036209
+                  ]
+            },
+            {
+                  "name": "Spiaggetta di Cala Rossa",
+                  "text": "A Spiaggetta di Cala Rossa egy kis strand Siracusa városában.",
+                  "category": "recreational",
+                  "coords": [
+                        15.294955,
+                        37.057108
                   ]
             }
       ],
@@ -10142,6 +10736,51 @@ export const poiExtraItalyV2: POI[] = [
                         15.291694,
                         37.072858
                   ]
+            },
+            {
+                  "name": "Spiaggia della Pillirina",
+                  "text": "Plaja Spiaggia della Pillirina din Siracusa este cunoscută pentru frumusețea sa naturală.",
+                  "category": "recreational",
+                  "coords": [
+                        15.306317,
+                        37.039806
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Minareto",
+                  "text": "Spiaggia del Minareto este o plajă din Siracusa.",
+                  "category": "recreational",
+                  "coords": [
+                        15.301982,
+                        37.04074
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Punta Carrozza",
+                  "text": "Spiaggia di Punta Carrozza este o plajă din Siracusa.",
+                  "category": "recreational",
+                  "coords": [
+                        15.297824,
+                        37.04031
+                  ]
+            },
+            {
+                  "name": "Spiaggia Punta del Pero",
+                  "text": "Spiaggia Punta del Pero este o plajă din Siracusa.",
+                  "category": "recreational",
+                  "coords": [
+                        15.292889,
+                        37.036209
+                  ]
+            },
+            {
+                  "name": "Spiaggetta di Cala Rossa",
+                  "text": "Spiaggetta di Cala Rossa este o plajă mică din Siracusa.",
+                  "category": "recreational",
+                  "coords": [
+                        15.294955,
+                        37.057108
+                  ]
             }
       ],
       "en": [
@@ -10254,6 +10893,51 @@ export const poiExtraItalyV2: POI[] = [
                         15.291694,
                         37.072858
                   ]
+            },
+            {
+                  "name": "Spiaggia della Pillirina",
+                  "text": "Spiaggia della Pillirina beach in Siracusa is known for its natural beauty.",
+                  "category": "recreational",
+                  "coords": [
+                        15.306317,
+                        37.039806
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Minareto",
+                  "text": "Spiaggia del Minareto is a beach in Siracusa.",
+                  "category": "recreational",
+                  "coords": [
+                        15.301982,
+                        37.04074
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Punta Carrozza",
+                  "text": "Spiaggia di Punta Carrozza is a beach in Siracusa.",
+                  "category": "recreational",
+                  "coords": [
+                        15.297824,
+                        37.04031
+                  ]
+            },
+            {
+                  "name": "Spiaggia Punta del Pero",
+                  "text": "Spiaggia Punta del Pero is a beach in Siracusa.",
+                  "category": "recreational",
+                  "coords": [
+                        15.292889,
+                        37.036209
+                  ]
+            },
+            {
+                  "name": "Spiaggetta di Cala Rossa",
+                  "text": "Spiaggetta di Cala Rossa is a small beach in Siracusa.",
+                  "category": "recreational",
+                  "coords": [
+                        15.294955,
+                        37.057108
+                  ]
             }
       ]
 }},
@@ -10335,6 +11019,15 @@ export const poiExtraItalyV2: POI[] = [
                         10.60785,
                         45.49073
                   ]
+            },
+            {
+                  "name": "Spiaggia Brema",
+                  "text": "Ein malerischer Strand in Sirmione.",
+                  "category": "recreational",
+                  "coords": [
+                        10.59991,
+                        45.472283
+                  ]
             }
       ],
       "hu": [
@@ -10413,6 +11106,15 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         10.60785,
                         45.49073
+                  ]
+            },
+            {
+                  "name": "Spiaggia Brema",
+                  "text": "Festői strand Sirmionéban.",
+                  "category": "recreational",
+                  "coords": [
+                        10.59991,
+                        45.472283
                   ]
             }
       ],
@@ -10493,6 +11195,15 @@ export const poiExtraItalyV2: POI[] = [
                         10.60785,
                         45.49073
                   ]
+            },
+            {
+                  "name": "Spiaggia Brema",
+                  "text": "O plajă pitorească în Sirmione.",
+                  "category": "recreational",
+                  "coords": [
+                        10.59991,
+                        45.472283
+                  ]
             }
       ],
       "en": [
@@ -10571,6 +11282,15 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         10.60785,
                         45.49073
+                  ]
+            },
+            {
+                  "name": "Spiaggia Brema",
+                  "text": "A scenic beach in Sirmione.",
+                  "category": "recreational",
+                  "coords": [
+                        10.59991,
+                        45.472283
                   ]
             }
       ]
@@ -10686,6 +11406,42 @@ export const poiExtraItalyV2: POI[] = [
                         14.376293,
                         40.628922
                   ]
+            },
+            {
+                  "name": "Spiaggia di San Montano",
+                  "text": "Ein malerischer Strand in der Umgebung von Sorrent.",
+                  "category": "recreational",
+                  "coords": [
+                        14.339411,
+                        40.615304
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Crapolla",
+                  "text": "Ein versteckter Strandabschnitt bei Sorrent.",
+                  "category": "recreational",
+                  "coords": [
+                        14.380944,
+                        40.593133
+                  ]
+            },
+            {
+                  "name": "spiaggia La Tonnarella",
+                  "text": "Ein entspannender Strand in Sorrent.",
+                  "category": "recreational",
+                  "coords": [
+                        14.361085,
+                        40.629537
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Santa Caterina",
+                  "text": "Der Strand Spiaggia di Santa Caterina ist ein beliebter Küstenabschnitt in Sorrento.",
+                  "category": "recreational",
+                  "coords": [
+                        14.399512,
+                        40.637757
+                  ]
             }
       ],
       "hu": [
@@ -10797,6 +11553,42 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         14.376293,
                         40.628922
+                  ]
+            },
+            {
+                  "name": "Spiaggia di San Montano",
+                  "text": "Festői strand Sorrento környékén.",
+                  "category": "recreational",
+                  "coords": [
+                        14.339411,
+                        40.615304
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Crapolla",
+                  "text": "Rejtett partszakasz Sorrento közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        14.380944,
+                        40.593133
+                  ]
+            },
+            {
+                  "name": "spiaggia La Tonnarella",
+                  "text": "Pihentető strand Sorrentóban.",
+                  "category": "recreational",
+                  "coords": [
+                        14.361085,
+                        40.629537
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Santa Caterina",
+                  "text": "A Spiaggia di Santa Caterina egy népszerű partszakasz Sorrentóban.",
+                  "category": "recreational",
+                  "coords": [
+                        14.399512,
+                        40.637757
                   ]
             }
       ],
@@ -10910,6 +11702,42 @@ export const poiExtraItalyV2: POI[] = [
                         14.376293,
                         40.628922
                   ]
+            },
+            {
+                  "name": "Spiaggia di San Montano",
+                  "text": "O plajă pitorească în împrejurimile orașului Sorrento.",
+                  "category": "recreational",
+                  "coords": [
+                        14.339411,
+                        40.615304
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Crapolla",
+                  "text": "O porțiune de plajă ascunsă lângă Sorrento.",
+                  "category": "recreational",
+                  "coords": [
+                        14.380944,
+                        40.593133
+                  ]
+            },
+            {
+                  "name": "spiaggia La Tonnarella",
+                  "text": "O plajă relaxantă în Sorrento.",
+                  "category": "recreational",
+                  "coords": [
+                        14.361085,
+                        40.629537
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Santa Caterina",
+                  "text": "Spiaggia di Santa Caterina este o porțiune populară de coastă în Sorrento.",
+                  "category": "recreational",
+                  "coords": [
+                        14.399512,
+                        40.637757
+                  ]
             }
       ],
       "en": [
@@ -11022,6 +11850,42 @@ export const poiExtraItalyV2: POI[] = [
                         14.376293,
                         40.628922
                   ]
+            },
+            {
+                  "name": "Spiaggia di San Montano",
+                  "text": "A scenic beach in the vicinity of Sorrento.",
+                  "category": "recreational",
+                  "coords": [
+                        14.339411,
+                        40.615304
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Crapolla",
+                  "text": "A secluded beach section near Sorrento.",
+                  "category": "recreational",
+                  "coords": [
+                        14.380944,
+                        40.593133
+                  ]
+            },
+            {
+                  "name": "spiaggia La Tonnarella",
+                  "text": "A relaxing beach in Sorrento.",
+                  "category": "recreational",
+                  "coords": [
+                        14.361085,
+                        40.629537
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Santa Caterina",
+                  "text": "Spiaggia di Santa Caterina is a popular stretch of coastline in Sorrento.",
+                  "category": "recreational",
+                  "coords": [
+                        14.399512,
+                        40.637757
+                  ]
             }
       ]
 }},
@@ -11125,6 +11989,15 @@ export const poiExtraItalyV2: POI[] = [
                         8.543591,
                         45.879929
                   ]
+            },
+            {
+                  "name": "Spiaggia di Ceresolo",
+                  "text": "Strand am Ufer des Lago Maggiore bei Stresa.",
+                  "category": "recreational",
+                  "coords": [
+                        8.598337,
+                        45.888488
+                  ]
             }
       ],
       "hu": [
@@ -11225,6 +12098,15 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         8.543591,
                         45.879929
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Ceresolo",
+                  "text": "Strand a Maggiore-tó partján, Stresa közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        8.598337,
+                        45.888488
                   ]
             }
       ],
@@ -11327,6 +12209,15 @@ export const poiExtraItalyV2: POI[] = [
                         8.543591,
                         45.879929
                   ]
+            },
+            {
+                  "name": "Spiaggia di Ceresolo",
+                  "text": "Plajă pe malul lacului Maggiore, lângă Stresa.",
+                  "category": "recreational",
+                  "coords": [
+                        8.598337,
+                        45.888488
+                  ]
             }
       ],
       "en": [
@@ -11427,6 +12318,15 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         8.543591,
                         45.879929
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Ceresolo",
+                  "text": "Beach on the shore of Lake Maggiore near Stresa.",
+                  "category": "recreational",
+                  "coords": [
+                        8.598337,
+                        45.888488
                   ]
             }
       ]
@@ -11531,6 +12431,24 @@ export const poiExtraItalyV2: POI[] = [
                         15.284557,
                         37.854525
                   ]
+            },
+            {
+                  "name": "Spiaggetta delle Sirene",
+                  "text": "Die Spiaggetta delle Sirene ist ein kleiner Strand in Taormina.",
+                  "category": "recreational",
+                  "coords": [
+                        15.300485,
+                        37.857774
+                  ]
+            },
+            {
+                  "name": "Spiaggia dei Greci",
+                  "text": "Die Spiaggia dei Greci ist ein Strand in Taormina.",
+                  "category": "recreational",
+                  "coords": [
+                        15.271024,
+                        37.818481
+                  ]
             }
       ],
       "hu": [
@@ -11631,6 +12549,24 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         15.284557,
                         37.854525
+                  ]
+            },
+            {
+                  "name": "Spiaggetta delle Sirene",
+                  "text": "A Spiaggetta delle Sirene egy kis strand Taorminában.",
+                  "category": "recreational",
+                  "coords": [
+                        15.300485,
+                        37.857774
+                  ]
+            },
+            {
+                  "name": "Spiaggia dei Greci",
+                  "text": "A Spiaggia dei Greci egy strand Taorminában.",
+                  "category": "recreational",
+                  "coords": [
+                        15.271024,
+                        37.818481
                   ]
             }
       ],
@@ -11733,6 +12669,24 @@ export const poiExtraItalyV2: POI[] = [
                         15.284557,
                         37.854525
                   ]
+            },
+            {
+                  "name": "Spiaggetta delle Sirene",
+                  "text": "Spiaggetta delle Sirene este o plajă mică din Taormina.",
+                  "category": "recreational",
+                  "coords": [
+                        15.300485,
+                        37.857774
+                  ]
+            },
+            {
+                  "name": "Spiaggia dei Greci",
+                  "text": "Spiaggia dei Greci este o plajă din Taormina.",
+                  "category": "recreational",
+                  "coords": [
+                        15.271024,
+                        37.818481
+                  ]
             }
       ],
       "en": [
@@ -11833,6 +12787,24 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         15.284557,
                         37.854525
+                  ]
+            },
+            {
+                  "name": "Spiaggetta delle Sirene",
+                  "text": "Spiaggetta delle Sirene is a small beach in Taormina.",
+                  "category": "recreational",
+                  "coords": [
+                        15.300485,
+                        37.857774
+                  ]
+            },
+            {
+                  "name": "Spiaggia dei Greci",
+                  "text": "Spiaggia dei Greci is a beach in Taormina.",
+                  "category": "recreational",
+                  "coords": [
+                        15.271024,
+                        37.818481
                   ]
             }
       ]
@@ -11948,6 +12920,15 @@ export const poiExtraItalyV2: POI[] = [
                         7.67348,
                         45.03185
                   ]
+            },
+            {
+                  "name": "Spiaggia del Meisino",
+                  "text": "Die Spiaggia del Meisino ist ein Strand am Flussufer in Turin.",
+                  "category": "recreational",
+                  "coords": [
+                        7.734508,
+                        45.090878
+                  ]
             }
       ],
       "hu": [
@@ -12059,6 +13040,15 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         7.67348,
                         45.03185
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Meisino",
+                  "text": "A Spiaggia del Meisino egy folyóparti strand Torinóban.",
+                  "category": "recreational",
+                  "coords": [
+                        7.734508,
+                        45.090878
                   ]
             }
       ],
@@ -12172,6 +13162,15 @@ export const poiExtraItalyV2: POI[] = [
                         7.67348,
                         45.03185
                   ]
+            },
+            {
+                  "name": "Spiaggia del Meisino",
+                  "text": "Spiaggia del Meisino este o plajă de pe malul râului în Torino.",
+                  "category": "recreational",
+                  "coords": [
+                        7.734508,
+                        45.090878
+                  ]
             }
       ],
       "en": [
@@ -12284,6 +13283,15 @@ export const poiExtraItalyV2: POI[] = [
                         7.67348,
                         45.03185
                   ]
+            },
+            {
+                  "name": "Spiaggia del Meisino",
+                  "text": "Spiaggia del Meisino is a riverside beach in Turin.",
+                  "category": "recreational",
+                  "coords": [
+                        7.734508,
+                        45.090878
+                  ]
             }
       ]
 }},
@@ -12376,6 +13384,69 @@ export const poiExtraItalyV2: POI[] = [
                         15.897597,
                         38.677523
                   ]
+            },
+            {
+                  "name": "Spiaggia del Convento",
+                  "text": "Der Spiaggia del Convento ist ein Strand in Tropea.",
+                  "category": "recreational",
+                  "coords": [
+                        15.890055,
+                        38.676916
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Cannone",
+                  "text": "Der Spiaggia del Cannone ist ein Strand in Tropea.",
+                  "category": "recreational",
+                  "coords": [
+                        15.900828,
+                        38.68071
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Riaci",
+                  "text": "Der Spiaggia di Riaci ist ein Strand in Tropea.",
+                  "category": "recreational",
+                  "coords": [
+                        15.870746,
+                        38.671878
+                  ]
+            },
+            {
+                  "name": "Spiaggia Michelino",
+                  "text": "Ein malerischer Strand in Tropea, bekannt für seinen feinen Sand.",
+                  "category": "recreational",
+                  "coords": [
+                        15.919756,
+                        38.684835
+                  ]
+            },
+            {
+                  "name": "Spiaggia Vardanello",
+                  "text": "Ein schöner Strandabschnitt nahe Tropea.",
+                  "category": "recreational",
+                  "coords": [
+                        15.91653,
+                        38.683861
+                  ]
+            },
+            {
+                  "name": "Spiaggia l'Occhiale",
+                  "text": "Ein idyllischer Strand in der Nähe von Tropea.",
+                  "category": "recreational",
+                  "coords": [
+                        15.8787,
+                        38.672526
+                  ]
+            },
+            {
+                  "name": "Spiaggia della Mandorla",
+                  "text": "Ein ruhiger Strandabschnitt bei Tropea.",
+                  "category": "recreational",
+                  "coords": [
+                        15.882179,
+                        38.67277
+                  ]
             }
       ],
       "hu": [
@@ -12465,6 +13536,69 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         15.897597,
                         38.677523
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Convento",
+                  "text": "A Spiaggia del Convento egy strand Tropea városában.",
+                  "category": "recreational",
+                  "coords": [
+                        15.890055,
+                        38.676916
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Cannone",
+                  "text": "A Spiaggia del Cannone egy strand Tropea városában.",
+                  "category": "recreational",
+                  "coords": [
+                        15.900828,
+                        38.68071
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Riaci",
+                  "text": "A Spiaggia di Riaci egy strand Tropea városában.",
+                  "category": "recreational",
+                  "coords": [
+                        15.870746,
+                        38.671878
+                  ]
+            },
+            {
+                  "name": "Spiaggia Michelino",
+                  "text": "Festői strand Tropeában, finom homokjáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        15.919756,
+                        38.684835
+                  ]
+            },
+            {
+                  "name": "Spiaggia Vardanello",
+                  "text": "Szép partszakasz Tropea közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        15.91653,
+                        38.683861
+                  ]
+            },
+            {
+                  "name": "Spiaggia l'Occhiale",
+                  "text": "Idilli strand Tropea közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        15.8787,
+                        38.672526
+                  ]
+            },
+            {
+                  "name": "Spiaggia della Mandorla",
+                  "text": "Csendes partszakasz Tropea mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        15.882179,
+                        38.67277
                   ]
             }
       ],
@@ -12556,6 +13690,69 @@ export const poiExtraItalyV2: POI[] = [
                         15.897597,
                         38.677523
                   ]
+            },
+            {
+                  "name": "Spiaggia del Convento",
+                  "text": "Spiaggia del Convento este o plajă din Tropea.",
+                  "category": "recreational",
+                  "coords": [
+                        15.890055,
+                        38.676916
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Cannone",
+                  "text": "Spiaggia del Cannone este o plajă din Tropea.",
+                  "category": "recreational",
+                  "coords": [
+                        15.900828,
+                        38.68071
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Riaci",
+                  "text": "Spiaggia di Riaci este o plajă din Tropea.",
+                  "category": "recreational",
+                  "coords": [
+                        15.870746,
+                        38.671878
+                  ]
+            },
+            {
+                  "name": "Spiaggia Michelino",
+                  "text": "O plajă pitorească în Tropea, cunoscută pentru nisipul fin.",
+                  "category": "recreational",
+                  "coords": [
+                        15.919756,
+                        38.684835
+                  ]
+            },
+            {
+                  "name": "Spiaggia Vardanello",
+                  "text": "O secțiune de plajă frumoasă lângă Tropea.",
+                  "category": "recreational",
+                  "coords": [
+                        15.91653,
+                        38.683861
+                  ]
+            },
+            {
+                  "name": "Spiaggia l'Occhiale",
+                  "text": "O plajă idilică în apropiere de Tropea.",
+                  "category": "recreational",
+                  "coords": [
+                        15.8787,
+                        38.672526
+                  ]
+            },
+            {
+                  "name": "Spiaggia della Mandorla",
+                  "text": "O secțiune liniștită de plajă lângă Tropea.",
+                  "category": "recreational",
+                  "coords": [
+                        15.882179,
+                        38.67277
+                  ]
             }
       ],
       "en": [
@@ -12645,6 +13842,69 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         15.897597,
                         38.677523
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Convento",
+                  "text": "Spiaggia del Convento is a beach in Tropea.",
+                  "category": "recreational",
+                  "coords": [
+                        15.890055,
+                        38.676916
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Cannone",
+                  "text": "Spiaggia del Cannone is a beach in Tropea.",
+                  "category": "recreational",
+                  "coords": [
+                        15.900828,
+                        38.68071
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Riaci",
+                  "text": "Spiaggia di Riaci is a beach in Tropea.",
+                  "category": "recreational",
+                  "coords": [
+                        15.870746,
+                        38.671878
+                  ]
+            },
+            {
+                  "name": "Spiaggia Michelino",
+                  "text": "A picturesque beach in Tropea, known for its fine sand.",
+                  "category": "recreational",
+                  "coords": [
+                        15.919756,
+                        38.684835
+                  ]
+            },
+            {
+                  "name": "Spiaggia Vardanello",
+                  "text": "A beautiful stretch of beach near Tropea.",
+                  "category": "recreational",
+                  "coords": [
+                        15.91653,
+                        38.683861
+                  ]
+            },
+            {
+                  "name": "Spiaggia l'Occhiale",
+                  "text": "An idyllic beach near Tropea.",
+                  "category": "recreational",
+                  "coords": [
+                        15.8787,
+                        38.672526
+                  ]
+            },
+            {
+                  "name": "Spiaggia della Mandorla",
+                  "text": "A quiet stretch of beach near Tropea.",
+                  "category": "recreational",
+                  "coords": [
+                        15.882179,
+                        38.67277
                   ]
             }
       ]
@@ -13385,6 +14645,33 @@ export const poiExtraItalyV2: POI[] = [
                         8.242691,
                         40.594953
                   ]
+            },
+            {
+                  "name": "Spiaggia di Maria Pia",
+                  "text": "Spiaggia di Maria Pia ist ein bekannter Sandstrand in Alghero.",
+                  "category": "recreational",
+                  "coords": [
+                        8.299522,
+                        40.586751
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Cavalcavia",
+                  "text": "Spiaggia del Cavalcavia ist ein Strand in Alghero.",
+                  "category": "recreational",
+                  "coords": [
+                        8.320765,
+                        40.54649
+                  ]
+            },
+            {
+                  "name": "Spiaggia di San Giovanni",
+                  "text": "Spiaggia di San Giovanni ist ein Strand in Alghero.",
+                  "category": "recreational",
+                  "coords": [
+                        8.315331,
+                        40.57156
+                  ]
             }
       ],
       "hu": [
@@ -13485,6 +14772,33 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         8.242691,
                         40.594953
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Maria Pia",
+                  "text": "A Spiaggia di Maria Pia egy ismert homokos strand Algheróban.",
+                  "category": "recreational",
+                  "coords": [
+                        8.299522,
+                        40.586751
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Cavalcavia",
+                  "text": "A Spiaggia del Cavalcavia egy strand Algheróban.",
+                  "category": "recreational",
+                  "coords": [
+                        8.320765,
+                        40.54649
+                  ]
+            },
+            {
+                  "name": "Spiaggia di San Giovanni",
+                  "text": "A Spiaggia di San Giovanni egy strand Algheróban.",
+                  "category": "recreational",
+                  "coords": [
+                        8.315331,
+                        40.57156
                   ]
             }
       ],
@@ -13587,6 +14901,33 @@ export const poiExtraItalyV2: POI[] = [
                         8.242691,
                         40.594953
                   ]
+            },
+            {
+                  "name": "Spiaggia di Maria Pia",
+                  "text": "Spiaggia di Maria Pia este o plajă cu nisip cunoscută în Alghero.",
+                  "category": "recreational",
+                  "coords": [
+                        8.299522,
+                        40.586751
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Cavalcavia",
+                  "text": "Spiaggia del Cavalcavia este o plajă în Alghero.",
+                  "category": "recreational",
+                  "coords": [
+                        8.320765,
+                        40.54649
+                  ]
+            },
+            {
+                  "name": "Spiaggia di San Giovanni",
+                  "text": "Spiaggia di San Giovanni este o plajă în Alghero.",
+                  "category": "recreational",
+                  "coords": [
+                        8.315331,
+                        40.57156
+                  ]
             }
       ],
       "en": [
@@ -13687,6 +15028,33 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         8.242691,
                         40.594953
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Maria Pia",
+                  "text": "Spiaggia di Maria Pia is a well-known sandy beach in Alghero.",
+                  "category": "recreational",
+                  "coords": [
+                        8.299522,
+                        40.586751
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Cavalcavia",
+                  "text": "Spiaggia del Cavalcavia is a beach in Alghero.",
+                  "category": "recreational",
+                  "coords": [
+                        8.320765,
+                        40.54649
+                  ]
+            },
+            {
+                  "name": "Spiaggia di San Giovanni",
+                  "text": "Spiaggia di San Giovanni is a beach in Alghero.",
+                  "category": "recreational",
+                  "coords": [
+                        8.315331,
+                        40.57156
                   ]
             }
       ]
@@ -14493,6 +15861,33 @@ export const poiExtraItalyV2: POI[] = [
                         9.16889,
                         44.326762
                   ]
+            },
+            {
+                  "name": "Spiaggia di Sori",
+                  "text": "Ein Strand in Camogli.",
+                  "category": "recreational",
+                  "coords": [
+                        9.103349,
+                        44.370459
+                  ]
+            },
+            {
+                  "name": "Spiaggia Punta S.Anna",
+                  "text": "Ein Strand in Camogli.",
+                  "category": "recreational",
+                  "coords": [
+                        9.139802,
+                        44.360795
+                  ]
+            },
+            {
+                  "name": "Spiaggia Libera di Mulinetti",
+                  "text": "Ein Strand in Camogli.",
+                  "category": "recreational",
+                  "coords": [
+                        9.129679,
+                        44.362313
+                  ]
             }
       ],
       "hu": [
@@ -14571,6 +15966,33 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         9.16889,
                         44.326762
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Sori",
+                  "text": "Strand Camogliban.",
+                  "category": "recreational",
+                  "coords": [
+                        9.103349,
+                        44.370459
+                  ]
+            },
+            {
+                  "name": "Spiaggia Punta S.Anna",
+                  "text": "Strand Camogliban.",
+                  "category": "recreational",
+                  "coords": [
+                        9.139802,
+                        44.360795
+                  ]
+            },
+            {
+                  "name": "Spiaggia Libera di Mulinetti",
+                  "text": "Strand Camogliban.",
+                  "category": "recreational",
+                  "coords": [
+                        9.129679,
+                        44.362313
                   ]
             }
       ],
@@ -14651,6 +16073,33 @@ export const poiExtraItalyV2: POI[] = [
                         9.16889,
                         44.326762
                   ]
+            },
+            {
+                  "name": "Spiaggia di Sori",
+                  "text": "O plajă în Camogli.",
+                  "category": "recreational",
+                  "coords": [
+                        9.103349,
+                        44.370459
+                  ]
+            },
+            {
+                  "name": "Spiaggia Punta S.Anna",
+                  "text": "O plajă în Camogli.",
+                  "category": "recreational",
+                  "coords": [
+                        9.139802,
+                        44.360795
+                  ]
+            },
+            {
+                  "name": "Spiaggia Libera di Mulinetti",
+                  "text": "O plajă în Camogli.",
+                  "category": "recreational",
+                  "coords": [
+                        9.129679,
+                        44.362313
+                  ]
             }
       ],
       "en": [
@@ -14729,6 +16178,33 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         9.16889,
                         44.326762
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Sori",
+                  "text": "A beach in Camogli.",
+                  "category": "recreational",
+                  "coords": [
+                        9.103349,
+                        44.370459
+                  ]
+            },
+            {
+                  "name": "Spiaggia Punta S.Anna",
+                  "text": "A beach in Camogli.",
+                  "category": "recreational",
+                  "coords": [
+                        9.139802,
+                        44.360795
+                  ]
+            },
+            {
+                  "name": "Spiaggia Libera di Mulinetti",
+                  "text": "A beach in Camogli.",
+                  "category": "recreational",
+                  "coords": [
+                        9.129679,
+                        44.362313
                   ]
             }
       ]
@@ -14833,6 +16309,15 @@ export const poiExtraItalyV2: POI[] = [
                         14.019992,
                         38.040126
                   ]
+            },
+            {
+                  "name": "Spiaggia di Cefalù",
+                  "text": "Ein beliebter Strand in Cefalù, bekannt für seinen Blick auf die Stadt.",
+                  "category": "recreational",
+                  "coords": [
+                        14.01547,
+                        38.036039
+                  ]
             }
       ],
       "hu": [
@@ -14933,6 +16418,15 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         14.019992,
                         38.040126
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Cefalù",
+                  "text": "Népszerű strand Cefalùban, kilátással a városra.",
+                  "category": "recreational",
+                  "coords": [
+                        14.01547,
+                        38.036039
                   ]
             }
       ],
@@ -15035,6 +16529,15 @@ export const poiExtraItalyV2: POI[] = [
                         14.019992,
                         38.040126
                   ]
+            },
+            {
+                  "name": "Spiaggia di Cefalù",
+                  "text": "O plajă populară în Cefalù, cunoscută pentru priveliștea spre oraș.",
+                  "category": "recreational",
+                  "coords": [
+                        14.01547,
+                        38.036039
+                  ]
             }
       ],
       "en": [
@@ -15135,6 +16638,15 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         14.019992,
                         38.040126
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Cefalù",
+                  "text": "A popular beach in Cefalù, known for its view of the town.",
+                  "category": "recreational",
+                  "coords": [
+                        14.01547,
+                        38.036039
                   ]
             }
       ]
@@ -16018,6 +17530,15 @@ export const poiExtraItalyV2: POI[] = [
                         12.588019,
                         38.03844
                   ]
+            },
+            {
+                  "name": "Spiaggia della Segheria",
+                  "text": "Spiaggia della Segheria ist ein Strand in Erice.",
+                  "category": "recreational",
+                  "coords": [
+                        12.56785,
+                        38.066636
+                  ]
             }
       ],
       "hu": [
@@ -16129,6 +17650,15 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         12.588019,
                         38.03844
+                  ]
+            },
+            {
+                  "name": "Spiaggia della Segheria",
+                  "text": "A Spiaggia della Segheria egy strand Erice városában.",
+                  "category": "recreational",
+                  "coords": [
+                        12.56785,
+                        38.066636
                   ]
             }
       ],
@@ -16242,6 +17772,15 @@ export const poiExtraItalyV2: POI[] = [
                         12.588019,
                         38.03844
                   ]
+            },
+            {
+                  "name": "Spiaggia della Segheria",
+                  "text": "Spiaggia della Segheria este o plajă situată în Erice.",
+                  "category": "recreational",
+                  "coords": [
+                        12.56785,
+                        38.066636
+                  ]
             }
       ],
       "en": [
@@ -16353,6 +17892,15 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         12.588019,
                         38.03844
+                  ]
+            },
+            {
+                  "name": "Spiaggia della Segheria",
+                  "text": "Spiaggia della Segheria is a beach in Erice.",
+                  "category": "recreational",
+                  "coords": [
+                        12.56785,
+                        38.066636
                   ]
             }
       ]
@@ -16907,6 +18455,24 @@ export const poiExtraItalyV2: POI[] = [
                         10.159397,
                         43.968866
                   ]
+            },
+            {
+                  "name": "Spiaggia del Cinquale",
+                  "text": "Ein Küstenstrand in Dei Marmi.",
+                  "category": "recreational",
+                  "coords": [
+                        10.141055,
+                        43.978811
+                  ]
+            },
+            {
+                  "name": "Spiaggia Colonia Casalmaggiore",
+                  "text": "Ein Strandbereich in Dei Marmi.",
+                  "category": "recreational",
+                  "coords": [
+                        10.144751,
+                        43.974898
+                  ]
             }
       ],
       "hu": [
@@ -17007,6 +18573,24 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         10.159397,
                         43.968866
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Cinquale",
+                  "text": "Tengerparti strand Dei Marmiban.",
+                  "category": "recreational",
+                  "coords": [
+                        10.141055,
+                        43.978811
+                  ]
+            },
+            {
+                  "name": "Spiaggia Colonia Casalmaggiore",
+                  "text": "Strandterület Dei Marmiban.",
+                  "category": "recreational",
+                  "coords": [
+                        10.144751,
+                        43.974898
                   ]
             }
       ],
@@ -17109,6 +18693,24 @@ export const poiExtraItalyV2: POI[] = [
                         10.159397,
                         43.968866
                   ]
+            },
+            {
+                  "name": "Spiaggia del Cinquale",
+                  "text": "O plajă de coastă în Dei Marmi.",
+                  "category": "recreational",
+                  "coords": [
+                        10.141055,
+                        43.978811
+                  ]
+            },
+            {
+                  "name": "Spiaggia Colonia Casalmaggiore",
+                  "text": "O zonă de plajă în Dei Marmi.",
+                  "category": "recreational",
+                  "coords": [
+                        10.144751,
+                        43.974898
+                  ]
             }
       ],
       "en": [
@@ -17210,6 +18812,24 @@ export const poiExtraItalyV2: POI[] = [
                         10.159397,
                         43.968866
                   ]
+            },
+            {
+                  "name": "Spiaggia del Cinquale",
+                  "text": "A coastal beach in Dei Marmi.",
+                  "category": "recreational",
+                  "coords": [
+                        10.141055,
+                        43.978811
+                  ]
+            },
+            {
+                  "name": "Spiaggia Colonia Casalmaggiore",
+                  "text": "A beach area in Dei Marmi.",
+                  "category": "recreational",
+                  "coords": [
+                        10.144751,
+                        43.974898
+                  ]
             }
       ]
 }},
@@ -17302,6 +18922,15 @@ export const poiExtraItalyV2: POI[] = [
                         17.981027,
                         40.054937
                   ]
+            },
+            {
+                  "name": "Spiaggia di Rivabella",
+                  "text": "Ein Strand in Gallipoli.",
+                  "category": "recreational",
+                  "coords": [
+                        18.012122,
+                        40.088488
+                  ]
             }
       ],
       "hu": [
@@ -17391,6 +19020,15 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         17.981027,
                         40.054937
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Rivabella",
+                  "text": "Strand Gallipoliban.",
+                  "category": "recreational",
+                  "coords": [
+                        18.012122,
+                        40.088488
                   ]
             }
       ],
@@ -17482,6 +19120,15 @@ export const poiExtraItalyV2: POI[] = [
                         17.981027,
                         40.054937
                   ]
+            },
+            {
+                  "name": "Spiaggia di Rivabella",
+                  "text": "O plajă în Gallipoli.",
+                  "category": "recreational",
+                  "coords": [
+                        18.012122,
+                        40.088488
+                  ]
             }
       ],
       "en": [
@@ -17572,6 +19219,15 @@ export const poiExtraItalyV2: POI[] = [
                         17.981027,
                         40.054937
                   ]
+            },
+            {
+                  "name": "Spiaggia di Rivabella",
+                  "text": "A beach in Gallipoli.",
+                  "category": "recreational",
+                  "coords": [
+                        18.012122,
+                        40.088488
+                  ]
             }
       ]
 }},
@@ -17653,6 +19309,51 @@ export const poiExtraItalyV2: POI[] = [
                         13.959107,
                         40.73236
                   ]
+            },
+            {
+                  "name": "Spiaggia del Muro Rotto",
+                  "text": "Ein ruhiger Strand in der Küstenregion von Ischia.",
+                  "category": "recreational",
+                  "coords": [
+                        13.956551,
+                        40.73456
+                  ]
+            },
+            {
+                  "name": "Spiaggia di San Pietro",
+                  "text": "Zentral gelegener Strand in der Stadt Ischia.",
+                  "category": "recreational",
+                  "coords": [
+                        13.947593,
+                        40.744119
+                  ]
+            },
+            {
+                  "name": "Spiaggia dei Pescatori",
+                  "text": "Ein traditioneller Fischerstrand in Ischia.",
+                  "category": "recreational",
+                  "coords": [
+                        13.955606,
+                        40.737038
+                  ]
+            },
+            {
+                  "name": "Spiaggia degli Inglesi",
+                  "text": "Ein kleiner, charmanter Strand in der Nähe von Ischia.",
+                  "category": "recreational",
+                  "coords": [
+                        13.934273,
+                        40.746199
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Cartaromana",
+                  "text": "Ein Strand mit Blick auf das Kastell von Ischia.",
+                  "category": "recreational",
+                  "coords": [
+                        13.959176,
+                        40.723708
+                  ]
             }
       ],
       "hu": [
@@ -17731,6 +19432,51 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         13.959107,
                         40.73236
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Muro Rotto",
+                  "text": "Csendes strand Ischia partvidékén.",
+                  "category": "recreational",
+                  "coords": [
+                        13.956551,
+                        40.73456
+                  ]
+            },
+            {
+                  "name": "Spiaggia di San Pietro",
+                  "text": "Központi fekvésű strand Ischia városában.",
+                  "category": "recreational",
+                  "coords": [
+                        13.947593,
+                        40.744119
+                  ]
+            },
+            {
+                  "name": "Spiaggia dei Pescatori",
+                  "text": "Hagyományos halászstrand Ischiában.",
+                  "category": "recreational",
+                  "coords": [
+                        13.955606,
+                        40.737038
+                  ]
+            },
+            {
+                  "name": "Spiaggia degli Inglesi",
+                  "text": "Kicsi, hangulatos strand Ischia közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        13.934273,
+                        40.746199
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Cartaromana",
+                  "text": "Strand kilátással az ischiai várra.",
+                  "category": "recreational",
+                  "coords": [
+                        13.959176,
+                        40.723708
                   ]
             }
       ],
@@ -17811,6 +19557,51 @@ export const poiExtraItalyV2: POI[] = [
                         13.959107,
                         40.73236
                   ]
+            },
+            {
+                  "name": "Spiaggia del Muro Rotto",
+                  "text": "O plajă liniștită în regiunea de coastă a Ischiei.",
+                  "category": "recreational",
+                  "coords": [
+                        13.956551,
+                        40.73456
+                  ]
+            },
+            {
+                  "name": "Spiaggia di San Pietro",
+                  "text": "Plajă situată central în orașul Ischia.",
+                  "category": "recreational",
+                  "coords": [
+                        13.947593,
+                        40.744119
+                  ]
+            },
+            {
+                  "name": "Spiaggia dei Pescatori",
+                  "text": "O plajă tradițională a pescarilor în Ischia.",
+                  "category": "recreational",
+                  "coords": [
+                        13.955606,
+                        40.737038
+                  ]
+            },
+            {
+                  "name": "Spiaggia degli Inglesi",
+                  "text": "O plajă mică și fermecătoare lângă Ischia.",
+                  "category": "recreational",
+                  "coords": [
+                        13.934273,
+                        40.746199
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Cartaromana",
+                  "text": "O plajă cu vedere spre castelul din Ischia.",
+                  "category": "recreational",
+                  "coords": [
+                        13.959176,
+                        40.723708
+                  ]
             }
       ],
       "en": [
@@ -17889,6 +19680,51 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         13.959107,
                         40.73236
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Muro Rotto",
+                  "text": "A quiet beach in the coastal region of Ischia.",
+                  "category": "recreational",
+                  "coords": [
+                        13.956551,
+                        40.73456
+                  ]
+            },
+            {
+                  "name": "Spiaggia di San Pietro",
+                  "text": "Centrally located beach in the town of Ischia.",
+                  "category": "recreational",
+                  "coords": [
+                        13.947593,
+                        40.744119
+                  ]
+            },
+            {
+                  "name": "Spiaggia dei Pescatori",
+                  "text": "A traditional fisherman's beach in Ischia.",
+                  "category": "recreational",
+                  "coords": [
+                        13.955606,
+                        40.737038
+                  ]
+            },
+            {
+                  "name": "Spiaggia degli Inglesi",
+                  "text": "A small, charming beach near Ischia.",
+                  "category": "recreational",
+                  "coords": [
+                        13.934273,
+                        40.746199
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Cartaromana",
+                  "text": "A beach with a view of the castle in Ischia.",
+                  "category": "recreational",
+                  "coords": [
+                        13.959176,
+                        40.723708
                   ]
             }
       ]
@@ -19002,6 +20838,15 @@ export const poiExtraItalyV2: POI[] = [
                         9.240918,
                         46.024475
                   ]
+            },
+            {
+                  "name": "Spiaggia Lerai",
+                  "text": "Der Spiaggia Lerai ist ein Strand in Menaggio.",
+                  "category": "recreational",
+                  "coords": [
+                        9.23845,
+                        46.026115
+                  ]
             }
       ],
       "hu": [
@@ -19113,6 +20958,15 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         9.240918,
                         46.024475
+                  ]
+            },
+            {
+                  "name": "Spiaggia Lerai",
+                  "text": "A Spiaggia Lerai egy strand Menaggio városában.",
+                  "category": "recreational",
+                  "coords": [
+                        9.23845,
+                        46.026115
                   ]
             }
       ],
@@ -19226,6 +21080,15 @@ export const poiExtraItalyV2: POI[] = [
                         9.240918,
                         46.024475
                   ]
+            },
+            {
+                  "name": "Spiaggia Lerai",
+                  "text": "Spiaggia Lerai este o plajă din Menaggio.",
+                  "category": "recreational",
+                  "coords": [
+                        9.23845,
+                        46.026115
+                  ]
             }
       ],
       "en": [
@@ -19337,6 +21200,15 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         9.240918,
                         46.024475
+                  ]
+            },
+            {
+                  "name": "Spiaggia Lerai",
+                  "text": "Spiaggia Lerai is a beach in Menaggio.",
+                  "category": "recreational",
+                  "coords": [
+                        9.23845,
+                        46.026115
                   ]
             }
       ]
@@ -20286,6 +22158,87 @@ export const poiExtraItalyV2: POI[] = [
                         17.302362,
                         40.951588
                   ]
+            },
+            {
+                  "name": "Cala Porto Rosso",
+                  "text": "Cala Porto Rosso ist eine malerische Badebucht in Monopoli.",
+                  "category": "recreational",
+                  "coords": [
+                        17.307927,
+                        40.946821
+                  ]
+            },
+            {
+                  "name": "Cala Corvino",
+                  "text": "Cala Corvino ist ein Strandbereich in Monopoli.",
+                  "category": "recreational",
+                  "coords": [
+                        17.264943,
+                        40.973105
+                  ]
+            },
+            {
+                  "name": "Cala Susca",
+                  "text": "Cala Susca ist ein Strand in der Stadt Monopoli.",
+                  "category": "recreational",
+                  "coords": [
+                        17.288027,
+                        40.962143
+                  ]
+            },
+            {
+                  "name": "Cala Cozze",
+                  "text": "Cala Cozze ist ein Strandabschnitt in Monopoli.",
+                  "category": "recreational",
+                  "coords": [
+                        17.306467,
+                        40.948898
+                  ]
+            },
+            {
+                  "name": "Cala Paradiso",
+                  "text": "Cala Paradiso ist ein Strand in Monopoli.",
+                  "category": "recreational",
+                  "coords": [
+                        17.313906,
+                        40.943847
+                  ]
+            },
+            {
+                  "name": "Cala Cerasa",
+                  "text": "Cala Cerasa ist ein Strand in Monopoli.",
+                  "category": "recreational",
+                  "coords": [
+                        17.318814,
+                        40.938638
+                  ]
+            },
+            {
+                  "name": "Cala Monaci",
+                  "text": "Cala Monaci ist ein Strand in Monopoli.",
+                  "category": "recreational",
+                  "coords": [
+                        17.285687,
+                        40.964149
+                  ]
+            },
+            {
+                  "name": "Cala Sottile",
+                  "text": "Cala Sottile ist ein Strand in Monopoli.",
+                  "category": "recreational",
+                  "coords": [
+                        17.33493,
+                        40.925657
+                  ]
+            },
+            {
+                  "name": "Cala Verde",
+                  "text": "Cala Verde ist ein Strand in Monopoli.",
+                  "category": "recreational",
+                  "coords": [
+                        17.337452,
+                        40.921591
+                  ]
             }
       ],
       "hu": [
@@ -20375,6 +22328,87 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         17.302362,
                         40.951588
+                  ]
+            },
+            {
+                  "name": "Cala Porto Rosso",
+                  "text": "A Cala Porto Rosso egy festői öböl Monopoliban.",
+                  "category": "recreational",
+                  "coords": [
+                        17.307927,
+                        40.946821
+                  ]
+            },
+            {
+                  "name": "Cala Corvino",
+                  "text": "A Cala Corvino egy strandterület Monopoliban.",
+                  "category": "recreational",
+                  "coords": [
+                        17.264943,
+                        40.973105
+                  ]
+            },
+            {
+                  "name": "Cala Susca",
+                  "text": "A Cala Susca egy strand Monopoli városában.",
+                  "category": "recreational",
+                  "coords": [
+                        17.288027,
+                        40.962143
+                  ]
+            },
+            {
+                  "name": "Cala Cozze",
+                  "text": "A Cala Cozze egy strandrész Monopoliban.",
+                  "category": "recreational",
+                  "coords": [
+                        17.306467,
+                        40.948898
+                  ]
+            },
+            {
+                  "name": "Cala Paradiso",
+                  "text": "A Cala Paradiso egy strand Monopoliban.",
+                  "category": "recreational",
+                  "coords": [
+                        17.313906,
+                        40.943847
+                  ]
+            },
+            {
+                  "name": "Cala Cerasa",
+                  "text": "A Cala Cerasa egy strand Monopoliban.",
+                  "category": "recreational",
+                  "coords": [
+                        17.318814,
+                        40.938638
+                  ]
+            },
+            {
+                  "name": "Cala Monaci",
+                  "text": "A Cala Monaci egy strand Monopoliban.",
+                  "category": "recreational",
+                  "coords": [
+                        17.285687,
+                        40.964149
+                  ]
+            },
+            {
+                  "name": "Cala Sottile",
+                  "text": "A Cala Sottile egy strand Monopoliban.",
+                  "category": "recreational",
+                  "coords": [
+                        17.33493,
+                        40.925657
+                  ]
+            },
+            {
+                  "name": "Cala Verde",
+                  "text": "A Cala Verde egy strand Monopoliban.",
+                  "category": "recreational",
+                  "coords": [
+                        17.337452,
+                        40.921591
                   ]
             }
       ],
@@ -20466,6 +22500,87 @@ export const poiExtraItalyV2: POI[] = [
                         17.302362,
                         40.951588
                   ]
+            },
+            {
+                  "name": "Cala Porto Rosso",
+                  "text": "Cala Porto Rosso este un golf pitoresc în Monopoli.",
+                  "category": "recreational",
+                  "coords": [
+                        17.307927,
+                        40.946821
+                  ]
+            },
+            {
+                  "name": "Cala Corvino",
+                  "text": "Cala Corvino este o zonă de plajă în Monopoli.",
+                  "category": "recreational",
+                  "coords": [
+                        17.264943,
+                        40.973105
+                  ]
+            },
+            {
+                  "name": "Cala Susca",
+                  "text": "Cala Susca este o plajă în orașul Monopoli.",
+                  "category": "recreational",
+                  "coords": [
+                        17.288027,
+                        40.962143
+                  ]
+            },
+            {
+                  "name": "Cala Cozze",
+                  "text": "Cala Cozze este o secțiune de plajă în Monopoli.",
+                  "category": "recreational",
+                  "coords": [
+                        17.306467,
+                        40.948898
+                  ]
+            },
+            {
+                  "name": "Cala Paradiso",
+                  "text": "Cala Paradiso este o plajă în Monopoli.",
+                  "category": "recreational",
+                  "coords": [
+                        17.313906,
+                        40.943847
+                  ]
+            },
+            {
+                  "name": "Cala Cerasa",
+                  "text": "Cala Cerasa este o plajă în Monopoli.",
+                  "category": "recreational",
+                  "coords": [
+                        17.318814,
+                        40.938638
+                  ]
+            },
+            {
+                  "name": "Cala Monaci",
+                  "text": "Cala Monaci este o plajă în Monopoli.",
+                  "category": "recreational",
+                  "coords": [
+                        17.285687,
+                        40.964149
+                  ]
+            },
+            {
+                  "name": "Cala Sottile",
+                  "text": "Cala Sottile este o plajă în Monopoli.",
+                  "category": "recreational",
+                  "coords": [
+                        17.33493,
+                        40.925657
+                  ]
+            },
+            {
+                  "name": "Cala Verde",
+                  "text": "Cala Verde este o plajă în Monopoli.",
+                  "category": "recreational",
+                  "coords": [
+                        17.337452,
+                        40.921591
+                  ]
             }
       ],
       "en": [
@@ -20555,6 +22670,87 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         17.302362,
                         40.951588
+                  ]
+            },
+            {
+                  "name": "Cala Porto Rosso",
+                  "text": "Cala Porto Rosso is a picturesque swimming cove in Monopoli.",
+                  "category": "recreational",
+                  "coords": [
+                        17.307927,
+                        40.946821
+                  ]
+            },
+            {
+                  "name": "Cala Corvino",
+                  "text": "Cala Corvino is a beach area in Monopoli.",
+                  "category": "recreational",
+                  "coords": [
+                        17.264943,
+                        40.973105
+                  ]
+            },
+            {
+                  "name": "Cala Susca",
+                  "text": "Cala Susca is a beach in the city of Monopoli.",
+                  "category": "recreational",
+                  "coords": [
+                        17.288027,
+                        40.962143
+                  ]
+            },
+            {
+                  "name": "Cala Cozze",
+                  "text": "Cala Cozze is a beach area in Monopoli.",
+                  "category": "recreational",
+                  "coords": [
+                        17.306467,
+                        40.948898
+                  ]
+            },
+            {
+                  "name": "Cala Paradiso",
+                  "text": "Cala Paradiso is a beach in Monopoli.",
+                  "category": "recreational",
+                  "coords": [
+                        17.313906,
+                        40.943847
+                  ]
+            },
+            {
+                  "name": "Cala Cerasa",
+                  "text": "Cala Cerasa is a beach in Monopoli.",
+                  "category": "recreational",
+                  "coords": [
+                        17.318814,
+                        40.938638
+                  ]
+            },
+            {
+                  "name": "Cala Monaci",
+                  "text": "Cala Monaci is a beach in Monopoli.",
+                  "category": "recreational",
+                  "coords": [
+                        17.285687,
+                        40.964149
+                  ]
+            },
+            {
+                  "name": "Cala Sottile",
+                  "text": "Cala Sottile is a beach in Monopoli.",
+                  "category": "recreational",
+                  "coords": [
+                        17.33493,
+                        40.925657
+                  ]
+            },
+            {
+                  "name": "Cala Verde",
+                  "text": "Cala Verde is a beach in Monopoli.",
+                  "category": "recreational",
+                  "coords": [
+                        17.337452,
+                        40.921591
                   ]
             }
       ]
@@ -20933,6 +23129,24 @@ export const poiExtraItalyV2: POI[] = [
                         18.464268,
                         40.192314
                   ]
+            },
+            {
+                  "name": "Spiaggia Miramare",
+                  "text": "Spiaggia Miramare ist ein Strand in der Stadt Otranto.",
+                  "category": "recreational",
+                  "coords": [
+                        18.488208,
+                        40.147276
+                  ]
+            },
+            {
+                  "name": "Spiaggia dei Gradoni",
+                  "text": "Der Strand Spiaggia dei Gradoni befindet sich in Otranto.",
+                  "category": "recreational",
+                  "coords": [
+                        18.487281,
+                        40.149141
+                  ]
             }
       ],
       "hu": [
@@ -20989,6 +23203,24 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         18.464268,
                         40.192314
+                  ]
+            },
+            {
+                  "name": "Spiaggia Miramare",
+                  "text": "A Spiaggia Miramare egy strand Otranto városában.",
+                  "category": "recreational",
+                  "coords": [
+                        18.488208,
+                        40.147276
+                  ]
+            },
+            {
+                  "name": "Spiaggia dei Gradoni",
+                  "text": "A Spiaggia dei Gradoni strand Otrantóban található.",
+                  "category": "recreational",
+                  "coords": [
+                        18.487281,
+                        40.149141
                   ]
             }
       ],
@@ -21047,6 +23279,24 @@ export const poiExtraItalyV2: POI[] = [
                         18.464268,
                         40.192314
                   ]
+            },
+            {
+                  "name": "Spiaggia Miramare",
+                  "text": "Spiaggia Miramare este o plajă situată în orașul Otranto.",
+                  "category": "recreational",
+                  "coords": [
+                        18.488208,
+                        40.147276
+                  ]
+            },
+            {
+                  "name": "Spiaggia dei Gradoni",
+                  "text": "Plaja Spiaggia dei Gradoni se află în Otranto.",
+                  "category": "recreational",
+                  "coords": [
+                        18.487281,
+                        40.149141
+                  ]
             }
       ],
       "en": [
@@ -21103,6 +23353,24 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         18.464268,
                         40.192314
+                  ]
+            },
+            {
+                  "name": "Spiaggia Miramare",
+                  "text": "Spiaggia Miramare is a beach located in the city of Otranto.",
+                  "category": "recreational",
+                  "coords": [
+                        18.488208,
+                        40.147276
+                  ]
+            },
+            {
+                  "name": "Spiaggia dei Gradoni",
+                  "text": "Spiaggia dei Gradoni beach is located in Otranto.",
+                  "category": "recreational",
+                  "coords": [
+                        18.487281,
+                        40.149141
                   ]
             }
       ]
@@ -22019,6 +24287,60 @@ export const poiExtraItalyV2: POI[] = [
                         9.835243,
                         44.051904
                   ]
+            },
+            {
+                  "name": "Caletta di Albana",
+                  "text": "Kleine Bucht in Portovenere.",
+                  "category": "recreational",
+                  "coords": [
+                        9.803659,
+                        44.064389
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Persico",
+                  "text": "Naturbelassener Strand bei Portovenere.",
+                  "category": "recreational",
+                  "coords": [
+                        9.797353,
+                        44.065907
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Cadimare",
+                  "text": "Strandabschnitt in Portovenere.",
+                  "category": "recreational",
+                  "coords": [
+                        9.823855,
+                        44.084739
+                  ]
+            },
+            {
+                  "name": "Spiaggia liberale delle Torezze",
+                  "text": "Freier Strand in Portovenere.",
+                  "category": "recreational",
+                  "coords": [
+                        9.843926,
+                        44.0589
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Arenella",
+                  "text": "Strand bei Portovenere.",
+                  "category": "recreational",
+                  "coords": [
+                        9.838066,
+                        44.0551
+                  ]
+            },
+            {
+                  "name": "Spiaggia dell'Olivo",
+                  "text": "Küstenabschnitt in Portovenere.",
+                  "category": "recreational",
+                  "coords": [
+                        9.840179,
+                        44.058059
+                  ]
             }
       ],
       "hu": [
@@ -22075,6 +24397,60 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         9.835243,
                         44.051904
+                  ]
+            },
+            {
+                  "name": "Caletta di Albana",
+                  "text": "Kis öböl Portovenere településen.",
+                  "category": "recreational",
+                  "coords": [
+                        9.803659,
+                        44.064389
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Persico",
+                  "text": "Természetes strand Portovenere közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        9.797353,
+                        44.065907
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Cadimare",
+                  "text": "Strandszakasz Portovenere városában.",
+                  "category": "recreational",
+                  "coords": [
+                        9.823855,
+                        44.084739
+                  ]
+            },
+            {
+                  "name": "Spiaggia liberale delle Torezze",
+                  "text": "Szabadstrand Portovenere településen.",
+                  "category": "recreational",
+                  "coords": [
+                        9.843926,
+                        44.0589
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Arenella",
+                  "text": "Strand Portovenere közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        9.838066,
+                        44.0551
+                  ]
+            },
+            {
+                  "name": "Spiaggia dell'Olivo",
+                  "text": "Partszakasz Portovenere városában.",
+                  "category": "recreational",
+                  "coords": [
+                        9.840179,
+                        44.058059
                   ]
             }
       ],
@@ -22133,6 +24509,60 @@ export const poiExtraItalyV2: POI[] = [
                         9.835243,
                         44.051904
                   ]
+            },
+            {
+                  "name": "Caletta di Albana",
+                  "text": "Golf mic în Portovenere.",
+                  "category": "recreational",
+                  "coords": [
+                        9.803659,
+                        44.064389
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Persico",
+                  "text": "Plajă naturală lângă Portovenere.",
+                  "category": "recreational",
+                  "coords": [
+                        9.797353,
+                        44.065907
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Cadimare",
+                  "text": "Secțiune de plajă în Portovenere.",
+                  "category": "recreational",
+                  "coords": [
+                        9.823855,
+                        44.084739
+                  ]
+            },
+            {
+                  "name": "Spiaggia liberale delle Torezze",
+                  "text": "Plajă publică în Portovenere.",
+                  "category": "recreational",
+                  "coords": [
+                        9.843926,
+                        44.0589
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Arenella",
+                  "text": "Plajă lângă Portovenere.",
+                  "category": "recreational",
+                  "coords": [
+                        9.838066,
+                        44.0551
+                  ]
+            },
+            {
+                  "name": "Spiaggia dell'Olivo",
+                  "text": "Porțiune de coastă în Portovenere.",
+                  "category": "recreational",
+                  "coords": [
+                        9.840179,
+                        44.058059
+                  ]
             }
       ],
       "en": [
@@ -22189,6 +24619,60 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         9.835243,
                         44.051904
+                  ]
+            },
+            {
+                  "name": "Caletta di Albana",
+                  "text": "Small cove in Portovenere.",
+                  "category": "recreational",
+                  "coords": [
+                        9.803659,
+                        44.064389
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Persico",
+                  "text": "Natural beach near Portovenere.",
+                  "category": "recreational",
+                  "coords": [
+                        9.797353,
+                        44.065907
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Cadimare",
+                  "text": "Beach area in Portovenere.",
+                  "category": "recreational",
+                  "coords": [
+                        9.823855,
+                        44.084739
+                  ]
+            },
+            {
+                  "name": "Spiaggia liberale delle Torezze",
+                  "text": "Public beach in Portovenere.",
+                  "category": "recreational",
+                  "coords": [
+                        9.843926,
+                        44.0589
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Arenella",
+                  "text": "Beach near Portovenere.",
+                  "category": "recreational",
+                  "coords": [
+                        9.838066,
+                        44.0551
+                  ]
+            },
+            {
+                  "name": "Spiaggia dell'Olivo",
+                  "text": "Coastal area in Portovenere.",
+                  "category": "recreational",
+                  "coords": [
+                        9.840179,
+                        44.058059
                   ]
             }
       ]
@@ -22293,6 +24777,24 @@ export const poiExtraItalyV2: POI[] = [
                         14.019336,
                         40.75442
                   ]
+            },
+            {
+                  "name": "Spiaggia delle Grotte",
+                  "text": "Ein Strand an der Küste von Procida.",
+                  "category": "recreational",
+                  "coords": [
+                        14.022344,
+                        40.766275
+                  ]
+            },
+            {
+                  "name": "Spiaggia della Lingua",
+                  "text": "Ein Strandabschnitt auf der Insel Procida.",
+                  "category": "recreational",
+                  "coords": [
+                        14.034137,
+                        40.765462
+                  ]
             }
       ],
       "hu": [
@@ -22393,6 +24895,24 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         14.019336,
                         40.75442
+                  ]
+            },
+            {
+                  "name": "Spiaggia delle Grotte",
+                  "text": "Strand Procida partján.",
+                  "category": "recreational",
+                  "coords": [
+                        14.022344,
+                        40.766275
+                  ]
+            },
+            {
+                  "name": "Spiaggia della Lingua",
+                  "text": "Strandszakasz Procida szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        14.034137,
+                        40.765462
                   ]
             }
       ],
@@ -22495,6 +25015,24 @@ export const poiExtraItalyV2: POI[] = [
                         14.019336,
                         40.75442
                   ]
+            },
+            {
+                  "name": "Spiaggia delle Grotte",
+                  "text": "O plajă pe coasta insulei Procida.",
+                  "category": "recreational",
+                  "coords": [
+                        14.022344,
+                        40.766275
+                  ]
+            },
+            {
+                  "name": "Spiaggia della Lingua",
+                  "text": "O secțiune de plajă pe insula Procida.",
+                  "category": "recreational",
+                  "coords": [
+                        14.034137,
+                        40.765462
+                  ]
             }
       ],
       "en": [
@@ -22595,6 +25133,24 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         14.019336,
                         40.75442
+                  ]
+            },
+            {
+                  "name": "Spiaggia delle Grotte",
+                  "text": "A beach on the coast of Procida.",
+                  "category": "recreational",
+                  "coords": [
+                        14.022344,
+                        40.766275
+                  ]
+            },
+            {
+                  "name": "Spiaggia della Lingua",
+                  "text": "A stretch of beach on Procida island.",
+                  "category": "recreational",
+                  "coords": [
+                        14.034137,
+                        40.765462
                   ]
             }
       ]
@@ -22710,6 +25266,24 @@ export const poiExtraItalyV2: POI[] = [
                         14.610695,
                         40.645503
                   ]
+            },
+            {
+                  "name": "Spiaggia Acquachiara",
+                  "text": "Der Spiaggia Acquachiara ist ein Strand in Ravello.",
+                  "category": "recreational",
+                  "coords": [
+                        14.649925,
+                        40.644493
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Cavallo Morto",
+                  "text": "Der Spiaggia del Cavallo Morto ist ein Strand in Ravello.",
+                  "category": "recreational",
+                  "coords": [
+                        14.662374,
+                        40.641722
+                  ]
             }
       ],
       "hu": [
@@ -22821,6 +25395,24 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         14.610695,
                         40.645503
+                  ]
+            },
+            {
+                  "name": "Spiaggia Acquachiara",
+                  "text": "A Spiaggia Acquachiara egy strand Ravello városában.",
+                  "category": "recreational",
+                  "coords": [
+                        14.649925,
+                        40.644493
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Cavallo Morto",
+                  "text": "A Spiaggia del Cavallo Morto egy strand Ravello városában.",
+                  "category": "recreational",
+                  "coords": [
+                        14.662374,
+                        40.641722
                   ]
             }
       ],
@@ -22934,6 +25526,24 @@ export const poiExtraItalyV2: POI[] = [
                         14.610695,
                         40.645503
                   ]
+            },
+            {
+                  "name": "Spiaggia Acquachiara",
+                  "text": "Spiaggia Acquachiara este o plajă din Ravello.",
+                  "category": "recreational",
+                  "coords": [
+                        14.649925,
+                        40.644493
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Cavallo Morto",
+                  "text": "Spiaggia del Cavallo Morto este o plajă din Ravello.",
+                  "category": "recreational",
+                  "coords": [
+                        14.662374,
+                        40.641722
+                  ]
             }
       ],
       "en": [
@@ -23045,6 +25655,24 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         14.610695,
                         40.645503
+                  ]
+            },
+            {
+                  "name": "Spiaggia Acquachiara",
+                  "text": "Spiaggia Acquachiara is a beach in Ravello.",
+                  "category": "recreational",
+                  "coords": [
+                        14.649925,
+                        40.644493
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Cavallo Morto",
+                  "text": "Spiaggia del Cavallo Morto is a beach in Ravello.",
+                  "category": "recreational",
+                  "coords": [
+                        14.662374,
+                        40.641722
                   ]
             }
       ]
@@ -23160,6 +25788,24 @@ export const poiExtraItalyV2: POI[] = [
                         12.57663,
                         44.071395
                   ]
+            },
+            {
+                  "name": "Spiaggia 21",
+                  "text": "Spiaggia 21 ist ein Strandabschnitt in Rimini.",
+                  "category": "recreational",
+                  "coords": [
+                        12.581996,
+                        44.070059
+                  ]
+            },
+            {
+                  "name": "Spiaggia Celli 6",
+                  "text": "Spiaggia Celli 6 ist ein Strand in Rimini.",
+                  "category": "recreational",
+                  "coords": [
+                        12.554642,
+                        44.077945
+                  ]
             }
       ],
       "hu": [
@@ -23271,6 +25917,24 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         12.57663,
                         44.071395
+                  ]
+            },
+            {
+                  "name": "Spiaggia 21",
+                  "text": "A Spiaggia 21 egy partszakasz Riminiben.",
+                  "category": "recreational",
+                  "coords": [
+                        12.581996,
+                        44.070059
+                  ]
+            },
+            {
+                  "name": "Spiaggia Celli 6",
+                  "text": "A Spiaggia Celli 6 egy strand Riminiben.",
+                  "category": "recreational",
+                  "coords": [
+                        12.554642,
+                        44.077945
                   ]
             }
       ],
@@ -23384,6 +26048,24 @@ export const poiExtraItalyV2: POI[] = [
                         12.57663,
                         44.071395
                   ]
+            },
+            {
+                  "name": "Spiaggia 21",
+                  "text": "Spiaggia 21 este o secțiune de plajă din Rimini.",
+                  "category": "recreational",
+                  "coords": [
+                        12.581996,
+                        44.070059
+                  ]
+            },
+            {
+                  "name": "Spiaggia Celli 6",
+                  "text": "Spiaggia Celli 6 este o plajă situată în Rimini.",
+                  "category": "recreational",
+                  "coords": [
+                        12.554642,
+                        44.077945
+                  ]
             }
       ],
       "en": [
@@ -23496,6 +26178,24 @@ export const poiExtraItalyV2: POI[] = [
                         12.57663,
                         44.071395
                   ]
+            },
+            {
+                  "name": "Spiaggia 21",
+                  "text": "Spiaggia 21 is a section of beach in Rimini.",
+                  "category": "recreational",
+                  "coords": [
+                        12.581996,
+                        44.070059
+                  ]
+            },
+            {
+                  "name": "Spiaggia Celli 6",
+                  "text": "Spiaggia Celli 6 is a beach in Rimini.",
+                  "category": "recreational",
+                  "coords": [
+                        12.554642,
+                        44.077945
+                  ]
             }
       ]
 }},
@@ -23588,6 +26288,33 @@ export const poiExtraItalyV2: POI[] = [
                         9.718564,
                         44.117575
                   ]
+            },
+            {
+                  "name": "Spiaggia del Paese",
+                  "text": "Der Strand Spiaggia del Paese ist ein kleiner Strand in Riomaggiore.",
+                  "category": "recreational",
+                  "coords": [
+                        9.739187,
+                        44.09722
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Cantun",
+                  "text": "Die Spiaggia del Cantun ist ein Strand in Riomaggiore.",
+                  "category": "recreational",
+                  "coords": [
+                        9.781331,
+                        44.073683
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Nacche",
+                  "text": "Die Spiaggia del Nacche ist ein Strand in Riomaggiore.",
+                  "category": "recreational",
+                  "coords": [
+                        9.77438,
+                        44.079573
+                  ]
             }
       ],
       "hu": [
@@ -23677,6 +26404,33 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         9.718564,
                         44.117575
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Paese",
+                  "text": "A Spiaggia del Paese egy kis strand Riomaggiore városában.",
+                  "category": "recreational",
+                  "coords": [
+                        9.739187,
+                        44.09722
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Cantun",
+                  "text": "A Spiaggia del Cantun egy strand Riomaggiore városában.",
+                  "category": "recreational",
+                  "coords": [
+                        9.781331,
+                        44.073683
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Nacche",
+                  "text": "A Spiaggia del Nacche egy strand Riomaggiore városában.",
+                  "category": "recreational",
+                  "coords": [
+                        9.77438,
+                        44.079573
                   ]
             }
       ],
@@ -23768,6 +26522,33 @@ export const poiExtraItalyV2: POI[] = [
                         9.718564,
                         44.117575
                   ]
+            },
+            {
+                  "name": "Spiaggia del Paese",
+                  "text": "Spiaggia del Paese este o plajă mică din Riomaggiore.",
+                  "category": "recreational",
+                  "coords": [
+                        9.739187,
+                        44.09722
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Cantun",
+                  "text": "Spiaggia del Cantun este o plajă din Riomaggiore.",
+                  "category": "recreational",
+                  "coords": [
+                        9.781331,
+                        44.073683
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Nacche",
+                  "text": "Spiaggia del Nacche este o plajă din Riomaggiore.",
+                  "category": "recreational",
+                  "coords": [
+                        9.77438,
+                        44.079573
+                  ]
             }
       ],
       "en": [
@@ -23858,6 +26639,33 @@ export const poiExtraItalyV2: POI[] = [
                         9.718564,
                         44.117575
                   ]
+            },
+            {
+                  "name": "Spiaggia del Paese",
+                  "text": "Spiaggia del Paese is a small beach located in Riomaggiore.",
+                  "category": "recreational",
+                  "coords": [
+                        9.739187,
+                        44.09722
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Cantun",
+                  "text": "Spiaggia del Cantun is a beach in Riomaggiore.",
+                  "category": "recreational",
+                  "coords": [
+                        9.781331,
+                        44.073683
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Nacche",
+                  "text": "Spiaggia del Nacche is a beach in Riomaggiore.",
+                  "category": "recreational",
+                  "coords": [
+                        9.77438,
+                        44.079573
+                  ]
             }
       ]
 }},
@@ -23928,6 +26736,24 @@ export const poiExtraItalyV2: POI[] = [
                         9.210974,
                         44.336599
                   ]
+            },
+            {
+                  "name": "Spiaggia Regina Elena",
+                  "text": "Ein Strand in Margherita Ligure.",
+                  "category": "recreational",
+                  "coords": [
+                        9.216081,
+                        44.325633
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Travello",
+                  "text": "Ein Küstenabschnitt in Margherita Ligure.",
+                  "category": "recreational",
+                  "coords": [
+                        9.224891,
+                        44.33901
+                  ]
             }
       ],
       "hu": [
@@ -23995,6 +26821,24 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         9.210974,
                         44.336599
+                  ]
+            },
+            {
+                  "name": "Spiaggia Regina Elena",
+                  "text": "Strand Margherita Ligure városában.",
+                  "category": "recreational",
+                  "coords": [
+                        9.216081,
+                        44.325633
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Travello",
+                  "text": "Partszakasz Margherita Ligure városában.",
+                  "category": "recreational",
+                  "coords": [
+                        9.224891,
+                        44.33901
                   ]
             }
       ],
@@ -24064,6 +26908,24 @@ export const poiExtraItalyV2: POI[] = [
                         9.210974,
                         44.336599
                   ]
+            },
+            {
+                  "name": "Spiaggia Regina Elena",
+                  "text": "O plajă în Margherita Ligure.",
+                  "category": "recreational",
+                  "coords": [
+                        9.216081,
+                        44.325633
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Travello",
+                  "text": "O secțiune de coastă în Margherita Ligure.",
+                  "category": "recreational",
+                  "coords": [
+                        9.224891,
+                        44.33901
+                  ]
             }
       ],
       "en": [
@@ -24131,6 +26993,24 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         9.210974,
                         44.336599
+                  ]
+            },
+            {
+                  "name": "Spiaggia Regina Elena",
+                  "text": "A beach in Margherita Ligure.",
+                  "category": "recreational",
+                  "coords": [
+                        9.216081,
+                        44.325633
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Travello",
+                  "text": "A coastal stretch in Margherita Ligure.",
+                  "category": "recreational",
+                  "coords": [
+                        9.224891,
+                        44.33901
                   ]
             }
       ]
@@ -24696,6 +27576,15 @@ export const poiExtraItalyV2: POI[] = [
                         13.763056,
                         45.646944
                   ]
+            },
+            {
+                  "name": "Spiaggia de la Mula de Trieste",
+                  "text": "Ein Strand in Triest.",
+                  "category": "recreational",
+                  "coords": [
+                        13.745917,
+                        45.687075
+                  ]
             }
       ],
       "hu": [
@@ -24807,6 +27696,15 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         13.763056,
                         45.646944
+                  ]
+            },
+            {
+                  "name": "Spiaggia de la Mula de Trieste",
+                  "text": "Strand Triesztben.",
+                  "category": "recreational",
+                  "coords": [
+                        13.745917,
+                        45.687075
                   ]
             }
       ],
@@ -24920,6 +27818,15 @@ export const poiExtraItalyV2: POI[] = [
                         13.763056,
                         45.646944
                   ]
+            },
+            {
+                  "name": "Spiaggia de la Mula de Trieste",
+                  "text": "O plajă în Trieste.",
+                  "category": "recreational",
+                  "coords": [
+                        13.745917,
+                        45.687075
+                  ]
             }
       ],
       "en": [
@@ -25031,6 +27938,15 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         13.763056,
                         45.646944
+                  ]
+            },
+            {
+                  "name": "Spiaggia de la Mula de Trieste",
+                  "text": "A beach in Trieste.",
+                  "category": "recreational",
+                  "coords": [
+                        13.745917,
+                        45.687075
                   ]
             }
       ]
@@ -26375,6 +29291,33 @@ export const poiExtraItalyV2: POI[] = [
                         16.163957,
                         41.876854
                   ]
+            },
+            {
+                  "name": "Punta Lunga",
+                  "text": "Der Strand Punta Lunga in Vieste bietet klares Wasser und eine entspannte Atmosphäre.",
+                  "category": "recreational",
+                  "coords": [
+                        16.154023,
+                        41.900366
+                  ]
+            },
+            {
+                  "name": "Grotta dei Pipistrelli",
+                  "text": "Die Grotta dei Pipistrelli in Vieste ist ein bekannter Strandabschnitt an der Küste.",
+                  "category": "recreational",
+                  "coords": [
+                        16.17776,
+                        41.852964
+                  ]
+            },
+            {
+                  "name": "Spiaggia dei Colombi",
+                  "text": "Spiaggia dei Colombi in Vieste ist ein malerischer Küstenabschnitt.",
+                  "category": "recreational",
+                  "coords": [
+                        16.155036,
+                        41.898323
+                  ]
             }
       ],
       "hu": [
@@ -26453,6 +29396,33 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         16.163957,
                         41.876854
+                  ]
+            },
+            {
+                  "name": "Punta Lunga",
+                  "text": "A Punta Lunga strand Vieste városában tiszta vizet és nyugodt légkört kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        16.154023,
+                        41.900366
+                  ]
+            },
+            {
+                  "name": "Grotta dei Pipistrelli",
+                  "text": "A Grotta dei Pipistrelli Viestében egy ismert partszakasz a tengerparton.",
+                  "category": "recreational",
+                  "coords": [
+                        16.17776,
+                        41.852964
+                  ]
+            },
+            {
+                  "name": "Spiaggia dei Colombi",
+                  "text": "A Spiaggia dei Colombi Viestében egy festői partszakasz.",
+                  "category": "recreational",
+                  "coords": [
+                        16.155036,
+                        41.898323
                   ]
             }
       ],
@@ -26533,6 +29503,33 @@ export const poiExtraItalyV2: POI[] = [
                         16.163957,
                         41.876854
                   ]
+            },
+            {
+                  "name": "Punta Lunga",
+                  "text": "Plaja Punta Lunga din Vieste oferă ape limpezi și o atmosferă relaxantă.",
+                  "category": "recreational",
+                  "coords": [
+                        16.154023,
+                        41.900366
+                  ]
+            },
+            {
+                  "name": "Grotta dei Pipistrelli",
+                  "text": "Grotta dei Pipistrelli din Vieste este o secțiune cunoscută de plajă de pe coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        16.17776,
+                        41.852964
+                  ]
+            },
+            {
+                  "name": "Spiaggia dei Colombi",
+                  "text": "Spiaggia dei Colombi din Vieste este o secțiune pitorească a coastei.",
+                  "category": "recreational",
+                  "coords": [
+                        16.155036,
+                        41.898323
+                  ]
             }
       ],
       "en": [
@@ -26611,6 +29608,33 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         16.163957,
                         41.876854
+                  ]
+            },
+            {
+                  "name": "Punta Lunga",
+                  "text": "Punta Lunga beach in Vieste offers clear water and a relaxing atmosphere.",
+                  "category": "recreational",
+                  "coords": [
+                        16.154023,
+                        41.900366
+                  ]
+            },
+            {
+                  "name": "Grotta dei Pipistrelli",
+                  "text": "Grotta dei Pipistrelli in Vieste is a well-known beach area on the coast.",
+                  "category": "recreational",
+                  "coords": [
+                        16.17776,
+                        41.852964
+                  ]
+            },
+            {
+                  "name": "Spiaggia dei Colombi",
+                  "text": "Spiaggia dei Colombi in Vieste is a picturesque stretch of coast.",
+                  "category": "recreational",
+                  "coords": [
+                        16.155036,
+                        41.898323
                   ]
             }
       ]
@@ -27757,6 +30781,33 @@ export const poiExtraItalyV2: POI[] = [
                         11.116686,
                         42.440276
                   ]
+            },
+            {
+                  "name": "La Caletta",
+                  "text": "Ein malerischer Strand in Argentario.",
+                  "category": "recreational",
+                  "coords": [
+                        11.115191,
+                        42.442843
+                  ]
+            },
+            {
+                  "name": "Cala del gesso",
+                  "text": "Ein ruhiger Strandabschnitt in Argentario.",
+                  "category": "recreational",
+                  "coords": [
+                        11.092122,
+                        42.416173
+                  ]
+            },
+            {
+                  "name": "Cala del Bove",
+                  "text": "Ein natürlicher Strand in Argentario.",
+                  "category": "recreational",
+                  "coords": [
+                        11.091679,
+                        42.409674
+                  ]
             }
       ],
       "hu": [
@@ -27813,6 +30864,33 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         11.116686,
                         42.440276
+                  ]
+            },
+            {
+                  "name": "La Caletta",
+                  "text": "Festői strand Argentarióban.",
+                  "category": "recreational",
+                  "coords": [
+                        11.115191,
+                        42.442843
+                  ]
+            },
+            {
+                  "name": "Cala del gesso",
+                  "text": "Csendes strandszakasz Argentarióban.",
+                  "category": "recreational",
+                  "coords": [
+                        11.092122,
+                        42.416173
+                  ]
+            },
+            {
+                  "name": "Cala del Bove",
+                  "text": "Természetes strand Argentarióban.",
+                  "category": "recreational",
+                  "coords": [
+                        11.091679,
+                        42.409674
                   ]
             }
       ],
@@ -27871,6 +30949,33 @@ export const poiExtraItalyV2: POI[] = [
                         11.116686,
                         42.440276
                   ]
+            },
+            {
+                  "name": "La Caletta",
+                  "text": "O plajă pitorească în Argentario.",
+                  "category": "recreational",
+                  "coords": [
+                        11.115191,
+                        42.442843
+                  ]
+            },
+            {
+                  "name": "Cala del gesso",
+                  "text": "O secțiune de plajă liniștită în Argentario.",
+                  "category": "recreational",
+                  "coords": [
+                        11.092122,
+                        42.416173
+                  ]
+            },
+            {
+                  "name": "Cala del Bove",
+                  "text": "O plajă naturală în Argentario.",
+                  "category": "recreational",
+                  "coords": [
+                        11.091679,
+                        42.409674
+                  ]
             }
       ],
       "en": [
@@ -27927,6 +31032,33 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         11.116686,
                         42.440276
+                  ]
+            },
+            {
+                  "name": "La Caletta",
+                  "text": "A picturesque beach in Argentario.",
+                  "category": "recreational",
+                  "coords": [
+                        11.115191,
+                        42.442843
+                  ]
+            },
+            {
+                  "name": "Cala del gesso",
+                  "text": "A quiet beach area in Argentario.",
+                  "category": "recreational",
+                  "coords": [
+                        11.092122,
+                        42.416173
+                  ]
+            },
+            {
+                  "name": "Cala del Bove",
+                  "text": "A natural beach in Argentario.",
+                  "category": "recreational",
+                  "coords": [
+                        11.091679,
+                        42.409674
                   ]
             }
       ]
@@ -28546,6 +31678,15 @@ export const poiExtraItalyV2: POI[] = [
                         10.720932,
                         45.569464
                   ]
+            },
+            {
+                  "name": "Baia delle sirene",
+                  "text": "Baia delle Sirene ist ein beliebter Strand in Bardolino.",
+                  "category": "recreational",
+                  "coords": [
+                        10.672821,
+                        45.577634
+                  ]
             }
       ],
       "hu": [
@@ -28613,6 +31754,15 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         10.720932,
                         45.569464
+                  ]
+            },
+            {
+                  "name": "Baia delle sirene",
+                  "text": "A Baia delle Sirene egy népszerű strand Bardolinóban.",
+                  "category": "recreational",
+                  "coords": [
+                        10.672821,
+                        45.577634
                   ]
             }
       ],
@@ -28682,6 +31832,15 @@ export const poiExtraItalyV2: POI[] = [
                         10.720932,
                         45.569464
                   ]
+            },
+            {
+                  "name": "Baia delle sirene",
+                  "text": "Baia delle Sirene este o plajă populară în Bardolino.",
+                  "category": "recreational",
+                  "coords": [
+                        10.672821,
+                        45.577634
+                  ]
             }
       ],
       "en": [
@@ -28749,6 +31908,15 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         10.720932,
                         45.569464
+                  ]
+            },
+            {
+                  "name": "Baia delle sirene",
+                  "text": "Baia delle Sirene is a popular beach in Bardolino.",
+                  "category": "recreational",
+                  "coords": [
+                        10.672821,
+                        45.577634
                   ]
             }
       ]
@@ -28864,6 +32032,15 @@ export const poiExtraItalyV2: POI[] = [
                         9.116712,
                         39.221363
                   ]
+            },
+            {
+                  "name": "Spiaggia di Calamosca",
+                  "text": "Die Spiaggia di Calamosca ist ein bekannter Strand in Cagliari. Sie liegt in einer malerischen Bucht.",
+                  "category": "recreational",
+                  "coords": [
+                        9.152006,
+                        39.186406
+                  ]
             }
       ],
       "hu": [
@@ -28975,6 +32152,15 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         9.116712,
                         39.221363
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Calamosca",
+                  "text": "A Spiaggia di Calamosca egy népszerű strand Cagliariban. Festői öbölben fekszik.",
+                  "category": "recreational",
+                  "coords": [
+                        9.152006,
+                        39.186406
                   ]
             }
       ],
@@ -29088,6 +32274,15 @@ export const poiExtraItalyV2: POI[] = [
                         9.116712,
                         39.221363
                   ]
+            },
+            {
+                  "name": "Spiaggia di Calamosca",
+                  "text": "Spiaggia di Calamosca este o plajă cunoscută din Cagliari. Este situată într-un golf pitoresc.",
+                  "category": "recreational",
+                  "coords": [
+                        9.152006,
+                        39.186406
+                  ]
             }
       ],
       "en": [
@@ -29200,6 +32395,15 @@ export const poiExtraItalyV2: POI[] = [
                         9.116712,
                         39.221363
                   ]
+            },
+            {
+                  "name": "Spiaggia di Calamosca",
+                  "text": "Spiaggia di Calamosca is a well-known beach in Cagliari. It is situated in a scenic cove.",
+                  "category": "recreational",
+                  "coords": [
+                        9.152006,
+                        39.186406
+                  ]
             }
       ]
 }},
@@ -29303,6 +32507,96 @@ export const poiExtraItalyV2: POI[] = [
                         10.329922,
                         42.811815
                   ]
+            },
+            {
+                  "name": "Spiaggia di Bagnaia",
+                  "text": "Der Strand Spiaggia di Bagnaia liegt in Portoferraio. Ein ruhiger Ort an der Küste.",
+                  "category": "recreational",
+                  "coords": [
+                        10.3628,
+                        42.810577
+                  ]
+            },
+            {
+                  "name": "Spiaggia La Sorgente",
+                  "text": "Der Strand Spiaggia La Sorgente liegt in Portoferraio. Bekannt für seine Kieselsteine.",
+                  "category": "recreational",
+                  "coords": [
+                        10.282225,
+                        42.823311
+                  ]
+            },
+            {
+                  "name": "Spiaggia Sansone",
+                  "text": "Der Strand Spiaggia Sansone liegt in Portoferraio. Ein malerischer Küstenabschnitt.",
+                  "category": "recreational",
+                  "coords": [
+                        10.279319,
+                        42.822759
+                  ]
+            },
+            {
+                  "name": "Spiaggia dell'Ottone",
+                  "text": "Der Strand Spiaggia dell'Ottone liegt in Portoferraio. Ein schöner Ort zum Sonnenbaden.",
+                  "category": "recreational",
+                  "coords": [
+                        10.359915,
+                        42.802085
+                  ]
+            },
+            {
+                  "name": "Spiaggia della Padulella",
+                  "text": "Der Strand Spiaggia della Padulella liegt in Portoferraio. Bekannt für sein klares Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        10.316322,
+                        42.820191
+                  ]
+            },
+            {
+                  "name": "Cala dei frati",
+                  "text": "Ein schöner Strand in Portoferraio.",
+                  "category": "recreational",
+                  "coords": [
+                        10.318833,
+                        42.818177
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Capo Bianco",
+                  "text": "Ein weißer Kiesstrand in Portoferraio.",
+                  "category": "recreational",
+                  "coords": [
+                        10.313633,
+                        42.82056
+                  ]
+            },
+            {
+                  "name": "Spiaggia Seccione",
+                  "text": "Ein ruhiger Strandabschnitt bei Portoferraio.",
+                  "category": "recreational",
+                  "coords": [
+                        10.296172,
+                        42.818734
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Grigolo",
+                  "text": "Ein kleiner Strand in der Nähe von Portoferraio.",
+                  "category": "recreational",
+                  "coords": [
+                        10.333296,
+                        42.813775
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Nisportino",
+                  "text": "Ein abgelegener Strand bei Portoferraio.",
+                  "category": "recreational",
+                  "coords": [
+                        10.385668,
+                        42.833564
+                  ]
             }
       ],
       "hu": [
@@ -29403,6 +32697,96 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         10.329922,
                         42.811815
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Bagnaia",
+                  "text": "A Spiaggia di Bagnaia strand Portoferraióban található. Nyugodt hely a tengerparton.",
+                  "category": "recreational",
+                  "coords": [
+                        10.3628,
+                        42.810577
+                  ]
+            },
+            {
+                  "name": "Spiaggia La Sorgente",
+                  "text": "A Spiaggia La Sorgente strand Portoferraióban található. Kavicsairól ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        10.282225,
+                        42.823311
+                  ]
+            },
+            {
+                  "name": "Spiaggia Sansone",
+                  "text": "A Spiaggia Sansone strand Portoferraióban található. Festői tengerparti szakasz.",
+                  "category": "recreational",
+                  "coords": [
+                        10.279319,
+                        42.822759
+                  ]
+            },
+            {
+                  "name": "Spiaggia dell'Ottone",
+                  "text": "A Spiaggia dell'Ottone strand Portoferraióban található. Szép hely a napozásra.",
+                  "category": "recreational",
+                  "coords": [
+                        10.359915,
+                        42.802085
+                  ]
+            },
+            {
+                  "name": "Spiaggia della Padulella",
+                  "text": "A Spiaggia della Padulella strand Portoferraióban található. Tiszta vizéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        10.316322,
+                        42.820191
+                  ]
+            },
+            {
+                  "name": "Cala dei frati",
+                  "text": "Egy szép strand Portoferraioban.",
+                  "category": "recreational",
+                  "coords": [
+                        10.318833,
+                        42.818177
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Capo Bianco",
+                  "text": "Kavicsos strand Portoferraioban.",
+                  "category": "recreational",
+                  "coords": [
+                        10.313633,
+                        42.82056
+                  ]
+            },
+            {
+                  "name": "Spiaggia Seccione",
+                  "text": "Csendes strandszakasz Portoferraio közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        10.296172,
+                        42.818734
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Grigolo",
+                  "text": "Kisebb strand Portoferraio közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        10.333296,
+                        42.813775
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Nisportino",
+                  "text": "Eldugott strand Portoferraio mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        10.385668,
+                        42.833564
                   ]
             }
       ],
@@ -29505,6 +32889,96 @@ export const poiExtraItalyV2: POI[] = [
                         10.329922,
                         42.811815
                   ]
+            },
+            {
+                  "name": "Spiaggia di Bagnaia",
+                  "text": "Plaja Spiaggia di Bagnaia este situată în Portoferraio. Un loc liniștit pe coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        10.3628,
+                        42.810577
+                  ]
+            },
+            {
+                  "name": "Spiaggia La Sorgente",
+                  "text": "Plaja Spiaggia La Sorgente este situată în Portoferraio. Cunoscută pentru pietrișul său.",
+                  "category": "recreational",
+                  "coords": [
+                        10.282225,
+                        42.823311
+                  ]
+            },
+            {
+                  "name": "Spiaggia Sansone",
+                  "text": "Plaja Spiaggia Sansone este situată în Portoferraio. O porțiune de coastă pitorească.",
+                  "category": "recreational",
+                  "coords": [
+                        10.279319,
+                        42.822759
+                  ]
+            },
+            {
+                  "name": "Spiaggia dell'Ottone",
+                  "text": "Plaja Spiaggia dell'Ottone este situată în Portoferraio. Un loc frumos pentru plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        10.359915,
+                        42.802085
+                  ]
+            },
+            {
+                  "name": "Spiaggia della Padulella",
+                  "text": "Plaja Spiaggia della Padulella este situată în Portoferraio. Cunoscută pentru apele sale limpezi.",
+                  "category": "recreational",
+                  "coords": [
+                        10.316322,
+                        42.820191
+                  ]
+            },
+            {
+                  "name": "Cala dei frati",
+                  "text": "O plajă frumoasă în Portoferraio.",
+                  "category": "recreational",
+                  "coords": [
+                        10.318833,
+                        42.818177
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Capo Bianco",
+                  "text": "O plajă cu pietriș în Portoferraio.",
+                  "category": "recreational",
+                  "coords": [
+                        10.313633,
+                        42.82056
+                  ]
+            },
+            {
+                  "name": "Spiaggia Seccione",
+                  "text": "O secțiune de plajă liniștită lângă Portoferraio.",
+                  "category": "recreational",
+                  "coords": [
+                        10.296172,
+                        42.818734
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Grigolo",
+                  "text": "O plajă mică în apropiere de Portoferraio.",
+                  "category": "recreational",
+                  "coords": [
+                        10.333296,
+                        42.813775
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Nisportino",
+                  "text": "O plajă retrasă lângă Portoferraio.",
+                  "category": "recreational",
+                  "coords": [
+                        10.385668,
+                        42.833564
+                  ]
             }
       ],
       "en": [
@@ -29605,6 +33079,96 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         10.329922,
                         42.811815
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Bagnaia",
+                  "text": "Spiaggia di Bagnaia is a beach in Portoferraio. A quiet coastal spot.",
+                  "category": "recreational",
+                  "coords": [
+                        10.3628,
+                        42.810577
+                  ]
+            },
+            {
+                  "name": "Spiaggia La Sorgente",
+                  "text": "Spiaggia La Sorgente is a beach in Portoferraio. Known for its pebbles.",
+                  "category": "recreational",
+                  "coords": [
+                        10.282225,
+                        42.823311
+                  ]
+            },
+            {
+                  "name": "Spiaggia Sansone",
+                  "text": "Spiaggia Sansone is a beach in Portoferraio. A picturesque stretch of coastline.",
+                  "category": "recreational",
+                  "coords": [
+                        10.279319,
+                        42.822759
+                  ]
+            },
+            {
+                  "name": "Spiaggia dell'Ottone",
+                  "text": "Spiaggia dell'Ottone is a beach in Portoferraio. A lovely spot for sunbathing.",
+                  "category": "recreational",
+                  "coords": [
+                        10.359915,
+                        42.802085
+                  ]
+            },
+            {
+                  "name": "Spiaggia della Padulella",
+                  "text": "Spiaggia della Padulella is a beach in Portoferraio. Known for its clear waters.",
+                  "category": "recreational",
+                  "coords": [
+                        10.316322,
+                        42.820191
+                  ]
+            },
+            {
+                  "name": "Cala dei frati",
+                  "text": "A beautiful beach in Portoferraio.",
+                  "category": "recreational",
+                  "coords": [
+                        10.318833,
+                        42.818177
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Capo Bianco",
+                  "text": "A white pebble beach in Portoferraio.",
+                  "category": "recreational",
+                  "coords": [
+                        10.313633,
+                        42.82056
+                  ]
+            },
+            {
+                  "name": "Spiaggia Seccione",
+                  "text": "A quiet beach area near Portoferraio.",
+                  "category": "recreational",
+                  "coords": [
+                        10.296172,
+                        42.818734
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Grigolo",
+                  "text": "A small beach near Portoferraio.",
+                  "category": "recreational",
+                  "coords": [
+                        10.333296,
+                        42.813775
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Nisportino",
+                  "text": "A secluded beach near Portoferraio.",
+                  "category": "recreational",
+                  "coords": [
+                        10.385668,
+                        42.833564
                   ]
             }
       ]
@@ -29961,6 +33525,42 @@ export const poiExtraItalyV2: POI[] = [
                         14.957519,
                         38.464735
                   ]
+            },
+            {
+                  "name": "Baia Bellavista",
+                  "text": "Bucht auf der Insel Lipari.",
+                  "category": "recreational",
+                  "coords": [
+                        14.961738,
+                        38.491792
+                  ]
+            },
+            {
+                  "name": "Spiaggia Valle Muria",
+                  "text": "Strand bei Lipari.",
+                  "category": "recreational",
+                  "coords": [
+                        14.934323,
+                        38.458355
+                  ]
+            },
+            {
+                  "name": "Spiaggia de La Forbice",
+                  "text": "Ein malerischer Strand in Lipari, ideal zum Entspannen.",
+                  "category": "recreational",
+                  "coords": [
+                        14.960849,
+                        38.450791
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Vinci",
+                  "text": "Ein schöner Strandabschnitt in der Stadt Lipari.",
+                  "category": "recreational",
+                  "coords": [
+                        14.951291,
+                        38.441097
+                  ]
             }
       ],
       "hu": [
@@ -30039,6 +33639,42 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         14.957519,
                         38.464735
+                  ]
+            },
+            {
+                  "name": "Baia Bellavista",
+                  "text": "Öböl Lipari szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        14.961738,
+                        38.491792
+                  ]
+            },
+            {
+                  "name": "Spiaggia Valle Muria",
+                  "text": "Strand Lipari közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        14.934323,
+                        38.458355
+                  ]
+            },
+            {
+                  "name": "Spiaggia de La Forbice",
+                  "text": "Festői strand Lipari városában, tökéletes kikapcsolódásra.",
+                  "category": "recreational",
+                  "coords": [
+                        14.960849,
+                        38.450791
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Vinci",
+                  "text": "Kellemes partszakasz Lipari városában.",
+                  "category": "recreational",
+                  "coords": [
+                        14.951291,
+                        38.441097
                   ]
             }
       ],
@@ -30119,6 +33755,42 @@ export const poiExtraItalyV2: POI[] = [
                         14.957519,
                         38.464735
                   ]
+            },
+            {
+                  "name": "Baia Bellavista",
+                  "text": "Golf pe insula Lipari.",
+                  "category": "recreational",
+                  "coords": [
+                        14.961738,
+                        38.491792
+                  ]
+            },
+            {
+                  "name": "Spiaggia Valle Muria",
+                  "text": "Plajă lângă Lipari.",
+                  "category": "recreational",
+                  "coords": [
+                        14.934323,
+                        38.458355
+                  ]
+            },
+            {
+                  "name": "Spiaggia de La Forbice",
+                  "text": "O plajă pitorească în Lipari, ideală pentru relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        14.960849,
+                        38.450791
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Vinci",
+                  "text": "O porțiune frumoasă de plajă în orașul Lipari.",
+                  "category": "recreational",
+                  "coords": [
+                        14.951291,
+                        38.441097
+                  ]
             }
       ],
       "en": [
@@ -30198,6 +33870,42 @@ export const poiExtraItalyV2: POI[] = [
                         14.957519,
                         38.464735
                   ]
+            },
+            {
+                  "name": "Baia Bellavista",
+                  "text": "Cove on Lipari island.",
+                  "category": "recreational",
+                  "coords": [
+                        14.961738,
+                        38.491792
+                  ]
+            },
+            {
+                  "name": "Spiaggia Valle Muria",
+                  "text": "Beach near Lipari.",
+                  "category": "recreational",
+                  "coords": [
+                        14.934323,
+                        38.458355
+                  ]
+            },
+            {
+                  "name": "Spiaggia de La Forbice",
+                  "text": "A scenic beach in Lipari, perfect for relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        14.960849,
+                        38.450791
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Vinci",
+                  "text": "A pleasant stretch of beach in the town of Lipari.",
+                  "category": "recreational",
+                  "coords": [
+                        14.951291,
+                        38.441097
+                  ]
             }
       ]
 }},
@@ -30268,6 +33976,42 @@ export const poiExtraItalyV2: POI[] = [
                         15.749507,
                         39.936555
                   ]
+            },
+            {
+                  "name": "Cala Ficarra",
+                  "text": "Cala Ficarra ist ein natürlicher Strand in der Nähe von Maratea.",
+                  "category": "recreational",
+                  "coords": [
+                        15.734069,
+                        39.95948
+                  ]
+            },
+            {
+                  "name": "Cala del Citro",
+                  "text": "Cala del Citro ist ein Küstenstrand bei Maratea.",
+                  "category": "recreational",
+                  "coords": [
+                        15.732664,
+                        39.963183
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Nastro",
+                  "text": "Spiaggia del Nastro ist ein Strandabschnitt in Maratea.",
+                  "category": "recreational",
+                  "coords": [
+                        15.679813,
+                        40.009554
+                  ]
+            },
+            {
+                  "name": "Spiaggia Pietra caduta",
+                  "text": "Spiaggia Pietra caduta ist ein lokaler Strand in Maratea.",
+                  "category": "recreational",
+                  "coords": [
+                        15.677887,
+                        40.029316
+                  ]
             }
       ],
       "hu": [
@@ -30335,6 +34079,42 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         15.749507,
                         39.936555
+                  ]
+            },
+            {
+                  "name": "Cala Ficarra",
+                  "text": "A Cala Ficarra egy természetes strand Maratea közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        15.734069,
+                        39.95948
+                  ]
+            },
+            {
+                  "name": "Cala del Citro",
+                  "text": "A Cala del Citro egy tengerparti strand Maratea mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        15.732664,
+                        39.963183
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Nastro",
+                  "text": "A Spiaggia del Nastro egy strandszakasz Marateában.",
+                  "category": "recreational",
+                  "coords": [
+                        15.679813,
+                        40.009554
+                  ]
+            },
+            {
+                  "name": "Spiaggia Pietra caduta",
+                  "text": "A Spiaggia Pietra caduta egy helyi strand Marateában.",
+                  "category": "recreational",
+                  "coords": [
+                        15.677887,
+                        40.029316
                   ]
             }
       ],
@@ -30404,6 +34184,42 @@ export const poiExtraItalyV2: POI[] = [
                         15.749507,
                         39.936555
                   ]
+            },
+            {
+                  "name": "Cala Ficarra",
+                  "text": "Cala Ficarra este o plajă naturală lângă Maratea.",
+                  "category": "recreational",
+                  "coords": [
+                        15.734069,
+                        39.95948
+                  ]
+            },
+            {
+                  "name": "Cala del Citro",
+                  "text": "Cala del Citro este o plajă de coastă lângă Maratea.",
+                  "category": "recreational",
+                  "coords": [
+                        15.732664,
+                        39.963183
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Nastro",
+                  "text": "Spiaggia del Nastro este o secțiune de plajă în Maratea.",
+                  "category": "recreational",
+                  "coords": [
+                        15.679813,
+                        40.009554
+                  ]
+            },
+            {
+                  "name": "Spiaggia Pietra caduta",
+                  "text": "Spiaggia Pietra caduta este o plajă locală în Maratea.",
+                  "category": "recreational",
+                  "coords": [
+                        15.677887,
+                        40.029316
+                  ]
             }
       ],
       "en": [
@@ -30471,6 +34287,42 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         15.749507,
                         39.936555
+                  ]
+            },
+            {
+                  "name": "Cala Ficarra",
+                  "text": "Cala Ficarra is a natural beach near Maratea.",
+                  "category": "recreational",
+                  "coords": [
+                        15.734069,
+                        39.95948
+                  ]
+            },
+            {
+                  "name": "Cala del Citro",
+                  "text": "Cala del Citro is a coastal beach near Maratea.",
+                  "category": "recreational",
+                  "coords": [
+                        15.732664,
+                        39.963183
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Nastro",
+                  "text": "Spiaggia del Nastro is a stretch of beach in Maratea.",
+                  "category": "recreational",
+                  "coords": [
+                        15.679813,
+                        40.009554
+                  ]
+            },
+            {
+                  "name": "Spiaggia Pietra caduta",
+                  "text": "Spiaggia Pietra caduta is a local beach in Maratea.",
+                  "category": "recreational",
+                  "coords": [
+                        15.677887,
+                        40.029316
                   ]
             }
       ]
@@ -31233,6 +35085,15 @@ export const poiExtraItalyV2: POI[] = [
                         12.015629,
                         36.77999
                   ]
+            },
+            {
+                  "name": "Spiaggia del Suvaki",
+                  "text": "Felsiger Strand auf Pantelleria.",
+                  "category": "recreational",
+                  "coords": [
+                        11.932366,
+                        36.800141
+                  ]
             }
       ],
       "hu": [
@@ -31311,6 +35172,15 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         12.015629,
                         36.77999
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Suvaki",
+                  "text": "Sziklás strand Pantelleria szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        11.932366,
+                        36.800141
                   ]
             }
       ],
@@ -31391,6 +35261,15 @@ export const poiExtraItalyV2: POI[] = [
                         12.015629,
                         36.77999
                   ]
+            },
+            {
+                  "name": "Spiaggia del Suvaki",
+                  "text": "Plajă stâncoasă pe Pantelleria.",
+                  "category": "recreational",
+                  "coords": [
+                        11.932366,
+                        36.800141
+                  ]
             }
       ],
       "en": [
@@ -31469,6 +35348,15 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         12.015629,
                         36.77999
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Suvaki",
+                  "text": "Rocky beach on Pantelleria.",
+                  "category": "recreational",
+                  "coords": [
+                        11.932366,
+                        36.800141
                   ]
             }
       ]
@@ -32220,6 +36108,42 @@ export const poiExtraItalyV2: POI[] = [
                         16.159219,
                         38.734014
                   ]
+            },
+            {
+                  "name": "Spiaggia del Pennello",
+                  "text": "Der Strand Spiaggia del Pennello befindet sich in Pizzo.",
+                  "category": "recreational",
+                  "coords": [
+                        16.113253,
+                        38.714804
+                  ]
+            },
+            {
+                  "name": "Spiaggia della Seggiòla",
+                  "text": "Spiaggia della Seggiòla ist ein Strandabschnitt in Pizzo.",
+                  "category": "recreational",
+                  "coords": [
+                        16.163256,
+                        38.737492
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Piedigrottq",
+                  "text": "Spiaggia di Piedigrottq ist ein Strand in Pizzo.",
+                  "category": "recreational",
+                  "coords": [
+                        16.176898,
+                        38.744127
+                  ]
+            },
+            {
+                  "name": "Spiaggia Timpa Janca",
+                  "text": "Der Strand Spiaggia Timpa Janca liegt in Pizzo.",
+                  "category": "recreational",
+                  "coords": [
+                        16.137805,
+                        38.719037
+                  ]
             }
       ],
       "hu": [
@@ -32287,6 +36211,42 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         16.159219,
                         38.734014
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Pennello",
+                  "text": "A Spiaggia del Pennello strand Pizzo városában található.",
+                  "category": "recreational",
+                  "coords": [
+                        16.113253,
+                        38.714804
+                  ]
+            },
+            {
+                  "name": "Spiaggia della Seggiòla",
+                  "text": "A Spiaggia della Seggiòla egy partszakasz Pizzo városában.",
+                  "category": "recreational",
+                  "coords": [
+                        16.163256,
+                        38.737492
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Piedigrottq",
+                  "text": "A Spiaggia di Piedigrottq egy strand Pizzo városában.",
+                  "category": "recreational",
+                  "coords": [
+                        16.176898,
+                        38.744127
+                  ]
+            },
+            {
+                  "name": "Spiaggia Timpa Janca",
+                  "text": "A Spiaggia Timpa Janca strand Piztóban található.",
+                  "category": "recreational",
+                  "coords": [
+                        16.137805,
+                        38.719037
                   ]
             }
       ],
@@ -32356,6 +36316,42 @@ export const poiExtraItalyV2: POI[] = [
                         16.159219,
                         38.734014
                   ]
+            },
+            {
+                  "name": "Spiaggia del Pennello",
+                  "text": "Plaja Spiaggia del Pennello se află în Pizzo.",
+                  "category": "recreational",
+                  "coords": [
+                        16.113253,
+                        38.714804
+                  ]
+            },
+            {
+                  "name": "Spiaggia della Seggiòla",
+                  "text": "Spiaggia della Seggiòla este o secțiune de plajă în Pizzo.",
+                  "category": "recreational",
+                  "coords": [
+                        16.163256,
+                        38.737492
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Piedigrottq",
+                  "text": "Spiaggia di Piedigrottq este o plajă din Pizzo.",
+                  "category": "recreational",
+                  "coords": [
+                        16.176898,
+                        38.744127
+                  ]
+            },
+            {
+                  "name": "Spiaggia Timpa Janca",
+                  "text": "Plaja Spiaggia Timpa Janca se află în Pizzo.",
+                  "category": "recreational",
+                  "coords": [
+                        16.137805,
+                        38.719037
+                  ]
             }
       ],
       "en": [
@@ -32423,6 +36419,42 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         16.159219,
                         38.734014
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Pennello",
+                  "text": "Spiaggia del Pennello beach is located in Pizzo.",
+                  "category": "recreational",
+                  "coords": [
+                        16.113253,
+                        38.714804
+                  ]
+            },
+            {
+                  "name": "Spiaggia della Seggiòla",
+                  "text": "Spiaggia della Seggiòla is a stretch of beach in Pizzo.",
+                  "category": "recreational",
+                  "coords": [
+                        16.163256,
+                        38.737492
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Piedigrottq",
+                  "text": "Spiaggia di Piedigrottq is a beach in Pizzo.",
+                  "category": "recreational",
+                  "coords": [
+                        16.176898,
+                        38.744127
+                  ]
+            },
+            {
+                  "name": "Spiaggia Timpa Janca",
+                  "text": "Spiaggia Timpa Janca beach is located in Pizzo.",
+                  "category": "recreational",
+                  "coords": [
+                        16.137805,
+                        38.719037
                   ]
             }
       ]
@@ -32494,6 +36526,69 @@ export const poiExtraItalyV2: POI[] = [
                         9.53333,
                         41.1333
                   ]
+            },
+            {
+                  "name": "Spiaggia Poltu Liccia",
+                  "text": "Der Strand Spiaggia Poltu Liccia bei Cervo ist ein schöner Ort zum Baden.",
+                  "category": "recreational",
+                  "coords": [
+                        9.563369,
+                        41.103008
+                  ]
+            },
+            {
+                  "name": "Baja Sardinia",
+                  "text": "Der Strand Baja Sardinia bei Cervo ist für sein klares Wasser bekannt.",
+                  "category": "recreational",
+                  "coords": [
+                        9.480006,
+                        41.140443
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Romazzino",
+                  "text": "Die Spiaggia di Romazzino bei Cervo ist ein beliebter Küstenabschnitt.",
+                  "category": "recreational",
+                  "coords": [
+                        9.565468,
+                        41.0985
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Grande Pevero",
+                  "text": "Die Spiaggia del Grande Pevero bei Cervo bietet feinen Sandstrand.",
+                  "category": "recreational",
+                  "coords": [
+                        9.546032,
+                        41.112475
+                  ]
+            },
+            {
+                  "name": "Piccolo Pevero",
+                  "text": "Der Piccolo Pevero Strand bei Cervo ist ein ruhiger Badeort.",
+                  "category": "recreational",
+                  "coords": [
+                        9.540459,
+                        41.114508
+                  ]
+            },
+            {
+                  "name": "Cala Monti Zoppu",
+                  "text": "Die Cala Monti Zoppu bei Cervo ist eine malerische Bucht zum Schwimmen.",
+                  "category": "recreational",
+                  "coords": [
+                        9.560598,
+                        41.11776
+                  ]
+            },
+            {
+                  "name": "Spiaggia Precedence A Mucchi Bianchi",
+                  "text": "Die Spiaggia Precedence A Mucchi Bianchi bei Cervo ist ein natürlicher Strand.",
+                  "category": "recreational",
+                  "coords": [
+                        9.473156,
+                        41.132909
+                  ]
             }
       ],
       "hu": [
@@ -32561,6 +36656,69 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         9.53333,
                         41.1333
+                  ]
+            },
+            {
+                  "name": "Spiaggia Poltu Liccia",
+                  "text": "A cervoi Spiaggia Poltu Liccia egy kellemes strandfürdőzőhely.",
+                  "category": "recreational",
+                  "coords": [
+                        9.563369,
+                        41.103008
+                  ]
+            },
+            {
+                  "name": "Baja Sardinia",
+                  "text": "A cervoi Baja Sardinia strand a tiszta vizéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        9.480006,
+                        41.140443
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Romazzino",
+                  "text": "A cervoi Spiaggia di Romazzino egy népszerű partszakasz.",
+                  "category": "recreational",
+                  "coords": [
+                        9.565468,
+                        41.0985
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Grande Pevero",
+                  "text": "A cervoi Spiaggia del Grande Pevero finom homokos strandot kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        9.546032,
+                        41.112475
+                  ]
+            },
+            {
+                  "name": "Piccolo Pevero",
+                  "text": "A cervoi Piccolo Pevero strand egy nyugodt fürdőhely.",
+                  "category": "recreational",
+                  "coords": [
+                        9.540459,
+                        41.114508
+                  ]
+            },
+            {
+                  "name": "Cala Monti Zoppu",
+                  "text": "A cervoi Cala Monti Zoppu egy festői öböl az úszáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        9.560598,
+                        41.11776
+                  ]
+            },
+            {
+                  "name": "Spiaggia Precedence A Mucchi Bianchi",
+                  "text": "A cervoi Spiaggia Precedence A Mucchi Bianchi egy természetes strand.",
+                  "category": "recreational",
+                  "coords": [
+                        9.473156,
+                        41.132909
                   ]
             }
       ],
@@ -32630,6 +36788,69 @@ export const poiExtraItalyV2: POI[] = [
                         9.53333,
                         41.1333
                   ]
+            },
+            {
+                  "name": "Spiaggia Poltu Liccia",
+                  "text": "Plaja Spiaggia Poltu Liccia din Cervo este un loc plăcut pentru înot.",
+                  "category": "recreational",
+                  "coords": [
+                        9.563369,
+                        41.103008
+                  ]
+            },
+            {
+                  "name": "Baja Sardinia",
+                  "text": "Plaja Baja Sardinia din Cervo este cunoscută pentru apele sale limpezi.",
+                  "category": "recreational",
+                  "coords": [
+                        9.480006,
+                        41.140443
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Romazzino",
+                  "text": "Spiaggia di Romazzino din Cervo este o secțiune populară de coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        9.565468,
+                        41.0985
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Grande Pevero",
+                  "text": "Spiaggia del Grande Pevero din Cervo oferă o plajă cu nisip fin.",
+                  "category": "recreational",
+                  "coords": [
+                        9.546032,
+                        41.112475
+                  ]
+            },
+            {
+                  "name": "Piccolo Pevero",
+                  "text": "Plaja Piccolo Pevero din Cervo este o locație liniștită pentru înot.",
+                  "category": "recreational",
+                  "coords": [
+                        9.540459,
+                        41.114508
+                  ]
+            },
+            {
+                  "name": "Cala Monti Zoppu",
+                  "text": "Cala Monti Zoppu din Cervo este un golf pitoresc pentru înot.",
+                  "category": "recreational",
+                  "coords": [
+                        9.560598,
+                        41.11776
+                  ]
+            },
+            {
+                  "name": "Spiaggia Precedence A Mucchi Bianchi",
+                  "text": "Spiaggia Precedence A Mucchi Bianchi din Cervo este o plajă naturală.",
+                  "category": "recreational",
+                  "coords": [
+                        9.473156,
+                        41.132909
+                  ]
             }
       ],
       "en": [
@@ -32697,6 +36918,69 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         9.53333,
                         41.1333
+                  ]
+            },
+            {
+                  "name": "Spiaggia Poltu Liccia",
+                  "text": "Spiaggia Poltu Liccia near Cervo is a pleasant beach for swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        9.563369,
+                        41.103008
+                  ]
+            },
+            {
+                  "name": "Baja Sardinia",
+                  "text": "Baja Sardinia beach near Cervo is known for its clear water.",
+                  "category": "recreational",
+                  "coords": [
+                        9.480006,
+                        41.140443
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Romazzino",
+                  "text": "Spiaggia di Romazzino near Cervo is a popular stretch of coastline.",
+                  "category": "recreational",
+                  "coords": [
+                        9.565468,
+                        41.0985
+                  ]
+            },
+            {
+                  "name": "Spiaggia del Grande Pevero",
+                  "text": "Spiaggia del Grande Pevero near Cervo features a fine sandy beach.",
+                  "category": "recreational",
+                  "coords": [
+                        9.546032,
+                        41.112475
+                  ]
+            },
+            {
+                  "name": "Piccolo Pevero",
+                  "text": "Piccolo Pevero beach near Cervo is a quiet swimming location.",
+                  "category": "recreational",
+                  "coords": [
+                        9.540459,
+                        41.114508
+                  ]
+            },
+            {
+                  "name": "Cala Monti Zoppu",
+                  "text": "Cala Monti Zoppu near Cervo is a scenic bay for swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        9.560598,
+                        41.11776
+                  ]
+            },
+            {
+                  "name": "Spiaggia Precedence A Mucchi Bianchi",
+                  "text": "Spiaggia Precedence A Mucchi Bianchi near Cervo is a natural beach.",
+                  "category": "recreational",
+                  "coords": [
+                        9.473156,
+                        41.132909
                   ]
             }
       ]
@@ -32790,6 +37074,24 @@ export const poiExtraItalyV2: POI[] = [
                         7.778175,
                         43.814611
                   ]
+            },
+            {
+                  "name": "Spiaggia di Sanremo",
+                  "text": "Spiaggia di Sanremo ist ein Strand in Remo.",
+                  "category": "recreational",
+                  "coords": [
+                        7.781853,
+                        43.817845
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Bussana",
+                  "text": "Spiaggia di Bussana ist ein Strand in Remo.",
+                  "category": "recreational",
+                  "coords": [
+                        7.843133,
+                        43.825428
+                  ]
             }
       ],
       "hu": [
@@ -32879,6 +37181,24 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         7.778175,
                         43.814611
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Sanremo",
+                  "text": "A Spiaggia di Sanremo egy strand Remo városában.",
+                  "category": "recreational",
+                  "coords": [
+                        7.781853,
+                        43.817845
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Bussana",
+                  "text": "A Spiaggia di Bussana egy strand Remo területén.",
+                  "category": "recreational",
+                  "coords": [
+                        7.843133,
+                        43.825428
                   ]
             }
       ],
@@ -32970,6 +37290,24 @@ export const poiExtraItalyV2: POI[] = [
                         7.778175,
                         43.814611
                   ]
+            },
+            {
+                  "name": "Spiaggia di Sanremo",
+                  "text": "Spiaggia di Sanremo este o plajă situată în Remo.",
+                  "category": "recreational",
+                  "coords": [
+                        7.781853,
+                        43.817845
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Bussana",
+                  "text": "Spiaggia di Bussana este o plajă situată în Remo.",
+                  "category": "recreational",
+                  "coords": [
+                        7.843133,
+                        43.825428
+                  ]
             }
       ],
       "en": [
@@ -33059,6 +37397,24 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         7.778175,
                         43.814611
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Sanremo",
+                  "text": "Spiaggia di Sanremo is a beach situated in Remo.",
+                  "category": "recreational",
+                  "coords": [
+                        7.781853,
+                        43.817845
+                  ]
+            },
+            {
+                  "name": "Spiaggia di Bussana",
+                  "text": "Spiaggia di Bussana is a beach destination located in Remo.",
+                  "category": "recreational",
+                  "coords": [
+                        7.843133,
+                        43.825428
                   ]
             }
       ]
@@ -34172,6 +38528,24 @@ export const poiExtraItalyV2: POI[] = [
                         8.221111,
                         40.969444
                   ]
+            },
+            {
+                  "name": "Spiaggia l'Ancora",
+                  "text": "Spiaggia l'Ancora ist ein öffentlicher Strand in Stintino.",
+                  "category": "recreational",
+                  "coords": [
+                        8.21923,
+                        40.958076
+                  ]
+            },
+            {
+                  "name": "Cala Lupo",
+                  "text": "Cala Lupo ist ein naturnaher Strand in Stintino.",
+                  "category": "recreational",
+                  "coords": [
+                        8.234446,
+                        40.948366
+                  ]
             }
       ],
       "hu": [
@@ -34239,6 +38613,24 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         8.221111,
                         40.969444
+                  ]
+            },
+            {
+                  "name": "Spiaggia l'Ancora",
+                  "text": "A Spiaggia l'Ancora egy nyilvános strand Stintinóban.",
+                  "category": "recreational",
+                  "coords": [
+                        8.21923,
+                        40.958076
+                  ]
+            },
+            {
+                  "name": "Cala Lupo",
+                  "text": "A Cala Lupo egy természetközeli strand Stintinóban.",
+                  "category": "recreational",
+                  "coords": [
+                        8.234446,
+                        40.948366
                   ]
             }
       ],
@@ -34308,6 +38700,24 @@ export const poiExtraItalyV2: POI[] = [
                         8.221111,
                         40.969444
                   ]
+            },
+            {
+                  "name": "Spiaggia l'Ancora",
+                  "text": "Spiaggia l'Ancora este o plajă publică în Stintino.",
+                  "category": "recreational",
+                  "coords": [
+                        8.21923,
+                        40.958076
+                  ]
+            },
+            {
+                  "name": "Cala Lupo",
+                  "text": "Cala Lupo este o plajă apropiată de natură în Stintino.",
+                  "category": "recreational",
+                  "coords": [
+                        8.234446,
+                        40.948366
+                  ]
             }
       ],
       "en": [
@@ -34375,6 +38785,24 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         8.221111,
                         40.969444
+                  ]
+            },
+            {
+                  "name": "Spiaggia l'Ancora",
+                  "text": "Spiaggia l'Ancora is a public beach in Stintino.",
+                  "category": "recreational",
+                  "coords": [
+                        8.21923,
+                        40.958076
+                  ]
+            },
+            {
+                  "name": "Cala Lupo",
+                  "text": "Cala Lupo is a nature-oriented beach in Stintino.",
+                  "category": "recreational",
+                  "coords": [
+                        8.234446,
+                        40.948366
                   ]
             }
       ]
@@ -34456,6 +38884,42 @@ export const poiExtraItalyV2: POI[] = [
                         15.228738,
                         38.807532
                   ]
+            },
+            {
+                  "name": "Spiaggia Scari",
+                  "text": "Die Spiaggia Scari ist ein Strand in dem Dorf.",
+                  "category": "recreational",
+                  "coords": [
+                        15.241166,
+                        38.80099
+                  ]
+            },
+            {
+                  "name": "Spiaggia Puntalena",
+                  "text": "Die Spiaggia Puntalena ist ein Strand in dem Dorf.",
+                  "category": "recreational",
+                  "coords": [
+                        15.240407,
+                        38.805759
+                  ]
+            },
+            {
+                  "name": "Spiaggia Lunga",
+                  "text": "Der Strand Spiaggia Lunga in Village lädt zum Entspannen ein.",
+                  "category": "recreational",
+                  "coords": [
+                        15.22383,
+                        38.811012
+                  ]
+            },
+            {
+                  "name": "Spiaggia Forgia Vecchia",
+                  "text": "Die Spiaggia Forgia Vecchia ist ein schöner Strand in Village.",
+                  "category": "recreational",
+                  "coords": [
+                        15.232263,
+                        38.789572
+                  ]
             }
       ],
       "hu": [
@@ -34533,6 +38997,42 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         15.228738,
                         38.807532
+                  ]
+            },
+            {
+                  "name": "Spiaggia Scari",
+                  "text": "A Spiaggia Scari egy strand a faluban.",
+                  "category": "recreational",
+                  "coords": [
+                        15.241166,
+                        38.80099
+                  ]
+            },
+            {
+                  "name": "Spiaggia Puntalena",
+                  "text": "A Spiaggia Puntalena egy strand a faluban.",
+                  "category": "recreational",
+                  "coords": [
+                        15.240407,
+                        38.805759
+                  ]
+            },
+            {
+                  "name": "Spiaggia Lunga",
+                  "text": "A Village-ban található Spiaggia Lunga strand pihenésre csábít.",
+                  "category": "recreational",
+                  "coords": [
+                        15.22383,
+                        38.811012
+                  ]
+            },
+            {
+                  "name": "Spiaggia Forgia Vecchia",
+                  "text": "A Spiaggia Forgia Vecchia egy szép strand Village-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        15.232263,
+                        38.789572
                   ]
             }
       ],
@@ -34612,6 +39112,42 @@ export const poiExtraItalyV2: POI[] = [
                         15.228738,
                         38.807532
                   ]
+            },
+            {
+                  "name": "Spiaggia Scari",
+                  "text": "Spiaggia Scari este o plajă din sat.",
+                  "category": "recreational",
+                  "coords": [
+                        15.241166,
+                        38.80099
+                  ]
+            },
+            {
+                  "name": "Spiaggia Puntalena",
+                  "text": "Spiaggia Puntalena este o plajă din sat.",
+                  "category": "recreational",
+                  "coords": [
+                        15.240407,
+                        38.805759
+                  ]
+            },
+            {
+                  "name": "Spiaggia Lunga",
+                  "text": "Plaja Spiaggia Lunga din Village invită la relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        15.22383,
+                        38.811012
+                  ]
+            },
+            {
+                  "name": "Spiaggia Forgia Vecchia",
+                  "text": "Spiaggia Forgia Vecchia este o plajă frumoasă în Village.",
+                  "category": "recreational",
+                  "coords": [
+                        15.232263,
+                        38.789572
+                  ]
             }
       ],
       "en": [
@@ -34689,6 +39225,42 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         15.228738,
                         38.807532
+                  ]
+            },
+            {
+                  "name": "Spiaggia Scari",
+                  "text": "Spiaggia Scari is a beach in the village.",
+                  "category": "recreational",
+                  "coords": [
+                        15.241166,
+                        38.80099
+                  ]
+            },
+            {
+                  "name": "Spiaggia Puntalena",
+                  "text": "Spiaggia Puntalena is a beach in the village.",
+                  "category": "recreational",
+                  "coords": [
+                        15.240407,
+                        38.805759
+                  ]
+            },
+            {
+                  "name": "Spiaggia Lunga",
+                  "text": "The Spiaggia Lunga beach in Village invites you to relax.",
+                  "category": "recreational",
+                  "coords": [
+                        15.22383,
+                        38.811012
+                  ]
+            },
+            {
+                  "name": "Spiaggia Forgia Vecchia",
+                  "text": "Spiaggia Forgia Vecchia is a beautiful beach in Village.",
+                  "category": "recreational",
+                  "coords": [
+                        15.232263,
+                        38.789572
                   ]
             }
       ]
@@ -34771,6 +39343,33 @@ export const poiExtraItalyV2: POI[] = [
                         10.243498,
                         43.871086
                   ]
+            },
+            {
+                  "name": "Spiaggia libera Piazza Lemmetti",
+                  "text": "Öffentlicher Strand an der Piazza Lemmetti in Viareggio.",
+                  "category": "recreational",
+                  "coords": [
+                        10.227372,
+                        43.889215
+                  ]
+            },
+            {
+                  "name": "la Lecciona Spiaggia naturista;naturist beach",
+                  "text": "Ein bekannter FKK-Strand in der Nähe von Viareggio.",
+                  "category": "recreational",
+                  "coords": [
+                        10.248836,
+                        43.836533
+                  ]
+            },
+            {
+                  "name": "Spiaggia Viareggio",
+                  "text": "Spiaggia Viareggio ist ein Strand in der Stadt Viareggio.",
+                  "category": "recreational",
+                  "coords": [
+                        10.235029,
+                        43.876028
+                  ]
             }
       ],
       "hu": [
@@ -34849,6 +39448,33 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         10.243498,
                         43.871086
+                  ]
+            },
+            {
+                  "name": "Spiaggia libera Piazza Lemmetti",
+                  "text": "Nyilvános strand a Viareggio-i Piazza Lemmettinél.",
+                  "category": "recreational",
+                  "coords": [
+                        10.227372,
+                        43.889215
+                  ]
+            },
+            {
+                  "name": "la Lecciona Spiaggia naturista;naturist beach",
+                  "text": "Ismert nudista strand Viareggio közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        10.248836,
+                        43.836533
+                  ]
+            },
+            {
+                  "name": "Spiaggia Viareggio",
+                  "text": "A Spiaggia Viareggio egy strand Viareggio városában.",
+                  "category": "recreational",
+                  "coords": [
+                        10.235029,
+                        43.876028
                   ]
             }
       ],
@@ -34929,6 +39555,33 @@ export const poiExtraItalyV2: POI[] = [
                         10.243498,
                         43.871086
                   ]
+            },
+            {
+                  "name": "Spiaggia libera Piazza Lemmetti",
+                  "text": "Plajă publică la Piazza Lemmetti în Viareggio.",
+                  "category": "recreational",
+                  "coords": [
+                        10.227372,
+                        43.889215
+                  ]
+            },
+            {
+                  "name": "la Lecciona Spiaggia naturista;naturist beach",
+                  "text": "O plajă de nudiști bine cunoscută lângă Viareggio.",
+                  "category": "recreational",
+                  "coords": [
+                        10.248836,
+                        43.836533
+                  ]
+            },
+            {
+                  "name": "Spiaggia Viareggio",
+                  "text": "Spiaggia Viareggio este o plajă în orașul Viareggio.",
+                  "category": "recreational",
+                  "coords": [
+                        10.235029,
+                        43.876028
+                  ]
             }
       ],
       "en": [
@@ -35007,6 +39660,33 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         10.243498,
                         43.871086
+                  ]
+            },
+            {
+                  "name": "Spiaggia libera Piazza Lemmetti",
+                  "text": "Public beach at Piazza Lemmetti in Viareggio.",
+                  "category": "recreational",
+                  "coords": [
+                        10.227372,
+                        43.889215
+                  ]
+            },
+            {
+                  "name": "la Lecciona Spiaggia naturista;naturist beach",
+                  "text": "A well-known naturist beach near Viareggio.",
+                  "category": "recreational",
+                  "coords": [
+                        10.248836,
+                        43.836533
+                  ]
+            },
+            {
+                  "name": "Spiaggia Viareggio",
+                  "text": "Spiaggia Viareggio is a beach in the city of Viareggio.",
+                  "category": "recreational",
+                  "coords": [
+                        10.235029,
+                        43.876028
                   ]
             }
       ]

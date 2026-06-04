@@ -1901,6 +1901,15 @@ export const pois: POI[] = [
                         6.771839,
                         51.226159
                   ]
+            },
+            {
+                  "name": "Paradiesstrand",
+                  "text": "Der Paradiesstrand ist eine Uferzone in Düsseldorf.",
+                  "category": "recreational",
+                  "coords": [
+                        6.752109,
+                        51.219939
+                  ]
             }
       ],
       "hu": [
@@ -2002,6 +2011,15 @@ export const pois: POI[] = [
                   "coords": [
                         6.771839,
                         51.226159
+                  ]
+            },
+            {
+                  "name": "Paradiesstrand",
+                  "text": "A Paradiesstrand egy part menti övezet Düsseldorfban.",
+                  "category": "recreational",
+                  "coords": [
+                        6.752109,
+                        51.219939
                   ]
             }
       ],
@@ -2105,6 +2123,15 @@ export const pois: POI[] = [
                         6.771839,
                         51.226159
                   ]
+            },
+            {
+                  "name": "Paradiesstrand",
+                  "text": "Paradiesstrand este o zonă de mal în Düsseldorf.",
+                  "category": "recreational",
+                  "coords": [
+                        6.752109,
+                        51.219939
+                  ]
             }
       ],
       "en": [
@@ -2206,6 +2233,15 @@ export const pois: POI[] = [
                   "coords": [
                         6.771839,
                         51.226159
+                  ]
+            },
+            {
+                  "name": "Paradiesstrand",
+                  "text": "Paradiesstrand is a riverside area in Düsseldorf.",
+                  "category": "recreational",
+                  "coords": [
+                        6.752109,
+                        51.219939
                   ]
             }
       ]
@@ -2774,6 +2810,15 @@ export const pois: POI[] = [
                         9.740149,
                         52.362812
                   ]
+            },
+            {
+                  "name": "Strandleben",
+                  "text": "Das Strandleben liegt in Hannover.",
+                  "category": "recreational",
+                  "coords": [
+                        9.713109,
+                        52.377203
+                  ]
             }
       ],
       "hu": [
@@ -2855,6 +2900,15 @@ export const pois: POI[] = [
                   "coords": [
                         9.740149,
                         52.362812
+                  ]
+            },
+            {
+                  "name": "Strandleben",
+                  "text": "A Strandleben Hannoverben található.",
+                  "category": "recreational",
+                  "coords": [
+                        9.713109,
+                        52.377203
                   ]
             }
       ],
@@ -2938,6 +2992,15 @@ export const pois: POI[] = [
                         9.740149,
                         52.362812
                   ]
+            },
+            {
+                  "name": "Strandleben",
+                  "text": "Zona Strandleben este situată în Hanovra.",
+                  "category": "recreational",
+                  "coords": [
+                        9.713109,
+                        52.377203
+                  ]
             }
       ],
       "en": [
@@ -3019,6 +3082,15 @@ export const pois: POI[] = [
                   "coords": [
                         9.740149,
                         52.362812
+                  ]
+            },
+            {
+                  "name": "Strandleben",
+                  "text": "The Strandleben area is located in Hannover.",
+                  "category": "recreational",
+                  "coords": [
+                        9.713109,
+                        52.377203
                   ]
             }
       ]
@@ -3496,6 +3568,15 @@ export const pois: POI[] = [
                         8.270344,
                         50.008233
                   ]
+            },
+            {
+                  "name": "Strand Bastion von Schönborn",
+                  "text": "Der Strand Bastion von Schönborn liegt in Mainz.",
+                  "category": "recreational",
+                  "coords": [
+                        8.280544,
+                        50.006502
+                  ]
             }
       ],
       "hu": [
@@ -3567,6 +3648,15 @@ export const pois: POI[] = [
                   "coords": [
                         8.270344,
                         50.008233
+                  ]
+            },
+            {
+                  "name": "Strand Bastion von Schönborn",
+                  "text": "A Strand Bastion von Schönborn strand Mainzban található.",
+                  "category": "recreational",
+                  "coords": [
+                        8.280544,
+                        50.006502
                   ]
             }
       ],
@@ -3640,6 +3730,15 @@ export const pois: POI[] = [
                         8.270344,
                         50.008233
                   ]
+            },
+            {
+                  "name": "Strand Bastion von Schönborn",
+                  "text": "Plaja Bastion von Schönborn este situată în Mainz.",
+                  "category": "recreational",
+                  "coords": [
+                        8.280544,
+                        50.006502
+                  ]
             }
       ],
       "en": [
@@ -3711,6 +3810,15 @@ export const pois: POI[] = [
                   "coords": [
                         8.270344,
                         50.008233
+                  ]
+            },
+            {
+                  "name": "Strand Bastion von Schönborn",
+                  "text": "Bastion von Schönborn beach is located in Mainz.",
+                  "category": "recreational",
+                  "coords": [
+                        8.280544,
+                        50.006502
                   ]
             }
       ]
@@ -5081,6 +5189,15 @@ export const pois: POI[] = [
                         11.3628,
                         53.6333
                   ]
+            },
+            {
+                  "name": "Badestelle Ziegelsee",
+                  "text": "Die Badestelle Ziegelsee liegt bei Schwerin.",
+                  "category": "recreational",
+                  "coords": [
+                        11.419329,
+                        53.66612
+                  ]
             }
       ],
       "hu": [
@@ -5152,6 +5269,15 @@ export const pois: POI[] = [
                   "coords": [
                         11.3628,
                         53.6333
+                  ]
+            },
+            {
+                  "name": "Badestelle Ziegelsee",
+                  "text": "A Badestelle Ziegelsee Schwerin közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        11.419329,
+                        53.66612
                   ]
             }
       ],
@@ -5225,6 +5351,15 @@ export const pois: POI[] = [
                         11.3628,
                         53.6333
                   ]
+            },
+            {
+                  "name": "Badestelle Ziegelsee",
+                  "text": "Badestelle Ziegelsee este situată lângă Schwerin.",
+                  "category": "recreational",
+                  "coords": [
+                        11.419329,
+                        53.66612
+                  ]
             }
       ],
       "en": [
@@ -5296,6 +5431,15 @@ export const pois: POI[] = [
                   "coords": [
                         11.3628,
                         53.6333
+                  ]
+            },
+            {
+                  "name": "Badestelle Ziegelsee",
+                  "text": "Badestelle Ziegelsee is located near Schwerin.",
+                  "category": "recreational",
+                  "coords": [
+                        11.419329,
+                        53.66612
                   ]
             }
       ]
@@ -5418,6 +5562,15 @@ export const pois: POI[] = [
                         13.090278,
                         52.413333
                   ]
+            },
+            {
+                  "name": "Waldbad Templin",
+                  "text": "Das Waldbad Templin liegt bei Potsdam.",
+                  "category": "recreational",
+                  "coords": [
+                        13.021223,
+                        52.360288
+                  ]
             }
       ],
       "hu": [
@@ -5499,6 +5652,15 @@ export const pois: POI[] = [
                   "coords": [
                         13.090278,
                         52.413333
+                  ]
+            },
+            {
+                  "name": "Waldbad Templin",
+                  "text": "A Waldbad Templin Potsdam közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        13.021223,
+                        52.360288
                   ]
             }
       ],
@@ -5582,6 +5744,15 @@ export const pois: POI[] = [
                         13.090278,
                         52.413333
                   ]
+            },
+            {
+                  "name": "Waldbad Templin",
+                  "text": "Plaja Waldbad Templin se află în apropiere de Potsdam.",
+                  "category": "recreational",
+                  "coords": [
+                        13.021223,
+                        52.360288
+                  ]
             }
       ],
       "en": [
@@ -5663,6 +5834,15 @@ export const pois: POI[] = [
                   "coords": [
                         13.090278,
                         52.413333
+                  ]
+            },
+            {
+                  "name": "Waldbad Templin",
+                  "text": "Waldbad Templin is located near Potsdam.",
+                  "category": "recreational",
+                  "coords": [
+                        13.021223,
+                        52.360288
                   ]
             }
       ]
@@ -17540,6 +17720,15 @@ export const pois: POI[] = [
                         10.696202,
                         53.857555
                   ]
+            },
+            {
+                  "name": "Badestelle St. Jürgen",
+                  "text": "Die Badestelle St. Jürgen befindet sich an der Trave in Lübeck.",
+                  "category": "recreational",
+                  "coords": [
+                        10.727525,
+                        53.853455
+                  ]
             }
       ],
       "hu": [
@@ -17789,6 +17978,15 @@ export const pois: POI[] = [
                   "coords": [
                         10.696202,
                         53.857555
+                  ]
+            },
+            {
+                  "name": "Badestelle St. Jürgen",
+                  "text": "A St. Jürgen fürdőhely a Trave folyó mellett található Lübeckben.",
+                  "category": "recreational",
+                  "coords": [
+                        10.727525,
+                        53.853455
                   ]
             }
       ],
@@ -18040,6 +18238,15 @@ export const pois: POI[] = [
                         10.696202,
                         53.857555
                   ]
+            },
+            {
+                  "name": "Badestelle St. Jürgen",
+                  "text": "Zona de scăldat St. Jürgen este situată pe râul Trave în Lübeck.",
+                  "category": "recreational",
+                  "coords": [
+                        10.727525,
+                        53.853455
+                  ]
             }
       ],
       "en": [
@@ -18289,6 +18496,15 @@ export const pois: POI[] = [
                   "coords": [
                         10.696202,
                         53.857555
+                  ]
+            },
+            {
+                  "name": "Badestelle St. Jürgen",
+                  "text": "The St. Jürgen bathing spot is located on the river Trave in Lübeck.",
+                  "category": "recreational",
+                  "coords": [
+                        10.727525,
+                        53.853455
                   ]
             }
       ],
@@ -27274,6 +27490,24 @@ export const pois: POI[] = [
                         10.538895,
                         52.25879
                   ]
+            },
+            {
+                  "name": "Soldekk",
+                  "text": "Soldekk in Braunschweig.",
+                  "category": "recreational",
+                  "coords": [
+                        10.517689,
+                        52.260792
+                  ]
+            },
+            {
+                  "name": "Badestelle Heidbergsee",
+                  "text": "Die Badestelle Heidbergsee liegt in Braunschweig.",
+                  "category": "recreational",
+                  "coords": [
+                        10.549012,
+                        52.227292
+                  ]
             }
       ],
       "hu": [
@@ -27613,6 +27847,24 @@ export const pois: POI[] = [
                   "coords": [
                         10.538895,
                         52.25879
+                  ]
+            },
+            {
+                  "name": "Soldekk",
+                  "text": "Soldekk Braunschweigben.",
+                  "category": "recreational",
+                  "coords": [
+                        10.517689,
+                        52.260792
+                  ]
+            },
+            {
+                  "name": "Badestelle Heidbergsee",
+                  "text": "A Badestelle Heidbergsee Braunschweigban található.",
+                  "category": "recreational",
+                  "coords": [
+                        10.549012,
+                        52.227292
                   ]
             }
       ],
@@ -27954,6 +28206,24 @@ export const pois: POI[] = [
                         10.538895,
                         52.25879
                   ]
+            },
+            {
+                  "name": "Soldekk",
+                  "text": "Soldekk în Braunschweig.",
+                  "category": "recreational",
+                  "coords": [
+                        10.517689,
+                        52.260792
+                  ]
+            },
+            {
+                  "name": "Badestelle Heidbergsee",
+                  "text": "Badestelle Heidbergsee este situat în Braunschweig.",
+                  "category": "recreational",
+                  "coords": [
+                        10.549012,
+                        52.227292
+                  ]
             }
       ],
       "en": [
@@ -28293,6 +28563,24 @@ export const pois: POI[] = [
                   "coords": [
                         10.538895,
                         52.25879
+                  ]
+            },
+            {
+                  "name": "Soldekk",
+                  "text": "Soldekk in Braunschweig.",
+                  "category": "recreational",
+                  "coords": [
+                        10.517689,
+                        52.260792
+                  ]
+            },
+            {
+                  "name": "Badestelle Heidbergsee",
+                  "text": "Badestelle Heidbergsee is located in Braunschweig.",
+                  "category": "recreational",
+                  "coords": [
+                        10.549012,
+                        52.227292
                   ]
             }
       ],
@@ -35698,7 +35986,52 @@ export const pois: POI[] = [
       "tr": ["Uzunluk: Kulmbach'taki birleşme noktasından ağzına kadar 525 kilometredir.", "Nehir akışı: Bavyera ve Hessen üzerinden doğudan batıya doğru akar.", "Havza: Yaklaşık 27.292 km² alan Main tarafından drene edilir.", "Barajlar: Toplam 34 baraj kademesi gemiler için su seviyesini düzenler.", "Ağız: Main, Mainz'ın karşısındaki Mainz-Kostheim'da Rhein'a dökülür.", "Main-Donau-Kanal: Bamberg yakınlarında Main'ı, Kelheim yakınlarında Donau'ya bağlar."]},
   },
   {
-    id: "river-mosel",
+    id: "river-mosel", "sights": {
+      "de": [
+            {
+                  "name": "Statt-Strand-Koblenz",
+                  "text": "Statt-Strand-Koblenz ist eine Uferstelle an der Mosel.",
+                  "category": "recreational",
+                  "coords": [
+                        7.563724,
+                        50.362186
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Statt-Strand-Koblenz",
+                  "text": "A Statt-Strand-Koblenz egy partszakasz a Mosel folyónál.",
+                  "category": "recreational",
+                  "coords": [
+                        7.563724,
+                        50.362186
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Statt-Strand-Koblenz",
+                  "text": "Statt-Strand-Koblenz este o zonă pe malul râului Mosel.",
+                  "category": "recreational",
+                  "coords": [
+                        7.563724,
+                        50.362186
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Statt-Strand-Koblenz",
+                  "text": "Statt-Strand-Koblenz is a riverside spot along the Mosel.",
+                  "category": "recreational",
+                  "coords": [
+                        7.563724,
+                        50.362186
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "DE",
     coords: [7.59, 50.36],
@@ -35767,7 +36100,88 @@ export const pois: POI[] = [
       "tr": ["Uzunluk: Kaynağından Mannheim'daki ağzına kadar 362 kilometredir.", "Havza: Tüm Neckar sistemini kapsayan 13.910 km²'lik alan.", "Gemicilik: Nehrin 203 kilometresi büyük gemiler için uygundur.", "Kanal havuzları: Plochingen ve Mannheim arasında 27 adet kilit su seviyesini düzenler.", "Ağız: Neckar, Mannheim'da deniz seviyesinden 88 m yükseklikte Rhein'a karışır.", "Şehirler: Baden-Württemberg'in başkenti Stuttgart, Neckar kıyısındadır."]},
   },
   {
-    id: "river-weser",
+    id: "river-weser", "sights": {
+      "de": [
+            {
+                  "name": "Rablinghauser Strand",
+                  "text": "Der Rablinghauser Strand liegt direkt an der Weser.",
+                  "category": "recreational",
+                  "coords": [
+                        8.753279,
+                        53.097417
+                  ]
+            },
+            {
+                  "name": "Waller Sand",
+                  "text": "Waller Sand an der Weser in Bremen.",
+                  "category": "recreational",
+                  "coords": [
+                        8.754429,
+                        53.104455
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rablinghauser Strand",
+                  "text": "A Rablinghauser Strand közvetlenül a Weser folyó partján fekszik.",
+                  "category": "recreational",
+                  "coords": [
+                        8.753279,
+                        53.097417
+                  ]
+            },
+            {
+                  "name": "Waller Sand",
+                  "text": "Waller Sand strand a Weser folyónál, Brémában.",
+                  "category": "recreational",
+                  "coords": [
+                        8.754429,
+                        53.104455
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rablinghauser Strand",
+                  "text": "Rablinghauser Strand este situată direct pe malul râului Weser.",
+                  "category": "recreational",
+                  "coords": [
+                        8.753279,
+                        53.097417
+                  ]
+            },
+            {
+                  "name": "Waller Sand",
+                  "text": "Plaja Waller Sand de pe râul Weser, Bremen.",
+                  "category": "recreational",
+                  "coords": [
+                        8.754429,
+                        53.104455
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rablinghauser Strand",
+                  "text": "Rablinghauser Strand is located directly on the Weser river.",
+                  "category": "recreational",
+                  "coords": [
+                        8.753279,
+                        53.097417
+                  ]
+            },
+            {
+                  "name": "Waller Sand",
+                  "text": "Waller Sand beach on the Weser river in Bremen.",
+                  "category": "recreational",
+                  "coords": [
+                        8.754429,
+                        53.104455
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "DE",
     coords: [8.74, 53.08],
@@ -35903,7 +36317,52 @@ export const pois: POI[] = [
       "tr": ["Uzunluk: Oberlausitz'den Berlin-Spandau'ya kadar yaklaşık 400 kilometredir.", "Havza: Spree sistemi tarafından 10.105 km²'lik alan beslenir.", "Kaynaklar: Ebersbach, Neugersdorf ve Kottmar'da olmak üzere üç kabul görmüş kaynağı vardır.", "Spreewald: 300 km'den fazla kanala sahip 475 km²'lik bir iç deltadır.", "Ağız: Spree, Spandau'da deniz seviyesinden 29 m yükseklikte Havel'e dökülür.", "Museumsinsel: Berlin'in tarihi merkezi Spree üzerindeki bir adada yer alır."]},
   },
   {
-    id: "river-ruhr",
+    id: "river-ruhr", "sights": {
+      "de": [
+            {
+                  "name": "Revierstrand Dortmund",
+                  "text": "Revierstrand in Dortmund an der Ruhr.",
+                  "category": "recreational",
+                  "coords": [
+                        7.404612,
+                        51.52035
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Revierstrand Dortmund",
+                  "text": "Revierstrand strand Dortmundban, a Ruhr folyónál.",
+                  "category": "recreational",
+                  "coords": [
+                        7.404612,
+                        51.52035
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Revierstrand Dortmund",
+                  "text": "Plaja Revierstrand în Dortmund pe râul Ruhr.",
+                  "category": "recreational",
+                  "coords": [
+                        7.404612,
+                        51.52035
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Revierstrand Dortmund",
+                  "text": "Revierstrand beach in Dortmund on the Ruhr river.",
+                  "category": "recreational",
+                  "coords": [
+                        7.404612,
+                        51.52035
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "DE",
     coords: [7.46, 51.51],
@@ -36245,7 +36704,88 @@ export const pois: POI[] = [
       "tr": ["Zirvedeki Aussichtsturm 40 metre yüksekliğindedir.", "Hessische Rundfunk, Große Feldberg üzerinde güçlü bir verici istasyonu işletmektedir.", "Plato, Hallstatt döneminde bile yerleşim yeriydi.", "Zirvede tarihi bir restoran olan Feldberghaus bulunmaktadır.", "İyi görüş mesafesinde manzara zirveden Odenwald ve Pfälzerwald'a kadar uzanır.", "Dağ, Taunus'taki Schmitten belediyesi sınırları içinde yer alır."]},
   },
   {
-    id: "lake-bodensee",
+    id: "lake-bodensee", "sights": {
+      "de": [
+            {
+                  "name": "Strandbad Hagnau",
+                  "text": "Strandbad Hagnau am Bodensee.",
+                  "category": "recreational",
+                  "coords": [
+                        9.327372,
+                        47.671173
+                  ]
+            },
+            {
+                  "name": "Liegewiese Campgingplatz Schloss Helmsdorf",
+                  "text": "Die Liegewiese am Campingplatz Schloss Helmsdorf liegt am Bodensee.",
+                  "category": "recreational",
+                  "coords": [
+                        9.375656,
+                        47.665228
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Strandbad Hagnau",
+                  "text": "Hagnaui strandfürdő a Bodeni-tónál.",
+                  "category": "recreational",
+                  "coords": [
+                        9.327372,
+                        47.671173
+                  ]
+            },
+            {
+                  "name": "Liegewiese Campgingplatz Schloss Helmsdorf",
+                  "text": "A Schloss Helmsdorf kemping melletti napozóhely a Bodeni-tó partján található.",
+                  "category": "recreational",
+                  "coords": [
+                        9.375656,
+                        47.665228
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Strandbad Hagnau",
+                  "text": "Plaja Hagnau de pe lacul Constance.",
+                  "category": "recreational",
+                  "coords": [
+                        9.327372,
+                        47.671173
+                  ]
+            },
+            {
+                  "name": "Liegewiese Campgingplatz Schloss Helmsdorf",
+                  "text": "Zona de plajă de la campingul Schloss Helmsdorf este situată pe malul lacului Bodensee.",
+                  "category": "recreational",
+                  "coords": [
+                        9.375656,
+                        47.665228
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Strandbad Hagnau",
+                  "text": "Hagnau bathing beach on Lake Constance.",
+                  "category": "recreational",
+                  "coords": [
+                        9.327372,
+                        47.671173
+                  ]
+            },
+            {
+                  "name": "Liegewiese Campgingplatz Schloss Helmsdorf",
+                  "text": "The lawn area at the Schloss Helmsdorf campsite is located on Lake Bodensee.",
+                  "category": "recreational",
+                  "coords": [
+                        9.375656,
+                        47.665228
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "DE",
     coords: [9.38, 47.65],
@@ -36280,7 +36820,88 @@ export const pois: POI[] = [
       "tr": ["Bodensee'nin toplam kıyı uzunluğu yaklaşık 273 kilometredir.", "Deniz seviyesinden ortalama 395 metre yükseklikte yer alır.", "Göl, yaklaşık 48 kilometreküp su hacmine sahiptir.", "Insel Mainau, botanik bahçeleri ve parklarıyla dünya çapında ünlüdür.", "251 metrelik en büyük derinlik Friedrichshafen ve Utwil arasındadır.", "Konstanz'da 1414 ile 1418 yılları arasında Konzil von Konstanz gerçekleşmiştir."]},
   },
   {
-    id: "lake-chiemsee",
+    id: "lake-chiemsee", "sights": {
+      "de": [
+            {
+                  "name": "Beckerscheim",
+                  "text": "Badestelle am Chiemsee bei Beckerscheim.",
+                  "category": "recreational",
+                  "coords": [
+                        12.476779,
+                        47.859377
+                  ]
+            },
+            {
+                  "name": "Schweinebucht",
+                  "text": "Badestelle am Chiemsee genannt Schweinebucht.",
+                  "category": "recreational",
+                  "coords": [
+                        12.473523,
+                        47.852982
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Beckerscheim",
+                  "text": "Fürdőhely a Chiemsee-nél, Beckerscheim mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        12.476779,
+                        47.859377
+                  ]
+            },
+            {
+                  "name": "Schweinebucht",
+                  "text": "Schweinebucht nevű fürdőhely a Chiemsee-nél.",
+                  "category": "recreational",
+                  "coords": [
+                        12.473523,
+                        47.852982
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Beckerscheim",
+                  "text": "Loc de îmbăiere la lacul Chiemsee lângă Beckerscheim.",
+                  "category": "recreational",
+                  "coords": [
+                        12.476779,
+                        47.859377
+                  ]
+            },
+            {
+                  "name": "Schweinebucht",
+                  "text": "Loc de îmbăiere la lacul Chiemsee numit Schweinebucht.",
+                  "category": "recreational",
+                  "coords": [
+                        12.473523,
+                        47.852982
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Beckerscheim",
+                  "text": "Bathing area at Lake Chiemsee near Beckerscheim.",
+                  "category": "recreational",
+                  "coords": [
+                        12.476779,
+                        47.859377
+                  ]
+            },
+            {
+                  "name": "Schweinebucht",
+                  "text": "Bathing area at Lake Chiemsee called Schweinebucht.",
+                  "category": "recreational",
+                  "coords": [
+                        12.473523,
+                        47.852982
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "DE-BY",
     coords: [12.48, 47.88],
@@ -36314,7 +36935,88 @@ export const pois: POI[] = [
       "tr": ["Chiemsee'nin maksimum su derinliği yaklaşık 73,4 metredir.", "Su hacmi yaklaşık 2,05 kilometreküptür.", "Gölün ana su kaynağı Tiroler Achen nehridir.", "Schloss Herrenchiemsee, Versailles'dakinden daha büyük bir aynalı salona sahiptir.", "Krautinsel tarihsel olarak sebze ve bitki yetiştirmek için kullanılmıştır.", "Göl, deniz seviyesinden 518 metre yükseklikte yer almaktadır."]},
   },
   {
-    id: "lake-starnberger-see",
+    id: "lake-starnberger-see", "sights": {
+      "de": [
+            {
+                  "name": "Kustermannpark",
+                  "text": "Der Kustermannpark liegt direkt am Starnberger See.",
+                  "category": "recreational",
+                  "coords": [
+                        11.275544,
+                        47.901757
+                  ]
+            },
+            {
+                  "name": "Strandbad Feldafing",
+                  "text": "Das Strandbad Feldafing befindet sich am Starnberger See.",
+                  "category": "recreational",
+                  "coords": [
+                        11.306628,
+                        47.94787
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kustermannpark",
+                  "text": "A Kustermannpark közvetlenül a Starnberger See partján fekszik.",
+                  "category": "recreational",
+                  "coords": [
+                        11.275544,
+                        47.901757
+                  ]
+            },
+            {
+                  "name": "Strandbad Feldafing",
+                  "text": "A Strandbad Feldafing a Starnberger See tónál található.",
+                  "category": "recreational",
+                  "coords": [
+                        11.306628,
+                        47.94787
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kustermannpark",
+                  "text": "Kustermannpark este situat direct pe malul lacului Starnberger See.",
+                  "category": "recreational",
+                  "coords": [
+                        11.275544,
+                        47.901757
+                  ]
+            },
+            {
+                  "name": "Strandbad Feldafing",
+                  "text": "Strandbad Feldafing este situată pe lacul Starnberger See.",
+                  "category": "recreational",
+                  "coords": [
+                        11.306628,
+                        47.94787
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kustermannpark",
+                  "text": "Kustermannpark is situated directly on the shore of Lake Starnberger See.",
+                  "category": "recreational",
+                  "coords": [
+                        11.275544,
+                        47.901757
+                  ]
+            },
+            {
+                  "name": "Strandbad Feldafing",
+                  "text": "Strandbad Feldafing is located on Lake Starnberger See.",
+                  "category": "recreational",
+                  "coords": [
+                        11.306628,
+                        47.94787
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "DE-BY",
     coords: [11.33, 47.91],
@@ -36348,7 +37050,160 @@ export const pois: POI[] = [
       "tr": ["Gölün su hacmi yaklaşık 3,0 milyar metreküptür.", "Starnberger See, 20,2 kilometrelik maksimum uzunluğa sahiptir.", "Roseninsel, 200'den fazla türün bulunduğu gül bahçesiyle ünlüdür.", "Göl, büyük derinliği nedeniyle çok nadiren tamamen donar.", "İmparatoriçe Sisi, yazlarını kıyıdaki Schloss Possenhofen'de geçirirdi.", "Kuzey kıyısındaki Starnberg belediyesi, Deutschland'ın en zengin yerleşim yerlerinden biridir."]},
   },
   {
-    id: "lake-ammersee",
+    id: "lake-ammersee", "sights": {
+      "de": [
+            {
+                  "name": "Breitbrunn",
+                  "text": "Breitbrunn liegt am Ufer des Ammersees.",
+                  "category": "recreational",
+                  "coords": [
+                        11.132504,
+                        48.033363
+                  ]
+            },
+            {
+                  "name": "Freizeitgelände mit Badestelle Sankt Alban",
+                  "text": "Das Freizeitgelände Sankt Alban liegt am Ammersee.",
+                  "category": "recreational",
+                  "coords": [
+                        11.107695,
+                        47.962561
+                  ]
+            },
+            {
+                  "name": "Freizeitgelände mit Badestelle Riederau",
+                  "text": "Das Freizeitgelände Riederau liegt am Ufer des Ammersees.",
+                  "category": "recreational",
+                  "coords": [
+                        11.098252,
+                        47.981181
+                  ]
+            },
+            {
+                  "name": "Polizeibad",
+                  "text": "Das Polizeibad liegt am Ammersee.",
+                  "category": "recreational",
+                  "coords": [
+                        11.100522,
+                        48.011429
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Breitbrunn",
+                  "text": "Breitbrunn az Ammersee partján fekszik.",
+                  "category": "recreational",
+                  "coords": [
+                        11.132504,
+                        48.033363
+                  ]
+            },
+            {
+                  "name": "Freizeitgelände mit Badestelle Sankt Alban",
+                  "text": "A Sankt Alban szabadidőközpont az Ammersee tónál található.",
+                  "category": "recreational",
+                  "coords": [
+                        11.107695,
+                        47.962561
+                  ]
+            },
+            {
+                  "name": "Freizeitgelände mit Badestelle Riederau",
+                  "text": "A Riederau szabadidőközpont az Ammersee partján található.",
+                  "category": "recreational",
+                  "coords": [
+                        11.098252,
+                        47.981181
+                  ]
+            },
+            {
+                  "name": "Polizeibad",
+                  "text": "A Polizeibad az Ammersee tónál található.",
+                  "category": "recreational",
+                  "coords": [
+                        11.100522,
+                        48.011429
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Breitbrunn",
+                  "text": "Breitbrunn este situat pe malul lacului Ammersee.",
+                  "category": "recreational",
+                  "coords": [
+                        11.132504,
+                        48.033363
+                  ]
+            },
+            {
+                  "name": "Freizeitgelände mit Badestelle Sankt Alban",
+                  "text": "Zona de agrement Sankt Alban este situată pe lacul Ammersee.",
+                  "category": "recreational",
+                  "coords": [
+                        11.107695,
+                        47.962561
+                  ]
+            },
+            {
+                  "name": "Freizeitgelände mit Badestelle Riederau",
+                  "text": "Zona de agrement Riederau se află pe malul lacului Ammersee.",
+                  "category": "recreational",
+                  "coords": [
+                        11.098252,
+                        47.981181
+                  ]
+            },
+            {
+                  "name": "Polizeibad",
+                  "text": "Polizeibad este situată pe lacul Ammersee.",
+                  "category": "recreational",
+                  "coords": [
+                        11.100522,
+                        48.011429
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Breitbrunn",
+                  "text": "Breitbrunn is located on the shore of Lake Ammersee.",
+                  "category": "recreational",
+                  "coords": [
+                        11.132504,
+                        48.033363
+                  ]
+            },
+            {
+                  "name": "Freizeitgelände mit Badestelle Sankt Alban",
+                  "text": "The Sankt Alban recreational area is located on Lake Ammersee.",
+                  "category": "recreational",
+                  "coords": [
+                        11.107695,
+                        47.962561
+                  ]
+            },
+            {
+                  "name": "Freizeitgelände mit Badestelle Riederau",
+                  "text": "The Riederau leisure area is located on the shore of Lake Ammersee.",
+                  "category": "recreational",
+                  "coords": [
+                        11.098252,
+                        47.981181
+                  ]
+            },
+            {
+                  "name": "Polizeibad",
+                  "text": "Polizeibad is located on Lake Ammersee.",
+                  "category": "recreational",
+                  "coords": [
+                        11.100522,
+                        48.011429
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "DE-BY",
     coords: [11.12, 48],
@@ -36416,7 +37271,88 @@ export const pois: POI[] = [
       "tr": ["Müritz'in maksimum su derinliği yaklaşık 31 metredir.", "Göl, deniz seviyesinden 62 metre yükseklikte yer almaktadır.", "Su hacmi yaklaşık 0,74 kilometreküptür.", "Müritz, yaklaşık 180 km uzunluğundaki Müritz-Elde su yolunun bir parçasıdır.", "Kıyı şeridinin yaklaşık %75'i doğal bırakılmıştır veya doğa koruma altındadır.", "Waren an der Müritz, devlet tarafından tanınan bir şifalı iklim kür merkezidir."]},
   },
   {
-    id: "lake-schweriner-see",
+    id: "lake-schweriner-see", "sights": {
+      "de": [
+            {
+                  "name": "Zippendorfer Strand",
+                  "text": "Der Zippendorfer Strand befindet sich am Schweriner See.",
+                  "category": "recreational",
+                  "coords": [
+                        11.456573,
+                        53.603532
+                  ]
+            },
+            {
+                  "name": "Badestelle Reppiner Burg",
+                  "text": "Die Badestelle an der Reppiner Burg liegt am Schweriner See.",
+                  "category": "recreational",
+                  "coords": [
+                        11.485679,
+                        53.604925
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zippendorfer Strand",
+                  "text": "A Zippendorfer Strand a Schwerini-tónál található.",
+                  "category": "recreational",
+                  "coords": [
+                        11.456573,
+                        53.603532
+                  ]
+            },
+            {
+                  "name": "Badestelle Reppiner Burg",
+                  "text": "A Reppiner Burg-i fürdőhely a Schweriner See-nél található.",
+                  "category": "recreational",
+                  "coords": [
+                        11.485679,
+                        53.604925
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zippendorfer Strand",
+                  "text": "Plaja Zippendorfer este situată pe malul lacului Schweriner See.",
+                  "category": "recreational",
+                  "coords": [
+                        11.456573,
+                        53.603532
+                  ]
+            },
+            {
+                  "name": "Badestelle Reppiner Burg",
+                  "text": "Zona de scăldat de la Reppiner Burg este situată la lacul Schweriner See.",
+                  "category": "recreational",
+                  "coords": [
+                        11.485679,
+                        53.604925
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zippendorfer Strand",
+                  "text": "Zippendorfer beach is situated on the Schweriner See.",
+                  "category": "recreational",
+                  "coords": [
+                        11.456573,
+                        53.603532
+                  ]
+            },
+            {
+                  "name": "Badestelle Reppiner Burg",
+                  "text": "The bathing spot at Reppiner Burg is located at Lake Schweriner See.",
+                  "category": "recreational",
+                  "coords": [
+                        11.485679,
+                        53.604925
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "DE-MV",
     coords: [11.43, 53.62],
@@ -36518,7 +37454,124 @@ export const pois: POI[] = [
       "tr": ["Rügen'in toplam yüzölçümü yaklaşık 926 kilometrekaredir.", "Tebeşir kıyısındaki Königsstuhl yaklaşık 118 metre yüksekliktedir.", "Sellin'deki Seebrücke, 394 metre ile Deutschland'ın en uzunlarından biridir.", "Rügen'in toplamda yaklaşık 574 kilometre kıyı şeridi vardır.", "'Rasende Roland', adadaki tarihi bir dar hatlı demir yoludur.", "Prora başlangıçta aynı anda 20.000 tatilci için planlanmıştı."]},
   },
   {
-    id: "island-helgoland",
+    id: "island-helgoland", "sights": {
+      "de": [
+            {
+                  "name": "Südstrand",
+                  "text": "Der Südstrand liegt auf der Nordseeinsel Helgoland.",
+                  "category": "recreational",
+                  "coords": [
+                        7.88971,
+                        54.180037
+                  ]
+            },
+            {
+                  "name": "Kringelstrand",
+                  "text": "Der Kringelstrand befindet sich auf der Insel Helgoland.",
+                  "category": "recreational",
+                  "coords": [
+                        7.886833,
+                        54.177336
+                  ]
+            },
+            {
+                  "name": "Nordstrand",
+                  "text": "Nordstrand auf der Insel Helgoland.",
+                  "category": "recreational",
+                  "coords": [
+                        7.910921,
+                        54.187759
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Südstrand",
+                  "text": "A Südstrand az északi-tengeri Helgoland szigeten található.",
+                  "category": "recreational",
+                  "coords": [
+                        7.88971,
+                        54.180037
+                  ]
+            },
+            {
+                  "name": "Kringelstrand",
+                  "text": "A Kringelstrand strand Helgoland szigetén található.",
+                  "category": "recreational",
+                  "coords": [
+                        7.886833,
+                        54.177336
+                  ]
+            },
+            {
+                  "name": "Nordstrand",
+                  "text": "Nordstrand a Helgoland-szigeten.",
+                  "category": "recreational",
+                  "coords": [
+                        7.910921,
+                        54.187759
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Südstrand",
+                  "text": "Plaja Südstrand este situată pe insula Helgoland din Marea Nordului.",
+                  "category": "recreational",
+                  "coords": [
+                        7.88971,
+                        54.180037
+                  ]
+            },
+            {
+                  "name": "Kringelstrand",
+                  "text": "Plaja Kringel este situată pe insula Helgoland.",
+                  "category": "recreational",
+                  "coords": [
+                        7.886833,
+                        54.177336
+                  ]
+            },
+            {
+                  "name": "Nordstrand",
+                  "text": "Plaja Nordstrand pe insula Heligoland.",
+                  "category": "recreational",
+                  "coords": [
+                        7.910921,
+                        54.187759
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Südstrand",
+                  "text": "Südstrand is located on the North Sea island of Helgoland.",
+                  "category": "recreational",
+                  "coords": [
+                        7.88971,
+                        54.180037
+                  ]
+            },
+            {
+                  "name": "Kringelstrand",
+                  "text": "Kringelstrand is located on the island of Helgoland.",
+                  "category": "recreational",
+                  "coords": [
+                        7.886833,
+                        54.177336
+                  ]
+            },
+            {
+                  "name": "Nordstrand",
+                  "text": "Nordstrand beach on the island of Heligoland.",
+                  "category": "recreational",
+                  "coords": [
+                        7.910921,
+                        54.187759
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "DE-SH",
     coords: [7.89, 54.18],
@@ -36948,7 +38001,52 @@ export const pois: POI[] = [
       "tr": ["Kapı 26 metre yüksekliğinde, 65,5 metre genişliğinde ve 11 metre derinliğindedir.", "Quadriga heykeli Johann Gottfried Schadow tarafından yapılmıştır.", "Başlangıçta geçiş sadece Prusya soyluları için ayrılmıştı.", "Yapı Elbe kumtaşından yapılmıştır ve on iki Dor sütununa sahiptir.", "İkinci Dünya Savaşı'nda tamamen yıkılmaktan kıl payı kurtulmuştur.", "1989'dan sonra kapı yaklaşık 4 milyon Euro karşılığında kapsamlı bir şekilde restore edilmiştir."]},
   },
   {
-    id: "landmark-neuschwanstein",
+    id: "landmark-neuschwanstein", "sights": {
+      "de": [
+            {
+                  "name": "Alpseebad",
+                  "text": "Das Alpseebad befindet sich beim Schloss Neuschwanstein.",
+                  "category": "recreational",
+                  "coords": [
+                        10.724281,
+                        47.54656
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Alpseebad",
+                  "text": "Az Alpseebad a Neuschwanstein kastély közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        10.724281,
+                        47.54656
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Alpseebad",
+                  "text": "Alpseebad este situată lângă castelul Neuschwanstein.",
+                  "category": "recreational",
+                  "coords": [
+                        10.724281,
+                        47.54656
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Alpseebad",
+                  "text": "Alpseebad is located near Neuschwanstein Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        10.724281,
+                        47.54656
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "DE-BY",
     coords: [10.7498, 47.5576],
@@ -37054,7 +38152,124 @@ export const pois: POI[] = [
       "tr": ["Kilisenin inşası 1468'den 1488'e kadar sürmüştür.", "İki kule 98,45 ve 98,57 metre yüksekliğindedir.", "Katedral yaklaşık 20.000 ayakta duran kişi için yer sunar.", "Karakteristik kule kubbeleri ancak inşaat bittikten 37 yıl sonra takılmıştır.", "Kilise nefsinin uzunluğu 109 metre, genişliği 40 metredir.", "München'deki Mittlerer Ring içinde hiçbir binanın Frauenkirche'den daha yüksek yapılmasına izin verilmez."]},
   },
   {
-    id: "landmark-speyer-cathedral",
+    id: "landmark-speyer-cathedral", "sights": {
+      "de": [
+            {
+                  "name": "♂♂ Binsfeld-Kap (FKK)",
+                  "text": "FKK-Strand Binsfeld-Kap nahe dem Speyerer Dom.",
+                  "category": "recreational",
+                  "coords": [
+                        8.460319,
+                        49.354436
+                  ]
+            },
+            {
+                  "name": "♂♂ Binsfeld (FKK)",
+                  "text": "FKK-Strand Binsfeld nahe dem Speyerer Dom.",
+                  "category": "recreational",
+                  "coords": [
+                        8.460654,
+                        49.356283
+                  ]
+            },
+            {
+                  "name": "♂♀ Binsfeld III (FKK)",
+                  "text": "FKK-Strand Binsfeld III nahe dem Speyerer Dom.",
+                  "category": "recreational",
+                  "coords": [
+                        8.462212,
+                        49.360157
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "♂♂ Binsfeld-Kap (FKK)",
+                  "text": "Binsfeld-Kap nudista strand a speyeri katedrális közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        8.460319,
+                        49.354436
+                  ]
+            },
+            {
+                  "name": "♂♂ Binsfeld (FKK)",
+                  "text": "Binsfeld nudista strand a speyeri katedrális közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        8.460654,
+                        49.356283
+                  ]
+            },
+            {
+                  "name": "♂♀ Binsfeld III (FKK)",
+                  "text": "Binsfeld III nudista strand a speyeri katedrális közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        8.462212,
+                        49.360157
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "♂♂ Binsfeld-Kap (FKK)",
+                  "text": "Plajă de nudiști Binsfeld-Kap lângă Catedrala din Speyer.",
+                  "category": "recreational",
+                  "coords": [
+                        8.460319,
+                        49.354436
+                  ]
+            },
+            {
+                  "name": "♂♂ Binsfeld (FKK)",
+                  "text": "Plajă de nudiști Binsfeld lângă Catedrala din Speyer.",
+                  "category": "recreational",
+                  "coords": [
+                        8.460654,
+                        49.356283
+                  ]
+            },
+            {
+                  "name": "♂♀ Binsfeld III (FKK)",
+                  "text": "Plajă de nudiști Binsfeld III lângă Catedrala din Speyer.",
+                  "category": "recreational",
+                  "coords": [
+                        8.462212,
+                        49.360157
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "♂♂ Binsfeld-Kap (FKK)",
+                  "text": "Binsfeld-Kap nudist beach near the Speyer Cathedral.",
+                  "category": "recreational",
+                  "coords": [
+                        8.460319,
+                        49.354436
+                  ]
+            },
+            {
+                  "name": "♂♂ Binsfeld (FKK)",
+                  "text": "Binsfeld nudist beach near the Speyer Cathedral.",
+                  "category": "recreational",
+                  "coords": [
+                        8.460654,
+                        49.356283
+                  ]
+            },
+            {
+                  "name": "♂♀ Binsfeld III (FKK)",
+                  "text": "Binsfeld III nudist beach near the Speyer Cathedral.",
+                  "category": "recreational",
+                  "coords": [
+                        8.462212,
+                        49.360157
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "DE-RP",
     coords: [8.442, 49.3172],
@@ -37513,7 +38728,52 @@ export const pois: POI[] = [
       "tr": ["Kongresshalle 50.000 kişi için tasarlanmış ancak tamamlanmamıştır.", "Zeppelinfeld 200.000 katılımcıya kadar yer sunmaktaydı.", "Albert Speer, 152 uçaksavar projektörüyle 'Lichtdom'u tasarlamıştır.", "Dokümantasyon merkezi 2001 yılında açılmıştır.", "Alan 1973 yılından beri koruma altındadır.", "Arazinin bir bölümü bugün yarış pisti (Norisring) olarak kullanılmaktadır."]},
   },
   {
-    id: "hist-berliner-mauer",
+    id: "hist-berliner-mauer", "sights": {
+      "de": [
+            {
+                  "name": "Paia Beach",
+                  "text": "Strandbereich nahe der historischen Berliner Mauer.",
+                  "category": "recreational",
+                  "coords": [
+                        13.383256,
+                        52.534546
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Paia Beach",
+                  "text": "Strandterület a történelmi berlini fal közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        13.383256,
+                        52.534546
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Paia Beach",
+                  "text": "Zonă de plajă lângă istoricul Zid al Berlinului.",
+                  "category": "recreational",
+                  "coords": [
+                        13.383256,
+                        52.534546
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Paia Beach",
+                  "text": "Beach area near the historic Berlin Wall.",
+                  "category": "recreational",
+                  "coords": [
+                        13.383256,
+                        52.534546
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "DE-BE",
     coords: [13.3903, 52.5351],
@@ -37842,7 +39102,88 @@ export const pois: POI[] = [
       "tr": ["1802 yılında Reichsfreiheit statüsünün kaybedilmesi", "Meistertrunk efsanesi 1631 yılına dayanmaktadır", "Şehir surları yaklaşık 4 kilometre uzunluğundadır ve üzerinde yürünebilir", "Kriminalmuseum, 1000 yılı aşkın hukuk tarihini göstermektedir", "Mart 1945'te bir US hava saldırısı sonucu kısmi yıkım", "Jakobskirche'deki Riemenschneider sunağı 1500 civarında yapılmıştır"]},
   },
   {
-    id: "hist-peenemuende",
+    id: "hist-peenemuende", "sights": {
+      "de": [
+            {
+                  "name": "Sandstrand Freest",
+                  "text": "Der Sandstrand Freest liegt in der Nähe von Peenemünde.",
+                  "category": "recreational",
+                  "coords": [
+                        13.729557,
+                        54.138874
+                  ]
+            },
+            {
+                  "name": "Nordstrand",
+                  "text": "Der Nordstrand befindet sich in Peenemünde auf Usedom.",
+                  "category": "recreational",
+                  "coords": [
+                        13.755076,
+                        54.143498
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sandstrand Freest",
+                  "text": "A Sandstrand Freest Peenemünde közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        13.729557,
+                        54.138874
+                  ]
+            },
+            {
+                  "name": "Nordstrand",
+                  "text": "A Nordstrand a Usedom szigetén fekvő Peenemündében található.",
+                  "category": "recreational",
+                  "coords": [
+                        13.755076,
+                        54.143498
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sandstrand Freest",
+                  "text": "Plaja Sandstrand Freest este situată în apropiere de Peenemünde.",
+                  "category": "recreational",
+                  "coords": [
+                        13.729557,
+                        54.138874
+                  ]
+            },
+            {
+                  "name": "Nordstrand",
+                  "text": "Nordstrand este situat în Peenemünde, pe insula Usedom.",
+                  "category": "recreational",
+                  "coords": [
+                        13.755076,
+                        54.143498
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sandstrand Freest",
+                  "text": "Sandstrand Freest is located near Peenemünde.",
+                  "category": "recreational",
+                  "coords": [
+                        13.729557,
+                        54.138874
+                  ]
+            },
+            {
+                  "name": "Nordstrand",
+                  "text": "Nordstrand is located in Peenemünde on Usedom.",
+                  "category": "recreational",
+                  "coords": [
+                        13.755076,
+                        54.143498
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "DE-MV",
     coords: [13.7727, 54.1419],
@@ -38021,7 +39362,88 @@ export const pois: POI[] = [
       "tr": ["Toplama kampının 1937'den 1945'e kadar süren varlığı", "11 Nisan 1945'te 3. US Ordusu tarafından kurtarılması", "Tahmini ölü sayısı 56.000'e ulaşmaktadır", "1945'ten 1950'ye kadar Sovyet özel kampı olarak kullanılması", "1958 yılında Ettersberg'deki anıtın açılışı", "50'den fazla farklı ulustan mahkumun tutsak edilmesi"]},
   },
   {
-    id: "hist-dachau",
+    id: "hist-dachau", "sights": {
+      "de": [
+            {
+                  "name": "Badeplatz Neuhimmelreich",
+                  "text": "Badeplatz Neuhimmelreich bei Dachau.",
+                  "category": "recreational",
+                  "coords": [
+                        11.399107,
+                        48.239722
+                  ]
+            },
+            {
+                  "name": "Erholungsgebiet Karlsfelder See",
+                  "text": "Das Erholungsgebiet Karlsfelder See ist ein beliebtes Ziel bei Dachau.",
+                  "category": "recreational",
+                  "coords": [
+                        11.469702,
+                        48.234807
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Badeplatz Neuhimmelreich",
+                  "text": "Fürdőhely Neuhimmelreichben, Dachau közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        11.399107,
+                        48.239722
+                  ]
+            },
+            {
+                  "name": "Erholungsgebiet Karlsfelder See",
+                  "text": "A Karlsfelder See pihenőövezet népszerű célpont Dachau közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        11.469702,
+                        48.234807
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Badeplatz Neuhimmelreich",
+                  "text": "Zonă de îmbăiere Neuhimmelreich lângă Dachau.",
+                  "category": "recreational",
+                  "coords": [
+                        11.399107,
+                        48.239722
+                  ]
+            },
+            {
+                  "name": "Erholungsgebiet Karlsfelder See",
+                  "text": "Zona de recreere Karlsfelder See este o destinație populară lângă Dachau.",
+                  "category": "recreational",
+                  "coords": [
+                        11.469702,
+                        48.234807
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Badeplatz Neuhimmelreich",
+                  "text": "Swimming area at Neuhimmelreich near Dachau.",
+                  "category": "recreational",
+                  "coords": [
+                        11.399107,
+                        48.239722
+                  ]
+            },
+            {
+                  "name": "Erholungsgebiet Karlsfelder See",
+                  "text": "The Karlsfelder See recreation area is a popular destination near Dachau.",
+                  "category": "recreational",
+                  "coords": [
+                        11.469702,
+                        48.234807
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "DE-BY",
     coords: [11.4342, 48.2642],
@@ -38532,7 +39954,88 @@ export const pois: POI[] = [
 
   // ── WW2 ──────────────────────────────────────────────────────────────────
   {
-    id: "hist-wannsee",
+    id: "hist-wannsee", "sights": {
+      "de": [
+            {
+                  "name": "Strandbad Wannsee",
+                  "text": "Das Strandbad Wannsee liegt bei Wannsee.",
+                  "category": "recreational",
+                  "coords": [
+                        13.177539,
+                        52.437259
+                  ]
+            },
+            {
+                  "name": "Große Steinlanke",
+                  "text": "Badestelle Große Steinlanke am Wannsee, Berlin.",
+                  "category": "recreational",
+                  "coords": [
+                        13.188611,
+                        52.455686
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Strandbad Wannsee",
+                  "text": "A Strandbad Wannsee strand Wannsee közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        13.177539,
+                        52.437259
+                  ]
+            },
+            {
+                  "name": "Große Steinlanke",
+                  "text": "Große Steinlanke fürdőhely a Wannsee tónál, Berlin.",
+                  "category": "recreational",
+                  "coords": [
+                        13.188611,
+                        52.455686
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Strandbad Wannsee",
+                  "text": "Strandul Wannsee este situat în apropiere de Wannsee.",
+                  "category": "recreational",
+                  "coords": [
+                        13.177539,
+                        52.437259
+                  ]
+            },
+            {
+                  "name": "Große Steinlanke",
+                  "text": "Zonă de scăldat Große Steinlanke la lacul Wannsee, Berlin.",
+                  "category": "recreational",
+                  "coords": [
+                        13.188611,
+                        52.455686
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Strandbad Wannsee",
+                  "text": "Strandbad Wannsee is located near Wannsee.",
+                  "category": "recreational",
+                  "coords": [
+                        13.177539,
+                        52.437259
+                  ]
+            },
+            {
+                  "name": "Große Steinlanke",
+                  "text": "Große Steinlanke swimming area at Wannsee lake, Berlin.",
+                  "category": "recreational",
+                  "coords": [
+                        13.188611,
+                        52.455686
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "DE-BE",
     coords: [13.1654, 52.4331],
@@ -38604,7 +40107,52 @@ export const pois: POI[] = [
       "tr": ["24 sanığa karşı açılan ana dava 20 Kasım 1945'te başladı.", "Schwurgerichtssaal 600 dava için özel olarak yeniden düzenlendi.", "Robert H. Jackson, Amerika Birleşik Devletleri'nin başsavcısıydı.", "Sanıklardan on ikisi asılarak idam cezasına çarptırıldı.", "Justizpalast 1909 ile 1916 yılları arasında inşa edildi.", "2010 yılından beri Memorium Nürnberger Prozesse halka açıktır."]},
   },
   {
-    id: "hist-sachsenhausen",
+    id: "hist-sachsenhausen", "sights": {
+      "de": [
+            {
+                  "name": "Weißer Strand Lehnitz",
+                  "text": "Weißer Strand Lehnitz bei Oranienburg.",
+                  "category": "recreational",
+                  "coords": [
+                        13.275005,
+                        52.75729
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Weißer Strand Lehnitz",
+                  "text": "Weißer Strand Lehnitz fürdőhely Oranienburg közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        13.275005,
+                        52.75729
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Weißer Strand Lehnitz",
+                  "text": "Weißer Strand Lehnitz lângă Oranienburg.",
+                  "category": "recreational",
+                  "coords": [
+                        13.275005,
+                        52.75729
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Weißer Strand Lehnitz",
+                  "text": "Weißer Strand Lehnitz near Oranienburg.",
+                  "category": "recreational",
+                  "coords": [
+                        13.275005,
+                        52.75729
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "DE-BB",
     coords: [13.2589, 52.7673],
@@ -39035,7 +40583,52 @@ export const pois: POI[] = [
 
   // ── LIFE & NATUR: Tierlebensräume ──────────────────────────────────────────
   {
-    id: "animal-wattenmeer-seehunde",
+    id: "animal-wattenmeer-seehunde", "sights": {
+      "de": [
+            {
+                  "name": "Südwesthörn",
+                  "text": "Badestelle Südwesthörn am Nationalpark Wattenmeer.",
+                  "category": "recreational",
+                  "coords": [
+                        8.660562,
+                        54.795744
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Südwesthörn",
+                  "text": "Südwesthörn fürdőhely a Wattenmeer Nemzeti Parknál.",
+                  "category": "recreational",
+                  "coords": [
+                        8.660562,
+                        54.795744
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Südwesthörn",
+                  "text": "Zona de scăldat Südwesthörn lângă Parcul Național Wattenmeer.",
+                  "category": "recreational",
+                  "coords": [
+                        8.660562,
+                        54.795744
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Südwesthörn",
+                  "text": "Südwesthörn bathing area by the Wadden Sea National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        8.660562,
+                        54.795744
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "DE-SH",
     coords: [8.6, 54.8],
@@ -39755,7 +41348,88 @@ export const pois: POI[] = [
       "tr": ["BMW Group dünya genel merkezi (Dört Silindirli bina) buradadır.", "Siemens 1847'de kurulmuştur ve ana merkezi buradadır.", "München, Almanya'nın en iyi iki üniversitesine (LMU, TUM) ev sahipliği yapar.", "Deutsches Museum dünyanın en büyük teknoloji müzesidir.", "München'de 100.000'den fazla kişi bilişim sektöründe çalışmaktadır.", "Bölge, Almanya'daki en düşük işsizlik oranlarından birine sahiptir."]},
   },
   {
-    id: "industry-ingolstadt",
+    id: "industry-ingolstadt", "sights": {
+      "de": [
+            {
+                  "name": "Wasserspielplatz \"Donauwurm\"",
+                  "text": "Wasserspielplatz Donauwurm in Ingolstadt.",
+                  "category": "recreational",
+                  "coords": [
+                        11.400205,
+                        48.750797
+                  ]
+            },
+            {
+                  "name": "Blaue Lagune",
+                  "text": "Blaue Lagune in der Industrieregion Ingolstadt.",
+                  "category": "recreational",
+                  "coords": [
+                        11.468291,
+                        48.752468
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wasserspielplatz \"Donauwurm\"",
+                  "text": "Donauwurm vízi játszótér Ingolstadtban.",
+                  "category": "recreational",
+                  "coords": [
+                        11.400205,
+                        48.750797
+                  ]
+            },
+            {
+                  "name": "Blaue Lagune",
+                  "text": "Blaue Lagune az ingolstadti ipari régióban.",
+                  "category": "recreational",
+                  "coords": [
+                        11.468291,
+                        48.752468
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wasserspielplatz \"Donauwurm\"",
+                  "text": "Loc de joacă acvatic Donauwurm în Ingolstadt.",
+                  "category": "recreational",
+                  "coords": [
+                        11.400205,
+                        48.750797
+                  ]
+            },
+            {
+                  "name": "Blaue Lagune",
+                  "text": "Blaue Lagune în regiunea industrială Ingolstadt.",
+                  "category": "recreational",
+                  "coords": [
+                        11.468291,
+                        48.752468
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wasserspielplatz \"Donauwurm\"",
+                  "text": "Donauwurm water playground in Ingolstadt.",
+                  "category": "recreational",
+                  "coords": [
+                        11.400205,
+                        48.750797
+                  ]
+            },
+            {
+                  "name": "Blaue Lagune",
+                  "text": "Blaue Lagune in the industrial region of Ingolstadt.",
+                  "category": "recreational",
+                  "coords": [
+                        11.468291,
+                        48.752468
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "DE-BY",
     coords: [11.4234, 48.7665],
@@ -39899,7 +41573,52 @@ export const pois: POI[] = [
       "tr": ["Resmi kuruluş tarihi 7 Mayıs 1189'dur.", "Toplam alanı yaklaşık 7.200 hektarı kapsamaktadır.", "Avrupa kıtasındaki üçüncü büyük konteyner limanıdır.", "Yıllık yaklaşık 9 milyon TEU konteyner elleçlemesi yapılmaktadır.", "Deniz gemileri için 300'den fazla yanaşma yeri mevcuttur.", "Hafengeburtstag, dünyanın en büyük liman festivalidir."]},
   },
   {
-    id: "port-bremerhaven",
+    id: "port-bremerhaven", "sights": {
+      "de": [
+            {
+                  "name": "Weser-Strandbad",
+                  "text": "Das Weser-Strandbad befindet sich in Bremerhaven.",
+                  "category": "recreational",
+                  "coords": [
+                        8.577096,
+                        53.537647
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Weser-Strandbad",
+                  "text": "A Weser-Strandbad strand Bremerhavenben található.",
+                  "category": "recreational",
+                  "coords": [
+                        8.577096,
+                        53.537647
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Weser-Strandbad",
+                  "text": "Strandul Weser este situat în Bremerhaven.",
+                  "category": "recreational",
+                  "coords": [
+                        8.577096,
+                        53.537647
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Weser-Strandbad",
+                  "text": "Weser beach is located in Bremerhaven.",
+                  "category": "recreational",
+                  "coords": [
+                        8.577096,
+                        53.537647
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "DE-HB",
     coords: [8.5792, 53.5396],
@@ -40007,7 +41726,52 @@ export const pois: POI[] = [
       "tr": ["Rostock Limanı, 14,5 metreye kadar su derinliği ile büyük gemiler için uygundur.", "Überseehafen, 1960 yılında Doğu Almanya'nın (DDR) en önemli ithalat ve ihracat limanı olarak açılmıştır.", "Rostock, yolcu sayısına göre Almanya'nın ikinci büyük feribot limanıdır.", "Warnemünde'deki terminal her yıl yaklaşık 200 kruvaziyer gemisini ağırlamaktadır.", "Rostock Limanı'nda yılda ortalama 28 milyon tondan fazla mal elleçlenmektedir.", "Rostock-Gedser feribot bağlantısı 1903 yılından beri mevcuttur."]},
   },
   {
-    id: "port-wilhelmshaven",
+    id: "port-wilhelmshaven", "sights": {
+      "de": [
+            {
+                  "name": "Strandbad Klein Wangerooge",
+                  "text": "Das Strandbad Klein Wangerooge liegt bei Wilhelmshaven.",
+                  "category": "recreational",
+                  "coords": [
+                        8.09921,
+                        53.505167
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Strandbad Klein Wangerooge",
+                  "text": "A Klein Wangerooge strand Wilhelmshaven mellett található.",
+                  "category": "recreational",
+                  "coords": [
+                        8.09921,
+                        53.505167
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Strandbad Klein Wangerooge",
+                  "text": "Plaja Klein Wangerooge se află lângă Wilhelmshaven.",
+                  "category": "recreational",
+                  "coords": [
+                        8.09921,
+                        53.505167
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Strandbad Klein Wangerooge",
+                  "text": "Strandbad Klein Wangerooge is located near Wilhelmshaven.",
+                  "category": "recreational",
+                  "coords": [
+                        8.09921,
+                        53.505167
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "DE-NI",
     coords: [8.1149, 53.5253],
@@ -40041,7 +41805,88 @@ export const pois: POI[] = [
       "tr": ["JadeWeserPort, Almanya'da 16 metreden fazla su çekimine sahip gemileri kabul edebilen tek limandır.", "Wilhelmshaven, 17 Haziran 1869'da resmi olarak Kral Wilhelm I. tarafından isimlendirilmiştir.", "Liman, ham petrol boru hatları için Almanya'nın en önemli karaya çıkış noktasıdır.", "JadeWeserPort'un rıhtımı 1.725 metre uzunluğundadır.", "Wilhelmshaven, tarihi Südstrand'da bulunan Deutsches Marinemuseum'a ev sahipliği yapmaktadır.", "Almanya'nın ilk yüzen LNG terminali Aralık 2022'de burada açılmıştır."]},
   },
   {
-    id: "port-kiel",
+    id: "port-kiel", "sights": {
+      "de": [
+            {
+                  "name": "Mönkeberger Strand",
+                  "text": "Der Mönkeberger Strand befindet sich in der Nähe des Kieler Hafens.",
+                  "category": "recreational",
+                  "coords": [
+                        10.177614,
+                        54.351687
+                  ]
+            },
+            {
+                  "name": "Kitzeberger Strand",
+                  "text": "Der Kitzeberger Strand liegt nahe dem Kieler Hafen.",
+                  "category": "recreational",
+                  "coords": [
+                        10.179401,
+                        54.358591
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mönkeberger Strand",
+                  "text": "A Mönkeberger Strand a kieli kikötő közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        10.177614,
+                        54.351687
+                  ]
+            },
+            {
+                  "name": "Kitzeberger Strand",
+                  "text": "A Kitzeberger Strand a kieli kikötő közelében helyezkedik el.",
+                  "category": "recreational",
+                  "coords": [
+                        10.179401,
+                        54.358591
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mönkeberger Strand",
+                  "text": "Plaja Mönkeberger se află în apropierea portului Kiel.",
+                  "category": "recreational",
+                  "coords": [
+                        10.177614,
+                        54.351687
+                  ]
+            },
+            {
+                  "name": "Kitzeberger Strand",
+                  "text": "Plaja Kitzeberger este situată aproape de portul Kiel.",
+                  "category": "recreational",
+                  "coords": [
+                        10.179401,
+                        54.358591
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mönkeberger Strand",
+                  "text": "Mönkeberger beach is situated near the port of Kiel.",
+                  "category": "recreational",
+                  "coords": [
+                        10.177614,
+                        54.351687
+                  ]
+            },
+            {
+                  "name": "Kitzeberger Strand",
+                  "text": "Kitzeberger beach is located near the port of Kiel.",
+                  "category": "recreational",
+                  "coords": [
+                        10.179401,
+                        54.358591
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "DE-SH",
     coords: [10.1351, 54.3233],
@@ -40213,7 +42058,52 @@ export const pois: POI[] = [
       "tr": ["Alpenvorland yaklaşık 45.000 kilometrekarelik bir alanı kapsamaktadır.", "Güneybatıdaki Bodensee, bölgenin ve Almanya'nın en büyük gölüdür.", "Moren manzarası esas olarak yaklaşık 20.000 yıl önceki Würm buzul çağında oluşmuştur.", "Bölge, dünyanın en büyük kesintisiz şerbetçiotu yetiştirme alanlarından biridir (Hallertau).", "Almanya'nın en yüksek büyük şehri olan Münih, Alpenvorland'da 519 metre yükseklikte yer alır.", "Iller, Lech, Isar ve Inn gibi çok sayıda nehir bölgeyi güneyden kuzeye doğru geçer."]},
   },
   {
-    id: "relief-deutsche-alpen",
+    id: "relief-deutsche-alpen", "sights": {
+      "de": [
+            {
+                  "name": "Strandbad am Rießersee",
+                  "text": "Das Strandbad am Rießersee liegt in einer malerischen Bergkulisse bei Garmisch-Partenkirchen.",
+                  "category": "recreational",
+                  "coords": [
+                        11.081534,
+                        47.478351
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Strandbad am Rießersee",
+                  "text": "A Rießersee melletti strandfürdő festői hegyi környezetben található Garmisch-Partenkirchen közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        11.081534,
+                        47.478351
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Strandbad am Rießersee",
+                  "text": "Plaja de la Rießersee este situată într-un decor montan pitoresc, lângă Garmisch-Partenkirchen.",
+                  "category": "recreational",
+                  "coords": [
+                        11.081534,
+                        47.478351
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Strandbad am Rießersee",
+                  "text": "The lido at Rießersee is set against a picturesque mountain backdrop near Garmisch-Partenkirchen.",
+                  "category": "recreational",
+                  "coords": [
+                        11.081534,
+                        47.478351
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "DE-BY",
     coords: [11.0681, 47.4712],
@@ -40421,7 +42311,88 @@ export const pois: POI[] = [
     image: "/poi-images/hist-bremer-roland.webp",
   },
   {
-    id: "hist-schnoorviertel",
+    id: "hist-schnoorviertel", "sights": {
+      "de": [
+            {
+                  "name": "Weserstrand",
+                  "text": "Weserstrand am Schnoorviertel in Bremen.",
+                  "category": "recreational",
+                  "coords": [
+                        8.823641,
+                        53.067124
+                  ]
+            },
+            {
+                  "name": "Werderseestrand",
+                  "text": "Der Werderseestrand liegt nahe dem historischen Schnoorviertel in Bremen.",
+                  "category": "recreational",
+                  "coords": [
+                        8.823366,
+                        53.059445
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Weserstrand",
+                  "text": "Weser-parti strand a bremeni Schnoornegyednél.",
+                  "category": "recreational",
+                  "coords": [
+                        8.823641,
+                        53.067124
+                  ]
+            },
+            {
+                  "name": "Werderseestrand",
+                  "text": "A Werderseestrand a brémai történelmi Schnoor-negyed közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        8.823366,
+                        53.059445
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Weserstrand",
+                  "text": "Plaja de pe Weser la cartierul Schnoor din Bremen.",
+                  "category": "recreational",
+                  "coords": [
+                        8.823641,
+                        53.067124
+                  ]
+            },
+            {
+                  "name": "Werderseestrand",
+                  "text": "Plaja Werderseestrand este situată aproape de cartierul istoric Schnoor din Bremen.",
+                  "category": "recreational",
+                  "coords": [
+                        8.823366,
+                        53.059445
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Weserstrand",
+                  "text": "Weser beach at the Schnoor quarter in Bremen.",
+                  "category": "recreational",
+                  "coords": [
+                        8.823641,
+                        53.067124
+                  ]
+            },
+            {
+                  "name": "Werderseestrand",
+                  "text": "Werderseestrand is located near the historic Schnoor quarter in Bremen.",
+                  "category": "recreational",
+                  "coords": [
+                        8.823366,
+                        53.059445
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "DE-HB",
     coords: [8.8105, 53.0737],
@@ -40672,7 +42643,52 @@ export const pois: POI[] = [
       "tr": ["Gerhard Marcks'ın bronz heykeli 30 Eylül 1953'te açıldı.", "Masal ilk kez 1819 yılında Grimm masallarının ikinci baskısında yayınlandı.", "Eşek, 2 metre yüksekliğindeki heykelin tabanını oluşturur.", "Eşeğin sadece bir bacağını tutan kişi, \"başka bir eşeğe elini uzatan bir eşek\" sayılır.", "Stadtmusikanten 60'tan fazla dile çevrilmiştir.", "Riga ve Kawasaki dahil olmak üzere dünya çapında heykelin çok sayıda kopyası vardır."]},
   },
   {
-    id: "river-weser-hafen-hb",
+    id: "river-weser-hafen-hb", "sights": {
+      "de": [
+            {
+                  "name": "Freizeitklinik",
+                  "text": "Die Freizeitklinik verfügt über eine Bademöglichkeit an der Weser in Bremen.",
+                  "category": "recreational",
+                  "coords": [
+                        8.773048,
+                        53.086134
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Freizeitklinik",
+                  "text": "A Freizeitklinik fürdőzési lehetőséggel rendelkezik a brémai Weser folyó partján.",
+                  "category": "recreational",
+                  "coords": [
+                        8.773048,
+                        53.086134
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Freizeitklinik",
+                  "text": "Freizeitklinik dispune de o zonă de scăldat pe râul Weser în Bremen.",
+                  "category": "recreational",
+                  "coords": [
+                        8.773048,
+                        53.086134
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Freizeitklinik",
+                  "text": "The leisure clinic features a bathing area on the Weser river in Bremen.",
+                  "category": "recreational",
+                  "coords": [
+                        8.773048,
+                        53.086134
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "DE-HB",
     coords: [8.8019, 53.0811],
@@ -40742,7 +42758,52 @@ export const pois: POI[] = [
     image: "/poi-images/landmark-saarschleife.webp",
   },
   {
-    id: "hist-ludwigskirche-saarbruecken",
+    id: "hist-ludwigskirche-saarbruecken", "sights": {
+      "de": [
+            {
+                  "name": "One Beach",
+                  "text": "Der \"One Beach\" befindet sich in Saarbrücken.",
+                  "category": "recreational",
+                  "coords": [
+                        7.002119,
+                        49.228043
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "One Beach",
+                  "text": "A \"One Beach\" Saarbrückenben található.",
+                  "category": "recreational",
+                  "coords": [
+                        7.002119,
+                        49.228043
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "One Beach",
+                  "text": "\"One Beach\" este situată în Saarbrücken.",
+                  "category": "recreational",
+                  "coords": [
+                        7.002119,
+                        49.228043
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "One Beach",
+                  "text": "The \"One Beach\" is located in Saarbrücken.",
+                  "category": "recreational",
+                  "coords": [
+                        7.002119,
+                        49.228043
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "DE-SL",
     coords: [6.9956, 49.2285],
@@ -42176,7 +44237,124 @@ export const pois: POI[] = [
       "tr": ["Film stüdyosunun 1912 yılında Deutsche Bioscop tarafından kuruluşu", "Metropolis (1927) filmi tamamen Babelsberg'de çekildi", "Medienstadt arazisinin toplam alanı yaklaşık 460.000 metrekaredir", "1946'dan 1992'ye kadar Doğu Alman film üretiminin (DEFA) merkezi", "Spectaculum akrobasi gösterisi, özel olarak inşa edilmiş bir volkan içinde gerçekleşir", "1953 yapımı Kleiner Muck filmindeki köy gibi orijinal film setleri"]},
   },
   {
-    id: "nature-schwielowsee",
+    id: "nature-schwielowsee", "sights": {
+      "de": [
+            {
+                  "name": "Summer Lounge",
+                  "text": "Die Summer Lounge befindet sich am Schwielowsee.",
+                  "category": "recreational",
+                  "coords": [
+                        12.980538,
+                        52.345252
+                  ]
+            },
+            {
+                  "name": "Strandbad Ferch",
+                  "text": "Das Strandbad Ferch liegt am Schwielowsee.",
+                  "category": "recreational",
+                  "coords": [
+                        12.941076,
+                        52.313984
+                  ]
+            },
+            {
+                  "name": "Entenufer",
+                  "text": "Entenufer am Schwielowsee.",
+                  "category": "recreational",
+                  "coords": [
+                        13.006591,
+                        52.358277
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Summer Lounge",
+                  "text": "A Summer Lounge a Schwielowsee tónál található.",
+                  "category": "recreational",
+                  "coords": [
+                        12.980538,
+                        52.345252
+                  ]
+            },
+            {
+                  "name": "Strandbad Ferch",
+                  "text": "A Strandbad Ferch a Schwielowsee partján található.",
+                  "category": "recreational",
+                  "coords": [
+                        12.941076,
+                        52.313984
+                  ]
+            },
+            {
+                  "name": "Entenufer",
+                  "text": "Entenufer-part a Schwielowsee tónál.",
+                  "category": "recreational",
+                  "coords": [
+                        13.006591,
+                        52.358277
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Summer Lounge",
+                  "text": "Summer Lounge se află pe malul lacului Schwielowsee.",
+                  "category": "recreational",
+                  "coords": [
+                        12.980538,
+                        52.345252
+                  ]
+            },
+            {
+                  "name": "Strandbad Ferch",
+                  "text": "Strandbad Ferch este situat pe malul lacului Schwielowsee.",
+                  "category": "recreational",
+                  "coords": [
+                        12.941076,
+                        52.313984
+                  ]
+            },
+            {
+                  "name": "Entenufer",
+                  "text": "Malul Entenufer la lacul Schwielowsee.",
+                  "category": "recreational",
+                  "coords": [
+                        13.006591,
+                        52.358277
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Summer Lounge",
+                  "text": "Summer Lounge is situated on the shores of Schwielowsee.",
+                  "category": "recreational",
+                  "coords": [
+                        12.980538,
+                        52.345252
+                  ]
+            },
+            {
+                  "name": "Strandbad Ferch",
+                  "text": "Strandbad Ferch is located on the Schwielowsee.",
+                  "category": "recreational",
+                  "coords": [
+                        12.941076,
+                        52.313984
+                  ]
+            },
+            {
+                  "name": "Entenufer",
+                  "text": "Entenufer shore at Schwielowsee lake.",
+                  "category": "recreational",
+                  "coords": [
+                        13.006591,
+                        52.358277
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "DE-BB",
     coords: [12.9519, 52.3442],
@@ -45643,7 +47821,52 @@ export const pois: POI[] = [
 
   // ── SACHSEN-ANHALT (DE-ST) ───────────────────────────────────────────────
   {
-    id: "hist-bauhaus-dessau",
+    id: "hist-bauhaus-dessau", "sights": {
+      "de": [
+            {
+                  "name": "Stillinge",
+                  "text": "Stillinge ist eine Badestelle nahe dem historischen Bauhaus Dessau.",
+                  "category": "recreational",
+                  "coords": [
+                        12.249586,
+                        51.851909
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stillinge",
+                  "text": "A Stillinge egy fürdőhely a történelmi Bauhaus Dessau közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        12.249586,
+                        51.851909
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stillinge",
+                  "text": "Stillinge este o zonă de îmbăiere lângă istoricul Bauhaus Dessau.",
+                  "category": "recreational",
+                  "coords": [
+                        12.249586,
+                        51.851909
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stillinge",
+                  "text": "Stillinge is a swimming spot near the historic Bauhaus Dessau.",
+                  "category": "recreational",
+                  "coords": [
+                        12.249586,
+                        51.851909
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "DE-ST",
     coords: [12.2432, 51.8384],
@@ -46040,6 +48263,15 @@ export const pois: POI[] = [
                         11.993329,
                         51.460781
                   ]
+            },
+            {
+                  "name": "Karlsbad",
+                  "text": "Ein Badegewässer in Halle an der Saale.",
+                  "category": "recreational",
+                  "coords": [
+                        11.905644,
+                        51.465626
+                  ]
             }
       ],
       "hu": [
@@ -46335,6 +48567,15 @@ export const pois: POI[] = [
                   "coords": [
                         11.993329,
                         51.460781
+                  ]
+            },
+            {
+                  "name": "Karlsbad",
+                  "text": "Fürdőhely Halle an der Saale városában.",
+                  "category": "recreational",
+                  "coords": [
+                        11.905644,
+                        51.465626
                   ]
             }
       ],
@@ -46632,6 +48873,15 @@ export const pois: POI[] = [
                         11.993329,
                         51.460781
                   ]
+            },
+            {
+                  "name": "Karlsbad",
+                  "text": "Un loc de îmbăiere în Halle an der Saale.",
+                  "category": "recreational",
+                  "coords": [
+                        11.905644,
+                        51.465626
+                  ]
             }
       ],
       "en": [
@@ -46927,6 +49177,15 @@ export const pois: POI[] = [
                   "coords": [
                         11.993329,
                         51.460781
+                  ]
+            },
+            {
+                  "name": "Karlsbad",
+                  "text": "A bathing area in Halle an der Saale.",
+                  "category": "recreational",
+                  "coords": [
+                        11.905644,
+                        51.465626
                   ]
             }
       ],
@@ -48051,7 +50310,52 @@ export const pois: POI[] = [
 
   // ── MECKLENBURG-VORPOMMERN (DE-MV) ──────────────────────────────────────
   {
-    id: "hist-prora",
+    id: "hist-prora", "sights": {
+      "de": [
+            {
+                  "name": "Naturstrand",
+                  "text": "Naturstrand bei Prora auf Rügen.",
+                  "category": "recreational",
+                  "coords": [
+                        13.654453,
+                        54.400517
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Naturstrand",
+                  "text": "Természetes strand Proránál, Rügen szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        13.654453,
+                        54.400517
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Naturstrand",
+                  "text": "Plajă naturală lângă Prora, Rügen.",
+                  "category": "recreational",
+                  "coords": [
+                        13.654453,
+                        54.400517
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Naturstrand",
+                  "text": "Natural beach near Prora on the island of Rügen.",
+                  "category": "recreational",
+                  "coords": [
+                        13.654453,
+                        54.400517
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "DE-MV",
     coords: [13.6557, 54.4209],
@@ -49252,7 +51556,52 @@ export const pois: POI[] = [
     image: "/poi-images/hist-nord-ostsee-kanal.webp",
   },
   {
-    id: "landmark-flensburger-foerde",
+    id: "landmark-flensburger-foerde", "sights": {
+      "de": [
+            {
+                  "name": "Ostseebad",
+                  "text": "Der Ostseebad-Strand liegt an der Flensburger Förde.",
+                  "category": "recreational",
+                  "coords": [
+                        9.430626,
+                        54.812288
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ostseebad",
+                  "text": "Az Ostseebad strand a Flensburger Förde partján található.",
+                  "category": "recreational",
+                  "coords": [
+                        9.430626,
+                        54.812288
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ostseebad",
+                  "text": "Plaja Ostseebad este situată pe malul fiordului Flensburger Förde.",
+                  "category": "recreational",
+                  "coords": [
+                        9.430626,
+                        54.812288
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ostseebad",
+                  "text": "The Ostseebad beach is located on the Flensburger Foerde.",
+                  "category": "recreational",
+                  "coords": [
+                        9.430626,
+                        54.812288
+                  ]
+            }
+      ]
+},
     type: "sea",
     parent: "DE-SH",
     coords: [9.4333, 54.8167],
@@ -50040,7 +52389,52 @@ export const pois: POI[] = [
       "tr": ["Anıtın toplam yüksekliği 81 metredir", "İnşaat süreci 1890'dan 1896'ya kadar sürmüştür", "Barbarossa heykeli yaklaşık 6,5 metre boyundadır", "176 metrelik kale kuyusu dünyanın en derinidir", "Wilhelm I'in atlı heykeli 11 metre yüksekliğindedir", "Mimarı ünlü Bruno Schmitz'dir"]},
   },
   {
-    id: "forest-nationalpark-eifel",
+    id: "forest-nationalpark-eifel", "sights": {
+      "de": [
+            {
+                  "name": "Eschaueler Sonnenstrand",
+                  "text": "Eschaueler Sonnenstrand im Nationalpark Eifel.",
+                  "category": "recreational",
+                  "coords": [
+                        6.416777,
+                        50.641523
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Eschaueler Sonnenstrand",
+                  "text": "Eschaueler Sonnenstrand az Eifel Nemzeti Parkban.",
+                  "category": "recreational",
+                  "coords": [
+                        6.416777,
+                        50.641523
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Eschaueler Sonnenstrand",
+                  "text": "Eschaueler Sonnenstrand în Parcul Național Eifel.",
+                  "category": "recreational",
+                  "coords": [
+                        6.416777,
+                        50.641523
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Eschaueler Sonnenstrand",
+                  "text": "Eschaueler Sonnenstrand in the Eifel National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        6.416777,
+                        50.641523
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "DE-NW",
     coords: [6.433, 50.617],
@@ -50633,7 +53027,52 @@ export const pois: POI[] = [
       "tr": ["Tüm şato kompleksi yaklaşık 170 hektarlık bir alanı kaplamaktadır.", "İnşaat 1703'ten 1734'e kadar toplam 31 yıl sürmüştür.", "Parkta 300'den fazla tarihi heykel ve figür bulunmaktadır.", "Şato adası, ana karaya üç taş köprü ile bağlanmaktadır.", "1958'den beri şato, maliye memurları için bir eğitim merkezi olarak kullanılmaktadır.", "UNESCO, parkı Avrupa çapında öneme sahip bir anıt olarak sınıflandırmıştır."]},
   },
   {
-    id: "landmark-schloss-pfaueninsel",
+    id: "landmark-schloss-pfaueninsel", "sights": {
+      "de": [
+            {
+                  "name": "Badestelle Alter Hof",
+                  "text": "Die Badestelle Alter Hof liegt nahe der Pfaueninsel.",
+                  "category": "recreational",
+                  "coords": [
+                        13.142373,
+                        52.432854
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Badestelle Alter Hof",
+                  "text": "A Badestelle Alter Hof fürdőhely a Pfaueninsel közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        13.142373,
+                        52.432854
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Badestelle Alter Hof",
+                  "text": "Zona de îmbăiere Alter Hof se află aproape de insula Pfaueninsel.",
+                  "category": "recreational",
+                  "coords": [
+                        13.142373,
+                        52.432854
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Badestelle Alter Hof",
+                  "text": "The Alter Hof bathing area is located near Pfaueninsel.",
+                  "category": "recreational",
+                  "coords": [
+                        13.142373,
+                        52.432854
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "DE-BE",
     coords: [13.13, 52.43],

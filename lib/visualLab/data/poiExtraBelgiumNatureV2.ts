@@ -233,7 +233,52 @@ imageHint: "Meuse river flowing through the Ardennes valley in Namur",
     },
     image: "/poi-images/belgium-meuse-river-nature-v2.webp",
 },  {
-    id: "belgium-scheldt-river-nature-v2",
+    id: "belgium-scheldt-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sint-Annastrand",
+                  "text": "Strand am Ufer der Schelde.",
+                  "category": "recreational",
+                  "coords": [
+                        4.392286,
+                        51.235184
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sint-Annastrand",
+                  "text": "A Schelde folyó mentén található strand.",
+                  "category": "recreational",
+                  "coords": [
+                        4.392286,
+                        51.235184
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sint-Annastrand",
+                  "text": "Plajă pe malul râului Scheldt.",
+                  "category": "recreational",
+                  "coords": [
+                        4.392286,
+                        51.235184
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sint-Annastrand",
+                  "text": "Beach along the Scheldt River.",
+                  "category": "recreational",
+                  "coords": [
+                        4.392286,
+                        51.235184
+                  ]
+            }
+      ]
+},
     parent: "BE",
     type: "river",
     name: { de: "Schelde", hu: "Schelde", ro: "Râul Scheldt", en: "Scheldt River"},
@@ -325,7 +370,88 @@ imageHint: "Ourthe river winding through Ardennes forests",
     },
     image: "/poi-images/belgium-ourthe-river-nature-v2.webp",
 },  {
-    id: "belgium-semois-river-nature-v2",
+    id: "belgium-semois-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "plage de Alle",
+                  "text": "Badestrand von Alle an der Semois.",
+                  "category": "recreational",
+                  "coords": [
+                        4.976573,
+                        49.847115
+                  ]
+            },
+            {
+                  "name": "Plage de Membre (herbe)",
+                  "text": "Grasstrand von Membre an der Semois.",
+                  "category": "recreational",
+                  "coords": [
+                        4.900464,
+                        49.864397
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "plage de Alle",
+                  "text": "Az Alle-i strand a Semois folyó mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        4.976573,
+                        49.847115
+                  ]
+            },
+            {
+                  "name": "Plage de Membre (herbe)",
+                  "text": "A membre-i füves strand a Semois folyó mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        4.900464,
+                        49.864397
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "plage de Alle",
+                  "text": "Plaja Alle pe râul Semois.",
+                  "category": "recreational",
+                  "coords": [
+                        4.976573,
+                        49.847115
+                  ]
+            },
+            {
+                  "name": "Plage de Membre (herbe)",
+                  "text": "Plajă cu iarbă Membre pe râul Semois.",
+                  "category": "recreational",
+                  "coords": [
+                        4.900464,
+                        49.864397
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "plage de Alle",
+                  "text": "Alle Beach along the Semois River.",
+                  "category": "recreational",
+                  "coords": [
+                        4.976573,
+                        49.847115
+                  ]
+            },
+            {
+                  "name": "Plage de Membre (herbe)",
+                  "text": "Membre grassy beach along the Semois River.",
+                  "category": "recreational",
+                  "coords": [
+                        4.900464,
+                        49.864397
+                  ]
+            }
+      ]
+},
     parent: "BE",
     type: "river",
     name: { de: "Semois", hu: "Semois", ro: "Râul Semois", en: "Semois River"},
@@ -371,7 +497,52 @@ imageHint: "Semois river meander at Frahan viewpoint",
     },
     image: "/poi-images/belgium-semois-river-nature-v2.webp",
 },  {
-    id: "belgium-lesse-river-nature-v2",
+    id: "belgium-lesse-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plage de Houyet (herbe)",
+                  "text": "Grasstrand an der Lesse.",
+                  "category": "recreational",
+                  "coords": [
+                        5.010082,
+                        50.186936
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plage de Houyet (herbe)",
+                  "text": "Füves strand a Lesse folyó mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        5.010082,
+                        50.186936
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plage de Houyet (herbe)",
+                  "text": "Plajă cu iarbă pe râul Lesse.",
+                  "category": "recreational",
+                  "coords": [
+                        5.010082,
+                        50.186936
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plage de Houyet (herbe)",
+                  "text": "Grassy beach along the Lesse River.",
+                  "category": "recreational",
+                  "coords": [
+                        5.010082,
+                        50.186936
+                  ]
+            }
+      ]
+},
     parent: "BE",
     type: "river",
     name: { de: "Lesse", hu: "Lesse", ro: "Râul Lesse", en: "Lesse River"},
@@ -417,7 +588,52 @@ imageHint: "Lesse river flowing through limestone cliffs",
     },
     image: "/poi-images/belgium-lesse-river-nature-v2.webp",
 },  {
-    id: "belgium-lake-butgenbach-nature-v2",
+    id: "belgium-lake-butgenbach-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "VENNtastic Beach",
+                  "text": "VENNtastic Beach am See Butgenbach.",
+                  "category": "recreational",
+                  "coords": [
+                        6.218451,
+                        50.426707
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "VENNtastic Beach",
+                  "text": "VENNtastic strand a Bütgenbach-tónál.",
+                  "category": "recreational",
+                  "coords": [
+                        6.218451,
+                        50.426707
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "VENNtastic Beach",
+                  "text": "Plaja VENNtastic de pe lacul Bütgenbach.",
+                  "category": "recreational",
+                  "coords": [
+                        6.218451,
+                        50.426707
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "VENNtastic Beach",
+                  "text": "VENNtastic Beach at Lake Bütgenbach.",
+                  "category": "recreational",
+                  "coords": [
+                        6.218451,
+                        50.426707
+                  ]
+            }
+      ]
+},
     parent: "BE",
     type: "lake",
     name: { de: "Bütgenbacher See", hu: "Bütgenbach-tó", ro: "Lacul Bütgenbach", en: "Lake Bütgenbach"},
@@ -1108,7 +1324,52 @@ imageHint: "Dijle river winding through the Doode Bemde wetland",
     image: "/poi-images/belgium-dijle-valley-nature-v2.webp",
 },
   {
-    id: "belgium-yser-river-nature-v2",
+    id: "belgium-yser-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Strandreservaat IJzermonding",
+                  "text": "Strandreservat an der Mündung des Flusses Yser.",
+                  "category": "recreational",
+                  "coords": [
+                        2.725912,
+                        51.154571
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Strandreservaat IJzermonding",
+                  "text": "Strandrezervátum az Yser folyó torkolatánál.",
+                  "category": "recreational",
+                  "coords": [
+                        2.725912,
+                        51.154571
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Strandreservaat IJzermonding",
+                  "text": "Rezervație de plajă la gura râului Yser.",
+                  "category": "recreational",
+                  "coords": [
+                        2.725912,
+                        51.154571
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Strandreservaat IJzermonding",
+                  "text": "Beach reserve at the mouth of the Yser River.",
+                  "category": "recreational",
+                  "coords": [
+                        2.725912,
+                        51.154571
+                  ]
+            }
+      ]
+},
     parent: "BE",
     type: "river",
     name: { de: "Yser", hu: "IJzer", ro: "Yser", en: "Yser"},

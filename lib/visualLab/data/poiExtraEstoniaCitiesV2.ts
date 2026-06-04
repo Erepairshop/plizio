@@ -3,7 +3,88 @@ import { POI } from './poi';
 export const estoniaCitiesV2: POI[] = [
 
   {
-    id: "estonia-keila-cities-v2",
+    id: "estonia-keila-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Keila Jõepargi supelrand",
+                  "text": "Badestrand im Jõepark von Keila.",
+                  "category": "recreational",
+                  "coords": [
+                        24.439372,
+                        59.301506
+                  ]
+            },
+            {
+                  "name": "Keila Mõisa supelrand",
+                  "text": "Badestrand bei Keila Mõis.",
+                  "category": "recreational",
+                  "coords": [
+                        24.441454,
+                        59.304236
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Keila Jõepargi supelrand",
+                  "text": "Strand a Keila Jõeparkban.",
+                  "category": "recreational",
+                  "coords": [
+                        24.439372,
+                        59.301506
+                  ]
+            },
+            {
+                  "name": "Keila Mõisa supelrand",
+                  "text": "Strand a Keila Mõis közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        24.441454,
+                        59.304236
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Keila Jõepargi supelrand",
+                  "text": "Plajă în parcul râului Keila.",
+                  "category": "recreational",
+                  "coords": [
+                        24.439372,
+                        59.301506
+                  ]
+            },
+            {
+                  "name": "Keila Mõisa supelrand",
+                  "text": "Plajă lângă Conacul Keila.",
+                  "category": "recreational",
+                  "coords": [
+                        24.441454,
+                        59.304236
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Keila Jõepargi supelrand",
+                  "text": "Beach in the Keila River Park.",
+                  "category": "recreational",
+                  "coords": [
+                        24.439372,
+                        59.301506
+                  ]
+            },
+            {
+                  "name": "Keila Mõisa supelrand",
+                  "text": "Beach near Keila Manor.",
+                  "category": "recreational",
+                  "coords": [
+                        24.441454,
+                        59.304236
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "EE",
     name: { de: "Keila", hu: "Keila", ro: "Keila", en: "Keila" },
@@ -138,7 +219,52 @@ export const estoniaCitiesV2: POI[] = [
     image: "/poi-images/estonia-saue-cities-v2.webp",
   },
   {
-    id: "estonia-sindi-cities-v2",
+    id: "estonia-sindi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tiigi pargi supelrand",
+                  "text": "Badestrand im Tiigi-Park in Sindi.",
+                  "category": "recreational",
+                  "coords": [
+                        24.664218,
+                        58.402188
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tiigi pargi supelrand",
+                  "text": "Strand a Sindi-i Tiigi parkban.",
+                  "category": "recreational",
+                  "coords": [
+                        24.664218,
+                        58.402188
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tiigi pargi supelrand",
+                  "text": "Plajă în parcul Tiigi din Sindi.",
+                  "category": "recreational",
+                  "coords": [
+                        24.664218,
+                        58.402188
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tiigi pargi supelrand",
+                  "text": "Beach in Tiigi Park, Sindi.",
+                  "category": "recreational",
+                  "coords": [
+                        24.664218,
+                        58.402188
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "EE",
     name: { de: "Sindi", hu: "Sindi", ro: "Sindi", en: "Sindi" },

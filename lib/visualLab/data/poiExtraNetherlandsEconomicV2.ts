@@ -588,7 +588,52 @@ export const netherlandsEconomicV2: POI[] = [
     image: "/poi-images/netherlands-dutch-flower-auction-alsmeer-economic-v2.webp",
   },
   {
-    id: "netherlands-high-tech-campus-ehv-economic-v2",
+    id: "netherlands-high-tech-campus-ehv-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "'t Witven",
+                  "text": "Das 't Witven ist ein Strand in der Nähe des High Tech Campus Eindhoven.",
+                  "category": "recreational",
+                  "coords": [
+                        5.411154,
+                        51.397686
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "'t Witven",
+                  "text": "A 't Witven strand a High Tech Campus Eindhoven közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        5.411154,
+                        51.397686
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "'t Witven",
+                  "text": "'t Witven este o plajă situată lângă High Tech Campus Eindhoven.",
+                  "category": "recreational",
+                  "coords": [
+                        5.411154,
+                        51.397686
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "'t Witven",
+                  "text": "'t Witven is a beach located near the High Tech Campus Eindhoven.",
+                  "category": "recreational",
+                  "coords": [
+                        5.411154,
+                        51.397686
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "NL",
     name: { de: "High Tech Campus Eindhoven", hu: "High Tech Campus Eindhoven", ro: "High Tech Campus Eindhoven", en: "High Tech Campus Eindhoven" },
@@ -723,7 +768,88 @@ export const netherlandsEconomicV2: POI[] = [
     image: "/poi-images/netherlands-port-harlingen-economic-v2.webp",
   },
   {
-    id: "netherlands-science-park-amsterdam-economic-v2",
+    id: "netherlands-science-park-amsterdam-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Strand Diemerpark",
+                  "text": "Strand Diemerpark bei Amsterdam.",
+                  "category": "recreational",
+                  "coords": [
+                        4.986519,
+                        52.354266
+                  ]
+            },
+            {
+                  "name": "Strand IJburg",
+                  "text": "Strand bei IJburg, ein modernes Wohn- und Erholungsgebiet.",
+                  "category": "recreational",
+                  "coords": [
+                        5.014174,
+                        52.357461
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Strand Diemerpark",
+                  "text": "Strand Diemerpark strand Amszterdam közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        4.986519,
+                        52.354266
+                  ]
+            },
+            {
+                  "name": "Strand IJburg",
+                  "text": "Strand IJburg mellett, modern lakó- és rekreációs terület.",
+                  "category": "recreational",
+                  "coords": [
+                        5.014174,
+                        52.357461
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Strand Diemerpark",
+                  "text": "Plaja Strand Diemerpark lângă Amsterdam.",
+                  "category": "recreational",
+                  "coords": [
+                        4.986519,
+                        52.354266
+                  ]
+            },
+            {
+                  "name": "Strand IJburg",
+                  "text": "Plajă lângă IJburg, o zonă rezidențială și de recreere modernă.",
+                  "category": "recreational",
+                  "coords": [
+                        5.014174,
+                        52.357461
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Strand Diemerpark",
+                  "text": "Strand Diemerpark beach near Amsterdam.",
+                  "category": "recreational",
+                  "coords": [
+                        4.986519,
+                        52.354266
+                  ]
+            },
+            {
+                  "name": "Strand IJburg",
+                  "text": "Beach near IJburg, a modern residential and recreation area.",
+                  "category": "recreational",
+                  "coords": [
+                        5.014174,
+                        52.357461
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "NL",
     name: { de: "Science Park Amsterdam", hu: "Science Park Amsterdam", ro: "Science Park Amsterdam", en: "Science Park Amsterdam" },
@@ -1128,7 +1254,124 @@ export const netherlandsEconomicV2: POI[] = [
     image: "/poi-images/netherlands-agri-hub-venlo-economic-v2.webp",
   },
   {
-    id: "netherlands-port-lelystad-economic-v2",
+    id: "netherlands-port-lelystad-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Houtribhoekstrand",
+                  "text": "Houtribhoekstrand am Hafen von Lelystad.",
+                  "category": "recreational",
+                  "coords": [
+                        5.455388,
+                        52.548827
+                  ]
+            },
+            {
+                  "name": "Bataviastrand",
+                  "text": "Strand am Hafen von Lelystad, ein Ort zur Entspannung am Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        5.424323,
+                        52.525525
+                  ]
+            },
+            {
+                  "name": "Strand 't Bovenwater",
+                  "text": "Das Strand 't Bovenwater liegt am Hafen von Lelystad.",
+                  "category": "recreational",
+                  "coords": [
+                        5.419491,
+                        52.485505
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Houtribhoekstrand",
+                  "text": "Houtribhoekstrand Lelystad kikötőjénél.",
+                  "category": "recreational",
+                  "coords": [
+                        5.455388,
+                        52.548827
+                  ]
+            },
+            {
+                  "name": "Bataviastrand",
+                  "text": "Strand Lelystad kikötőjében, pihenőhely a víz mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        5.424323,
+                        52.525525
+                  ]
+            },
+            {
+                  "name": "Strand 't Bovenwater",
+                  "text": "A 't Bovenwater strand Lelystad kikötőjénél található.",
+                  "category": "recreational",
+                  "coords": [
+                        5.419491,
+                        52.485505
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Houtribhoekstrand",
+                  "text": "Houtribhoekstrand la portul Lelystad.",
+                  "category": "recreational",
+                  "coords": [
+                        5.455388,
+                        52.548827
+                  ]
+            },
+            {
+                  "name": "Bataviastrand",
+                  "text": "Plajă la portul Lelystad, un loc de relaxare pe malul apei.",
+                  "category": "recreational",
+                  "coords": [
+                        5.424323,
+                        52.525525
+                  ]
+            },
+            {
+                  "name": "Strand 't Bovenwater",
+                  "text": "Strand 't Bovenwater se află în portul din Lelystad.",
+                  "category": "recreational",
+                  "coords": [
+                        5.419491,
+                        52.485505
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Houtribhoekstrand",
+                  "text": "Houtribhoekstrand at the port of Lelystad.",
+                  "category": "recreational",
+                  "coords": [
+                        5.455388,
+                        52.548827
+                  ]
+            },
+            {
+                  "name": "Bataviastrand",
+                  "text": "Beach at the port of Lelystad, a spot for relaxation by the water.",
+                  "category": "recreational",
+                  "coords": [
+                        5.424323,
+                        52.525525
+                  ]
+            },
+            {
+                  "name": "Strand 't Bovenwater",
+                  "text": "Strand 't Bovenwater is located at the port of Lelystad.",
+                  "category": "recreational",
+                  "coords": [
+                        5.419491,
+                        52.485505
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "NL",
     name: { de: "Hafen Lelystad", hu: "Lelystad kikötő", ro: "Portul Lelystad", en: "Port of Lelystad" },

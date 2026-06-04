@@ -279,7 +279,52 @@ imageHint: "Talum industrial site in Kidričevo",
     },
     image: "/poi-images/slovenia-talum-kidricevo-economic-v2.webp",
 },  {
-    id: "slovenia-steklarna-rogaska-economic-v2",
+    id: "slovenia-steklarna-rogaska-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rogaška Riviera",
+                  "text": "Riviera-Strand bei der Glashütte Rogaška.",
+                  "category": "recreational",
+                  "coords": [
+                        15.634121,
+                        46.23853
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rogaška Riviera",
+                  "text": "Riviera strand a Rogaška üveggyár közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        15.634121,
+                        46.23853
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rogaška Riviera",
+                  "text": "Plaja Riviera lângă fabrica de sticlă Rogaška.",
+                  "category": "recreational",
+                  "coords": [
+                        15.634121,
+                        46.23853
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rogaška Riviera",
+                  "text": "Riviera Beach near Rogaška Glassworks.",
+                  "category": "recreational",
+                  "coords": [
+                        15.634121,
+                        46.23853
+                  ]
+            }
+      ]
+},
     parent: "SI",
     type: "factory",
     name: { de: "Steklarna Rogaška Kristall", hu: "Steklarna Rogaška Kristálygyár", ro: "Fabrica de Cristal Rogaška", en: "Steklarna Rogaška Crystal"},
@@ -601,7 +646,52 @@ imageHint: "Large cooling tower of the Šoštanj power plant",
     },
     image: "/poi-images/slovenia-sostanj-power-plant-economic-v2.webp",
 },  {
-    id: "slovenia-velenje-coal-mine-economic-v2",
+    id: "slovenia-velenje-coal-mine-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Velenjska plaža",
+                  "text": "Strand am Velenje-See, nahe dem Kohlebergwerk.",
+                  "category": "recreational",
+                  "coords": [
+                        15.086551,
+                        46.370114
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Velenjska plaža",
+                  "text": "Strand a Velenjei-tónál, a szénbánya közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        15.086551,
+                        46.370114
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Velenjska plaža",
+                  "text": "Plajă la Lacul Velenje, lângă mina de cărbune.",
+                  "category": "recreational",
+                  "coords": [
+                        15.086551,
+                        46.370114
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Velenjska plaža",
+                  "text": "Beach at Velenje Lake, near the coal mine.",
+                  "category": "recreational",
+                  "coords": [
+                        15.086551,
+                        46.370114
+                  ]
+            }
+      ]
+},
     parent: "SI",
     type: "mine",
     name: { de: "Braunkohlebergwerk Velenje", hu: "Velenjei lignitbánya", ro: "Mina de Cărbune Velenje", en: "Velenje Coal Mine"},
@@ -1245,7 +1335,88 @@ imageHint: "The towering Trbovlje chimney rising above the valley",
     },
     image: "/poi-images/slovenia-trbovlje-chimney-economic-v2.webp",
 },  {
-    id: "slovenia-ljubljanske-mlekarne-economic-v2",
+    id: "slovenia-ljubljanske-mlekarne-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jožetove terase",
+                  "text": "Strand bei den Ljublanske Mlekarne.",
+                  "category": "recreational",
+                  "coords": [
+                        14.514766,
+                        46.105578
+                  ]
+            },
+            {
+                  "name": "Plaža Sava - Laguna",
+                  "text": "Die Plaža Sava - Laguna ist ein Erholungsort im Gebiet von Ljubljanske Mlekarne.",
+                  "category": "recreational",
+                  "coords": [
+                        14.520872,
+                        46.096808
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jožetove terase",
+                  "text": "Strand a Ljublanske Mlekarne közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        14.514766,
+                        46.105578
+                  ]
+            },
+            {
+                  "name": "Plaža Sava - Laguna",
+                  "text": "A Plaža Sava - Laguna egy pihenőhely Ljubljanske Mlekarne területén.",
+                  "category": "recreational",
+                  "coords": [
+                        14.520872,
+                        46.096808
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jožetove terase",
+                  "text": "Plajă lângă Ljublanske Mlekarne.",
+                  "category": "recreational",
+                  "coords": [
+                        14.514766,
+                        46.105578
+                  ]
+            },
+            {
+                  "name": "Plaža Sava - Laguna",
+                  "text": "Plaža Sava - Laguna este o zonă de agrement situată în zona Ljubljanske Mlekarne.",
+                  "category": "recreational",
+                  "coords": [
+                        14.520872,
+                        46.096808
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jožetove terase",
+                  "text": "Beach near Ljublanske Mlekarne.",
+                  "category": "recreational",
+                  "coords": [
+                        14.514766,
+                        46.105578
+                  ]
+            },
+            {
+                  "name": "Plaža Sava - Laguna",
+                  "text": "Plaža Sava - Laguna is a recreational area located in the Ljubljanske Mlekarne region.",
+                  "category": "recreational",
+                  "coords": [
+                        14.520872,
+                        46.096808
+                  ]
+            }
+      ]
+},
     parent: "SI",
     type: "factory",
     name: { de: "Ljubljanaer Molkerei", hu: "Ljubljanai Tejgyár", ro: "Lactatele Ljubljana", en: "Ljubljana Dairy"},

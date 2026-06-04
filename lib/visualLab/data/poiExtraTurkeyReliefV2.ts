@@ -223,7 +223,124 @@ export const poiExtraTurkeyReliefV2: POI[] = [
     },
   },
   {
-    id: "tr-butterfly-valley-relief-v2",
+    id: "tr-butterfly-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Actas Beach",
+                  "text": "Actas Beach ist ein Strand in Butterfly Valley Relief.",
+                  "category": "recreational",
+                  "coords": [
+                        29.107839,
+                        36.480098
+                  ]
+            },
+            {
+                  "name": "Secret beach",
+                  "text": "Secret beach ist ein Strand in Butterfly Valley Relief.",
+                  "category": "recreational",
+                  "coords": [
+                        29.112095,
+                        36.467505
+                  ]
+            },
+            {
+                  "name": "Tektaş Beach",
+                  "text": "Tektaş Beach ist ein Strand in Butterfly Valley Relief.",
+                  "category": "recreational",
+                  "coords": [
+                        29.102948,
+                        36.475017
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Actas Beach",
+                  "text": "Az Actas Beach egy strand a Butterfly Valley Relief területén.",
+                  "category": "recreational",
+                  "coords": [
+                        29.107839,
+                        36.480098
+                  ]
+            },
+            {
+                  "name": "Secret beach",
+                  "text": "A Secret beach egy tengerpart a Butterfly Valley Relief térségében.",
+                  "category": "recreational",
+                  "coords": [
+                        29.112095,
+                        36.467505
+                  ]
+            },
+            {
+                  "name": "Tektaş Beach",
+                  "text": "A Tektaş Beach egy strand a Butterfly Valley Relief területén.",
+                  "category": "recreational",
+                  "coords": [
+                        29.102948,
+                        36.475017
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Actas Beach",
+                  "text": "Actas Beach este o plajă în Butterfly Valley Relief.",
+                  "category": "recreational",
+                  "coords": [
+                        29.107839,
+                        36.480098
+                  ]
+            },
+            {
+                  "name": "Secret beach",
+                  "text": "Secret beach este o plajă din Butterfly Valley Relief.",
+                  "category": "recreational",
+                  "coords": [
+                        29.112095,
+                        36.467505
+                  ]
+            },
+            {
+                  "name": "Tektaş Beach",
+                  "text": "Tektaş Beach este o plajă situată în Butterfly Valley Relief.",
+                  "category": "recreational",
+                  "coords": [
+                        29.102948,
+                        36.475017
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Actas Beach",
+                  "text": "Actas Beach is a beach located in Butterfly Valley Relief.",
+                  "category": "recreational",
+                  "coords": [
+                        29.107839,
+                        36.480098
+                  ]
+            },
+            {
+                  "name": "Secret beach",
+                  "text": "Secret beach is a beach in Butterfly Valley Relief.",
+                  "category": "recreational",
+                  "coords": [
+                        29.112095,
+                        36.467505
+                  ]
+            },
+            {
+                  "name": "Tektaş Beach",
+                  "text": "Tektaş Beach is a beach situated in Butterfly Valley Relief.",
+                  "category": "recreational",
+                  "coords": [
+                        29.102948,
+                        36.475017
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "TR-48",
     coords: [29.1306, 36.4975],
@@ -487,7 +604,88 @@ export const poiExtraTurkeyReliefV2: POI[] = [
     },
   },
   {
-    id: "tr-aegean-coast-relief-v2",
+    id: "tr-aegean-coast-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Urla Kum Denizi Plajı",
+                  "text": "Urla Kum Denizi Plajı ist ein Strand in Aegean Coast Relief.",
+                  "category": "recreational",
+                  "coords": [
+                        26.783017,
+                        38.361177
+                  ]
+            },
+            {
+                  "name": "Mavi Plaj",
+                  "text": "Mavi Plaj ist ein Strand in Aegean Coast Relief.",
+                  "category": "recreational",
+                  "coords": [
+                        26.742964,
+                        38.402049
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Urla Kum Denizi Plajı",
+                  "text": "Az Urla Kum Denizi Plajı egy strand az Aegean Coast Relief területén.",
+                  "category": "recreational",
+                  "coords": [
+                        26.783017,
+                        38.361177
+                  ]
+            },
+            {
+                  "name": "Mavi Plaj",
+                  "text": "A Mavi Plaj egy tengerpart az Aegean Coast Relief térségében.",
+                  "category": "recreational",
+                  "coords": [
+                        26.742964,
+                        38.402049
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Urla Kum Denizi Plajı",
+                  "text": "Urla Kum Denizi Plajı este o plajă din Aegean Coast Relief.",
+                  "category": "recreational",
+                  "coords": [
+                        26.783017,
+                        38.361177
+                  ]
+            },
+            {
+                  "name": "Mavi Plaj",
+                  "text": "Mavi Plaj este o plajă situată în Aegean Coast Relief.",
+                  "category": "recreational",
+                  "coords": [
+                        26.742964,
+                        38.402049
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Urla Kum Denizi Plajı",
+                  "text": "Urla Kum Denizi Plajı is a beach in Aegean Coast Relief.",
+                  "category": "recreational",
+                  "coords": [
+                        26.783017,
+                        38.361177
+                  ]
+            },
+            {
+                  "name": "Mavi Plaj",
+                  "text": "Mavi Plaj is a beach situated in Aegean Coast Relief.",
+                  "category": "recreational",
+                  "coords": [
+                        26.742964,
+                        38.402049
+                  ]
+            }
+      ]
+},
     type: "coast",
     parent: "TR-35",
     coords: [26.8000, 38.4000],

@@ -388,6 +388,60 @@ export const moldovaCitiesV2: POI[] = [
                         28.653509,
                         46.29972
                   ]
+            },
+            {
+                  "name": "Muzeul de Istorie și Etnografie",
+                  "text": "Das Regionalmuseum für Geschichte der Gagausien befindet sich in Comrat.",
+                  "category": "museum",
+                  "coords": [
+                        28.656071,
+                        46.302235
+                  ]
+            },
+            {
+                  "name": "Monumentul lui Lenin",
+                  "text": "Das Lenin-Denkmal ist eine historische Sehenswürdigkeit in Comrat.",
+                  "category": "landmark",
+                  "coords": [
+                        28.655626,
+                        46.298817
+                  ]
+            },
+            {
+                  "name": "Galeria de artă",
+                  "text": "Die Kunstgalerie in Comrat stellt lokale Werke aus.",
+                  "category": "museum",
+                  "coords": [
+                        28.657918,
+                        46.300728
+                  ]
+            },
+            {
+                  "name": "Monumentul soldaților din cel de-al Doilea Război Mondial",
+                  "text": "Das Denkmal für die Soldaten des Zweiten Weltkriegs erinnert an die Gefallenen in Comrat.",
+                  "category": "historical",
+                  "coords": [
+                        28.651483,
+                        46.295081
+                  ]
+            },
+            {
+                  "name": "Vinuri de Comrat",
+                  "text": "Comrat Wines ist ein bekanntes Weingut in der Stadt Komrat.",
+                  "category": "landmark",
+                  "coords": [
+                        28.674974,
+                        46.30171
+                  ]
+            },
+            {
+                  "name": "Танк Т-34/85",
+                  "text": "Dieser T-34/85 Panzer erinnert an die militärische Geschichte in Komrat.",
+                  "category": "landmark",
+                  "coords": [
+                        28.625642,
+                        46.304854
+                  ]
             }
       ],
       "hu": [
@@ -399,6 +453,60 @@ export const moldovaCitiesV2: POI[] = [
                   "coords": [
                         28.653509,
                         46.29972
+                  ]
+            },
+            {
+                  "name": "Muzeul de Istorie și Etnografie",
+                  "text": "A Gagauzia Regionális Történeti Múzeum Comratban található.",
+                  "category": "museum",
+                  "coords": [
+                        28.656071,
+                        46.302235
+                  ]
+            },
+            {
+                  "name": "Monumentul lui Lenin",
+                  "text": "A Lenin-emlékmű egy történelmi nevezetesség Comratban.",
+                  "category": "landmark",
+                  "coords": [
+                        28.655626,
+                        46.298817
+                  ]
+            },
+            {
+                  "name": "Galeria de artă",
+                  "text": "A comrati művészeti galéria helyi alkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        28.657918,
+                        46.300728
+                  ]
+            },
+            {
+                  "name": "Monumentul soldaților din cel de-al Doilea Război Mondial",
+                  "text": "A második világháborús emlékmű Comrat elesett katonáinak állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        28.651483,
+                        46.295081
+                  ]
+            },
+            {
+                  "name": "Vinuri de Comrat",
+                  "text": "A Comrat Wines egy jól ismert borászat Komrat városában.",
+                  "category": "landmark",
+                  "coords": [
+                        28.674974,
+                        46.30171
+                  ]
+            },
+            {
+                  "name": "Танк Т-34/85",
+                  "text": "Ez a T-34/85-ös harckocsi Komrat katonai történelmét idézi.",
+                  "category": "landmark",
+                  "coords": [
+                        28.625642,
+                        46.304854
                   ]
             }
       ],
@@ -412,6 +520,60 @@ export const moldovaCitiesV2: POI[] = [
                         28.653509,
                         46.29972
                   ]
+            },
+            {
+                  "name": "Muzeu de Istorie Naturală",
+                  "text": "Muzeul Regional de Istorie al Găgăuziei este situat în Comrat.",
+                  "category": "museum",
+                  "coords": [
+                        28.656071,
+                        46.302235
+                  ]
+            },
+            {
+                  "name": "Monumentul lui Lenin",
+                  "text": "Monumentul lui Lenin este un punct de interes istoric din Comrat.",
+                  "category": "landmark",
+                  "coords": [
+                        28.655626,
+                        46.298817
+                  ]
+            },
+            {
+                  "name": "Galeria de artă",
+                  "text": "Galeria de artă din Comrat expune lucrări locale.",
+                  "category": "museum",
+                  "coords": [
+                        28.657918,
+                        46.300728
+                  ]
+            },
+            {
+                  "name": "Monumentul soldaților din cel de-al Doilea Război Mondial",
+                  "text": "Monumentul soldaților din cel de-al Doilea Război Mondial comemorează eroii din Comrat.",
+                  "category": "historical",
+                  "coords": [
+                        28.651483,
+                        46.295081
+                  ]
+            },
+            {
+                  "name": "Vinuri de Comrat",
+                  "text": "Comrat Wines este o cramă cunoscută în orașul Comrat.",
+                  "category": "landmark",
+                  "coords": [
+                        28.674974,
+                        46.30171
+                  ]
+            },
+            {
+                  "name": "Tanc T-34/85",
+                  "text": "Acest tanc T-34/85 amintește de istoria militară din Comrat.",
+                  "category": "landmark",
+                  "coords": [
+                        28.625642,
+                        46.304854
+                  ]
             }
       ],
       "en": [
@@ -423,6 +585,60 @@ export const moldovaCitiesV2: POI[] = [
                   "coords": [
                         28.653509,
                         46.29972
+                  ]
+            },
+            {
+                  "name": "Regional History Museum of Gagauzia",
+                  "text": "The Regional History Museum of Gagauzia is located in Comrat.",
+                  "category": "museum",
+                  "coords": [
+                        28.656071,
+                        46.302235
+                  ]
+            },
+            {
+                  "name": "Monumentul lui Lenin",
+                  "text": "The Lenin Monument is a historical point of interest in Comrat.",
+                  "category": "landmark",
+                  "coords": [
+                        28.655626,
+                        46.298817
+                  ]
+            },
+            {
+                  "name": "Galeria de artă",
+                  "text": "The art gallery in Comrat exhibits local works.",
+                  "category": "museum",
+                  "coords": [
+                        28.657918,
+                        46.300728
+                  ]
+            },
+            {
+                  "name": "Monumentul soldaților din cel de-al Doilea Război Mondial",
+                  "text": "The monument to the soldiers of the Second World War commemorates the fallen in Comrat.",
+                  "category": "historical",
+                  "coords": [
+                        28.651483,
+                        46.295081
+                  ]
+            },
+            {
+                  "name": "Comrat Wines",
+                  "text": "Comrat Wines is a well-known winery located in the city of Comrat.",
+                  "category": "landmark",
+                  "coords": [
+                        28.674974,
+                        46.30171
+                  ]
+            },
+            {
+                  "name": "Танк Т-34/85",
+                  "text": "This T-34/85 tank serves as a historical military monument in Comrat.",
+                  "category": "landmark",
+                  "coords": [
+                        28.625642,
+                        46.304854
                   ]
             }
       ]

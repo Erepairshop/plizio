@@ -822,7 +822,124 @@ export const bulgariaCulture: POI[] = [
     },
   },
   {
-    id: "port-burgas",
+    id: "port-burgas", "sights": {
+      "de": [
+            {
+                  "name": "Tsentralen plazh",
+                  "text": "Der Hauptstrand von Burgas am Schwarzen Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        27.482548,
+                        42.492607
+                  ]
+            },
+            {
+                  "name": "Severen Plazh",
+                  "text": "Ein nördlicher Strand bei Burgas am Schwarzen Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        27.484204,
+                        42.502895
+                  ]
+            },
+            {
+                  "name": "Plazh Solnitsi",
+                  "text": "Ein Strand bei Burgas am Schwarzen Meer, bekannt für seine Salinen.",
+                  "category": "recreational",
+                  "coords": [
+                        27.486573,
+                        42.516976
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tsentralen plazh",
+                  "text": "Burgas főstrandja a Fekete-tengeren.",
+                  "category": "recreational",
+                  "coords": [
+                        27.482548,
+                        42.492607
+                  ]
+            },
+            {
+                  "name": "Severen Plazh",
+                  "text": "Északi strand Burgas közelében a Fekete-tengeren.",
+                  "category": "recreational",
+                  "coords": [
+                        27.484204,
+                        42.502895
+                  ]
+            },
+            {
+                  "name": "Plazh Solnitsi",
+                  "text": "Strand Burgas közelében a Fekete-tengeren, a sótelepeiről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        27.486573,
+                        42.516976
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tsentralen plazh",
+                  "text": "Plaja principală din Burgas la Marea Neagră.",
+                  "category": "recreational",
+                  "coords": [
+                        27.482548,
+                        42.492607
+                  ]
+            },
+            {
+                  "name": "Severen Plazh",
+                  "text": "O plajă nordică lângă Burgas la Marea Neagră.",
+                  "category": "recreational",
+                  "coords": [
+                        27.484204,
+                        42.502895
+                  ]
+            },
+            {
+                  "name": "Plazh Solnitsi",
+                  "text": "O plajă lângă Burgas la Marea Neagră, cunoscută pentru saline.",
+                  "category": "recreational",
+                  "coords": [
+                        27.486573,
+                        42.516976
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tsentralen plazh",
+                  "text": "The main beach of Burgas on the Black Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        27.482548,
+                        42.492607
+                  ]
+            },
+            {
+                  "name": "Severen Plazh",
+                  "text": "A northern beach near Burgas on the Black Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        27.484204,
+                        42.502895
+                  ]
+            },
+            {
+                  "name": "Plazh Solnitsi",
+                  "text": "A beach near Burgas on the Black Sea, known for its salt pans.",
+                  "category": "recreational",
+                  "coords": [
+                        27.486573,
+                        42.516976
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "bg-country",
     coords: [27.4805, 42.5054],
@@ -1511,7 +1628,88 @@ export const bulgariaNature: POI[] = [
     },
   },
   {
-    id: "nat-atanasovsko-lake",
+    id: "nat-atanasovsko-lake", "sights": {
+      "de": [
+            {
+                  "name": "Svobodna zona",
+                  "text": "Ein Strandabschnitt am Atanasovsko-See bei Burgas am Schwarzen Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        27.49561,
+                        42.535676
+                  ]
+            },
+            {
+                  "name": "Platena zona",
+                  "text": "Ein Strand am Atanasowsko-See am Schwarzen Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        27.494754,
+                        42.53422
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Svobodna zona",
+                  "text": "Strandszakasz az Atanasovsko-tónál, Burgas közelében a Fekete-tengeren.",
+                  "category": "recreational",
+                  "coords": [
+                        27.49561,
+                        42.535676
+                  ]
+            },
+            {
+                  "name": "Platena zona",
+                  "text": "Strand az Atanaszovszko-tónál, a Fekete-tengeren.",
+                  "category": "recreational",
+                  "coords": [
+                        27.494754,
+                        42.53422
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Svobodna zona",
+                  "text": "O secțiune de plajă la lacul Atanasovsko lângă Burgas la Marea Neagră.",
+                  "category": "recreational",
+                  "coords": [
+                        27.49561,
+                        42.535676
+                  ]
+            },
+            {
+                  "name": "Platena zona",
+                  "text": "O plajă la lacul Atanasovsko, la Marea Neagră.",
+                  "category": "recreational",
+                  "coords": [
+                        27.494754,
+                        42.53422
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Svobodna zona",
+                  "text": "A beach section at Atanasovsko Lake near Burgas on the Black Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        27.49561,
+                        42.535676
+                  ]
+            },
+            {
+                  "name": "Platena zona",
+                  "text": "A beach at Atanasovsko Lake on the Black Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        27.494754,
+                        42.53422
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "bg-country",
     coords: [27.4800, 42.5400],

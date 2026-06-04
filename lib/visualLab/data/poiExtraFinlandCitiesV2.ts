@@ -48,7 +48,196 @@ export const finlandCitiesV2: POI[] = [
     image: "/poi-images/finland-seinajoki-cities-v2.webp",
   },
   {
-    id: "finland-hameenlinna-cities-v2",
+    id: "finland-hameenlinna-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vikmaninlahden uittopaikka",
+                  "text": "Vikmaninlahden uittopaikka ist ein Strand bei Hämeenlinna.",
+                  "category": "recreational",
+                  "coords": [
+                        24.462494,
+                        60.98752
+                  ]
+            },
+            {
+                  "name": "Ahvenistonjärven uimaranta",
+                  "text": "Der Ahvenistonjärven uimaranta ist ein Strand in Hämeenlinna.",
+                  "category": "recreational",
+                  "coords": [
+                        24.419665,
+                        60.992562
+                  ]
+            },
+            {
+                  "name": "Uimahallin ranta",
+                  "text": "Der Uimahallin ranta ist ein Strand in Hämeenlinna.",
+                  "category": "recreational",
+                  "coords": [
+                        24.466034,
+                        60.990925
+                  ]
+            },
+            {
+                  "name": "Kahtoilammen uimaranta",
+                  "text": "Badeplatz am See Kahtoilampi in Hämeenlinna.",
+                  "category": "recreational",
+                  "coords": [
+                        24.406373,
+                        61.004839
+                  ]
+            },
+            {
+                  "name": "Hattelmalan uimaranta",
+                  "text": "Badestrand Hattelmalan in Hämeenlinna.",
+                  "category": "recreational",
+                  "coords": [
+                        24.484743,
+                        60.976857
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vikmaninlahden uittopaikka",
+                  "text": "Vikmaninlahden uittopaikka egy strand Hämeenlinna közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        24.462494,
+                        60.98752
+                  ]
+            },
+            {
+                  "name": "Ahvenistonjärven uimaranta",
+                  "text": "Ahvenistonjärven uimaranta egy strand Hämeenlinnában.",
+                  "category": "recreational",
+                  "coords": [
+                        24.419665,
+                        60.992562
+                  ]
+            },
+            {
+                  "name": "Uimahallin ranta",
+                  "text": "Uimahallin ranta egy strand Hämeenlinnában.",
+                  "category": "recreational",
+                  "coords": [
+                        24.466034,
+                        60.990925
+                  ]
+            },
+            {
+                  "name": "Kahtoilammen uimaranta",
+                  "text": "Fürdőhely a Kahtoilampi tónál, Hämeenlinnában.",
+                  "category": "recreational",
+                  "coords": [
+                        24.406373,
+                        61.004839
+                  ]
+            },
+            {
+                  "name": "Hattelmalan uimaranta",
+                  "text": "Hattelmalan strand Hämeenlinnában.",
+                  "category": "recreational",
+                  "coords": [
+                        24.484743,
+                        60.976857
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vikmaninlahden uittopaikka",
+                  "text": "Vikmaninlahden uittopaikka este o plajă lângă Hämeenlinna.",
+                  "category": "recreational",
+                  "coords": [
+                        24.462494,
+                        60.98752
+                  ]
+            },
+            {
+                  "name": "Ahvenistonjärven uimaranta",
+                  "text": "Ahvenistonjärven uimaranta este o plajă în Hämeenlinna.",
+                  "category": "recreational",
+                  "coords": [
+                        24.419665,
+                        60.992562
+                  ]
+            },
+            {
+                  "name": "Uimahallin ranta",
+                  "text": "Uimahallin ranta este o plajă în Hämeenlinna.",
+                  "category": "recreational",
+                  "coords": [
+                        24.466034,
+                        60.990925
+                  ]
+            },
+            {
+                  "name": "Kahtoilammen uimaranta",
+                  "text": "Loc de scăldat la lacul Kahtoilampi din Hämeenlinna.",
+                  "category": "recreational",
+                  "coords": [
+                        24.406373,
+                        61.004839
+                  ]
+            },
+            {
+                  "name": "Hattelmalan uimaranta",
+                  "text": "Plaja Hattelmalan din Hämeenlinna.",
+                  "category": "recreational",
+                  "coords": [
+                        24.484743,
+                        60.976857
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vikmaninlahden uittopaikka",
+                  "text": "Vikmaninlahden uittopaikka is a beach near Hämeenlinna.",
+                  "category": "recreational",
+                  "coords": [
+                        24.462494,
+                        60.98752
+                  ]
+            },
+            {
+                  "name": "Ahvenistonjärven uimaranta",
+                  "text": "Ahvenistonjärven uimaranta is a beach in Hämeenlinna.",
+                  "category": "recreational",
+                  "coords": [
+                        24.419665,
+                        60.992562
+                  ]
+            },
+            {
+                  "name": "Uimahallin ranta",
+                  "text": "Uimahallin ranta is a beach in Hämeenlinna.",
+                  "category": "recreational",
+                  "coords": [
+                        24.466034,
+                        60.990925
+                  ]
+            },
+            {
+                  "name": "Kahtoilammen uimaranta",
+                  "text": "Bathing spot at lake Kahtoilampi in Hämeenlinna.",
+                  "category": "recreational",
+                  "coords": [
+                        24.406373,
+                        61.004839
+                  ]
+            },
+            {
+                  "name": "Hattelmalan uimaranta",
+                  "text": "Hattelmalan beach in Hämeenlinna.",
+                  "category": "recreational",
+                  "coords": [
+                        24.484743,
+                        60.976857
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     name: { de: "Hämeenlinna", hu: "Hämeenlinna", ro: "Hämeenlinna", en: "Hämeenlinna" },
@@ -138,7 +327,124 @@ export const finlandCitiesV2: POI[] = [
     image: "/poi-images/finland-hyvinkaa-cities-v2.webp",
   },
   {
-    id: "finland-jarvenpaa-cities-v2",
+    id: "finland-jarvenpaa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tervanokan uimaranta",
+                  "text": "Tervanokan Uimaranta ist ein Strand in Järvenpää.",
+                  "category": "recreational",
+                  "coords": [
+                        25.081282,
+                        60.463765
+                  ]
+            },
+            {
+                  "name": "Vanhankylänniemen uimaranta",
+                  "text": "Vanhankylänniemen Uimaranta ist ein Strand in Järvenpää.",
+                  "category": "recreational",
+                  "coords": [
+                        25.052529,
+                        60.451198
+                  ]
+            },
+            {
+                  "name": "Koirien uimaranta",
+                  "text": "Koirien uimaranta ist ein Hundestrand in Järvenpää.",
+                  "category": "recreational",
+                  "coords": [
+                        25.081835,
+                        60.466387
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tervanokan uimaranta",
+                  "text": "Tervanokan Uimaranta egy strand Järvenpääben.",
+                  "category": "recreational",
+                  "coords": [
+                        25.081282,
+                        60.463765
+                  ]
+            },
+            {
+                  "name": "Vanhankylänniemen uimaranta",
+                  "text": "Vanhankylänniemen Uimaranta egy strand Järvenpääben.",
+                  "category": "recreational",
+                  "coords": [
+                        25.052529,
+                        60.451198
+                  ]
+            },
+            {
+                  "name": "Koirien uimaranta",
+                  "text": "Koirien uimaranta egy kutyastrand Järvenpääben.",
+                  "category": "recreational",
+                  "coords": [
+                        25.081835,
+                        60.466387
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tervanokan uimaranta",
+                  "text": "Tervanokan Uimaranta este o plajă în Järvenpää.",
+                  "category": "recreational",
+                  "coords": [
+                        25.081282,
+                        60.463765
+                  ]
+            },
+            {
+                  "name": "Vanhankylänniemen uimaranta",
+                  "text": "Vanhankylänniemen Uimaranta este o plajă în Järvenpää.",
+                  "category": "recreational",
+                  "coords": [
+                        25.052529,
+                        60.451198
+                  ]
+            },
+            {
+                  "name": "Koirien uimaranta",
+                  "text": "Koirien uimaranta este o plajă pentru câini în Järvenpää.",
+                  "category": "recreational",
+                  "coords": [
+                        25.081835,
+                        60.466387
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tervanokan uimaranta",
+                  "text": "Tervanokan Uimaranta is a beach in Järvenpää.",
+                  "category": "recreational",
+                  "coords": [
+                        25.081282,
+                        60.463765
+                  ]
+            },
+            {
+                  "name": "Vanhankylänniemen uimaranta",
+                  "text": "Vanhankylänniemen Uimaranta is a beach in Järvenpää.",
+                  "category": "recreational",
+                  "coords": [
+                        25.052529,
+                        60.451198
+                  ]
+            },
+            {
+                  "name": "Koirien uimaranta",
+                  "text": "Koirien uimaranta is a dog beach in Järvenpää.",
+                  "category": "recreational",
+                  "coords": [
+                        25.081835,
+                        60.466387
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     name: { de: "Järvenpää", hu: "Järvenpää", ro: "Järvenpää", en: "Järvenpää" },
@@ -228,7 +534,52 @@ export const finlandCitiesV2: POI[] = [
     image: "/poi-images/finland-kokkola-cities-v2.webp",
   },
   {
-    id: "finland-kajaani-cities-v2",
+    id: "finland-kajaani-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vimpelinlammen uimaranta",
+                  "text": "Strand Vimpelinlampi in Kajaani.",
+                  "category": "recreational",
+                  "coords": [
+                        27.688194,
+                        64.213437
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vimpelinlammen uimaranta",
+                  "text": "Vimpelinlampi strand Kajaaniban.",
+                  "category": "recreational",
+                  "coords": [
+                        27.688194,
+                        64.213437
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vimpelinlammen uimaranta",
+                  "text": "Plaja Vimpelinlampi din Kajaani.",
+                  "category": "recreational",
+                  "coords": [
+                        27.688194,
+                        64.213437
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vimpelinlammen uimaranta",
+                  "text": "Vimpelinlampi beach in Kajaani.",
+                  "category": "recreational",
+                  "coords": [
+                        27.688194,
+                        64.213437
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     name: { de: "Kajaani", hu: "Kajaani", ro: "Kajaani", en: "Kajaani" },
@@ -273,7 +624,52 @@ export const finlandCitiesV2: POI[] = [
     image: "/poi-images/finland-kajaani-cities-v2.webp",
   },
   {
-    id: "finland-kerava-cities-v2",
+    id: "finland-kerava-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Talman hiekkakuopan uimaranta",
+                  "text": "Talman hiekkakuopan uimaranta ist ein Strand in der Nähe von Kerava.",
+                  "category": "recreational",
+                  "coords": [
+                        25.171834,
+                        60.398759
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Talman hiekkakuopan uimaranta",
+                  "text": "Talman hiekkakuopan uimaranta egy strand Kerava közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        25.171834,
+                        60.398759
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Talman hiekkakuopan uimaranta",
+                  "text": "Talman hiekkakuopan uimaranta este o plajă situată lângă Kerava.",
+                  "category": "recreational",
+                  "coords": [
+                        25.171834,
+                        60.398759
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Talman hiekkakuopan uimaranta",
+                  "text": "Talman hiekkakuopan uimaranta is a beach near Kerava.",
+                  "category": "recreational",
+                  "coords": [
+                        25.171834,
+                        60.398759
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     name: { de: "Kerava", hu: "Kerava", ro: "Kerava", en: "Kerava" },
@@ -318,7 +714,52 @@ export const finlandCitiesV2: POI[] = [
     image: "/poi-images/finland-kerava-cities-v2.webp",
   },
   {
-    id: "finland-karkkila-cities-v2",
+    id: "finland-karkkila-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pyhäjärven Vattolan uimaranta",
+                  "text": "Pyhäjärvi Vattola-Badestrand in Karkkila.",
+                  "category": "recreational",
+                  "coords": [
+                        24.190406,
+                        60.537979
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pyhäjärven Vattolan uimaranta",
+                  "text": "Pyhäjärvi Vattola strand Karkkilában.",
+                  "category": "recreational",
+                  "coords": [
+                        24.190406,
+                        60.537979
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pyhäjärven Vattolan uimaranta",
+                  "text": "Plaja Pyhäjärvi Vattola în Karkkila.",
+                  "category": "recreational",
+                  "coords": [
+                        24.190406,
+                        60.537979
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pyhäjärven Vattolan uimaranta",
+                  "text": "Pyhäjärvi Vattola beach in Karkkila.",
+                  "category": "recreational",
+                  "coords": [
+                        24.190406,
+                        60.537979
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     name: { de: "Karkkila", hu: "Karkkila", ro: "Karkkila", en: "Karkkila" },
@@ -408,7 +849,52 @@ export const finlandCitiesV2: POI[] = [
     image: "/poi-images/finland-kauhava-cities-v2.webp",
   },
   {
-    id: "finland-kemijarvi-cities-v2",
+    id: "finland-kemijarvi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kemijärven uimaranta",
+                  "text": "Strand in Kemijärvi.",
+                  "category": "recreational",
+                  "coords": [
+                        27.423891,
+                        66.714288
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kemijärven uimaranta",
+                  "text": "Strand Kemijärvin.",
+                  "category": "recreational",
+                  "coords": [
+                        27.423891,
+                        66.714288
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kemijärven uimaranta",
+                  "text": "Plajă în Kemijärvi.",
+                  "category": "recreational",
+                  "coords": [
+                        27.423891,
+                        66.714288
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kemijärven uimaranta",
+                  "text": "Beach in Kemijärvi.",
+                  "category": "recreational",
+                  "coords": [
+                        27.423891,
+                        66.714288
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     name: { de: "Kemijärvi", hu: "Kemijärvi", ro: "Kemijärvi", en: "Kemijärvi" },
@@ -453,7 +939,52 @@ export const finlandCitiesV2: POI[] = [
     image: "/poi-images/finland-kemijarvi-cities-v2.webp",
   },
   {
-    id: "finland-kemi-cities-v2",
+    id: "finland-kemi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mansikkanokan uimaranta",
+                  "text": "Mansikkanokan uimaranta ist ein Strand in der Nähe von Kemi.",
+                  "category": "recreational",
+                  "coords": [
+                        24.561074,
+                        65.726827
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mansikkanokan uimaranta",
+                  "text": "Mansikkanokan uimaranta egy strand Kemi közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        24.561074,
+                        65.726827
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mansikkanokan uimaranta",
+                  "text": "Mansikkanokan uimaranta este o plajă lângă Kemi.",
+                  "category": "recreational",
+                  "coords": [
+                        24.561074,
+                        65.726827
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mansikkanokan uimaranta",
+                  "text": "Mansikkanokan uimaranta is a beach near Kemi.",
+                  "category": "recreational",
+                  "coords": [
+                        24.561074,
+                        65.726827
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     name: { de: "Kemi", hu: "Kemi", ro: "Kemi", en: "Kemi" },
@@ -543,7 +1074,88 @@ export const finlandCitiesV2: POI[] = [
     image: "/poi-images/finland-kitee-cities-v2.webp",
   },
   {
-    id: "finland-kurikka-cities-v2",
+    id: "finland-kurikka-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pitkämön uimaranta",
+                  "text": "Strand in Kurikka.",
+                  "category": "recreational",
+                  "coords": [
+                        22.407075,
+                        62.583528
+                  ]
+            },
+            {
+                  "name": "Meijerin uimaranta",
+                  "text": "Meijerin uimaranta ist ein Strand in Kurikka.",
+                  "category": "recreational",
+                  "coords": [
+                        22.409746,
+                        62.617101
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pitkämön uimaranta",
+                  "text": "Strand Kurikkában.",
+                  "category": "recreational",
+                  "coords": [
+                        22.407075,
+                        62.583528
+                  ]
+            },
+            {
+                  "name": "Meijerin uimaranta",
+                  "text": "A Meijerin uimaranta egy strand Kurikkában.",
+                  "category": "recreational",
+                  "coords": [
+                        22.409746,
+                        62.617101
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pitkämön uimaranta",
+                  "text": "Plajă în Kurikka.",
+                  "category": "recreational",
+                  "coords": [
+                        22.407075,
+                        62.583528
+                  ]
+            },
+            {
+                  "name": "Meijerin uimaranta",
+                  "text": "Meijerin uimaranta este o plajă în Kurikka.",
+                  "category": "recreational",
+                  "coords": [
+                        22.409746,
+                        62.617101
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pitkämön uimaranta",
+                  "text": "Beach in Kurikka.",
+                  "category": "recreational",
+                  "coords": [
+                        22.407075,
+                        62.583528
+                  ]
+            },
+            {
+                  "name": "Meijerin uimaranta",
+                  "text": "Meijerin uimaranta is a beach in Kurikka.",
+                  "category": "recreational",
+                  "coords": [
+                        22.409746,
+                        62.617101
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     name: { de: "Kurikka", hu: "Kurikka", ro: "Kurikka", en: "Kurikka" },
@@ -678,7 +1290,124 @@ export const finlandCitiesV2: POI[] = [
     image: "/poi-images/finland-lapua-cities-v2.webp",
   },
   {
-    id: "finland-lieksa-cities-v2",
+    id: "finland-lieksa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Timitranniemen uimaranta",
+                  "text": "Der Timitranniemen uimaranta ist ein Strand in Lieksa.",
+                  "category": "recreational",
+                  "coords": [
+                        30.002769,
+                        63.305887
+                  ]
+            },
+            {
+                  "name": "Kaupunginniemen uimaranta",
+                  "text": "Strand an der Landzunge Kaupunginniemi in Lieksa.",
+                  "category": "recreational",
+                  "coords": [
+                        30.011203,
+                        63.309137
+                  ]
+            },
+            {
+                  "name": "Lieksanjoen uimaranta",
+                  "text": "Lieksanjoen uimaranta ist ein Strand in Lieksa.",
+                  "category": "recreational",
+                  "coords": [
+                        30.03316,
+                        63.32351
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Timitranniemen uimaranta",
+                  "text": "Timitranniemen uimaranta egy strand Lieksa városában.",
+                  "category": "recreational",
+                  "coords": [
+                        30.002769,
+                        63.305887
+                  ]
+            },
+            {
+                  "name": "Kaupunginniemen uimaranta",
+                  "text": "Strand a Kaupunginniemi-foknál, Lieksa városában.",
+                  "category": "recreational",
+                  "coords": [
+                        30.011203,
+                        63.309137
+                  ]
+            },
+            {
+                  "name": "Lieksanjoen uimaranta",
+                  "text": "A Lieksanjoen uimaranta egy strand Lieksa városában.",
+                  "category": "recreational",
+                  "coords": [
+                        30.03316,
+                        63.32351
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Timitranniemen uimaranta",
+                  "text": "Timitranniemen uimaranta este o plajă în Lieksa.",
+                  "category": "recreational",
+                  "coords": [
+                        30.002769,
+                        63.305887
+                  ]
+            },
+            {
+                  "name": "Kaupunginniemen uimaranta",
+                  "text": "Plajă la promontoriul Kaupunginniemi din Lieksa.",
+                  "category": "recreational",
+                  "coords": [
+                        30.011203,
+                        63.309137
+                  ]
+            },
+            {
+                  "name": "Lieksanjoen uimaranta",
+                  "text": "Lieksanjoen uimaranta este o plajă în Lieksa.",
+                  "category": "recreational",
+                  "coords": [
+                        30.03316,
+                        63.32351
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Timitranniemen uimaranta",
+                  "text": "Timitranniemen uimaranta is a beach in Lieksa.",
+                  "category": "recreational",
+                  "coords": [
+                        30.002769,
+                        63.305887
+                  ]
+            },
+            {
+                  "name": "Kaupunginniemen uimaranta",
+                  "text": "Beach at the Kaupunginniemi headland in Lieksa.",
+                  "category": "recreational",
+                  "coords": [
+                        30.011203,
+                        63.309137
+                  ]
+            },
+            {
+                  "name": "Lieksanjoen uimaranta",
+                  "text": "Lieksanjoen uimaranta is a beach in Lieksa.",
+                  "category": "recreational",
+                  "coords": [
+                        30.03316,
+                        63.32351
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     name: { de: "Lieksa", hu: "Lieksa", ro: "Lieksa", en: "Lieksa" },
@@ -723,7 +1452,52 @@ export const finlandCitiesV2: POI[] = [
     image: "/poi-images/finland-lieksa-cities-v2.webp",
   },
   {
-    id: "finland-loimaa-cities-v2",
+    id: "finland-loimaa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mäenpään uimapaikka",
+                  "text": "Mäenpään uimapaikka ist ein Badeplatz bei Loimaa.",
+                  "category": "recreational",
+                  "coords": [
+                        23.072962,
+                        60.847414
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mäenpään uimapaikka",
+                  "text": "Mäenpään uimapaikka egy fürdőhely Loimaa közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        23.072962,
+                        60.847414
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mäenpään uimapaikka",
+                  "text": "Mäenpään uimapaikka este un loc de îmbăiere lângă Loimaa.",
+                  "category": "recreational",
+                  "coords": [
+                        23.072962,
+                        60.847414
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mäenpään uimapaikka",
+                  "text": "Mäenpään uimapaikka is a swimming area near Loimaa.",
+                  "category": "recreational",
+                  "coords": [
+                        23.072962,
+                        60.847414
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     name: { de: "Loimaa", hu: "Loimaa", ro: "Loimaa", en: "Loimaa" },
@@ -768,7 +1542,52 @@ export const finlandCitiesV2: POI[] = [
     image: "/poi-images/finland-loimaa-cities-v2.webp",
   },
   {
-    id: "finland-loviisa-cities-v2",
+    id: "finland-loviisa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Uimaranta Plagen",
+                  "text": "Uimaranta Plagen ist ein Strand in der Nähe von Loviisa.",
+                  "category": "recreational",
+                  "coords": [
+                        26.238775,
+                        60.444186
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Uimaranta Plagen",
+                  "text": "Az Uimaranta Plagen egy strand Loviisa közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        26.238775,
+                        60.444186
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Uimaranta Plagen",
+                  "text": "Uimaranta Plagen este o plajă lângă Loviisa.",
+                  "category": "recreational",
+                  "coords": [
+                        26.238775,
+                        60.444186
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Uimaranta Plagen",
+                  "text": "Uimaranta Plagen is a beach near Loviisa.",
+                  "category": "recreational",
+                  "coords": [
+                        26.238775,
+                        60.444186
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     name: { de: "Loviisa", hu: "Loviisa", ro: "Loviisa", en: "Loviisa" },
@@ -813,7 +1632,88 @@ export const finlandCitiesV2: POI[] = [
     image: "/poi-images/finland-loviisa-cities-v2.webp",
   },
   {
-    id: "finland-mantta-vilppula-cities-v2",
+    id: "finland-mantta-vilppula-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Keskisenlahti uimaranta",
+                  "text": "Ein Strand in Keskisenlahti bei Mänttä-Vilppula.",
+                  "category": "recreational",
+                  "coords": [
+                        24.649247,
+                        62.031905
+                  ]
+            },
+            {
+                  "name": "Tiiliruukin ranta",
+                  "text": "Ein Strand in Tiiliruukki bei Mänttä-Vilppula.",
+                  "category": "recreational",
+                  "coords": [
+                        24.607685,
+                        62.046784
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Keskisenlahti uimaranta",
+                  "text": "Strand Keskisenlahtiban, Mänttä-Vilppula közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        24.649247,
+                        62.031905
+                  ]
+            },
+            {
+                  "name": "Tiiliruukin ranta",
+                  "text": "Strand Tiiliruukkiban, Mänttä-Vilppula közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        24.607685,
+                        62.046784
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Keskisenlahti uimaranta",
+                  "text": "O plajă în Keskisenlahti lângă Mänttä-Vilppula.",
+                  "category": "recreational",
+                  "coords": [
+                        24.649247,
+                        62.031905
+                  ]
+            },
+            {
+                  "name": "Tiiliruukin ranta",
+                  "text": "O plajă în Tiiliruukki lângă Mänttä-Vilppula.",
+                  "category": "recreational",
+                  "coords": [
+                        24.607685,
+                        62.046784
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Keskisenlahti uimaranta",
+                  "text": "A beach in Keskisenlahti near Mänttä-Vilppula.",
+                  "category": "recreational",
+                  "coords": [
+                        24.649247,
+                        62.031905
+                  ]
+            },
+            {
+                  "name": "Tiiliruukin ranta",
+                  "text": "A beach in Tiiliruukki near Mänttä-Vilppula.",
+                  "category": "recreational",
+                  "coords": [
+                        24.607685,
+                        62.046784
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     name: { de: "Mänttä-Vilppula", hu: "Mänttä-Vilppula", ro: "Mänttä-Vilppula", en: "Mänttä-Vilppula" },
@@ -858,7 +1758,88 @@ export const finlandCitiesV2: POI[] = [
     image: "/poi-images/finland-mantta-vilppula-cities-v2.webp",
   },
   {
-    id: "finland-nivala-cities-v2",
+    id: "finland-nivala-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kyläojan uimaranta",
+                  "text": "Kyläojan uimaranta ist ein Strand in Nivala.",
+                  "category": "recreational",
+                  "coords": [
+                        24.942934,
+                        63.917133
+                  ]
+            },
+            {
+                  "name": "Golfkentän maauimala (Vierikankaan uimapaikka)",
+                  "text": "Golfkentän maauimala ist ein Badeplatz in Nivala.",
+                  "category": "recreational",
+                  "coords": [
+                        25.032581,
+                        63.903858
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kyläojan uimaranta",
+                  "text": "Kyläojan uimaranta egy strand Nivala városában.",
+                  "category": "recreational",
+                  "coords": [
+                        24.942934,
+                        63.917133
+                  ]
+            },
+            {
+                  "name": "Golfkentän maauimala (Vierikankaan uimapaikka)",
+                  "text": "Golfkentän maauimala egy fürdőhely Nivala városában.",
+                  "category": "recreational",
+                  "coords": [
+                        25.032581,
+                        63.903858
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kyläojan uimaranta",
+                  "text": "Kyläojan uimaranta este o plajă situată în Nivala.",
+                  "category": "recreational",
+                  "coords": [
+                        24.942934,
+                        63.917133
+                  ]
+            },
+            {
+                  "name": "Golfkentän maauimala (Vierikankaan uimapaikka)",
+                  "text": "Golfkentän maauimala este un loc de îmbăiere situat în Nivala.",
+                  "category": "recreational",
+                  "coords": [
+                        25.032581,
+                        63.903858
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kyläojan uimaranta",
+                  "text": "Kyläojan uimaranta is a beach in Nivala.",
+                  "category": "recreational",
+                  "coords": [
+                        24.942934,
+                        63.917133
+                  ]
+            },
+            {
+                  "name": "Golfkentän maauimala (Vierikankaan uimapaikka)",
+                  "text": "Golfkentän maauimala is a swimming area in Nivala.",
+                  "category": "recreational",
+                  "coords": [
+                        25.032581,
+                        63.903858
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     name: { de: "Nivala", hu: "Nivala", ro: "Nivala", en: "Nivala" },
@@ -903,7 +1884,160 @@ export const finlandCitiesV2: POI[] = [
     image: "/poi-images/finland-nivala-cities-v2.webp",
   },
   {
-    id: "finland-nokkia-cities-v2",
+    id: "finland-nokkia-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kennonnokan uimaranta",
+                  "text": "Strand in Nokia.",
+                  "category": "recreational",
+                  "coords": [
+                        23.540321,
+                        61.482715
+                  ]
+            },
+            {
+                  "name": "Alisenjärven uimaranta",
+                  "text": "Strand in Nokia.",
+                  "category": "recreational",
+                  "coords": [
+                        23.463514,
+                        61.495427
+                  ]
+            },
+            {
+                  "name": "Reipin uimaranta",
+                  "text": "Reipin uimaranta ist ein Strand in der Nähe von Nokia.",
+                  "category": "recreational",
+                  "coords": [
+                        23.551424,
+                        61.449261
+                  ]
+            },
+            {
+                  "name": "Liukuslahden uimaranta",
+                  "text": "Liukuslahden uimaranta ist ein Strand in Nokkia.",
+                  "category": "recreational",
+                  "coords": [
+                        23.497683,
+                        61.452132
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kennonnokan uimaranta",
+                  "text": "Strand Nokiában.",
+                  "category": "recreational",
+                  "coords": [
+                        23.540321,
+                        61.482715
+                  ]
+            },
+            {
+                  "name": "Alisenjärven uimaranta",
+                  "text": "Strand Nokiában.",
+                  "category": "recreational",
+                  "coords": [
+                        23.463514,
+                        61.495427
+                  ]
+            },
+            {
+                  "name": "Reipin uimaranta",
+                  "text": "A Reipin uimaranta egy strand Nokia közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        23.551424,
+                        61.449261
+                  ]
+            },
+            {
+                  "name": "Liukuslahden uimaranta",
+                  "text": "Liukuslahden uimaranta egy strand Nokkia területén.",
+                  "category": "recreational",
+                  "coords": [
+                        23.497683,
+                        61.452132
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kennonnokan uimaranta",
+                  "text": "Plajă în Nokia.",
+                  "category": "recreational",
+                  "coords": [
+                        23.540321,
+                        61.482715
+                  ]
+            },
+            {
+                  "name": "Alisenjärven uimaranta",
+                  "text": "Plajă în Nokia.",
+                  "category": "recreational",
+                  "coords": [
+                        23.463514,
+                        61.495427
+                  ]
+            },
+            {
+                  "name": "Reipin uimaranta",
+                  "text": "Reipin uimaranta este o plajă lângă Nokia.",
+                  "category": "recreational",
+                  "coords": [
+                        23.551424,
+                        61.449261
+                  ]
+            },
+            {
+                  "name": "Liukuslahden uimaranta",
+                  "text": "Liukuslahden uimaranta este o plajă situată în Nokkia.",
+                  "category": "recreational",
+                  "coords": [
+                        23.497683,
+                        61.452132
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kennonnokan uimaranta",
+                  "text": "Beach in Nokia.",
+                  "category": "recreational",
+                  "coords": [
+                        23.540321,
+                        61.482715
+                  ]
+            },
+            {
+                  "name": "Alisenjärven uimaranta",
+                  "text": "Beach in Nokia.",
+                  "category": "recreational",
+                  "coords": [
+                        23.463514,
+                        61.495427
+                  ]
+            },
+            {
+                  "name": "Reipin uimaranta",
+                  "text": "Reipin uimaranta is a beach near Nokia.",
+                  "category": "recreational",
+                  "coords": [
+                        23.551424,
+                        61.449261
+                  ]
+            },
+            {
+                  "name": "Liukuslahden uimaranta",
+                  "text": "Liukuslahden uimaranta is a beach in Nokkia.",
+                  "category": "recreational",
+                  "coords": [
+                        23.497683,
+                        61.452132
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     name: { de: "Nokia", hu: "Nokia", ro: "Nokia", en: "Nokia" },
@@ -993,7 +2127,124 @@ export const finlandCitiesV2: POI[] = [
     image: "/poi-images/finland-orimattila-cities-v2.webp",
   },
   {
-    id: "finland-otepaa-cities-v2",
+    id: "finland-otepaa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hiedan uimaranta",
+                  "text": "Strand in der Nähe von Otepää.",
+                  "category": "recreational",
+                  "coords": [
+                        24.35742,
+                        61.640238
+                  ]
+            },
+            {
+                  "name": "Nihuan uimala",
+                  "text": "Nihuan uimala ist ein Strand in der Nähe von Otepaa.",
+                  "category": "recreational",
+                  "coords": [
+                        24.365371,
+                        61.700065
+                  ]
+            },
+            {
+                  "name": "Kirkkolahden uimala",
+                  "text": "Badestrand bei Otepää.",
+                  "category": "recreational",
+                  "coords": [
+                        24.361753,
+                        61.671338
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hiedan uimaranta",
+                  "text": "Strand Otepää közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        24.35742,
+                        61.640238
+                  ]
+            },
+            {
+                  "name": "Nihuan uimala",
+                  "text": "A Nihuan uimala egy strand Otepaa közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        24.365371,
+                        61.700065
+                  ]
+            },
+            {
+                  "name": "Kirkkolahden uimala",
+                  "text": "Strand Otepää közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        24.361753,
+                        61.671338
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hiedan uimaranta",
+                  "text": "Plajă lângă Otepää.",
+                  "category": "recreational",
+                  "coords": [
+                        24.35742,
+                        61.640238
+                  ]
+            },
+            {
+                  "name": "Nihuan uimala",
+                  "text": "Nihuan uimala este o plajă lângă Otepaa.",
+                  "category": "recreational",
+                  "coords": [
+                        24.365371,
+                        61.700065
+                  ]
+            },
+            {
+                  "name": "Kirkkolahden uimala",
+                  "text": "Plajă lângă Otepää.",
+                  "category": "recreational",
+                  "coords": [
+                        24.361753,
+                        61.671338
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hiedan uimaranta",
+                  "text": "Beach near Otepää.",
+                  "category": "recreational",
+                  "coords": [
+                        24.35742,
+                        61.640238
+                  ]
+            },
+            {
+                  "name": "Nihuan uimala",
+                  "text": "Nihuan uimala is a beach near Otepaa.",
+                  "category": "recreational",
+                  "coords": [
+                        24.365371,
+                        61.700065
+                  ]
+            },
+            {
+                  "name": "Kirkkolahden uimala",
+                  "text": "Beach near Otepää.",
+                  "category": "recreational",
+                  "coords": [
+                        24.361753,
+                        61.671338
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     name: { de: "Orivesi", hu: "Orivesi", ro: "Orivesi", en: "Orivesi" },
@@ -1038,7 +2289,52 @@ export const finlandCitiesV2: POI[] = [
     image: "/poi-images/finland-otepaa-cities-v2.webp",
   },
   {
-    id: "finland-paimio-cities-v2",
+    id: "finland-paimio-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hiekkahelmi",
+                  "text": "Hiekkahelmi ist ein Strand in Paimio.",
+                  "category": "recreational",
+                  "coords": [
+                        22.695684,
+                        60.416681
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hiekkahelmi",
+                  "text": "A Hiekkahelmi egy strand Paimióban.",
+                  "category": "recreational",
+                  "coords": [
+                        22.695684,
+                        60.416681
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hiekkahelmi",
+                  "text": "Hiekkahelmi este o plajă în Paimio.",
+                  "category": "recreational",
+                  "coords": [
+                        22.695684,
+                        60.416681
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hiekkahelmi",
+                  "text": "Hiekkahelmi is a beach in Paimio.",
+                  "category": "recreational",
+                  "coords": [
+                        22.695684,
+                        60.416681
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     name: { de: "Paimio", hu: "Paimio", ro: "Paimio", en: "Paimio" },
@@ -1083,7 +2379,160 @@ export const finlandCitiesV2: POI[] = [
     image: "/poi-images/finland-paimio-cities-v2.webp",
   },
   {
-    id: "finland-parainen-cities-v2",
+    id: "finland-parainen-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Norrby badstrand",
+                  "text": "Strand in Parainen.",
+                  "category": "recreational",
+                  "coords": [
+                        22.300331,
+                        60.317004
+                  ]
+            },
+            {
+                  "name": "Kalkholmens badplats",
+                  "text": "Strand in Parainen.",
+                  "category": "recreational",
+                  "coords": [
+                        22.303224,
+                        60.296815
+                  ]
+            },
+            {
+                  "name": "Hundstrand Tassnäs",
+                  "text": "Hundestrand in Parainen.",
+                  "category": "recreational",
+                  "coords": [
+                        22.297683,
+                        60.314276
+                  ]
+            },
+            {
+                  "name": "Bläsnäs badstrand",
+                  "text": "Badestrand in Parainen.",
+                  "category": "recreational",
+                  "coords": [
+                        22.296163,
+                        60.313418
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Norrby badstrand",
+                  "text": "Strand Parainenban.",
+                  "category": "recreational",
+                  "coords": [
+                        22.300331,
+                        60.317004
+                  ]
+            },
+            {
+                  "name": "Kalkholmens badplats",
+                  "text": "Strand Parainenban.",
+                  "category": "recreational",
+                  "coords": [
+                        22.303224,
+                        60.296815
+                  ]
+            },
+            {
+                  "name": "Hundstrand Tassnäs",
+                  "text": "Kutyás strand Parainenban.",
+                  "category": "recreational",
+                  "coords": [
+                        22.297683,
+                        60.314276
+                  ]
+            },
+            {
+                  "name": "Bläsnäs badstrand",
+                  "text": "Fürdőstrand Parainenban.",
+                  "category": "recreational",
+                  "coords": [
+                        22.296163,
+                        60.313418
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Norrby badstrand",
+                  "text": "Plajă în Parainen.",
+                  "category": "recreational",
+                  "coords": [
+                        22.300331,
+                        60.317004
+                  ]
+            },
+            {
+                  "name": "Kalkholmens badplats",
+                  "text": "Plajă în Parainen.",
+                  "category": "recreational",
+                  "coords": [
+                        22.303224,
+                        60.296815
+                  ]
+            },
+            {
+                  "name": "Hundstrand Tassnäs",
+                  "text": "Plajă pentru câini în Parainen.",
+                  "category": "recreational",
+                  "coords": [
+                        22.297683,
+                        60.314276
+                  ]
+            },
+            {
+                  "name": "Bläsnäs badstrand",
+                  "text": "Plajă de înot în Parainen.",
+                  "category": "recreational",
+                  "coords": [
+                        22.296163,
+                        60.313418
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Norrby badstrand",
+                  "text": "Beach in Parainen.",
+                  "category": "recreational",
+                  "coords": [
+                        22.300331,
+                        60.317004
+                  ]
+            },
+            {
+                  "name": "Kalkholmens badplats",
+                  "text": "Beach in Parainen.",
+                  "category": "recreational",
+                  "coords": [
+                        22.303224,
+                        60.296815
+                  ]
+            },
+            {
+                  "name": "Hundstrand Tassnäs",
+                  "text": "Dog beach in Parainen.",
+                  "category": "recreational",
+                  "coords": [
+                        22.297683,
+                        60.314276
+                  ]
+            },
+            {
+                  "name": "Bläsnäs badstrand",
+                  "text": "Swimming beach in Parainen.",
+                  "category": "recreational",
+                  "coords": [
+                        22.296163,
+                        60.313418
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     name: { de: "Parainen", hu: "Parainen", ro: "Parainen", en: "Parainen" },
@@ -1128,7 +2577,52 @@ export const finlandCitiesV2: POI[] = [
     image: "/poi-images/finland-parainen-cities-v2.webp",
   },
   {
-    id: "finland-parkano-cities-v2",
+    id: "finland-parkano-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Terveystalon uimaranta",
+                  "text": "Badestrand Terveystalon in Parkano.",
+                  "category": "recreational",
+                  "coords": [
+                        23.010218,
+                        62.014266
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Terveystalon uimaranta",
+                  "text": "Terveystalon strand Pankanóban.",
+                  "category": "recreational",
+                  "coords": [
+                        23.010218,
+                        62.014266
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Terveystalon uimaranta",
+                  "text": "Plaja Terveystalon din Parkano.",
+                  "category": "recreational",
+                  "coords": [
+                        23.010218,
+                        62.014266
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Terveystalon uimaranta",
+                  "text": "Terveystalon beach in Parkano.",
+                  "category": "recreational",
+                  "coords": [
+                        23.010218,
+                        62.014266
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     name: { de: "Parkano", hu: "Parkano", ro: "Parkano", en: "Parkano" },
@@ -1173,7 +2667,52 @@ export const finlandCitiesV2: POI[] = [
     image: "/poi-images/finland-parkano-cities-v2.webp",
   },
   {
-    id: "finland-pieksamaki-cities-v2",
+    id: "finland-pieksamaki-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Toikanniemi",
+                  "text": "Toikanniemi ist ein Strand bei Pieksämäki.",
+                  "category": "recreational",
+                  "coords": [
+                        27.155792,
+                        62.304778
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Toikanniemi",
+                  "text": "A Toikanniemi egy strand Pieksämäki közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        27.155792,
+                        62.304778
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Toikanniemi",
+                  "text": "Toikanniemi este o plajă lângă Pieksämäki.",
+                  "category": "recreational",
+                  "coords": [
+                        27.155792,
+                        62.304778
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Toikanniemi",
+                  "text": "Toikanniemi is a beach near Pieksämäki.",
+                  "category": "recreational",
+                  "coords": [
+                        27.155792,
+                        62.304778
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     name: { de: "Pieksämäki", hu: "Pieksämäki", ro: "Pieksämäki", en: "Pieksämäki" },
@@ -1218,7 +2757,52 @@ export const finlandCitiesV2: POI[] = [
     image: "/poi-images/finland-pieksamaki-cities-v2.webp",
   },
   {
-    id: "finland-pietarsaari-cities-v2",
+    id: "finland-pietarsaari-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kittholmen",
+                  "text": "Strand in Pietarsaari.",
+                  "category": "recreational",
+                  "coords": [
+                        22.689847,
+                        63.688205
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kittholmen",
+                  "text": "Strand Pietarsaariban.",
+                  "category": "recreational",
+                  "coords": [
+                        22.689847,
+                        63.688205
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kittholmen",
+                  "text": "Plajă în Pietarsaari.",
+                  "category": "recreational",
+                  "coords": [
+                        22.689847,
+                        63.688205
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kittholmen",
+                  "text": "Beach in Pietarsaari.",
+                  "category": "recreational",
+                  "coords": [
+                        22.689847,
+                        63.688205
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     name: { de: "Pietarsaari", hu: "Pietarsaari", ro: "Pietarsaari", en: "Pietarsaari" },
@@ -1353,7 +2937,88 @@ export const finlandCitiesV2: POI[] = [
     image: "/poi-images/finland-pyhajarvi-cities-v2.webp",
   },
   {
-    id: "finland-raahe-cities-v2",
+    id: "finland-raahe-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Oravajärven uimaranta",
+                  "text": "Oravajärven uimaranta ist ein Strand in der Nähe von Raahe.",
+                  "category": "recreational",
+                  "coords": [
+                        24.474888,
+                        64.657737
+                  ]
+            },
+            {
+                  "name": "Varvin uimaranta",
+                  "text": "Varvin uimaranta ist ein Strand in Raahe.",
+                  "category": "recreational",
+                  "coords": [
+                        24.448745,
+                        64.676421
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Oravajärven uimaranta",
+                  "text": "Az Oravajärven uimaranta egy strand Raahe közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        24.474888,
+                        64.657737
+                  ]
+            },
+            {
+                  "name": "Varvin uimaranta",
+                  "text": "A Varvin uimaranta egy strand Raahéban.",
+                  "category": "recreational",
+                  "coords": [
+                        24.448745,
+                        64.676421
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Oravajärven uimaranta",
+                  "text": "Oravajärven uimaranta este o plajă lângă Raahe.",
+                  "category": "recreational",
+                  "coords": [
+                        24.474888,
+                        64.657737
+                  ]
+            },
+            {
+                  "name": "Varvin uimaranta",
+                  "text": "Varvin uimaranta este o plajă în Raahe.",
+                  "category": "recreational",
+                  "coords": [
+                        24.448745,
+                        64.676421
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Oravajärven uimaranta",
+                  "text": "Oravajärven uimaranta is a beach near Raahe.",
+                  "category": "recreational",
+                  "coords": [
+                        24.474888,
+                        64.657737
+                  ]
+            },
+            {
+                  "name": "Varvin uimaranta",
+                  "text": "Varvin uimaranta is a beach in Raahe.",
+                  "category": "recreational",
+                  "coords": [
+                        24.448745,
+                        64.676421
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     name: { de: "Raahe", hu: "Raahe", ro: "Raahe", en: "Raahe" },
@@ -1443,7 +3108,124 @@ export const finlandCitiesV2: POI[] = [
     image: "/poi-images/finland-raisio-cities-v2.webp",
   },
   {
-    id: "finland-raasepori-cities-v2",
+    id: "finland-raasepori-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Knipans badstrand",
+                  "text": "Knipans badstrand liegt in Raasepori.",
+                  "category": "recreational",
+                  "coords": [
+                        23.430304,
+                        59.975807
+                  ]
+            },
+            {
+                  "name": "Hvassbukstorget",
+                  "text": "Öffentlicher Platz am Wasser in Raasepori.",
+                  "category": "recreational",
+                  "coords": [
+                        23.430287,
+                        59.97149
+                  ]
+            },
+            {
+                  "name": "Badstrand för hundar",
+                  "text": "Hundestrand in Raasepori.",
+                  "category": "recreational",
+                  "coords": [
+                        23.429468,
+                        59.974241
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Knipans badstrand",
+                  "text": "Knipans badstrand Raasepori városában található.",
+                  "category": "recreational",
+                  "coords": [
+                        23.430304,
+                        59.975807
+                  ]
+            },
+            {
+                  "name": "Hvassbukstorget",
+                  "text": "Nyilvános vízparti tér Raaseporiban.",
+                  "category": "recreational",
+                  "coords": [
+                        23.430287,
+                        59.97149
+                  ]
+            },
+            {
+                  "name": "Badstrand för hundar",
+                  "text": "Kutyás strand Raaseporiban.",
+                  "category": "recreational",
+                  "coords": [
+                        23.429468,
+                        59.974241
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Knipans badstrand",
+                  "text": "Knipans badstrand se află în Raasepori.",
+                  "category": "recreational",
+                  "coords": [
+                        23.430304,
+                        59.975807
+                  ]
+            },
+            {
+                  "name": "Hvassbukstorget",
+                  "text": "Piață publică la apă în Raasepori.",
+                  "category": "recreational",
+                  "coords": [
+                        23.430287,
+                        59.97149
+                  ]
+            },
+            {
+                  "name": "Badstrand för hundar",
+                  "text": "Plajă pentru câini în Raasepori.",
+                  "category": "recreational",
+                  "coords": [
+                        23.429468,
+                        59.974241
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Knipans badstrand",
+                  "text": "Knipans badstrand is located in Raasepori.",
+                  "category": "recreational",
+                  "coords": [
+                        23.430304,
+                        59.975807
+                  ]
+            },
+            {
+                  "name": "Hvassbukstorget",
+                  "text": "Public waterfront area in Raasepori.",
+                  "category": "recreational",
+                  "coords": [
+                        23.430287,
+                        59.97149
+                  ]
+            },
+            {
+                  "name": "Badstrand för hundar",
+                  "text": "Dog beach in Raasepori.",
+                  "category": "recreational",
+                  "coords": [
+                        23.429468,
+                        59.974241
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     name: { de: "Raasepori", hu: "Raasepori", ro: "Raasepori", en: "Raasepori" },
@@ -1578,7 +3360,52 @@ export const finlandCitiesV2: POI[] = [
     image: "/poi-images/finland-salo-cities-v2.webp",
   },
   {
-    id: "finland-sastamala-cities-v2",
+    id: "finland-sastamala-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Patakallio (Uimapaikka)",
+                  "text": "Patakallio ist ein Badeplatz in Sastamala.",
+                  "category": "recreational",
+                  "coords": [
+                        22.949209,
+                        61.337761
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Patakallio (Uimapaikka)",
+                  "text": "A Patakallio egy fürdőhely Sastamalában.",
+                  "category": "recreational",
+                  "coords": [
+                        22.949209,
+                        61.337761
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Patakallio (Uimapaikka)",
+                  "text": "Patakallio este un loc de scăldat în Sastamala.",
+                  "category": "recreational",
+                  "coords": [
+                        22.949209,
+                        61.337761
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Patakallio (Uimapaikka)",
+                  "text": "Patakallio is a bathing place in Sastamala.",
+                  "category": "recreational",
+                  "coords": [
+                        22.949209,
+                        61.337761
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     name: { de: "Sastamala", hu: "Sastamala", ro: "Sastamala", en: "Sastamala" },
@@ -1758,7 +3585,88 @@ export const finlandCitiesV2: POI[] = [
     image: "/poi-images/finland-taival-cities-v2.webp",
   },
   {
-    id: "finland-tampere-v2-cities-v2",
+    id: "finland-tampere-v2-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kaupinojan uimaranta",
+                  "text": "Kaupinojan uimaranta ist ein Strand in Tampere.",
+                  "category": "recreational",
+                  "coords": [
+                        23.802735,
+                        61.514345
+                  ]
+            },
+            {
+                  "name": "Rauhaniemen uimaranta",
+                  "text": "Beliebter öffentlicher Strand in Rauhaniemi bei Tampere.",
+                  "category": "recreational",
+                  "coords": [
+                        23.785913,
+                        61.51541
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kaupinojan uimaranta",
+                  "text": "Kaupinojan uimaranta egy strand Tampere városában.",
+                  "category": "recreational",
+                  "coords": [
+                        23.802735,
+                        61.514345
+                  ]
+            },
+            {
+                  "name": "Rauhaniemen uimaranta",
+                  "text": "Népszerű nyilvános strand Rauhaniemi-ben, Tampere közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        23.785913,
+                        61.51541
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kaupinojan uimaranta",
+                  "text": "Kaupinojan uimaranta este o plajă în Tampere.",
+                  "category": "recreational",
+                  "coords": [
+                        23.802735,
+                        61.514345
+                  ]
+            },
+            {
+                  "name": "Rauhaniemen uimaranta",
+                  "text": "Plajă publică populară în Rauhaniemi, lângă Tampere.",
+                  "category": "recreational",
+                  "coords": [
+                        23.785913,
+                        61.51541
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kaupinojan uimaranta",
+                  "text": "Kaupinojan uimaranta is a beach in Tampere.",
+                  "category": "recreational",
+                  "coords": [
+                        23.802735,
+                        61.514345
+                  ]
+            },
+            {
+                  "name": "Rauhaniemen uimaranta",
+                  "text": "Popular public beach in Rauhaniemi near Tampere.",
+                  "category": "recreational",
+                  "coords": [
+                        23.785913,
+                        61.51541
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     name: { de: "Tampere Vorstadt", hu: "Tampere előváros", ro: "Suburbia Tampere", en: "Tampere suburbs" },
@@ -1803,7 +3711,196 @@ export const finlandCitiesV2: POI[] = [
     image: "/poi-images/finland-tampere-v2-cities-v2.webp",
   },
   {
-    id: "finland-tornio-cities-v2",
+    id: "finland-tornio-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kivirannan uimaranta",
+                  "text": "Strand in Tornio.",
+                  "category": "recreational",
+                  "coords": [
+                        24.162391,
+                        65.857373
+                  ]
+            },
+            {
+                  "name": "Kallioputaan uimaranta",
+                  "text": "Strand in Tornio.",
+                  "category": "recreational",
+                  "coords": [
+                        24.201155,
+                        65.829702
+                  ]
+            },
+            {
+                  "name": "Uiton uimaranta",
+                  "text": "Strand in Tornio.",
+                  "category": "recreational",
+                  "coords": [
+                        24.14623,
+                        65.861209
+                  ]
+            },
+            {
+                  "name": "Näätsaaren uimaranta",
+                  "text": "Näätsaaren Strand liegt in der Stadt Tornio.",
+                  "category": "recreational",
+                  "coords": [
+                        24.161075,
+                        65.814976
+                  ]
+            },
+            {
+                  "name": "Pikisaaren uimaranta",
+                  "text": "Pikisaaren uimaranta ist ein Strand in der Nähe von Tornio.",
+                  "category": "recreational",
+                  "coords": [
+                        24.155999,
+                        65.850103
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kivirannan uimaranta",
+                  "text": "Strand Tornióban.",
+                  "category": "recreational",
+                  "coords": [
+                        24.162391,
+                        65.857373
+                  ]
+            },
+            {
+                  "name": "Kallioputaan uimaranta",
+                  "text": "Strand Tornióban.",
+                  "category": "recreational",
+                  "coords": [
+                        24.201155,
+                        65.829702
+                  ]
+            },
+            {
+                  "name": "Uiton uimaranta",
+                  "text": "Strand Tornióban.",
+                  "category": "recreational",
+                  "coords": [
+                        24.14623,
+                        65.861209
+                  ]
+            },
+            {
+                  "name": "Näätsaaren uimaranta",
+                  "text": "Näätsaaren strandja Tornio városában található.",
+                  "category": "recreational",
+                  "coords": [
+                        24.161075,
+                        65.814976
+                  ]
+            },
+            {
+                  "name": "Pikisaaren uimaranta",
+                  "text": "A Pikisaaren uimaranta egy strand Tornio közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        24.155999,
+                        65.850103
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kivirannan uimaranta",
+                  "text": "Plajă în Tornio.",
+                  "category": "recreational",
+                  "coords": [
+                        24.162391,
+                        65.857373
+                  ]
+            },
+            {
+                  "name": "Kallioputaan uimaranta",
+                  "text": "Plajă în Tornio.",
+                  "category": "recreational",
+                  "coords": [
+                        24.201155,
+                        65.829702
+                  ]
+            },
+            {
+                  "name": "Uiton uimaranta",
+                  "text": "Plajă în Tornio.",
+                  "category": "recreational",
+                  "coords": [
+                        24.14623,
+                        65.861209
+                  ]
+            },
+            {
+                  "name": "Näätsaaren uimaranta",
+                  "text": "Plaja Näätsaaren este situată în orașul Tornio.",
+                  "category": "recreational",
+                  "coords": [
+                        24.161075,
+                        65.814976
+                  ]
+            },
+            {
+                  "name": "Pikisaaren uimaranta",
+                  "text": "Pikisaaren uimaranta este o plajă lângă Tornio.",
+                  "category": "recreational",
+                  "coords": [
+                        24.155999,
+                        65.850103
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kivirannan uimaranta",
+                  "text": "Beach in Tornio.",
+                  "category": "recreational",
+                  "coords": [
+                        24.162391,
+                        65.857373
+                  ]
+            },
+            {
+                  "name": "Kallioputaan uimaranta",
+                  "text": "Beach in Tornio.",
+                  "category": "recreational",
+                  "coords": [
+                        24.201155,
+                        65.829702
+                  ]
+            },
+            {
+                  "name": "Uiton uimaranta",
+                  "text": "Beach in Tornio.",
+                  "category": "recreational",
+                  "coords": [
+                        24.14623,
+                        65.861209
+                  ]
+            },
+            {
+                  "name": "Näätsaaren uimaranta",
+                  "text": "Näätsaaren beach is located in the town of Tornio.",
+                  "category": "recreational",
+                  "coords": [
+                        24.161075,
+                        65.814976
+                  ]
+            },
+            {
+                  "name": "Pikisaaren uimaranta",
+                  "text": "Pikisaaren uimaranta is a beach near Tornio.",
+                  "category": "recreational",
+                  "coords": [
+                        24.155999,
+                        65.850103
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     name: { de: "Tornio", hu: "Tornio", ro: "Tornio", en: "Tornio" },
@@ -1848,7 +3945,52 @@ export const finlandCitiesV2: POI[] = [
     image: "/poi-images/finland-tornio-cities-v2.webp",
   },
   {
-    id: "finland-tuusula-cities-v2",
+    id: "finland-tuusula-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rusutjärven uimaranta",
+                  "text": "Rusutjärven uimaranta ist ein Strand in Tuusula.",
+                  "category": "recreational",
+                  "coords": [
+                        24.988509,
+                        60.429932
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rusutjärven uimaranta",
+                  "text": "Rusutjärven uimaranta egy strand Tuusula városában.",
+                  "category": "recreational",
+                  "coords": [
+                        24.988509,
+                        60.429932
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rusutjärven uimaranta",
+                  "text": "Rusutjärven uimaranta este o plajă situată în Tuusula.",
+                  "category": "recreational",
+                  "coords": [
+                        24.988509,
+                        60.429932
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rusutjärven uimaranta",
+                  "text": "Rusutjärven uimaranta is a beach in Tuusula.",
+                  "category": "recreational",
+                  "coords": [
+                        24.988509,
+                        60.429932
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     name: { de: "Tuusula", hu: "Tuusula", ro: "Tuusula", en: "Tuusula" },
@@ -1893,7 +4035,52 @@ export const finlandCitiesV2: POI[] = [
     image: "/poi-images/finland-tuusula-cities-v2.webp",
   },
   {
-    id: "finland-ulvila-cities-v2",
+    id: "finland-ulvila-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Naparannan uimaranta",
+                  "text": "Badeplatz an der Landzunge Naparanta in Ulvila.",
+                  "category": "recreational",
+                  "coords": [
+                        21.880763,
+                        61.435017
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Naparannan uimaranta",
+                  "text": "Fürdőhely a Naparanta-foknál, Ulvila városában.",
+                  "category": "recreational",
+                  "coords": [
+                        21.880763,
+                        61.435017
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Naparannan uimaranta",
+                  "text": "Loc de scăldat la promontoriul Naparanta din Ulvila.",
+                  "category": "recreational",
+                  "coords": [
+                        21.880763,
+                        61.435017
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Naparannan uimaranta",
+                  "text": "Bathing spot at the Naparanta headland in Ulvila.",
+                  "category": "recreational",
+                  "coords": [
+                        21.880763,
+                        61.435017
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     name: { de: "Ulvila", hu: "Ulvila", ro: "Ulvila", en: "Ulvila" },
@@ -2028,7 +4215,88 @@ export const finlandCitiesV2: POI[] = [
     image: "/poi-images/finland-uusikaarlepyy-cities-v2.webp",
   },
   {
-    id: "finland-uusikaupunki-cities-v2",
+    id: "finland-uusikaupunki-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Santtionranta",
+                  "text": "Santtionranta ist ein Strand in Uusikaupunki.",
+                  "category": "recreational",
+                  "coords": [
+                        21.395831,
+                        60.809526
+                  ]
+            },
+            {
+                  "name": "Hiun uimaranta",
+                  "text": "Hiun uimaranta ist ein Strand in Uusikaupunki.",
+                  "category": "recreational",
+                  "coords": [
+                        21.391492,
+                        60.823977
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Santtionranta",
+                  "text": "A Santtionranta egy strand Uusikaupunki városában.",
+                  "category": "recreational",
+                  "coords": [
+                        21.395831,
+                        60.809526
+                  ]
+            },
+            {
+                  "name": "Hiun uimaranta",
+                  "text": "A Hiun uimaranta egy strand Uusikaupunki városában.",
+                  "category": "recreational",
+                  "coords": [
+                        21.391492,
+                        60.823977
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Santtionranta",
+                  "text": "Santtionranta este o plajă în Uusikaupunki.",
+                  "category": "recreational",
+                  "coords": [
+                        21.395831,
+                        60.809526
+                  ]
+            },
+            {
+                  "name": "Hiun uimaranta",
+                  "text": "Hiun uimaranta este o plajă în Uusikaupunki.",
+                  "category": "recreational",
+                  "coords": [
+                        21.391492,
+                        60.823977
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Santtionranta",
+                  "text": "Santtionranta is a beach in Uusikaupunki.",
+                  "category": "recreational",
+                  "coords": [
+                        21.395831,
+                        60.809526
+                  ]
+            },
+            {
+                  "name": "Hiun uimaranta",
+                  "text": "Hiun uimaranta is a beach in Uusikaupunki.",
+                  "category": "recreational",
+                  "coords": [
+                        21.391492,
+                        60.823977
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     name: { de: "Uusikaupunki", hu: "Uusikaupunki", ro: "Uusikaupunki", en: "Uusikaupunki" },
@@ -2163,7 +4431,124 @@ export const finlandCitiesV2: POI[] = [
     image: "/poi-images/finland-viitasaari-cities-v2.webp",
   },
   {
-    id: "finland-vimpeli-cities-v2",
+    id: "finland-vimpeli-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lakaniemen uimaranta",
+                  "text": "Lakaniemen uimaranta ist ein Strand in Vimpeli.",
+                  "category": "recreational",
+                  "coords": [
+                        23.792609,
+                        63.112772
+                  ]
+            },
+            {
+                  "name": "Lypsinmaan uimapaikka",
+                  "text": "Lypsinmaan uimapaikka ist ein Badeplatz in Vimpeli.",
+                  "category": "recreational",
+                  "coords": [
+                        23.770886,
+                        63.16349
+                  ]
+            },
+            {
+                  "name": "Sahin uimaranta",
+                  "text": "Sahin uimaranta ist ein Strand in Vimpeli.",
+                  "category": "recreational",
+                  "coords": [
+                        23.771405,
+                        63.180794
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lakaniemen uimaranta",
+                  "text": "A Lakaniemen uimaranta egy strand Vimpeliben.",
+                  "category": "recreational",
+                  "coords": [
+                        23.792609,
+                        63.112772
+                  ]
+            },
+            {
+                  "name": "Lypsinmaan uimapaikka",
+                  "text": "A Lypsinmaan uimapaikka egy fürdőhely Vimpeliben.",
+                  "category": "recreational",
+                  "coords": [
+                        23.770886,
+                        63.16349
+                  ]
+            },
+            {
+                  "name": "Sahin uimaranta",
+                  "text": "A Sahin uimaranta egy strand Vimpeliben.",
+                  "category": "recreational",
+                  "coords": [
+                        23.771405,
+                        63.180794
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lakaniemen uimaranta",
+                  "text": "Lakaniemen uimaranta este o plajă în Vimpeli.",
+                  "category": "recreational",
+                  "coords": [
+                        23.792609,
+                        63.112772
+                  ]
+            },
+            {
+                  "name": "Lypsinmaan uimapaikka",
+                  "text": "Lypsinmaan uimapaikka este un loc de îmbăiere în Vimpeli.",
+                  "category": "recreational",
+                  "coords": [
+                        23.770886,
+                        63.16349
+                  ]
+            },
+            {
+                  "name": "Sahin uimaranta",
+                  "text": "Sahin uimaranta este o plajă în Vimpeli.",
+                  "category": "recreational",
+                  "coords": [
+                        23.771405,
+                        63.180794
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lakaniemen uimaranta",
+                  "text": "Lakaniemen uimaranta is a beach in Vimpeli.",
+                  "category": "recreational",
+                  "coords": [
+                        23.792609,
+                        63.112772
+                  ]
+            },
+            {
+                  "name": "Lypsinmaan uimapaikka",
+                  "text": "Lypsinmaan uimapaikka is a swimming spot in Vimpeli.",
+                  "category": "recreational",
+                  "coords": [
+                        23.770886,
+                        63.16349
+                  ]
+            },
+            {
+                  "name": "Sahin uimaranta",
+                  "text": "Sahin uimaranta is a beach in Vimpeli.",
+                  "category": "recreational",
+                  "coords": [
+                        23.771405,
+                        63.180794
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     name: { de: "Vimpeli", hu: "Vimpeli", ro: "Vimpeli", en: "Vimpeli" },
@@ -2208,7 +4593,52 @@ export const finlandCitiesV2: POI[] = [
     image: "/poi-images/finland-vimpeli-cities-v2.webp",
   },
   {
-    id: "finland-virrat-cities-v2",
+    id: "finland-virrat-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Keskustan ranta",
+                  "text": "Strand im Stadtzentrum von Virrat.",
+                  "category": "recreational",
+                  "coords": [
+                        23.754202,
+                        62.238664
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Keskustan ranta",
+                  "text": "Strand Virrat központjában.",
+                  "category": "recreational",
+                  "coords": [
+                        23.754202,
+                        62.238664
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Keskustan ranta",
+                  "text": "Plajă în centrul orașului Virrat.",
+                  "category": "recreational",
+                  "coords": [
+                        23.754202,
+                        62.238664
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Keskustan ranta",
+                  "text": "Beach in Virrat town center.",
+                  "category": "recreational",
+                  "coords": [
+                        23.754202,
+                        62.238664
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     name: { de: "Virrat", hu: "Virrat", ro: "Virrat", en: "Virrat" },
@@ -2253,7 +4683,160 @@ export const finlandCitiesV2: POI[] = [
     image: "/poi-images/finland-virrat-cities-v2.webp",
   },
   {
-    id: "finland-ylojarvi-cities-v2",
+    id: "finland-ylojarvi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Aronranta",
+                  "text": "Aronranta ist ein Strand in der Nähe von Ylöjärvi.",
+                  "category": "recreational",
+                  "coords": [
+                        23.600791,
+                        61.552322
+                  ]
+            },
+            {
+                  "name": "Tesomajärvi-Ikuri",
+                  "text": "Tesomajärvi-Ikuri liegt in der Nähe von Ylöjärvi.",
+                  "category": "recreational",
+                  "coords": [
+                        23.610893,
+                        61.508624
+                  ]
+            },
+            {
+                  "name": "Ryydynpohjan uimaranta",
+                  "text": "Ein lokaler Strand in der Nähe von Ylöjärvi.",
+                  "category": "recreational",
+                  "coords": [
+                        23.659827,
+                        61.53075
+                  ]
+            },
+            {
+                  "name": "Räikänranta",
+                  "text": "Räikänranta ist ein Strand in Ylöjärvi.",
+                  "category": "recreational",
+                  "coords": [
+                        23.601128,
+                        61.557988
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Aronranta",
+                  "text": "Aronranta egy strand Ylöjärvi közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        23.600791,
+                        61.552322
+                  ]
+            },
+            {
+                  "name": "Tesomajärvi-Ikuri",
+                  "text": "Tesomajärvi-Ikuri Ylöjärvi közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        23.610893,
+                        61.508624
+                  ]
+            },
+            {
+                  "name": "Ryydynpohjan uimaranta",
+                  "text": "Helyi strand Ylöjärvi közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        23.659827,
+                        61.53075
+                  ]
+            },
+            {
+                  "name": "Räikänranta",
+                  "text": "Räikänranta egy strand Ylöjärvi városában.",
+                  "category": "recreational",
+                  "coords": [
+                        23.601128,
+                        61.557988
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Aronranta",
+                  "text": "Aronranta este o plajă lângă Ylöjärvi.",
+                  "category": "recreational",
+                  "coords": [
+                        23.600791,
+                        61.552322
+                  ]
+            },
+            {
+                  "name": "Tesomajärvi-Ikuri",
+                  "text": "Tesomajärvi-Ikuri se află lângă Ylöjärvi.",
+                  "category": "recreational",
+                  "coords": [
+                        23.610893,
+                        61.508624
+                  ]
+            },
+            {
+                  "name": "Ryydynpohjan uimaranta",
+                  "text": "O plajă locală lângă Ylöjärvi.",
+                  "category": "recreational",
+                  "coords": [
+                        23.659827,
+                        61.53075
+                  ]
+            },
+            {
+                  "name": "Räikänranta",
+                  "text": "Räikänranta este o plajă situată în Ylöjärvi.",
+                  "category": "recreational",
+                  "coords": [
+                        23.601128,
+                        61.557988
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Aronranta",
+                  "text": "Aronranta is a beach near Ylöjärvi.",
+                  "category": "recreational",
+                  "coords": [
+                        23.600791,
+                        61.552322
+                  ]
+            },
+            {
+                  "name": "Tesomajärvi-Ikuri",
+                  "text": "Tesomajärvi-Ikuri is near Ylöjärvi.",
+                  "category": "recreational",
+                  "coords": [
+                        23.610893,
+                        61.508624
+                  ]
+            },
+            {
+                  "name": "Ryydynpohjan uimaranta",
+                  "text": "A local beach near Ylöjärvi.",
+                  "category": "recreational",
+                  "coords": [
+                        23.659827,
+                        61.53075
+                  ]
+            },
+            {
+                  "name": "Räikänranta",
+                  "text": "Räikänranta is a beach in Ylöjärvi.",
+                  "category": "recreational",
+                  "coords": [
+                        23.601128,
+                        61.557988
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     name: { de: "Ylöjärvi", hu: "Ylöjärvi", ro: "Ylöjärvi", en: "Ylöjärvi" },
@@ -2298,7 +4881,196 @@ export const finlandCitiesV2: POI[] = [
     image: "/poi-images/finland-ylojarvi-cities-v2.webp",
   },
   {
-    id: "finland-aanekoski-cities-v2",
+    id: "finland-aanekoski-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kotakennään uimaranta",
+                  "text": "Strand in Äänekoski.",
+                  "category": "recreational",
+                  "coords": [
+                        25.694928,
+                        62.603198
+                  ]
+            },
+            {
+                  "name": "Kasperin uimaranta",
+                  "text": "Badestrand Kasperin in Äänekoski.",
+                  "category": "recreational",
+                  "coords": [
+                        25.731109,
+                        62.614422
+                  ]
+            },
+            {
+                  "name": "Kellonkannan uimaranta",
+                  "text": "Badestrand Kellonkannan in Äänekoski.",
+                  "category": "recreational",
+                  "coords": [
+                        25.739193,
+                        62.622197
+                  ]
+            },
+            {
+                  "name": "Likolahden uimaranta",
+                  "text": "Badestrand Likolahden in Äänekoski.",
+                  "category": "recreational",
+                  "coords": [
+                        25.692177,
+                        62.624831
+                  ]
+            },
+            {
+                  "name": "Ääneniemen uimaranta",
+                  "text": "Badestrand Ääneniemen in Äänekoski.",
+                  "category": "recreational",
+                  "coords": [
+                        25.73976,
+                        62.607756
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kotakennään uimaranta",
+                  "text": "Strand Äänekoskiban.",
+                  "category": "recreational",
+                  "coords": [
+                        25.694928,
+                        62.603198
+                  ]
+            },
+            {
+                  "name": "Kasperin uimaranta",
+                  "text": "Kasperin strand Äänekoskiban.",
+                  "category": "recreational",
+                  "coords": [
+                        25.731109,
+                        62.614422
+                  ]
+            },
+            {
+                  "name": "Kellonkannan uimaranta",
+                  "text": "Kellonkannan strand Äänekoskiban.",
+                  "category": "recreational",
+                  "coords": [
+                        25.739193,
+                        62.622197
+                  ]
+            },
+            {
+                  "name": "Likolahden uimaranta",
+                  "text": "Likolahden strand Äänekoskiban.",
+                  "category": "recreational",
+                  "coords": [
+                        25.692177,
+                        62.624831
+                  ]
+            },
+            {
+                  "name": "Ääneniemen uimaranta",
+                  "text": "Ääneniemen strand Äänekoskiban.",
+                  "category": "recreational",
+                  "coords": [
+                        25.73976,
+                        62.607756
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kotakennään uimaranta",
+                  "text": "Plajă în Äänekoski.",
+                  "category": "recreational",
+                  "coords": [
+                        25.694928,
+                        62.603198
+                  ]
+            },
+            {
+                  "name": "Kasperin uimaranta",
+                  "text": "Plaja Kasperin din Äänekoski.",
+                  "category": "recreational",
+                  "coords": [
+                        25.731109,
+                        62.614422
+                  ]
+            },
+            {
+                  "name": "Kellonkannan uimaranta",
+                  "text": "Plaja Kellonkannan din Äänekoski.",
+                  "category": "recreational",
+                  "coords": [
+                        25.739193,
+                        62.622197
+                  ]
+            },
+            {
+                  "name": "Likolahden uimaranta",
+                  "text": "Plaja Likolahden din Äänekoski.",
+                  "category": "recreational",
+                  "coords": [
+                        25.692177,
+                        62.624831
+                  ]
+            },
+            {
+                  "name": "Ääneniemen uimaranta",
+                  "text": "Plaja Ääneniemen din Äänekoski.",
+                  "category": "recreational",
+                  "coords": [
+                        25.73976,
+                        62.607756
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kotakennään uimaranta",
+                  "text": "Beach in Äänekoski.",
+                  "category": "recreational",
+                  "coords": [
+                        25.694928,
+                        62.603198
+                  ]
+            },
+            {
+                  "name": "Kasperin uimaranta",
+                  "text": "Kasperin beach in Äänekoski.",
+                  "category": "recreational",
+                  "coords": [
+                        25.731109,
+                        62.614422
+                  ]
+            },
+            {
+                  "name": "Kellonkannan uimaranta",
+                  "text": "Kellonkannan beach in Äänekoski.",
+                  "category": "recreational",
+                  "coords": [
+                        25.739193,
+                        62.622197
+                  ]
+            },
+            {
+                  "name": "Likolahden uimaranta",
+                  "text": "Likolahden beach in Äänekoski.",
+                  "category": "recreational",
+                  "coords": [
+                        25.692177,
+                        62.624831
+                  ]
+            },
+            {
+                  "name": "Ääneniemen uimaranta",
+                  "text": "Ääneniemen beach in Äänekoski.",
+                  "category": "recreational",
+                  "coords": [
+                        25.73976,
+                        62.607756
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     name: { de: "Äänekoski", hu: "Äänekoski", ro: "Äänekoski", en: "Äänekoski" },
@@ -2343,7 +5115,52 @@ export const finlandCitiesV2: POI[] = [
     image: "/poi-images/finland-aanekoski-cities-v2.webp",
   },
   {
-    id: "finland-aksaa-cities-v2",
+    id: "finland-aksaa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Koirien uimaranta",
+                  "text": "Hundestrand in Äksä.",
+                  "category": "recreational",
+                  "coords": [
+                        23.898755,
+                        61.192781
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Koirien uimaranta",
+                  "text": "Kutyás strand Äksäben.",
+                  "category": "recreational",
+                  "coords": [
+                        23.898755,
+                        61.192781
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Koirien uimaranta",
+                  "text": "Plajă pentru câini în Äksä.",
+                  "category": "recreational",
+                  "coords": [
+                        23.898755,
+                        61.192781
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Koirien uimaranta",
+                  "text": "Dog beach in Äksä.",
+                  "category": "recreational",
+                  "coords": [
+                        23.898755,
+                        61.192781
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     name: { de: "Akaa", hu: "Akaa", ro: "Akaa", en: "Akaa" },
@@ -2388,7 +5205,52 @@ export const finlandCitiesV2: POI[] = [
     image: "/poi-images/finland-aksaa-cities-v2.webp",
   },
   {
-    id: "finland-alajärvi-cities-v2",
+    id: "finland-alajärvi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Keskustan uimaranta",
+                  "text": "Stadtstrand in Alajärvi.",
+                  "category": "recreational",
+                  "coords": [
+                        23.821731,
+                        63.002792
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Keskustan uimaranta",
+                  "text": "Központi strand Alajärviben.",
+                  "category": "recreational",
+                  "coords": [
+                        23.821731,
+                        63.002792
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Keskustan uimaranta",
+                  "text": "Plaja centrală în Alajärvi.",
+                  "category": "recreational",
+                  "coords": [
+                        23.821731,
+                        63.002792
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Keskustan uimaranta",
+                  "text": "Central beach in Alajärvi.",
+                  "category": "recreational",
+                  "coords": [
+                        23.821731,
+                        63.002792
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     name: { de: "Alajärvi", hu: "Alajärvi", ro: "Alajärvi", en: "Alajärvi" },
@@ -2433,7 +5295,160 @@ export const finlandCitiesV2: POI[] = [
     image: "/poi-images/finland-alajärvi-cities-v2.webp",
   },
   {
-    id: "finland-alavus-cities-v2",
+    id: "finland-alavus-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vähäjärven uimaranta",
+                  "text": "Strand am See Vähäjärvi in der Gemeinde Alavus.",
+                  "category": "recreational",
+                  "coords": [
+                        23.630703,
+                        62.593106
+                  ]
+            },
+            {
+                  "name": "Tusan uimaranta",
+                  "text": "Tusan uimaranta ist ein Strand in der Nähe von Alavus.",
+                  "category": "recreational",
+                  "coords": [
+                        23.624468,
+                        62.583342
+                  ]
+            },
+            {
+                  "name": "Harrinranta",
+                  "text": "Strand Harrinranta in Alavus.",
+                  "category": "recreational",
+                  "coords": [
+                        23.610591,
+                        62.575523
+                  ]
+            },
+            {
+                  "name": "Rantapuisto II ranta",
+                  "text": "Rantapuisto II Badestrand in Alavus.",
+                  "category": "recreational",
+                  "coords": [
+                        23.609689,
+                        62.57203
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vähäjärven uimaranta",
+                  "text": "Strand a Vähäjärvi tónál, Alavus községben.",
+                  "category": "recreational",
+                  "coords": [
+                        23.630703,
+                        62.593106
+                  ]
+            },
+            {
+                  "name": "Tusan uimaranta",
+                  "text": "A Tusan uimaranta egy strand Alavus közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        23.624468,
+                        62.583342
+                  ]
+            },
+            {
+                  "name": "Harrinranta",
+                  "text": "Harrinranta strand Alavusban.",
+                  "category": "recreational",
+                  "coords": [
+                        23.610591,
+                        62.575523
+                  ]
+            },
+            {
+                  "name": "Rantapuisto II ranta",
+                  "text": "Rantapuisto II strand Alavusban.",
+                  "category": "recreational",
+                  "coords": [
+                        23.609689,
+                        62.57203
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vähäjärven uimaranta",
+                  "text": "Plajă la lacul Vähäjärvi în municipalitatea Alavus.",
+                  "category": "recreational",
+                  "coords": [
+                        23.630703,
+                        62.593106
+                  ]
+            },
+            {
+                  "name": "Tusan uimaranta",
+                  "text": "Tusan uimaranta este o plajă lângă Alavus.",
+                  "category": "recreational",
+                  "coords": [
+                        23.624468,
+                        62.583342
+                  ]
+            },
+            {
+                  "name": "Harrinranta",
+                  "text": "Plaja Harrinranta din Alavus.",
+                  "category": "recreational",
+                  "coords": [
+                        23.610591,
+                        62.575523
+                  ]
+            },
+            {
+                  "name": "Rantapuisto II ranta",
+                  "text": "Plaja Rantapuisto II în Alavus.",
+                  "category": "recreational",
+                  "coords": [
+                        23.609689,
+                        62.57203
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vähäjärven uimaranta",
+                  "text": "Beach at lake Vähäjärvi in the municipality of Alavus.",
+                  "category": "recreational",
+                  "coords": [
+                        23.630703,
+                        62.593106
+                  ]
+            },
+            {
+                  "name": "Tusan uimaranta",
+                  "text": "Tusan uimaranta is a beach near Alavus.",
+                  "category": "recreational",
+                  "coords": [
+                        23.624468,
+                        62.583342
+                  ]
+            },
+            {
+                  "name": "Harrinranta",
+                  "text": "Harrinranta beach in Alavus.",
+                  "category": "recreational",
+                  "coords": [
+                        23.610591,
+                        62.575523
+                  ]
+            },
+            {
+                  "name": "Rantapuisto II ranta",
+                  "text": "Rantapuisto II beach in Alavus.",
+                  "category": "recreational",
+                  "coords": [
+                        23.609689,
+                        62.57203
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     name: { de: "Alavus", hu: "Alavus", ro: "Alavus", en: "Alavus" },
@@ -2523,7 +5538,88 @@ export const finlandCitiesV2: POI[] = [
     image: "/poi-images/finland-brande-cities-v2.webp",
   },
   {
-    id: "finland-eckerö-cities-v2",
+    id: "finland-eckerö-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Södersjön",
+                  "text": "Södersjön ist ein Strand in Eckerö.",
+                  "category": "recreational",
+                  "coords": [
+                        19.595064,
+                        60.180895
+                  ]
+            },
+            {
+                  "name": "Sandmo badstrand",
+                  "text": "Sandmo-Badestrand in Eckerö.",
+                  "category": "recreational",
+                  "coords": [
+                        19.543207,
+                        60.218208
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Södersjön",
+                  "text": "A Södersjön egy strand Eckeröben.",
+                  "category": "recreational",
+                  "coords": [
+                        19.595064,
+                        60.180895
+                  ]
+            },
+            {
+                  "name": "Sandmo badstrand",
+                  "text": "Sandmo strand Eckerőben.",
+                  "category": "recreational",
+                  "coords": [
+                        19.543207,
+                        60.218208
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Södersjön",
+                  "text": "Södersjön este o plajă în Eckerö.",
+                  "category": "recreational",
+                  "coords": [
+                        19.595064,
+                        60.180895
+                  ]
+            },
+            {
+                  "name": "Sandmo badstrand",
+                  "text": "Plaja Sandmo în Eckerö.",
+                  "category": "recreational",
+                  "coords": [
+                        19.543207,
+                        60.218208
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Södersjön",
+                  "text": "Södersjön is a beach in Eckerö.",
+                  "category": "recreational",
+                  "coords": [
+                        19.595064,
+                        60.180895
+                  ]
+            },
+            {
+                  "name": "Sandmo badstrand",
+                  "text": "Sandmo beach in Eckerö.",
+                  "category": "recreational",
+                  "coords": [
+                        19.543207,
+                        60.218208
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     name: { de: "Eckerö", hu: "Eckerö", ro: "Eckerö", en: "Eckerö" },
@@ -2613,7 +5709,52 @@ export const finlandCitiesV2: POI[] = [
     image: "/poi-images/finland-enn-cities-v2.webp",
   },
   {
-    id: "finland-finström-cities-v2",
+    id: "finland-finström-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bambölevik",
+                  "text": "Bambölevik ist ein Strand bei Finström.",
+                  "category": "recreational",
+                  "coords": [
+                        19.857277,
+                        60.237656
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bambölevik",
+                  "text": "A Bambölevik egy strand Finström közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        19.857277,
+                        60.237656
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bambölevik",
+                  "text": "Bambölevik este o plajă lângă Finström.",
+                  "category": "recreational",
+                  "coords": [
+                        19.857277,
+                        60.237656
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bambölevik",
+                  "text": "Bambölevik is a beach near Finström.",
+                  "category": "recreational",
+                  "coords": [
+                        19.857277,
+                        60.237656
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     name: { de: "Finström", hu: "Finström", ro: "Finström", en: "Finström" },
@@ -2658,7 +5799,52 @@ export const finlandCitiesV2: POI[] = [
     image: "/poi-images/finland-finström-cities-v2.webp",
   },
   {
-    id: "finland-föglö-cities-v2",
+    id: "finland-föglö-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sinting (Degerby) Simstrand",
+                  "text": "Ein Badestrand in Degerby auf Föglö.",
+                  "category": "recreational",
+                  "coords": [
+                        20.379143,
+                        60.021377
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sinting (Degerby) Simstrand",
+                  "text": "Fürdőhely Degerbyben, Föglö szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        20.379143,
+                        60.021377
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sinting (Degerby) Simstrand",
+                  "text": "O plajă de scăldat în Degerby pe Föglö.",
+                  "category": "recreational",
+                  "coords": [
+                        20.379143,
+                        60.021377
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sinting (Degerby) Simstrand",
+                  "text": "A beach in Degerby on Föglö.",
+                  "category": "recreational",
+                  "coords": [
+                        20.379143,
+                        60.021377
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     name: { de: "Föglö", hu: "Föglö", ro: "Föglö", en: "Föglö" },
@@ -2703,7 +5889,52 @@ export const finlandCitiesV2: POI[] = [
     image: "/poi-images/finland-föglö-cities-v2.webp",
   },
   {
-    id: "finland-geta-cities-v2",
+    id: "finland-geta-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Knutnäs badstrand",
+                  "text": "Knutnäs badstrand ist ein Strand in Geta.",
+                  "category": "recreational",
+                  "coords": [
+                        19.825891,
+                        60.351722
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Knutnäs badstrand",
+                  "text": "Knutnäs badstrand egy strand Geta településen.",
+                  "category": "recreational",
+                  "coords": [
+                        19.825891,
+                        60.351722
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Knutnäs badstrand",
+                  "text": "Knutnäs badstrand este o plajă în Geta.",
+                  "category": "recreational",
+                  "coords": [
+                        19.825891,
+                        60.351722
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Knutnäs badstrand",
+                  "text": "Knutnäs badstrand is a beach in Geta.",
+                  "category": "recreational",
+                  "coords": [
+                        19.825891,
+                        60.351722
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     name: { de: "Geta", hu: "Geta", ro: "Geta", en: "Geta" },
@@ -2793,7 +6024,232 @@ export const finlandCitiesV2: POI[] = [
     image: "/poi-images/finland-haapajärvi-cities-v2.webp",
   },
   {
-    id: "finland-haapavesi-cities-v2",
+    id: "finland-haapavesi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Paskaranta",
+                  "text": "Paskaranta ist ein Strand in der Nähe von Haapavesi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.391745,
+                        64.123196
+                  ]
+            },
+            {
+                  "name": "Eskolanniemen uimaranta",
+                  "text": "Eskolanniemen uimaranta ist ein Strand in der Nähe von Haapavesi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.406429,
+                        64.125365
+                  ]
+            },
+            {
+                  "name": "Huikarinniemen uimaranta",
+                  "text": "Badestrand Huikarinniemen in Haapavesi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.382993,
+                        64.132245
+                  ]
+            },
+            {
+                  "name": "Huikarinniemen veneranta",
+                  "text": "Badestelle Huikarinniemen in Haapavesi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.38025,
+                        64.131253
+                  ]
+            },
+            {
+                  "name": "Kylpyläsaaren uimaranta",
+                  "text": "Badestrand Kylpyläsaaren in Haapavesi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.357553,
+                        64.132873
+                  ]
+            },
+            {
+                  "name": "Kokkoniemen uimaranta",
+                  "text": "Badestrand Kokkoniemen in Haapavesi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.367336,
+                        64.127939
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Paskaranta",
+                  "text": "A Paskaranta egy strand Haapavesi közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        25.391745,
+                        64.123196
+                  ]
+            },
+            {
+                  "name": "Eskolanniemen uimaranta",
+                  "text": "Az Eskolanniemen uimaranta egy strand Haapavesi közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        25.406429,
+                        64.125365
+                  ]
+            },
+            {
+                  "name": "Huikarinniemen uimaranta",
+                  "text": "Huikarinniemen strand Haapavesiben.",
+                  "category": "recreational",
+                  "coords": [
+                        25.382993,
+                        64.132245
+                  ]
+            },
+            {
+                  "name": "Huikarinniemen veneranta",
+                  "text": "Huikarinniemen fürdőhely Haapavesiben.",
+                  "category": "recreational",
+                  "coords": [
+                        25.38025,
+                        64.131253
+                  ]
+            },
+            {
+                  "name": "Kylpyläsaaren uimaranta",
+                  "text": "Kylpyläsaaren strand Haapavesiben.",
+                  "category": "recreational",
+                  "coords": [
+                        25.357553,
+                        64.132873
+                  ]
+            },
+            {
+                  "name": "Kokkoniemen uimaranta",
+                  "text": "Kokkoniemen strand Haapavesiben.",
+                  "category": "recreational",
+                  "coords": [
+                        25.367336,
+                        64.127939
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Paskaranta",
+                  "text": "Paskaranta este o plajă lângă Haapavesi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.391745,
+                        64.123196
+                  ]
+            },
+            {
+                  "name": "Eskolanniemen uimaranta",
+                  "text": "Eskolanniemen uimaranta este o plajă lângă Haapavesi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.406429,
+                        64.125365
+                  ]
+            },
+            {
+                  "name": "Huikarinniemen uimaranta",
+                  "text": "Plaja Huikarinniemen din Haapavesi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.382993,
+                        64.132245
+                  ]
+            },
+            {
+                  "name": "Huikarinniemen veneranta",
+                  "text": "Zona de scăldat Huikarinniemen din Haapavesi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.38025,
+                        64.131253
+                  ]
+            },
+            {
+                  "name": "Kylpyläsaaren uimaranta",
+                  "text": "Plaja Kylpyläsaaren din Haapavesi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.357553,
+                        64.132873
+                  ]
+            },
+            {
+                  "name": "Kokkoniemen uimaranta",
+                  "text": "Plaja Kokkoniemen din Haapavesi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.367336,
+                        64.127939
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Paskaranta",
+                  "text": "Paskaranta is a beach near Haapavesi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.391745,
+                        64.123196
+                  ]
+            },
+            {
+                  "name": "Eskolanniemen uimaranta",
+                  "text": "Eskolanniemen uimaranta is a beach near Haapavesi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.406429,
+                        64.125365
+                  ]
+            },
+            {
+                  "name": "Huikarinniemen uimaranta",
+                  "text": "Huikarinniemen beach in Haapavesi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.382993,
+                        64.132245
+                  ]
+            },
+            {
+                  "name": "Huikarinniemen veneranta",
+                  "text": "Huikarinniemen swimming spot in Haapavesi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.38025,
+                        64.131253
+                  ]
+            },
+            {
+                  "name": "Kylpyläsaaren uimaranta",
+                  "text": "Kylpyläsaaren beach in Haapavesi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.357553,
+                        64.132873
+                  ]
+            },
+            {
+                  "name": "Kokkoniemen uimaranta",
+                  "text": "Kokkoniemen beach in Haapavesi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.367336,
+                        64.127939
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     name: { de: "Haapavesi", hu: "Haapavesi", ro: "Haapavesi", en: "Haapavesi" },
@@ -2883,7 +6339,52 @@ export const finlandCitiesV2: POI[] = [
     image: "/poi-images/finland-halsua-cities-v2.webp",
   },
   {
-    id: "finland-hammarland-cities-v2",
+    id: "finland-hammarland-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Marsundsbadstrand",
+                  "text": "Marsundsbadstrand ist ein Strand bei Hammarland.",
+                  "category": "recreational",
+                  "coords": [
+                        19.695326,
+                        60.214168
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Marsundsbadstrand",
+                  "text": "A Marsundsbadstrand egy strand Hammarland közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        19.695326,
+                        60.214168
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Marsundsbadstrand",
+                  "text": "Marsundsbadstrand este o plajă lângă Hammarland.",
+                  "category": "recreational",
+                  "coords": [
+                        19.695326,
+                        60.214168
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Marsundsbadstrand",
+                  "text": "Marsundsbadstrand is a beach near Hammarland.",
+                  "category": "recreational",
+                  "coords": [
+                        19.695326,
+                        60.214168
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     name: { de: "Hammarland", hu: "Hammarland", ro: "Hammarland", en: "Hammarland" },
@@ -2973,7 +6474,88 @@ export const finlandCitiesV2: POI[] = [
     image: "/poi-images/finland-hartola-cities-v2.webp",
   },
   {
-    id: "finland-hattula-cities-v2",
+    id: "finland-hattula-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pappilanniemen ranta",
+                  "text": "Strand Pappilanniemi in Hattula.",
+                  "category": "recreational",
+                  "coords": [
+                        24.402478,
+                        61.06514
+                  ]
+            },
+            {
+                  "name": "Kalkkosen uimaranta",
+                  "text": "Badeplatz in Hattula.",
+                  "category": "recreational",
+                  "coords": [
+                        24.338712,
+                        61.047493
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pappilanniemen ranta",
+                  "text": "Pappilanniemi strand Hattulában.",
+                  "category": "recreational",
+                  "coords": [
+                        24.402478,
+                        61.06514
+                  ]
+            },
+            {
+                  "name": "Kalkkosen uimaranta",
+                  "text": "Fürdőhely Hattulában.",
+                  "category": "recreational",
+                  "coords": [
+                        24.338712,
+                        61.047493
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pappilanniemen ranta",
+                  "text": "Plaja Pappilanniemi din Hattula.",
+                  "category": "recreational",
+                  "coords": [
+                        24.402478,
+                        61.06514
+                  ]
+            },
+            {
+                  "name": "Kalkkosen uimaranta",
+                  "text": "Loc de scăldat în Hattula.",
+                  "category": "recreational",
+                  "coords": [
+                        24.338712,
+                        61.047493
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pappilanniemen ranta",
+                  "text": "Pappilanniemi beach in Hattula.",
+                  "category": "recreational",
+                  "coords": [
+                        24.402478,
+                        61.06514
+                  ]
+            },
+            {
+                  "name": "Kalkkosen uimaranta",
+                  "text": "Swimming spot in Hattula.",
+                  "category": "recreational",
+                  "coords": [
+                        24.338712,
+                        61.047493
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     name: { de: "Hattula", hu: "Hattula", ro: "Hattula", en: "Hattula" },
@@ -3018,7 +6600,160 @@ export const finlandCitiesV2: POI[] = [
     image: "/poi-images/finland-hattula-cities-v2.webp",
   },
   {
-    id: "finland-haukipudas-cities-v2",
+    id: "finland-haukipudas-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Onganranta",
+                  "text": "Onganranta ist ein Strand in der Nähe von Haukipudas.",
+                  "category": "recreational",
+                  "coords": [
+                        25.308295,
+                        65.199584
+                  ]
+            },
+            {
+                  "name": "Inkonnokan uimaranta",
+                  "text": "Inkonnokan uimaranta ist ein Strand in der Nähe von Haukipudas.",
+                  "category": "recreational",
+                  "coords": [
+                        25.276299,
+                        65.178904
+                  ]
+            },
+            {
+                  "name": "Kirkonranta",
+                  "text": "Strand Kirkonranta in Haukipudas.",
+                  "category": "recreational",
+                  "coords": [
+                        25.349913,
+                        65.180838
+                  ]
+            },
+            {
+                  "name": "Vanaranta",
+                  "text": "Strand Vanaranta in Haukipudas.",
+                  "category": "recreational",
+                  "coords": [
+                        25.359505,
+                        65.180462
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Onganranta",
+                  "text": "Az Onganranta egy strand Haukipudas közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        25.308295,
+                        65.199584
+                  ]
+            },
+            {
+                  "name": "Inkonnokan uimaranta",
+                  "text": "Az Inkonnokan uimaranta egy strand Haukipudas közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        25.276299,
+                        65.178904
+                  ]
+            },
+            {
+                  "name": "Kirkonranta",
+                  "text": "Kirkonranta strand Haukipudasban.",
+                  "category": "recreational",
+                  "coords": [
+                        25.349913,
+                        65.180838
+                  ]
+            },
+            {
+                  "name": "Vanaranta",
+                  "text": "Vanaranta strand Haukipudasban.",
+                  "category": "recreational",
+                  "coords": [
+                        25.359505,
+                        65.180462
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Onganranta",
+                  "text": "Onganranta este o plajă lângă Haukipudas.",
+                  "category": "recreational",
+                  "coords": [
+                        25.308295,
+                        65.199584
+                  ]
+            },
+            {
+                  "name": "Inkonnokan uimaranta",
+                  "text": "Inkonnokan uimaranta este o plajă lângă Haukipudas.",
+                  "category": "recreational",
+                  "coords": [
+                        25.276299,
+                        65.178904
+                  ]
+            },
+            {
+                  "name": "Kirkonranta",
+                  "text": "Plaja Kirkonranta din Haukipudas.",
+                  "category": "recreational",
+                  "coords": [
+                        25.349913,
+                        65.180838
+                  ]
+            },
+            {
+                  "name": "Vanaranta",
+                  "text": "Plaja Vanaranta din Haukipudas.",
+                  "category": "recreational",
+                  "coords": [
+                        25.359505,
+                        65.180462
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Onganranta",
+                  "text": "Onganranta is a beach near Haukipudas.",
+                  "category": "recreational",
+                  "coords": [
+                        25.308295,
+                        65.199584
+                  ]
+            },
+            {
+                  "name": "Inkonnokan uimaranta",
+                  "text": "Inkonnokan uimaranta is a beach near Haukipudas.",
+                  "category": "recreational",
+                  "coords": [
+                        25.276299,
+                        65.178904
+                  ]
+            },
+            {
+                  "name": "Kirkonranta",
+                  "text": "Kirkonranta beach in Haukipudas.",
+                  "category": "recreational",
+                  "coords": [
+                        25.349913,
+                        65.180838
+                  ]
+            },
+            {
+                  "name": "Vanaranta",
+                  "text": "Vanaranta beach in Haukipudas.",
+                  "category": "recreational",
+                  "coords": [
+                        25.359505,
+                        65.180462
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     name: { de: "Haukipudas", hu: "Haukipudas", ro: "Haukipudas", en: "Haukipudas" },
@@ -3108,7 +6843,52 @@ export const finlandCitiesV2: POI[] = [
     image: "/poi-images/finland-hausjarvi-cities-v2.webp",
   },
   {
-    id: "finland-heinola-v2-cities-v2",
+    id: "finland-heinola-v2-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jyrängön uimaranta",
+                  "text": "Strand in Heinola.",
+                  "category": "recreational",
+                  "coords": [
+                        26.038813,
+                        61.191632
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jyrängön uimaranta",
+                  "text": "Strand Heinolában.",
+                  "category": "recreational",
+                  "coords": [
+                        26.038813,
+                        61.191632
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jyrängön uimaranta",
+                  "text": "Plajă în Heinola.",
+                  "category": "recreational",
+                  "coords": [
+                        26.038813,
+                        61.191632
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jyrängön uimaranta",
+                  "text": "Beach in Heinola.",
+                  "category": "recreational",
+                  "coords": [
+                        26.038813,
+                        61.191632
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     name: { de: "Heinola (weitere Gebiete)", hu: "Heinola (további területek)", ro: "Heinola (alte zone)", en: "Heinola (further areas)" },
@@ -3198,7 +6978,52 @@ export const finlandCitiesV2: POI[] = [
     image: "/poi-images/finland-helsinki-vorort-cities-v2.webp",
   },
   {
-    id: "finland-hirvensalmi-cities-v2",
+    id: "finland-hirvensalmi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hirvensalmi",
+                  "text": "Strand in Hirvensalmi.",
+                  "category": "recreational",
+                  "coords": [
+                        26.772285,
+                        61.642793
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hirvensalmi",
+                  "text": "Strand Hirvensalmiban.",
+                  "category": "recreational",
+                  "coords": [
+                        26.772285,
+                        61.642793
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hirvensalmi",
+                  "text": "Plajă în Hirvensalmi.",
+                  "category": "recreational",
+                  "coords": [
+                        26.772285,
+                        61.642793
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hirvensalmi",
+                  "text": "Beach in Hirvensalmi.",
+                  "category": "recreational",
+                  "coords": [
+                        26.772285,
+                        61.642793
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     name: { de: "Hirvensalmi", hu: "Hirvensalmi", ro: "Hirvensalmi", en: "Hirvensalmi" },
@@ -3243,7 +7068,52 @@ export const finlandCitiesV2: POI[] = [
     image: "/poi-images/finland-hirvensalmi-cities-v2.webp",
   },
   {
-    id: "finland-hollola-cities-v2",
+    id: "finland-hollola-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kalliolan uimaranta",
+                  "text": "Kalliolan Uimaranta ist ein Strand in Hollola.",
+                  "category": "recreational",
+                  "coords": [
+                        25.629259,
+                        61.070547
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kalliolan uimaranta",
+                  "text": "Kalliolan Uimaranta egy strand Hollolában.",
+                  "category": "recreational",
+                  "coords": [
+                        25.629259,
+                        61.070547
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kalliolan uimaranta",
+                  "text": "Kalliolan Uimaranta este o plajă în Hollola.",
+                  "category": "recreational",
+                  "coords": [
+                        25.629259,
+                        61.070547
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kalliolan uimaranta",
+                  "text": "Kalliolan Uimaranta is a beach in Hollola.",
+                  "category": "recreational",
+                  "coords": [
+                        25.629259,
+                        61.070547
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     name: { de: "Hollola", hu: "Hollola", ro: "Hollola", en: "Hollola" },
@@ -3333,7 +7203,52 @@ export const finlandCitiesV2: POI[] = [
     image: "/poi-images/finland-humppila-cities-v2.webp",
   },
   {
-    id: "finland-hyrynsalmi-cities-v2",
+    id: "finland-hyrynsalmi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kangasjärven uimaranta",
+                  "text": "Kangasjärven uimaranta ist ein Strand bei Hyrynsalmi.",
+                  "category": "recreational",
+                  "coords": [
+                        28.46227,
+                        64.70035
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kangasjärven uimaranta",
+                  "text": "A Kangasjärven uimaranta egy strand Hyrynsalmi közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        28.46227,
+                        64.70035
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kangasjärven uimaranta",
+                  "text": "Kangasjärven uimaranta este o plajă lângă Hyrynsalmi.",
+                  "category": "recreational",
+                  "coords": [
+                        28.46227,
+                        64.70035
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kangasjärven uimaranta",
+                  "text": "Kangasjärven uimaranta is a beach near Hyrynsalmi.",
+                  "category": "recreational",
+                  "coords": [
+                        28.46227,
+                        64.70035
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     name: { de: "Hyrynsalmi", hu: "Hyrynsalmi", ro: "Hyrynsalmi", en: "Hyrynsalmi" },
@@ -3558,7 +7473,124 @@ export const finlandCitiesV2: POI[] = [
     image: "/poi-images/finland-iso-cities-v2.webp",
   },
   {
-    id: "finland-janakkala-cities-v2",
+    id: "finland-janakkala-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ahilammen uimaranta",
+                  "text": "Ahilammen uimaranta ist ein Strand bei Janakkala.",
+                  "category": "recreational",
+                  "coords": [
+                        24.638587,
+                        60.91436
+                  ]
+            },
+            {
+                  "name": "Lastujärven uimaranta",
+                  "text": "Strand am Lastujärvi in Janakkala.",
+                  "category": "recreational",
+                  "coords": [
+                        24.669038,
+                        60.934093
+                  ]
+            },
+            {
+                  "name": "Harvialan rantatie, uimapaikka",
+                  "text": "Zugang zum Wasser in Harviala, Janakkala.",
+                  "category": "recreational",
+                  "coords": [
+                        24.585709,
+                        60.946339
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ahilammen uimaranta",
+                  "text": "Ahilammen uimaranta egy strand Janakkala közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        24.638587,
+                        60.91436
+                  ]
+            },
+            {
+                  "name": "Lastujärven uimaranta",
+                  "text": "Strand a Lastujärvi-tónál, Janakkalában.",
+                  "category": "recreational",
+                  "coords": [
+                        24.669038,
+                        60.934093
+                  ]
+            },
+            {
+                  "name": "Harvialan rantatie, uimapaikka",
+                  "text": "Vízparti hozzáférés a janakkalai Harvialában.",
+                  "category": "recreational",
+                  "coords": [
+                        24.585709,
+                        60.946339
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ahilammen uimaranta",
+                  "text": "Ahilammen uimaranta este o plajă lângă Janakkala.",
+                  "category": "recreational",
+                  "coords": [
+                        24.638587,
+                        60.91436
+                  ]
+            },
+            {
+                  "name": "Lastujärven uimaranta",
+                  "text": "Plajă la lacul Lastujärvi în Janakkala.",
+                  "category": "recreational",
+                  "coords": [
+                        24.669038,
+                        60.934093
+                  ]
+            },
+            {
+                  "name": "Harvialan rantatie, uimapaikka",
+                  "text": "Acces la apă în Harviala, Janakkala.",
+                  "category": "recreational",
+                  "coords": [
+                        24.585709,
+                        60.946339
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ahilammen uimaranta",
+                  "text": "Ahilammen uimaranta is a beach near Janakkala.",
+                  "category": "recreational",
+                  "coords": [
+                        24.638587,
+                        60.91436
+                  ]
+            },
+            {
+                  "name": "Lastujärven uimaranta",
+                  "text": "Beach by Lake Lastujärvi in Janakkala.",
+                  "category": "recreational",
+                  "coords": [
+                        24.669038,
+                        60.934093
+                  ]
+            },
+            {
+                  "name": "Harvialan rantatie, uimapaikka",
+                  "text": "Water access in Harviala, Janakkala.",
+                  "category": "recreational",
+                  "coords": [
+                        24.585709,
+                        60.946339
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     name: { de: "Janakkala", hu: "Janakkala", ro: "Janakkala", en: "Janakkala" },
@@ -3603,7 +7635,52 @@ export const finlandCitiesV2: POI[] = [
     image: "/poi-images/finland-janakkala-cities-v2.webp",
   },
   {
-    id: "finland-jokioinen-cities-v2",
+    id: "finland-jokioinen-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rehtijärven Uimaranta",
+                  "text": "Rehtijärvi-Badestrand bei Jokioinen.",
+                  "category": "recreational",
+                  "coords": [
+                        23.494362,
+                        60.840179
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rehtijärven Uimaranta",
+                  "text": "Rehtijärvi strand Jokioinen közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        23.494362,
+                        60.840179
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rehtijärven Uimaranta",
+                  "text": "Plaja Rehtijärvi lângă Jokioinen.",
+                  "category": "recreational",
+                  "coords": [
+                        23.494362,
+                        60.840179
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rehtijärven Uimaranta",
+                  "text": "Rehtijärvi beach near Jokioinen.",
+                  "category": "recreational",
+                  "coords": [
+                        23.494362,
+                        60.840179
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     name: { de: "Jokioinen", hu: "Jokioinen", ro: "Jokioinen", en: "Jokioinen" },
@@ -3738,7 +7815,52 @@ export const finlandCitiesV2: POI[] = [
     image: "/poi-images/finland-juuka-cities-v2.webp",
   },
   {
-    id: "finland-juva-cities-v2",
+    id: "finland-juva-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jukajärven uimaranta",
+                  "text": "Jukajärvi-Badestrand bei Juva.",
+                  "category": "recreational",
+                  "coords": [
+                        27.870521,
+                        61.889124
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jukajärven uimaranta",
+                  "text": "Jukajärvi strand Juva közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        27.870521,
+                        61.889124
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jukajärven uimaranta",
+                  "text": "Plaja Jukajärvi lângă Juva.",
+                  "category": "recreational",
+                  "coords": [
+                        27.870521,
+                        61.889124
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jukajärven uimaranta",
+                  "text": "Jukajärvi beach near Juva.",
+                  "category": "recreational",
+                  "coords": [
+                        27.870521,
+                        61.889124
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     name: { de: "Juva", hu: "Juva", ro: "Juva", en: "Juva" },
@@ -3828,7 +7950,196 @@ export const finlandCitiesV2: POI[] = [
     image: "/poi-images/finland-jylhama-cities-v2.webp",
   },
   {
-    id: "finland-jyvaskylan-maaseutu-cities-v2",
+    id: "finland-jyvaskylan-maaseutu-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lutakon uimaranta",
+                  "text": "Strand in Jyväskylä.",
+                  "category": "recreational",
+                  "coords": [
+                        25.764578,
+                        62.238501
+                  ]
+            },
+            {
+                  "name": "Tikan EU-uimaranta",
+                  "text": "Tikan EU-Strand befindet sich in Jyväskyläns ländlicher Umgebung.",
+                  "category": "recreational",
+                  "coords": [
+                        25.762303,
+                        62.215399
+                  ]
+            },
+            {
+                  "name": "Ristikiven uimaranta",
+                  "text": "Ristikiven Strand liegt in der ländlichen Umgebung von Jyväskylä.",
+                  "category": "recreational",
+                  "coords": [
+                        25.755703,
+                        62.207945
+                  ]
+            },
+            {
+                  "name": "Halssilan uimaranta",
+                  "text": "Halssilan Strand liegt in der ländlichen Umgebung von Jyväskylä.",
+                  "category": "recreational",
+                  "coords": [
+                        25.791756,
+                        62.239552
+                  ]
+            },
+            {
+                  "name": "Salmirannan uimaranta",
+                  "text": "Badestrand Salmirannan in der Umgebung von Jyväskylä.",
+                  "category": "recreational",
+                  "coords": [
+                        25.805905,
+                        62.217547
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lutakon uimaranta",
+                  "text": "Strand Jyväskyläben.",
+                  "category": "recreational",
+                  "coords": [
+                        25.764578,
+                        62.238501
+                  ]
+            },
+            {
+                  "name": "Tikan EU-uimaranta",
+                  "text": "Tikan EU-strandja Jyväskylä vidéki körzetében található.",
+                  "category": "recreational",
+                  "coords": [
+                        25.762303,
+                        62.215399
+                  ]
+            },
+            {
+                  "name": "Ristikiven uimaranta",
+                  "text": "Ristikiven strandja Jyväskylä vidéki körzetében található.",
+                  "category": "recreational",
+                  "coords": [
+                        25.755703,
+                        62.207945
+                  ]
+            },
+            {
+                  "name": "Halssilan uimaranta",
+                  "text": "Halssilan strandja Jyväskylä vidéki körzetében található.",
+                  "category": "recreational",
+                  "coords": [
+                        25.791756,
+                        62.239552
+                  ]
+            },
+            {
+                  "name": "Salmirannan uimaranta",
+                  "text": "Salmirannan strand a Jyväskylä környéki vidéken.",
+                  "category": "recreational",
+                  "coords": [
+                        25.805905,
+                        62.217547
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lutakon uimaranta",
+                  "text": "Plajă în Jyväskylä.",
+                  "category": "recreational",
+                  "coords": [
+                        25.764578,
+                        62.238501
+                  ]
+            },
+            {
+                  "name": "Tikan EU-uimaranta",
+                  "text": "Plaja Tikan EU este situată în zona rurală a orașului Jyväskylä.",
+                  "category": "recreational",
+                  "coords": [
+                        25.762303,
+                        62.215399
+                  ]
+            },
+            {
+                  "name": "Ristikiven uimaranta",
+                  "text": "Plaja Ristikiven este situată în zona rurală a orașului Jyväskylä.",
+                  "category": "recreational",
+                  "coords": [
+                        25.755703,
+                        62.207945
+                  ]
+            },
+            {
+                  "name": "Halssilan uimaranta",
+                  "text": "Plaja Halssilan este situată în zona rurală a orașului Jyväskylä.",
+                  "category": "recreational",
+                  "coords": [
+                        25.791756,
+                        62.239552
+                  ]
+            },
+            {
+                  "name": "Salmirannan uimaranta",
+                  "text": "Plaja Salmirannan în zona rurală Jyväskylä.",
+                  "category": "recreational",
+                  "coords": [
+                        25.805905,
+                        62.217547
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lutakon uimaranta",
+                  "text": "Beach in Jyväskylä.",
+                  "category": "recreational",
+                  "coords": [
+                        25.764578,
+                        62.238501
+                  ]
+            },
+            {
+                  "name": "Tikan EU-uimaranta",
+                  "text": "Tikan EU beach is located in the rural area of Jyväskylä.",
+                  "category": "recreational",
+                  "coords": [
+                        25.762303,
+                        62.215399
+                  ]
+            },
+            {
+                  "name": "Ristikiven uimaranta",
+                  "text": "Ristikiven beach is located in the rural area of Jyväskylä.",
+                  "category": "recreational",
+                  "coords": [
+                        25.755703,
+                        62.207945
+                  ]
+            },
+            {
+                  "name": "Halssilan uimaranta",
+                  "text": "Halssilan beach is located in the rural area of Jyväskylä.",
+                  "category": "recreational",
+                  "coords": [
+                        25.791756,
+                        62.239552
+                  ]
+            },
+            {
+                  "name": "Salmirannan uimaranta",
+                  "text": "Salmirannan beach in the rural area of Jyväskylä.",
+                  "category": "recreational",
+                  "coords": [
+                        25.805905,
+                        62.217547
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     name: { de: "Jyväskylä Umland", hu: "Jyväskylä környéke", ro: "Împrejurimile Jyväskylä", en: "Jyväskylä surroundings" },

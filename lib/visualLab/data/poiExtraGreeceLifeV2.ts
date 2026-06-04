@@ -739,7 +739,232 @@ imageHint: "Dolphins jumping in the calm waters of Amvrakikos Gulf",
     },
     image: "/poi-images/greece-amvrakikos-gulf-life-v2.webp",
 },  {
-    id: "greece-strofylia-forest-life-v2",
+    id: "greece-strofylia-forest-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gianiskari Beach",
+                  "text": "Gianiskari Beach ist ein Küstenort zum Entspannen in Larissos.",
+                  "category": "recreational",
+                  "coords": [
+                        21.366792,
+                        38.176133
+                  ]
+            },
+            {
+                  "name": "Kalogria Beach",
+                  "text": "Kalogria Beach ist ein bekannter, weitläufiger Sandstrand in der Küstenregion von Larissos.",
+                  "category": "recreational",
+                  "coords": [
+                        21.365053,
+                        38.135507
+                  ]
+            },
+            {
+                  "name": "Sandhill",
+                  "text": "Sandhill ist ein malerischer Strand in Larissos.",
+                  "category": "recreational",
+                  "coords": [
+                        21.366466,
+                        38.162754
+                  ]
+            },
+            {
+                  "name": "Kounoupelaki",
+                  "text": "Kounoupelaki ist ein erholsamer Strand an der Küste von Larissos.",
+                  "category": "recreational",
+                  "coords": [
+                        21.340549,
+                        38.095003
+                  ]
+            },
+            {
+                  "name": "Small Gianiskari beach",
+                  "text": "Small Gianiskari beach ist ein ruhiger und charmanter Strandbereich in Larissos.",
+                  "category": "recreational",
+                  "coords": [
+                        21.367212,
+                        38.182954
+                  ]
+            },
+            {
+                  "name": "Kounoupeli",
+                  "text": "Kounoupeli ist ein schönes Strandziel in Larissos.",
+                  "category": "recreational",
+                  "coords": [
+                        21.350185,
+                        38.1026
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gianiskari Beach",
+                  "text": "A Gianiskari Beach egy pihentető tengerparti hely Larissos területén.",
+                  "category": "recreational",
+                  "coords": [
+                        21.366792,
+                        38.176133
+                  ]
+            },
+            {
+                  "name": "Kalogria Beach",
+                  "text": "A Kalogria Beach egy népszerű, kiterjedt homokos strand Larissos partvidékén.",
+                  "category": "recreational",
+                  "coords": [
+                        21.365053,
+                        38.135507
+                  ]
+            },
+            {
+                  "name": "Sandhill",
+                  "text": "A Sandhill egy festői strand Larissos területén.",
+                  "category": "recreational",
+                  "coords": [
+                        21.366466,
+                        38.162754
+                  ]
+            },
+            {
+                  "name": "Kounoupelaki",
+                  "text": "A Kounoupelaki egy pihentető tengerparti strand Larissosban.",
+                  "category": "recreational",
+                  "coords": [
+                        21.340549,
+                        38.095003
+                  ]
+            },
+            {
+                  "name": "Small Gianiskari beach",
+                  "text": "A Small Gianiskari beach egy csendes és hangulatos strand Larissosban.",
+                  "category": "recreational",
+                  "coords": [
+                        21.367212,
+                        38.182954
+                  ]
+            },
+            {
+                  "name": "Kounoupeli",
+                  "text": "A Kounoupeli egy gyönyörű strand Larissos területén.",
+                  "category": "recreational",
+                  "coords": [
+                        21.350185,
+                        38.1026
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gianiskari Beach",
+                  "text": "Gianiskari Beach este o locație de coastă pentru relaxare în Larissos.",
+                  "category": "recreational",
+                  "coords": [
+                        21.366792,
+                        38.176133
+                  ]
+            },
+            {
+                  "name": "Kalogria Beach",
+                  "text": "Kalogria Beach este o plajă de nisip întinsă și populară din zona de coastă a orașului Larissos.",
+                  "category": "recreational",
+                  "coords": [
+                        21.365053,
+                        38.135507
+                  ]
+            },
+            {
+                  "name": "Sandhill",
+                  "text": "Sandhill este o destinație de plajă pitorească situată în Larissos.",
+                  "category": "recreational",
+                  "coords": [
+                        21.366466,
+                        38.162754
+                  ]
+            },
+            {
+                  "name": "Kounoupelaki",
+                  "text": "Kounoupelaki este o plajă de coastă relaxantă situată în Larissos.",
+                  "category": "recreational",
+                  "coords": [
+                        21.340549,
+                        38.095003
+                  ]
+            },
+            {
+                  "name": "Small Gianiskari beach",
+                  "text": "Small Gianiskari beach este o zonă de plajă liniștită și fermecătoare din Larissos.",
+                  "category": "recreational",
+                  "coords": [
+                        21.367212,
+                        38.182954
+                  ]
+            },
+            {
+                  "name": "Kounoupeli",
+                  "text": "Kounoupeli este o destinație frumoasă de plajă aflată în Larissos.",
+                  "category": "recreational",
+                  "coords": [
+                        21.350185,
+                        38.1026
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gianiskari Beach",
+                  "text": "Gianiskari Beach is a coastal spot for relaxation in Larissos.",
+                  "category": "recreational",
+                  "coords": [
+                        21.366792,
+                        38.176133
+                  ]
+            },
+            {
+                  "name": "Kalogria Beach",
+                  "text": "Kalogria Beach is a popular, expansive sandy beach located in the coastal area of Larissos.",
+                  "category": "recreational",
+                  "coords": [
+                        21.365053,
+                        38.135507
+                  ]
+            },
+            {
+                  "name": "Sandhill",
+                  "text": "Sandhill is a scenic beach destination situated in Larissos.",
+                  "category": "recreational",
+                  "coords": [
+                        21.366466,
+                        38.162754
+                  ]
+            },
+            {
+                  "name": "Kounoupelaki",
+                  "text": "Kounoupelaki is a relaxing coastal beach located in Larissos.",
+                  "category": "recreational",
+                  "coords": [
+                        21.340549,
+                        38.095003
+                  ]
+            },
+            {
+                  "name": "Small Gianiskari beach",
+                  "text": "Small Gianiskari beach is a quiet and charming beach area in Larissos.",
+                  "category": "recreational",
+                  "coords": [
+                        21.367212,
+                        38.182954
+                  ]
+            },
+            {
+                  "name": "Kounoupeli",
+                  "text": "Kounoupeli is a beautiful beach destination found in Larissos.",
+                  "category": "recreational",
+                  "coords": [
+                        21.350185,
+                        38.1026
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "forest",
     name: { de: "Strofylia-Wald", hu: "Sztofilia-erdő", ro: "Pădurea Strofylia", en: "Strofylia Forest"},
@@ -923,7 +1148,52 @@ imageHint: "Lush green paths in the National Garden of Athens",
     },
   },
   {
-    id: "greece-vravrona-wetland-life-v2",
+    id: "greece-vravrona-wetland-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Agios Spyridonas Beach",
+                  "text": "Agios Spyridonas Beach ist ein Strandziel in Markopoulo Mesogaias.",
+                  "category": "recreational",
+                  "coords": [
+                        24.024752,
+                        37.891443
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Agios Spyridonas Beach",
+                  "text": "Az Agios Spyridonas Beach egy tengerparti úti cél Markopoulo Mesogaiasban.",
+                  "category": "recreational",
+                  "coords": [
+                        24.024752,
+                        37.891443
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Agios Spyridonas Beach",
+                  "text": "Agios Spyridonas Beach este o destinație pe litoral situată în Markopoulo Mesogaias.",
+                  "category": "recreational",
+                  "coords": [
+                        24.024752,
+                        37.891443
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Agios Spyridonas Beach",
+                  "text": "Agios Spyridonas Beach is a seaside destination situated in Markopoulo Mesogaias.",
+                  "category": "recreational",
+                  "coords": [
+                        24.024752,
+                        37.891443
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "wildlife",
     name: { de: "Feuchtgebiet von Vravrona", hu: "Vravronai vizes élőhely", ro: "Zona umedă Vravrona", en: "Vravrona Wetland"},

@@ -325,7 +325,52 @@ imageHint: "High dam wall and large reservoir lake in Fierza",
     },
     image: "/poi-images/albania-fierza-hydroelectric-plant-economic-v2.webp",
 },  {
-    id: "albania-port-of-vlore-economic-v2",
+    id: "albania-port-of-vlore-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vjeter",
+                  "text": "Strand am Hafen von Vlora.",
+                  "category": "recreational",
+                  "coords": [
+                        19.466548,
+                        40.458792
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vjeter",
+                  "text": "Strand Vlora kikötőjénél.",
+                  "category": "recreational",
+                  "coords": [
+                        19.466548,
+                        40.458792
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vjeter",
+                  "text": "Plajă la portul din Vlora.",
+                  "category": "recreational",
+                  "coords": [
+                        19.466548,
+                        40.458792
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vjeter",
+                  "text": "Beach at the Port of Vlora.",
+                  "category": "recreational",
+                  "coords": [
+                        19.466548,
+                        40.458792
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "port",
     name: { de: "Hafen von Vlorë", hu: "Vlorai kikötő", ro: "Portul Vlorë", en: "Port of Vlorë"},
@@ -647,7 +692,124 @@ imageHint: "Modern office buildings and landscaped areas of a business park",
     },
     image: "/poi-images/albania-tirana-business-park-economic-v2.webp",
 },  {
-    id: "albania-port-of-shengjin-economic-v2",
+    id: "albania-port-of-shengjin-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plazhi i Shëngjinit",
+                  "text": "Strand am Hafen von Shëngjin.",
+                  "category": "recreational",
+                  "coords": [
+                        19.597056,
+                        41.78854
+                  ]
+            },
+            {
+                  "name": "Arome Deti",
+                  "text": "Strand am Hafen von Shëngjin.",
+                  "category": "recreational",
+                  "coords": [
+                        19.602985,
+                        41.787518
+                  ]
+            },
+            {
+                  "name": "Arta's beach",
+                  "text": "Strand am Hafen von Shëngjin.",
+                  "category": "recreational",
+                  "coords": [
+                        19.572327,
+                        41.813419
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plazhi i Shëngjinit",
+                  "text": "Strand a Shëngjin kikötőnél.",
+                  "category": "recreational",
+                  "coords": [
+                        19.597056,
+                        41.78854
+                  ]
+            },
+            {
+                  "name": "Arome Deti",
+                  "text": "Strand Shëngjin kikötőjénél.",
+                  "category": "recreational",
+                  "coords": [
+                        19.602985,
+                        41.787518
+                  ]
+            },
+            {
+                  "name": "Arta's beach",
+                  "text": "Strand Shëngjin kikötőjénél.",
+                  "category": "recreational",
+                  "coords": [
+                        19.572327,
+                        41.813419
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plazhi i Shëngjinit",
+                  "text": "Plajă la Portul Shëngjin.",
+                  "category": "recreational",
+                  "coords": [
+                        19.597056,
+                        41.78854
+                  ]
+            },
+            {
+                  "name": "Arome Deti",
+                  "text": "Plajă lângă portul Shëngjin.",
+                  "category": "recreational",
+                  "coords": [
+                        19.602985,
+                        41.787518
+                  ]
+            },
+            {
+                  "name": "Arta's beach",
+                  "text": "Plajă la portul din Shëngjin.",
+                  "category": "recreational",
+                  "coords": [
+                        19.572327,
+                        41.813419
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plazhi i Shëngjinit",
+                  "text": "Beach at the Port of Shëngjin.",
+                  "category": "recreational",
+                  "coords": [
+                        19.597056,
+                        41.78854
+                  ]
+            },
+            {
+                  "name": "Arome Deti",
+                  "text": "Beach near the port of Shëngjin.",
+                  "category": "recreational",
+                  "coords": [
+                        19.602985,
+                        41.787518
+                  ]
+            },
+            {
+                  "name": "Arta's beach",
+                  "text": "Beach at the Port of Shëngjin.",
+                  "category": "recreational",
+                  "coords": [
+                        19.572327,
+                        41.813419
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "port",
     name: { de: "Hafen von Shëngjin", hu: "Shëngjini kikötő", ro: "Portul Shëngjin", en: "Port of Shëngjin"},
@@ -739,7 +901,52 @@ imageHint: "Vintage oil derricks and modern drilling equipment in Kucove",
     },
     image: "/poi-images/albania-kucove-oil-field-economic-v2.webp",
 },  {
-    id: "albania-port-of-sarande-economic-v2",
+    id: "albania-port-of-sarande-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plazhi i Kakomesë",
+                  "text": "Plazhi i Kakomesë ist eine Bucht in der Nähe von Sarandë.",
+                  "category": "recreational",
+                  "coords": [
+                        19.938253,
+                        39.926806
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plazhi i Kakomesë",
+                  "text": "Plazhi i Kakomesë egy öböl Sarandë közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        19.938253,
+                        39.926806
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plazhi i Kakomesë",
+                  "text": "Plazhi i Kakomesë este un golf lângă Sarandë.",
+                  "category": "recreational",
+                  "coords": [
+                        19.938253,
+                        39.926806
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plazhi i Kakomesë",
+                  "text": "Plazhi i Kakomesë is a bay near Sarandë.",
+                  "category": "recreational",
+                  "coords": [
+                        19.938253,
+                        39.926806
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "port",
     name: { de: "Hafen von Sarandë", hu: "Sarandai kikötő", ro: "Portul Sarandë", en: "Port of Sarandë"},
@@ -831,7 +1038,88 @@ imageHint: "Railway tracks and freight trains at the Durres station",
     },
     image: "/poi-images/albania-durres-railway-hub-economic-v2.webp",
 },  {
-    id: "albania-shkoder-industrial-zone-economic-v2",
+    id: "albania-shkoder-industrial-zone-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plazhi Publik i Shirokës",
+                  "text": "Öffentlicher Strand bei der Industriezone Shkodra.",
+                  "category": "recreational",
+                  "coords": [
+                        19.449776,
+                        42.060574
+                  ]
+            },
+            {
+                  "name": "Bregu i Renës",
+                  "text": "Strand in der Nähe der Industriezone von Shkodër.",
+                  "category": "recreational",
+                  "coords": [
+                        19.473031,
+                        42.082839
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plazhi Publik i Shirokës",
+                  "text": "Nyilvános strand a Shkodra ipari zónánál.",
+                  "category": "recreational",
+                  "coords": [
+                        19.449776,
+                        42.060574
+                  ]
+            },
+            {
+                  "name": "Bregu i Renës",
+                  "text": "Strand a Shkodër ipari övezetének közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        19.473031,
+                        42.082839
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plazhi Publik i Shirokës",
+                  "text": "Plajă publică lângă zona industrială Shkodra.",
+                  "category": "recreational",
+                  "coords": [
+                        19.449776,
+                        42.060574
+                  ]
+            },
+            {
+                  "name": "Bregu i Renës",
+                  "text": "Plajă lângă zona industrială a orașului Shkodër.",
+                  "category": "recreational",
+                  "coords": [
+                        19.473031,
+                        42.082839
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plazhi Publik i Shirokës",
+                  "text": "Public beach near the Shkoder industrial zone.",
+                  "category": "recreational",
+                  "coords": [
+                        19.449776,
+                        42.060574
+                  ]
+            },
+            {
+                  "name": "Bregu i Renës",
+                  "text": "Beach near the industrial zone of Shkodër.",
+                  "category": "recreational",
+                  "coords": [
+                        19.473031,
+                        42.082839
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "factory",
     name: { de: "Industriezone Shkodër", hu: "Shkodëri ipari zóna", ro: "Zona industrială Shkodër", en: "Shkodër Industrial Zone"},
@@ -1245,7 +1533,52 @@ imageHint: "Natural gas extraction facility and pipelines in Divjake",
     },
     image: "/poi-images/albania-divjake-gas-field-economic-v2.webp",
 },  {
-    id: "albania-sarande-ferry-terminal-economic-v2",
+    id: "albania-sarande-ferry-terminal-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plazhi Kodër",
+                  "text": "Städtischer Strand bei Sarandë.",
+                  "category": "recreational",
+                  "coords": [
+                        19.996827,
+                        39.869805
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plazhi Kodër",
+                  "text": "Városi strand Sarandë közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        19.996827,
+                        39.869805
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plazhi Kodër",
+                  "text": "Plajă urbană lângă Sarandë.",
+                  "category": "recreational",
+                  "coords": [
+                        19.996827,
+                        39.869805
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plazhi Kodër",
+                  "text": "Urban beach near Sarandë.",
+                  "category": "recreational",
+                  "coords": [
+                        19.996827,
+                        39.869805
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "port",
     name: { de: "Fährterminal Sarandë", hu: "Sarandai kompterminál", ro: "Terminalul de feribot Sarandë", en: "Sarandë Ferry Terminal"},
@@ -1291,7 +1624,88 @@ imageHint: "Busy ferry terminal with ships docking in Sarande",
     },
     image: "/poi-images/albania-sarande-ferry-terminal-economic-v2.webp",
 },  {
-    id: "albania-vlore-industrial-park-economic-v2",
+    id: "albania-vlore-industrial-park-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cuba Beach, Vlore",
+                  "text": "Cuba Strand nahe dem Industriegebiet von Vlora.",
+                  "category": "recreational",
+                  "coords": [
+                        19.440994,
+                        40.481308
+                  ]
+            },
+            {
+                  "name": "Windsurfeñ",
+                  "text": "Strand beim Industriepark Vlorë.",
+                  "category": "recreational",
+                  "coords": [
+                        19.424488,
+                        40.494858
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cuba Beach, Vlore",
+                  "text": "Cuba strand a Vlora ipari park közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        19.440994,
+                        40.481308
+                  ]
+            },
+            {
+                  "name": "Windsurfeñ",
+                  "text": "Strand a Vlorë ipari parknál.",
+                  "category": "recreational",
+                  "coords": [
+                        19.424488,
+                        40.494858
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cuba Beach, Vlore",
+                  "text": "Plaja Cuba lângă zona industrială din Vlora.",
+                  "category": "recreational",
+                  "coords": [
+                        19.440994,
+                        40.481308
+                  ]
+            },
+            {
+                  "name": "Windsurfeñ",
+                  "text": "Plajă lângă Parcul Industrial Vlorë.",
+                  "category": "recreational",
+                  "coords": [
+                        19.424488,
+                        40.494858
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cuba Beach, Vlore",
+                  "text": "Cuba beach near the Vlore Industrial Park.",
+                  "category": "recreational",
+                  "coords": [
+                        19.440994,
+                        40.481308
+                  ]
+            },
+            {
+                  "name": "Windsurfeñ",
+                  "text": "Beach near Vlore Industrial Park.",
+                  "category": "recreational",
+                  "coords": [
+                        19.424488,
+                        40.494858
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "industry",
     name: { de: "Industriepark Vlorë", hu: "Vlorai ipari park", ro: "Parcul industrial Vlorë", en: "Vlorë Industrial Park"},

@@ -48,7 +48,52 @@ export const estoniaNatureV2: POI[] = [
     image: "/poi-images/estonia-tuhu-bog-nature-v2.webp",
   },
   {
-    id: "estonia-keila-waterfall-nature-v2",
+    id: "estonia-keila-waterfall-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vasalemma Tibula supelrand",
+                  "text": "Badestrand am Tibula bei Keila-Joa.",
+                  "category": "recreational",
+                  "coords": [
+                        24.284471,
+                        59.236922
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vasalemma Tibula supelrand",
+                  "text": "Strand a Tibulánál, Keila-Joa közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        24.284471,
+                        59.236922
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vasalemma Tibula supelrand",
+                  "text": "Plajă la Tibula, lângă cascada Keila.",
+                  "category": "recreational",
+                  "coords": [
+                        24.284471,
+                        59.236922
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vasalemma Tibula supelrand",
+                  "text": "Beach at Tibula near Keila Waterfall.",
+                  "category": "recreational",
+                  "coords": [
+                        24.284471,
+                        59.236922
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "EE",
     name: { de: "Keila-Wasserfall", hu: "Keila-vízesés", ro: "Cascada Keila", en: "Keila Waterfall" },
@@ -183,7 +228,52 @@ export const estoniaNatureV2: POI[] = [
     image: "/poi-images/estonia-piusa-sandstone-nature-v2.webp",
   },
   {
-    id: "estonia-nava-river-nature-v2",
+    id: "estonia-nava-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Aidu supelrand",
+                  "text": "Strand in Aidu.",
+                  "category": "recreational",
+                  "coords": [
+                        26.246668,
+                        58.741704
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Aidu supelrand",
+                  "text": "Strand Aiduban.",
+                  "category": "recreational",
+                  "coords": [
+                        26.246668,
+                        58.741704
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Aidu supelrand",
+                  "text": "Plajă în Aidu.",
+                  "category": "recreational",
+                  "coords": [
+                        26.246668,
+                        58.741704
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Aidu supelrand",
+                  "text": "Beach in Aidu.",
+                  "category": "recreational",
+                  "coords": [
+                        26.246668,
+                        58.741704
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "EE",
     name: { de: "Nava-Fluss", hu: "Nava-folyó", ro: "Râul Nava", en: "Nava River" },
@@ -408,7 +498,88 @@ export const estoniaNatureV2: POI[] = [
     image: "/poi-images/estonia-kollase-lake-nature-v2.webp",
   },
   {
-    id: "estonia-vohandu-river-nature-v2",
+    id: "estonia-vohandu-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Räpina supelrand",
+                  "text": "Strand bei Räpina.",
+                  "category": "recreational",
+                  "coords": [
+                        27.456297,
+                        58.10106
+                  ]
+            },
+            {
+                  "name": "Meelva supelrand",
+                  "text": "Meelva-Badestrand am Fluss Võhandu.",
+                  "category": "recreational",
+                  "coords": [
+                        27.382638,
+                        58.138551
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Räpina supelrand",
+                  "text": "Strand Räpinánál.",
+                  "category": "recreational",
+                  "coords": [
+                        27.456297,
+                        58.10106
+                  ]
+            },
+            {
+                  "name": "Meelva supelrand",
+                  "text": "Meelva strand a Võhandu folyónál.",
+                  "category": "recreational",
+                  "coords": [
+                        27.382638,
+                        58.138551
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Räpina supelrand",
+                  "text": "Plajă lângă Räpina.",
+                  "category": "recreational",
+                  "coords": [
+                        27.456297,
+                        58.10106
+                  ]
+            },
+            {
+                  "name": "Meelva supelrand",
+                  "text": "Plaja Meelva pe râul Võhandu.",
+                  "category": "recreational",
+                  "coords": [
+                        27.382638,
+                        58.138551
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Räpina supelrand",
+                  "text": "Beach near Räpina.",
+                  "category": "recreational",
+                  "coords": [
+                        27.456297,
+                        58.10106
+                  ]
+            },
+            {
+                  "name": "Meelva supelrand",
+                  "text": "Meelva beach on Võhandu river.",
+                  "category": "recreational",
+                  "coords": [
+                        27.382638,
+                        58.138551
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "EE",
     name: { de: "Võhandu-Fluss", hu: "Võhandu-folyó", ro: "Râul Võhandu", en: "Võhandu River" },

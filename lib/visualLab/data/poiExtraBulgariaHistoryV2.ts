@@ -543,7 +543,196 @@ export const bulgariaHistoryV2: POI[] = [
     image: "/poi-images/bulgaria-dobrich-ethnographic-history-v2.webp",
   },
   {
-    id: "bulgaria-varna-roman-thermae-history-v2",
+    id: "bulgaria-varna-roman-thermae-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Yuzhen plazh",
+                  "text": "Ein Stadtstrand bei Varna am Schwarzen Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        27.922261,
+                        43.198623
+                  ]
+            },
+            {
+                  "name": "Tsentralen plazh",
+                  "text": "Ein Stadtstrand bei Varna am Schwarzen Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        27.925438,
+                        43.203389
+                  ]
+            },
+            {
+                  "name": "Plazh Asparuhovo",
+                  "text": "Ein Strand bei Varna am Schwarzen Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        27.912871,
+                        43.177514
+                  ]
+            },
+            {
+                  "name": "plazh Ofitserski-zapad",
+                  "text": "Ein Strand bei Varna am Schwarzen Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        27.933781,
+                        43.206305
+                  ]
+            },
+            {
+                  "name": "Galata Sever",
+                  "text": "Ein Strand bei Warna am Schwarzen Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        27.944942,
+                        43.160671
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Yuzhen plazh",
+                  "text": "Egy városi strand Várna mellett, a Fekete-tengeren.",
+                  "category": "recreational",
+                  "coords": [
+                        27.922261,
+                        43.198623
+                  ]
+            },
+            {
+                  "name": "Tsentralen plazh",
+                  "text": "Egy városi strand Várna mellett, a Fekete-tengeren.",
+                  "category": "recreational",
+                  "coords": [
+                        27.925438,
+                        43.203389
+                  ]
+            },
+            {
+                  "name": "Plazh Asparuhovo",
+                  "text": "Egy strand Várna mellett, a Fekete-tengeren.",
+                  "category": "recreational",
+                  "coords": [
+                        27.912871,
+                        43.177514
+                  ]
+            },
+            {
+                  "name": "plazh Ofitserski-zapad",
+                  "text": "Egy strand Várna mellett, a Fekete-tengeren.",
+                  "category": "recreational",
+                  "coords": [
+                        27.933781,
+                        43.206305
+                  ]
+            },
+            {
+                  "name": "Galata Sever",
+                  "text": "Strand Várna közelében, a Fekete-tengeren.",
+                  "category": "recreational",
+                  "coords": [
+                        27.944942,
+                        43.160671
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Yuzhen plazh",
+                  "text": "O plajă urbană lângă Varna la Marea Neagră.",
+                  "category": "recreational",
+                  "coords": [
+                        27.922261,
+                        43.198623
+                  ]
+            },
+            {
+                  "name": "Tsentralen plazh",
+                  "text": "O plajă urbană lângă Varna la Marea Neagră.",
+                  "category": "recreational",
+                  "coords": [
+                        27.925438,
+                        43.203389
+                  ]
+            },
+            {
+                  "name": "Plazh Asparuhovo",
+                  "text": "O plajă lângă Varna la Marea Neagră.",
+                  "category": "recreational",
+                  "coords": [
+                        27.912871,
+                        43.177514
+                  ]
+            },
+            {
+                  "name": "plazh Ofitserski-zapad",
+                  "text": "O plajă lângă Varna la Marea Neagră.",
+                  "category": "recreational",
+                  "coords": [
+                        27.933781,
+                        43.206305
+                  ]
+            },
+            {
+                  "name": "Galata Sever",
+                  "text": "O plajă lângă Varna, la Marea Neagră.",
+                  "category": "recreational",
+                  "coords": [
+                        27.944942,
+                        43.160671
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Yuzhen plazh",
+                  "text": "A city beach near Varna on the Black Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        27.922261,
+                        43.198623
+                  ]
+            },
+            {
+                  "name": "Tsentralen plazh",
+                  "text": "A city beach near Varna on the Black Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        27.925438,
+                        43.203389
+                  ]
+            },
+            {
+                  "name": "Plazh Asparuhovo",
+                  "text": "A beach near Varna on the Black Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        27.912871,
+                        43.177514
+                  ]
+            },
+            {
+                  "name": "plazh Ofitserski-zapad",
+                  "text": "A beach near Varna on the Black Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        27.933781,
+                        43.206305
+                  ]
+            },
+            {
+                  "name": "Galata Sever",
+                  "text": "A beach near Varna on the Black Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        27.944942,
+                        43.160671
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "BG",
     name: { de: "Römische Thermen von Warna", hu: "Várnai római termák", ro: "Termele romane din Varna", en: "Roman Thermae of Varna" },

@@ -141,7 +141,124 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     },
   },
   {
-    id: "adana-cities-v2",
+    id: "adana-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Atatürk Sahil",
+                  "text": "Atatürk Sahil ist ein bekannter Strandbereich in Adana.",
+                  "category": "recreational",
+                  "coords": [
+                        35.323658,
+                        36.997372
+                  ]
+            },
+            {
+                  "name": "Merkez Sahil",
+                  "text": "Merkez Sahil ist ein zentral gelegener Strand in der Stadt Adana.",
+                  "category": "recreational",
+                  "coords": [
+                        35.336089,
+                        36.995977
+                  ]
+            },
+            {
+                  "name": "Yüreğir Merkez Sahil",
+                  "text": "Yüreğir Merkez Sahil ist ein lokales Strandziel in Adana.",
+                  "category": "recreational",
+                  "coords": [
+                        35.337813,
+                        36.995297
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Atatürk Sahil",
+                  "text": "Az Atatürk Sahil egy kiemelkedő strandterület Adanában.",
+                  "category": "recreational",
+                  "coords": [
+                        35.323658,
+                        36.997372
+                  ]
+            },
+            {
+                  "name": "Merkez Sahil",
+                  "text": "A Merkez Sahil egy központi elhelyezkedésű strand Adana városában.",
+                  "category": "recreational",
+                  "coords": [
+                        35.336089,
+                        36.995977
+                  ]
+            },
+            {
+                  "name": "Yüreğir Merkez Sahil",
+                  "text": "A Yüreğir Merkez Sahil egy helyi strand Adanában.",
+                  "category": "recreational",
+                  "coords": [
+                        35.337813,
+                        36.995297
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Atatürk Sahil",
+                  "text": "Atatürk Sahil este o zonă de plajă importantă situată în Adana.",
+                  "category": "recreational",
+                  "coords": [
+                        35.323658,
+                        36.997372
+                  ]
+            },
+            {
+                  "name": "Merkez Sahil",
+                  "text": "Merkez Sahil este o plajă situată central în orașul Adana.",
+                  "category": "recreational",
+                  "coords": [
+                        35.336089,
+                        36.995977
+                  ]
+            },
+            {
+                  "name": "Yüreğir Merkez Sahil",
+                  "text": "Yüreğir Merkez Sahil este o destinație de plajă locală în Adana.",
+                  "category": "recreational",
+                  "coords": [
+                        35.337813,
+                        36.995297
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Atatürk Sahil",
+                  "text": "Atatürk Sahil is a prominent beach area situated in Adana.",
+                  "category": "recreational",
+                  "coords": [
+                        35.323658,
+                        36.997372
+                  ]
+            },
+            {
+                  "name": "Merkez Sahil",
+                  "text": "Merkez Sahil is a centrally located beach in the city of Adana.",
+                  "category": "recreational",
+                  "coords": [
+                        35.336089,
+                        36.995977
+                  ]
+            },
+            {
+                  "name": "Yüreğir Merkez Sahil",
+                  "text": "Yüreğir Merkez Sahil is a local beach destination in Adana.",
+                  "category": "recreational",
+                  "coords": [
+                        35.337813,
+                        36.995297
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TR-01",
     coords: [35.3213, 37.0000],
@@ -249,7 +366,52 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     },
   },
   {
-    id: "antalya-cities-v2",
+    id: "antalya-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "İnciraltı Plajı",
+                  "text": "İnciraltı Plajı ist ein Strand, der Entspannung am Meer in Antalya bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        30.729001,
+                        36.859828
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "İnciraltı Plajı",
+                  "text": "Az İnciraltı Plajı egy tengerparti pihenést nyújtó strand Antalyában.",
+                  "category": "recreational",
+                  "coords": [
+                        30.729001,
+                        36.859828
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "İnciraltı Plajı",
+                  "text": "İnciraltı Plajı este o plajă care oferă relaxare pe litoral în Antalya.",
+                  "category": "recreational",
+                  "coords": [
+                        30.729001,
+                        36.859828
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "İnciraltı Plajı",
+                  "text": "İnciraltı Plajı is a beach offering seaside relaxation in Antalya.",
+                  "category": "recreational",
+                  "coords": [
+                        30.729001,
+                        36.859828
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TR-07",
     coords: [30.7133, 36.8969],
@@ -429,7 +591,88 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     },
   },
   {
-    id: "samsun-cities-v2",
+    id: "samsun-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mert Plajı",
+                  "text": "Mert Plajı ist ein Strand in der Stadt Samsun.",
+                  "category": "recreational",
+                  "coords": [
+                        36.352296,
+                        41.28173
+                  ]
+            },
+            {
+                  "name": "Fener Plajı",
+                  "text": "Fener Plajı ist ein Strandziel an der Küste in Samsun.",
+                  "category": "recreational",
+                  "coords": [
+                        36.337192,
+                        41.315656
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mert Plajı",
+                  "text": "A Mert Plajı egy strand Samsun városában.",
+                  "category": "recreational",
+                  "coords": [
+                        36.352296,
+                        41.28173
+                  ]
+            },
+            {
+                  "name": "Fener Plajı",
+                  "text": "A Fener Plajı egy tengerparti strand Samsunban.",
+                  "category": "recreational",
+                  "coords": [
+                        36.337192,
+                        41.315656
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mert Plajı",
+                  "text": "Mert Plajı este o plajă situată în orașul Samsun.",
+                  "category": "recreational",
+                  "coords": [
+                        36.352296,
+                        41.28173
+                  ]
+            },
+            {
+                  "name": "Fener Plajı",
+                  "text": "Fener Plajı este o destinație de plajă pe coastă situată în Samsun.",
+                  "category": "recreational",
+                  "coords": [
+                        36.337192,
+                        41.315656
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mert Plajı",
+                  "text": "Mert Plajı is a beach located in the city of Samsun.",
+                  "category": "recreational",
+                  "coords": [
+                        36.352296,
+                        41.28173
+                  ]
+            },
+            {
+                  "name": "Fener Plajı",
+                  "text": "Fener Plajı is a coastal beach destination located in Samsun.",
+                  "category": "recreational",
+                  "coords": [
+                        36.337192,
+                        41.315656
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TR-55",
     coords: [36.3300, 41.2867],
@@ -933,7 +1176,52 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     },
   },
   {
-    id: "trabzon-cities-v2",
+    id: "trabzon-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ayasofya Plajı",
+                  "text": "Ayasofya Plajı ist ein Strand an der Küste von Trabzon.",
+                  "category": "recreational",
+                  "coords": [
+                        39.698193,
+                        41.006883
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ayasofya Plajı",
+                  "text": "Az Ayasofya Plajı egy strand Trabzon partvidékén.",
+                  "category": "recreational",
+                  "coords": [
+                        39.698193,
+                        41.006883
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ayasofya Plajı",
+                  "text": "Ayasofya Plajı este o plajă situată de-a lungul coastei din Trabzon.",
+                  "category": "recreational",
+                  "coords": [
+                        39.698193,
+                        41.006883
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ayasofya Plajı",
+                  "text": "Ayasofya Plajı is a beach situated along the coast of Trabzon.",
+                  "category": "recreational",
+                  "coords": [
+                        39.698193,
+                        41.006883
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TR-61",
     coords: [39.7167, 41.0000],
@@ -969,7 +1257,52 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     },
   },
   {
-    id: "tekirdag-cities-v2",
+    id: "tekirdag-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dereağzı Halk Plajı",
+                  "text": "Dereağzı Halk Plajı ist ein öffentlicher Strand in Tekirdag.",
+                  "category": "recreational",
+                  "coords": [
+                        27.559063,
+                        40.980787
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dereağzı Halk Plajı",
+                  "text": "A Dereağzı Halk Plajı egy nyilvános strand Tekirdağ városában.",
+                  "category": "recreational",
+                  "coords": [
+                        27.559063,
+                        40.980787
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dereağzı Halk Plajı",
+                  "text": "Dereağzı Halk Plajı este o plajă publică în Tekirdag.",
+                  "category": "recreational",
+                  "coords": [
+                        27.559063,
+                        40.980787
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dereağzı Halk Plajı",
+                  "text": "Dereağzı Halk Plajı is a public beach in Tekirdag.",
+                  "category": "recreational",
+                  "coords": [
+                        27.559063,
+                        40.980787
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TR-59",
     coords: [27.5167, 40.9833],

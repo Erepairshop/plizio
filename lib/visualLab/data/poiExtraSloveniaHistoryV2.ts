@@ -417,7 +417,52 @@ imageHint: "Wooden barracks of a secret hospital in a rocky gorge",
     },
     image: "/poi-images/slovenia-franja-hospital-history-v2.webp",
 },  {
-    id: "slovenia-kobarid-ossuary-history-v2",
+    id: "slovenia-kobarid-ossuary-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kobarid Beach",
+                  "text": "Strand bei der Gedenkstätte Kobarid.",
+                  "category": "recreational",
+                  "coords": [
+                        13.586991,
+                        46.247321
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kobarid Beach",
+                  "text": "Strand a Kobaridi osszárium mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        13.586991,
+                        46.247321
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kobarid Beach",
+                  "text": "Plajă lângă Osuarul Kobarid.",
+                  "category": "recreational",
+                  "coords": [
+                        13.586991,
+                        46.247321
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kobarid Beach",
+                  "text": "Beach near Kobarid Ossuary.",
+                  "category": "recreational",
+                  "coords": [
+                        13.586991,
+                        46.247321
+                  ]
+            }
+      ]
+},
     parent: "SI",
     type: "monument",
     name: { de: "Beinhaus von Kobarid", hu: "Kobaridi osszárium", ro: "Osuarul din Kobarid", en: "Kobarid Ossuary"},

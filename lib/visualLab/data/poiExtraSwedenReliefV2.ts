@@ -233,7 +233,52 @@ imageHint: "Sylarna mountain massif peaks",
     },
     image: "/poi-images/sweden-sylarna-relief-v2.webp",
 },  {
-    id: "sweden-areskutan-relief-v2",
+    id: "sweden-areskutan-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Åre strand",
+                  "text": "Strand in Åre, unterhalb des Åreskutan.",
+                  "category": "recreational",
+                  "coords": [
+                        13.076263,
+                        63.39627
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Åre strand",
+                  "text": "Strand Årében, az Åreskutan hegy alatt.",
+                  "category": "recreational",
+                  "coords": [
+                        13.076263,
+                        63.39627
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Åre strand",
+                  "text": "Plajă în Åre, sub muntele Åreskutan.",
+                  "category": "recreational",
+                  "coords": [
+                        13.076263,
+                        63.39627
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Åre strand",
+                  "text": "Beach in Åre, below the Åreskutan mountain.",
+                  "category": "recreational",
+                  "coords": [
+                        13.076263,
+                        63.39627
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "mountain",
     name: { de: "Åreskutan", hu: "Åreskutan", ro: "Åreskutan", en: "Åreskutan"},
@@ -1877,7 +1922,52 @@ imageHint: "Nallo mountain peak Needle Lapland",
     image: "/poi-images/sweden-tiveden-hojder-relief-v2.webp",
   },
   {
-    id: "sweden-kristinehamns-backar-relief-v2",
+    id: "sweden-kristinehamns-backar-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Skymninges Badplats",
+                  "text": "Skymninges Badplats liegt in der Nähe von Kristinehamn.",
+                  "category": "recreational",
+                  "coords": [
+                        14.059291,
+                        59.302935
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Skymninges Badplats",
+                  "text": "Skymninges Badplats Kristinehamn közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        14.059291,
+                        59.302935
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Skymninges Badplats",
+                  "text": "Skymninges Badplats este situată lângă Kristinehamn.",
+                  "category": "recreational",
+                  "coords": [
+                        14.059291,
+                        59.302935
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Skymninges Badplats",
+                  "text": "Skymninges Badplats is located near Kristinehamn.",
+                  "category": "recreational",
+                  "coords": [
+                        14.059291,
+                        59.302935
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "SE",
     name: { de: "Kristinehamn-Hügel", hu: "Kristinehamn-dombok", ro: "Dealurile Kristinehamn", en: "Kristinehamn Hills" },

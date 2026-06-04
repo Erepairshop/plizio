@@ -723,7 +723,124 @@ export const bulgariaCitiesV2: POI[] = [
     image: "/poi-images/bulgaria-koprivshtitsa-cities-v2.webp",
   },
   {
-    id: "bulgaria-kavarna-cities-v2",
+    id: "bulgaria-kavarna-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Babeshkiya plazh",
+                  "text": "Ein Strand bei Kavarna am Schwarzen Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        28.352647,
+                        43.413371
+                  ]
+            },
+            {
+                  "name": "Bendida Beach",
+                  "text": "Ein Strand bei Kavarna am Schwarzen Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        28.298808,
+                        43.416383
+                  ]
+            },
+            {
+                  "name": "Argata Beach",
+                  "text": "Ein Strand bei Kavarna am Schwarzen Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        28.288095,
+                        43.413909
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Babeshkiya plazh",
+                  "text": "Strand Kavarna közelében a Fekete-tengeren.",
+                  "category": "recreational",
+                  "coords": [
+                        28.352647,
+                        43.413371
+                  ]
+            },
+            {
+                  "name": "Bendida Beach",
+                  "text": "Strand Kavarna közelében a Fekete-tengeren.",
+                  "category": "recreational",
+                  "coords": [
+                        28.298808,
+                        43.416383
+                  ]
+            },
+            {
+                  "name": "Argata Beach",
+                  "text": "Strand Kavarna közelében a Fekete-tengeren.",
+                  "category": "recreational",
+                  "coords": [
+                        28.288095,
+                        43.413909
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Babeshkiya plazh",
+                  "text": "O plajă lângă Kavarna la Marea Neagră.",
+                  "category": "recreational",
+                  "coords": [
+                        28.352647,
+                        43.413371
+                  ]
+            },
+            {
+                  "name": "Bendida Beach",
+                  "text": "O plajă lângă Kavarna la Marea Neagră.",
+                  "category": "recreational",
+                  "coords": [
+                        28.298808,
+                        43.416383
+                  ]
+            },
+            {
+                  "name": "Argata Beach",
+                  "text": "O plajă lângă Kavarna la Marea Neagră.",
+                  "category": "recreational",
+                  "coords": [
+                        28.288095,
+                        43.413909
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Babeshkiya plazh",
+                  "text": "A beach near Kavarna on the Black Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        28.352647,
+                        43.413371
+                  ]
+            },
+            {
+                  "name": "Bendida Beach",
+                  "text": "A beach near Kavarna on the Black Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        28.298808,
+                        43.416383
+                  ]
+            },
+            {
+                  "name": "Argata Beach",
+                  "text": "A beach near Kavarna on the Black Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        28.288095,
+                        43.413909
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BG",
     name: { de: "Kawarna", hu: "Kavarna", ro: "Cavarna", en: "Kavarna" },
@@ -1218,7 +1335,124 @@ export const bulgariaCitiesV2: POI[] = [
     image: "/poi-images/bulgaria-nova-zagora-cities-v2.webp",
   },
   {
-    id: "bulgaria-byala-cities-v2",
+    id: "bulgaria-byala-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "White Cliffs Byala",
+                  "text": "Ein Strand nahe Byala am Schwarzen Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        27.896806,
+                        42.872547
+                  ]
+            },
+            {
+                  "name": "Chayka",
+                  "text": "Ein Strand nahe Byala am Schwarzen Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        27.898026,
+                        42.854234
+                  ]
+            },
+            {
+                  "name": "Kara dere",
+                  "text": "Ein naturbelassener Strand bei Byala am Schwarzen Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        27.899027,
+                        42.904027
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "White Cliffs Byala",
+                  "text": "Egy strand a bulgáriai Bjala közelében, a Fekete-tengeren.",
+                  "category": "recreational",
+                  "coords": [
+                        27.896806,
+                        42.872547
+                  ]
+            },
+            {
+                  "name": "Chayka",
+                  "text": "Egy strand a bulgáriai Bjala közelében, a Fekete-tengeren.",
+                  "category": "recreational",
+                  "coords": [
+                        27.898026,
+                        42.854234
+                  ]
+            },
+            {
+                  "name": "Kara dere",
+                  "text": "Természetes strand a Fekete-tenger partján, Byala közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        27.899027,
+                        42.904027
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "White Cliffs Byala",
+                  "text": "O plajă lângă Byala la Marea Neagră.",
+                  "category": "recreational",
+                  "coords": [
+                        27.896806,
+                        42.872547
+                  ]
+            },
+            {
+                  "name": "Chayka",
+                  "text": "O plajă lângă Byala la Marea Neagră.",
+                  "category": "recreational",
+                  "coords": [
+                        27.898026,
+                        42.854234
+                  ]
+            },
+            {
+                  "name": "Kara dere",
+                  "text": "O plajă naturală lângă Byala, la Marea Neagră.",
+                  "category": "recreational",
+                  "coords": [
+                        27.899027,
+                        42.904027
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "White Cliffs Byala",
+                  "text": "A beach near Byala on the Black Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        27.896806,
+                        42.872547
+                  ]
+            },
+            {
+                  "name": "Chayka",
+                  "text": "A beach near Byala on the Black Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        27.898026,
+                        42.854234
+                  ]
+            },
+            {
+                  "name": "Kara dere",
+                  "text": "A natural beach near Byala on the Black Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        27.899027,
+                        42.904027
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BG",
     name: { de: "Bjala", hu: "Byala", ro: "Beala", en: "Byala" },
@@ -1668,7 +1902,52 @@ export const bulgariaCitiesV2: POI[] = [
     image: "/poi-images/bulgaria-pirdop-cities-v2.webp",
   },
   {
-    id: "bulgaria-belene-cities-v2",
+    id: "bulgaria-belene-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ruski plazh",
+                  "text": "Ein Uferstrand bei Belene.",
+                  "category": "recreational",
+                  "coords": [
+                        25.291223,
+                        43.651151
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ruski plazh",
+                  "text": "Parti strand Belene közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        25.291223,
+                        43.651151
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ruski plazh",
+                  "text": "O plajă pe malul râului lângă Belene.",
+                  "category": "recreational",
+                  "coords": [
+                        25.291223,
+                        43.651151
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ruski plazh",
+                  "text": "A riverside beach near Belene.",
+                  "category": "recreational",
+                  "coords": [
+                        25.291223,
+                        43.651151
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BG",
     name: { de: "Belene", hu: "Belene", ro: "Belene", en: "Belene" },
@@ -2163,7 +2442,88 @@ export const bulgariaCitiesV2: POI[] = [
     image: "/poi-images/bulgaria-bobrek-cities-v2.webp",
   },
   {
-    id: "bulgaria-chernomorets-cities-v2",
+    id: "bulgaria-chernomorets-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tsarski plazh",
+                  "text": "Ein Strand bei Tschernomorez am Schwarzen Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        27.647264,
+                        42.439455
+                  ]
+            },
+            {
+                  "name": "Chernomorets",
+                  "text": "Ein Strand bei Tschernomorez am Schwarzen Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        27.637371,
+                        42.449151
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tsarski plazh",
+                  "text": "Strand Csernomorec közelében, a Fekete-tenger partján.",
+                  "category": "recreational",
+                  "coords": [
+                        27.647264,
+                        42.439455
+                  ]
+            },
+            {
+                  "name": "Chernomorets",
+                  "text": "Strand Csernomorec közelében, a Fekete-tenger partján.",
+                  "category": "recreational",
+                  "coords": [
+                        27.637371,
+                        42.449151
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tsarski plazh",
+                  "text": "O plajă lângă Chernomorets, la Marea Neagră.",
+                  "category": "recreational",
+                  "coords": [
+                        27.647264,
+                        42.439455
+                  ]
+            },
+            {
+                  "name": "Chernomorets",
+                  "text": "O plajă lângă Chernomorets, la Marea Neagră.",
+                  "category": "recreational",
+                  "coords": [
+                        27.637371,
+                        42.449151
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tsarski plazh",
+                  "text": "A beach near Chernomorets on the Black Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        27.647264,
+                        42.439455
+                  ]
+            },
+            {
+                  "name": "Chernomorets",
+                  "text": "A beach near Chernomorets on the Black Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        27.637371,
+                        42.449151
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BG",
     name: { de: "Tschernomorez", hu: "Csernomorec", ro: "Cernomoreț", en: "Chernomorets" },
@@ -2298,7 +2658,52 @@ export const bulgariaCitiesV2: POI[] = [
     image: "/poi-images/bulgaria-klisura-cities-v2.webp",
   },
   {
-    id: "bulgaria-panagyurishte-cities-v2",
+    id: "bulgaria-panagyurishte-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mineralen plazh \"Lido\"",
+                  "text": "Ein Mineralbad-Strand bei Panagyurishte, nicht am Meer gelegen.",
+                  "category": "recreational",
+                  "coords": [
+                        24.181382,
+                        42.498054
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mineralen plazh \"Lido\"",
+                  "text": "Ásványfürdő strand Panagyurishte közelében, nem a tengerparton.",
+                  "category": "recreational",
+                  "coords": [
+                        24.181382,
+                        42.498054
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mineralen plazh \"Lido\"",
+                  "text": "O plajă cu băi minerale lângă Panagyurishte, care nu este pe litoral.",
+                  "category": "recreational",
+                  "coords": [
+                        24.181382,
+                        42.498054
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mineralen plazh \"Lido\"",
+                  "text": "A mineral bath beach near Panagyurishte, not located on the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        24.181382,
+                        42.498054
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BG",
     name: { de: "Panagjurischte", hu: "Panagyurishte", ro: "Panaghiuriște", en: "Panagyurishte" },
@@ -3738,7 +4143,52 @@ export const bulgariaCitiesV2: POI[] = [
     image: "/poi-images/bulgaria-banya-varna-2-cities-v2.webp",
   },
   {
-    id: "bulgaria-batenberg-burgas-2-cities-v2",
+    id: "bulgaria-batenberg-burgas-2-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ribarsko selishte",
+                  "text": "Ein Strand bei Burgas am Schwarzen Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        27.527235,
+                        42.435912
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ribarsko selishte",
+                  "text": "Strand Burgasz közelében, a Fekete-tengeren.",
+                  "category": "recreational",
+                  "coords": [
+                        27.527235,
+                        42.435912
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ribarsko selishte",
+                  "text": "O plajă lângă Burgas, la Marea Neagră.",
+                  "category": "recreational",
+                  "coords": [
+                        27.527235,
+                        42.435912
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ribarsko selishte",
+                  "text": "A beach near Burgas on the Black Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        27.527235,
+                        42.435912
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "BG",
     name: { de: "Batenberg (Burgas 2)", hu: "Batenberg (Burgasz 2)", ro: "Batenberg (Burgas 2)", en: "Batenberg (Burgas 2)" },
@@ -4143,7 +4593,52 @@ export const bulgariaCitiesV2: POI[] = [
     image: "/poi-images/bulgaria-banya-pleven-2-cities-v2.webp",
   },
   {
-    id: "bulgaria-banya-varna-3-cities-v2",
+    id: "bulgaria-banya-varna-3-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "plazh Veteran",
+                  "text": "Ein Strand bei Banya am Schwarzen Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        27.940307,
+                        43.142666
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "plazh Veteran",
+                  "text": "Strand Banya közelében, a Fekete-tenger partján.",
+                  "category": "recreational",
+                  "coords": [
+                        27.940307,
+                        43.142666
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "plazh Veteran",
+                  "text": "O plajă lângă Banya, la Marea Neagră.",
+                  "category": "recreational",
+                  "coords": [
+                        27.940307,
+                        43.142666
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "plazh Veteran",
+                  "text": "A beach near Banya on the Black Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        27.940307,
+                        43.142666
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "BG",
     name: { de: "Banja (Warna 3)", hu: "Banya (Varna 3)", ro: "Bania (Varna 3)", en: "Banya (Varna 3)" },

@@ -936,7 +936,52 @@ export const poiExtraDe3a: POI[] = [
     
       "tr": ["Wismar pazar meydanı, 10.000 metrekarelik alanıyla Kuzey Almanya'nın en büyüklerinden biridir.", "Wismar, 1648 Westfalyan Barışı'ndan 1903'e kadar resmi olarak İsveç yönetimi altında kalmıştır.", "Eski şehir merkezi, 2002 yılında Stralsund ile birlikte UNESCO Dünya Mirası listesine alınmıştır.", "St.-Georgen-Kirche, 2. Dünya Savaşı'nda ağır hasar görmeden önce tuğla gotiğinin en devasa yapılarından birine sahipti.", "1380 tarihli Alter Schwede binası, şehrin bilinen en eski sivil evidir.", "Pazar meydanındaki Wasserkunst, yüzyıllar boyunca şehrin içme suyu ihtiyacını karşılamıştır."]}, image: "/poi-images/port-wismar-extra.webp"},
   {
-    id: "forest-darss-extra",
+    id: "forest-darss-extra", "sights": {
+      "de": [
+            {
+                  "name": "Weststrand",
+                  "text": "Der Weststrand liegt im Darßwald auf dem Fischland-Darß-Zingst.",
+                  "category": "recreational",
+                  "coords": [
+                        12.519921,
+                        54.483429
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Weststrand",
+                  "text": "A Weststrand a Darß erdőben, a Fischland-Darß-Zingst félszigeten található.",
+                  "category": "recreational",
+                  "coords": [
+                        12.519921,
+                        54.483429
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Weststrand",
+                  "text": "Plaja de Vest se află în pădurea Darß de pe peninsula Fischland-Darß-Zingst.",
+                  "category": "recreational",
+                  "coords": [
+                        12.519921,
+                        54.483429
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Weststrand",
+                  "text": "The West Beach is located in the Darß forest on the Fischland-Darß-Zingst peninsula.",
+                  "category": "recreational",
+                  "coords": [
+                        12.519921,
+                        54.483429
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "DE-MV",
     coords: [12.4833, 54.4833],
@@ -2111,7 +2156,52 @@ export const poiExtraDe3a: POI[] = [
     
       "tr": ["Nord-Ostsee-Kanal yaklaşık 100 kilometre uzunluğundadır ve 21 Haziran 1895'te açılmıştır.", "Dünyanın en yoğun kullanılan yapay deniz yolu kanalıdır.", "Kanalın kullanılmasıyla gemiler, Skagen rotasına kıyasla yaklaşık 460 kilometre tasarruf eder.", "Her iki uçta, Kiel-Holtenau ve Brunsbüttel'de devasa çift kilit sistemleri bulunur.", "Rendsburg'da, etkileyici Rendsburger Hochbrücke (asma feribotlu bir demiryolu köprüsü) kanalı geçer.", "Kanalın adı başlangıçta Kaiser-Wilhelm-Kanal idi ve Birinci Dünya Savaşı'ndan sonra değiştirildi."]}, image: "/poi-images/port-kiel-kanal-extra.webp"},
   {
-    id: "historical-schleswig-dom-extra",
+    id: "historical-schleswig-dom-extra", "sights": {
+      "de": [
+            {
+                  "name": "Luisenbad",
+                  "text": "Das Luisenbad befindet sich in Schleswig.",
+                  "category": "recreational",
+                  "coords": [
+                        9.559075,
+                        54.511229
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Luisenbad",
+                  "text": "A Luisenbad Schleswigben található.",
+                  "category": "recreational",
+                  "coords": [
+                        9.559075,
+                        54.511229
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Luisenbad",
+                  "text": "Luisenbad se află în Schleswig.",
+                  "category": "recreational",
+                  "coords": [
+                        9.559075,
+                        54.511229
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Luisenbad",
+                  "text": "The Luisenbad is located in Schleswig.",
+                  "category": "recreational",
+                  "coords": [
+                        9.559075,
+                        54.511229
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "DE-SH",
     coords: [9.5525, 54.5108],
@@ -2235,7 +2325,88 @@ export const poiExtraDe3a: POI[] = [
     
       "tr": ["Holstentor, 1990'dan 2001'e kadar Bundesbank'ın 50 Alman Markı banknotunun üzerinde yer almıştır.", "Kulelerin duvarları bazı yerlerde 3,50 metre kalınlığa ulaşmaktadır.", "Bina, 1464-1478 yılları arasında Lübeckli belediye mimarı Hinrich Helmstede tarafından inşa edilmiştir.", "Latince Concordia domi foris pax yazısı ancak 1871 yılında eklenmiştir.", "Yumuşak zemin nedeniyle kuleler eğilmektedir; çökme derinliği yaklaşık 50 santimetredir.", "Kapı, başlangıçta arka arkaya duran dört kapıdan oluşan Lübeck şehir tahkimatının bir parçasıdır."]}, image: "/poi-images/landmark-holstentor-extra.webp"},
   {
-    id: "island-foehr-extra",
+    id: "island-foehr-extra", "sights": {
+      "de": [
+            {
+                  "name": "Drachenstrand",
+                  "text": "Drachenstrand auf der Insel Föhr.",
+                  "category": "recreational",
+                  "coords": [
+                        8.541979,
+                        54.680281
+                  ]
+            },
+            {
+                  "name": "Raucherstrand",
+                  "text": "Raucherstrand auf der Insel Föhr.",
+                  "category": "recreational",
+                  "coords": [
+                        8.537763,
+                        54.680755
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Drachenstrand",
+                  "text": "Drachenstrand strand a Föhr szigeten.",
+                  "category": "recreational",
+                  "coords": [
+                        8.541979,
+                        54.680281
+                  ]
+            },
+            {
+                  "name": "Raucherstrand",
+                  "text": "Raucherstrand strand a Föhr szigeten.",
+                  "category": "recreational",
+                  "coords": [
+                        8.537763,
+                        54.680755
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Drachenstrand",
+                  "text": "Plaja Drachenstrand pe insula Föhr.",
+                  "category": "recreational",
+                  "coords": [
+                        8.541979,
+                        54.680281
+                  ]
+            },
+            {
+                  "name": "Raucherstrand",
+                  "text": "Plaja Raucherstrand pe insula Föhr.",
+                  "category": "recreational",
+                  "coords": [
+                        8.537763,
+                        54.680755
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Drachenstrand",
+                  "text": "Drachenstrand beach on the island of Föhr.",
+                  "category": "recreational",
+                  "coords": [
+                        8.541979,
+                        54.680281
+                  ]
+            },
+            {
+                  "name": "Raucherstrand",
+                  "text": "Raucherstrand beach on the island of Föhr.",
+                  "category": "recreational",
+                  "coords": [
+                        8.537763,
+                        54.680755
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "DE-SH",
     coords: [8.5167, 54.7000],
@@ -2359,7 +2530,52 @@ export const poiExtraDe3a: POI[] = [
     
       "tr": ["Große Plöner See, 58 metrelik maksimum derinliği ile Schleswig-Holstein'ın en derin gölüdür.", "Gölün yüzölçümü yaklaşık 29,97 kilometrekaredir.", "Gölün içinde, koruma altındaki Prinzeninsel dahil olmak üzere 21 ada bulunmaktadır.", "Kıyıdaki Plöner Schloss, 17. yüzyılda Rönesans tarzında inşa edilmiştir.", "Göl, görkemli deniz kartalı (Seeadler) için önemli bir yaşam alanıdır.", "Schleswig-Holstein'ın en uzun nehirlerinden biri olan Schwentine gölün içinden geçer."]}, image: "/poi-images/lake-ploenesee-extra.webp"},
   {
-    id: "historical-haithabu-extra",
+    id: "historical-haithabu-extra", "sights": {
+      "de": [
+            {
+                  "name": "Bäckerstrand",
+                  "text": "Der Bäckerstrand befindet sich in der Nähe des historischen Haithabu.",
+                  "category": "recreational",
+                  "coords": [
+                        9.600299,
+                        54.50634
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bäckerstrand",
+                  "text": "A Bäckerstrand a történelmi Haithabu közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        9.600299,
+                        54.50634
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bäckerstrand",
+                  "text": "Bäckerstrand se află în apropierea istoricului Haithabu.",
+                  "category": "recreational",
+                  "coords": [
+                        9.600299,
+                        54.50634
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bäckerstrand",
+                  "text": "Bäckerstrand is located near historic Haithabu.",
+                  "category": "recreational",
+                  "coords": [
+                        9.600299,
+                        54.50634
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "DE-SH",
     coords: [9.5669, 54.4878],
@@ -3630,7 +3846,52 @@ export const poiExtraDe3a: POI[] = [
     
       "tr": ["Nordertor yaklaşık 1595 yılında tamamlanmıştır.", "Tarihi Flensburg şehir tahkimatının günümüze ulaşan son kapısıdır.", "Yapı, Tuğla Rönesansı'nın karakteristik tarzında inşa edilmiştir.", "Kapının üzerindeki iki arma, Danimarka Kralı Christian IV. ve Flensburg şehrini göstermektedir.", "Şehir yerleşimi 19. yüzyıla kadar Nordertor'da sona eriyordu.", "1990 yılında Deutsche Bundespost, kapıyı kendi posta pulu ile onurlandırmıştır."]}, image: "/poi-images/landmark-nordertor-flensburg-extra.webp"},
   {
-    id: "port-hamburg-altona-sh-extra",
+    id: "port-hamburg-altona-sh-extra", "sights": {
+      "de": [
+            {
+                  "name": "Övelgönne",
+                  "text": "Övelgönne ist ein bekannter Strandabschnitt im Hamburger Hafen.",
+                  "category": "recreational",
+                  "coords": [
+                        9.90596,
+                        53.544274
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Övelgönne",
+                  "text": "Övelgönne egy közismert partszakasz a hamburgi kikötőben.",
+                  "category": "recreational",
+                  "coords": [
+                        9.90596,
+                        53.544274
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Övelgönne",
+                  "text": "Övelgönne este o zonă de plajă cunoscută în portul Hamburg.",
+                  "category": "recreational",
+                  "coords": [
+                        9.90596,
+                        53.544274
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Övelgönne",
+                  "text": "Övelgönne is a well-known beach section in the port of Hamburg.",
+                  "category": "recreational",
+                  "coords": [
+                        9.90596,
+                        53.544274
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "DE-SH",
     coords: [9.9300, 53.5480],

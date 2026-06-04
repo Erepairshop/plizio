@@ -95,7 +95,52 @@ imageHint: "Läckö Castle on Lake Vänern",
     },
     image: "/poi-images/sweden-lacko-castle-history-v2.webp",
 },  {
-    id: "sweden-gripsholm-castle-history-v2",
+    id: "sweden-gripsholm-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Badplats Hedlandet",
+                  "text": "Ein Strand in der Nähe von Schloss Gripsholm.",
+                  "category": "recreational",
+                  "coords": [
+                        17.232988,
+                        59.24708
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Badplats Hedlandet",
+                  "text": "Strand a Gripsholm-kastély közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        17.232988,
+                        59.24708
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Badplats Hedlandet",
+                  "text": "O plajă lângă Castelul Gripsholm.",
+                  "category": "recreational",
+                  "coords": [
+                        17.232988,
+                        59.24708
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Badplats Hedlandet",
+                  "text": "A beach near Gripsholm Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        17.232988,
+                        59.24708
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "castle",
     name: { de: "Schloss Gripsholm", hu: "Gripsholm kastély", ro: "Castelul Gripsholm", en: "Gripsholm Castle"},
@@ -279,7 +324,52 @@ imageHint: "Lund Cathedral Romanesque facade",
     },
     image: "/poi-images/sweden-lund-cathedral-history-v2.webp",
 },  {
-    id: "sweden-birka-ruins-history-v2",
+    id: "sweden-birka-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Adelsö badplats",
+                  "text": "Strand in der Nähe der Birka-Ruinen auf Adelsö.",
+                  "category": "recreational",
+                  "coords": [
+                        17.534104,
+                        59.363566
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Adelsö badplats",
+                  "text": "Strand a Birka-romok közelében, Adelsö szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        17.534104,
+                        59.363566
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Adelsö badplats",
+                  "text": "Plajă lângă ruinele Birka de pe Adelsö.",
+                  "category": "recreational",
+                  "coords": [
+                        17.534104,
+                        59.363566
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Adelsö badplats",
+                  "text": "Beach near the Birka Ruins on Adelsö.",
+                  "category": "recreational",
+                  "coords": [
+                        17.534104,
+                        59.363566
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "ruins",
     name: { de: "Birka", hu: "Birka", ro: "Birka", en: "Birka"},
@@ -1290,7 +1380,52 @@ imageHint: "Stockholm Royal Palace facade",
     image: "/poi-images/sweden-kronoberg-castle-ruins-history-v2.webp",
   },
   {
-    id: "sweden-nynas-manor-history-v2",
+    id: "sweden-nynas-manor-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sandviks Badplats",
+                  "text": "Ein Strand nahe Schloss Nynäs.",
+                  "category": "recreational",
+                  "coords": [
+                        17.418563,
+                        58.795288
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sandviks Badplats",
+                  "text": "Strand a Nynäs-kastély közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        17.418563,
+                        58.795288
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sandviks Badplats",
+                  "text": "O plajă lângă Castelul Nynäs.",
+                  "category": "recreational",
+                  "coords": [
+                        17.418563,
+                        58.795288
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sandviks Badplats",
+                  "text": "A beach near Nynäs Manor.",
+                  "category": "recreational",
+                  "coords": [
+                        17.418563,
+                        58.795288
+                  ]
+            }
+      ]
+},
     type: "palace",
     parent: "SE",
     name: { de: "Herrenhaus Nynäs", hu: "Nynäs kastély", ro: "Conacul Nynäs", en: "Nynäs Manor" },
@@ -1560,7 +1695,88 @@ imageHint: "Stockholm Royal Palace facade",
     image: "/poi-images/sweden-karlsborg-fortress-history-v2.webp",
   },
   {
-    id: "sweden-drottningholm-theatre-history-v2",
+    id: "sweden-drottningholm-theatre-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sätra strandbad",
+                  "text": "Sätra strandbad ist ein Strand bei Drottningholm.",
+                  "category": "recreational",
+                  "coords": [
+                        17.891847,
+                        59.287475
+                  ]
+            },
+            {
+                  "name": "Johannesdalsbadet",
+                  "text": "Strand in der Nähe des Drottningholm-Theaters.",
+                  "category": "recreational",
+                  "coords": [
+                        17.868332,
+                        59.275705
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sätra strandbad",
+                  "text": "Sätra strandbad egy strand Drottningholm közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        17.891847,
+                        59.287475
+                  ]
+            },
+            {
+                  "name": "Johannesdalsbadet",
+                  "text": "Strand a Drottningholm Színház közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        17.868332,
+                        59.275705
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sätra strandbad",
+                  "text": "Sätra strandbad este o plajă lângă Drottningholm.",
+                  "category": "recreational",
+                  "coords": [
+                        17.891847,
+                        59.287475
+                  ]
+            },
+            {
+                  "name": "Johannesdalsbadet",
+                  "text": "Plajă lângă Teatrul Drottningholm.",
+                  "category": "recreational",
+                  "coords": [
+                        17.868332,
+                        59.275705
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sätra strandbad",
+                  "text": "Sätra strandbad is a beach near Drottningholm.",
+                  "category": "recreational",
+                  "coords": [
+                        17.891847,
+                        59.287475
+                  ]
+            },
+            {
+                  "name": "Johannesdalsbadet",
+                  "text": "Beach near the Drottningholm Theatre.",
+                  "category": "recreational",
+                  "coords": [
+                        17.868332,
+                        59.275705
+                  ]
+            }
+      ]
+},
     type: "theater",
     parent: "SE",
     name: { de: "Schlosstheater Drottningholm", hu: "Drottningholm színház", ro: "Teatrul Drottningholm", en: "Drottningholm Palace Theatre" },
@@ -1830,7 +2046,52 @@ imageHint: "Stockholm Royal Palace facade",
     image: "/poi-images/sweden-sodra-asker-church-history-v2.webp",
   },
   {
-    id: "sweden-karlshamn-fort-history-v2",
+    id: "sweden-karlshamn-fort-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Stilleryd Badplats",
+                  "text": "Badestelle bei der Festung Karlshamn.",
+                  "category": "recreational",
+                  "coords": [
+                        14.813446,
+                        56.161634
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stilleryd Badplats",
+                  "text": "Fürdőhely a Karlshamn erőd közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        14.813446,
+                        56.161634
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stilleryd Badplats",
+                  "text": "Loc de îmbăiere lângă fortăreața Karlshamn.",
+                  "category": "recreational",
+                  "coords": [
+                        14.813446,
+                        56.161634
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stilleryd Badplats",
+                  "text": "Bathing spot near the Karlshamn fortress.",
+                  "category": "recreational",
+                  "coords": [
+                        14.813446,
+                        56.161634
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "SE",
     name: { de: "Kastell Karlshamn", hu: "Karlshamn kastély", ro: "Castelul Karlshamn", en: "Karlshamn Fortress" },
@@ -2190,7 +2451,88 @@ imageHint: "Stockholm Royal Palace facade",
     image: "/poi-images/sweden-falkenberg-church-history-v2.webp",
   },
   {
-    id: "sweden-arvika-art-hall-history-v2",
+    id: "sweden-arvika-art-hall-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kjörselviken, Västra Sund",
+                  "text": "Ein Strand bei Arvika.",
+                  "category": "recreational",
+                  "coords": [
+                        12.555844,
+                        59.623413
+                  ]
+            },
+            {
+                  "name": "Ingestrand",
+                  "text": "Strand in der Nähe von Arvika.",
+                  "category": "recreational",
+                  "coords": [
+                        12.597346,
+                        59.623744
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kjörselviken, Västra Sund",
+                  "text": "Strand Arvika közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        12.555844,
+                        59.623413
+                  ]
+            },
+            {
+                  "name": "Ingestrand",
+                  "text": "Part Arvika közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        12.597346,
+                        59.623744
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kjörselviken, Västra Sund",
+                  "text": "O plajă lângă Arvika.",
+                  "category": "recreational",
+                  "coords": [
+                        12.555844,
+                        59.623413
+                  ]
+            },
+            {
+                  "name": "Ingestrand",
+                  "text": "Plajă în apropiere de Arvika.",
+                  "category": "recreational",
+                  "coords": [
+                        12.597346,
+                        59.623744
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kjörselviken, Västra Sund",
+                  "text": "A beach near Arvika.",
+                  "category": "recreational",
+                  "coords": [
+                        12.555844,
+                        59.623413
+                  ]
+            },
+            {
+                  "name": "Ingestrand",
+                  "text": "Beach near Arvika.",
+                  "category": "recreational",
+                  "coords": [
+                        12.597346,
+                        59.623744
+                  ]
+            }
+      ]
+},
     type: "museum",
     parent: "SE",
     name: { de: "Kunsthalle Arvika", hu: "Arvika művészeti csarnok", ro: "Sala de artă Arvika", en: "Arvika Art Hall" },
@@ -2280,7 +2622,52 @@ imageHint: "Stockholm Royal Palace facade",
     image: "/poi-images/sweden-gavle-castle-history-v2.webp",
   },
   {
-    id: "sweden-motala-industrial-museum-history-v2",
+    id: "sweden-motala-industrial-museum-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Råssnäsbadet",
+                  "text": "Råssnäsbadet liegt bei Motala.",
+                  "category": "recreational",
+                  "coords": [
+                        14.990734,
+                        58.529269
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Råssnäsbadet",
+                  "text": "Råssnäsbadet Motala közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        14.990734,
+                        58.529269
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Råssnäsbadet",
+                  "text": "Råssnäsbadet este situată lângă Motala.",
+                  "category": "recreational",
+                  "coords": [
+                        14.990734,
+                        58.529269
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Råssnäsbadet",
+                  "text": "Råssnäsbadet is located near Motala.",
+                  "category": "recreational",
+                  "coords": [
+                        14.990734,
+                        58.529269
+                  ]
+            }
+      ]
+},
     type: "museum",
     parent: "SE",
     name: { de: "Industriemuseum Motala", hu: "Motala ipari múzeum", ro: "Muzeul industrial Motala", en: "Motala Industrial Museum" },

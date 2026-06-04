@@ -1107,7 +1107,124 @@ imageHint: "The White Tower of Thessaloniki by the sea",
     },
     image: "/poi-images/greece-white-tower-history-v2.webp",
 },  {
-    id: "greece-akrotiri-history-v2",
+    id: "greece-akrotiri-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vlychada beach",
+                  "text": "Vlychada beach ist ein Strand in Thira, bekannt für seine geformten Bimssteinklippen.",
+                  "category": "recreational",
+                  "coords": [
+                        25.431551,
+                        36.339313
+                  ]
+            },
+            {
+                  "name": "Monolithos Beach",
+                  "text": "Monolithos Beach ist ein familienfreundlicher Schwarzsandstrand in Thira.",
+                  "category": "recreational",
+                  "coords": [
+                        25.483065,
+                        36.412275
+                  ]
+            },
+            {
+                  "name": "Agios Georgios",
+                  "text": "Agios Georgios ist ein Strand in Thira.",
+                  "category": "recreational",
+                  "coords": [
+                        25.454171,
+                        36.339177
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vlychada beach",
+                  "text": "A Vlychada beach egy strand Thira területén, amely faragott habkőszikláiról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        25.431551,
+                        36.339313
+                  ]
+            },
+            {
+                  "name": "Monolithos Beach",
+                  "text": "A Monolithos Beach egy családbarát, fekete homokos strand Thira területén.",
+                  "category": "recreational",
+                  "coords": [
+                        25.483065,
+                        36.412275
+                  ]
+            },
+            {
+                  "name": "Agios Georgios",
+                  "text": "Az Agios Georgios egy strand Thira területén.",
+                  "category": "recreational",
+                  "coords": [
+                        25.454171,
+                        36.339177
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vlychada beach",
+                  "text": "Vlychada beach este o plajă în Thira, renumită pentru stâncile sale din piatră ponce.",
+                  "category": "recreational",
+                  "coords": [
+                        25.431551,
+                        36.339313
+                  ]
+            },
+            {
+                  "name": "Monolithos Beach",
+                  "text": "Monolithos Beach este o plajă cu nisip negru pentru familii, situată în Thira.",
+                  "category": "recreational",
+                  "coords": [
+                        25.483065,
+                        36.412275
+                  ]
+            },
+            {
+                  "name": "Agios Georgios",
+                  "text": "Agios Georgios este o plajă situată în Thira.",
+                  "category": "recreational",
+                  "coords": [
+                        25.454171,
+                        36.339177
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vlychada beach",
+                  "text": "Vlychada beach is a coastal area in Thira, famous for its sculpted pumice cliffs.",
+                  "category": "recreational",
+                  "coords": [
+                        25.431551,
+                        36.339313
+                  ]
+            },
+            {
+                  "name": "Monolithos Beach",
+                  "text": "Monolithos Beach is a family-friendly black sand beach located in Thira.",
+                  "category": "recreational",
+                  "coords": [
+                        25.483065,
+                        36.412275
+                  ]
+            },
+            {
+                  "name": "Agios Georgios",
+                  "text": "Agios Georgios is a beach located in Thira.",
+                  "category": "recreational",
+                  "coords": [
+                        25.454171,
+                        36.339177
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "ruins",
     name: { de: "Akrotiri (Santorin)", hu: "Akrotíri (Szantorini)", ro: "Akrotiri (Santorini)", en: "Akrotiri (Santorini)"},

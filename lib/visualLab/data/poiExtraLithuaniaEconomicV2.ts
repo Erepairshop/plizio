@@ -424,7 +424,124 @@ export const lithuaniaEconomicV2: POI[] = [
     },
   },
   {
-    id: "lithuania-siauliai-industrial-park-economic-v2",
+    id: "lithuania-siauliai-industrial-park-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rėkyvos ežero paplūdimys",
+                  "text": "Strand am Rėkyva-See beim Industriepark Šiauliai.",
+                  "category": "recreational",
+                  "coords": [
+                        23.328154,
+                        55.857518
+                  ]
+            },
+            {
+                  "name": "Maudyklės",
+                  "text": "Badebereich beim Industriepark Šiauliai.",
+                  "category": "recreational",
+                  "coords": [
+                        23.332963,
+                        55.867728
+                  ]
+            },
+            {
+                  "name": "Pabalių paplūdimys",
+                  "text": "Strand Pabaliai beim Industriepark Šiauliai.",
+                  "category": "recreational",
+                  "coords": [
+                        23.303542,
+                        55.883543
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rėkyvos ežero paplūdimys",
+                  "text": "Rėkyva-tavi strand a Šiauliai ipari parknál.",
+                  "category": "recreational",
+                  "coords": [
+                        23.328154,
+                        55.857518
+                  ]
+            },
+            {
+                  "name": "Maudyklės",
+                  "text": "Fürdőhely a Šiauliai ipari parknál.",
+                  "category": "recreational",
+                  "coords": [
+                        23.332963,
+                        55.867728
+                  ]
+            },
+            {
+                  "name": "Pabalių paplūdimys",
+                  "text": "Pabaliai strand a Šiauliai ipari parknál.",
+                  "category": "recreational",
+                  "coords": [
+                        23.303542,
+                        55.883543
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rėkyvos ežero paplūdimys",
+                  "text": "Plaja lacului Rėkyva lângă parcul industrial Šiauliai.",
+                  "category": "recreational",
+                  "coords": [
+                        23.328154,
+                        55.857518
+                  ]
+            },
+            {
+                  "name": "Maudyklės",
+                  "text": "Zonă de îmbăiere lângă parcul industrial Šiauliai.",
+                  "category": "recreational",
+                  "coords": [
+                        23.332963,
+                        55.867728
+                  ]
+            },
+            {
+                  "name": "Pabalių paplūdimys",
+                  "text": "Plaja Pabaliai lângă parcul industrial Šiauliai.",
+                  "category": "recreational",
+                  "coords": [
+                        23.303542,
+                        55.883543
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rėkyvos ežero paplūdimys",
+                  "text": "Rėkyva lake beach near Šiauliai Industrial Park.",
+                  "category": "recreational",
+                  "coords": [
+                        23.328154,
+                        55.857518
+                  ]
+            },
+            {
+                  "name": "Maudyklės",
+                  "text": "Bathing beach near Šiauliai Industrial Park.",
+                  "category": "recreational",
+                  "coords": [
+                        23.332963,
+                        55.867728
+                  ]
+            },
+            {
+                  "name": "Pabalių paplūdimys",
+                  "text": "Pabalių beach near Šiauliai Industrial Park.",
+                  "category": "recreational",
+                  "coords": [
+                        23.303542,
+                        55.883543
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "industry",
     name: { de: "Industriepark Šiauliai", hu: "Šiauliai Ipari Park", ro: "Parcul Industrial Šiauliai", en: "Šiauliai Industrial Park"},
@@ -1453,7 +1570,52 @@ export const lithuaniaEconomicV2: POI[] = [
     image: "/poi-images/lithuania-klaipeda-seaport-economic-v2.webp",
   },
   {
-    id: "lithuania-panevezys-industrial-hub-economic-v2",
+    id: "lithuania-panevezys-industrial-hub-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Panevėžio nudistų paplūdimys",
+                  "text": "FKK-Strand Panevėžys beim Industriestandort Panevėžys.",
+                  "category": "recreational",
+                  "coords": [
+                        24.399724,
+                        55.737491
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Panevėžio nudistų paplūdimys",
+                  "text": "Panevėžys nudista strand az ipari központnál.",
+                  "category": "recreational",
+                  "coords": [
+                        24.399724,
+                        55.737491
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Panevėžio nudistų paplūdimys",
+                  "text": "Plaja de nudiști Panevėžys lângă zona industrială Panevėžys.",
+                  "category": "recreational",
+                  "coords": [
+                        24.399724,
+                        55.737491
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Panevėžio nudistų paplūdimys",
+                  "text": "Panevėžys nudist beach near Panevezys Industrial Hub.",
+                  "category": "recreational",
+                  "coords": [
+                        24.399724,
+                        55.737491
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "LT",
     name: { de: "Panevėžys Industriegebiet", hu: "Panevėžysi ipari övezet", ro: "Zona industrială Panevėžys", en: "Panevėžys Industrial Hub" },

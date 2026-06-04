@@ -7404,6 +7404,24 @@ export const poiExtraUkMissingV1: POI[] = [
                         -0.372187,
                         50.814686
                   ]
+            },
+            {
+                  "name": "Lancing Beach",
+                  "text": "Lancing Beach ist ein Strandabschnitt zwischen Brighton und Worthing.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.321228,
+                        50.820056
+                  ]
+            },
+            {
+                  "name": "Worthing Beach",
+                  "text": "Strandabschnitt in der Region Worthing.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.337057,
+                        50.816323
+                  ]
             }
       ],
       "hu": [
@@ -7465,6 +7483,24 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -0.372187,
                         50.814686
+                  ]
+            },
+            {
+                  "name": "Lancing Beach",
+                  "text": "A Lancing Beach egy tengerparti szakasz Brighton és Worthing között.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.321228,
+                        50.820056
+                  ]
+            },
+            {
+                  "name": "Worthing Beach",
+                  "text": "Partszakasz Worthing térségében.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.337057,
+                        50.816323
                   ]
             }
       ],
@@ -7528,6 +7564,24 @@ export const poiExtraUkMissingV1: POI[] = [
                         -0.372187,
                         50.814686
                   ]
+            },
+            {
+                  "name": "Lancing Beach",
+                  "text": "Lancing Beach este o porțiune de plajă între Brighton și Worthing.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.321228,
+                        50.820056
+                  ]
+            },
+            {
+                  "name": "Worthing Beach",
+                  "text": "Porțiune de plajă în regiunea Worthing.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.337057,
+                        50.816323
+                  ]
             }
       ],
       "en": [
@@ -7589,6 +7643,24 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -0.372187,
                         50.814686
+                  ]
+            },
+            {
+                  "name": "Lancing Beach",
+                  "text": "Lancing Beach is a stretch of coastline between Brighton and Worthing.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.321228,
+                        50.820056
+                  ]
+            },
+            {
+                  "name": "Worthing Beach",
+                  "text": "Beach section in the Worthing region.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.337057,
+                        50.816323
                   ]
             }
       ]
@@ -14276,6 +14348,15 @@ export const poiExtraUkMissingV1: POI[] = [
                         -1.843126,
                         50.720203
                   ]
+            },
+            {
+                  "name": "Bournemouth East Beach",
+                  "text": "Bournemouth East Beach in Bournemouth.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.864585,
+                        50.71713
+                  ]
             }
       ],
       "hu": [
@@ -14377,6 +14458,15 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -1.843126,
                         50.720203
+                  ]
+            },
+            {
+                  "name": "Bournemouth East Beach",
+                  "text": "Bournemouth East Beach strand Bournemouthban.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.864585,
+                        50.71713
                   ]
             }
       ],
@@ -14480,6 +14570,15 @@ export const poiExtraUkMissingV1: POI[] = [
                         -1.843126,
                         50.720203
                   ]
+            },
+            {
+                  "name": "Bournemouth East Beach",
+                  "text": "Bournemouth East Beach în Bournemouth.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.864585,
+                        50.71713
+                  ]
             }
       ],
       "en": [
@@ -14581,6 +14680,15 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -1.843126,
                         50.720203
+                  ]
+            },
+            {
+                  "name": "Bournemouth East Beach",
+                  "text": "Bournemouth East Beach in Bournemouth.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.864585,
+                        50.71713
                   ]
             }
       ]
@@ -24798,6 +24906,24 @@ export const poiExtraUkMissingV1: POI[] = [
                         0.593,
                         50.855
                   ]
+            },
+            {
+                  "name": "Fairlight Glen Naturist Beach",
+                  "text": "Naturstrand in der Nähe von Hastings.",
+                  "category": "recreational",
+                  "coords": [
+                        0.631661,
+                        50.865213
+                  ]
+            },
+            {
+                  "name": "Rock-a-Nore Beach",
+                  "text": "Rock-a-Nore Beach liegt in der Nähe von Hastings.",
+                  "category": "recreational",
+                  "coords": [
+                        0.598287,
+                        50.856173
+                  ]
             }
       ],
       "hu": [
@@ -24909,6 +25035,24 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         0.593,
                         50.855
+                  ]
+            },
+            {
+                  "name": "Fairlight Glen Naturist Beach",
+                  "text": "Természetes strand Hastings közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        0.631661,
+                        50.865213
+                  ]
+            },
+            {
+                  "name": "Rock-a-Nore Beach",
+                  "text": "A Rock-a-Nore Beach Hastings közelében fekszik.",
+                  "category": "recreational",
+                  "coords": [
+                        0.598287,
+                        50.856173
                   ]
             }
       ],
@@ -25022,6 +25166,24 @@ export const poiExtraUkMissingV1: POI[] = [
                         0.593,
                         50.855
                   ]
+            },
+            {
+                  "name": "Fairlight Glen Naturist Beach",
+                  "text": "Plajă naturală lângă Hastings.",
+                  "category": "recreational",
+                  "coords": [
+                        0.631661,
+                        50.865213
+                  ]
+            },
+            {
+                  "name": "Rock-a-Nore Beach",
+                  "text": "Rock-a-Nore Beach este situată lângă Hastings.",
+                  "category": "recreational",
+                  "coords": [
+                        0.598287,
+                        50.856173
+                  ]
             }
       ],
       "en": [
@@ -25133,6 +25295,24 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         0.593,
                         50.855
+                  ]
+            },
+            {
+                  "name": "Fairlight Glen Naturist Beach",
+                  "text": "Naturist beach near Hastings.",
+                  "category": "recreational",
+                  "coords": [
+                        0.631661,
+                        50.865213
+                  ]
+            },
+            {
+                  "name": "Rock-a-Nore Beach",
+                  "text": "Rock-a-Nore Beach is located near Hastings.",
+                  "category": "recreational",
+                  "coords": [
+                        0.598287,
+                        50.856173
                   ]
             }
       ]
@@ -33460,6 +33640,24 @@ export const poiExtraUkMissingV1: POI[] = [
                         -5.634336,
                         54.672142
                   ]
+            },
+            {
+                  "name": "Skippingstone Beach",
+                  "text": "Strand bei Bangor.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.67741,
+                        54.666815
+                  ]
+            },
+            {
+                  "name": "Brompton Bay",
+                  "text": "Brompton Bay ist ein Strand in der Nähe von Bangor.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.685014,
+                        54.6679
+                  ]
             }
       ],
       "hu": [
@@ -33541,6 +33739,24 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -5.634336,
                         54.672142
+                  ]
+            },
+            {
+                  "name": "Skippingstone Beach",
+                  "text": "Strand Bangor közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.67741,
+                        54.666815
+                  ]
+            },
+            {
+                  "name": "Brompton Bay",
+                  "text": "Brompton Bay egy strand Bangor közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.685014,
+                        54.6679
                   ]
             }
       ],
@@ -33624,6 +33840,24 @@ export const poiExtraUkMissingV1: POI[] = [
                         -5.634336,
                         54.672142
                   ]
+            },
+            {
+                  "name": "Skippingstone Beach",
+                  "text": "Plajă lângă Bangor.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.67741,
+                        54.666815
+                  ]
+            },
+            {
+                  "name": "Brompton Bay",
+                  "text": "Brompton Bay este o plajă lângă Bangor.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.685014,
+                        54.6679
+                  ]
             }
       ],
       "en": [
@@ -33705,6 +33939,24 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -5.634336,
                         54.672142
+                  ]
+            },
+            {
+                  "name": "Skippingstone Beach",
+                  "text": "Beach near Bangor.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.67741,
+                        54.666815
+                  ]
+            },
+            {
+                  "name": "Brompton Bay",
+                  "text": "Brompton Bay is a beach near Bangor.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.685014,
+                        54.6679
                   ]
             }
       ]
@@ -34626,6 +34878,24 @@ export const poiExtraUkMissingV1: POI[] = [
                         -1.777578,
                         50.734685
                   ]
+            },
+            {
+                  "name": "Avon Beach",
+                  "text": "Avon Beach ist ein bekannter Strand bei Christchurch.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.734883,
+                        50.728254
+                  ]
+            },
+            {
+                  "name": "White Pits",
+                  "text": "Ein Strandgebiet bei Christchurch.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.760931,
+                        50.717799
+                  ]
             }
       ],
       "hu": [
@@ -34717,6 +34987,24 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -1.777578,
                         50.734685
+                  ]
+            },
+            {
+                  "name": "Avon Beach",
+                  "text": "Az Avon Beach egy jól ismert strand Christchurch mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.734883,
+                        50.728254
+                  ]
+            },
+            {
+                  "name": "White Pits",
+                  "text": "Strandterület Christchurch mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.760931,
+                        50.717799
                   ]
             }
       ],
@@ -34810,6 +35098,24 @@ export const poiExtraUkMissingV1: POI[] = [
                         -1.777578,
                         50.734685
                   ]
+            },
+            {
+                  "name": "Avon Beach",
+                  "text": "Avon Beach este o plajă cunoscută lângă Christchurch.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.734883,
+                        50.728254
+                  ]
+            },
+            {
+                  "name": "White Pits",
+                  "text": "O zonă de plajă lângă Christchurch.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.760931,
+                        50.717799
+                  ]
             }
       ],
       "en": [
@@ -34901,6 +35207,24 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -1.777578,
                         50.734685
+                  ]
+            },
+            {
+                  "name": "Avon Beach",
+                  "text": "Avon Beach is a popular beach near Christchurch.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.734883,
+                        50.728254
+                  ]
+            },
+            {
+                  "name": "White Pits",
+                  "text": "A beach area near Christchurch.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.760931,
+                        50.717799
                   ]
             }
       ]
@@ -35008,6 +35332,24 @@ export const poiExtraUkMissingV1: POI[] = [
                         -3.3178,
                         51.3935
                   ]
+            },
+            {
+                  "name": "Pebble Beach",
+                  "text": "Kieselstrand bei Barry.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.298396,
+                        51.389678
+                  ]
+            },
+            {
+                  "name": "The Bendricks",
+                  "text": "The Bendricks ist ein Küstenstreifen bei Barry.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.232818,
+                        51.399366
+                  ]
             }
       ],
       "hu": [
@@ -35109,6 +35451,24 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -3.3178,
                         51.3935
+                  ]
+            },
+            {
+                  "name": "Pebble Beach",
+                  "text": "Kavicsos strand Barry mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.298396,
+                        51.389678
+                  ]
+            },
+            {
+                  "name": "The Bendricks",
+                  "text": "A The Bendricks egy tengerparti szakasz Barry közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.232818,
+                        51.399366
                   ]
             }
       ],
@@ -35212,6 +35572,24 @@ export const poiExtraUkMissingV1: POI[] = [
                         -3.3178,
                         51.3935
                   ]
+            },
+            {
+                  "name": "Pebble Beach",
+                  "text": "Plajă cu pietriș lângă Barry.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.298396,
+                        51.389678
+                  ]
+            },
+            {
+                  "name": "The Bendricks",
+                  "text": "The Bendricks este o zonă de coastă lângă Barry.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.232818,
+                        51.399366
+                  ]
             }
       ],
       "en": [
@@ -35313,6 +35691,24 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -3.3178,
                         51.3935
+                  ]
+            },
+            {
+                  "name": "Pebble Beach",
+                  "text": "Pebble beach near Barry.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.298396,
+                        51.389678
+                  ]
+            },
+            {
+                  "name": "The Bendricks",
+                  "text": "The Bendricks is a stretch of coastline near Barry.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.232818,
+                        51.399366
                   ]
             }
       ]
@@ -36244,6 +36640,15 @@ export const poiExtraUkMissingV1: POI[] = [
                         -3.176944,
                         55.981389
                   ]
+            },
+            {
+                  "name": "East Sands of Leith",
+                  "text": "East Sands of Leith befindet sich nahe Leith.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.15104,
+                        55.977911
+                  ]
             }
       ],
       "hu": [
@@ -36345,6 +36750,15 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -3.176944,
                         55.981389
+                  ]
+            },
+            {
+                  "name": "East Sands of Leith",
+                  "text": "East Sands of Leith Leith közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.15104,
+                        55.977911
                   ]
             }
       ],
@@ -36448,6 +36862,15 @@ export const poiExtraUkMissingV1: POI[] = [
                         -3.176944,
                         55.981389
                   ]
+            },
+            {
+                  "name": "East Sands of Leith",
+                  "text": "East Sands of Leith se află în apropiere de Leith.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.15104,
+                        55.977911
+                  ]
             }
       ],
       "en": [
@@ -36549,6 +36972,15 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -3.176944,
                         55.981389
+                  ]
+            },
+            {
+                  "name": "East Sands of Leith",
+                  "text": "East Sands of Leith is located near Leith.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.15104,
+                        55.977911
                   ]
             }
       ]
@@ -41188,6 +41620,15 @@ export const poiExtraUkMissingV1: POI[] = [
                         -2.874627,
                         54.071243
                   ]
+            },
+            {
+                  "name": "Mallows Bay",
+                  "text": "Strand bei Morecambe.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.867464,
+                        54.074025
+                  ]
             }
       ],
       "hu": [
@@ -41289,6 +41730,15 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -2.874627,
                         54.071243
+                  ]
+            },
+            {
+                  "name": "Mallows Bay",
+                  "text": "Strand Morecambe közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.867464,
+                        54.074025
                   ]
             }
       ],
@@ -41392,6 +41842,15 @@ export const poiExtraUkMissingV1: POI[] = [
                         -2.874627,
                         54.071243
                   ]
+            },
+            {
+                  "name": "Mallows Bay",
+                  "text": "Plajă lângă Morecambe.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.867464,
+                        54.074025
+                  ]
             }
       ],
       "en": [
@@ -41493,6 +41952,15 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -2.874627,
                         54.071243
+                  ]
+            },
+            {
+                  "name": "Mallows Bay",
+                  "text": "Beach near Morecambe.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.867464,
+                        54.074025
                   ]
             }
       ]
@@ -45932,6 +46400,15 @@ export const poiExtraUkMissingV1: POI[] = [
                         1.3131,
                         51.1333
                   ]
+            },
+            {
+                  "name": "Shakespeare's Beach",
+                  "text": "Strand bei Dover.",
+                  "category": "recreational",
+                  "coords": [
+                        1.304328,
+                        51.113041
+                  ]
             }
       ],
       "hu": [
@@ -46033,6 +46510,15 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         1.3131,
                         51.1333
+                  ]
+            },
+            {
+                  "name": "Shakespeare's Beach",
+                  "text": "Strand Dover közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        1.304328,
+                        51.113041
                   ]
             }
       ],
@@ -46136,6 +46622,15 @@ export const poiExtraUkMissingV1: POI[] = [
                         1.3131,
                         51.1333
                   ]
+            },
+            {
+                  "name": "Shakespeare's Beach",
+                  "text": "Plajă lângă Dover.",
+                  "category": "recreational",
+                  "coords": [
+                        1.304328,
+                        51.113041
+                  ]
             }
       ],
       "en": [
@@ -46237,6 +46732,15 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         1.3131,
                         51.1333
+                  ]
+            },
+            {
+                  "name": "Shakespeare's Beach",
+                  "text": "Beach near Dover.",
+                  "category": "recreational",
+                  "coords": [
+                        1.304328,
+                        51.113041
                   ]
             }
       ]
@@ -52336,6 +52840,15 @@ export const poiExtraUkMissingV1: POI[] = [
                         -2.599453,
                         56.55201
                   ]
+            },
+            {
+                  "name": "Elliot Beach",
+                  "text": "Elliot Beach ist ein Strand bei Arbroath.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.615922,
+                        56.539778
+                  ]
             }
       ],
       "hu": [
@@ -52437,6 +52950,15 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -2.599453,
                         56.55201
+                  ]
+            },
+            {
+                  "name": "Elliot Beach",
+                  "text": "Az Elliot Beach egy tengerpart Arbroath közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.615922,
+                        56.539778
                   ]
             }
       ],
@@ -52540,6 +53062,15 @@ export const poiExtraUkMissingV1: POI[] = [
                         -2.599453,
                         56.55201
                   ]
+            },
+            {
+                  "name": "Elliot Beach",
+                  "text": "Elliot Beach este o plajă lângă Arbroath.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.615922,
+                        56.539778
+                  ]
             }
       ],
       "en": [
@@ -52641,6 +53172,15 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -2.599453,
                         56.55201
+                  ]
+            },
+            {
+                  "name": "Elliot Beach",
+                  "text": "Elliot Beach is a beach near Arbroath.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.615922,
+                        56.539778
                   ]
             }
       ]
@@ -63274,6 +63814,15 @@ export const poiExtraUkMissingV1: POI[] = [
                         -1.52442,
                         54.136
                   ]
+            },
+            {
+                  "name": "Pebble Beach",
+                  "text": "Ein Strand in der Nähe von Ripon.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.521483,
+                        54.154375
+                  ]
             }
       ],
       "hu": [
@@ -63365,6 +63914,15 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -1.52442,
                         54.136
+                  ]
+            },
+            {
+                  "name": "Pebble Beach",
+                  "text": "Ripon közeli strand.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.521483,
+                        54.154375
                   ]
             }
       ],
@@ -63458,6 +64016,15 @@ export const poiExtraUkMissingV1: POI[] = [
                         -1.52442,
                         54.136
                   ]
+            },
+            {
+                  "name": "Pebble Beach",
+                  "text": "O plajă lângă Ripon.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.521483,
+                        54.154375
+                  ]
             }
       ],
       "en": [
@@ -63549,6 +64116,15 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -1.52442,
                         54.136
+                  ]
+            },
+            {
+                  "name": "Pebble Beach",
+                  "text": "A beach near Ripon.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.521483,
+                        54.154375
                   ]
             }
       ]
@@ -64068,6 +64644,78 @@ export const poiExtraUkMissingV1: POI[] = [
                         -3.9846,
                         51.5662
                   ]
+            },
+            {
+                  "name": "Touch Down",
+                  "text": "Strand bei The Mumbles.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.976788,
+                        51.568522
+                  ]
+            },
+            {
+                  "name": "Brandy Cove",
+                  "text": "Brandy Cove Strand bei The Mumbles.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.04259,
+                        51.568184
+                  ]
+            },
+            {
+                  "name": "Pwlldu",
+                  "text": "Abgeschiedener Strand bei The Mumbles.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.055958,
+                        51.563956
+                  ]
+            },
+            {
+                  "name": "Swansea Bay",
+                  "text": "Große Bucht bei The Mumbles.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.9645,
+                        51.590974
+                  ]
+            },
+            {
+                  "name": "Rotherslade Beach",
+                  "text": "Rotherslade Beach ist ein beliebter Strand bei The Mumbles.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.006176,
+                        51.567601
+                  ]
+            },
+            {
+                  "name": "Bracelet Bay Beach",
+                  "text": "Strand in der Nähe von The Mumbles.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.979351,
+                        51.567449
+                  ]
+            },
+            {
+                  "name": "Caswell Bay Beach",
+                  "text": "Strandbucht in der Nähe von The Mumbles.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.032115,
+                        51.56778
+                  ]
+            },
+            {
+                  "name": "Langland Beach",
+                  "text": "Strand in der Nähe von The Mumbles.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.011784,
+                        51.567095
+                  ]
             }
       ],
       "hu": [
@@ -64169,6 +64817,78 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -3.9846,
                         51.5662
+                  ]
+            },
+            {
+                  "name": "Touch Down",
+                  "text": "Strand The Mumbles közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.976788,
+                        51.568522
+                  ]
+            },
+            {
+                  "name": "Brandy Cove",
+                  "text": "Brandy Cove strand The Mumbles közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.04259,
+                        51.568184
+                  ]
+            },
+            {
+                  "name": "Pwlldu",
+                  "text": "Eldugott strand The Mumbles közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.055958,
+                        51.563956
+                  ]
+            },
+            {
+                  "name": "Swansea Bay",
+                  "text": "Nagy öböl The Mumbles közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.9645,
+                        51.590974
+                  ]
+            },
+            {
+                  "name": "Rotherslade Beach",
+                  "text": "A Rotherslade Beach egy népszerű strand The Mumbles közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.006176,
+                        51.567601
+                  ]
+            },
+            {
+                  "name": "Bracelet Bay Beach",
+                  "text": "Strand The Mumbles közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.979351,
+                        51.567449
+                  ]
+            },
+            {
+                  "name": "Caswell Bay Beach",
+                  "text": "Strandöböl The Mumbles közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.032115,
+                        51.56778
+                  ]
+            },
+            {
+                  "name": "Langland Beach",
+                  "text": "Strand The Mumbles közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.011784,
+                        51.567095
                   ]
             }
       ],
@@ -64272,6 +64992,78 @@ export const poiExtraUkMissingV1: POI[] = [
                         -3.9846,
                         51.5662
                   ]
+            },
+            {
+                  "name": "Touch Down",
+                  "text": "Plajă lângă The Mumbles.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.976788,
+                        51.568522
+                  ]
+            },
+            {
+                  "name": "Brandy Cove",
+                  "text": "Plaja Brandy Cove lângă The Mumbles.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.04259,
+                        51.568184
+                  ]
+            },
+            {
+                  "name": "Pwlldu",
+                  "text": "Plajă retrasă lângă The Mumbles.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.055958,
+                        51.563956
+                  ]
+            },
+            {
+                  "name": "Swansea Bay",
+                  "text": "Golf mare lângă The Mumbles.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.9645,
+                        51.590974
+                  ]
+            },
+            {
+                  "name": "Rotherslade Beach",
+                  "text": "Rotherslade Beach este o plajă populară lângă The Mumbles.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.006176,
+                        51.567601
+                  ]
+            },
+            {
+                  "name": "Bracelet Bay Beach",
+                  "text": "Plajă lângă The Mumbles.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.979351,
+                        51.567449
+                  ]
+            },
+            {
+                  "name": "Caswell Bay Beach",
+                  "text": "Golf lângă The Mumbles.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.032115,
+                        51.56778
+                  ]
+            },
+            {
+                  "name": "Langland Beach",
+                  "text": "Plajă lângă The Mumbles.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.011784,
+                        51.567095
+                  ]
             }
       ],
       "en": [
@@ -64373,6 +65165,78 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -3.9846,
                         51.5662
+                  ]
+            },
+            {
+                  "name": "Touch Down",
+                  "text": "Beach near The Mumbles.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.976788,
+                        51.568522
+                  ]
+            },
+            {
+                  "name": "Brandy Cove",
+                  "text": "Brandy Cove beach near The Mumbles.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.04259,
+                        51.568184
+                  ]
+            },
+            {
+                  "name": "Pwlldu",
+                  "text": "Secluded beach near The Mumbles.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.055958,
+                        51.563956
+                  ]
+            },
+            {
+                  "name": "Swansea Bay",
+                  "text": "Large bay near The Mumbles.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.9645,
+                        51.590974
+                  ]
+            },
+            {
+                  "name": "Rotherslade Beach",
+                  "text": "Rotherslade Beach is a popular beach near The Mumbles.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.006176,
+                        51.567601
+                  ]
+            },
+            {
+                  "name": "Bracelet Bay Beach",
+                  "text": "Beach near The Mumbles.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.979351,
+                        51.567449
+                  ]
+            },
+            {
+                  "name": "Caswell Bay Beach",
+                  "text": "Beach near The Mumbles.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.032115,
+                        51.56778
+                  ]
+            },
+            {
+                  "name": "Langland Beach",
+                  "text": "Beach near The Mumbles.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.011784,
+                        51.567095
                   ]
             }
       ]
@@ -68924,6 +69788,15 @@ export const poiExtraUkMissingV1: POI[] = [
                         -5.037573,
                         51.712712
                   ]
+            },
+            {
+                  "name": "Sandy Haven Beach",
+                  "text": "Strand in der Nähe von Milford Haven.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.096389,
+                        51.724298
+                  ]
             }
       ],
       "hu": [
@@ -69005,6 +69878,15 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -5.037573,
                         51.712712
+                  ]
+            },
+            {
+                  "name": "Sandy Haven Beach",
+                  "text": "Strand Milford Haven közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.096389,
+                        51.724298
                   ]
             }
       ],
@@ -69088,6 +69970,15 @@ export const poiExtraUkMissingV1: POI[] = [
                         -5.037573,
                         51.712712
                   ]
+            },
+            {
+                  "name": "Sandy Haven Beach",
+                  "text": "Plajă lângă Milford Haven.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.096389,
+                        51.724298
+                  ]
             }
       ],
       "en": [
@@ -69169,6 +70060,15 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -5.037573,
                         51.712712
+                  ]
+            },
+            {
+                  "name": "Sandy Haven Beach",
+                  "text": "Beach near Milford Haven.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.096389,
+                        51.724298
                   ]
             }
       ]
@@ -73902,6 +74802,24 @@ export const poiExtraUkMissingV1: POI[] = [
                         -2.43489,
                         50.5606
                   ]
+            },
+            {
+                  "name": "Little Beach",
+                  "text": "Ein kleiner Strand in Portland.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.417146,
+                        50.548612
+                  ]
+            },
+            {
+                  "name": "Portland Beach",
+                  "text": "Ein bekannter Küstenabschnitt auf der Isle of Portland.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.459783,
+                        50.567996
+                  ]
             }
       ],
       "hu": [
@@ -73993,6 +74911,24 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -2.43489,
                         50.5606
+                  ]
+            },
+            {
+                  "name": "Little Beach",
+                  "text": "Kicsi strand Portlandban.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.417146,
+                        50.548612
+                  ]
+            },
+            {
+                  "name": "Portland Beach",
+                  "text": "Ismert partszakasz Portland szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.459783,
+                        50.567996
                   ]
             }
       ],
@@ -74086,6 +75022,24 @@ export const poiExtraUkMissingV1: POI[] = [
                         -2.43489,
                         50.5606
                   ]
+            },
+            {
+                  "name": "Little Beach",
+                  "text": "O plajă mică în Portland.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.417146,
+                        50.548612
+                  ]
+            },
+            {
+                  "name": "Portland Beach",
+                  "text": "O porțiune de coastă binecunoscută pe insula Portland.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.459783,
+                        50.567996
+                  ]
             }
       ],
       "en": [
@@ -74177,6 +75131,24 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -2.43489,
                         50.5606
+                  ]
+            },
+            {
+                  "name": "Little Beach",
+                  "text": "A small beach in Portland.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.417146,
+                        50.548612
+                  ]
+            },
+            {
+                  "name": "Portland Beach",
+                  "text": "A well-known coastal stretch on the Isle of Portland.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.459783,
+                        50.567996
                   ]
             }
       ]
@@ -77090,6 +78062,51 @@ export const poiExtraUkMissingV1: POI[] = [
                         -4.213926,
                         51.038561
                   ]
+            },
+            {
+                  "name": "Pulley Ridge",
+                  "text": "Pulley Ridge ist ein Strand bei Northam.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.215144,
+                        51.070392
+                  ]
+            },
+            {
+                  "name": "Northam Beach",
+                  "text": "Strand bei Northam.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.224394,
+                        51.053678
+                  ]
+            },
+            {
+                  "name": "Instow Beach",
+                  "text": "Strand bei Northam.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.180465,
+                        51.056094
+                  ]
+            },
+            {
+                  "name": "West Appledore",
+                  "text": "Strand bei Northam.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.193229,
+                        51.05664
+                  ]
+            },
+            {
+                  "name": "South Tail",
+                  "text": "Ein Strand bei Northam.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.235534,
+                        51.076157
+                  ]
             }
       ],
       "hu": [
@@ -77181,6 +78198,51 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -4.213926,
                         51.038561
+                  ]
+            },
+            {
+                  "name": "Pulley Ridge",
+                  "text": "Pulley Ridge egy strand Northam közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.215144,
+                        51.070392
+                  ]
+            },
+            {
+                  "name": "Northam Beach",
+                  "text": "Strand Northam mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.224394,
+                        51.053678
+                  ]
+            },
+            {
+                  "name": "Instow Beach",
+                  "text": "Strand Northam mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.180465,
+                        51.056094
+                  ]
+            },
+            {
+                  "name": "West Appledore",
+                  "text": "Strand Northam mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.193229,
+                        51.05664
+                  ]
+            },
+            {
+                  "name": "South Tail",
+                  "text": "Strand Northam közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.235534,
+                        51.076157
                   ]
             }
       ],
@@ -77274,6 +78336,51 @@ export const poiExtraUkMissingV1: POI[] = [
                         -4.213926,
                         51.038561
                   ]
+            },
+            {
+                  "name": "Pulley Ridge",
+                  "text": "Pulley Ridge este o plajă lângă Northam.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.215144,
+                        51.070392
+                  ]
+            },
+            {
+                  "name": "Northam Beach",
+                  "text": "Plajă lângă Northam.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.224394,
+                        51.053678
+                  ]
+            },
+            {
+                  "name": "Instow Beach",
+                  "text": "Plajă lângă Northam.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.180465,
+                        51.056094
+                  ]
+            },
+            {
+                  "name": "West Appledore",
+                  "text": "Plajă lângă Northam.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.193229,
+                        51.05664
+                  ]
+            },
+            {
+                  "name": "South Tail",
+                  "text": "O plajă lângă Northam.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.235534,
+                        51.076157
+                  ]
             }
       ],
       "en": [
@@ -77365,6 +78472,51 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -4.213926,
                         51.038561
+                  ]
+            },
+            {
+                  "name": "Pulley Ridge",
+                  "text": "Pulley Ridge is a beach near Northam.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.215144,
+                        51.070392
+                  ]
+            },
+            {
+                  "name": "Northam Beach",
+                  "text": "Beach near Northam.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.224394,
+                        51.053678
+                  ]
+            },
+            {
+                  "name": "Instow Beach",
+                  "text": "Beach near Northam.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.180465,
+                        51.056094
+                  ]
+            },
+            {
+                  "name": "West Appledore",
+                  "text": "Beach near Northam.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.193229,
+                        51.05664
+                  ]
+            },
+            {
+                  "name": "South Tail",
+                  "text": "A beach near Northam.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.235534,
+                        51.076157
                   ]
             }
       ]
@@ -87848,6 +89000,15 @@ export const poiExtraUkMissingV1: POI[] = [
                         -0.194991,
                         50.826943
                   ]
+            },
+            {
+                  "name": "Brighton Beach",
+                  "text": "Strand von Brighton in Hove.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.192483,
+                        50.823731
+                  ]
             }
       ],
       "hu": [
@@ -87949,6 +89110,15 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -0.194991,
                         50.826943
+                  ]
+            },
+            {
+                  "name": "Brighton Beach",
+                  "text": "Brighton strand Hove-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.192483,
+                        50.823731
                   ]
             }
       ],
@@ -88052,6 +89222,15 @@ export const poiExtraUkMissingV1: POI[] = [
                         -0.194991,
                         50.826943
                   ]
+            },
+            {
+                  "name": "Brighton Beach",
+                  "text": "Plaja din Brighton în Hove.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.192483,
+                        50.823731
+                  ]
             }
       ],
       "en": [
@@ -88153,6 +89332,15 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -0.194991,
                         50.826943
+                  ]
+            },
+            {
+                  "name": "Brighton Beach",
+                  "text": "Brighton beach in Hove.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.192483,
+                        50.823731
                   ]
             }
       ]
@@ -95942,6 +97130,42 @@ export const poiExtraUkMissingV1: POI[] = [
                         -3.729888,
                         51.56238
                   ]
+            },
+            {
+                  "name": "Sker Beach",
+                  "text": "Ein Strand in der Nähe von Pyle.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.757867,
+                        51.525467
+                  ]
+            },
+            {
+                  "name": "Morfa Beach",
+                  "text": "Ein Strand in der Nähe von Pyle.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.761945,
+                        51.537247
+                  ]
+            },
+            {
+                  "name": "Kenfig Sands",
+                  "text": "Kenfig Sands liegt in der Nähe von Pyle.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.758198,
+                        51.521775
+                  ]
+            },
+            {
+                  "name": "Fish Bench Bay",
+                  "text": "Fish Bench Bay liegt nahe Pyle.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.734449,
+                        51.52214
+                  ]
             }
       ],
       "hu": [
@@ -96033,6 +97257,42 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -3.729888,
                         51.56238
+                  ]
+            },
+            {
+                  "name": "Sker Beach",
+                  "text": "Strand Pyle közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.757867,
+                        51.525467
+                  ]
+            },
+            {
+                  "name": "Morfa Beach",
+                  "text": "Strand Pyle közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.761945,
+                        51.537247
+                  ]
+            },
+            {
+                  "name": "Kenfig Sands",
+                  "text": "A Kenfig Sands Pyle közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.758198,
+                        51.521775
+                  ]
+            },
+            {
+                  "name": "Fish Bench Bay",
+                  "text": "Fish Bench Bay Pyle közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.734449,
+                        51.52214
                   ]
             }
       ],
@@ -96126,6 +97386,42 @@ export const poiExtraUkMissingV1: POI[] = [
                         -3.729888,
                         51.56238
                   ]
+            },
+            {
+                  "name": "Sker Beach",
+                  "text": "Plajă lângă Pyle.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.757867,
+                        51.525467
+                  ]
+            },
+            {
+                  "name": "Morfa Beach",
+                  "text": "Plajă lângă Pyle.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.761945,
+                        51.537247
+                  ]
+            },
+            {
+                  "name": "Kenfig Sands",
+                  "text": "Kenfig Sands este situată lângă Pyle.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.758198,
+                        51.521775
+                  ]
+            },
+            {
+                  "name": "Fish Bench Bay",
+                  "text": "Fish Bench Bay este situat lângă Pyle.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.734449,
+                        51.52214
+                  ]
             }
       ],
       "en": [
@@ -96217,6 +97513,42 @@ export const poiExtraUkMissingV1: POI[] = [
                   "coords": [
                         -3.729888,
                         51.56238
+                  ]
+            },
+            {
+                  "name": "Sker Beach",
+                  "text": "A beach near Pyle.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.757867,
+                        51.525467
+                  ]
+            },
+            {
+                  "name": "Morfa Beach",
+                  "text": "A beach near Pyle.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.761945,
+                        51.537247
+                  ]
+            },
+            {
+                  "name": "Kenfig Sands",
+                  "text": "Kenfig Sands is located near Pyle.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.758198,
+                        51.521775
+                  ]
+            },
+            {
+                  "name": "Fish Bench Bay",
+                  "text": "Fish Bench Bay is located near Pyle.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.734449,
+                        51.52214
                   ]
             }
       ]

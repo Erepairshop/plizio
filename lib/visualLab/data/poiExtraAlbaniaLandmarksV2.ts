@@ -920,7 +920,124 @@ imageHint: "St Stephen's Cathedral Shkoder interior",
     },
     image: "/poi-images/albania-st-stephens-cathedral-landmarks-v2.webp",
 },  {
-    id: "albania-archaeological-museum-durres-landmarks-v2",
+    id: "albania-archaeological-museum-durres-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Aragosta Beach",
+                  "text": "Strand in der Nähe des Archäologischen Museums von Durrës.",
+                  "category": "recreational",
+                  "coords": [
+                        19.434169,
+                        41.311827
+                  ]
+            },
+            {
+                  "name": "Private Beach",
+                  "text": "Privatstrand in der Nähe des Archäologischen Museums von Durrës.",
+                  "category": "recreational",
+                  "coords": [
+                        19.419604,
+                        41.340721
+                  ]
+            },
+            {
+                  "name": "Wild Beach",
+                  "text": "Naturstrand in der Nähe des Archäologischen Museums von Durrës.",
+                  "category": "recreational",
+                  "coords": [
+                        19.419228,
+                        41.34401
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Aragosta Beach",
+                  "text": "Strand a durrësi Régészeti Múzeum közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        19.434169,
+                        41.311827
+                  ]
+            },
+            {
+                  "name": "Private Beach",
+                  "text": "Privát strand a durrësi Régészeti Múzeum közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        19.419604,
+                        41.340721
+                  ]
+            },
+            {
+                  "name": "Wild Beach",
+                  "text": "Természetes strand a durrësi Régészeti Múzeum közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        19.419228,
+                        41.34401
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Aragosta Beach",
+                  "text": "Plajă în apropierea Muzeului Arheologic din Durrës.",
+                  "category": "recreational",
+                  "coords": [
+                        19.434169,
+                        41.311827
+                  ]
+            },
+            {
+                  "name": "Private Beach",
+                  "text": "Plajă privată în apropierea Muzeului Arheologic din Durrës.",
+                  "category": "recreational",
+                  "coords": [
+                        19.419604,
+                        41.340721
+                  ]
+            },
+            {
+                  "name": "Wild Beach",
+                  "text": "Plajă sălbatică în apropierea Muzeului Arheologic din Durrës.",
+                  "category": "recreational",
+                  "coords": [
+                        19.419228,
+                        41.34401
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Aragosta Beach",
+                  "text": "Beach near the Archaeological Museum of Durrës.",
+                  "category": "recreational",
+                  "coords": [
+                        19.434169,
+                        41.311827
+                  ]
+            },
+            {
+                  "name": "Private Beach",
+                  "text": "Private beach near the Archaeological Museum of Durrës.",
+                  "category": "recreational",
+                  "coords": [
+                        19.419604,
+                        41.340721
+                  ]
+            },
+            {
+                  "name": "Wild Beach",
+                  "text": "Wild beach near the Archaeological Museum of Durrës.",
+                  "category": "recreational",
+                  "coords": [
+                        19.419228,
+                        41.34401
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "museum",
     name: { de: "Archäologisches Museum Durrës", hu: "Durrësi Régészeti Múzeum", ro: "Muzeul Arheologic Durrës", en: "Archaeological Museum of Durrës"},

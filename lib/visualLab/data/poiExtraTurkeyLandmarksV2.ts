@@ -507,7 +507,196 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
     },
   },
   {
-    id: "bodrum-castle-landmarks-v2",
+    id: "bodrum-castle-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Almera Beach",
+                  "text": "Almera Beach ist ein Strand in der Gegend von Castle Landmarks.",
+                  "category": "recreational",
+                  "coords": [
+                        27.37767,
+                        37.027932
+                  ]
+            },
+            {
+                  "name": "WOW Beach",
+                  "text": "WOW Beach ist ein Strand in Castle Landmarks.",
+                  "category": "recreational",
+                  "coords": [
+                        27.395459,
+                        37.028141
+                  ]
+            },
+            {
+                  "name": "Bodrum Halk Plajı",
+                  "text": "Bodrum Halk Plajı ist ein öffentlicher Strand in Castle Landmarks.",
+                  "category": "recreational",
+                  "coords": [
+                        27.435683,
+                        37.032294
+                  ]
+            },
+            {
+                  "name": "Kumbahçe Halk Plajı",
+                  "text": "Kumbahçe Halk Plajı ist ein öffentlicher Strand in Castle Landmarks.",
+                  "category": "recreational",
+                  "coords": [
+                        27.439865,
+                        37.029269
+                  ]
+            },
+            {
+                  "name": "Kumbahçe Plajı",
+                  "text": "Kumbahçe Plajı ist ein Strand in Castle Landmarks.",
+                  "category": "recreational",
+                  "coords": [
+                        27.440175,
+                        37.027052
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Almera Beach",
+                  "text": "Az Almera Beach egy strand a Castle Landmarks területén.",
+                  "category": "recreational",
+                  "coords": [
+                        27.37767,
+                        37.027932
+                  ]
+            },
+            {
+                  "name": "WOW Beach",
+                  "text": "A WOW Beach egy strand Castle Landmarks területén.",
+                  "category": "recreational",
+                  "coords": [
+                        27.395459,
+                        37.028141
+                  ]
+            },
+            {
+                  "name": "Bodrum Halk Plajı",
+                  "text": "A Bodrum Halk Plajı egy nyilvános strand Castle Landmarks területén.",
+                  "category": "recreational",
+                  "coords": [
+                        27.435683,
+                        37.032294
+                  ]
+            },
+            {
+                  "name": "Kumbahçe Halk Plajı",
+                  "text": "A Kumbahçe Halk Plajı egy nyilvános strand Castle Landmarks területén.",
+                  "category": "recreational",
+                  "coords": [
+                        27.439865,
+                        37.029269
+                  ]
+            },
+            {
+                  "name": "Kumbahçe Plajı",
+                  "text": "A Kumbahçe Plajı egy tengerpart Castle Landmarks területén.",
+                  "category": "recreational",
+                  "coords": [
+                        27.440175,
+                        37.027052
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Almera Beach",
+                  "text": "Almera Beach este o plajă în Castle Landmarks.",
+                  "category": "recreational",
+                  "coords": [
+                        27.37767,
+                        37.027932
+                  ]
+            },
+            {
+                  "name": "WOW Beach",
+                  "text": "WOW Beach este o plajă situată în Castle Landmarks.",
+                  "category": "recreational",
+                  "coords": [
+                        27.395459,
+                        37.028141
+                  ]
+            },
+            {
+                  "name": "Bodrum Halk Plajı",
+                  "text": "Bodrum Halk Plajı este o plajă publică situată în Castle Landmarks.",
+                  "category": "recreational",
+                  "coords": [
+                        27.435683,
+                        37.032294
+                  ]
+            },
+            {
+                  "name": "Kumbahçe Halk Plajı",
+                  "text": "Kumbahçe Halk Plajı este o plajă publică situată în Castle Landmarks.",
+                  "category": "recreational",
+                  "coords": [
+                        27.439865,
+                        37.029269
+                  ]
+            },
+            {
+                  "name": "Kumbahçe Plajı",
+                  "text": "Kumbahçe Plajı este o plajă situată în Castle Landmarks.",
+                  "category": "recreational",
+                  "coords": [
+                        27.440175,
+                        37.027052
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Almera Beach",
+                  "text": "Almera Beach is a beach in Castle Landmarks.",
+                  "category": "recreational",
+                  "coords": [
+                        27.37767,
+                        37.027932
+                  ]
+            },
+            {
+                  "name": "WOW Beach",
+                  "text": "WOW Beach is a beach located in Castle Landmarks.",
+                  "category": "recreational",
+                  "coords": [
+                        27.395459,
+                        37.028141
+                  ]
+            },
+            {
+                  "name": "Bodrum Halk Plajı",
+                  "text": "Bodrum Halk Plajı is a public beach situated in Castle Landmarks.",
+                  "category": "recreational",
+                  "coords": [
+                        27.435683,
+                        37.032294
+                  ]
+            },
+            {
+                  "name": "Kumbahçe Halk Plajı",
+                  "text": "Kumbahçe Halk Plajı is a public beach located in Castle Landmarks.",
+                  "category": "recreational",
+                  "coords": [
+                        27.439865,
+                        37.029269
+                  ]
+            },
+            {
+                  "name": "Kumbahçe Plajı",
+                  "text": "Kumbahçe Plajı is a beach destination found in Castle Landmarks.",
+                  "category": "recreational",
+                  "coords": [
+                        27.440175,
+                        37.027052
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "TR-48",
     coords: [27.4284, 37.0319],

@@ -233,7 +233,52 @@ imageHint: "River Thames flowing through green English countryside",
     },
     image: "/poi-images/uk-river-thames-nature-v2.webp",
 },  {
-    id: "uk-the-needles-nature-v2",
+    id: "uk-the-needles-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Alum Bay Beach",
+                  "text": "Alum Bay Beach in der Nähe der Needles-Felsen.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.569528,
+                        50.66903
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Alum Bay Beach",
+                  "text": "Alum Bay Beach strand a Needles-sziklák közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.569528,
+                        50.66903
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Alum Bay Beach",
+                  "text": "Alum Bay Beach lângă stâncile Needles.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.569528,
+                        50.66903
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Alum Bay Beach",
+                  "text": "Alum Bay Beach near The Needles.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.569528,
+                        50.66903
+                  ]
+            }
+      ]
+},
     parent: "GB",
     type: "landmark",
     name: { de: "The Needles", hu: "The Needles", ro: "The Needles", en: "The Needles"},
@@ -371,7 +416,52 @@ imageHint: "Cheddar Gorge limestone cliffs and winding road",
     },
     image: "/poi-images/uk-cheddar-gorge-nature-v2.webp",
 },  {
-    id: "uk-seven-sisters-nature-v2",
+    id: "uk-seven-sisters-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hope Gap",
+                  "text": "Ein Strand unterhalb der Seven Sisters Klippen.",
+                  "category": "recreational",
+                  "coords": [
+                        0.139107,
+                        50.756144
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hope Gap",
+                  "text": "Strand a Seven Sisters sziklák alatt.",
+                  "category": "recreational",
+                  "coords": [
+                        0.139107,
+                        50.756144
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hope Gap",
+                  "text": "O plajă sub stâncile Seven Sisters.",
+                  "category": "recreational",
+                  "coords": [
+                        0.139107,
+                        50.756144
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hope Gap",
+                  "text": "A beach below the Seven Sisters cliffs.",
+                  "category": "recreational",
+                  "coords": [
+                        0.139107,
+                        50.756144
+                  ]
+            }
+      ]
+},
     parent: "GB",
     type: "landmark",
     name: { de: "Seven Sisters", hu: "Seven Sisters", ro: "Seven Sisters", en: "Seven Sisters"},
@@ -418,7 +508,88 @@ imageHint: "Seven Sisters white chalk cliffs East Sussex",
     image: "/poi-images/uk-seven-sisters-nature-v2.webp",
 },
   {
-    id: "uk-white-cliffs-of-dover-nature-v2",
+    id: "uk-white-cliffs-of-dover-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "St Margaret's Bay",
+                  "text": "St Margaret's Bay liegt unterhalb der White Cliffs of Dover.",
+                  "category": "recreational",
+                  "coords": [
+                        1.386508,
+                        51.150602
+                  ]
+            },
+            {
+                  "name": "Langdon Beach",
+                  "text": "Ein Küstenabschnitt nahe den White Cliffs of Dover.",
+                  "category": "recreational",
+                  "coords": [
+                        1.35069,
+                        51.133598
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "St Margaret's Bay",
+                  "text": "St Margaret's Bay a White Cliffs of Dover alatt található.",
+                  "category": "recreational",
+                  "coords": [
+                        1.386508,
+                        51.150602
+                  ]
+            },
+            {
+                  "name": "Langdon Beach",
+                  "text": "Partszakasz a White Cliffs of Dover közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        1.35069,
+                        51.133598
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "St Margaret's Bay",
+                  "text": "St Margaret's Bay este situată sub White Cliffs of Dover.",
+                  "category": "recreational",
+                  "coords": [
+                        1.386508,
+                        51.150602
+                  ]
+            },
+            {
+                  "name": "Langdon Beach",
+                  "text": "O zonă de coastă în apropierea Stâncilor Albe din Dover.",
+                  "category": "recreational",
+                  "coords": [
+                        1.35069,
+                        51.133598
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "St Margaret's Bay",
+                  "text": "St Margaret's Bay is located below the White Cliffs of Dover.",
+                  "category": "recreational",
+                  "coords": [
+                        1.386508,
+                        51.150602
+                  ]
+            },
+            {
+                  "name": "Langdon Beach",
+                  "text": "A beach near the White Cliffs of Dover.",
+                  "category": "recreational",
+                  "coords": [
+                        1.35069,
+                        51.133598
+                  ]
+            }
+      ]
+},
     parent: "GB",
     type: "landmark",
     name: { de: "White Cliffs of Dover", hu: "Doveri fehér sziklák", ro: "Stâncile Albe din Dover", en: "White Cliffs of Dover"},

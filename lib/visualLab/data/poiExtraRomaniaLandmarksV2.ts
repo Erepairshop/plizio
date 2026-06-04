@@ -813,7 +813,52 @@ export const romaniaLandmarksV2: POI[] = [
     image: "/poi-images/romania-craiova-prefect-landmarks-v2.webp",
   },
   {
-    id: "romania-galati-theatre-landmarks-v2",
+    id: "romania-galati-theatre-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plaja Brateș",
+                  "text": "Ein Strand am Ufer in der Nähe von Galați.",
+                  "category": "recreational",
+                  "coords": [
+                        28.045404,
+                        45.47235
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plaja Brateș",
+                  "text": "Strand a folyóparton Galați közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        28.045404,
+                        45.47235
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plaja Brateș",
+                  "text": "O plajă pe malul apei lângă Galați.",
+                  "category": "recreational",
+                  "coords": [
+                        28.045404,
+                        45.47235
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plaja Brateș",
+                  "text": "A riverside beach near Galați.",
+                  "category": "recreational",
+                  "coords": [
+                        28.045404,
+                        45.47235
+                  ]
+            }
+      ]
+},
     type: "theater",
     parent: "RO",
     name: { de: "Staatstheater Galați", hu: "Galaci Állami Színház", ro: "Teatrul Dramatic Fani Tardini", en: "Fani Tardini Theatre Galați" },

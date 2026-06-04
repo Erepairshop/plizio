@@ -417,7 +417,52 @@ imageHint: "Ljubljana Town Hall building at Mestni trg",
     },
   },
   {
-    id: "slovenia-zuzemberk-castle-landmarks-v2",
+    id: "slovenia-zuzemberk-castle-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Breg",
+                  "text": "Strand bei Burg Žužemberk.",
+                  "category": "recreational",
+                  "coords": [
+                        14.931793,
+                        45.828293
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Breg",
+                  "text": "Strand a Žužemberki vár közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        14.931793,
+                        45.828293
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Breg",
+                  "text": "Plajă lângă Castelul Žužemberk.",
+                  "category": "recreational",
+                  "coords": [
+                        14.931793,
+                        45.828293
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Breg",
+                  "text": "Beach near Žužemberk Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        14.931793,
+                        45.828293
+                  ]
+            }
+      ]
+},
     parent: "SI",
     type: "castle",
     name: { de: "Schloss Žužemberk", hu: "Zsusemberki vár", ro: "Castelul Žužemberk", en: "Žužemberk Castle"},

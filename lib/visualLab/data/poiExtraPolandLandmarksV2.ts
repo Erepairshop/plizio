@@ -408,7 +408,52 @@ export const polandLandmarksV2: POI[] = [
       fr: ["Construit entre 1320 et 1325 par Kokos de Brezovica.", "Appartint pendant des siècles à la famille hongroise Salamon.", "Une inscription au-dessus de l'entrée mentionne la reconstruction en 1601.", "La légende raconte qu'un prince inca s'y réfugia et y cacha un trésor.", "Un 'quipu', document inca à nœuds, fut découvert dans le château en 1946.", "Après la Seconde Guerre mondiale, le château fut nationalisé et transformé en musée.", "La construction du barrage dans les années 1990 a radicalement modifié le paysage.", "Les châteaux supérieur et moyen sont les parties les plus anciennes.", "De la terrasse, on a une vue imprenable sur le château de Czorsztyn.", "Abrite un musée avec des découvertes archéologiques et des meubles historiques.", "Le château servit de décor à plusieurs films et séries télévisées polonais.", "On raconte que le fantasma de la princesse Umina hante le château."],
     }, image: "/poi-images/poland-niedzica-castle-landmarks-v2.webp"},
   {
-    id: "poland-poznan-town-hall-landmarks-v2",
+    id: "poland-poznan-town-hall-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plaża miejska Chwaliszewo",
+                  "text": "Städtischer Strand Chwaliszewo in der Nähe des Rathauses von Poznan.",
+                  "category": "recreational",
+                  "coords": [
+                        16.944766,
+                        52.406197
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plaża miejska Chwaliszewo",
+                  "text": "Chwaliszewo városi strand a poznańi városháza közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        16.944766,
+                        52.406197
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plaża miejska Chwaliszewo",
+                  "text": "Plaja urbană Chwaliszewo lângă primăria din Poznań.",
+                  "category": "recreational",
+                  "coords": [
+                        16.944766,
+                        52.406197
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plaża miejska Chwaliszewo",
+                  "text": "Chwaliszewo urban beach near Poznań Town Hall.",
+                  "category": "recreational",
+                  "coords": [
+                        16.944766,
+                        52.406197
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "landmark",
     name: { de: "Rathaus von Posen", hu: "Poznańi városháza", ro: "Primăria din Poznań", en: "Poznań Town Hall"},
@@ -588,7 +633,52 @@ export const polandLandmarksV2: POI[] = [
       fr: ["Construit à l'origine entre 1241 et 1247 par le roi Venceslas Ier de Bohême.", "La transformation romantique complète par Ernst Gütschow a duré de 1909 à 1914.", "Le château possède plus de 40 passages cachés et couloirs secrets.", "Après la Seconde Guerre mondiale, le château a été pillé à plusieurs reprises.", "Une chambre forte secrète a été découverte dans les années 1990.", "A servi de lieu de tournage pour de nombreux films et séries télévisées.", "Depuis 2014, des événements internationaux de GN (LARP) de sorcellerie s'y déroulent régulièrement.", "Le pont du château enjambant les douves date encore de la Renaissance."],
     }, image: "/poi-images/poland-czocha-castle-landmarks-v2.webp"},
   {
-    id: "poland-moszna-castle-landmarks-v2",
+    id: "poland-moszna-castle-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zielona Zatoka",
+                  "text": "Strand Zielona Zatoka in der Nähe von Schloss Moszna.",
+                  "category": "recreational",
+                  "coords": [
+                        17.736297,
+                        50.434819
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zielona Zatoka",
+                  "text": "Zielona Zatoka strand a Moszna-kastély közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        17.736297,
+                        50.434819
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zielona Zatoka",
+                  "text": "Plaja Zielona Zatoka lângă Castelul Moszna.",
+                  "category": "recreational",
+                  "coords": [
+                        17.736297,
+                        50.434819
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zielona Zatoka",
+                  "text": "Zielona Zatoka beach near Moszna Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        17.736297,
+                        50.434819
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "palace",
     name: { de: "Schloss Moschen", hu: "Moszna-kastély", ro: "Castelul Moszna", en: "Moszna Castle"},
@@ -859,7 +949,88 @@ export const polandLandmarksV2: POI[] = [
       fr: ["Le pont a été construit à la fin du XIVe siècle, probablement vers 1390.", "Il est composé de grands blocs de pierre et mesure plus de 52 mètres de long.", "La construction repose sur quatre arches massives et asymétriques.", "Les six groupes de statues baroques datent tous des XVIIe et XVIIIe siècles.", "L'une des statues les plus célèbres est celle du saint patron de la Bohême, saint Venceslas.", "Le pont était un élément central de la route commerciale dite de l'Ambre.", "Jusqu'au XXe siècle, la circulation régulière passait encore sur ce pont étroit.", "Il a survécu sans dommage à de nombreuses inondations graves au cours des siècles."],
     }, image: "/poi-images/poland-klodzko-gothic-bridge-landmarks-v2.webp"},
   {
-    id: "poland-vistulamouth-fortress-landmarks-v2",
+    id: "poland-vistulamouth-fortress-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plaża strzeżona \"Stogi\"",
+                  "text": "Überwachter Strand Stogi nahe der Festung Weichselmünde.",
+                  "category": "recreational",
+                  "coords": [
+                        18.732204,
+                        54.375292
+                  ]
+            },
+            {
+                  "name": "Plaża Stogi",
+                  "text": "Strand Stogi nahe der Festung Weichselmünde.",
+                  "category": "recreational",
+                  "coords": [
+                        18.735156,
+                        54.376146
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plaża strzeżona \"Stogi\"",
+                  "text": "Stogi őrzött strand a Vistulamouth Erőd közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.732204,
+                        54.375292
+                  ]
+            },
+            {
+                  "name": "Plaża Stogi",
+                  "text": "Stogi strand a Vistulamouth Erőd közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.735156,
+                        54.376146
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plaża strzeżona \"Stogi\"",
+                  "text": "Plajă supravegheată Stogi lângă Cetatea Vistulamouth.",
+                  "category": "recreational",
+                  "coords": [
+                        18.732204,
+                        54.375292
+                  ]
+            },
+            {
+                  "name": "Plaża Stogi",
+                  "text": "Plaja Stogi lângă Fortăreața Vistulamouth.",
+                  "category": "recreational",
+                  "coords": [
+                        18.735156,
+                        54.376146
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plaża strzeżona \"Stogi\"",
+                  "text": "Lifeguarded beach Stogi near Vistulamouth Fortress.",
+                  "category": "recreational",
+                  "coords": [
+                        18.732204,
+                        54.375292
+                  ]
+            },
+            {
+                  "name": "Plaża Stogi",
+                  "text": "Stogi beach located near the Vistulamouth Fortress.",
+                  "category": "recreational",
+                  "coords": [
+                        18.735156,
+                        54.376146
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "landmark",
     name: { de: "Festung Weichselmünde", hu: "Wisłoujście-erőd", ro: "Fortăreața Wisłoujście", en: "Vistulamouth Fortress"},
@@ -1276,7 +1447,52 @@ export const polandLandmarksV2: POI[] = [
     },
   },
   {
-    id: "poland-solidarity-centre-landmarks-v2",
+    id: "poland-solidarity-centre-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "100cznia Plaża",
+                  "text": "Strand 100cznia beim Solidarność-Zentrum.",
+                  "category": "recreational",
+                  "coords": [
+                        18.645567,
+                        54.363943
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "100cznia Plaża",
+                  "text": "100cznia strand a Szolidaritás Központ mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        18.645567,
+                        54.363943
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "100cznia Plaża",
+                  "text": "Plaja 100cznia lângă Centrul Solidarității.",
+                  "category": "recreational",
+                  "coords": [
+                        18.645567,
+                        54.363943
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "100cznia Plaża",
+                  "text": "100cznia beach near the Solidarity Centre.",
+                  "category": "recreational",
+                  "coords": [
+                        18.645567,
+                        54.363943
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "museum",
     name: { de: "Europäisches Zentrum der Solidarność", hu: "Európai Szolidaritás Központ", ro: "Centrul European de Solidaritate", en: "European Solidarity Centre"},

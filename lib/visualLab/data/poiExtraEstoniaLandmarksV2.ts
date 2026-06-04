@@ -138,7 +138,52 @@ export const estoniaLandmarksV2: POI[] = [
     image: "/poi-images/estonia-laits-castle-landmarks-v2.webp",
   },
   {
-    id: "estonia-kunda-church-landmarks-v2",
+    id: "estonia-kunda-church-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Toolse supelrand",
+                  "text": "Toolse-Badestrand in der Nähe der Kirche von Kunda.",
+                  "category": "recreational",
+                  "coords": [
+                        26.466672,
+                        59.534633
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Toolse supelrand",
+                  "text": "Toolse strand a kunda-i templom közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        26.466672,
+                        59.534633
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Toolse supelrand",
+                  "text": "Plaja Toolse lângă biserica din Kunda.",
+                  "category": "recreational",
+                  "coords": [
+                        26.466672,
+                        59.534633
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Toolse supelrand",
+                  "text": "Toolse beach near the church in Kunda.",
+                  "category": "recreational",
+                  "coords": [
+                        26.466672,
+                        59.534633
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "EE",
     name: { de: "St.-Barbara-Kirche Kunda", hu: "Kundai templom", ro: "Biserica Kunda", en: "Kunda Church" },
@@ -228,7 +273,52 @@ export const estoniaLandmarksV2: POI[] = [
     image: "/poi-images/estonia-valga-church-landmarks-v2.webp",
   },
   {
-    id: "estonia-viljandi-museum-landmarks-v2",
+    id: "estonia-viljandi-museum-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Karula järve supelrand",
+                  "text": "Badestrand am Karula-See bei Viljandi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.601344,
+                        58.398992
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Karula järve supelrand",
+                  "text": "Strand a Karula-tónál, Viljandi közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        25.601344,
+                        58.398992
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Karula järve supelrand",
+                  "text": "Plajă la lacul Karula, lângă Viljandi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.601344,
+                        58.398992
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Karula järve supelrand",
+                  "text": "Beach at Karula Lake near Viljandi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.601344,
+                        58.398992
+                  ]
+            }
+      ]
+},
     type: "museum",
     parent: "EE",
     name: { de: "Museum Viljandi", hu: "Viljandi Múzeum", ro: "Muzeul Viljandi", en: "Viljandi Museum" },
@@ -408,7 +498,52 @@ export const estoniaLandmarksV2: POI[] = [
     image: "/poi-images/estonia-kohtla-mining-museum-landmarks-v2.webp",
   },
   {
-    id: "estonia-tallinn-seaplane-harbour-landmarks-v2",
+    id: "estonia-tallinn-seaplane-harbour-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kalarand",
+                  "text": "Kalarand-Strand in Tallinn.",
+                  "category": "recreational",
+                  "coords": [
+                        24.748266,
+                        59.447842
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kalarand",
+                  "text": "Kalarand strand Tallinnban.",
+                  "category": "recreational",
+                  "coords": [
+                        24.748266,
+                        59.447842
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kalarand",
+                  "text": "Plaja Kalarand în Tallinn.",
+                  "category": "recreational",
+                  "coords": [
+                        24.748266,
+                        59.447842
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kalarand",
+                  "text": "Kalarand beach in Tallinn.",
+                  "category": "recreational",
+                  "coords": [
+                        24.748266,
+                        59.447842
+                  ]
+            }
+      ]
+},
     type: "museum",
     parent: "EE",
     name: { de: "Wasserflugzeughafen Tallinn", hu: "Tallinni hidroplánkikötő", ro: "Portul hidroavioanelor Tallinn", en: "Tallinn Seaplane Harbour" },
@@ -678,7 +813,88 @@ export const estoniaLandmarksV2: POI[] = [
     image: "/poi-images/estonia-johvi-church-landmarks-v2.webp",
   },
   {
-    id: "estonia-paide-church-landmarks-v2",
+    id: "estonia-paide-church-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Paide supelrand - rannavollekeskus",
+                  "text": "Strand in Paide.",
+                  "category": "recreational",
+                  "coords": [
+                        25.583982,
+                        58.885182
+                  ]
+            },
+            {
+                  "name": "Paide supelrand - lasterand",
+                  "text": "Kinderstrand in Paide.",
+                  "category": "recreational",
+                  "coords": [
+                        25.583416,
+                        58.883229
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Paide supelrand - rannavollekeskus",
+                  "text": "Strand Paidéban.",
+                  "category": "recreational",
+                  "coords": [
+                        25.583982,
+                        58.885182
+                  ]
+            },
+            {
+                  "name": "Paide supelrand - lasterand",
+                  "text": "Gyermekstrand Paidéban.",
+                  "category": "recreational",
+                  "coords": [
+                        25.583416,
+                        58.883229
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Paide supelrand - rannavollekeskus",
+                  "text": "Plajă în Paide.",
+                  "category": "recreational",
+                  "coords": [
+                        25.583982,
+                        58.885182
+                  ]
+            },
+            {
+                  "name": "Paide supelrand - lasterand",
+                  "text": "Plajă pentru copii în Paide.",
+                  "category": "recreational",
+                  "coords": [
+                        25.583416,
+                        58.883229
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Paide supelrand - rannavollekeskus",
+                  "text": "Beach in Paide.",
+                  "category": "recreational",
+                  "coords": [
+                        25.583982,
+                        58.885182
+                  ]
+            },
+            {
+                  "name": "Paide supelrand - lasterand",
+                  "text": "Children's beach in Paide.",
+                  "category": "recreational",
+                  "coords": [
+                        25.583416,
+                        58.883229
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "EE",
     name: { de: "St.-Kreuz-Kirche Paide", hu: "Paidei templom", ro: "Biserica Paide", en: "Paide St. Cross Church" },
@@ -723,7 +939,88 @@ export const estoniaLandmarksV2: POI[] = [
     image: "/poi-images/estonia-paide-church-landmarks-v2.webp",
   },
   {
-    id: "estonia-rapla-church-landmarks-v2",
+    id: "estonia-rapla-church-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vesiroosi supelrand",
+                  "text": "Strand bei der Kirche von Rapla.",
+                  "category": "recreational",
+                  "coords": [
+                        24.81288,
+                        58.998942
+                  ]
+            },
+            {
+                  "name": "Öökulli järve supelrand",
+                  "text": "Strand am See Öökulli bei der Kirche Rapla.",
+                  "category": "recreational",
+                  "coords": [
+                        24.851772,
+                        58.981631
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vesiroosi supelrand",
+                  "text": "Strand a raplai templom mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        24.81288,
+                        58.998942
+                  ]
+            },
+            {
+                  "name": "Öökulli järve supelrand",
+                  "text": "Strand az Öökulli-tónál, a raplai templom közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        24.851772,
+                        58.981631
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vesiroosi supelrand",
+                  "text": "Plajă lângă biserica din Rapla.",
+                  "category": "recreational",
+                  "coords": [
+                        24.81288,
+                        58.998942
+                  ]
+            },
+            {
+                  "name": "Öökulli järve supelrand",
+                  "text": "Plajă la lacul Öökulli lângă biserica din Rapla.",
+                  "category": "recreational",
+                  "coords": [
+                        24.851772,
+                        58.981631
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vesiroosi supelrand",
+                  "text": "Beach near Rapla Church.",
+                  "category": "recreational",
+                  "coords": [
+                        24.81288,
+                        58.998942
+                  ]
+            },
+            {
+                  "name": "Öökulli järve supelrand",
+                  "text": "Beach at Öökulli Lake near Rapla Church.",
+                  "category": "recreational",
+                  "coords": [
+                        24.851772,
+                        58.981631
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "EE",
     name: { de: "St.-Maria-Magdalena-Kirche Rapla", hu: "Raplai templom", ro: "Biserica Rapla", en: "Rapla St. Mary Magdalene Church" },
@@ -813,7 +1110,52 @@ export const estoniaLandmarksV2: POI[] = [
     image: "/poi-images/estonia-tapa-church-landmarks-v2.webp",
   },
   {
-    id: "estonia-kuressaare-town-hall-landmarks-v2",
+    id: "estonia-kuressaare-town-hall-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kuressaare rand",
+                  "text": "Strand in Kuressaare.",
+                  "category": "recreational",
+                  "coords": [
+                        22.476702,
+                        58.244308
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kuressaare rand",
+                  "text": "Kuressaare strand.",
+                  "category": "recreational",
+                  "coords": [
+                        22.476702,
+                        58.244308
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kuressaare rand",
+                  "text": "Plaja Kuressaare.",
+                  "category": "recreational",
+                  "coords": [
+                        22.476702,
+                        58.244308
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kuressaare rand",
+                  "text": "Kuressaare beach.",
+                  "category": "recreational",
+                  "coords": [
+                        22.476702,
+                        58.244308
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "EE",
     name: { de: "Rathaus Kuressaare", hu: "Kuressaarei Városháza", ro: "Primăria Kuressaare", en: "Kuressaare Town Hall" },

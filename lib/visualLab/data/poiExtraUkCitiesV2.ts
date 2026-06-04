@@ -7853,6 +7853,15 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -3.961405,
                         51.613137
                   ]
+            },
+            {
+                  "name": "ABCC Meeting Point",
+                  "text": "Ein Strand in der Nähe von Swansea.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.936517,
+                        51.61423
+                  ]
             }
       ],
       "hu": [
@@ -8114,6 +8123,15 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -3.961405,
                         51.613137
+                  ]
+            },
+            {
+                  "name": "ABCC Meeting Point",
+                  "text": "Strand Swansea közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.936517,
+                        51.61423
                   ]
             }
       ],
@@ -8377,6 +8395,15 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -3.961405,
                         51.613137
                   ]
+            },
+            {
+                  "name": "ABCC Meeting Point",
+                  "text": "Plajă lângă Swansea.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.936517,
+                        51.61423
+                  ]
             }
       ],
       "en": [
@@ -8638,6 +8665,15 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -3.961405,
                         51.613137
+                  ]
+            },
+            {
+                  "name": "ABCC Meeting Point",
+                  "text": "A beach near Swansea.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.936517,
+                        51.61423
                   ]
             }
       ]
@@ -9611,6 +9647,15 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -3.02463,
                         56.4817
                   ]
+            },
+            {
+                  "name": "Woodhaven Beach",
+                  "text": "Strand in der Nähe von Dundee.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.963168,
+                        56.43161
+                  ]
             }
       ],
       "hu": [
@@ -9902,6 +9947,15 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -3.02463,
                         56.4817
+                  ]
+            },
+            {
+                  "name": "Woodhaven Beach",
+                  "text": "Strand Dundee közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.963168,
+                        56.43161
                   ]
             }
       ],
@@ -10195,6 +10249,15 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -3.02463,
                         56.4817
                   ]
+            },
+            {
+                  "name": "Woodhaven Beach",
+                  "text": "Plajă lângă Dundee.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.963168,
+                        56.43161
+                  ]
             }
       ],
       "en": [
@@ -10486,6 +10549,15 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -3.02463,
                         56.4817
+                  ]
+            },
+            {
+                  "name": "Woodhaven Beach",
+                  "text": "Beach near Dundee.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.963168,
+                        56.43161
                   ]
             }
       ]
@@ -11212,6 +11284,15 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -0.151479,
                         50.822056
                   ]
+            },
+            {
+                  "name": "Duke's Mound Naturist Beach",
+                  "text": "Duke's Mound Naturist Beach ist ein FKK-Strand in Brighton.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.114532,
+                        50.814728
+                  ]
             }
       ],
       "hu": [
@@ -11463,6 +11544,15 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -0.151479,
                         50.822056
+                  ]
+            },
+            {
+                  "name": "Duke's Mound Naturist Beach",
+                  "text": "A Duke's Mound Naturist Beach egy nudista strand Brightonban.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.114532,
+                        50.814728
                   ]
             }
       ],
@@ -11716,6 +11806,15 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                         -0.151479,
                         50.822056
                   ]
+            },
+            {
+                  "name": "Duke's Mound Naturist Beach",
+                  "text": "Duke's Mound Naturist Beach este o plajă de nudiști în Brighton.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.114532,
+                        50.814728
+                  ]
             }
       ],
       "en": [
@@ -11967,6 +12066,15 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
                   "coords": [
                         -0.151479,
                         50.822056
+                  ]
+            },
+            {
+                  "name": "Duke's Mound Naturist Beach",
+                  "text": "Duke's Mound Naturist Beach is a naturist beach in Brighton.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.114532,
+                        50.814728
                   ]
             }
       ]
@@ -21167,7 +21275,160 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
 }
   },
   {
-    id: "uk-st-davids-cities-v2",
+    id: "uk-st-davids-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Caerfai Beach",
+                  "text": "Klippenstrand bei St Davids.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.254008,
+                        51.872475
+                  ]
+            },
+            {
+                  "name": "Caerbwdy Bay",
+                  "text": "Caerbwdy Bay ist eine kleine Bucht nahe St Davids.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.245379,
+                        51.873468
+                  ]
+            },
+            {
+                  "name": "Whitesands Beach",
+                  "text": "Bekannter Strand bei St Davids.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.298146,
+                        51.894118
+                  ]
+            },
+            {
+                  "name": "Porthselau Beach",
+                  "text": "Porthselau Beach ist ein Strand in der Nähe von St Davids.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.304952,
+                        51.886509
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Caerfai Beach",
+                  "text": "Sziklás strand St Davids mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.254008,
+                        51.872475
+                  ]
+            },
+            {
+                  "name": "Caerbwdy Bay",
+                  "text": "A Caerbwdy Bay egy kis öböl St Davids közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.245379,
+                        51.873468
+                  ]
+            },
+            {
+                  "name": "Whitesands Beach",
+                  "text": "Ismert strand St Davids közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.298146,
+                        51.894118
+                  ]
+            },
+            {
+                  "name": "Porthselau Beach",
+                  "text": "Porthselau Beach egy strand St Davids közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.304952,
+                        51.886509
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Caerfai Beach",
+                  "text": "Plajă cu stânci lângă St Davids.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.254008,
+                        51.872475
+                  ]
+            },
+            {
+                  "name": "Caerbwdy Bay",
+                  "text": "Caerbwdy Bay este un golfuleț de lângă St Davids.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.245379,
+                        51.873468
+                  ]
+            },
+            {
+                  "name": "Whitesands Beach",
+                  "text": "Plajă cunoscută lângă St Davids.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.298146,
+                        51.894118
+                  ]
+            },
+            {
+                  "name": "Porthselau Beach",
+                  "text": "Porthselau Beach este o plajă lângă St Davids.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.304952,
+                        51.886509
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Caerfai Beach",
+                  "text": "Cliffside beach near St Davids.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.254008,
+                        51.872475
+                  ]
+            },
+            {
+                  "name": "Caerbwdy Bay",
+                  "text": "Caerbwdy Bay is a small bay near St Davids.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.245379,
+                        51.873468
+                  ]
+            },
+            {
+                  "name": "Whitesands Beach",
+                  "text": "Well-known beach near St Davids.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.298146,
+                        51.894118
+                  ]
+            },
+            {
+                  "name": "Porthselau Beach",
+                  "text": "Porthselau Beach is a beach near St Davids.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.304952,
+                        51.886509
+                  ]
+            }
+      ]
+},
     parent: "GB",
     type: "city",
     name: { de: "St Davids", hu: "St Davids", ro: "St Davids", en: "St Davids"},
@@ -26698,7 +26959,124 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
 }
   },
   {
-    id: "uk-st-andrews-cities-v2",
+    id: "uk-st-andrews-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "East Sands",
+                  "text": "East Sands Strand in St Andrews.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.778948,
+                        56.335959
+                  ]
+            },
+            {
+                  "name": "West Sands",
+                  "text": "West Sands Strand in St Andrews.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.812027,
+                        56.358722
+                  ]
+            },
+            {
+                  "name": "Castle Sands",
+                  "text": "Ein historisch bedeutender Strand bei St Andrews.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.788997,
+                        56.341896
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "East Sands",
+                  "text": "East Sands strand St Andrewsban.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.778948,
+                        56.335959
+                  ]
+            },
+            {
+                  "name": "West Sands",
+                  "text": "West Sands strand St Andrewsban.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.812027,
+                        56.358722
+                  ]
+            },
+            {
+                  "name": "Castle Sands",
+                  "text": "Történelmileg jelentős strand St Andrews közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.788997,
+                        56.341896
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "East Sands",
+                  "text": "Plaja East Sands din St Andrews.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.778948,
+                        56.335959
+                  ]
+            },
+            {
+                  "name": "West Sands",
+                  "text": "Plaja West Sands din St Andrews.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.812027,
+                        56.358722
+                  ]
+            },
+            {
+                  "name": "Castle Sands",
+                  "text": "O plajă de importanță istorică lângă St Andrews.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.788997,
+                        56.341896
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "East Sands",
+                  "text": "East Sands beach in St Andrews.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.778948,
+                        56.335959
+                  ]
+            },
+            {
+                  "name": "West Sands",
+                  "text": "West Sands beach in St Andrews.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.812027,
+                        56.358722
+                  ]
+            },
+            {
+                  "name": "Castle Sands",
+                  "text": "A historically significant beach near St Andrews.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.788997,
+                        56.341896
+                  ]
+            }
+      ]
+},
     parent: "GB",
     type: "town",
     name: { de: "St Andrews", hu: "St Andrews", ro: "St Andrews", en: "St Andrews"},
@@ -26884,7 +27262,52 @@ imageHint: "Sheffield Winter Garden and Peace Gardens",
     image: "/poi-images/uk-chester-cities-v2.webp",
   },
   {
-    id: "uk-bournemouth-cities-v2",
+    id: "uk-bournemouth-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bournemouth West Beach",
+                  "text": "Bournemouth West Beach liegt direkt in Bournemouth.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.881747,
+                        50.714542
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bournemouth West Beach",
+                  "text": "A Bournemouth West Beach strand közvetlenül Bournemouthban található.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.881747,
+                        50.714542
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bournemouth West Beach",
+                  "text": "Bournemouth West Beach este situată chiar în Bournemouth.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.881747,
+                        50.714542
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bournemouth West Beach",
+                  "text": "Bournemouth West Beach is located right in Bournemouth.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.881747,
+                        50.714542
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "GB",
     name: { de: "Bournemouth", hu: "Bournemouth", ro: "Bournemouth", en: "Bournemouth" },

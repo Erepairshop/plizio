@@ -15922,6 +15922,168 @@ const citySeeds: CitySeed[] = [
                         -1.559328,
                         43.483818
                   ]
+            },
+            {
+                  "name": "Plage de la Petite Chambre d'Amour",
+                  "text": "Plage de la Petite Chambre d'Amour ist ein bekannter Strand an der Küste von Anglet.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.546575,
+                        43.495771
+                  ]
+            },
+            {
+                  "name": "Erretegia",
+                  "text": "Erretegia ist ein Küstenstrand in der Gemeinde Anglet.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.589778,
+                        43.446632
+                  ]
+            },
+            {
+                  "name": "Pavillon Royal",
+                  "text": "Pavillon Royal ist ein lokaler Strand in der Stadt Anglet.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.583864,
+                        43.453637
+                  ]
+            },
+            {
+                  "name": "Plage du Miramar",
+                  "text": "Plage du Miramar ist ein Badestrand am Meer in Anglet.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.553047,
+                        43.491056
+                  ]
+            },
+            {
+                  "name": "Plage de la Milady",
+                  "text": "Plage de la Milady ist ein Strand in der Küstenstadt Anglet.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.575638,
+                        43.464193
+                  ]
+            },
+            {
+                  "name": "Grande Plage",
+                  "text": "Grande Plage ist ein großer und prominenter Strand in Anglet.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.559198,
+                        43.485323
+                  ]
+            },
+            {
+                  "name": "Plage des Sables d'Or",
+                  "text": "Plage des Sables d'Or ist ein Sandstrand an der Küste von Anglet.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.541876,
+                        43.501621
+                  ]
+            },
+            {
+                  "name": "Plage du Club",
+                  "text": "Plage du Club ist ein Strand in der Stadt Anglet.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.543956,
+                        43.499284
+                  ]
+            },
+            {
+                  "name": "Plage de l'Océan",
+                  "text": "Plage de l'Océan ist ein Strand in Anglet.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.531906,
+                        43.514364
+                  ]
+            },
+            {
+                  "name": "Plage de Marinella",
+                  "text": "Plage de Marinella ist ein Strandziel in Anglet.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.53961,
+                        43.504404
+                  ]
+            },
+            {
+                  "name": "Plage de la Barre",
+                  "text": "Plage de la Barre ist ein lokaler Strand in Anglet.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.52421,
+                        43.525953
+                  ]
+            },
+            {
+                  "name": "Plage de la Marbellla",
+                  "text": "Plage de la Marbellla ist ein öffentlicher Strand in der Stadt Anglet.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.573516,
+                        43.467821
+                  ]
+            },
+            {
+                  "name": "Ilbarritz",
+                  "text": "Ilbarritz ist ein anerkannter Küstenstrand in Anglet.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.579541,
+                        43.459197
+                  ]
+            },
+            {
+                  "name": "Plages des Dunes",
+                  "text": "Plages des Dunes ist ein Küstenstrandbereich in Anglet.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.528976,
+                        43.517939
+                  ]
+            },
+            {
+                  "name": "Plages de la Madrague",
+                  "text": "Plages de la Madrague ist ein Strandabschnitt in der Stadt Anglet.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.534015,
+                        43.511738
+                  ]
+            },
+            {
+                  "name": "Plages des Cavaliers",
+                  "text": "Plages des Cavaliers ist ein Strandbereich in Anglet.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.526627,
+                        43.522052
+                  ]
+            },
+            {
+                  "name": "Plages de la Petite Madrague",
+                  "text": "Plages de la Petite Madrague ist ein Strandabschnitt in Anglet.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.535599,
+                        43.509795
+                  ]
+            },
+            {
+                  "name": "Plage des Corsaires",
+                  "text": "Plage des Corsaires ist ein Küstenort mit einem Strand in Anglet.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.53749,
+                        43.507449
+                  ]
             }
       ],
       "hu": [
@@ -15993,6 +16155,168 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -1.559328,
                         43.483818
+                  ]
+            },
+            {
+                  "name": "Plage de la Petite Chambre d'Amour",
+                  "text": "A Plage de la Petite Chambre d'Amour egy ismert strand Anglet partvidékén.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.546575,
+                        43.495771
+                  ]
+            },
+            {
+                  "name": "Erretegia",
+                  "text": "Az Erretegia egy tengerparti strand Anglet önkormányzatában.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.589778,
+                        43.446632
+                  ]
+            },
+            {
+                  "name": "Pavillon Royal",
+                  "text": "A Pavillon Royal egy strandterület Anglet városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.583864,
+                        43.453637
+                  ]
+            },
+            {
+                  "name": "Plage du Miramar",
+                  "text": "A Plage du Miramar egy tengerparti strand Anglet városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.553047,
+                        43.491056
+                  ]
+            },
+            {
+                  "name": "Plage de la Milady",
+                  "text": "A Plage de la Milady egy strand Anglet tengerparti városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.575638,
+                        43.464193
+                  ]
+            },
+            {
+                  "name": "Grande Plage",
+                  "text": "A Grande Plage egy nagy és jelentős strand Anglet városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.559198,
+                        43.485323
+                  ]
+            },
+            {
+                  "name": "Plage des Sables d'Or",
+                  "text": "A Plage des Sables d'Or egy homokos strand Anglet partvidékén.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.541876,
+                        43.501621
+                  ]
+            },
+            {
+                  "name": "Plage du Club",
+                  "text": "A Plage du Club egy strand Anglet városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.543956,
+                        43.499284
+                  ]
+            },
+            {
+                  "name": "Plage de l'Océan",
+                  "text": "A Plage de l'Océan egy strand Anglet-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.531906,
+                        43.514364
+                  ]
+            },
+            {
+                  "name": "Plage de Marinella",
+                  "text": "A Plage de Marinella egy strand úti cél Anglet városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.53961,
+                        43.504404
+                  ]
+            },
+            {
+                  "name": "Plage de la Barre",
+                  "text": "A Plage de la Barre egy helyi strand Anglet-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.52421,
+                        43.525953
+                  ]
+            },
+            {
+                  "name": "Plage de la Marbellla",
+                  "text": "A Plage de la Marbellla egy nyilvános strand Anglet városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.573516,
+                        43.467821
+                  ]
+            },
+            {
+                  "name": "Ilbarritz",
+                  "text": "Az Ilbarritz egy elismert tengerparti strand Anglet-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.579541,
+                        43.459197
+                  ]
+            },
+            {
+                  "name": "Plages des Dunes",
+                  "text": "A Plages des Dunes egy tengerparti strandterület Anglet-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.528976,
+                        43.517939
+                  ]
+            },
+            {
+                  "name": "Plages de la Madrague",
+                  "text": "A Plages de la Madrague egy strandrész Anglet városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.534015,
+                        43.511738
+                  ]
+            },
+            {
+                  "name": "Plages des Cavaliers",
+                  "text": "A Plages des Cavaliers egy strandterület Anglet-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.526627,
+                        43.522052
+                  ]
+            },
+            {
+                  "name": "Plages de la Petite Madrague",
+                  "text": "A Plages de la Petite Madrague egy partszakasz Anglet városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.535599,
+                        43.509795
+                  ]
+            },
+            {
+                  "name": "Plage des Corsaires",
+                  "text": "A Plage des Corsaires egy tengerparti helyszín Anglet-ben, amely egy stranddal rendelkezik.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.53749,
+                        43.507449
                   ]
             }
       ],
@@ -16066,6 +16390,168 @@ const citySeeds: CitySeed[] = [
                         -1.559328,
                         43.483818
                   ]
+            },
+            {
+                  "name": "Plage de la Petite Chambre d'Amour",
+                  "text": "Plage de la Petite Chambre d'Amour este o plajă cunoscută de-a lungul coastei din Anglet.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.546575,
+                        43.495771
+                  ]
+            },
+            {
+                  "name": "Erretegia",
+                  "text": "Erretegia este o plajă de coastă situată în municipalitatea Anglet.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.589778,
+                        43.446632
+                  ]
+            },
+            {
+                  "name": "Pavillon Royal",
+                  "text": "Pavillon Royal este o zonă de plajă situată în orașul Anglet.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.583864,
+                        43.453637
+                  ]
+            },
+            {
+                  "name": "Plage du Miramar",
+                  "text": "Plage du Miramar este o plajă la malul mării situată în Anglet.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.553047,
+                        43.491056
+                  ]
+            },
+            {
+                  "name": "Plage de la Milady",
+                  "text": "Plage de la Milady este o plajă situată în orașul de coastă Anglet.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.575638,
+                        43.464193
+                  ]
+            },
+            {
+                  "name": "Grande Plage",
+                  "text": "Grande Plage este o plajă mare și importantă situată în Anglet.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.559198,
+                        43.485323
+                  ]
+            },
+            {
+                  "name": "Plage des Sables d'Or",
+                  "text": "Plage des Sables d'Or este o plajă locală situată pe coasta din Anglet.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.541876,
+                        43.501621
+                  ]
+            },
+            {
+                  "name": "Plage du Club",
+                  "text": "Plage du Club este o plajă situată în orașul Anglet.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.543956,
+                        43.499284
+                  ]
+            },
+            {
+                  "name": "Plage de l'Océan",
+                  "text": "Plage de l'Océan este o plajă situată în Anglet.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.531906,
+                        43.514364
+                  ]
+            },
+            {
+                  "name": "Plage de Marinella",
+                  "text": "Plage de Marinella este o destinație de plajă din orașul Anglet.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.53961,
+                        43.504404
+                  ]
+            },
+            {
+                  "name": "Plage de la Barre",
+                  "text": "Plage de la Barre este o plajă locală în Anglet.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.52421,
+                        43.525953
+                  ]
+            },
+            {
+                  "name": "Plage de la Marbellla",
+                  "text": "Plage de la Marbellla este o plajă publică în orașul Anglet.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.573516,
+                        43.467821
+                  ]
+            },
+            {
+                  "name": "Ilbarritz",
+                  "text": "Ilbarritz este o plajă de coastă recunoscută, situată în Anglet.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.579541,
+                        43.459197
+                  ]
+            },
+            {
+                  "name": "Plages des Dunes",
+                  "text": "Plages des Dunes este o zonă de plajă de coastă în Anglet.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.528976,
+                        43.517939
+                  ]
+            },
+            {
+                  "name": "Plages de la Madrague",
+                  "text": "Plages de la Madrague este o zonă de plajă din orașul Anglet.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.534015,
+                        43.511738
+                  ]
+            },
+            {
+                  "name": "Plages des Cavaliers",
+                  "text": "Plages des Cavaliers este o zonă de plajă situată în Anglet.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.526627,
+                        43.522052
+                  ]
+            },
+            {
+                  "name": "Plages de la Petite Madrague",
+                  "text": "Plages de la Petite Madrague este o porțiune de plajă situată în Anglet.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.535599,
+                        43.509795
+                  ]
+            },
+            {
+                  "name": "Plage des Corsaires",
+                  "text": "Plage des Corsaires este un loc de coastă care oferă o plajă în Anglet.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.53749,
+                        43.507449
+                  ]
             }
       ],
       "en": [
@@ -16137,6 +16623,168 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -1.559328,
                         43.483818
+                  ]
+            },
+            {
+                  "name": "Plage de la Petite Chambre d'Amour",
+                  "text": "Plage de la Petite Chambre d'Amour is a well-known beach located along the coast of Anglet.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.546575,
+                        43.495771
+                  ]
+            },
+            {
+                  "name": "Erretegia",
+                  "text": "Erretegia is a coastal beach located in the municipality of Anglet.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.589778,
+                        43.446632
+                  ]
+            },
+            {
+                  "name": "Pavillon Royal",
+                  "text": "Pavillon Royal is a beach area situated in the town of Anglet.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.583864,
+                        43.453637
+                  ]
+            },
+            {
+                  "name": "Plage du Miramar",
+                  "text": "Plage du Miramar is a seaside beach located in Anglet.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.553047,
+                        43.491056
+                  ]
+            },
+            {
+                  "name": "Plage de la Milady",
+                  "text": "Plage de la Milady is a beach located in the coastal city of Anglet.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.575638,
+                        43.464193
+                  ]
+            },
+            {
+                  "name": "Grande Plage",
+                  "text": "Grande Plage is a large and prominent beach situated in Anglet.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.559198,
+                        43.485323
+                  ]
+            },
+            {
+                  "name": "Plage des Sables d'Or",
+                  "text": "Plage des Sables d'Or is a local beach situated on the coast of Anglet.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.541876,
+                        43.501621
+                  ]
+            },
+            {
+                  "name": "Plage du Club",
+                  "text": "Plage du Club is a beach situated in the city of Anglet.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.543956,
+                        43.499284
+                  ]
+            },
+            {
+                  "name": "Plage de l'Océan",
+                  "text": "Plage de l'Océan is a beach located in Anglet.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.531906,
+                        43.514364
+                  ]
+            },
+            {
+                  "name": "Plage de Marinella",
+                  "text": "Plage de Marinella is a beach destination in Anglet.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.53961,
+                        43.504404
+                  ]
+            },
+            {
+                  "name": "Plage de la Barre",
+                  "text": "Plage de la Barre is a local beach in Anglet.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.52421,
+                        43.525953
+                  ]
+            },
+            {
+                  "name": "Plage de la Marbellla",
+                  "text": "Plage de la Marbellla is a public beach in the city of Anglet.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.573516,
+                        43.467821
+                  ]
+            },
+            {
+                  "name": "Ilbarritz",
+                  "text": "Ilbarritz is a recognized coastal beach located in Anglet.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.579541,
+                        43.459197
+                  ]
+            },
+            {
+                  "name": "Plages des Dunes",
+                  "text": "Plages des Dunes is a coastal beach area in Anglet.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.528976,
+                        43.517939
+                  ]
+            },
+            {
+                  "name": "Plages de la Madrague",
+                  "text": "Plages de la Madrague is a beachfront location in the city of Anglet.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.534015,
+                        43.511738
+                  ]
+            },
+            {
+                  "name": "Plages des Cavaliers",
+                  "text": "Plages des Cavaliers is a beach area situated in Anglet.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.526627,
+                        43.522052
+                  ]
+            },
+            {
+                  "name": "Plages de la Petite Madrague",
+                  "text": "Plages de la Petite Madrague is a stretch of beach located in Anglet.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.535599,
+                        43.509795
+                  ]
+            },
+            {
+                  "name": "Plage des Corsaires",
+                  "text": "Plage des Corsaires is a coastal spot featuring a beach in Anglet.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.53749,
+                        43.507449
                   ]
             }
       ],
@@ -21061,6 +21709,366 @@ const citySeeds: CitySeed[] = [
                         -2.054745,
                         48.635472
                   ]
+            },
+            {
+                  "name": "Plage de Port Salut",
+                  "text": "Plage de Port Salut ist ein Strand in Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.059417,
+                        48.64003
+                  ]
+            },
+            {
+                  "name": "Plage du Rocher",
+                  "text": "Plage du Rocher ist ein Strand in Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.145507,
+                        48.619899
+                  ]
+            },
+            {
+                  "name": "Plage des Fours à Chaux",
+                  "text": "Plage des Fours à Chaux ist ein Strand in Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.013936,
+                        48.627238
+                  ]
+            },
+            {
+                  "name": "Plage du Môle",
+                  "text": "Plage du Môle ist ein Strand in Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.031398,
+                        48.645096
+                  ]
+            },
+            {
+                  "name": "Plage de Bon Secours",
+                  "text": "Plage de Bon Secours ist ein Strand in Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.029856,
+                        48.648713
+                  ]
+            },
+            {
+                  "name": "Plage Malo",
+                  "text": "Plage Malo ist ein Strand in Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.02665,
+                        48.652861
+                  ]
+            },
+            {
+                  "name": "Plage de l'Islet",
+                  "text": "Plage de l'Islet ist ein Strand in Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.151623,
+                        48.61786
+                  ]
+            },
+            {
+                  "name": "Plage de la Cerisaie",
+                  "text": "Plage de la Cerisaie ist ein Strand in Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.143596,
+                        48.617765
+                  ]
+            },
+            {
+                  "name": "Plage du Corps de Garde",
+                  "text": "Plage du Corps de Garde ist ein Strand in Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.152862,
+                        48.615104
+                  ]
+            },
+            {
+                  "name": "Plage du Minihic",
+                  "text": "Plage du Minihic ist ein Strand in Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.9888,
+                        48.670555
+                  ]
+            },
+            {
+                  "name": "Plage des Bas-Sablons",
+                  "text": "Plage des Bas-Sablons ist ein Strand in Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.020337,
+                        48.638292
+                  ]
+            },
+            {
+                  "name": "Plage de Rochebonne",
+                  "text": "Plage de Rochebonne ist ein angenehmer Strand in Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.992821,
+                        48.666109
+                  ]
+            },
+            {
+                  "name": "Plage du Pont",
+                  "text": "Plage du Pont ist ein Küstenstrand in der Stadt Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.985065,
+                        48.674715
+                  ]
+            },
+            {
+                  "name": "Plage de la Varde",
+                  "text": "Plage de la Varde ist ein Strand mit Küstenblick in Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.985737,
+                        48.681945
+                  ]
+            },
+            {
+                  "name": "Plage du Béchet",
+                  "text": "Plage du Béchet ist ein lokaler Strandbereich in Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.140614,
+                        48.625219
+                  ]
+            },
+            {
+                  "name": "Plage de la Petite Salinette",
+                  "text": "Plage de la Petite Salinette ist ein charmanter Strand in Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.146384,
+                        48.626609
+                  ]
+            },
+            {
+                  "name": "Plage de Solidor",
+                  "text": "Plage de Solidor ist ein erholsames Strandziel in Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.022829,
+                        48.634004
+                  ]
+            },
+            {
+                  "name": "Plage du Rosais",
+                  "text": "Plage du Rosais ist ein malerischer Strand in der Stadt Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.013476,
+                        48.624386
+                  ]
+            },
+            {
+                  "name": "Plage des Corbières",
+                  "text": "Plage des Corbières ist eine schöne Strandlandschaft in Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.020425,
+                        48.630972
+                  ]
+            },
+            {
+                  "name": "Plage de Saint-Énogat",
+                  "text": "Plage de Saint-Énogat ist ein bekannter Sandstrand in Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.069368,
+                        48.639085
+                  ]
+            },
+            {
+                  "name": "Plage de Port-Riou",
+                  "text": "Plage de Port-Riou ist ein Küstenstrandort in Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.06502,
+                        48.639269
+                  ]
+            },
+            {
+                  "name": "Plage du Tertre Pelé",
+                  "text": "Plage du Tertre Pelé ist ein friedlicher Strand in Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.145186,
+                        48.63188
+                  ]
+            },
+            {
+                  "name": "Plage de la Vicomté",
+                  "text": "Plage de la Vicomté ist ein wunderschöner Strandbereich in Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.036163,
+                        48.625602
+                  ]
+            },
+            {
+                  "name": "Grande Plage",
+                  "text": "Grande Plage ist der große Hauptstrand in der Küstenstadt Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.108911,
+                        48.637851
+                  ]
+            },
+            {
+                  "name": "Plage du Port aux Chevaux",
+                  "text": "Plage du Port aux Chevaux ist ein Strand in der Stadt Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.149899,
+                        48.63177
+                  ]
+            },
+            {
+                  "name": "Plage de la Grande Salinette",
+                  "text": "Plage de la Grande Salinette ist ein lokaler Strand in Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.143774,
+                        48.624641
+                  ]
+            },
+            {
+                  "name": "Plage de la Fosse aux Vaults",
+                  "text": "Plage de la Fosse aux Vaults ist ein Strand an der Küste von Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.09428,
+                        48.633919
+                  ]
+            },
+            {
+                  "name": "Plage de Longchamp",
+                  "text": "Plage de Longchamp ist ein bekannter Sandstrand in Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.122291,
+                        48.636803
+                  ]
+            },
+            {
+                  "name": "Plage de Port Hue",
+                  "text": "Plage de Port Hue ist ein Strandziel in der Stadt Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.14002,
+                        48.632585
+                  ]
+            },
+            {
+                  "name": "Plage de la Fourberie",
+                  "text": "Plage de la Fourberie ist ein Strand in Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.086168,
+                        48.635289
+                  ]
+            },
+            {
+                  "name": "Plage du Perron",
+                  "text": "Plage du Perron ist ein Küstenstrand in der Gegend von Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.15123,
+                        48.629101
+                  ]
+            },
+            {
+                  "name": "Plage du Port-Blanc",
+                  "text": "Plage du Port-Blanc ist ein Strand in der Küstenstadt Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.081909,
+                        48.636492
+                  ]
+            },
+            {
+                  "name": "Plage du Prieuré",
+                  "text": "Plage du Prieuré ist ein Strand in Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.052261,
+                        48.625726
+                  ]
+            },
+            {
+                  "name": "Plage du Rieul",
+                  "text": "Plage du Rieul ist ein lokaler Strand in der Stadt Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.142039,
+                        48.613319
+                  ]
+            },
+            {
+                  "name": "Plage de la Garde Guérin",
+                  "text": "Plage de la Garde Guérin ist ein Strand an der Küstenlinie von Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.135985,
+                        48.634682
+                  ]
+            },
+            {
+                  "name": "Plage des Hirondelles",
+                  "text": "Plage des Hirondelles ist ein Strand in Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.116887,
+                        48.640988
+                  ]
+            },
+            {
+                  "name": "Plage de Saint-Sieu",
+                  "text": "Plage de Saint-Sieu ist ein Strandziel in Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.156462,
+                        48.608873
+                  ]
+            },
+            {
+                  "name": "Plage de La Hoguette",
+                  "text": "Plage de La Hoguette ist ein Strandgebiet in Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.000208,
+                        48.661594
+                  ]
+            },
+            {
+                  "name": "Crique du Fort",
+                  "text": "Crique du Fort ist eine Strandbucht in Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.988243,
+                        48.678634
+                  ]
+            },
+            {
+                  "name": "Plage naturiste",
+                  "text": "Plage naturiste ist ein FKK-Strand in Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.089678,
+                        48.634204
+                  ]
             }
       ],
       "hu": [
@@ -21122,6 +22130,366 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -2.054745,
                         48.635472
+                  ]
+            },
+            {
+                  "name": "Plage de Port Salut",
+                  "text": "A Plage de Port Salut egy strand Dinard városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.059417,
+                        48.64003
+                  ]
+            },
+            {
+                  "name": "Plage du Rocher",
+                  "text": "A Plage du Rocher egy strand Dinard városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.145507,
+                        48.619899
+                  ]
+            },
+            {
+                  "name": "Plage des Fours à Chaux",
+                  "text": "A Plage des Fours à Chaux egy strand Dinard városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.013936,
+                        48.627238
+                  ]
+            },
+            {
+                  "name": "Plage du Môle",
+                  "text": "A Plage du Môle egy strand Dinard városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.031398,
+                        48.645096
+                  ]
+            },
+            {
+                  "name": "Plage de Bon Secours",
+                  "text": "A Plage de Bon Secours egy strand Dinard városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.029856,
+                        48.648713
+                  ]
+            },
+            {
+                  "name": "Plage Malo",
+                  "text": "A Plage Malo egy strand Dinard városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.02665,
+                        48.652861
+                  ]
+            },
+            {
+                  "name": "Plage de l'Islet",
+                  "text": "A Plage de l'Islet egy strand Dinard városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.151623,
+                        48.61786
+                  ]
+            },
+            {
+                  "name": "Plage de la Cerisaie",
+                  "text": "A Plage de la Cerisaie egy strand Dinard városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.143596,
+                        48.617765
+                  ]
+            },
+            {
+                  "name": "Plage du Corps de Garde",
+                  "text": "A Plage du Corps de Garde egy strand Dinard városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.152862,
+                        48.615104
+                  ]
+            },
+            {
+                  "name": "Plage du Minihic",
+                  "text": "A Plage du Minihic egy strand Dinard városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.9888,
+                        48.670555
+                  ]
+            },
+            {
+                  "name": "Plage des Bas-Sablons",
+                  "text": "A Plage des Bas-Sablons egy strand Dinard városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.020337,
+                        48.638292
+                  ]
+            },
+            {
+                  "name": "Plage de Rochebonne",
+                  "text": "A Plage de Rochebonne egy kellemes strand Dinard városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.992821,
+                        48.666109
+                  ]
+            },
+            {
+                  "name": "Plage du Pont",
+                  "text": "A Plage du Pont egy tengerparti strand Dinard városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.985065,
+                        48.674715
+                  ]
+            },
+            {
+                  "name": "Plage de la Varde",
+                  "text": "A Plage de la Varde egy tengerparti kilátást nyújtó strand Dinardban.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.985737,
+                        48.681945
+                  ]
+            },
+            {
+                  "name": "Plage du Béchet",
+                  "text": "A Plage du Béchet egy helyi strandszakasz Dinard területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.140614,
+                        48.625219
+                  ]
+            },
+            {
+                  "name": "Plage de la Petite Salinette",
+                  "text": "A Plage de la Petite Salinette egy hangulatos strand Dinardban.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.146384,
+                        48.626609
+                  ]
+            },
+            {
+                  "name": "Plage de Solidor",
+                  "text": "A Plage de Solidor egy pihentető tengerparti úti cél Dinardban.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.022829,
+                        48.634004
+                  ]
+            },
+            {
+                  "name": "Plage du Rosais",
+                  "text": "A Plage du Rosais egy festői strand Dinard városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.013476,
+                        48.624386
+                  ]
+            },
+            {
+                  "name": "Plage des Corbières",
+                  "text": "A Plage des Corbières egy gyönyörű strand Dinardban.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.020425,
+                        48.630972
+                  ]
+            },
+            {
+                  "name": "Plage de Saint-Énogat",
+                  "text": "A Plage de Saint-Énogat egy jól ismert homokos strand Dinardban.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.069368,
+                        48.639085
+                  ]
+            },
+            {
+                  "name": "Plage de Port-Riou",
+                  "text": "A Plage de Port-Riou egy tengerparti helyszín Dinardban.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.06502,
+                        48.639269
+                  ]
+            },
+            {
+                  "name": "Plage du Tertre Pelé",
+                  "text": "A Plage du Tertre Pelé egy békés strand Dinardban.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.145186,
+                        48.63188
+                  ]
+            },
+            {
+                  "name": "Plage de la Vicomté",
+                  "text": "A Plage de la Vicomté egy szép strandszakasz Dinardban.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.036163,
+                        48.625602
+                  ]
+            },
+            {
+                  "name": "Grande Plage",
+                  "text": "A Grande Plage egy nagy fő strand Dinard tengerparti városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.108911,
+                        48.637851
+                  ]
+            },
+            {
+                  "name": "Plage du Port aux Chevaux",
+                  "text": "A Plage du Port aux Chevaux egy strand Dinard városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.149899,
+                        48.63177
+                  ]
+            },
+            {
+                  "name": "Plage de la Grande Salinette",
+                  "text": "A Plage de la Grande Salinette egy helyi strand Dinard-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.143774,
+                        48.624641
+                  ]
+            },
+            {
+                  "name": "Plage de la Fosse aux Vaults",
+                  "text": "A Plage de la Fosse aux Vaults egy strand Dinard partjainál.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.09428,
+                        48.633919
+                  ]
+            },
+            {
+                  "name": "Plage de Longchamp",
+                  "text": "A Plage de Longchamp egy homokos strand Dinard-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.122291,
+                        48.636803
+                  ]
+            },
+            {
+                  "name": "Plage de Port Hue",
+                  "text": "A Plage de Port Hue egy strand Dinard városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.14002,
+                        48.632585
+                  ]
+            },
+            {
+                  "name": "Plage de la Fourberie",
+                  "text": "A Plage de la Fourberie egy strand Dinard-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.086168,
+                        48.635289
+                  ]
+            },
+            {
+                  "name": "Plage du Perron",
+                  "text": "A Plage du Perron egy tengerparti strand Dinard környékén.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.15123,
+                        48.629101
+                  ]
+            },
+            {
+                  "name": "Plage du Port-Blanc",
+                  "text": "A Plage du Port-Blanc egy strand Dinard tengerparti városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.081909,
+                        48.636492
+                  ]
+            },
+            {
+                  "name": "Plage du Prieuré",
+                  "text": "A Plage du Prieuré egy strand Dinard-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.052261,
+                        48.625726
+                  ]
+            },
+            {
+                  "name": "Plage du Rieul",
+                  "text": "A Plage du Rieul egy helyi strand Dinard városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.142039,
+                        48.613319
+                  ]
+            },
+            {
+                  "name": "Plage de la Garde Guérin",
+                  "text": "A Plage de la Garde Guérin egy strand Dinard partvonalán.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.135985,
+                        48.634682
+                  ]
+            },
+            {
+                  "name": "Plage des Hirondelles",
+                  "text": "A Plage des Hirondelles egy strand Dinard városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.116887,
+                        48.640988
+                  ]
+            },
+            {
+                  "name": "Plage de Saint-Sieu",
+                  "text": "A Plage de Saint-Sieu egy strand Dinardban.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.156462,
+                        48.608873
+                  ]
+            },
+            {
+                  "name": "Plage de La Hoguette",
+                  "text": "A Plage de La Hoguette egy partszakasz Dinardban.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.000208,
+                        48.661594
+                  ]
+            },
+            {
+                  "name": "Crique du Fort",
+                  "text": "A Crique du Fort egy tengerparti öböl Dinardban.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.988243,
+                        48.678634
+                  ]
+            },
+            {
+                  "name": "Plage naturiste",
+                  "text": "A Plage naturiste egy naturista strand Dinardban.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.089678,
+                        48.634204
                   ]
             }
       ],
@@ -21185,6 +22553,366 @@ const citySeeds: CitySeed[] = [
                         -2.054745,
                         48.635472
                   ]
+            },
+            {
+                  "name": "Plage de Port Salut",
+                  "text": "Plage de Port Salut este o plajă din Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.059417,
+                        48.64003
+                  ]
+            },
+            {
+                  "name": "Plage du Rocher",
+                  "text": "Plage du Rocher este o plajă din Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.145507,
+                        48.619899
+                  ]
+            },
+            {
+                  "name": "Plage des Fours à Chaux",
+                  "text": "Plage des Fours à Chaux este o plajă din Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.013936,
+                        48.627238
+                  ]
+            },
+            {
+                  "name": "Plage du Môle",
+                  "text": "Plage du Môle este o plajă din Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.031398,
+                        48.645096
+                  ]
+            },
+            {
+                  "name": "Plage de Bon Secours",
+                  "text": "Plage de Bon Secours este o plajă din Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.029856,
+                        48.648713
+                  ]
+            },
+            {
+                  "name": "Plage Malo",
+                  "text": "Plage Malo este o plajă din Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.02665,
+                        48.652861
+                  ]
+            },
+            {
+                  "name": "Plage de l'Islet",
+                  "text": "Plage de l'Islet este o plajă din Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.151623,
+                        48.61786
+                  ]
+            },
+            {
+                  "name": "Plage de la Cerisaie",
+                  "text": "Plage de la Cerisaie este o plajă din Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.143596,
+                        48.617765
+                  ]
+            },
+            {
+                  "name": "Plage du Corps de Garde",
+                  "text": "Plage du Corps de Garde este o plajă din Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.152862,
+                        48.615104
+                  ]
+            },
+            {
+                  "name": "Plage du Minihic",
+                  "text": "Plage du Minihic este o plajă din Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.9888,
+                        48.670555
+                  ]
+            },
+            {
+                  "name": "Plage des Bas-Sablons",
+                  "text": "Plage des Bas-Sablons este o plajă din Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.020337,
+                        48.638292
+                  ]
+            },
+            {
+                  "name": "Plage de Rochebonne",
+                  "text": "Plage de Rochebonne este o plajă plăcută situată în Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.992821,
+                        48.666109
+                  ]
+            },
+            {
+                  "name": "Plage du Pont",
+                  "text": "Plage du Pont este o plajă de coastă situată în orașul Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.985065,
+                        48.674715
+                  ]
+            },
+            {
+                  "name": "Plage de la Varde",
+                  "text": "Plage de la Varde este o plajă care oferă vedere la coastă în Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.985737,
+                        48.681945
+                  ]
+            },
+            {
+                  "name": "Plage du Béchet",
+                  "text": "Plage du Béchet este o zonă de plajă locală situată în Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.140614,
+                        48.625219
+                  ]
+            },
+            {
+                  "name": "Plage de la Petite Salinette",
+                  "text": "Plage de la Petite Salinette este o plajă fermecătoare aflată în Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.146384,
+                        48.626609
+                  ]
+            },
+            {
+                  "name": "Plage de Solidor",
+                  "text": "Plage de Solidor este o destinație de plajă relaxantă situată în Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.022829,
+                        48.634004
+                  ]
+            },
+            {
+                  "name": "Plage du Rosais",
+                  "text": "Plage du Rosais este o plajă pitorească situată în orașul Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.013476,
+                        48.624386
+                  ]
+            },
+            {
+                  "name": "Plage des Corbières",
+                  "text": "Plage des Corbières este un cadru frumos de plajă în Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.020425,
+                        48.630972
+                  ]
+            },
+            {
+                  "name": "Plage de Saint-Énogat",
+                  "text": "Plage de Saint-Énogat este o plajă de nisip bine cunoscută situată în Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.069368,
+                        48.639085
+                  ]
+            },
+            {
+                  "name": "Plage de Port-Riou",
+                  "text": "Plage de Port-Riou este un loc de plajă pe coastă în Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.06502,
+                        48.639269
+                  ]
+            },
+            {
+                  "name": "Plage du Tertre Pelé",
+                  "text": "Plage du Tertre Pelé este o plajă liniștită situată în Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.145186,
+                        48.63188
+                  ]
+            },
+            {
+                  "name": "Plage de la Vicomté",
+                  "text": "Plage de la Vicomté este o zonă de plajă minunată situată în Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.036163,
+                        48.625602
+                  ]
+            },
+            {
+                  "name": "Grande Plage",
+                  "text": "Grande Plage este o plajă principală situată în orașul de coastă Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.108911,
+                        48.637851
+                  ]
+            },
+            {
+                  "name": "Plage du Port aux Chevaux",
+                  "text": "Plage du Port aux Chevaux este o plajă situată în orașul Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.149899,
+                        48.63177
+                  ]
+            },
+            {
+                  "name": "Plage de la Grande Salinette",
+                  "text": "Plage de la Grande Salinette este o plajă locală situată în Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.143774,
+                        48.624641
+                  ]
+            },
+            {
+                  "name": "Plage de la Fosse aux Vaults",
+                  "text": "Plage de la Fosse aux Vaults este o plajă situată pe coasta din Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.09428,
+                        48.633919
+                  ]
+            },
+            {
+                  "name": "Plage de Longchamp",
+                  "text": "Plage de Longchamp este o plajă de nisip situată în Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.122291,
+                        48.636803
+                  ]
+            },
+            {
+                  "name": "Plage de Port Hue",
+                  "text": "Plage de Port Hue este o destinație de plajă aflată în orașul Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.14002,
+                        48.632585
+                  ]
+            },
+            {
+                  "name": "Plage de la Fourberie",
+                  "text": "Plage de la Fourberie este o plajă situată în Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.086168,
+                        48.635289
+                  ]
+            },
+            {
+                  "name": "Plage du Perron",
+                  "text": "Plage du Perron este o plajă de coastă situată în zona Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.15123,
+                        48.629101
+                  ]
+            },
+            {
+                  "name": "Plage du Port-Blanc",
+                  "text": "Plage du Port-Blanc este o plajă situată în orașul de coastă Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.081909,
+                        48.636492
+                  ]
+            },
+            {
+                  "name": "Plage du Prieuré",
+                  "text": "Plage du Prieuré este o plajă situată în Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.052261,
+                        48.625726
+                  ]
+            },
+            {
+                  "name": "Plage du Rieul",
+                  "text": "Plage du Rieul este o plajă locală situată în orașul Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.142039,
+                        48.613319
+                  ]
+            },
+            {
+                  "name": "Plage de la Garde Guérin",
+                  "text": "Plage de la Garde Guérin este o plajă situată pe țărmul din Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.135985,
+                        48.634682
+                  ]
+            },
+            {
+                  "name": "Plage des Hirondelles",
+                  "text": "Plage des Hirondelles este o plajă în Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.116887,
+                        48.640988
+                  ]
+            },
+            {
+                  "name": "Plage de Saint-Sieu",
+                  "text": "Plage de Saint-Sieu este o destinație de plajă în Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.156462,
+                        48.608873
+                  ]
+            },
+            {
+                  "name": "Plage de La Hoguette",
+                  "text": "Plage de La Hoguette este o zonă de plajă situată în Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.000208,
+                        48.661594
+                  ]
+            },
+            {
+                  "name": "Crique du Fort",
+                  "text": "Crique du Fort este un golfuleț cu plajă din Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.988243,
+                        48.678634
+                  ]
+            },
+            {
+                  "name": "Plage naturiste",
+                  "text": "Plage naturiste este o plajă pentru nudiști în Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.089678,
+                        48.634204
+                  ]
             }
       ],
       "en": [
@@ -21246,6 +22974,366 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -2.054745,
                         48.635472
+                  ]
+            },
+            {
+                  "name": "Plage de Port Salut",
+                  "text": "Plage de Port Salut is a beach located in Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.059417,
+                        48.64003
+                  ]
+            },
+            {
+                  "name": "Plage du Rocher",
+                  "text": "Plage du Rocher is a beach located in Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.145507,
+                        48.619899
+                  ]
+            },
+            {
+                  "name": "Plage des Fours à Chaux",
+                  "text": "Plage des Fours à Chaux is a beach located in Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.013936,
+                        48.627238
+                  ]
+            },
+            {
+                  "name": "Plage du Môle",
+                  "text": "Plage du Môle is a beach located in Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.031398,
+                        48.645096
+                  ]
+            },
+            {
+                  "name": "Plage de Bon Secours",
+                  "text": "Plage de Bon Secours is a beach located in Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.029856,
+                        48.648713
+                  ]
+            },
+            {
+                  "name": "Plage Malo",
+                  "text": "Plage Malo is a beach located in Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.02665,
+                        48.652861
+                  ]
+            },
+            {
+                  "name": "Plage de l'Islet",
+                  "text": "Plage de l'Islet is a beach located in Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.151623,
+                        48.61786
+                  ]
+            },
+            {
+                  "name": "Plage de la Cerisaie",
+                  "text": "Plage de la Cerisaie is a beach located in Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.143596,
+                        48.617765
+                  ]
+            },
+            {
+                  "name": "Plage du Corps de Garde",
+                  "text": "Plage du Corps de Garde is a beach located in Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.152862,
+                        48.615104
+                  ]
+            },
+            {
+                  "name": "Plage du Minihic",
+                  "text": "Plage du Minihic is a beach located in Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.9888,
+                        48.670555
+                  ]
+            },
+            {
+                  "name": "Plage des Bas-Sablons",
+                  "text": "Plage des Bas-Sablons is a beach located in Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.020337,
+                        48.638292
+                  ]
+            },
+            {
+                  "name": "Plage de Rochebonne",
+                  "text": "Plage de Rochebonne is a pleasant beach located in Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.992821,
+                        48.666109
+                  ]
+            },
+            {
+                  "name": "Plage du Pont",
+                  "text": "Plage du Pont is a coastal beach situated in the city of Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.985065,
+                        48.674715
+                  ]
+            },
+            {
+                  "name": "Plage de la Varde",
+                  "text": "Plage de la Varde is a beach offering coastal views in Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.985737,
+                        48.681945
+                  ]
+            },
+            {
+                  "name": "Plage du Béchet",
+                  "text": "Plage du Béchet is a local beach area located in Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.140614,
+                        48.625219
+                  ]
+            },
+            {
+                  "name": "Plage de la Petite Salinette",
+                  "text": "Plage de la Petite Salinette is a charming beach found in Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.146384,
+                        48.626609
+                  ]
+            },
+            {
+                  "name": "Plage de Solidor",
+                  "text": "Plage de Solidor is a relaxing beach destination situated in Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.022829,
+                        48.634004
+                  ]
+            },
+            {
+                  "name": "Plage du Rosais",
+                  "text": "Plage du Rosais is a scenic beach located in the city of Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.013476,
+                        48.624386
+                  ]
+            },
+            {
+                  "name": "Plage des Corbières",
+                  "text": "Plage des Corbières is a beautiful beach setting in Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.020425,
+                        48.630972
+                  ]
+            },
+            {
+                  "name": "Plage de Saint-Énogat",
+                  "text": "Plage de Saint-Énogat is a well-known sandy beach located in Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.069368,
+                        48.639085
+                  ]
+            },
+            {
+                  "name": "Plage de Port-Riou",
+                  "text": "Plage de Port-Riou is a coastal beach spot in Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.06502,
+                        48.639269
+                  ]
+            },
+            {
+                  "name": "Plage du Tertre Pelé",
+                  "text": "Plage du Tertre Pelé is a peaceful beach situated in Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.145186,
+                        48.63188
+                  ]
+            },
+            {
+                  "name": "Plage de la Vicomté",
+                  "text": "Plage de la Vicomté is a lovely beach area located in Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.036163,
+                        48.625602
+                  ]
+            },
+            {
+                  "name": "Grande Plage",
+                  "text": "Grande Plage is a large main beach located in the coastal city of Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.108911,
+                        48.637851
+                  ]
+            },
+            {
+                  "name": "Plage du Port aux Chevaux",
+                  "text": "Plage du Port aux Chevaux is a beach located in the city of Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.149899,
+                        48.63177
+                  ]
+            },
+            {
+                  "name": "Plage de la Grande Salinette",
+                  "text": "Plage de la Grande Salinette is a local beach situated in Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.143774,
+                        48.624641
+                  ]
+            },
+            {
+                  "name": "Plage de la Fosse aux Vaults",
+                  "text": "Plage de la Fosse aux Vaults is a beach located on the coast of Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.09428,
+                        48.633919
+                  ]
+            },
+            {
+                  "name": "Plage de Longchamp",
+                  "text": "Plage de Longchamp is a sandy beach situated in Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.122291,
+                        48.636803
+                  ]
+            },
+            {
+                  "name": "Plage de Port Hue",
+                  "text": "Plage de Port Hue is a beach destination found in the city of Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.14002,
+                        48.632585
+                  ]
+            },
+            {
+                  "name": "Plage de la Fourberie",
+                  "text": "Plage de la Fourberie is a beach located in Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.086168,
+                        48.635289
+                  ]
+            },
+            {
+                  "name": "Plage du Perron",
+                  "text": "Plage du Perron is a coastal beach located in the area of Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.15123,
+                        48.629101
+                  ]
+            },
+            {
+                  "name": "Plage du Port-Blanc",
+                  "text": "Plage du Port-Blanc is a beach located in the coastal city of Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.081909,
+                        48.636492
+                  ]
+            },
+            {
+                  "name": "Plage du Prieuré",
+                  "text": "Plage du Prieuré is a beach situated in Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.052261,
+                        48.625726
+                  ]
+            },
+            {
+                  "name": "Plage du Rieul",
+                  "text": "Plage du Rieul is a local beach situated in the city of Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.142039,
+                        48.613319
+                  ]
+            },
+            {
+                  "name": "Plage de la Garde Guérin",
+                  "text": "Plage de la Garde Guérin is a beach located on the shoreline of Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.135985,
+                        48.634682
+                  ]
+            },
+            {
+                  "name": "Plage des Hirondelles",
+                  "text": "Plage des Hirondelles is a beach located in Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.116887,
+                        48.640988
+                  ]
+            },
+            {
+                  "name": "Plage de Saint-Sieu",
+                  "text": "Plage de Saint-Sieu is a beach destination in Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.156462,
+                        48.608873
+                  ]
+            },
+            {
+                  "name": "Plage de La Hoguette",
+                  "text": "Plage de La Hoguette is a beach area situated in Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.000208,
+                        48.661594
+                  ]
+            },
+            {
+                  "name": "Crique du Fort",
+                  "text": "Crique du Fort is a beach cove located in Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.988243,
+                        48.678634
+                  ]
+            },
+            {
+                  "name": "Plage naturiste",
+                  "text": "Plage naturiste is a designated naturist beach in Dinard.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.089678,
+                        48.634204
                   ]
             }
       ],
@@ -28415,6 +30503,78 @@ const citySeeds: CitySeed[] = [
                         3.701722,
                         43.396889
                   ]
+            },
+            {
+                  "name": "Plage de la Fontaine",
+                  "text": "Plage de la Fontaine ist ein Strand in der Ortschaft Loupian.",
+                  "category": "recreational",
+                  "coords": [
+                        3.661041,
+                        43.392322
+                  ]
+            },
+            {
+                  "name": "Plage du Tambourin",
+                  "text": "Plage du Tambourin ist ein Strand in Loupian.",
+                  "category": "recreational",
+                  "coords": [
+                        3.608089,
+                        43.42257
+                  ]
+            },
+            {
+                  "name": "Plage du Thalassa",
+                  "text": "Plage du Thalassa ist ein Strandgebiet in Loupian.",
+                  "category": "recreational",
+                  "coords": [
+                        3.602916,
+                        43.420659
+                  ]
+            },
+            {
+                  "name": "Plage du Lido",
+                  "text": "Plage du Lido ist ein Strand in Loupian.",
+                  "category": "recreational",
+                  "coords": [
+                        3.655862,
+                        43.390744
+                  ]
+            },
+            {
+                  "name": "Plage du Lazaret",
+                  "text": "Plage du Lazaret ist ein ruhiger Strandbereich in Loupian.",
+                  "category": "recreational",
+                  "coords": [
+                        3.673079,
+                        43.392027
+                  ]
+            },
+            {
+                  "name": "Plage de la Corniche",
+                  "text": "Plage de la Corniche ist ein malerischer Strand in Loupian.",
+                  "category": "recreational",
+                  "coords": [
+                        3.667039,
+                        43.393465
+                  ]
+            },
+            {
+                  "name": "Plage de la Trémie",
+                  "text": "Plage de la Trémie ist ein angenehmer Strand in der Küstengegend von Loupian.",
+                  "category": "recreational",
+                  "coords": [
+                        3.651734,
+                        43.448234
+                  ]
+            },
+            {
+                  "name": "Plage de la Pyramide",
+                  "text": "Plage de la Pyramide ist ein sandiger Küstenabschnitt in Loupian.",
+                  "category": "recreational",
+                  "coords": [
+                        3.663155,
+                        43.446962
+                  ]
             }
       ],
       "hu": [
@@ -28486,6 +30646,78 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         3.701722,
                         43.396889
+                  ]
+            },
+            {
+                  "name": "Plage de la Fontaine",
+                  "text": "A Plage de la Fontaine egy strand Loupian településen.",
+                  "category": "recreational",
+                  "coords": [
+                        3.661041,
+                        43.392322
+                  ]
+            },
+            {
+                  "name": "Plage du Tambourin",
+                  "text": "A Plage du Tambourin egy strand Loupian közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        3.608089,
+                        43.42257
+                  ]
+            },
+            {
+                  "name": "Plage du Thalassa",
+                  "text": "A Plage du Thalassa egy strand Loupian-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        3.602916,
+                        43.420659
+                  ]
+            },
+            {
+                  "name": "Plage du Lido",
+                  "text": "A Plage du Lido egy strand Loupian területén.",
+                  "category": "recreational",
+                  "coords": [
+                        3.655862,
+                        43.390744
+                  ]
+            },
+            {
+                  "name": "Plage du Lazaret",
+                  "text": "A Plage du Lazaret egy nyugodt strand Loupianban.",
+                  "category": "recreational",
+                  "coords": [
+                        3.673079,
+                        43.392027
+                  ]
+            },
+            {
+                  "name": "Plage de la Corniche",
+                  "text": "A Plage de la Corniche egy festői strand Loupianban.",
+                  "category": "recreational",
+                  "coords": [
+                        3.667039,
+                        43.393465
+                  ]
+            },
+            {
+                  "name": "Plage de la Trémie",
+                  "text": "A Plage de la Trémie egy kellemes strand Loupian partvidékén.",
+                  "category": "recreational",
+                  "coords": [
+                        3.651734,
+                        43.448234
+                  ]
+            },
+            {
+                  "name": "Plage de la Pyramide",
+                  "text": "A Plage de la Pyramide egy homokos partszakasz Loupianban.",
+                  "category": "recreational",
+                  "coords": [
+                        3.663155,
+                        43.446962
                   ]
             }
       ],
@@ -28559,6 +30791,78 @@ const citySeeds: CitySeed[] = [
                         3.701722,
                         43.396889
                   ]
+            },
+            {
+                  "name": "Plage de la Fontaine",
+                  "text": "Plage de la Fontaine este o plajă situată în Loupian.",
+                  "category": "recreational",
+                  "coords": [
+                        3.661041,
+                        43.392322
+                  ]
+            },
+            {
+                  "name": "Plage du Tambourin",
+                  "text": "Plage du Tambourin este o plajă din Loupian.",
+                  "category": "recreational",
+                  "coords": [
+                        3.608089,
+                        43.42257
+                  ]
+            },
+            {
+                  "name": "Plage du Thalassa",
+                  "text": "Plage du Thalassa este o zonă de plajă din Loupian.",
+                  "category": "recreational",
+                  "coords": [
+                        3.602916,
+                        43.420659
+                  ]
+            },
+            {
+                  "name": "Plage du Lido",
+                  "text": "Plage du Lido este o plajă din Loupian.",
+                  "category": "recreational",
+                  "coords": [
+                        3.655862,
+                        43.390744
+                  ]
+            },
+            {
+                  "name": "Plage du Lazaret",
+                  "text": "Plage du Lazaret este o plajă liniștită situată în Loupian.",
+                  "category": "recreational",
+                  "coords": [
+                        3.673079,
+                        43.392027
+                  ]
+            },
+            {
+                  "name": "Plage de la Corniche",
+                  "text": "Plage de la Corniche este o plajă pitorească situată în Loupian.",
+                  "category": "recreational",
+                  "coords": [
+                        3.667039,
+                        43.393465
+                  ]
+            },
+            {
+                  "name": "Plage de la Trémie",
+                  "text": "Plage de la Trémie este o plajă plăcută situată pe coasta din Loupian.",
+                  "category": "recreational",
+                  "coords": [
+                        3.651734,
+                        43.448234
+                  ]
+            },
+            {
+                  "name": "Plage de la Pyramide",
+                  "text": "Plage de la Pyramide este o porțiune de coastă cu nisip din Loupian.",
+                  "category": "recreational",
+                  "coords": [
+                        3.663155,
+                        43.446962
+                  ]
             }
       ],
       "en": [
@@ -28630,6 +30934,78 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         3.701722,
                         43.396889
+                  ]
+            },
+            {
+                  "name": "Plage de la Fontaine",
+                  "text": "Plage de la Fontaine is a beach located in Loupian.",
+                  "category": "recreational",
+                  "coords": [
+                        3.661041,
+                        43.392322
+                  ]
+            },
+            {
+                  "name": "Plage du Tambourin",
+                  "text": "Plage du Tambourin is a local beach in Loupian.",
+                  "category": "recreational",
+                  "coords": [
+                        3.608089,
+                        43.42257
+                  ]
+            },
+            {
+                  "name": "Plage du Thalassa",
+                  "text": "Plage du Thalassa is a beach area located in Loupian.",
+                  "category": "recreational",
+                  "coords": [
+                        3.602916,
+                        43.420659
+                  ]
+            },
+            {
+                  "name": "Plage du Lido",
+                  "text": "Plage du Lido is a beach located in Loupian.",
+                  "category": "recreational",
+                  "coords": [
+                        3.655862,
+                        43.390744
+                  ]
+            },
+            {
+                  "name": "Plage du Lazaret",
+                  "text": "Plage du Lazaret is a tranquil beach area located in Loupian.",
+                  "category": "recreational",
+                  "coords": [
+                        3.673079,
+                        43.392027
+                  ]
+            },
+            {
+                  "name": "Plage de la Corniche",
+                  "text": "Plage de la Corniche is a scenic beach situated in Loupian.",
+                  "category": "recreational",
+                  "coords": [
+                        3.667039,
+                        43.393465
+                  ]
+            },
+            {
+                  "name": "Plage de la Trémie",
+                  "text": "Plage de la Trémie is a pleasant beach located in the coastal area of Loupian.",
+                  "category": "recreational",
+                  "coords": [
+                        3.651734,
+                        43.448234
+                  ]
+            },
+            {
+                  "name": "Plage de la Pyramide",
+                  "text": "Plage de la Pyramide is a sandy coastal stretch found in Loupian.",
+                  "category": "recreational",
+                  "coords": [
+                        3.663155,
+                        43.446962
                   ]
             }
       ],
@@ -31354,6 +33730,51 @@ const citySeeds: CitySeed[] = [
                         -1.19909,
                         44.641213
                   ]
+            },
+            {
+                  "name": "Plage Péreire",
+                  "text": "Der Plage Péreire ist ein weitläufiger Strand in La Teste De Buch.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.193691,
+                        44.659218
+                  ]
+            },
+            {
+                  "name": "Plage d'Eyrac",
+                  "text": "Plage d'Eyrac ist ein Sandstrand in der Gemeinde La Teste De Buch.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.15859,
+                        44.662909
+                  ]
+            },
+            {
+                  "name": "Plage Thiers",
+                  "text": "Plage Thiers ist ein bekannter Strand in La Teste De Buch.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.17147,
+                        44.663874
+                  ]
+            },
+            {
+                  "name": "Plage de la Hume",
+                  "text": "Plage de la Hume ist ein familienfreundlicher Strand in La Teste De Buch.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.114292,
+                        44.645409
+                  ]
+            },
+            {
+                  "name": "Plage de Larros",
+                  "text": "Plage de Larros bietet eine Strandlandschaft in La Teste De Buch.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.074466,
+                        44.64526
+                  ]
             }
       ],
       "hu": [
@@ -31405,6 +33826,51 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -1.19909,
                         44.641213
+                  ]
+            },
+            {
+                  "name": "Plage Péreire",
+                  "text": "A Plage Péreire egy kiterjedt strand La Teste De Buch városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.193691,
+                        44.659218
+                  ]
+            },
+            {
+                  "name": "Plage d'Eyrac",
+                  "text": "A Plage d'Eyrac egy homokos strand La Teste De Buch területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.15859,
+                        44.662909
+                  ]
+            },
+            {
+                  "name": "Plage Thiers",
+                  "text": "A Plage Thiers egy népszerű strand La Teste De Buch városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.17147,
+                        44.663874
+                  ]
+            },
+            {
+                  "name": "Plage de la Hume",
+                  "text": "A Plage de la Hume egy strand La Teste De Buch part menti területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.114292,
+                        44.645409
+                  ]
+            },
+            {
+                  "name": "Plage de Larros",
+                  "text": "A Plage de Larros egy kellemes homokos partszakasz La Teste De Buch városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.074466,
+                        44.64526
                   ]
             }
       ],
@@ -31458,6 +33924,51 @@ const citySeeds: CitySeed[] = [
                         -1.19909,
                         44.641213
                   ]
+            },
+            {
+                  "name": "Plage Péreire",
+                  "text": "Plage Péreire este o plajă întinsă în La Teste De Buch.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.193691,
+                        44.659218
+                  ]
+            },
+            {
+                  "name": "Plage d'Eyrac",
+                  "text": "Plage d'Eyrac este o plajă de nisip din La Teste De Buch.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.15859,
+                        44.662909
+                  ]
+            },
+            {
+                  "name": "Plage Thiers",
+                  "text": "Plage Thiers este o plajă populară situată în La Teste De Buch.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.17147,
+                        44.663874
+                  ]
+            },
+            {
+                  "name": "Plage de la Hume",
+                  "text": "Plage de la Hume este o plajă situată în zona de coastă a orașului La Teste De Buch.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.114292,
+                        44.645409
+                  ]
+            },
+            {
+                  "name": "Plage de Larros",
+                  "text": "Plage de Larros este o plajă situată în La Teste De Buch.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.074466,
+                        44.64526
+                  ]
             }
       ],
       "en": [
@@ -31509,6 +34020,51 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -1.19909,
                         44.641213
+                  ]
+            },
+            {
+                  "name": "Plage Péreire",
+                  "text": "Plage Péreire is an expansive beach located in La Teste De Buch.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.193691,
+                        44.659218
+                  ]
+            },
+            {
+                  "name": "Plage d'Eyrac",
+                  "text": "Plage d'Eyrac is a sandy beach located in La Teste De Buch.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.15859,
+                        44.662909
+                  ]
+            },
+            {
+                  "name": "Plage Thiers",
+                  "text": "Plage Thiers is a popular beach situated in La Teste De Buch.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.17147,
+                        44.663874
+                  ]
+            },
+            {
+                  "name": "Plage de la Hume",
+                  "text": "Plage de la Hume is a relaxing beach located in the coastal area of La Teste De Buch.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.114292,
+                        44.645409
+                  ]
+            },
+            {
+                  "name": "Plage de Larros",
+                  "text": "Plage de Larros is a local beach environment in La Teste De Buch.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.074466,
+                        44.64526
                   ]
             }
       ],
@@ -31645,6 +34201,123 @@ const citySeeds: CitySeed[] = [
                         -1.0484,
                         45.6267
                   ]
+            },
+            {
+                  "name": "Plage du Pigeonnier",
+                  "text": "Plage du Pigeonnier ist ein reizvoller Sandstrand in der Küstenstadt Royan.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.047013,
+                        45.621673
+                  ]
+            },
+            {
+                  "name": "Plage du Chay",
+                  "text": "Plage du Chay ist ein malerischer Strand in der Küstenstadt Royan.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.043234,
+                        45.619696
+                  ]
+            },
+            {
+                  "name": "Plage du Conseil",
+                  "text": "Plage du Conseil ist ein lokaler Strand, der eine entspannte Atmosphäre in Royan bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.069873,
+                        45.634424
+                  ]
+            },
+            {
+                  "name": "Plage de Saint-Sordelin",
+                  "text": "Plage de Saint-Sordelin ist ein angenehmer Strand in Royan.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.064781,
+                        45.630668
+                  ]
+            },
+            {
+                  "name": "conche de gilet",
+                  "text": "Conche de gilet ist eine kleine Bucht und ein Strandbereich in Royan.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.058722,
+                        45.627183
+                  ]
+            },
+            {
+                  "name": "Plage du Port",
+                  "text": "Plage du Port ist ein Strand in günstiger Lage nahe dem Hafengebiet von Royan.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.005883,
+                        45.599393
+                  ]
+            },
+            {
+                  "name": "Plage de Foncillon",
+                  "text": "Plage de Foncillon ist ein bekannter Sandstrand in der Stadt Royan.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.033617,
+                        45.61909
+                  ]
+            },
+            {
+                  "name": "La Grande Conche",
+                  "text": "La Grande Conche ist der weitläufige Hauptsandstrand in Royan.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.018123,
+                        45.614411
+                  ]
+            },
+            {
+                  "name": "Plage de Saint-Georges de Didonne",
+                  "text": "Plage de Saint-Georges de Didonne ist ein schöner Strandabschnitt in der Nähe von Royan.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.994649,
+                        45.591941
+                  ]
+            },
+            {
+                  "name": "Plage de Pontaillac",
+                  "text": "Plage de Pontaillac ist ein beliebter Stadtstrand in Royan, der für das Surfen bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.053109,
+                        45.625448
+                  ]
+            },
+            {
+                  "name": "Plage du Concié",
+                  "text": "Plage du Concié ist eine ruhige Strandkulisse in der Küstenstadt Royan.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.110236,
+                        45.646851
+                  ]
+            },
+            {
+                  "name": "Plage du Platin",
+                  "text": "Plage du Platin ist ein ruhiger Strand in der Gemeinde Royan.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.099849,
+                        45.642836
+                  ]
+            },
+            {
+                  "name": "Plage Saint-Nicolas",
+                  "text": "Plage Saint-Nicolas ist ein idyllisches Strandziel in Royan.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.076728,
+                        45.569828
+                  ]
             }
       ],
       "hu": [
@@ -31696,6 +34369,123 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -1.0484,
                         45.6267
+                  ]
+            },
+            {
+                  "name": "Plage du Pigeonnier",
+                  "text": "A Plage du Pigeonnier egy bájos homokos strand Royan tengerparti városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.047013,
+                        45.621673
+                  ]
+            },
+            {
+                  "name": "Plage du Chay",
+                  "text": "A Plage du Chay egy festői strand a tengerparti Royan városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.043234,
+                        45.619696
+                  ]
+            },
+            {
+                  "name": "Plage du Conseil",
+                  "text": "A Plage du Conseil egy helyi strand, amely pihentető légkört kínál Royanban.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.069873,
+                        45.634424
+                  ]
+            },
+            {
+                  "name": "Plage de Saint-Sordelin",
+                  "text": "A Plage de Saint-Sordelin egy kellemes strand Royanban.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.064781,
+                        45.630668
+                  ]
+            },
+            {
+                  "name": "conche de gilet",
+                  "text": "A Conche de gilet egy kis öböl és strandterület Royanban.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.058722,
+                        45.627183
+                  ]
+            },
+            {
+                  "name": "Plage du Port",
+                  "text": "A Plage du Port egy strand, amely kényelmes helyen, Royan kikötőjének közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.005883,
+                        45.599393
+                  ]
+            },
+            {
+                  "name": "Plage de Foncillon",
+                  "text": "A Plage de Foncillon egy jól ismert homokos strand Royan városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.033617,
+                        45.61909
+                  ]
+            },
+            {
+                  "name": "La Grande Conche",
+                  "text": "A La Grande Conche a fő, tágas homokos strand Royanban.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.018123,
+                        45.614411
+                  ]
+            },
+            {
+                  "name": "Plage de Saint-Georges de Didonne",
+                  "text": "A Plage de Saint-Georges de Didonne egy gyönyörű strandszakasz Royan közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.994649,
+                        45.591941
+                  ]
+            },
+            {
+                  "name": "Plage de Pontaillac",
+                  "text": "A Plage de Pontaillac egy népszerű városi strand, amely szörfözéséről ismert Royanban.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.053109,
+                        45.625448
+                  ]
+            },
+            {
+                  "name": "Plage du Concié",
+                  "text": "A Plage du Concié egy csendes strand a tengerparti Royan városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.110236,
+                        45.646851
+                  ]
+            },
+            {
+                  "name": "Plage du Platin",
+                  "text": "A Plage du Platin egy nyugodt strand Royan településen.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.099849,
+                        45.642836
+                  ]
+            },
+            {
+                  "name": "Plage Saint-Nicolas",
+                  "text": "A Plage Saint-Nicolas egy békés strand Royanban.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.076728,
+                        45.569828
                   ]
             }
       ],
@@ -31749,6 +34539,123 @@ const citySeeds: CitySeed[] = [
                         -1.0484,
                         45.6267
                   ]
+            },
+            {
+                  "name": "Plage du Pigeonnier",
+                  "text": "Plage du Pigeonnier este o plajă de nisip situată în orașul de coastă Royan.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.047013,
+                        45.621673
+                  ]
+            },
+            {
+                  "name": "Plage du Chay",
+                  "text": "Plage du Chay este o plajă pitorească situată în orașul de coastă Royan.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.043234,
+                        45.619696
+                  ]
+            },
+            {
+                  "name": "Plage du Conseil",
+                  "text": "Plage du Conseil este o plajă locală care oferă o atmosferă relaxantă în Royan.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.069873,
+                        45.634424
+                  ]
+            },
+            {
+                  "name": "Plage de Saint-Sordelin",
+                  "text": "Plage de Saint-Sordelin este o plajă plăcută situată în Royan.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.064781,
+                        45.630668
+                  ]
+            },
+            {
+                  "name": "conche de gilet",
+                  "text": "Conche de gilet este un mic golf și o zonă de plajă situată în Royan.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.058722,
+                        45.627183
+                  ]
+            },
+            {
+                  "name": "Plage du Port",
+                  "text": "Plage du Port este o plajă situată convenabil în apropierea zonei portului din Royan.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.005883,
+                        45.599393
+                  ]
+            },
+            {
+                  "name": "Plage de Foncillon",
+                  "text": "Plage de Foncillon este o plajă de nisip bine-cunoscută situată în orașul Royan.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.033617,
+                        45.61909
+                  ]
+            },
+            {
+                  "name": "La Grande Conche",
+                  "text": "La Grande Conche este principala plajă vastă de nisip din Royan.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.018123,
+                        45.614411
+                  ]
+            },
+            {
+                  "name": "Plage de Saint-Georges de Didonne",
+                  "text": "Plage de Saint-Georges de Didonne este o frumoasă porțiune de plajă care se întinde lângă Royan.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.994649,
+                        45.591941
+                  ]
+            },
+            {
+                  "name": "Plage de Pontaillac",
+                  "text": "Plage de Pontaillac este o plajă urbană populară, cunoscută pentru surfing în Royan.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.053109,
+                        45.625448
+                  ]
+            },
+            {
+                  "name": "Plage du Concié",
+                  "text": "Plage du Concié este un cadru de plajă liniștit în orașul de coastă Royan.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.110236,
+                        45.646851
+                  ]
+            },
+            {
+                  "name": "Plage du Platin",
+                  "text": "Plage du Platin este o plajă liniștită situată în municipalitatea Royan.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.099849,
+                        45.642836
+                  ]
+            },
+            {
+                  "name": "Plage Saint-Nicolas",
+                  "text": "Plage Saint-Nicolas este o destinație de plajă senină aflată în Royan.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.076728,
+                        45.569828
+                  ]
             }
       ],
       "en": [
@@ -31800,6 +34707,123 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -1.0484,
                         45.6267
+                  ]
+            },
+            {
+                  "name": "Plage du Pigeonnier",
+                  "text": "Plage du Pigeonnier is a charming sandy beach located in the coastal city of Royan.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.047013,
+                        45.621673
+                  ]
+            },
+            {
+                  "name": "Plage du Chay",
+                  "text": "Plage du Chay is a scenic beach located in the coastal city of Royan.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.043234,
+                        45.619696
+                  ]
+            },
+            {
+                  "name": "Plage du Conseil",
+                  "text": "Plage du Conseil is a local beach offering a relaxing atmosphere in Royan.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.069873,
+                        45.634424
+                  ]
+            },
+            {
+                  "name": "Plage de Saint-Sordelin",
+                  "text": "Plage de Saint-Sordelin is a pleasant beach situated in Royan.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.064781,
+                        45.630668
+                  ]
+            },
+            {
+                  "name": "conche de gilet",
+                  "text": "Conche de gilet is a small cove and beach area located in Royan.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.058722,
+                        45.627183
+                  ]
+            },
+            {
+                  "name": "Plage du Port",
+                  "text": "Plage du Port is a beach conveniently located near the harbor area in Royan.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.005883,
+                        45.599393
+                  ]
+            },
+            {
+                  "name": "Plage de Foncillon",
+                  "text": "Plage de Foncillon is a well-known sandy beach situated in the city of Royan.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.033617,
+                        45.61909
+                  ]
+            },
+            {
+                  "name": "La Grande Conche",
+                  "text": "La Grande Conche is the main expansive sandy beach located in Royan.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.018123,
+                        45.614411
+                  ]
+            },
+            {
+                  "name": "Plage de Saint-Georges de Didonne",
+                  "text": "Plage de Saint-Georges de Didonne is a beautiful stretch of beach extending near Royan.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.994649,
+                        45.591941
+                  ]
+            },
+            {
+                  "name": "Plage de Pontaillac",
+                  "text": "Plage de Pontaillac is a popular urban beach known for surfing in Royan.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.053109,
+                        45.625448
+                  ]
+            },
+            {
+                  "name": "Plage du Concié",
+                  "text": "Plage du Concié is a quiet beach setting in the coastal town of Royan.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.110236,
+                        45.646851
+                  ]
+            },
+            {
+                  "name": "Plage du Platin",
+                  "text": "Plage du Platin is a tranquil beach located in the municipality of Royan.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.099849,
+                        45.642836
+                  ]
+            },
+            {
+                  "name": "Plage Saint-Nicolas",
+                  "text": "Plage Saint-Nicolas is a serene beach destination found in Royan.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.076728,
+                        45.569828
                   ]
             }
       ],

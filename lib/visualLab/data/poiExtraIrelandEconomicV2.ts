@@ -3,7 +3,88 @@ import { POI } from './poi';
 export const irelandEconomicV2: POI[] = [
 
   {
-    id: "ireland-ringaskiddy-port-economic-v2",
+    id: "ireland-ringaskiddy-port-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shell Beach",
+                  "text": "Ein Muschelstrand nahe Ringaskiddy Port.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.300383,
+                        51.825701
+                  ]
+            },
+            {
+                  "name": "Church Bay Beach",
+                  "text": "Strand bei Ringaskiddy Port.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.279452,
+                        51.794849
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shell Beach",
+                  "text": "Kagylós strand Ringaskiddy Port közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.300383,
+                        51.825701
+                  ]
+            },
+            {
+                  "name": "Church Bay Beach",
+                  "text": "Strand Ringaskiddy Port közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.279452,
+                        51.794849
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shell Beach",
+                  "text": "O plajă cu scoici lângă Ringaskiddy Port.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.300383,
+                        51.825701
+                  ]
+            },
+            {
+                  "name": "Church Bay Beach",
+                  "text": "Plajă lângă Ringaskiddy Port.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.279452,
+                        51.794849
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shell Beach",
+                  "text": "A shell beach near Ringaskiddy Port.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.300383,
+                        51.825701
+                  ]
+            },
+            {
+                  "name": "Church Bay Beach",
+                  "text": "Beach near Ringaskiddy Port.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.279452,
+                        51.794849
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "IE",
     name: { de: "Ringaskiddy Hafen", hu: "Ringaskiddy kikötő", ro: "Portul Ringaskiddy", en: "Ringaskiddy Port" },

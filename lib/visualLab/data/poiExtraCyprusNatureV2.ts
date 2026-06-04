@@ -3,7 +3,88 @@ import { POI } from './poi';
 export const cyprusNatureV2: POI[] = [
 
   {
-    id: "cyprus-zygi-coastal-cliff-nature-v2",
+    id: "cyprus-zygi-coastal-cliff-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Μαρινοπαρέα",
+                  "text": "Μαρινοπαρέα-Strand an der Küste von Zygi.",
+                  "category": "recreational",
+                  "coords": [
+                        33.340568,
+                        34.728464
+                  ]
+            },
+            {
+                  "name": "Secret Paradise Beach (Maroni)",
+                  "text": "Secret Paradise-Strand in Maroni, Zygi.",
+                  "category": "recreational",
+                  "coords": [
+                        33.365165,
+                        34.731463
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Μαρινοπαρέα",
+                  "text": "Μαρινοπαρέα-part Zygi partvidékén.",
+                  "category": "recreational",
+                  "coords": [
+                        33.340568,
+                        34.728464
+                  ]
+            },
+            {
+                  "name": "Secret Paradise Beach (Maroni)",
+                  "text": "Secret Paradise-part Maroniban, Zygi közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        33.365165,
+                        34.731463
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Μαρινοπαρέα",
+                  "text": "Plaja Μαρινοπαρέα pe coasta Zygi.",
+                  "category": "recreational",
+                  "coords": [
+                        33.340568,
+                        34.728464
+                  ]
+            },
+            {
+                  "name": "Secret Paradise Beach (Maroni)",
+                  "text": "Plaja Secret Paradise din Maroni, Zygi.",
+                  "category": "recreational",
+                  "coords": [
+                        33.365165,
+                        34.731463
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Μαρινοπαρέα",
+                  "text": "Μαρινοπαρέα beach on the Zygi coast.",
+                  "category": "recreational",
+                  "coords": [
+                        33.340568,
+                        34.728464
+                  ]
+            },
+            {
+                  "name": "Secret Paradise Beach (Maroni)",
+                  "text": "Secret Paradise Beach in Maroni, Zygi.",
+                  "category": "recreational",
+                  "coords": [
+                        33.365165,
+                        34.731463
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CY",
     name: { de: "Zygi Küstenkliff", hu: "Zygi partfal", ro: "Faleza Zygi", en: "Zygi Coastal Cliff" },

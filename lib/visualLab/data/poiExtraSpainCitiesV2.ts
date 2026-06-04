@@ -45625,6 +45625,51 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                         -0.183144,
                         38.969417
                   ]
+            },
+            {
+                  "name": "Platja Nord de Gandia",
+                  "text": "Platja Nord de Gandia ist der ausgedehnte Hauptstrand von Gandia.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.161166,
+                        39.003615
+                  ]
+            },
+            {
+                  "name": "Platja de l'Ahuir",
+                  "text": "Platja de l'Ahuir ist ein bekannter naturbelassener Strand in Gandia.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.180925,
+                        39.030082
+                  ]
+            },
+            {
+                  "name": "Platja de Daimús",
+                  "text": "Platja de Daimús ist ein Strand in der Gegend von Gandia.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.141603,
+                        38.976963
+                  ]
+            },
+            {
+                  "name": "Platja de Miramar",
+                  "text": "Platja de Miramar ist ein lokaler Strand in der Stadt Gandia.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.120882,
+                        38.955383
+                  ]
+            },
+            {
+                  "name": "Platja de Piles",
+                  "text": "Platja de Piles ist ein Strandziel in Gandia.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.1128,
+                        38.947913
+                  ]
             }
       ],
       "hu": [
@@ -45698,6 +45743,51 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                   "coords": [
                         -0.183144,
                         38.969417
+                  ]
+            },
+            {
+                  "name": "Platja Nord de Gandia",
+                  "text": "A Platja Nord de Gandia városának kiterjedt fő strandja.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.161166,
+                        39.003615
+                  ]
+            },
+            {
+                  "name": "Platja de l'Ahuir",
+                  "text": "A Platja de l'Ahuir egy nevezetes természetes strand Gandiában.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.180925,
+                        39.030082
+                  ]
+            },
+            {
+                  "name": "Platja de Daimús",
+                  "text": "A Platja de Daimús egy strand Gandia környékén.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.141603,
+                        38.976963
+                  ]
+            },
+            {
+                  "name": "Platja de Miramar",
+                  "text": "A Platja de Miramar egy helyi strand Gandia városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.120882,
+                        38.955383
+                  ]
+            },
+            {
+                  "name": "Platja de Piles",
+                  "text": "A Platja de Piles egy tengerparti úti cél Gandiában.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.1128,
+                        38.947913
                   ]
             }
       ],
@@ -45773,6 +45863,51 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                         -0.183144,
                         38.969417
                   ]
+            },
+            {
+                  "name": "Platja Nord de Gandia",
+                  "text": "Platja Nord de Gandia este plaja principală extinsă a orașului Gandia.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.161166,
+                        39.003615
+                  ]
+            },
+            {
+                  "name": "Platja de l'Ahuir",
+                  "text": "Platja de l'Ahuir este o plajă naturală notabilă situată în Gandia.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.180925,
+                        39.030082
+                  ]
+            },
+            {
+                  "name": "Platja de Daimús",
+                  "text": "Platja de Daimús este o plajă situată în zona Gandia.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.141603,
+                        38.976963
+                  ]
+            },
+            {
+                  "name": "Platja de Miramar",
+                  "text": "Platja de Miramar este o plajă locală din orașul Gandia.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.120882,
+                        38.955383
+                  ]
+            },
+            {
+                  "name": "Platja de Piles",
+                  "text": "Platja de Piles este o destinație de plajă situată în Gandia.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.1128,
+                        38.947913
+                  ]
             }
       ],
       "en": [
@@ -45846,6 +45981,51 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                   "coords": [
                         -0.183144,
                         38.969417
+                  ]
+            },
+            {
+                  "name": "Platja Nord de Gandia",
+                  "text": "Platja Nord de Gandia is the prominent main beach of Gandia.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.161166,
+                        39.003615
+                  ]
+            },
+            {
+                  "name": "Platja de l'Ahuir",
+                  "text": "Platja de l'Ahuir is a notable natural beach located in Gandia.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.180925,
+                        39.030082
+                  ]
+            },
+            {
+                  "name": "Platja de Daimús",
+                  "text": "Platja de Daimús is a beach located in the Gandia area.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.141603,
+                        38.976963
+                  ]
+            },
+            {
+                  "name": "Platja de Miramar",
+                  "text": "Platja de Miramar is a local beach in the city of Gandia.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.120882,
+                        38.955383
+                  ]
+            },
+            {
+                  "name": "Platja de Piles",
+                  "text": "Platja de Piles is a beach destination situated in Gandia.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.1128,
+                        38.947913
                   ]
             }
       ]

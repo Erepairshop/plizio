@@ -138,7 +138,52 @@ export const estoniaEconomicV2: POI[] = [
     image: "/poi-images/estonia-eesti-energia-data-v2.webp",
   },
   {
-    id: "estonia-maardu-logistics-v2",
+    id: "estonia-maardu-logistics-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maardu järve supelrand",
+                  "text": "Strand am Maardu-See.",
+                  "category": "recreational",
+                  "coords": [
+                        24.994477,
+                        59.450632
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maardu järve supelrand",
+                  "text": "Strand a Maardu-tónál.",
+                  "category": "recreational",
+                  "coords": [
+                        24.994477,
+                        59.450632
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maardu järve supelrand",
+                  "text": "Plajă la lacul Maardu.",
+                  "category": "recreational",
+                  "coords": [
+                        24.994477,
+                        59.450632
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maardu järve supelrand",
+                  "text": "Beach at Lake Maardu.",
+                  "category": "recreational",
+                  "coords": [
+                        24.994477,
+                        59.450632
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "EE",
     name: { de: "Industriegebiet Maardu", hu: "Maardu ipari terület", ro: "Zona industrială Maardu", en: "Maardu Industrial Area" },
@@ -228,7 +273,52 @@ export const estoniaEconomicV2: POI[] = [
     image: "/poi-images/estonia-asker-bo-factory-v2.webp",
   },
   {
-    id: "estonia-voru-furniture-v2",
+    id: "estonia-voru-furniture-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tamula supelrand",
+                  "text": "Tamula-Strand in Võru.",
+                  "category": "recreational",
+                  "coords": [
+                        26.989926,
+                        57.843533
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tamula supelrand",
+                  "text": "Tamula strand Võruban.",
+                  "category": "recreational",
+                  "coords": [
+                        26.989926,
+                        57.843533
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tamula supelrand",
+                  "text": "Plaja Tamula în Võru.",
+                  "category": "recreational",
+                  "coords": [
+                        26.989926,
+                        57.843533
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tamula supelrand",
+                  "text": "Tamula beach in Võru.",
+                  "category": "recreational",
+                  "coords": [
+                        26.989926,
+                        57.843533
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "EE",
     name: { de: "Möbelindustrie Võru", hu: "Võru bútoripar", ro: "Industria mobilei din Võru", en: "Võru Furniture Industry" },
@@ -318,7 +408,52 @@ export const estoniaEconomicV2: POI[] = [
     image: "/poi-images/estonia-tehnopol-science-v2.webp",
   },
   {
-    id: "estonia-kunda-cement-v2",
+    id: "estonia-kunda-cement-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kunda supelrand",
+                  "text": "Strand bei Kunda.",
+                  "category": "recreational",
+                  "coords": [
+                        26.536635,
+                        59.520579
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kunda supelrand",
+                  "text": "Strand Kunda közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        26.536635,
+                        59.520579
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kunda supelrand",
+                  "text": "Plajă lângă Kunda.",
+                  "category": "recreational",
+                  "coords": [
+                        26.536635,
+                        59.520579
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kunda supelrand",
+                  "text": "Beach near Kunda.",
+                  "category": "recreational",
+                  "coords": [
+                        26.536635,
+                        59.520579
+                  ]
+            }
+      ]
+},
     type: "factory",
     parent: "EE",
     name: { de: "Zementwerk Kunda", hu: "Kunda cementgyár", ro: "Fabrica de ciment Kunda", en: "Kunda Cement Plant" },
@@ -363,7 +498,124 @@ export const estoniaEconomicV2: POI[] = [
     image: "/poi-images/estonia-kunda-cement-v2.webp",
   },
   {
-    id: "estonia-parnu-food-v2",
+    id: "estonia-parnu-food-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pärnu Veteranide pargi supelrand",
+                  "text": "Strand im Veteranenpark von Pärnu.",
+                  "category": "recreational",
+                  "coords": [
+                        24.55866,
+                        58.376043
+                  ]
+            },
+            {
+                  "name": "Uuemetsa supelrand",
+                  "text": "Uuemetsa-Badestrand bei Pärnu.",
+                  "category": "recreational",
+                  "coords": [
+                        24.569668,
+                        58.364945
+                  ]
+            },
+            {
+                  "name": "Nurmenuku supelrand",
+                  "text": "Der Nurmenuku-Badestrand befindet sich in Pärnu.",
+                  "category": "recreational",
+                  "coords": [
+                        24.579657,
+                        58.384859
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pärnu Veteranide pargi supelrand",
+                  "text": "Strand a pärnui Veteránok parkjában.",
+                  "category": "recreational",
+                  "coords": [
+                        24.55866,
+                        58.376043
+                  ]
+            },
+            {
+                  "name": "Uuemetsa supelrand",
+                  "text": "Uuemetsa strand Pärnu közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        24.569668,
+                        58.364945
+                  ]
+            },
+            {
+                  "name": "Nurmenuku supelrand",
+                  "text": "A Nurmenuku strand Pärnuban található.",
+                  "category": "recreational",
+                  "coords": [
+                        24.579657,
+                        58.384859
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pärnu Veteranide pargi supelrand",
+                  "text": "Plajă în parcul Veteranilor din Pärnu.",
+                  "category": "recreational",
+                  "coords": [
+                        24.55866,
+                        58.376043
+                  ]
+            },
+            {
+                  "name": "Uuemetsa supelrand",
+                  "text": "Plaja Uuemetsa lângă Pärnu.",
+                  "category": "recreational",
+                  "coords": [
+                        24.569668,
+                        58.364945
+                  ]
+            },
+            {
+                  "name": "Nurmenuku supelrand",
+                  "text": "Plaja Nurmenuku este situată în Pärnu.",
+                  "category": "recreational",
+                  "coords": [
+                        24.579657,
+                        58.384859
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pärnu Veteranide pargi supelrand",
+                  "text": "Beach in the Veterans' park in Pärnu.",
+                  "category": "recreational",
+                  "coords": [
+                        24.55866,
+                        58.376043
+                  ]
+            },
+            {
+                  "name": "Uuemetsa supelrand",
+                  "text": "Uuemetsa beach near Pärnu.",
+                  "category": "recreational",
+                  "coords": [
+                        24.569668,
+                        58.364945
+                  ]
+            },
+            {
+                  "name": "Nurmenuku supelrand",
+                  "text": "Nurmenuku beach is located in Pärnu.",
+                  "category": "recreational",
+                  "coords": [
+                        24.579657,
+                        58.384859
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "EE",
     name: { de: "Lebensmittelindustrie Pärnu", hu: "Pärnui élelmiszeripar", ro: "Industria alimentară din Pärnu", en: "Pärnu Food Industry" },
@@ -813,7 +1065,124 @@ export const estoniaEconomicV2: POI[] = [
     image: "/poi-images/estonia-muuga-terminal-v2.webp",
   },
   {
-    id: "estonia-kardla-port-v2",
+    id: "estonia-kardla-port-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tõrvanina supelrand",
+                  "text": "Strand Tõrvanina bei Kärdla.",
+                  "category": "recreational",
+                  "coords": [
+                        22.692235,
+                        59.035846
+                  ]
+            },
+            {
+                  "name": "Kärdla politseirand",
+                  "text": "Strand in Kärdla.",
+                  "category": "recreational",
+                  "coords": [
+                        22.757682,
+                        59.006046
+                  ]
+            },
+            {
+                  "name": "Kärdla paargu rand",
+                  "text": "Strand bei Kärdla.",
+                  "category": "recreational",
+                  "coords": [
+                        22.744739,
+                        59.007023
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tõrvanina supelrand",
+                  "text": "Tõrvanina strand Kärdla közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        22.692235,
+                        59.035846
+                  ]
+            },
+            {
+                  "name": "Kärdla politseirand",
+                  "text": "Strand Kärdlában.",
+                  "category": "recreational",
+                  "coords": [
+                        22.757682,
+                        59.006046
+                  ]
+            },
+            {
+                  "name": "Kärdla paargu rand",
+                  "text": "Strand Kärdlánál.",
+                  "category": "recreational",
+                  "coords": [
+                        22.744739,
+                        59.007023
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tõrvanina supelrand",
+                  "text": "Plaja Tõrvanina lângă Kärdla.",
+                  "category": "recreational",
+                  "coords": [
+                        22.692235,
+                        59.035846
+                  ]
+            },
+            {
+                  "name": "Kärdla politseirand",
+                  "text": "Plajă în Kärdla.",
+                  "category": "recreational",
+                  "coords": [
+                        22.757682,
+                        59.006046
+                  ]
+            },
+            {
+                  "name": "Kärdla paargu rand",
+                  "text": "Plajă lângă Kärdla.",
+                  "category": "recreational",
+                  "coords": [
+                        22.744739,
+                        59.007023
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tõrvanina supelrand",
+                  "text": "Tõrvanina beach near Kärdla.",
+                  "category": "recreational",
+                  "coords": [
+                        22.692235,
+                        59.035846
+                  ]
+            },
+            {
+                  "name": "Kärdla politseirand",
+                  "text": "Beach in Kärdla.",
+                  "category": "recreational",
+                  "coords": [
+                        22.757682,
+                        59.006046
+                  ]
+            },
+            {
+                  "name": "Kärdla paargu rand",
+                  "text": "Beach near Kärdla.",
+                  "category": "recreational",
+                  "coords": [
+                        22.744739,
+                        59.007023
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "EE",
     name: { de: "Hafen Kärdla", hu: "Kärdla kikötő", ro: "Portul Kärdla", en: "Kärdla Port" },
@@ -903,7 +1272,52 @@ export const estoniaEconomicV2: POI[] = [
     image: "/poi-images/estonia-saue-business-v2.webp",
   },
   {
-    id: "estonia-sindi-industry-v2",
+    id: "estonia-sindi-industry-v2", "sights": {
+      "de": [
+            {
+                  "name": "Saialille supelrand",
+                  "text": "Saialille-Badestrand bei Sindi.",
+                  "category": "recreational",
+                  "coords": [
+                        24.605203,
+                        58.389072
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Saialille supelrand",
+                  "text": "Saialille strand Sindi közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        24.605203,
+                        58.389072
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Saialille supelrand",
+                  "text": "Plaja Saialille lângă Sindi.",
+                  "category": "recreational",
+                  "coords": [
+                        24.605203,
+                        58.389072
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Saialille supelrand",
+                  "text": "Saialille beach near Sindi.",
+                  "category": "recreational",
+                  "coords": [
+                        24.605203,
+                        58.389072
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "EE",
     name: { de: "Industriegebiet Sindi", hu: "Sindi ipari terület", ro: "Zona industrială Sindi", en: "Sindi Industrial Zone" },

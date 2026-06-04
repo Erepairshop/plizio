@@ -147,7 +147,160 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     },
   },
   {
-    id: "gallipoli-history-v2",
+    id: "gallipoli-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Brighton Beach",
+                  "text": "Brighton Beach ist ein Strand in Gallipoli.",
+                  "category": "recreational",
+                  "coords": [
+                        26.27797,
+                        40.221329
+                  ]
+            },
+            {
+                  "name": "B Beach",
+                  "text": "B Beach ist ein Küstenabschnitt in Gallipoli.",
+                  "category": "recreational",
+                  "coords": [
+                        26.251946,
+                        40.277577
+                  ]
+            },
+            {
+                  "name": "C Beach",
+                  "text": "C Beach ist ein Strandbereich in Gallipoli.",
+                  "category": "recreational",
+                  "coords": [
+                        26.244193,
+                        40.282267
+                  ]
+            },
+            {
+                  "name": "Ocean Beach",
+                  "text": "Ocean Beach ist ein Strand an der Küste von Gallipoli.",
+                  "category": "recreational",
+                  "coords": [
+                        26.279553,
+                        40.245865
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Brighton Beach",
+                  "text": "A Brighton Beach egy tengerpart Gallipoli területén.",
+                  "category": "recreational",
+                  "coords": [
+                        26.27797,
+                        40.221329
+                  ]
+            },
+            {
+                  "name": "B Beach",
+                  "text": "A B Beach egy partszakasz Gallipoli területén.",
+                  "category": "recreational",
+                  "coords": [
+                        26.251946,
+                        40.277577
+                  ]
+            },
+            {
+                  "name": "C Beach",
+                  "text": "A C Beach egy tengerparti terület Gallipoli városában.",
+                  "category": "recreational",
+                  "coords": [
+                        26.244193,
+                        40.282267
+                  ]
+            },
+            {
+                  "name": "Ocean Beach",
+                  "text": "Az Ocean Beach egy strand Gallipoli partvidékén.",
+                  "category": "recreational",
+                  "coords": [
+                        26.279553,
+                        40.245865
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Brighton Beach",
+                  "text": "Brighton Beach este o plajă situată în Gallipoli.",
+                  "category": "recreational",
+                  "coords": [
+                        26.27797,
+                        40.221329
+                  ]
+            },
+            {
+                  "name": "B Beach",
+                  "text": "B Beach este o porțiune de coastă situată în Gallipoli.",
+                  "category": "recreational",
+                  "coords": [
+                        26.251946,
+                        40.277577
+                  ]
+            },
+            {
+                  "name": "C Beach",
+                  "text": "C Beach este o zonă de plajă situată în Gallipoli.",
+                  "category": "recreational",
+                  "coords": [
+                        26.244193,
+                        40.282267
+                  ]
+            },
+            {
+                  "name": "Ocean Beach",
+                  "text": "Ocean Beach este o plajă situată pe coasta din Gallipoli.",
+                  "category": "recreational",
+                  "coords": [
+                        26.279553,
+                        40.245865
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Brighton Beach",
+                  "text": "Brighton Beach is a beach destination located in Gallipoli.",
+                  "category": "recreational",
+                  "coords": [
+                        26.27797,
+                        40.221329
+                  ]
+            },
+            {
+                  "name": "B Beach",
+                  "text": "B Beach is a coastal stretch found in Gallipoli.",
+                  "category": "recreational",
+                  "coords": [
+                        26.251946,
+                        40.277577
+                  ]
+            },
+            {
+                  "name": "C Beach",
+                  "text": "C Beach is a beachfront area located in Gallipoli.",
+                  "category": "recreational",
+                  "coords": [
+                        26.244193,
+                        40.282267
+                  ]
+            },
+            {
+                  "name": "Ocean Beach",
+                  "text": "Ocean Beach is a beach situated along the coast of Gallipoli.",
+                  "category": "recreational",
+                  "coords": [
+                        26.279553,
+                        40.245865
+                  ]
+            }
+      ]
+},
     type: "battlefield",
     parent: "TR-17",
     coords: [26.277, 40.245],
@@ -507,7 +660,88 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     },
   },
   {
-    id: "myra-history-v2",
+    id: "myra-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Çayağzı Plajı",
+                  "text": "Çayağzı Plajı ist ein Küstenstrand in Myra.",
+                  "category": "recreational",
+                  "coords": [
+                        29.943466,
+                        36.227634
+                  ]
+            },
+            {
+                  "name": "Sülüklü Plaji",
+                  "text": "Sülüklü Plaji ist ein lokaler Strand in Myra.",
+                  "category": "recreational",
+                  "coords": [
+                        29.977582,
+                        36.220398
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Çayağzı Plajı",
+                  "text": "A Çayağzı Plajı egy tengerparti strand Myra városában.",
+                  "category": "recreational",
+                  "coords": [
+                        29.943466,
+                        36.227634
+                  ]
+            },
+            {
+                  "name": "Sülüklü Plaji",
+                  "text": "A Sülüklü Plaji egy helyi strand Myra városában.",
+                  "category": "recreational",
+                  "coords": [
+                        29.977582,
+                        36.220398
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Çayağzı Plajı",
+                  "text": "Çayağzı Plajı este o plajă de coastă situată în Myra.",
+                  "category": "recreational",
+                  "coords": [
+                        29.943466,
+                        36.227634
+                  ]
+            },
+            {
+                  "name": "Sülüklü Plaji",
+                  "text": "Sülüklü Plaji este o plajă locală situată în Myra.",
+                  "category": "recreational",
+                  "coords": [
+                        29.977582,
+                        36.220398
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Çayağzı Plajı",
+                  "text": "Çayağzı Plajı is a coastal beach located in Myra.",
+                  "category": "recreational",
+                  "coords": [
+                        29.943466,
+                        36.227634
+                  ]
+            },
+            {
+                  "name": "Sülüklü Plaji",
+                  "text": "Sülüklü Plaji is a local beach situated in Myra.",
+                  "category": "recreational",
+                  "coords": [
+                        29.977582,
+                        36.220398
+                  ]
+            }
+      ]
+},
     type: "ruin",
     parent: "TR-07",
     coords: [29.980, 36.258],

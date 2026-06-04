@@ -150,7 +150,52 @@ export const germanyHistoryV2: POI[] = [
     image: "/poi-images/germany-berlin-tempelhof-history-v2.webp",
   },
   {
-    id: "germany-magdeburg-cathedral-history-v2",
+    id: "germany-magdeburg-cathedral-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Elbstrand",
+                  "text": "Elbstrand in Magdeburg, nahe der Kathedrale.",
+                  "category": "recreational",
+                  "coords": [
+                        11.655395,
+                        52.115431
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Elbstrand",
+                  "text": "Elbstrand Magdeburgban, a székesegyház közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        11.655395,
+                        52.115431
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Elbstrand",
+                  "text": "Plajă pe râul Elba în Magdeburg, lângă catedrală.",
+                  "category": "recreational",
+                  "coords": [
+                        11.655395,
+                        52.115431
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Elbstrand",
+                  "text": "Beach on the Elbe river in Magdeburg, near the cathedral.",
+                  "category": "recreational",
+                  "coords": [
+                        11.655395,
+                        52.115431
+                  ]
+            }
+      ]
+},
     type: "cathedral",
     parent: "DE",
     name: { de: "Magdeburger Dom", hu: "Magdeburgi dóm", ro: "Catedrala din Magdeburg", en: "Magdeburg Cathedral" },

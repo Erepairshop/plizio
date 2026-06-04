@@ -45,7 +45,88 @@ export const poiExtraIrelandCities: POI[] = [
       fr: ["Drogheda a été officiellement fondée en 1194.", "La St. Laurence's Gate date du XIIIe siècle.", "Oliver Cromwell a assiégé et conquis la ville en 1649.", "La ville fut autrefois le siège du Parlement irlandais.", "L'église St. Peter conserve le chef d'Oliver Plunkett.", "Le champ de bataille de la Boyne se trouve aux portes de la ville."],
     }, image: "/poi-images/city-drogheda-extra.webp"},
   {
-    id: "city-bray-extra",
+    id: "city-bray-extra", "sights": {
+      "de": [
+            {
+                  "name": "Bray Beach",
+                  "text": "Ein Strand in der Küstenstadt Bray.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.095857,
+                        53.202301
+                  ]
+            },
+            {
+                  "name": "Naylor's Cove",
+                  "text": "Ein kleiner Küstenabschnitt bei Bray.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.087687,
+                        53.195863
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bray Beach",
+                  "text": "Strand Bray tengerparti városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.095857,
+                        53.202301
+                  ]
+            },
+            {
+                  "name": "Naylor's Cove",
+                  "text": "Kis partszakasz Bray mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.087687,
+                        53.195863
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bray Beach",
+                  "text": "O plajă în orașul de coastă Bray.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.095857,
+                        53.202301
+                  ]
+            },
+            {
+                  "name": "Naylor's Cove",
+                  "text": "O mică zonă de coastă lângă Bray.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.087687,
+                        53.195863
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bray Beach",
+                  "text": "A beach in the coastal town of Bray.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.095857,
+                        53.202301
+                  ]
+            },
+            {
+                  "name": "Naylor's Cove",
+                  "text": "A small coastal area near Bray.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.087687,
+                        53.195863
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IE-L",
     coords: [-6.1081, 53.2006],

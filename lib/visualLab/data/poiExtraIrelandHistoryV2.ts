@@ -48,7 +48,268 @@ export const irelandHistoryV2: POI[] = [
     image: "/poi-images/ireland-skellig-michael-history-v2.webp",
   },
   {
-    id: "ireland-duncannon-fort-history-v2",
+    id: "ireland-duncannon-fort-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dromina Strand",
+                  "text": "Ein Strandabschnitt nahe Duncannon Fort.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.973323,
+                        52.206045
+                  ]
+            },
+            {
+                  "name": "Raheen Strand",
+                  "text": "Ein Strand bei Duncannon Fort.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.976552,
+                        52.213679
+                  ]
+            },
+            {
+                  "name": "Woodstown Strand",
+                  "text": "Ein Strandabschnitt nahe Duncannon Fort.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.976572,
+                        52.197125
+                  ]
+            },
+            {
+                  "name": "Dollar Bay Beach",
+                  "text": "Dollar Bay Beach liegt nahe dem Duncannon Fort.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.90336,
+                        52.196697
+                  ]
+            },
+            {
+                  "name": "Booley Bay Beach",
+                  "text": "Booley Bay Beach befindet sich bei Duncannon Fort.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.904723,
+                        52.20099
+                  ]
+            },
+            {
+                  "name": "Arthurstown Beach",
+                  "text": "Strand bei Duncannon Fort.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.953794,
+                        52.242241
+                  ]
+            },
+            {
+                  "name": "Duncannon",
+                  "text": "Strand bei Duncannon Fort.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.928816,
+                        52.219041
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dromina Strand",
+                  "text": "Strand Duncannon Fort közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.973323,
+                        52.206045
+                  ]
+            },
+            {
+                  "name": "Raheen Strand",
+                  "text": "Strand Duncannon Fort közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.976552,
+                        52.213679
+                  ]
+            },
+            {
+                  "name": "Woodstown Strand",
+                  "text": "Strandpart Duncannon Fort közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.976572,
+                        52.197125
+                  ]
+            },
+            {
+                  "name": "Dollar Bay Beach",
+                  "text": "A Dollar Bay Beach a Duncannon Fort közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.90336,
+                        52.196697
+                  ]
+            },
+            {
+                  "name": "Booley Bay Beach",
+                  "text": "A Booley Bay Beach a Duncannon Fortnál található.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.904723,
+                        52.20099
+                  ]
+            },
+            {
+                  "name": "Arthurstown Beach",
+                  "text": "Strand Duncannon Fort közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.953794,
+                        52.242241
+                  ]
+            },
+            {
+                  "name": "Duncannon",
+                  "text": "Strand Duncannon Fort közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.928816,
+                        52.219041
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dromina Strand",
+                  "text": "O plajă lângă Duncannon Fort.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.973323,
+                        52.206045
+                  ]
+            },
+            {
+                  "name": "Raheen Strand",
+                  "text": "O plajă lângă Duncannon Fort.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.976552,
+                        52.213679
+                  ]
+            },
+            {
+                  "name": "Woodstown Strand",
+                  "text": "O porțiune de plajă lângă Duncannon Fort.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.976572,
+                        52.197125
+                  ]
+            },
+            {
+                  "name": "Dollar Bay Beach",
+                  "text": "Dollar Bay Beach este situată lângă Duncannon Fort.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.90336,
+                        52.196697
+                  ]
+            },
+            {
+                  "name": "Booley Bay Beach",
+                  "text": "Booley Bay Beach se află lângă Duncannon Fort.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.904723,
+                        52.20099
+                  ]
+            },
+            {
+                  "name": "Arthurstown Beach",
+                  "text": "Plajă lângă Duncannon Fort.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.953794,
+                        52.242241
+                  ]
+            },
+            {
+                  "name": "Duncannon",
+                  "text": "Plajă lângă Duncannon Fort.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.928816,
+                        52.219041
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dromina Strand",
+                  "text": "A strand near Duncannon Fort.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.973323,
+                        52.206045
+                  ]
+            },
+            {
+                  "name": "Raheen Strand",
+                  "text": "A strand near Duncannon Fort.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.976552,
+                        52.213679
+                  ]
+            },
+            {
+                  "name": "Woodstown Strand",
+                  "text": "A beach area near Duncannon Fort.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.976572,
+                        52.197125
+                  ]
+            },
+            {
+                  "name": "Dollar Bay Beach",
+                  "text": "Dollar Bay Beach is located near Duncannon Fort.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.90336,
+                        52.196697
+                  ]
+            },
+            {
+                  "name": "Booley Bay Beach",
+                  "text": "Booley Bay Beach is located near Duncannon Fort.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.904723,
+                        52.20099
+                  ]
+            },
+            {
+                  "name": "Arthurstown Beach",
+                  "text": "Beach near Duncannon Fort.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.953794,
+                        52.242241
+                  ]
+            },
+            {
+                  "name": "Duncannon",
+                  "text": "Beach near Duncannon Fort.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.928816,
+                        52.219041
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "IE",
     name: { de: "Duncannon Fort", hu: "Duncannon erőd", ro: "Fortăreața Duncannon", en: "Duncannon Fort" },
@@ -93,7 +354,88 @@ export const irelandHistoryV2: POI[] = [
     image: "/poi-images/ireland-duncannon-fort-history-v2.webp",
   },
   {
-    id: "ireland-dunluce-castle-history-v2",
+    id: "ireland-dunluce-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "East Strand",
+                  "text": "East Strand ist ein Strand beim Dunluce Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.630444,
+                        55.206532
+                  ]
+            },
+            {
+                  "name": "Portballintrae Beach",
+                  "text": "Portballintrae Beach liegt nahe Dunluce Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.547489,
+                        55.21706
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "East Strand",
+                  "text": "Az East Strand egy strand Dunluce Castle mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.630444,
+                        55.206532
+                  ]
+            },
+            {
+                  "name": "Portballintrae Beach",
+                  "text": "A Portballintrae Beach a Dunluce kastély közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.547489,
+                        55.21706
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "East Strand",
+                  "text": "East Strand este o plajă situată lângă Dunluce Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.630444,
+                        55.206532
+                  ]
+            },
+            {
+                  "name": "Portballintrae Beach",
+                  "text": "Portballintrae Beach se află lângă castelul Dunluce.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.547489,
+                        55.21706
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "East Strand",
+                  "text": "East Strand is a beach near Dunluce Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.630444,
+                        55.206532
+                  ]
+            },
+            {
+                  "name": "Portballintrae Beach",
+                  "text": "Portballintrae Beach is located near Dunluce Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.547489,
+                        55.21706
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "IE",
     name: { de: "Dunluce Castle", hu: "Dunluce kastély", ro: "Castelul Dunluce", en: "Dunluce Castle" },
@@ -408,7 +750,88 @@ export const irelandHistoryV2: POI[] = [
     image: "/poi-images/ireland-moydrum-castle-history-v2.webp",
   },
   {
-    id: "ireland-ballycarbery-castle-history-v2",
+    id: "ireland-ballycarbery-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "White Strand Beach",
+                  "text": "Strand bei Ballycarbery Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.275051,
+                        51.94281
+                  ]
+            },
+            {
+                  "name": "Emlagh Strand",
+                  "text": "Strand bei Ballycarbery Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.265011,
+                        51.964851
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "White Strand Beach",
+                  "text": "Strand Ballycarbery Castle közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.275051,
+                        51.94281
+                  ]
+            },
+            {
+                  "name": "Emlagh Strand",
+                  "text": "Strand Ballycarbery Castle közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.265011,
+                        51.964851
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "White Strand Beach",
+                  "text": "Plajă lângă Ballycarbery Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.275051,
+                        51.94281
+                  ]
+            },
+            {
+                  "name": "Emlagh Strand",
+                  "text": "Plajă lângă Ballycarbery Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.265011,
+                        51.964851
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "White Strand Beach",
+                  "text": "Beach near Ballycarbery Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.275051,
+                        51.94281
+                  ]
+            },
+            {
+                  "name": "Emlagh Strand",
+                  "text": "Beach near Ballycarbery Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.265011,
+                        51.964851
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "IE",
     name: { de: "Ballycarbery Castle", hu: "Ballycarbery kastély", ro: "Castelul Ballycarbery", en: "Ballycarbery Castle" },
@@ -813,7 +1236,52 @@ export const irelandHistoryV2: POI[] = [
     image: "/poi-images/ireland-kells-priory-history-v2.webp",
   },
   {
-    id: "ireland-asdee-history-v2",
+    id: "ireland-asdee-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Littor Strand",
+                  "text": "Littor Strand ist ein Strand bei Asdee.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.572781,
+                        52.571966
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Littor Strand",
+                  "text": "A Littor Strand egy strand Asdee közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.572781,
+                        52.571966
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Littor Strand",
+                  "text": "Littor Strand este o plajă lângă Asdee.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.572781,
+                        52.571966
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Littor Strand",
+                  "text": "Littor Strand is a beach near Asdee.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.572781,
+                        52.571966
+                  ]
+            }
+      ]
+},
     type: "village",
     parent: "IE",
     name: { de: "Asdee", hu: "Asdee", ro: "Asdee", en: "Asdee" },

@@ -320,7 +320,52 @@ export const polandLifeV2: POI[] = [
       fr: ["Abrite l'une des plus grandes collections d'Europe avec plus de 1 100 espèces différentes", "Le bâtiment de l'Afrykarium contient à lui seul 15 millions de litres d'eau", "Possède un tunnel sous-marin entièrement transparent de 18 mètres de long", "Attire chaque année plus de 1,5 million de visiteurs polonais et étrangers", "Programmes d'élevage réussis pour les okapis et les hippopotames nains", "Membre d'importantes associations mondiales de zoos (WAZA, EAZA)", "Le site comprend de précieux pavillons historiques datant du XIXe siècle"],
     }, image: "/poi-images/poland-wroclaw-zoo-life-v2.webp"},
   {
-    id: "poland-warsaw-zoo-life-v2",
+    id: "poland-warsaw-zoo-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plaża Żoliborska",
+                  "text": "Strand Żoliborska bei der Warschauer Zoo.",
+                  "category": "recreational",
+                  "coords": [
+                        21.00292,
+                        52.268826
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plaża Żoliborska",
+                  "text": "Żoliborska strand a varsói állatkert mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        21.00292,
+                        52.268826
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plaża Żoliborska",
+                  "text": "Plaja Żoliborska lângă grădina zoologică din Varșovia.",
+                  "category": "recreational",
+                  "coords": [
+                        21.00292,
+                        52.268826
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plaża Żoliborska",
+                  "text": "Żoliborska beach near Warsaw Zoo.",
+                  "category": "recreational",
+                  "coords": [
+                        21.00292,
+                        52.268826
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "wildlife",
     name: { de: "Zoo Warschau", hu: "Varsói Állatkert", ro: "Grădina Zoologică din Varșovia", en: "Warsaw Zoo"},
@@ -860,7 +905,88 @@ export const polandLifeV2: POI[] = [
       fr: ["Les montagnes sont composées de quartzite cambrien vieux de plus de 500 millions d'années", "Les éboulis de quartzite ('Gołoborze') couvrent une surface de plus de 22 hectares", "Le point culminant, Łysica, s'élève de manière modeste mais marquée à 614 mètres", "Le parc protège des sapins endémiques dont certains dépassent les 50 mètres de haut", "L'animal emblème du parc national est le majestueux cerf", "Le monastère de la Sainte-Croix sur Łysa Góra remonte à l'origine au XIe siècle", "D'anciens lieux de culte païens et des remparts du VIIIe siècle entourent les sommets"],
     }, image: "/poi-images/poland-swietokrzyski-national-park-life-v2.webp"},
   {
-    id: "poland-bory-tucholskie-national-park-life-v2",
+    id: "poland-bory-tucholskie-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "plaża Swornegacie",
+                  "text": "Strand in Swornegacie im Nationalpark Bory Tucholskie.",
+                  "category": "recreational",
+                  "coords": [
+                        17.503136,
+                        53.854006
+                  ]
+            },
+            {
+                  "name": "Freesurf - Szkoła Windsurfingu",
+                  "text": "Surfschule im Nationalpark Bory Tucholskie.",
+                  "category": "recreational",
+                  "coords": [
+                        17.501644,
+                        53.854001
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "plaża Swornegacie",
+                  "text": "Strand Swornegacie-ban, a Tucholai Erdők Nemzeti Parkban.",
+                  "category": "recreational",
+                  "coords": [
+                        17.503136,
+                        53.854006
+                  ]
+            },
+            {
+                  "name": "Freesurf - Szkoła Windsurfingu",
+                  "text": "Szörfiskola a Tucholai Erdő Nemzeti Parkban.",
+                  "category": "recreational",
+                  "coords": [
+                        17.501644,
+                        53.854001
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "plaża Swornegacie",
+                  "text": "Plajă în Swornegacie în Parcul Național Bory Tucholskie.",
+                  "category": "recreational",
+                  "coords": [
+                        17.503136,
+                        53.854006
+                  ]
+            },
+            {
+                  "name": "Freesurf - Szkoła Windsurfingu",
+                  "text": "Școală de windsurfing în Parcul Național Bory Tucholskie.",
+                  "category": "recreational",
+                  "coords": [
+                        17.501644,
+                        53.854001
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "plaża Swornegacie",
+                  "text": "Beach in Swornegacie in Bory Tucholskie National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        17.503136,
+                        53.854006
+                  ]
+            },
+            {
+                  "name": "Freesurf - Szkoła Windsurfingu",
+                  "text": "Windsurfing school in Bory Tucholskie National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        17.501644,
+                        53.854001
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "wildlife",
     name: { de: "Nationalpark Tucheler Heide", hu: "Tuchola-erdő Nemzeti Park", ro: "Parcul Național Bory Tucholskie", en: "Bory Tucholskie National Park"},
@@ -950,7 +1076,124 @@ export const polandLifeV2: POI[] = [
       fr: ["L'Orientarium ouvert en 2022 couvre une superficie gigantesque de plus de 33 000 mètres carrés", "Le tunnel sous-marin vitré du bassin des requins est, avec 26 mètres, le plus long de Pologne", "La maison des éléphants moderne dispose d'un bassin intérieur profond pour observer les éléphants nager", "S'engage dans le programme d'élevage EEP pour la conservation du lion d'Asie menacé", "Compte parmi les attractions touristiques à la croissance la plus rapide du centre de la Pologne", "Le zoo est niché dans le parc historique et boisé de Zdrowie (Parc de la Santé)", "Abrite une colonie remarquable d'orangs-outans de Bornéo, gravement menacés"],
     }, image: "/poi-images/poland-lodz-zoo-life-v2.webp"},
   {
-    id: "poland-krakow-botanical-garden-life-v2",
+    id: "poland-krakow-botanical-garden-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plaża Bagry",
+                  "text": "Strand Bagry in der Nähe des Botanischen Gartens von Krakow.",
+                  "category": "recreational",
+                  "coords": [
+                        19.993347,
+                        50.034109
+                  ]
+            },
+            {
+                  "name": "Plaża Bagry - Wschód",
+                  "text": "Strand Bagry-Ost in der Nähe des Botanischen Gartens von Krakow.",
+                  "category": "recreational",
+                  "coords": [
+                        19.998361,
+                        50.030997
+                  ]
+            },
+            {
+                  "name": "Stacja Parkowa",
+                  "text": "Parkgelände am Wasser nahe der botanischen Gärten in Krakau.",
+                  "category": "recreational",
+                  "coords": [
+                        19.98201,
+                        50.08871
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plaża Bagry",
+                  "text": "Bagry strand a krakkói botanikus kert közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        19.993347,
+                        50.034109
+                  ]
+            },
+            {
+                  "name": "Plaża Bagry - Wschód",
+                  "text": "Bagry-Kelet strand a krakkói botanikus kert közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        19.998361,
+                        50.030997
+                  ]
+            },
+            {
+                  "name": "Stacja Parkowa",
+                  "text": "Vízparti parkterület a krakkói botanikus kert közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        19.98201,
+                        50.08871
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plaża Bagry",
+                  "text": "Plaja Bagry lângă grădina botanică din Cracovia.",
+                  "category": "recreational",
+                  "coords": [
+                        19.993347,
+                        50.034109
+                  ]
+            },
+            {
+                  "name": "Plaża Bagry - Wschód",
+                  "text": "Plaja Bagry-Est lângă grădina botanică din Cracovia.",
+                  "category": "recreational",
+                  "coords": [
+                        19.998361,
+                        50.030997
+                  ]
+            },
+            {
+                  "name": "Stacja Parkowa",
+                  "text": "Zonă de parc pe malul apei lângă grădinile botanice din Cracovia.",
+                  "category": "recreational",
+                  "coords": [
+                        19.98201,
+                        50.08871
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plaża Bagry",
+                  "text": "Bagry beach near Krakow Botanical Garden.",
+                  "category": "recreational",
+                  "coords": [
+                        19.993347,
+                        50.034109
+                  ]
+            },
+            {
+                  "name": "Plaża Bagry - Wschód",
+                  "text": "Bagry-East beach near Krakow Botanical Garden.",
+                  "category": "recreational",
+                  "coords": [
+                        19.998361,
+                        50.030997
+                  ]
+            },
+            {
+                  "name": "Stacja Parkowa",
+                  "text": "Waterfront park area near the botanical gardens in Krakow.",
+                  "category": "recreational",
+                  "coords": [
+                        19.98201,
+                        50.08871
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "wildlife",
     name: { de: "Botanischer Garten Krakau", hu: "Krakkói Botanikus Kert", ro: "Grădina Botanică din Cracovia", en: "Kraków Botanical Garden"},

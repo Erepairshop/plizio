@@ -196,7 +196,88 @@ export const finlandRegions: POI[] = [
     },
   },
   {
-    id: "reg-lapland-fi",
+    id: "reg-lapland-fi", "sights": {
+      "de": [
+            {
+                  "name": "Arktikumin ranta",
+                  "text": "Arktikumin ranta ist ein Strand in der Region Lappland.",
+                  "category": "recreational",
+                  "coords": [
+                        25.729014,
+                        66.50948
+                  ]
+            },
+            {
+                  "name": "Ylikylän uimaranta",
+                  "text": "Ein Strand in Ylikylä in der Region Lappland.",
+                  "category": "recreational",
+                  "coords": [
+                        25.678516,
+                        66.537124
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Arktikumin ranta",
+                  "text": "Az Arktikumin ranta egy strand Lappföld régióban.",
+                  "category": "recreational",
+                  "coords": [
+                        25.729014,
+                        66.50948
+                  ]
+            },
+            {
+                  "name": "Ylikylän uimaranta",
+                  "text": "Strand Ylikylä településen, Lappföld régióban.",
+                  "category": "recreational",
+                  "coords": [
+                        25.678516,
+                        66.537124
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Arktikumin ranta",
+                  "text": "Arktikumin ranta este o plajă în regiunea Laponia.",
+                  "category": "recreational",
+                  "coords": [
+                        25.729014,
+                        66.50948
+                  ]
+            },
+            {
+                  "name": "Ylikylän uimaranta",
+                  "text": "O plajă în Ylikylä în regiunea Laponia.",
+                  "category": "recreational",
+                  "coords": [
+                        25.678516,
+                        66.537124
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Arktikumin ranta",
+                  "text": "Arktikumin ranta is a beach in the Lapland region.",
+                  "category": "recreational",
+                  "coords": [
+                        25.729014,
+                        66.50948
+                  ]
+            },
+            {
+                  "name": "Ylikylän uimaranta",
+                  "text": "A beach in Ylikylä in the Lapland region.",
+                  "category": "recreational",
+                  "coords": [
+                        25.678516,
+                        66.537124
+                  ]
+            }
+      ]
+},
     type: "region",
     parent: "finland",
     coords: [25.7289, 66.5039],
@@ -369,7 +450,124 @@ export const finlandCulture: POI[] = [
 
 export const finlandCities: POI[] = [
   {
-    id: "city-espoo",
+    id: "city-espoo", "sights": {
+      "de": [
+            {
+                  "name": "Oittaan koirauimaranta",
+                  "text": "Oittaan Koirauimaranta ist ein ausgewiesener Hundestrand in Espoo.",
+                  "category": "recreational",
+                  "coords": [
+                        24.66155,
+                        60.240719
+                  ]
+            },
+            {
+                  "name": "Gallträskin uimaranta",
+                  "text": "Der Gallträskin uimaranta ist ein Strand bei Espoo.",
+                  "category": "recreational",
+                  "coords": [
+                        24.728316,
+                        60.218778
+                  ]
+            },
+            {
+                  "name": "Oittaan uimaranta",
+                  "text": "Der Oittaan uimaranta ist ein Strand bei Espoo.",
+                  "category": "recreational",
+                  "coords": [
+                        24.659828,
+                        60.241078
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Oittaan koirauimaranta",
+                  "text": "Az Oittaan Koirauimaranta egy kijelölt kutyás strand Espooban.",
+                  "category": "recreational",
+                  "coords": [
+                        24.66155,
+                        60.240719
+                  ]
+            },
+            {
+                  "name": "Gallträskin uimaranta",
+                  "text": "Gallträskin uimaranta egy strand Espoo közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        24.728316,
+                        60.218778
+                  ]
+            },
+            {
+                  "name": "Oittaan uimaranta",
+                  "text": "Oittaan uimaranta egy strand Espoo közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        24.659828,
+                        60.241078
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Oittaan koirauimaranta",
+                  "text": "Oittaan Koirauimaranta este o plajă pentru câini în Espoo.",
+                  "category": "recreational",
+                  "coords": [
+                        24.66155,
+                        60.240719
+                  ]
+            },
+            {
+                  "name": "Gallträskin uimaranta",
+                  "text": "Gallträskin uimaranta este o plajă lângă Espoo.",
+                  "category": "recreational",
+                  "coords": [
+                        24.728316,
+                        60.218778
+                  ]
+            },
+            {
+                  "name": "Oittaan uimaranta",
+                  "text": "Oittaan uimaranta este o plajă lângă Espoo.",
+                  "category": "recreational",
+                  "coords": [
+                        24.659828,
+                        60.241078
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Oittaan koirauimaranta",
+                  "text": "Oittaan Koirauimaranta is a designated dog beach in Espoo.",
+                  "category": "recreational",
+                  "coords": [
+                        24.66155,
+                        60.240719
+                  ]
+            },
+            {
+                  "name": "Gallträskin uimaranta",
+                  "text": "Gallträskin uimaranta is a beach near Espoo.",
+                  "category": "recreational",
+                  "coords": [
+                        24.728316,
+                        60.218778
+                  ]
+            },
+            {
+                  "name": "Oittaan uimaranta",
+                  "text": "Oittaan uimaranta is a beach near Espoo.",
+                  "category": "recreational",
+                  "coords": [
+                        24.659828,
+                        60.241078
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "finland",
     coords: [24.6559, 60.2055],
@@ -413,7 +611,124 @@ export const finlandCities: POI[] = [
     },
   },
   {
-    id: "city-oulu",
+    id: "city-oulu", "sights": {
+      "de": [
+            {
+                  "name": "Emännäntien uimaranta",
+                  "text": "Der Emännäntien uimaranta ist ein Strand in Oulu.",
+                  "category": "recreational",
+                  "coords": [
+                        25.547911,
+                        65.00849
+                  ]
+            },
+            {
+                  "name": "Värtön ranta",
+                  "text": "Strand in Oulu.",
+                  "category": "recreational",
+                  "coords": [
+                        25.527392,
+                        65.017835
+                  ]
+            },
+            {
+                  "name": "Saarelan uimaranta",
+                  "text": "Strand im Stadtteil Saarela in Oulu.",
+                  "category": "recreational",
+                  "coords": [
+                        25.569764,
+                        64.995556
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Emännäntien uimaranta",
+                  "text": "Emännäntien uimaranta egy strand Oulu városában.",
+                  "category": "recreational",
+                  "coords": [
+                        25.547911,
+                        65.00849
+                  ]
+            },
+            {
+                  "name": "Värtön ranta",
+                  "text": "Strand Ouluban.",
+                  "category": "recreational",
+                  "coords": [
+                        25.527392,
+                        65.017835
+                  ]
+            },
+            {
+                  "name": "Saarelan uimaranta",
+                  "text": "Strand Saarela városrészben, Oulu városában.",
+                  "category": "recreational",
+                  "coords": [
+                        25.569764,
+                        64.995556
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Emännäntien uimaranta",
+                  "text": "Emännäntien uimaranta este o plajă în Oulu.",
+                  "category": "recreational",
+                  "coords": [
+                        25.547911,
+                        65.00849
+                  ]
+            },
+            {
+                  "name": "Värtön ranta",
+                  "text": "Plajă în Oulu.",
+                  "category": "recreational",
+                  "coords": [
+                        25.527392,
+                        65.017835
+                  ]
+            },
+            {
+                  "name": "Saarelan uimaranta",
+                  "text": "Plajă în districtul Saarela din Oulu.",
+                  "category": "recreational",
+                  "coords": [
+                        25.569764,
+                        64.995556
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Emännäntien uimaranta",
+                  "text": "Emännäntien uimaranta is a beach in Oulu.",
+                  "category": "recreational",
+                  "coords": [
+                        25.547911,
+                        65.00849
+                  ]
+            },
+            {
+                  "name": "Värtön ranta",
+                  "text": "Beach in Oulu.",
+                  "category": "recreational",
+                  "coords": [
+                        25.527392,
+                        65.017835
+                  ]
+            },
+            {
+                  "name": "Saarelan uimaranta",
+                  "text": "Beach in the Saarela district of Oulu.",
+                  "category": "recreational",
+                  "coords": [
+                        25.569764,
+                        64.995556
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "finland",
     coords: [25.4716, 65.0121],
@@ -457,7 +772,52 @@ export const finlandCities: POI[] = [
     },
   },
   {
-    id: "city-vantaa",
+    id: "city-vantaa", "sights": {
+      "de": [
+            {
+                  "name": "Tapionranta",
+                  "text": "Tapionranta ist ein Strand in Vantaa.",
+                  "category": "recreational",
+                  "coords": [
+                        25.086942,
+                        60.322324
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tapionranta",
+                  "text": "Tapionranta egy strand Vantaa városában.",
+                  "category": "recreational",
+                  "coords": [
+                        25.086942,
+                        60.322324
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tapionranta",
+                  "text": "Tapionranta este o plajă în Vantaa.",
+                  "category": "recreational",
+                  "coords": [
+                        25.086942,
+                        60.322324
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tapionranta",
+                  "text": "Tapionranta is a beach in Vantaa.",
+                  "category": "recreational",
+                  "coords": [
+                        25.086942,
+                        60.322324
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     coords: [25.0443, 60.2934],
@@ -501,7 +861,124 @@ export const finlandCities: POI[] = [
     },
   },
   {
-    id: "city-lahti",
+    id: "city-lahti", "sights": {
+      "de": [
+            {
+                  "name": "Möysän uimaranta",
+                  "text": "Möysän Strand liegt in der Stadt Lahti.",
+                  "category": "recreational",
+                  "coords": [
+                        25.691915,
+                        60.979711
+                  ]
+            },
+            {
+                  "name": "Kokkokallionpuiston ranta",
+                  "text": "Strand im Kokkokallionpuisto-Park in Lahti.",
+                  "category": "recreational",
+                  "coords": [
+                        25.707939,
+                        60.976804
+                  ]
+            },
+            {
+                  "name": "Suo­pur­sun­puis­ton vir­kis­tys­ran­ta",
+                  "text": "Erholungsstrand im Suopursunpuisto-Park, Lahti.",
+                  "category": "recreational",
+                  "coords": [
+                        25.702706,
+                        60.978768
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Möysän uimaranta",
+                  "text": "Möysän strandja Lahti városában található.",
+                  "category": "recreational",
+                  "coords": [
+                        25.691915,
+                        60.979711
+                  ]
+            },
+            {
+                  "name": "Kokkokallionpuiston ranta",
+                  "text": "Kokkokallionpuisto strand Lahtiban.",
+                  "category": "recreational",
+                  "coords": [
+                        25.707939,
+                        60.976804
+                  ]
+            },
+            {
+                  "name": "Suo­pur­sun­puis­ton vir­kis­tys­ran­ta",
+                  "text": "Suopursunpuisto szabadidős strand, Lahti.",
+                  "category": "recreational",
+                  "coords": [
+                        25.702706,
+                        60.978768
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Möysän uimaranta",
+                  "text": "Plaja Möysän este situată în orașul Lahti.",
+                  "category": "recreational",
+                  "coords": [
+                        25.691915,
+                        60.979711
+                  ]
+            },
+            {
+                  "name": "Kokkokallionpuiston ranta",
+                  "text": "Plaja din parcul Kokkokallionpuisto în Lahti.",
+                  "category": "recreational",
+                  "coords": [
+                        25.707939,
+                        60.976804
+                  ]
+            },
+            {
+                  "name": "Suo­pur­sun­puis­ton vir­kis­tys­ran­ta",
+                  "text": "Plaja de recreere în parcul Suopursunpuisto, Lahti.",
+                  "category": "recreational",
+                  "coords": [
+                        25.702706,
+                        60.978768
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Möysän uimaranta",
+                  "text": "Möysän beach is located in the town of Lahti.",
+                  "category": "recreational",
+                  "coords": [
+                        25.691915,
+                        60.979711
+                  ]
+            },
+            {
+                  "name": "Kokkokallionpuiston ranta",
+                  "text": "Beach in Kokkokallionpuisto park in Lahti.",
+                  "category": "recreational",
+                  "coords": [
+                        25.707939,
+                        60.976804
+                  ]
+            },
+            {
+                  "name": "Suo­pur­sun­puis­ton vir­kis­tys­ran­ta",
+                  "text": "Recreational beach in Suopursunpuisto park, Lahti.",
+                  "category": "recreational",
+                  "coords": [
+                        25.702706,
+                        60.978768
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     coords: [25.6615, 60.9827],
@@ -545,7 +1022,232 @@ export const finlandCities: POI[] = [
     },
   },
   {
-    id: "city-jyvaskyla",
+    id: "city-jyvaskyla", "sights": {
+      "de": [
+            {
+                  "name": "Tuomiojärven uimaranta",
+                  "text": "Der Tuomiojärven uimaranta ist ein Strand in Jyväskylä.",
+                  "category": "recreational",
+                  "coords": [
+                        25.744455,
+                        62.25474
+                  ]
+            },
+            {
+                  "name": "Viitaniemen uimaranta",
+                  "text": "Strand in Jyväskylä.",
+                  "category": "recreational",
+                  "coords": [
+                        25.726615,
+                        62.253869
+                  ]
+            },
+            {
+                  "name": "Lohikosken uimaranta",
+                  "text": "Strand in Jyväskylä.",
+                  "category": "recreational",
+                  "coords": [
+                        25.751777,
+                        62.268819
+                  ]
+            },
+            {
+                  "name": "Tyyppälänlahden uimapaikka",
+                  "text": "Ein Badeplatz in der Bucht Tyyppälänlahti bei Jyväskylä.",
+                  "category": "recreational",
+                  "coords": [
+                        25.758558,
+                        62.274668
+                  ]
+            },
+            {
+                  "name": "Ritoniemen uimaranta",
+                  "text": "Ein Badeplatz auf der Halbinsel Ritoniemi bei Jyväskylä.",
+                  "category": "recreational",
+                  "coords": [
+                        25.750292,
+                        62.27409
+                  ]
+            },
+            {
+                  "name": "Haukkalan uimaranta",
+                  "text": "Badestrand Haukkalan in Jyväskylä.",
+                  "category": "recreational",
+                  "coords": [
+                        25.703005,
+                        62.273559
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tuomiojärven uimaranta",
+                  "text": "Tuomiojärven uimaranta egy strand Jyväskylä városában.",
+                  "category": "recreational",
+                  "coords": [
+                        25.744455,
+                        62.25474
+                  ]
+            },
+            {
+                  "name": "Viitaniemen uimaranta",
+                  "text": "Strand Jyväskyläben.",
+                  "category": "recreational",
+                  "coords": [
+                        25.726615,
+                        62.253869
+                  ]
+            },
+            {
+                  "name": "Lohikosken uimaranta",
+                  "text": "Strand Jyväskyläben.",
+                  "category": "recreational",
+                  "coords": [
+                        25.751777,
+                        62.268819
+                  ]
+            },
+            {
+                  "name": "Tyyppälänlahden uimapaikka",
+                  "text": "Fürdőhely a Tyyppälänlahti-öbölben, Jyväskylä mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        25.758558,
+                        62.274668
+                  ]
+            },
+            {
+                  "name": "Ritoniemen uimaranta",
+                  "text": "Fürdőhely a Ritoniemi-félszigeten, Jyväskylä közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        25.750292,
+                        62.27409
+                  ]
+            },
+            {
+                  "name": "Haukkalan uimaranta",
+                  "text": "Haukkalan strand Jyväskyläben.",
+                  "category": "recreational",
+                  "coords": [
+                        25.703005,
+                        62.273559
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tuomiojärven uimaranta",
+                  "text": "Tuomiojärven uimaranta este o plajă în Jyväskylä.",
+                  "category": "recreational",
+                  "coords": [
+                        25.744455,
+                        62.25474
+                  ]
+            },
+            {
+                  "name": "Viitaniemen uimaranta",
+                  "text": "Plajă în Jyväskylä.",
+                  "category": "recreational",
+                  "coords": [
+                        25.726615,
+                        62.253869
+                  ]
+            },
+            {
+                  "name": "Lohikosken uimaranta",
+                  "text": "Plajă în Jyväskylä.",
+                  "category": "recreational",
+                  "coords": [
+                        25.751777,
+                        62.268819
+                  ]
+            },
+            {
+                  "name": "Tyyppälänlahden uimapaikka",
+                  "text": "Loc de scăldat în golful Tyyppälänlahti, lângă Jyväskylä.",
+                  "category": "recreational",
+                  "coords": [
+                        25.758558,
+                        62.274668
+                  ]
+            },
+            {
+                  "name": "Ritoniemen uimaranta",
+                  "text": "Loc de scăldat pe peninsula Ritoniemi, lângă Jyväskylä.",
+                  "category": "recreational",
+                  "coords": [
+                        25.750292,
+                        62.27409
+                  ]
+            },
+            {
+                  "name": "Haukkalan uimaranta",
+                  "text": "Plaja Haukkalan din Jyväskylä.",
+                  "category": "recreational",
+                  "coords": [
+                        25.703005,
+                        62.273559
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tuomiojärven uimaranta",
+                  "text": "Tuomiojärven uimaranta is a beach in Jyväskylä.",
+                  "category": "recreational",
+                  "coords": [
+                        25.744455,
+                        62.25474
+                  ]
+            },
+            {
+                  "name": "Viitaniemen uimaranta",
+                  "text": "Beach in Jyväskylä.",
+                  "category": "recreational",
+                  "coords": [
+                        25.726615,
+                        62.253869
+                  ]
+            },
+            {
+                  "name": "Lohikosken uimaranta",
+                  "text": "Beach in Jyväskylä.",
+                  "category": "recreational",
+                  "coords": [
+                        25.751777,
+                        62.268819
+                  ]
+            },
+            {
+                  "name": "Tyyppälänlahden uimapaikka",
+                  "text": "A bathing spot in Tyyppälänlahti bay near Jyväskylä.",
+                  "category": "recreational",
+                  "coords": [
+                        25.758558,
+                        62.274668
+                  ]
+            },
+            {
+                  "name": "Ritoniemen uimaranta",
+                  "text": "A bathing spot on the Ritoniemi peninsula near Jyväskylä.",
+                  "category": "recreational",
+                  "coords": [
+                        25.750292,
+                        62.27409
+                  ]
+            },
+            {
+                  "name": "Haukkalan uimaranta",
+                  "text": "Haukkalan beach in Jyväskylä.",
+                  "category": "recreational",
+                  "coords": [
+                        25.703005,
+                        62.273559
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     coords: [25.7473, 62.2426],
@@ -589,7 +1291,52 @@ export const finlandCities: POI[] = [
     },
   },
   {
-    id: "city-kuopio",
+    id: "city-kuopio", "sights": {
+      "de": [
+            {
+                  "name": "Valkeisenlammen uimaranta",
+                  "text": "Der Valkeisenlammen uimaranta liegt in Kuopio.",
+                  "category": "recreational",
+                  "coords": [
+                        27.662351,
+                        62.887358
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Valkeisenlammen uimaranta",
+                  "text": "Valkeisenlammen uimaranta Kuopio városában található.",
+                  "category": "recreational",
+                  "coords": [
+                        27.662351,
+                        62.887358
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Valkeisenlammen uimaranta",
+                  "text": "Valkeisenlammen uimaranta se află în Kuopio.",
+                  "category": "recreational",
+                  "coords": [
+                        27.662351,
+                        62.887358
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Valkeisenlammen uimaranta",
+                  "text": "Valkeisenlammen uimaranta is in Kuopio.",
+                  "category": "recreational",
+                  "coords": [
+                        27.662351,
+                        62.887358
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     coords: [27.677, 62.8924],
@@ -765,7 +1512,52 @@ export const finlandCities: POI[] = [
     },
   },
   {
-    id: "city-lappeenranta",
+    id: "city-lappeenranta", "sights": {
+      "de": [
+            {
+                  "name": "Mattilan uimaranta",
+                  "text": "Mattilan uimaranta ist ein Strand in Lappeenranta.",
+                  "category": "recreational",
+                  "coords": [
+                        28.156958,
+                        61.029521
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mattilan uimaranta",
+                  "text": "Mattilan uimaranta egy strand Lappeenranta városában.",
+                  "category": "recreational",
+                  "coords": [
+                        28.156958,
+                        61.029521
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mattilan uimaranta",
+                  "text": "Mattilan uimaranta este o plajă situată în Lappeenranta.",
+                  "category": "recreational",
+                  "coords": [
+                        28.156958,
+                        61.029521
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mattilan uimaranta",
+                  "text": "Mattilan uimaranta is a beach in Lappeenranta.",
+                  "category": "recreational",
+                  "coords": [
+                        28.156958,
+                        61.029521
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     coords: [28.1887, 61.0583],
@@ -853,7 +1645,88 @@ export const finlandCities: POI[] = [
     },
   },
   {
-    id: "city-rovaniemi",
+    id: "city-rovaniemi", "sights": {
+      "de": [
+            {
+                  "name": "Ounaspaviljongin uimaranta",
+                  "text": "Ounaspaviljongin uimaranta ist ein Strand in Rovaniemi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.744479,
+                        66.518754
+                  ]
+            },
+            {
+                  "name": "Ounaskosken uimaranta",
+                  "text": "Der Ounaskosken uimaranta ist ein Strand in der Nähe von Rovaniemi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.743471,
+                        66.500625
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ounaspaviljongin uimaranta",
+                  "text": "Ounaspaviljongin uimaranta egy strand Rovaniemi városában.",
+                  "category": "recreational",
+                  "coords": [
+                        25.744479,
+                        66.518754
+                  ]
+            },
+            {
+                  "name": "Ounaskosken uimaranta",
+                  "text": "Az Ounaskosken uimaranta egy strand Rovaniemi közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        25.743471,
+                        66.500625
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ounaspaviljongin uimaranta",
+                  "text": "Ounaspaviljongin uimaranta este o plajă situată în Rovaniemi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.744479,
+                        66.518754
+                  ]
+            },
+            {
+                  "name": "Ounaskosken uimaranta",
+                  "text": "Ounaskosken uimaranta este o plajă lângă Rovaniemi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.743471,
+                        66.500625
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ounaspaviljongin uimaranta",
+                  "text": "Ounaspaviljongin uimaranta is a beach in Rovaniemi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.744479,
+                        66.518754
+                  ]
+            },
+            {
+                  "name": "Ounaskosken uimaranta",
+                  "text": "Ounaskosken uimaranta is a beach near Rovaniemi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.743471,
+                        66.500625
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     coords: [25.7294, 66.5039],
@@ -900,7 +1773,160 @@ export const finlandCities: POI[] = [
 
 export const finlandCultureExtended: POI[] = [
   {
-    id: "cult-suomenlinna",
+    id: "cult-suomenlinna", "sights": {
+      "de": [
+            {
+                  "name": "Furuvikin uimaranta",
+                  "text": "Strand in der Nähe von Suomenlinna.",
+                  "category": "recreational",
+                  "coords": [
+                        25.061481,
+                        60.159637
+                  ]
+            },
+            {
+                  "name": "Suomenlinnan uimaranta",
+                  "text": "Strand auf der UNESCO-Welterbe-Insel Suomenlinna.",
+                  "category": "recreational",
+                  "coords": [
+                        24.985077,
+                        60.141112
+                  ]
+            },
+            {
+                  "name": "Kuninkaansaaren uimaranta",
+                  "text": "Kuninkaansaaren uimaranta ist ein Strand in der Nähe von Suomenlinna.",
+                  "category": "recreational",
+                  "coords": [
+                        25.021507,
+                        60.135218
+                  ]
+            },
+            {
+                  "name": "Hevossalmen uimaranta",
+                  "text": "Strand in der Nähe der Festung Suomenlinna.",
+                  "category": "recreational",
+                  "coords": [
+                        25.040517,
+                        60.162742
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Furuvikin uimaranta",
+                  "text": "Strand Suomenlinna közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        25.061481,
+                        60.159637
+                  ]
+            },
+            {
+                  "name": "Suomenlinnan uimaranta",
+                  "text": "Strand Suomenlinna UNESCO-világörökségi szigeten.",
+                  "category": "recreational",
+                  "coords": [
+                        24.985077,
+                        60.141112
+                  ]
+            },
+            {
+                  "name": "Kuninkaansaaren uimaranta",
+                  "text": "A Kuninkaansaaren uimaranta egy strand Suomenlinna közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        25.021507,
+                        60.135218
+                  ]
+            },
+            {
+                  "name": "Hevossalmen uimaranta",
+                  "text": "Strand a Suomenlinna erőd közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        25.040517,
+                        60.162742
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Furuvikin uimaranta",
+                  "text": "Plajă în apropierea Suomenlinna.",
+                  "category": "recreational",
+                  "coords": [
+                        25.061481,
+                        60.159637
+                  ]
+            },
+            {
+                  "name": "Suomenlinnan uimaranta",
+                  "text": "Plajă pe insula Suomenlinna, parte a Patrimoniului Mondial UNESCO.",
+                  "category": "recreational",
+                  "coords": [
+                        24.985077,
+                        60.141112
+                  ]
+            },
+            {
+                  "name": "Kuninkaansaaren uimaranta",
+                  "text": "Kuninkaansaaren uimaranta este o plajă lângă Suomenlinna.",
+                  "category": "recreational",
+                  "coords": [
+                        25.021507,
+                        60.135218
+                  ]
+            },
+            {
+                  "name": "Hevossalmen uimaranta",
+                  "text": "Plajă lângă fortăreața Suomenlinna.",
+                  "category": "recreational",
+                  "coords": [
+                        25.040517,
+                        60.162742
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Furuvikin uimaranta",
+                  "text": "Beach near Suomenlinna.",
+                  "category": "recreational",
+                  "coords": [
+                        25.061481,
+                        60.159637
+                  ]
+            },
+            {
+                  "name": "Suomenlinnan uimaranta",
+                  "text": "Beach on the UNESCO World Heritage island of Suomenlinna.",
+                  "category": "recreational",
+                  "coords": [
+                        24.985077,
+                        60.141112
+                  ]
+            },
+            {
+                  "name": "Kuninkaansaaren uimaranta",
+                  "text": "Kuninkaansaaren uimaranta is a beach near Suomenlinna.",
+                  "category": "recreational",
+                  "coords": [
+                        25.021507,
+                        60.135218
+                  ]
+            },
+            {
+                  "name": "Hevossalmen uimaranta",
+                  "text": "Beach near the Suomenlinna fortress.",
+                  "category": "recreational",
+                  "coords": [
+                        25.040517,
+                        60.162742
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "finland",
     coords: [24.9866, 60.145],
@@ -988,7 +2014,52 @@ export const finlandCultureExtended: POI[] = [
     },
   },
   {
-    id: "cult-olavinlinna",
+    id: "cult-olavinlinna", "sights": {
+      "de": [
+            {
+                  "name": "Heikinpohjan uimaranta",
+                  "text": "Heikinpohjan Strand befindet sich beim Schloss Olavinlinna.",
+                  "category": "recreational",
+                  "coords": [
+                        28.857256,
+                        61.86273
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Heikinpohjan uimaranta",
+                  "text": "Heikinpohjan strandja az Olavinlinna-várnál található.",
+                  "category": "recreational",
+                  "coords": [
+                        28.857256,
+                        61.86273
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Heikinpohjan uimaranta",
+                  "text": "Plaja Heikinpohjan este situată lângă castelul Olavinlinna.",
+                  "category": "recreational",
+                  "coords": [
+                        28.857256,
+                        61.86273
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Heikinpohjan uimaranta",
+                  "text": "Heikinpohjan beach is located at the Olavinlinna Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        28.857256,
+                        61.86273
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "finland",
     coords: [28.8783, 61.8628],
@@ -1032,7 +2103,124 @@ export const finlandCultureExtended: POI[] = [
     },
   },
   {
-    id: "cult-sibelius",
+    id: "cult-sibelius", "sights": {
+      "de": [
+            {
+                  "name": "Kalastajatorpan uimaranta",
+                  "text": "Der Kalastajatorpan uimaranta ist ein Strand nahe der Sibelius-Kulturstätten.",
+                  "category": "recreational",
+                  "coords": [
+                        24.871902,
+                        60.193258
+                  ]
+            },
+            {
+                  "name": "Hietaranta",
+                  "text": "Hietaranta ist ein bekannter Strand in der Nähe der Sibelius-Kulturstätten.",
+                  "category": "recreational",
+                  "coords": [
+                        24.905578,
+                        60.173992
+                  ]
+            },
+            {
+                  "name": "Mustasaaren uimaranta",
+                  "text": "Strand in der Nähe der Wirkungsstätte von Sibelius.",
+                  "category": "recreational",
+                  "coords": [
+                        24.86749,
+                        60.171948
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kalastajatorpan uimaranta",
+                  "text": "Kalastajatorpan uimaranta a Sibelius kulturális helyszínek közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        24.871902,
+                        60.193258
+                  ]
+            },
+            {
+                  "name": "Hietaranta",
+                  "text": "Hietaranta egy népszerű strand a Sibelius kulturális helyszínek közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        24.905578,
+                        60.173992
+                  ]
+            },
+            {
+                  "name": "Mustasaaren uimaranta",
+                  "text": "Strand Sibelius egykori lakhelyének közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        24.86749,
+                        60.171948
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kalastajatorpan uimaranta",
+                  "text": "Kalastajatorpan uimaranta este o plajă lângă siturile culturale Sibelius.",
+                  "category": "recreational",
+                  "coords": [
+                        24.871902,
+                        60.193258
+                  ]
+            },
+            {
+                  "name": "Hietaranta",
+                  "text": "Hietaranta este o plajă populară lângă siturile culturale Sibelius.",
+                  "category": "recreational",
+                  "coords": [
+                        24.905578,
+                        60.173992
+                  ]
+            },
+            {
+                  "name": "Mustasaaren uimaranta",
+                  "text": "Plajă în apropierea locului unde a activat Sibelius.",
+                  "category": "recreational",
+                  "coords": [
+                        24.86749,
+                        60.171948
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kalastajatorpan uimaranta",
+                  "text": "Kalastajatorpan uimaranta is a beach near the Sibelius cultural sites.",
+                  "category": "recreational",
+                  "coords": [
+                        24.871902,
+                        60.193258
+                  ]
+            },
+            {
+                  "name": "Hietaranta",
+                  "text": "Hietaranta is a popular beach near the Sibelius cultural sites.",
+                  "category": "recreational",
+                  "coords": [
+                        24.905578,
+                        60.173992
+                  ]
+            },
+            {
+                  "name": "Mustasaaren uimaranta",
+                  "text": "Beach near the site associated with Sibelius.",
+                  "category": "recreational",
+                  "coords": [
+                        24.86749,
+                        60.171948
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "finland",
     coords: [24.9089, 60.181],
@@ -1120,7 +2308,52 @@ export const finlandCultureExtended: POI[] = [
     },
   },
   {
-    id: "hist-hame-castle",
+    id: "hist-hame-castle", "sights": {
+      "de": [
+            {
+                  "name": "Sairion ranta",
+                  "text": "Strand Sairion bei der historischen Burg Häme.",
+                  "category": "recreational",
+                  "coords": [
+                        24.464249,
+                        61.007926
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sairion ranta",
+                  "text": "Sairion strand a történelmi Häme kastély közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        24.464249,
+                        61.007926
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sairion ranta",
+                  "text": "Plaja Sairion lângă castelul istoric Häme.",
+                  "category": "recreational",
+                  "coords": [
+                        24.464249,
+                        61.007926
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sairion ranta",
+                  "text": "Sairion beach near the historical Häme Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        24.464249,
+                        61.007926
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "FI",
     coords: [24.4637, 61.001],
@@ -1164,7 +2397,52 @@ export const finlandCultureExtended: POI[] = [
     },
   },
   {
-    id: "hist-old-rauma",
+    id: "hist-old-rauma", "sights": {
+      "de": [
+            {
+                  "name": "Bergströmin uimaranta",
+                  "text": "Bergströmin uimaranta liegt in der historischen Altstadt von Rauma.",
+                  "category": "recreational",
+                  "coords": [
+                        21.530572,
+                        61.11417
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bergströmin uimaranta",
+                  "text": "Bergströmin uimaranta az ókori Rauma történelmi óvárosában található.",
+                  "category": "recreational",
+                  "coords": [
+                        21.530572,
+                        61.11417
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bergströmin uimaranta",
+                  "text": "Bergströmin uimaranta se află în centrul istoric al orașului Rauma.",
+                  "category": "recreational",
+                  "coords": [
+                        21.530572,
+                        61.11417
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bergströmin uimaranta",
+                  "text": "Bergströmin uimaranta is located in the historical Old Rauma area.",
+                  "category": "recreational",
+                  "coords": [
+                        21.530572,
+                        61.11417
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "FI",
     coords: [21.5148, 61.127],
@@ -1252,7 +2530,52 @@ export const finlandCultureExtended: POI[] = [
     },
   },
   {
-    id: "hist-sammallahdenmaki",
+    id: "hist-sammallahdenmaki", "sights": {
+      "de": [
+            {
+                  "name": "Turajärven uimaranta",
+                  "text": "Turajärven Uimaranta liegt in der Nähe der historischen Stätte Sammallahdenmäki.",
+                  "category": "recreational",
+                  "coords": [
+                        21.900466,
+                        61.13394
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Turajärven uimaranta",
+                  "text": "Turajärven Uimaranta a történelmi Sammallahdenmäki helyszín közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        21.900466,
+                        61.13394
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Turajärven uimaranta",
+                  "text": "Turajärven Uimaranta este situată în apropierea sitului istoric Sammallahdenmäki.",
+                  "category": "recreational",
+                  "coords": [
+                        21.900466,
+                        61.13394
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Turajärven uimaranta",
+                  "text": "Turajärven Uimaranta is near the historical site Sammallahdenmäki.",
+                  "category": "recreational",
+                  "coords": [
+                        21.900466,
+                        61.13394
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "FI",
     coords: [21.8456, 61.1188],
@@ -1384,7 +2707,88 @@ export const finlandCultureExtended: POI[] = [
     },
   },
   {
-    id: "hist-langinkoski-imperial-lodge",
+    id: "hist-langinkoski-imperial-lodge", "sights": {
+      "de": [
+            {
+                  "name": "Kuutsalon santaranta",
+                  "text": "Kuutsalon Santaranta liegt bei der historischen Kaiserlichen Fischerhütte Langinkoski.",
+                  "category": "recreational",
+                  "coords": [
+                        27.033402,
+                        60.457711
+                  ]
+            },
+            {
+                  "name": "Äijänniemen uimaranta",
+                  "text": "Äijänniemi-Badestrand nahe der kaiserlichen Lodge Langinkoski.",
+                  "category": "recreational",
+                  "coords": [
+                        26.987144,
+                        60.494812
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kuutsalon santaranta",
+                  "text": "Kuutsalon Santaranta a történelmi Langinkoski császári halászház közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        27.033402,
+                        60.457711
+                  ]
+            },
+            {
+                  "name": "Äijänniemen uimaranta",
+                  "text": "Äijänniemi strand a Langinkoski Császári Vadászház közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        26.987144,
+                        60.494812
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kuutsalon santaranta",
+                  "text": "Kuutsalon Santaranta se află lângă Cabana Imperială Langinkoski.",
+                  "category": "recreational",
+                  "coords": [
+                        27.033402,
+                        60.457711
+                  ]
+            },
+            {
+                  "name": "Äijänniemen uimaranta",
+                  "text": "Plaja Äijänniemi lângă Cabana Imperială Langinkoski.",
+                  "category": "recreational",
+                  "coords": [
+                        26.987144,
+                        60.494812
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kuutsalon santaranta",
+                  "text": "Kuutsalon Santaranta is near the historical Langinkoski Imperial Fishing Lodge.",
+                  "category": "recreational",
+                  "coords": [
+                        27.033402,
+                        60.457711
+                  ]
+            },
+            {
+                  "name": "Äijänniemen uimaranta",
+                  "text": "Äijänniemi beach near Langinkoski Imperial Lodge.",
+                  "category": "recreational",
+                  "coords": [
+                        26.987144,
+                        60.494812
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "FI",
     coords: [26.958, 60.473],
@@ -1428,7 +2832,52 @@ export const finlandCultureExtended: POI[] = [
     },
   },
   {
-    id: "hist-bomarsund-fortress",
+    id: "hist-bomarsund-fortress", "sights": {
+      "de": [
+            {
+                  "name": "Prästö badstrand",
+                  "text": "Strand Prästö bei der Festung Bomarsund.",
+                  "category": "recreational",
+                  "coords": [
+                        20.249657,
+                        60.208034
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Prästö badstrand",
+                  "text": "Prästö strand a Bomarsund erőd közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        20.249657,
+                        60.208034
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Prästö badstrand",
+                  "text": "Plaja Prästö lângă fortăreața Bomarsund.",
+                  "category": "recreational",
+                  "coords": [
+                        20.249657,
+                        60.208034
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Prästö badstrand",
+                  "text": "Prästö beach near Bomarsund fortress.",
+                  "category": "recreational",
+                  "coords": [
+                        20.249657,
+                        60.208034
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "FI",
     coords: [20.224, 60.217],
@@ -1780,7 +3229,52 @@ export const finlandCultureExtended: POI[] = [
     },
   },
   {
-    id: "landmark-amos-rex",
+    id: "landmark-amos-rex", "sights": {
+      "de": [
+            {
+                  "name": "Veijarivuoren uimaranta",
+                  "text": "Strand bei der Amos Rex Galerie.",
+                  "category": "recreational",
+                  "coords": [
+                        24.882724,
+                        60.146237
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Veijarivuoren uimaranta",
+                  "text": "Strand az Amos Rex galéria közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        24.882724,
+                        60.146237
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Veijarivuoren uimaranta",
+                  "text": "Plajă în apropierea galeriei Amos Rex.",
+                  "category": "recreational",
+                  "coords": [
+                        24.882724,
+                        60.146237
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Veijarivuoren uimaranta",
+                  "text": "Beach near the Amos Rex gallery.",
+                  "category": "recreational",
+                  "coords": [
+                        24.882724,
+                        60.146237
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "FI",
     coords: [24.9319, 60.1689],
@@ -1824,7 +3318,124 @@ export const finlandCultureExtended: POI[] = [
     },
   },
   {
-    id: "port-helsinki",
+    id: "port-helsinki", "sights": {
+      "de": [
+            {
+                  "name": "Pihlajasaaren uimaranta",
+                  "text": "Der Pihlajasaaren uimaranta ist vom Hafen Helsinki erreichbar.",
+                  "category": "recreational",
+                  "coords": [
+                        24.912023,
+                        60.138768
+                  ]
+            },
+            {
+                  "name": "Uunisaaren uimaranta",
+                  "text": "Strand auf der Insel Uunisaari nahe dem Hafen von Helsinki.",
+                  "category": "recreational",
+                  "coords": [
+                        24.952079,
+                        60.152748
+                  ]
+            },
+            {
+                  "name": "Eiran ranta",
+                  "text": "Eiran ranta ist ein beliebter Stadtstrand in Helsinki.",
+                  "category": "recreational",
+                  "coords": [
+                        24.93543,
+                        60.154654
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pihlajasaaren uimaranta",
+                  "text": "Pihlajasaaren uimaranta a Helsinki kikötőből érhető el.",
+                  "category": "recreational",
+                  "coords": [
+                        24.912023,
+                        60.138768
+                  ]
+            },
+            {
+                  "name": "Uunisaaren uimaranta",
+                  "text": "Strand az Uunisaari-szigeten, Helsinki kikötője közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        24.952079,
+                        60.152748
+                  ]
+            },
+            {
+                  "name": "Eiran ranta",
+                  "text": "Az Eiran ranta egy népszerű városi strand Helsinkiben.",
+                  "category": "recreational",
+                  "coords": [
+                        24.93543,
+                        60.154654
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pihlajasaaren uimaranta",
+                  "text": "Pihlajasaaren uimaranta este accesibil din portul Helsinki.",
+                  "category": "recreational",
+                  "coords": [
+                        24.912023,
+                        60.138768
+                  ]
+            },
+            {
+                  "name": "Uunisaaren uimaranta",
+                  "text": "Plajă pe insula Uunisaari, lângă portul Helsinki.",
+                  "category": "recreational",
+                  "coords": [
+                        24.952079,
+                        60.152748
+                  ]
+            },
+            {
+                  "name": "Eiran ranta",
+                  "text": "Eiran ranta este o plajă urbană populară în Helsinki.",
+                  "category": "recreational",
+                  "coords": [
+                        24.93543,
+                        60.154654
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pihlajasaaren uimaranta",
+                  "text": "Pihlajasaaren uimaranta is accessible from the Port of Helsinki.",
+                  "category": "recreational",
+                  "coords": [
+                        24.912023,
+                        60.138768
+                  ]
+            },
+            {
+                  "name": "Uunisaaren uimaranta",
+                  "text": "Beach on the island of Uunisaari near Helsinki port.",
+                  "category": "recreational",
+                  "coords": [
+                        24.952079,
+                        60.152748
+                  ]
+            },
+            {
+                  "name": "Eiran ranta",
+                  "text": "Eiran ranta is a popular city beach in Helsinki.",
+                  "category": "recreational",
+                  "coords": [
+                        24.93543,
+                        60.154654
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "FI",
     coords: [24.955, 60.153],
@@ -1868,7 +3479,160 @@ export const finlandCultureExtended: POI[] = [
     },
   },
   {
-    id: "port-turku",
+    id: "port-turku", "sights": {
+      "de": [
+            {
+                  "name": "Kansanpuiston uimaranta",
+                  "text": "Kansanpuiston uimaranta liegt in der Nähe des Hafens Turku.",
+                  "category": "recreational",
+                  "coords": [
+                        22.182928,
+                        60.426604
+                  ]
+            },
+            {
+                  "name": "Sorttamäen uimaranta",
+                  "text": "Sorttamäen uimaranta ist ein Strand nahe dem Hafen von Turku.",
+                  "category": "recreational",
+                  "coords": [
+                        22.254857,
+                        60.408733
+                  ]
+            },
+            {
+                  "name": "Kaarle Knuutinpojan ranta",
+                  "text": "Badestrand Kaarle Knuutinpojan in der Nähe von Port Turku.",
+                  "category": "recreational",
+                  "coords": [
+                        22.229821,
+                        60.431894
+                  ]
+            },
+            {
+                  "name": "Illoistenjärven uimaranta",
+                  "text": "Ein Strand am Illoistenjärvi in der Nähe von Turku.",
+                  "category": "recreational",
+                  "coords": [
+                        22.198131,
+                        60.404565
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kansanpuiston uimaranta",
+                  "text": "Kansanpuiston uimaranta Turku kikötőjének közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        22.182928,
+                        60.426604
+                  ]
+            },
+            {
+                  "name": "Sorttamäen uimaranta",
+                  "text": "Sorttamäen uimaranta egy strand Turku kikötőjének közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        22.254857,
+                        60.408733
+                  ]
+            },
+            {
+                  "name": "Kaarle Knuutinpojan ranta",
+                  "text": "Kaarle Knuutinpojan strand Port Turku közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        22.229821,
+                        60.431894
+                  ]
+            },
+            {
+                  "name": "Illoistenjärven uimaranta",
+                  "text": "Strand az Illoistenjärvi tónál, Turku közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        22.198131,
+                        60.404565
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kansanpuiston uimaranta",
+                  "text": "Kansanpuiston uimaranta se află lângă portul Turku.",
+                  "category": "recreational",
+                  "coords": [
+                        22.182928,
+                        60.426604
+                  ]
+            },
+            {
+                  "name": "Sorttamäen uimaranta",
+                  "text": "Sorttamäen uimaranta este o plajă situată lângă portul Turku.",
+                  "category": "recreational",
+                  "coords": [
+                        22.254857,
+                        60.408733
+                  ]
+            },
+            {
+                  "name": "Kaarle Knuutinpojan ranta",
+                  "text": "Plaja Kaarle Knuutinpojan lângă Port Turku.",
+                  "category": "recreational",
+                  "coords": [
+                        22.229821,
+                        60.431894
+                  ]
+            },
+            {
+                  "name": "Illoistenjärven uimaranta",
+                  "text": "O plajă la lacul Illoistenjärvi lângă Turku.",
+                  "category": "recreational",
+                  "coords": [
+                        22.198131,
+                        60.404565
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kansanpuiston uimaranta",
+                  "text": "Kansanpuiston uimaranta is near the port of Turku.",
+                  "category": "recreational",
+                  "coords": [
+                        22.182928,
+                        60.426604
+                  ]
+            },
+            {
+                  "name": "Sorttamäen uimaranta",
+                  "text": "Sorttamäen uimaranta is a beach near Port Turku.",
+                  "category": "recreational",
+                  "coords": [
+                        22.254857,
+                        60.408733
+                  ]
+            },
+            {
+                  "name": "Kaarle Knuutinpojan ranta",
+                  "text": "Kaarle Knuutinpojan beach near Port Turku.",
+                  "category": "recreational",
+                  "coords": [
+                        22.229821,
+                        60.431894
+                  ]
+            },
+            {
+                  "name": "Illoistenjärven uimaranta",
+                  "text": "A beach at Illoistenjärvi lake near Turku.",
+                  "category": "recreational",
+                  "coords": [
+                        22.198131,
+                        60.404565
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "FI",
     coords: [22.225, 60.437],
@@ -1912,7 +3676,52 @@ export const finlandCultureExtended: POI[] = [
     },
   },
   {
-    id: "port-kotka",
+    id: "port-kotka", "sights": {
+      "de": [
+            {
+                  "name": "Mansikkalahti",
+                  "text": "Mansikkalahti ist ein Strand in der Nähe des Hafens Kotka.",
+                  "category": "recreational",
+                  "coords": [
+                        26.946838,
+                        60.451191
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mansikkalahti",
+                  "text": "Mansikkalahti egy strand Kotka kikötője közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        26.946838,
+                        60.451191
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mansikkalahti",
+                  "text": "Mansikkalahti este o plajă lângă portul Kotka.",
+                  "category": "recreational",
+                  "coords": [
+                        26.946838,
+                        60.451191
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mansikkalahti",
+                  "text": "Mansikkalahti is a beach near the port of Kotka.",
+                  "category": "recreational",
+                  "coords": [
+                        26.946838,
+                        60.451191
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "FI",
     coords: [26.949, 60.46],
@@ -1956,7 +3765,52 @@ export const finlandCultureExtended: POI[] = [
     },
   },
   {
-    id: "port-hanko",
+    id: "port-hanko", "sights": {
+      "de": [
+            {
+                  "name": "Slaktiksen uimaranta",
+                  "text": "Strand Slaktis in Hanko.",
+                  "category": "recreational",
+                  "coords": [
+                        22.925942,
+                        59.831834
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Slaktiksen uimaranta",
+                  "text": "Slaktis strand Hankóban.",
+                  "category": "recreational",
+                  "coords": [
+                        22.925942,
+                        59.831834
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Slaktiksen uimaranta",
+                  "text": "Plaja Slaktis din Hanko.",
+                  "category": "recreational",
+                  "coords": [
+                        22.925942,
+                        59.831834
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Slaktiksen uimaranta",
+                  "text": "Slaktis beach in Hanko.",
+                  "category": "recreational",
+                  "coords": [
+                        22.925942,
+                        59.831834
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "FI",
     coords: [22.966, 59.829],
@@ -2000,7 +3854,52 @@ export const finlandCultureExtended: POI[] = [
     },
   },
   {
-    id: "industry-neste-porvoo-refinery",
+    id: "industry-neste-porvoo-refinery", "sights": {
+      "de": [
+            {
+                  "name": "Tervajärven uimaranta",
+                  "text": "Der Tervajärven uimaranta liegt in der Nähe der Neste-Raffinerie Porvoo.",
+                  "category": "recreational",
+                  "coords": [
+                        25.742367,
+                        60.389304
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tervajärven uimaranta",
+                  "text": "Tervajärven uimaranta a Neste Porvoo finomító közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        25.742367,
+                        60.389304
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tervajärven uimaranta",
+                  "text": "Tervajärven uimaranta se află lângă rafinăria Neste Porvoo.",
+                  "category": "recreational",
+                  "coords": [
+                        25.742367,
+                        60.389304
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tervajärven uimaranta",
+                  "text": "Tervajärven uimaranta is near the Neste Porvoo refinery.",
+                  "category": "recreational",
+                  "coords": [
+                        25.742367,
+                        60.389304
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "FI",
     coords: [25.675, 60.389],
@@ -2044,7 +3943,52 @@ export const finlandCultureExtended: POI[] = [
     },
   },
   {
-    id: "industry-aanekoski-bioproduct-mill",
+    id: "industry-aanekoski-bioproduct-mill", "sights": {
+      "de": [
+            {
+                  "name": "Kovalan uimaranta",
+                  "text": "Kovalan Strand liegt nahe der Bioprodukt-Mühle in Äänekoski.",
+                  "category": "recreational",
+                  "coords": [
+                        25.797493,
+                        62.608807
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kovalan uimaranta",
+                  "text": "Kovalan strandja az äänekoski biogyár közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        25.797493,
+                        62.608807
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kovalan uimaranta",
+                  "text": "Plaja Kovalan este situată lângă fabrica de bioproduse din Äänekoski.",
+                  "category": "recreational",
+                  "coords": [
+                        25.797493,
+                        62.608807
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kovalan uimaranta",
+                  "text": "Kovalan beach is located near the Äänekoski Bioproduct Mill.",
+                  "category": "recreational",
+                  "coords": [
+                        25.797493,
+                        62.608807
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "FI",
     coords: [25.816, 62.596],
@@ -2264,7 +4208,52 @@ export const finlandCultureExtended: POI[] = [
     },
   },
   {
-    id: "nat-kemijoki",
+    id: "nat-kemijoki", "sights": {
+      "de": [
+            {
+                  "name": "Hirttiönniemi",
+                  "text": "Hirttiönniemi liegt in der Nähe des Kemijoki.",
+                  "category": "recreational",
+                  "coords": [
+                        25.709248,
+                        66.479672
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hirttiönniemi",
+                  "text": "Hirttiönniemi a Kemijoki folyó közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        25.709248,
+                        66.479672
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hirttiönniemi",
+                  "text": "Hirttiönniemi este situat în apropierea râului Kemijoki.",
+                  "category": "recreational",
+                  "coords": [
+                        25.709248,
+                        66.479672
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hirttiönniemi",
+                  "text": "Hirttiönniemi is located near the Kemijoki river.",
+                  "category": "recreational",
+                  "coords": [
+                        25.709248,
+                        66.479672
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "FI",
     coords: [25.72, 66.5],
@@ -2531,7 +4520,268 @@ export const finlandNatureExtended: POI[] = [
     },
   },
   {
-    id: "city-mariehamn",
+    id: "city-mariehamn", "sights": {
+      "de": [
+            {
+                  "name": "Nabbenbadet",
+                  "text": "Nabbenbadet Strand liegt in der Stadt Mariehamn.",
+                  "category": "recreational",
+                  "coords": [
+                        19.956155,
+                        60.114796
+                  ]
+            },
+            {
+                  "name": "Småholma badstrand",
+                  "text": "Småholma badstrand ist ein Strand in der Nähe von Mariehamn.",
+                  "category": "recreational",
+                  "coords": [
+                        19.885049,
+                        60.101199
+                  ]
+            },
+            {
+                  "name": "Solbergets badstrand",
+                  "text": "Solbergets badstrand ist ein Strand in Mariehamn.",
+                  "category": "recreational",
+                  "coords": [
+                        19.970715,
+                        60.11439
+                  ]
+            },
+            {
+                  "name": "Algrundet",
+                  "text": "Algrundet ist ein Strand in Mariehamn.",
+                  "category": "recreational",
+                  "coords": [
+                        19.964633,
+                        60.085363
+                  ]
+            },
+            {
+                  "name": "Gröna uddens badstrand",
+                  "text": "Gröna uddens badstrand ist ein Strand in Mariehamn.",
+                  "category": "recreational",
+                  "coords": [
+                        19.954376,
+                        60.091511
+                  ]
+            },
+            {
+                  "name": "Lilla Holmens badstand",
+                  "text": "Lilla Holmens badstrand ist ein Strand in Mariehamn.",
+                  "category": "recreational",
+                  "coords": [
+                        19.952443,
+                        60.096007
+                  ]
+            },
+            {
+                  "name": "Mariebad strand",
+                  "text": "Mariebad strand ist ein Strand in Mariehamn.",
+                  "category": "recreational",
+                  "coords": [
+                        19.945302,
+                        60.107795
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nabbenbadet",
+                  "text": "Nabbenbadet strandja Mariehamn városában található.",
+                  "category": "recreational",
+                  "coords": [
+                        19.956155,
+                        60.114796
+                  ]
+            },
+            {
+                  "name": "Småholma badstrand",
+                  "text": "A Småholma badstrand egy strand Mariehamn közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        19.885049,
+                        60.101199
+                  ]
+            },
+            {
+                  "name": "Solbergets badstrand",
+                  "text": "A Solbergets badstrand egy strand Mariehamn városában.",
+                  "category": "recreational",
+                  "coords": [
+                        19.970715,
+                        60.11439
+                  ]
+            },
+            {
+                  "name": "Algrundet",
+                  "text": "Az Algrundet egy strand Mariehamn városában.",
+                  "category": "recreational",
+                  "coords": [
+                        19.964633,
+                        60.085363
+                  ]
+            },
+            {
+                  "name": "Gröna uddens badstrand",
+                  "text": "A Gröna uddens badstrand egy strand Mariehamnban.",
+                  "category": "recreational",
+                  "coords": [
+                        19.954376,
+                        60.091511
+                  ]
+            },
+            {
+                  "name": "Lilla Holmens badstand",
+                  "text": "A Lilla Holmens badstrand egy strand Mariehamnban.",
+                  "category": "recreational",
+                  "coords": [
+                        19.952443,
+                        60.096007
+                  ]
+            },
+            {
+                  "name": "Mariebad strand",
+                  "text": "A Mariebad strand egy strand Mariehamnban.",
+                  "category": "recreational",
+                  "coords": [
+                        19.945302,
+                        60.107795
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nabbenbadet",
+                  "text": "Plaja Nabbenbadet este situată în orașul Mariehamn.",
+                  "category": "recreational",
+                  "coords": [
+                        19.956155,
+                        60.114796
+                  ]
+            },
+            {
+                  "name": "Småholma badstrand",
+                  "text": "Småholma badstrand este o plajă lângă Mariehamn.",
+                  "category": "recreational",
+                  "coords": [
+                        19.885049,
+                        60.101199
+                  ]
+            },
+            {
+                  "name": "Solbergets badstrand",
+                  "text": "Solbergets badstrand este o plajă situată în Mariehamn.",
+                  "category": "recreational",
+                  "coords": [
+                        19.970715,
+                        60.11439
+                  ]
+            },
+            {
+                  "name": "Algrundet",
+                  "text": "Algrundet este o plajă în Mariehamn.",
+                  "category": "recreational",
+                  "coords": [
+                        19.964633,
+                        60.085363
+                  ]
+            },
+            {
+                  "name": "Gröna uddens badstrand",
+                  "text": "Gröna uddens badstrand este o plajă în Mariehamn.",
+                  "category": "recreational",
+                  "coords": [
+                        19.954376,
+                        60.091511
+                  ]
+            },
+            {
+                  "name": "Lilla Holmens badstand",
+                  "text": "Lilla Holmens badstrand este o plajă în Mariehamn.",
+                  "category": "recreational",
+                  "coords": [
+                        19.952443,
+                        60.096007
+                  ]
+            },
+            {
+                  "name": "Mariebad strand",
+                  "text": "Mariebad strand este o plajă în Mariehamn.",
+                  "category": "recreational",
+                  "coords": [
+                        19.945302,
+                        60.107795
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nabbenbadet",
+                  "text": "Nabbenbadet beach is located in the town of Mariehamn.",
+                  "category": "recreational",
+                  "coords": [
+                        19.956155,
+                        60.114796
+                  ]
+            },
+            {
+                  "name": "Småholma badstrand",
+                  "text": "Småholma badstrand is a beach near Mariehamn.",
+                  "category": "recreational",
+                  "coords": [
+                        19.885049,
+                        60.101199
+                  ]
+            },
+            {
+                  "name": "Solbergets badstrand",
+                  "text": "Solbergets badstrand is a beach in Mariehamn.",
+                  "category": "recreational",
+                  "coords": [
+                        19.970715,
+                        60.11439
+                  ]
+            },
+            {
+                  "name": "Algrundet",
+                  "text": "Algrundet is a beach in Mariehamn.",
+                  "category": "recreational",
+                  "coords": [
+                        19.964633,
+                        60.085363
+                  ]
+            },
+            {
+                  "name": "Gröna uddens badstrand",
+                  "text": "Gröna uddens badstrand is a beach in Mariehamn.",
+                  "category": "recreational",
+                  "coords": [
+                        19.954376,
+                        60.091511
+                  ]
+            },
+            {
+                  "name": "Lilla Holmens badstand",
+                  "text": "Lilla Holmens badstrand is a beach in Mariehamn.",
+                  "category": "recreational",
+                  "coords": [
+                        19.952443,
+                        60.096007
+                  ]
+            },
+            {
+                  "name": "Mariebad strand",
+                  "text": "Mariebad strand is a beach in Mariehamn.",
+                  "category": "recreational",
+                  "coords": [
+                        19.945302,
+                        60.107795
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "reg-aland-fi",
     coords: [19.9475, 60.0973],
@@ -2575,7 +4825,196 @@ export const finlandNatureExtended: POI[] = [
     },
   },
   {
-    id: "city-lohja",
+    id: "city-lohja", "sights": {
+      "de": [
+            {
+                  "name": "Paloniemen Uimaranta",
+                  "text": "Paloniemen Uimaranta ist ein Strand bei Lohja.",
+                  "category": "recreational",
+                  "coords": [
+                        24.009161,
+                        60.26671
+                  ]
+            },
+            {
+                  "name": "Vivamon uimaranta",
+                  "text": "Vivamon uimaranta ist ein Strand in Lohja.",
+                  "category": "recreational",
+                  "coords": [
+                        24.006639,
+                        60.231788
+                  ]
+            },
+            {
+                  "name": "Aurlahden uimaranta",
+                  "text": "Aurlahden Badestrand in Lohja.",
+                  "category": "recreational",
+                  "coords": [
+                        24.053508,
+                        60.248141
+                  ]
+            },
+            {
+                  "name": "Moision uimaranta",
+                  "text": "Uferbereich in Lohja.",
+                  "category": "recreational",
+                  "coords": [
+                        24.07925,
+                        60.26075
+                  ]
+            },
+            {
+                  "name": "Liessaaren uimaranta",
+                  "text": "Liessaaren uimaranta ist ein Strand bei Lohja.",
+                  "category": "recreational",
+                  "coords": [
+                        24.022237,
+                        60.245209
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Paloniemen Uimaranta",
+                  "text": "Paloniemen Uimaranta egy strand Lohja közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        24.009161,
+                        60.26671
+                  ]
+            },
+            {
+                  "name": "Vivamon uimaranta",
+                  "text": "A Vivamon uimaranta egy strand Lohja városában.",
+                  "category": "recreational",
+                  "coords": [
+                        24.006639,
+                        60.231788
+                  ]
+            },
+            {
+                  "name": "Aurlahden uimaranta",
+                  "text": "Aurlahden strand Lohjában.",
+                  "category": "recreational",
+                  "coords": [
+                        24.053508,
+                        60.248141
+                  ]
+            },
+            {
+                  "name": "Moision uimaranta",
+                  "text": "Vízparti terület Lohjában.",
+                  "category": "recreational",
+                  "coords": [
+                        24.07925,
+                        60.26075
+                  ]
+            },
+            {
+                  "name": "Liessaaren uimaranta",
+                  "text": "A Liessaaren uimaranta egy strand Lohja közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        24.022237,
+                        60.245209
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Paloniemen Uimaranta",
+                  "text": "Paloniemen Uimaranta este o plajă lângă Lohja.",
+                  "category": "recreational",
+                  "coords": [
+                        24.009161,
+                        60.26671
+                  ]
+            },
+            {
+                  "name": "Vivamon uimaranta",
+                  "text": "Vivamon uimaranta este o plajă în Lohja.",
+                  "category": "recreational",
+                  "coords": [
+                        24.006639,
+                        60.231788
+                  ]
+            },
+            {
+                  "name": "Aurlahden uimaranta",
+                  "text": "Plaja Aurlahden din Lohja.",
+                  "category": "recreational",
+                  "coords": [
+                        24.053508,
+                        60.248141
+                  ]
+            },
+            {
+                  "name": "Moision uimaranta",
+                  "text": "Zonă de țărm în Lohja.",
+                  "category": "recreational",
+                  "coords": [
+                        24.07925,
+                        60.26075
+                  ]
+            },
+            {
+                  "name": "Liessaaren uimaranta",
+                  "text": "Liessaaren uimaranta este o plajă lângă Lohja.",
+                  "category": "recreational",
+                  "coords": [
+                        24.022237,
+                        60.245209
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Paloniemen Uimaranta",
+                  "text": "Paloniemen Uimaranta is a beach near Lohja.",
+                  "category": "recreational",
+                  "coords": [
+                        24.009161,
+                        60.26671
+                  ]
+            },
+            {
+                  "name": "Vivamon uimaranta",
+                  "text": "Vivamon uimaranta is a beach in Lohja.",
+                  "category": "recreational",
+                  "coords": [
+                        24.006639,
+                        60.231788
+                  ]
+            },
+            {
+                  "name": "Aurlahden uimaranta",
+                  "text": "Aurlahden beach in Lohja.",
+                  "category": "recreational",
+                  "coords": [
+                        24.053508,
+                        60.248141
+                  ]
+            },
+            {
+                  "name": "Moision uimaranta",
+                  "text": "Shore area in Lohja.",
+                  "category": "recreational",
+                  "coords": [
+                        24.07925,
+                        60.26075
+                  ]
+            },
+            {
+                  "name": "Liessaaren uimaranta",
+                  "text": "Liessaaren uimaranta is a beach near Lohja.",
+                  "category": "recreational",
+                  "coords": [
+                        24.022237,
+                        60.245209
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "reg-uusimaa-fi",
     coords: [24.0650, 60.2486],
@@ -2619,7 +5058,88 @@ export const finlandNatureExtended: POI[] = [
     },
   },
   {
-    id: "city-naantali",
+    id: "city-naantali", "sights": {
+      "de": [
+            {
+                  "name": "Maanpään uimaranta",
+                  "text": "Maanpään uimaranta ist ein Strand bei Naantali.",
+                  "category": "recreational",
+                  "coords": [
+                        21.986182,
+                        60.504099
+                  ]
+            },
+            {
+                  "name": "Nunnalahden uimaranta",
+                  "text": "Nunnalahden uimaranta ist ein Strand in der Nähe von Naantali.",
+                  "category": "recreational",
+                  "coords": [
+                        22.014821,
+                        60.472548
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maanpään uimaranta",
+                  "text": "Maanpään uimaranta egy strand Naantali közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        21.986182,
+                        60.504099
+                  ]
+            },
+            {
+                  "name": "Nunnalahden uimaranta",
+                  "text": "A Nunnalahden uimaranta egy strand Naantali közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        22.014821,
+                        60.472548
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maanpään uimaranta",
+                  "text": "Maanpään uimaranta este o plajă lângă Naantali.",
+                  "category": "recreational",
+                  "coords": [
+                        21.986182,
+                        60.504099
+                  ]
+            },
+            {
+                  "name": "Nunnalahden uimaranta",
+                  "text": "Nunnalahden uimaranta este o plajă lângă Naantali.",
+                  "category": "recreational",
+                  "coords": [
+                        22.014821,
+                        60.472548
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maanpään uimaranta",
+                  "text": "Maanpään uimaranta is a beach near Naantali.",
+                  "category": "recreational",
+                  "coords": [
+                        21.986182,
+                        60.504099
+                  ]
+            },
+            {
+                  "name": "Nunnalahden uimaranta",
+                  "text": "Nunnalahden uimaranta is a beach near Naantali.",
+                  "category": "recreational",
+                  "coords": [
+                        22.014821,
+                        60.472548
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "reg-southwest-finland-fi",
     coords: [22.0260, 60.4676],
@@ -2707,7 +5227,88 @@ export const finlandNatureExtended: POI[] = [
     },
   },
   {
-    id: "city-pori",
+    id: "city-pori", "sights": {
+      "de": [
+            {
+                  "name": "Raatimiehenranta",
+                  "text": "Strand in Pori.",
+                  "category": "recreational",
+                  "coords": [
+                        21.790554,
+                        61.491722
+                  ]
+            },
+            {
+                  "name": "Kukkulankallion uimaranta",
+                  "text": "Strand in Pori.",
+                  "category": "recreational",
+                  "coords": [
+                        21.876981,
+                        61.505285
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Raatimiehenranta",
+                  "text": "Strand Poriban.",
+                  "category": "recreational",
+                  "coords": [
+                        21.790554,
+                        61.491722
+                  ]
+            },
+            {
+                  "name": "Kukkulankallion uimaranta",
+                  "text": "Strand Poriban.",
+                  "category": "recreational",
+                  "coords": [
+                        21.876981,
+                        61.505285
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Raatimiehenranta",
+                  "text": "Plajă în Pori.",
+                  "category": "recreational",
+                  "coords": [
+                        21.790554,
+                        61.491722
+                  ]
+            },
+            {
+                  "name": "Kukkulankallion uimaranta",
+                  "text": "Plajă în Pori.",
+                  "category": "recreational",
+                  "coords": [
+                        21.876981,
+                        61.505285
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Raatimiehenranta",
+                  "text": "Beach in Pori.",
+                  "category": "recreational",
+                  "coords": [
+                        21.790554,
+                        61.491722
+                  ]
+            },
+            {
+                  "name": "Kukkulankallion uimaranta",
+                  "text": "Beach in Pori.",
+                  "category": "recreational",
+                  "coords": [
+                        21.876981,
+                        61.505285
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "reg-satakunta-fi",
     coords: [21.7970, 61.4850],
@@ -2839,7 +5440,88 @@ export const finlandNatureExtended: POI[] = [
     },
   },
   {
-    id: "city-valkeakoski",
+    id: "city-valkeakoski", "sights": {
+      "de": [
+            {
+                  "name": "Kirjaslammen uimala",
+                  "text": "Kirjaslammen Uimala ist ein Badeplatz in Valkeakoski.",
+                  "category": "recreational",
+                  "coords": [
+                        24.040539,
+                        61.27276
+                  ]
+            },
+            {
+                  "name": "Lotilanjärven uimaranta",
+                  "text": "Lotilanjärven uimaranta ist ein Strand in Valkeakoski.",
+                  "category": "recreational",
+                  "coords": [
+                        24.005709,
+                        61.279007
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kirjaslammen uimala",
+                  "text": "A Kirjaslammen Uimala egy fürdőhely Valkeakoskiban.",
+                  "category": "recreational",
+                  "coords": [
+                        24.040539,
+                        61.27276
+                  ]
+            },
+            {
+                  "name": "Lotilanjärven uimaranta",
+                  "text": "Lotilanjärven uimaranta egy strand Valkeakoski városában.",
+                  "category": "recreational",
+                  "coords": [
+                        24.005709,
+                        61.279007
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kirjaslammen uimala",
+                  "text": "Kirjaslammen Uimala este un loc de scăldat în Valkeakoski.",
+                  "category": "recreational",
+                  "coords": [
+                        24.040539,
+                        61.27276
+                  ]
+            },
+            {
+                  "name": "Lotilanjärven uimaranta",
+                  "text": "Lotilanjärven uimaranta este o plajă situată în Valkeakoski.",
+                  "category": "recreational",
+                  "coords": [
+                        24.005709,
+                        61.279007
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kirjaslammen uimala",
+                  "text": "Kirjaslammen Uimala is a bathing place in Valkeakoski.",
+                  "category": "recreational",
+                  "coords": [
+                        24.040539,
+                        61.27276
+                  ]
+            },
+            {
+                  "name": "Lotilanjärven uimaranta",
+                  "text": "Lotilanjärven uimaranta is a beach in Valkeakoski.",
+                  "category": "recreational",
+                  "coords": [
+                        24.005709,
+                        61.279007
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "reg-pirkanmaa-fi",
     coords: [24.0330, 61.2640],
@@ -2883,7 +5565,88 @@ export const finlandNatureExtended: POI[] = [
     },
   },
   {
-    id: "city-heinola",
+    id: "city-heinola", "sights": {
+      "de": [
+            {
+                  "name": "Uudenriihenlammen uimaranta",
+                  "text": "Strand in Heinola.",
+                  "category": "recreational",
+                  "coords": [
+                        26.051991,
+                        61.222391
+                  ]
+            },
+            {
+                  "name": "Tommolan uimaranta",
+                  "text": "Strand in Heinola.",
+                  "category": "recreational",
+                  "coords": [
+                        26.048498,
+                        61.193726
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Uudenriihenlammen uimaranta",
+                  "text": "Strand Heinolában.",
+                  "category": "recreational",
+                  "coords": [
+                        26.051991,
+                        61.222391
+                  ]
+            },
+            {
+                  "name": "Tommolan uimaranta",
+                  "text": "Strand Heinolában.",
+                  "category": "recreational",
+                  "coords": [
+                        26.048498,
+                        61.193726
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Uudenriihenlammen uimaranta",
+                  "text": "Plajă în Heinola.",
+                  "category": "recreational",
+                  "coords": [
+                        26.051991,
+                        61.222391
+                  ]
+            },
+            {
+                  "name": "Tommolan uimaranta",
+                  "text": "Plajă în Heinola.",
+                  "category": "recreational",
+                  "coords": [
+                        26.048498,
+                        61.193726
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Uudenriihenlammen uimaranta",
+                  "text": "Beach in Heinola.",
+                  "category": "recreational",
+                  "coords": [
+                        26.051991,
+                        61.222391
+                  ]
+            },
+            {
+                  "name": "Tommolan uimaranta",
+                  "text": "Beach in Heinola.",
+                  "category": "recreational",
+                  "coords": [
+                        26.048498,
+                        61.193726
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "reg-paijanne-tavastia-fi",
     coords: [26.0450, 61.2020],
@@ -2927,7 +5690,88 @@ export const finlandNatureExtended: POI[] = [
     },
   },
   {
-    id: "city-mikkeli",
+    id: "city-mikkeli", "sights": {
+      "de": [
+            {
+                  "name": "Orijärvi (Mikkeli Rantakylä)",
+                  "text": "Der Strand Orijärvi befindet sich in der Gegend Rantakylä in Mikkeli.",
+                  "category": "recreational",
+                  "coords": [
+                        27.207591,
+                        61.664584
+                  ]
+            },
+            {
+                  "name": "Pitkäjärven uimaranta",
+                  "text": "Pitkäjärven uimaranta ist ein Strand in der Nähe von Mikkeli.",
+                  "category": "recreational",
+                  "coords": [
+                        27.247889,
+                        61.674467
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Orijärvi (Mikkeli Rantakylä)",
+                  "text": "Az Orijärvi strand Mikkeli Rantakylä negyedében található.",
+                  "category": "recreational",
+                  "coords": [
+                        27.207591,
+                        61.664584
+                  ]
+            },
+            {
+                  "name": "Pitkäjärven uimaranta",
+                  "text": "A Pitkäjärven uimaranta egy strand Mikkeli közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        27.247889,
+                        61.674467
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Orijärvi (Mikkeli Rantakylä)",
+                  "text": "Plaja Orijärvi este situată în zona Rantakylä din Mikkeli.",
+                  "category": "recreational",
+                  "coords": [
+                        27.207591,
+                        61.664584
+                  ]
+            },
+            {
+                  "name": "Pitkäjärven uimaranta",
+                  "text": "Pitkäjärven uimaranta este o plajă lângă Mikkeli.",
+                  "category": "recreational",
+                  "coords": [
+                        27.247889,
+                        61.674467
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Orijärvi (Mikkeli Rantakylä)",
+                  "text": "Orijärvi beach is located in the Rantakylä area of Mikkeli.",
+                  "category": "recreational",
+                  "coords": [
+                        27.207591,
+                        61.664584
+                  ]
+            },
+            {
+                  "name": "Pitkäjärven uimaranta",
+                  "text": "Pitkäjärven uimaranta is a beach near Mikkeli.",
+                  "category": "recreational",
+                  "coords": [
+                        27.247889,
+                        61.674467
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "reg-south-savo-fi",
     coords: [27.2730, 61.6870],
@@ -3103,7 +5947,52 @@ export const finlandNatureExtended: POI[] = [
     },
   },
   {
-    id: "city-nurmes",
+    id: "city-nurmes", "sights": {
+      "de": [
+            {
+                  "name": "Sataman uimaranta",
+                  "text": "Badestrand Sataman in Nurmes.",
+                  "category": "recreational",
+                  "coords": [
+                        29.132836,
+                        63.541411
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sataman uimaranta",
+                  "text": "Sataman strand Nurmesban.",
+                  "category": "recreational",
+                  "coords": [
+                        29.132836,
+                        63.541411
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sataman uimaranta",
+                  "text": "Plaja Sataman din Nurmes.",
+                  "category": "recreational",
+                  "coords": [
+                        29.132836,
+                        63.541411
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sataman uimaranta",
+                  "text": "Sataman beach in Nurmes.",
+                  "category": "recreational",
+                  "coords": [
+                        29.132836,
+                        63.541411
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "reg-north-karelia-fi",
     coords: [29.1410, 63.5420],
@@ -3235,7 +6124,268 @@ export const finlandNatureExtended: POI[] = [
     },
   },
   {
-    id: "kid-sarkanniemi",
+    id: "kid-sarkanniemi", "sights": {
+      "de": [
+            {
+                  "name": "Tahmelan uimaranta",
+                  "text": "Strand in der Nähe von Särkänniemi.",
+                  "category": "recreational",
+                  "coords": [
+                        23.708293,
+                        61.500096
+                  ]
+            },
+            {
+                  "name": "Pyynikin läntinen uimaranta",
+                  "text": "Strand in der Nähe von Särkänniemi.",
+                  "category": "recreational",
+                  "coords": [
+                        23.730285,
+                        61.49123
+                  ]
+            },
+            {
+                  "name": "Rosendahlinranta",
+                  "text": "Der Rosendahlinranta Strand befindet sich in der Nähe von Kid Sarkanniemi.",
+                  "category": "recreational",
+                  "coords": [
+                        23.735153,
+                        61.491308
+                  ]
+            },
+            {
+                  "name": "Rantaperkiön uimaranta",
+                  "text": "Rantaperkiön uimaranta ist ein Strand nahe dem Sarkanniemi Park.",
+                  "category": "recreational",
+                  "coords": [
+                        23.745698,
+                        61.472769
+                  ]
+            },
+            {
+                  "name": "Elianderin uimaranta",
+                  "text": "Elianderin uimaranta liegt nahe dem Sarkanniemi Park.",
+                  "category": "recreational",
+                  "coords": [
+                        23.732568,
+                        61.503369
+                  ]
+            },
+            {
+                  "name": "Loukonlahden uimaranta",
+                  "text": "Loukonlahden uimaranta ist ein Strand in der Nähe von Tampere.",
+                  "category": "recreational",
+                  "coords": [
+                        23.680628,
+                        61.474342
+                  ]
+            },
+            {
+                  "name": "Koirien uimaranta",
+                  "text": "Hundestrand nahe Särkänniemi.",
+                  "category": "recreational",
+                  "coords": [
+                        23.726907,
+                        61.504112
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tahmelan uimaranta",
+                  "text": "Strand a Särkänniemi közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        23.708293,
+                        61.500096
+                  ]
+            },
+            {
+                  "name": "Pyynikin läntinen uimaranta",
+                  "text": "Strand a Särkänniemi közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        23.730285,
+                        61.49123
+                  ]
+            },
+            {
+                  "name": "Rosendahlinranta",
+                  "text": "A Rosendahlinranta strand Kid Sarkanniemi közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        23.735153,
+                        61.491308
+                  ]
+            },
+            {
+                  "name": "Rantaperkiön uimaranta",
+                  "text": "Rantaperkiön uimaranta egy strand a Sarkanniemi park közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        23.745698,
+                        61.472769
+                  ]
+            },
+            {
+                  "name": "Elianderin uimaranta",
+                  "text": "Elianderin uimaranta a Sarkanniemi park közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        23.732568,
+                        61.503369
+                  ]
+            },
+            {
+                  "name": "Loukonlahden uimaranta",
+                  "text": "A Loukonlahden uimaranta egy strand Tampere közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        23.680628,
+                        61.474342
+                  ]
+            },
+            {
+                  "name": "Koirien uimaranta",
+                  "text": "Kutyás strand Särkänniemi közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        23.726907,
+                        61.504112
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tahmelan uimaranta",
+                  "text": "Plajă în apropierea Särkänniemi.",
+                  "category": "recreational",
+                  "coords": [
+                        23.708293,
+                        61.500096
+                  ]
+            },
+            {
+                  "name": "Pyynikin läntinen uimaranta",
+                  "text": "Plajă în apropierea Särkänniemi.",
+                  "category": "recreational",
+                  "coords": [
+                        23.730285,
+                        61.49123
+                  ]
+            },
+            {
+                  "name": "Rosendahlinranta",
+                  "text": "Plaja Rosendahlinranta este situată în apropiere de Kid Sarkanniemi.",
+                  "category": "recreational",
+                  "coords": [
+                        23.735153,
+                        61.491308
+                  ]
+            },
+            {
+                  "name": "Rantaperkiön uimaranta",
+                  "text": "Rantaperkiön uimaranta este o plajă lângă parcul Sarkanniemi.",
+                  "category": "recreational",
+                  "coords": [
+                        23.745698,
+                        61.472769
+                  ]
+            },
+            {
+                  "name": "Elianderin uimaranta",
+                  "text": "Elianderin uimaranta se află lângă parcul Sarkanniemi.",
+                  "category": "recreational",
+                  "coords": [
+                        23.732568,
+                        61.503369
+                  ]
+            },
+            {
+                  "name": "Loukonlahden uimaranta",
+                  "text": "Loukonlahden uimaranta este o plajă lângă Tampere.",
+                  "category": "recreational",
+                  "coords": [
+                        23.680628,
+                        61.474342
+                  ]
+            },
+            {
+                  "name": "Koirien uimaranta",
+                  "text": "Plajă pentru câini lângă Särkänniemi.",
+                  "category": "recreational",
+                  "coords": [
+                        23.726907,
+                        61.504112
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tahmelan uimaranta",
+                  "text": "Beach near Särkänniemi.",
+                  "category": "recreational",
+                  "coords": [
+                        23.708293,
+                        61.500096
+                  ]
+            },
+            {
+                  "name": "Pyynikin läntinen uimaranta",
+                  "text": "Beach near Särkänniemi.",
+                  "category": "recreational",
+                  "coords": [
+                        23.730285,
+                        61.49123
+                  ]
+            },
+            {
+                  "name": "Rosendahlinranta",
+                  "text": "Rosendahlinranta beach is located near Kid Sarkanniemi.",
+                  "category": "recreational",
+                  "coords": [
+                        23.735153,
+                        61.491308
+                  ]
+            },
+            {
+                  "name": "Rantaperkiön uimaranta",
+                  "text": "Rantaperkiön uimaranta is a beach near the Sarkanniemi park.",
+                  "category": "recreational",
+                  "coords": [
+                        23.745698,
+                        61.472769
+                  ]
+            },
+            {
+                  "name": "Elianderin uimaranta",
+                  "text": "Elianderin uimaranta is near the Sarkanniemi park.",
+                  "category": "recreational",
+                  "coords": [
+                        23.732568,
+                        61.503369
+                  ]
+            },
+            {
+                  "name": "Loukonlahden uimaranta",
+                  "text": "Loukonlahden uimaranta is a beach near Tampere.",
+                  "category": "recreational",
+                  "coords": [
+                        23.680628,
+                        61.474342
+                  ]
+            },
+            {
+                  "name": "Koirien uimaranta",
+                  "text": "Dog beach near Särkänniemi.",
+                  "category": "recreational",
+                  "coords": [
+                        23.726907,
+                        61.504112
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "reg-pirkanmaa-fi",
     coords: [23.7470, 61.4970],
@@ -3279,7 +6429,304 @@ export const finlandNatureExtended: POI[] = [
     },
   },
   {
-    id: "historical-lappeenranta-fortress",
+    id: "historical-lappeenranta-fortress", "sights": {
+      "de": [
+            {
+                  "name": "Korkkitehtaan uimaranta",
+                  "text": "Korkkitehtaan Strand liegt nahe der historischen Festung Lappeenranta.",
+                  "category": "recreational",
+                  "coords": [
+                        28.165268,
+                        61.056076
+                  ]
+            },
+            {
+                  "name": "Kivisalmen uimaranta",
+                  "text": "Kivisalmen Strand liegt nahe der historischen Festung Lappeenranta.",
+                  "category": "recreational",
+                  "coords": [
+                        28.152025,
+                        61.092661
+                  ]
+            },
+            {
+                  "name": "Sammonlahden uimaranta",
+                  "text": "Sammonlahden uimaranta liegt nahe der historischen Festung Lappeenranta.",
+                  "category": "recreational",
+                  "coords": [
+                        28.122405,
+                        61.052248
+                  ]
+            },
+            {
+                  "name": "Huhtiniemen uimaranta",
+                  "text": "Huhtiniemen uimaranta liegt bei der historischen Festung Lappeenranta.",
+                  "category": "recreational",
+                  "coords": [
+                        28.133577,
+                        61.055665
+                  ]
+            },
+            {
+                  "name": "Tyysterniemen uimaranta",
+                  "text": "Tyysterniemen uimaranta liegt nahe der historischen Festung Lappeenranta.",
+                  "category": "recreational",
+                  "coords": [
+                        28.149745,
+                        61.070394
+                  ]
+            },
+            {
+                  "name": "Pikisaaren uimaranta",
+                  "text": "Strand bei der Festung Lappeenranta.",
+                  "category": "recreational",
+                  "coords": [
+                        28.174388,
+                        61.074759
+                  ]
+            },
+            {
+                  "name": "Myllysaaren uimaranta",
+                  "text": "Myllysaaren uimaranta liegt nahe der historischen Festung Lappeenranta.",
+                  "category": "recreational",
+                  "coords": [
+                        28.199064,
+                        61.066336
+                  ]
+            },
+            {
+                  "name": "Voisalmen uimaranta",
+                  "text": "Voisalmen uimaranta liegt bei der historischen Festung Lappeenranta.",
+                  "category": "recreational",
+                  "coords": [
+                        28.137597,
+                        61.083835
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Korkkitehtaan uimaranta",
+                  "text": "Korkkitehtaan strandja a történelmi Lappeenranta erőd közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        28.165268,
+                        61.056076
+                  ]
+            },
+            {
+                  "name": "Kivisalmen uimaranta",
+                  "text": "Kivisalmen strandja a történelmi Lappeenranta erőd közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        28.152025,
+                        61.092661
+                  ]
+            },
+            {
+                  "name": "Sammonlahden uimaranta",
+                  "text": "Sammonlahden uimaranta a történelmi Lappeenranta erőd közelében van.",
+                  "category": "recreational",
+                  "coords": [
+                        28.122405,
+                        61.052248
+                  ]
+            },
+            {
+                  "name": "Huhtiniemen uimaranta",
+                  "text": "Huhtiniemen uimaranta a történelmi Lappeenranta erőd mellett található.",
+                  "category": "recreational",
+                  "coords": [
+                        28.133577,
+                        61.055665
+                  ]
+            },
+            {
+                  "name": "Tyysterniemen uimaranta",
+                  "text": "Tyysterniemen uimaranta a történelmi Lappeenranta erőd közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        28.149745,
+                        61.070394
+                  ]
+            },
+            {
+                  "name": "Pikisaaren uimaranta",
+                  "text": "Strand a lappeenrantai erőd közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        28.174388,
+                        61.074759
+                  ]
+            },
+            {
+                  "name": "Myllysaaren uimaranta",
+                  "text": "Myllysaaren uimaranta a történelmi Lappeenranta erőd közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        28.199064,
+                        61.066336
+                  ]
+            },
+            {
+                  "name": "Voisalmen uimaranta",
+                  "text": "A Voisalmen uimaranta a történelmi lappeenrannai erőd közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        28.137597,
+                        61.083835
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Korkkitehtaan uimaranta",
+                  "text": "Plaja Korkkitehtaan este situată lângă fortăreața istorică Lappeenranta.",
+                  "category": "recreational",
+                  "coords": [
+                        28.165268,
+                        61.056076
+                  ]
+            },
+            {
+                  "name": "Kivisalmen uimaranta",
+                  "text": "Plaja Kivisalmen este situată lângă fortăreața istorică Lappeenranta.",
+                  "category": "recreational",
+                  "coords": [
+                        28.152025,
+                        61.092661
+                  ]
+            },
+            {
+                  "name": "Sammonlahden uimaranta",
+                  "text": "Sammonlahden uimaranta se află lângă cetatea istorică Lappeenranta.",
+                  "category": "recreational",
+                  "coords": [
+                        28.122405,
+                        61.052248
+                  ]
+            },
+            {
+                  "name": "Huhtiniemen uimaranta",
+                  "text": "Huhtiniemen uimaranta se află lângă cetatea istorică Lappeenranta.",
+                  "category": "recreational",
+                  "coords": [
+                        28.133577,
+                        61.055665
+                  ]
+            },
+            {
+                  "name": "Tyysterniemen uimaranta",
+                  "text": "Tyysterniemen uimaranta se află lângă cetatea istorică Lappeenranta.",
+                  "category": "recreational",
+                  "coords": [
+                        28.149745,
+                        61.070394
+                  ]
+            },
+            {
+                  "name": "Pikisaaren uimaranta",
+                  "text": "Plajă lângă Cetatea Lappeenranta.",
+                  "category": "recreational",
+                  "coords": [
+                        28.174388,
+                        61.074759
+                  ]
+            },
+            {
+                  "name": "Myllysaaren uimaranta",
+                  "text": "Myllysaaren uimaranta este situată lângă cetatea istorică Lappeenranta.",
+                  "category": "recreational",
+                  "coords": [
+                        28.199064,
+                        61.066336
+                  ]
+            },
+            {
+                  "name": "Voisalmen uimaranta",
+                  "text": "Voisalmen uimaranta este situată lângă fortăreața istorică din Lappeenranta.",
+                  "category": "recreational",
+                  "coords": [
+                        28.137597,
+                        61.083835
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Korkkitehtaan uimaranta",
+                  "text": "Korkkitehtaan beach is located near the historical Lappeenranta Fortress.",
+                  "category": "recreational",
+                  "coords": [
+                        28.165268,
+                        61.056076
+                  ]
+            },
+            {
+                  "name": "Kivisalmen uimaranta",
+                  "text": "Kivisalmen beach is located near the historical Lappeenranta Fortress.",
+                  "category": "recreational",
+                  "coords": [
+                        28.152025,
+                        61.092661
+                  ]
+            },
+            {
+                  "name": "Sammonlahden uimaranta",
+                  "text": "Sammonlahden uimaranta is near the historical Lappeenranta fortress.",
+                  "category": "recreational",
+                  "coords": [
+                        28.122405,
+                        61.052248
+                  ]
+            },
+            {
+                  "name": "Huhtiniemen uimaranta",
+                  "text": "Huhtiniemen uimaranta is located by the historical Lappeenranta fortress.",
+                  "category": "recreational",
+                  "coords": [
+                        28.133577,
+                        61.055665
+                  ]
+            },
+            {
+                  "name": "Tyysterniemen uimaranta",
+                  "text": "Tyysterniemen uimaranta is near the historical Lappeenranta fortress.",
+                  "category": "recreational",
+                  "coords": [
+                        28.149745,
+                        61.070394
+                  ]
+            },
+            {
+                  "name": "Pikisaaren uimaranta",
+                  "text": "Beach near Lappeenranta Fortress.",
+                  "category": "recreational",
+                  "coords": [
+                        28.174388,
+                        61.074759
+                  ]
+            },
+            {
+                  "name": "Myllysaaren uimaranta",
+                  "text": "Myllysaaren uimaranta is located near the historical Lappeenranta Fortress.",
+                  "category": "recreational",
+                  "coords": [
+                        28.199064,
+                        61.066336
+                  ]
+            },
+            {
+                  "name": "Voisalmen uimaranta",
+                  "text": "Voisalmen uimaranta is located near the historical Lappeenranta Fortress.",
+                  "category": "recreational",
+                  "coords": [
+                        28.137597,
+                        61.083835
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "reg-south-karelia-fi",
     coords: [28.1850, 61.0600],
@@ -3411,7 +6858,196 @@ export const finlandNatureExtended: POI[] = [
     },
   },
   {
-    id: "natural-lake-kallavesi",
+    id: "natural-lake-kallavesi", "sights": {
+      "de": [
+            {
+                  "name": "Väinölänniemen uimaranta",
+                  "text": "Der Väinölänniemen uimaranta liegt am Kallavesi-See.",
+                  "category": "recreational",
+                  "coords": [
+                        27.698922,
+                        62.884775
+                  ]
+            },
+            {
+                  "name": "Peräniemen uimaranta",
+                  "text": "Der Peräniemen uimaranta liegt am Kallavesi-See.",
+                  "category": "recreational",
+                  "coords": [
+                        27.700328,
+                        62.881188
+                  ]
+            },
+            {
+                  "name": "Keiliniemen uimaranta",
+                  "text": "Keiliniemen uimaranta liegt am natürlichen Kallavesi-See.",
+                  "category": "recreational",
+                  "coords": [
+                        27.697477,
+                        62.881972
+                  ]
+            },
+            {
+                  "name": "Honkalahden uimaranta",
+                  "text": "Honkalahden uimaranta liegt am natürlichen Kallavesi-See.",
+                  "category": "recreational",
+                  "coords": [
+                        27.726629,
+                        62.900779
+                  ]
+            },
+            {
+                  "name": "Hakolahden uimaranta",
+                  "text": "Hakolahti-Badestrand am Kallavesi-See.",
+                  "category": "recreational",
+                  "coords": [
+                        27.707665,
+                        62.851554
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Väinölänniemen uimaranta",
+                  "text": "Väinölänniemen uimaranta a Kallavesi-tónál található.",
+                  "category": "recreational",
+                  "coords": [
+                        27.698922,
+                        62.884775
+                  ]
+            },
+            {
+                  "name": "Peräniemen uimaranta",
+                  "text": "Peräniemen uimaranta a Kallavesi-tónál található.",
+                  "category": "recreational",
+                  "coords": [
+                        27.700328,
+                        62.881188
+                  ]
+            },
+            {
+                  "name": "Keiliniemen uimaranta",
+                  "text": "Keiliniemen uimaranta a természetes Kallavesi-tónál fekszik.",
+                  "category": "recreational",
+                  "coords": [
+                        27.697477,
+                        62.881972
+                  ]
+            },
+            {
+                  "name": "Honkalahden uimaranta",
+                  "text": "Honkalahden uimaranta a természetes Kallavesi-tónál található.",
+                  "category": "recreational",
+                  "coords": [
+                        27.726629,
+                        62.900779
+                  ]
+            },
+            {
+                  "name": "Hakolahden uimaranta",
+                  "text": "Hakolahti strand a Kallavesi-tónál.",
+                  "category": "recreational",
+                  "coords": [
+                        27.707665,
+                        62.851554
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Väinölänniemen uimaranta",
+                  "text": "Väinölänniemen uimaranta se află pe lacul Kallavesi.",
+                  "category": "recreational",
+                  "coords": [
+                        27.698922,
+                        62.884775
+                  ]
+            },
+            {
+                  "name": "Peräniemen uimaranta",
+                  "text": "Peräniemen uimaranta se află pe lacul Kallavesi.",
+                  "category": "recreational",
+                  "coords": [
+                        27.700328,
+                        62.881188
+                  ]
+            },
+            {
+                  "name": "Keiliniemen uimaranta",
+                  "text": "Keiliniemen uimaranta se află pe lacul natural Kallavesi.",
+                  "category": "recreational",
+                  "coords": [
+                        27.697477,
+                        62.881972
+                  ]
+            },
+            {
+                  "name": "Honkalahden uimaranta",
+                  "text": "Honkalahden uimaranta se află pe lacul natural Kallavesi.",
+                  "category": "recreational",
+                  "coords": [
+                        27.726629,
+                        62.900779
+                  ]
+            },
+            {
+                  "name": "Hakolahden uimaranta",
+                  "text": "Plaja Hakolahti la Lacul Kallavesi.",
+                  "category": "recreational",
+                  "coords": [
+                        27.707665,
+                        62.851554
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Väinölänniemen uimaranta",
+                  "text": "Väinölänniemen uimaranta is on Lake Kallavesi.",
+                  "category": "recreational",
+                  "coords": [
+                        27.698922,
+                        62.884775
+                  ]
+            },
+            {
+                  "name": "Peräniemen uimaranta",
+                  "text": "Peräniemen uimaranta is on Lake Kallavesi.",
+                  "category": "recreational",
+                  "coords": [
+                        27.700328,
+                        62.881188
+                  ]
+            },
+            {
+                  "name": "Keiliniemen uimaranta",
+                  "text": "Keiliniemen uimaranta is located on the natural Lake Kallavesi.",
+                  "category": "recreational",
+                  "coords": [
+                        27.697477,
+                        62.881972
+                  ]
+            },
+            {
+                  "name": "Honkalahden uimaranta",
+                  "text": "Honkalahden uimaranta is located on the natural Lake Kallavesi.",
+                  "category": "recreational",
+                  "coords": [
+                        27.726629,
+                        62.900779
+                  ]
+            },
+            {
+                  "name": "Hakolahden uimaranta",
+                  "text": "Hakolahti beach at Lake Kallavesi.",
+                  "category": "recreational",
+                  "coords": [
+                        27.707665,
+                        62.851554
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "reg-north-savo-fi",
     coords: [27.6930, 62.8920],
@@ -3499,7 +7135,88 @@ export const finlandNatureExtended: POI[] = [
     },
   },
   {
-    id: "historical-alvar-aalto-museum",
+    id: "historical-alvar-aalto-museum", "sights": {
+      "de": [
+            {
+                  "name": "Myllyjärven uimaranta",
+                  "text": "Strand in der Nähe des Alvar Aalto Museums.",
+                  "category": "recreational",
+                  "coords": [
+                        25.708617,
+                        62.220322
+                  ]
+            },
+            {
+                  "name": "Köhniön uimaranta",
+                  "text": "Köhniön uimaranta liegt nahe dem Alvar Aalto Museum.",
+                  "category": "recreational",
+                  "coords": [
+                        25.674673,
+                        62.240501
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Myllyjärven uimaranta",
+                  "text": "Strand az Alvar Aalto Múzeum közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        25.708617,
+                        62.220322
+                  ]
+            },
+            {
+                  "name": "Köhniön uimaranta",
+                  "text": "Köhniön uimaranta az Alvar Aalto Múzeum közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        25.674673,
+                        62.240501
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Myllyjärven uimaranta",
+                  "text": "Plajă în apropierea Muzeului Alvar Aalto.",
+                  "category": "recreational",
+                  "coords": [
+                        25.708617,
+                        62.220322
+                  ]
+            },
+            {
+                  "name": "Köhniön uimaranta",
+                  "text": "Köhniön uimaranta se află lângă Muzeul Alvar Aalto.",
+                  "category": "recreational",
+                  "coords": [
+                        25.674673,
+                        62.240501
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Myllyjärven uimaranta",
+                  "text": "Beach near the Alvar Aalto Museum.",
+                  "category": "recreational",
+                  "coords": [
+                        25.708617,
+                        62.220322
+                  ]
+            },
+            {
+                  "name": "Köhniön uimaranta",
+                  "text": "Köhniön uimaranta is near the Alvar Aalto Museum.",
+                  "category": "recreational",
+                  "coords": [
+                        25.674673,
+                        62.240501
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "reg-central-finland-fi",
     coords: [25.7420, 62.2400],
@@ -3540,7 +7257,52 @@ export const finlandNatureExtended: POI[] = [
     },
   },
   {
-    id: "natural-lake-paijanne",
+    id: "natural-lake-paijanne", "sights": {
+      "de": [
+            {
+                  "name": "Särkilahden uimaranta",
+                  "text": "Särkilahden uimaranta ist ein Strand am See Päijänne.",
+                  "category": "recreational",
+                  "coords": [
+                        25.652624,
+                        61.582128
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Särkilahden uimaranta",
+                  "text": "Särkilahden uimaranta egy strand a Päijänne-tó partján.",
+                  "category": "recreational",
+                  "coords": [
+                        25.652624,
+                        61.582128
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Särkilahden uimaranta",
+                  "text": "Särkilahden uimaranta este o plajă la lacul Päijänne.",
+                  "category": "recreational",
+                  "coords": [
+                        25.652624,
+                        61.582128
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Särkilahden uimaranta",
+                  "text": "Särkilahden uimaranta is a beach on Lake Päijänne.",
+                  "category": "recreational",
+                  "coords": [
+                        25.652624,
+                        61.582128
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "reg-central-finland-fi",
     coords: [25.6000, 61.6000],
@@ -3628,7 +7390,52 @@ export const finlandNatureExtended: POI[] = [
     },
   },
   {
-    id: "agriculture-kauhava-potato-plains",
+    id: "agriculture-kauhava-potato-plains", "sights": {
+      "de": [
+            {
+                  "name": "Ojutjärven uimaranta",
+                  "text": "Ojutjärven uimaranta liegt in der Nähe der Kartoffelfelder von Kauhava.",
+                  "category": "recreational",
+                  "coords": [
+                        23.120275,
+                        63.064244
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ojutjärven uimaranta",
+                  "text": "A Ojutjärven uimaranta a kauhavai burgonyaföldek közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        23.120275,
+                        63.064244
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ojutjärven uimaranta",
+                  "text": "Ojutjärven uimaranta este situată în apropierea câmpurilor de cartofi din Kauhava.",
+                  "category": "recreational",
+                  "coords": [
+                        23.120275,
+                        63.064244
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ojutjärven uimaranta",
+                  "text": "Ojutjärven uimaranta is located near the Kauhava potato plains.",
+                  "category": "recreational",
+                  "coords": [
+                        23.120275,
+                        63.064244
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "reg-south-ostrobothnia-fi",
     coords: [23.0840, 63.1000],
@@ -3672,7 +7479,124 @@ export const finlandNatureExtended: POI[] = [
     },
   },
   {
-    id: "industry-vaasa-energy-hub",
+    id: "industry-vaasa-energy-hub", "sights": {
+      "de": [
+            {
+                  "name": "Koirien uimaranta",
+                  "text": "Koirien uimaranta ist ein Hundestrand bei Vaasa.",
+                  "category": "recreational",
+                  "coords": [
+                        21.577617,
+                        63.075465
+                  ]
+            },
+            {
+                  "name": "Hietasaaren uimaranta",
+                  "text": "Hietasaaren uimaranta ist ein Strand beim Energiezentrum Vaasa.",
+                  "category": "recreational",
+                  "coords": [
+                        21.594182,
+                        63.094168
+                  ]
+            },
+            {
+                  "name": "Mansikkasaaren uimaranta",
+                  "text": "Mansikkasaaren uimaranta liegt beim Energiezentrum Vaasa.",
+                  "category": "recreational",
+                  "coords": [
+                        21.584154,
+                        63.104619
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Koirien uimaranta",
+                  "text": "Koirien uimaranta egy kutyastrand Vaasa közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        21.577617,
+                        63.075465
+                  ]
+            },
+            {
+                  "name": "Hietasaaren uimaranta",
+                  "text": "Hietasaaren uimaranta egy strand a Vaasa Energia-központ közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        21.594182,
+                        63.094168
+                  ]
+            },
+            {
+                  "name": "Mansikkasaaren uimaranta",
+                  "text": "Mansikkasaaren uimaranta a Vaasa Energia-központ közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        21.584154,
+                        63.104619
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Koirien uimaranta",
+                  "text": "Koirien uimaranta este o plajă pentru câini lângă Vaasa.",
+                  "category": "recreational",
+                  "coords": [
+                        21.577617,
+                        63.075465
+                  ]
+            },
+            {
+                  "name": "Hietasaaren uimaranta",
+                  "text": "Hietasaaren uimaranta este o plajă lângă hub-ul energetic Vaasa.",
+                  "category": "recreational",
+                  "coords": [
+                        21.594182,
+                        63.094168
+                  ]
+            },
+            {
+                  "name": "Mansikkasaaren uimaranta",
+                  "text": "Mansikkasaaren uimaranta se află lângă hub-ul energetic Vaasa.",
+                  "category": "recreational",
+                  "coords": [
+                        21.584154,
+                        63.104619
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Koirien uimaranta",
+                  "text": "Koirien uimaranta is a dog beach near Vaasa.",
+                  "category": "recreational",
+                  "coords": [
+                        21.577617,
+                        63.075465
+                  ]
+            },
+            {
+                  "name": "Hietasaaren uimaranta",
+                  "text": "Hietasaaren uimaranta is a beach near the Vaasa Energy Hub.",
+                  "category": "recreational",
+                  "coords": [
+                        21.594182,
+                        63.094168
+                  ]
+            },
+            {
+                  "name": "Mansikkasaaren uimaranta",
+                  "text": "Mansikkasaaren uimaranta is near the Vaasa Energy Hub.",
+                  "category": "recreational",
+                  "coords": [
+                        21.584154,
+                        63.104619
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "reg-ostrobothnia-fi",
     coords: [21.6140, 63.0950],
@@ -3716,7 +7640,52 @@ export const finlandNatureExtended: POI[] = [
     },
   },
   {
-    id: "landmark-kokkola-old-town",
+    id: "landmark-kokkola-old-town", "sights": {
+      "de": [
+            {
+                  "name": "Lahdenperän uimaranta",
+                  "text": "Lahdenperän uimaranta ist ein Strand in der Nähe der Altstadt von Kokkola.",
+                  "category": "recreational",
+                  "coords": [
+                        23.042262,
+                        63.834153
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lahdenperän uimaranta",
+                  "text": "A Lahdenperän uimaranta egy strand Kokkola óvárosának közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        23.042262,
+                        63.834153
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lahdenperän uimaranta",
+                  "text": "Lahdenperän uimaranta este o plajă lângă orașul vechi Kokkola.",
+                  "category": "recreational",
+                  "coords": [
+                        23.042262,
+                        63.834153
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lahdenperän uimaranta",
+                  "text": "Lahdenperän uimaranta is a beach near Kokkola Old Town.",
+                  "category": "recreational",
+                  "coords": [
+                        23.042262,
+                        63.834153
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "reg-central-ostrobothnia-fi",
     coords: [23.1310, 63.8370],
@@ -3798,7 +7767,88 @@ export const finlandNatureExtended: POI[] = [
     },
   },
   {
-    id: "industry-lahti-brewery",
+    id: "industry-lahti-brewery", "sights": {
+      "de": [
+            {
+                  "name": "Alasenjärven virkistysranta",
+                  "text": "Alasenjärven virkistysranta ist ein Erholungsstrand bei Lahti.",
+                  "category": "recreational",
+                  "coords": [
+                        25.725066,
+                        61.011074
+                  ]
+            },
+            {
+                  "name": "Merrasjärven uimaranta",
+                  "text": "Merrasjärvi-Badestrand nahe der Brauerei Lahti.",
+                  "category": "recreational",
+                  "coords": [
+                        25.679385,
+                        61.020999
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Alasenjärven virkistysranta",
+                  "text": "Alasenjärven virkistysranta egy pihenőstrand Lahti közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        25.725066,
+                        61.011074
+                  ]
+            },
+            {
+                  "name": "Merrasjärven uimaranta",
+                  "text": "Merrasjärvi strand a Lahti sörgyár közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        25.679385,
+                        61.020999
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Alasenjärven virkistysranta",
+                  "text": "Alasenjärven virkistysranta este o plajă de agrement lângă Lahti.",
+                  "category": "recreational",
+                  "coords": [
+                        25.725066,
+                        61.011074
+                  ]
+            },
+            {
+                  "name": "Merrasjärven uimaranta",
+                  "text": "Plaja Merrasjärvi lângă Berăria Lahti.",
+                  "category": "recreational",
+                  "coords": [
+                        25.679385,
+                        61.020999
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Alasenjärven virkistysranta",
+                  "text": "Alasenjärven virkistysranta is a recreational beach near Lahti.",
+                  "category": "recreational",
+                  "coords": [
+                        25.725066,
+                        61.011074
+                  ]
+            },
+            {
+                  "name": "Merrasjärven uimaranta",
+                  "text": "Merrasjärvi beach near Lahti Brewery.",
+                  "category": "recreational",
+                  "coords": [
+                        25.679385,
+                        61.020999
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "reg-paijanne-tavastia-fi",
     coords: [25.6610, 60.9830],
@@ -3842,7 +7892,52 @@ export const finlandNatureExtended: POI[] = [
     },
   },
   {
-    id: "natural-river-oulujoki",
+    id: "natural-river-oulujoki", "sights": {
+      "de": [
+            {
+                  "name": "Nallikari",
+                  "text": "Nallikari liegt am Fluss Oulujoki.",
+                  "category": "recreational",
+                  "coords": [
+                        25.409159,
+                        65.030406
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nallikari",
+                  "text": "Nallikari az Oulujoki folyónál található.",
+                  "category": "recreational",
+                  "coords": [
+                        25.409159,
+                        65.030406
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nallikari",
+                  "text": "Nallikari se află pe râul Oulujoki.",
+                  "category": "recreational",
+                  "coords": [
+                        25.409159,
+                        65.030406
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nallikari",
+                  "text": "Nallikari is on the Oulujoki river.",
+                  "category": "recreational",
+                  "coords": [
+                        25.409159,
+                        65.030406
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "reg-north-ostrobothnia-fi",
     coords: [25.4700, 65.0300],
@@ -3886,7 +7981,88 @@ export const finlandNatureExtended: POI[] = [
     },
   },
   {
-    id: "industry-raahe-steel-works",
+    id: "industry-raahe-steel-works", "sights": {
+      "de": [
+            {
+                  "name": "Koirien uimaranta",
+                  "text": "Koirien uimaranta liegt nahe dem Raahe Stahlwerk.",
+                  "category": "recreational",
+                  "coords": [
+                        24.461325,
+                        64.688029
+                  ]
+            },
+            {
+                  "name": "Mikonkarin uimaranta",
+                  "text": "Mikonkarin uimaranta liegt beim Industriewerk Raahe Steel.",
+                  "category": "recreational",
+                  "coords": [
+                        24.512201,
+                        64.713197
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Koirien uimaranta",
+                  "text": "Koirien uimaranta a Raahe acélmű közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        24.461325,
+                        64.688029
+                  ]
+            },
+            {
+                  "name": "Mikonkarin uimaranta",
+                  "text": "A Mikonkarin uimaranta a Raahe acélművek közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        24.512201,
+                        64.713197
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Koirien uimaranta",
+                  "text": "Koirien uimaranta se află lângă uzina siderurgică Raahe.",
+                  "category": "recreational",
+                  "coords": [
+                        24.461325,
+                        64.688029
+                  ]
+            },
+            {
+                  "name": "Mikonkarin uimaranta",
+                  "text": "Mikonkarin uimaranta este situată lângă uzina siderurgică Raahe.",
+                  "category": "recreational",
+                  "coords": [
+                        24.512201,
+                        64.713197
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Koirien uimaranta",
+                  "text": "Koirien uimaranta is near the Raahe steel works.",
+                  "category": "recreational",
+                  "coords": [
+                        24.461325,
+                        64.688029
+                  ]
+            },
+            {
+                  "name": "Mikonkarin uimaranta",
+                  "text": "Mikonkarin uimaranta is located near the Raahe Steel Works.",
+                  "category": "recreational",
+                  "coords": [
+                        24.512201,
+                        64.713197
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "reg-north-ostrobothnia-fi",
     coords: [24.4810, 64.6890],

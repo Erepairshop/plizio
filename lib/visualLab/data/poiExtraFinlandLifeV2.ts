@@ -48,7 +48,268 @@ export const finlandLifeV2: POI[] = [
     image: "/poi-images/finland-pyhax-luosto-life-v2.webp",
   },
   {
-    id: "finland-helsinki-zoo-life-v2",
+    id: "finland-helsinki-zoo-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tuorinniemen uimaranta",
+                  "text": "Der Tuorinniemen uimaranta befindet sich beim Zoo Helsinki.",
+                  "category": "recreational",
+                  "coords": [
+                        25.03823,
+                        60.185856
+                  ]
+            },
+            {
+                  "name": "Laajasalon uimaranta",
+                  "text": "Strand in der Nähe des Helsinkier Zoos.",
+                  "category": "recreational",
+                  "coords": [
+                        25.063592,
+                        60.17638
+                  ]
+            },
+            {
+                  "name": "Torsniemen koirapuisto",
+                  "text": "Strand bei der Hundepark-Anlage.",
+                  "category": "recreational",
+                  "coords": [
+                        25.042587,
+                        60.185928
+                  ]
+            },
+            {
+                  "name": "Tullisaaren uimapaikka",
+                  "text": "Tullisaaren Badestelle befindet sich in der Nähe des Helsinki Zoos.",
+                  "category": "recreational",
+                  "coords": [
+                        25.021375,
+                        60.177461
+                  ]
+            },
+            {
+                  "name": "Mustikkamaan uimaranta",
+                  "text": "Mustikkamaan Strand befindet sich in der Nähe des Helsinki Zoos.",
+                  "category": "recreational",
+                  "coords": [
+                        24.993184,
+                        60.178863
+                  ]
+            },
+            {
+                  "name": "Jollaksen uimaranta",
+                  "text": "Jollaksen uimaranta ist ein Strand in der Nähe von Helsinki.",
+                  "category": "recreational",
+                  "coords": [
+                        25.065113,
+                        60.165224
+                  ]
+            },
+            {
+                  "name": "Kivinokan uimaranta",
+                  "text": "Strand in der Nähe des Helsinkier Zoos.",
+                  "category": "recreational",
+                  "coords": [
+                        25.005806,
+                        60.194825
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tuorinniemen uimaranta",
+                  "text": "Tuorinniemen uimaranta a Helsinki Állatkertnél található.",
+                  "category": "recreational",
+                  "coords": [
+                        25.03823,
+                        60.185856
+                  ]
+            },
+            {
+                  "name": "Laajasalon uimaranta",
+                  "text": "Strand a Helsinki Állatkert közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        25.063592,
+                        60.17638
+                  ]
+            },
+            {
+                  "name": "Torsniemen koirapuisto",
+                  "text": "Strand a kutyaparknál.",
+                  "category": "recreational",
+                  "coords": [
+                        25.042587,
+                        60.185928
+                  ]
+            },
+            {
+                  "name": "Tullisaaren uimapaikka",
+                  "text": "Tullisaaren strandfürdő a Helsinki Állatkert közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        25.021375,
+                        60.177461
+                  ]
+            },
+            {
+                  "name": "Mustikkamaan uimaranta",
+                  "text": "Mustikkamaan strandja a Helsinki Állatkert közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        24.993184,
+                        60.178863
+                  ]
+            },
+            {
+                  "name": "Jollaksen uimaranta",
+                  "text": "A Jollaksen uimaranta egy strand Helsinki közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        25.065113,
+                        60.165224
+                  ]
+            },
+            {
+                  "name": "Kivinokan uimaranta",
+                  "text": "Strand a Helsinki Állatkert közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        25.005806,
+                        60.194825
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tuorinniemen uimaranta",
+                  "text": "Tuorinniemen uimaranta se află lângă Grădina Zoologică din Helsinki.",
+                  "category": "recreational",
+                  "coords": [
+                        25.03823,
+                        60.185856
+                  ]
+            },
+            {
+                  "name": "Laajasalon uimaranta",
+                  "text": "Plajă în apropierea Grădinii Zoologice din Helsinki.",
+                  "category": "recreational",
+                  "coords": [
+                        25.063592,
+                        60.17638
+                  ]
+            },
+            {
+                  "name": "Torsniemen koirapuisto",
+                  "text": "Plajă lângă parcul pentru câini.",
+                  "category": "recreational",
+                  "coords": [
+                        25.042587,
+                        60.185928
+                  ]
+            },
+            {
+                  "name": "Tullisaaren uimapaikka",
+                  "text": "Plaja Tullisaari este situată în apropierea Grădinii Zoologice din Helsinki.",
+                  "category": "recreational",
+                  "coords": [
+                        25.021375,
+                        60.177461
+                  ]
+            },
+            {
+                  "name": "Mustikkamaan uimaranta",
+                  "text": "Plaja Mustikkamaan este situată lângă Grădina Zoologică din Helsinki.",
+                  "category": "recreational",
+                  "coords": [
+                        24.993184,
+                        60.178863
+                  ]
+            },
+            {
+                  "name": "Jollaksen uimaranta",
+                  "text": "Jollaksen uimaranta este o plajă lângă Helsinki.",
+                  "category": "recreational",
+                  "coords": [
+                        25.065113,
+                        60.165224
+                  ]
+            },
+            {
+                  "name": "Kivinokan uimaranta",
+                  "text": "Plajă lângă grădina zoologică din Helsinki.",
+                  "category": "recreational",
+                  "coords": [
+                        25.005806,
+                        60.194825
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tuorinniemen uimaranta",
+                  "text": "Tuorinniemen uimaranta is located near the Helsinki Zoo.",
+                  "category": "recreational",
+                  "coords": [
+                        25.03823,
+                        60.185856
+                  ]
+            },
+            {
+                  "name": "Laajasalon uimaranta",
+                  "text": "Beach near the Helsinki Zoo.",
+                  "category": "recreational",
+                  "coords": [
+                        25.063592,
+                        60.17638
+                  ]
+            },
+            {
+                  "name": "Torsniemen koirapuisto",
+                  "text": "Beach near the dog park area.",
+                  "category": "recreational",
+                  "coords": [
+                        25.042587,
+                        60.185928
+                  ]
+            },
+            {
+                  "name": "Tullisaaren uimapaikka",
+                  "text": "Tullisaari swimming area is located near the Helsinki Zoo.",
+                  "category": "recreational",
+                  "coords": [
+                        25.021375,
+                        60.177461
+                  ]
+            },
+            {
+                  "name": "Mustikkamaan uimaranta",
+                  "text": "Mustikkamaan beach is located near the Helsinki Zoo.",
+                  "category": "recreational",
+                  "coords": [
+                        24.993184,
+                        60.178863
+                  ]
+            },
+            {
+                  "name": "Jollaksen uimaranta",
+                  "text": "Jollaksen uimaranta is a beach near Helsinki.",
+                  "category": "recreational",
+                  "coords": [
+                        25.065113,
+                        60.165224
+                  ]
+            },
+            {
+                  "name": "Kivinokan uimaranta",
+                  "text": "Beach near the Helsinki Zoo.",
+                  "category": "recreational",
+                  "coords": [
+                        25.005806,
+                        60.194825
+                  ]
+            }
+      ]
+},
     type: "wildlife",
     parent: "FI",
     name: { de: "Helsinki Zoo", hu: "Helsinki Állatkert", ro: "Grădina Zoologică din Helsinki", en: "Helsinki Zoo" },
@@ -273,7 +534,52 @@ export const finlandLifeV2: POI[] = [
     image: "/poi-images/finland-seitseminen-life-v2.webp",
   },
   {
-    id: "finland-tiilikkajarvi-life-v2",
+    id: "finland-tiilikkajarvi-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Venäjänhiekka",
+                  "text": "Badestrand Venäjänhiekka im Tiilikkajärvi-Nationalpark.",
+                  "category": "recreational",
+                  "coords": [
+                        28.301693,
+                        63.648518
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Venäjänhiekka",
+                  "text": "Venäjänhiekka strand a Tiilikkajärvi Nemzeti Parkban.",
+                  "category": "recreational",
+                  "coords": [
+                        28.301693,
+                        63.648518
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Venäjänhiekka",
+                  "text": "Plaja Venäjänhiekka din Parcul Național Tiilikkajärvi.",
+                  "category": "recreational",
+                  "coords": [
+                        28.301693,
+                        63.648518
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Venäjänhiekka",
+                  "text": "Venäjänhiekka beach in Tiilikkajärvi National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        28.301693,
+                        63.648518
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "FI",
     name: { de: "Tiilikkajärvi Nationalpark", hu: "Tiilikkajärvi Nemzeti Park", ro: "Parcul Național Tiilikkajärvi", en: "Tiilikkajärvi National Park" },
@@ -408,7 +714,124 @@ export const finlandLifeV2: POI[] = [
     image: "/poi-images/finland-kolovesi-life-v2.webp",
   },
   {
-    id: "finland-hiidenportti-life-v2",
+    id: "finland-hiidenportti-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lapinhiekka",
+                  "text": "Strand Lapinhiekka im Hiidenportti-Nationalpark.",
+                  "category": "recreational",
+                  "coords": [
+                        29.028182,
+                        64.218118
+                  ]
+            },
+            {
+                  "name": "Uittohiekka",
+                  "text": "Strand Uittohiekka im Hiidenportti-Nationalpark.",
+                  "category": "recreational",
+                  "coords": [
+                        29.026133,
+                        64.247678
+                  ]
+            },
+            {
+                  "name": "Miekkahiekka",
+                  "text": "Strand Miekkahiekka im Hiidenportti-Nationalpark.",
+                  "category": "recreational",
+                  "coords": [
+                        29.026964,
+                        64.225951
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lapinhiekka",
+                  "text": "Lapinhiekka strand a Hiidenportti Nemzeti Parkban.",
+                  "category": "recreational",
+                  "coords": [
+                        29.028182,
+                        64.218118
+                  ]
+            },
+            {
+                  "name": "Uittohiekka",
+                  "text": "Uittohiekka strand a Hiidenportti Nemzeti Parkban.",
+                  "category": "recreational",
+                  "coords": [
+                        29.026133,
+                        64.247678
+                  ]
+            },
+            {
+                  "name": "Miekkahiekka",
+                  "text": "Miekkahiekka strand a Hiidenportti Nemzeti Parkban.",
+                  "category": "recreational",
+                  "coords": [
+                        29.026964,
+                        64.225951
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lapinhiekka",
+                  "text": "Plaja Lapinhiekka din Parcul Național Hiidenportti.",
+                  "category": "recreational",
+                  "coords": [
+                        29.028182,
+                        64.218118
+                  ]
+            },
+            {
+                  "name": "Uittohiekka",
+                  "text": "Plaja Uittohiekka din Parcul Național Hiidenportti.",
+                  "category": "recreational",
+                  "coords": [
+                        29.026133,
+                        64.247678
+                  ]
+            },
+            {
+                  "name": "Miekkahiekka",
+                  "text": "Plaja Miekkahiekka din Parcul Național Hiidenportti.",
+                  "category": "recreational",
+                  "coords": [
+                        29.026964,
+                        64.225951
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lapinhiekka",
+                  "text": "Lapinhiekka beach in Hiidenportti National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        29.028182,
+                        64.218118
+                  ]
+            },
+            {
+                  "name": "Uittohiekka",
+                  "text": "Uittohiekka beach in Hiidenportti National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        29.026133,
+                        64.247678
+                  ]
+            },
+            {
+                  "name": "Miekkahiekka",
+                  "text": "Miekkahiekka beach in Hiidenportti National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        29.026964,
+                        64.225951
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "FI",
     name: { de: "Hiidenportti Nationalpark", hu: "Hiidenportti Nemzeti Park", ro: "Parcul Național Hiidenportti", en: "Hiidenportti National Park" },
@@ -633,7 +1056,340 @@ export const finlandLifeV2: POI[] = [
     image: "/poi-images/finland-siikaneva-mire-life-v2.webp",
   },
   {
-    id: "finland-laajalahti-reserve-life-v2",
+    id: "finland-laajalahti-reserve-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Munkkiniemen uimaranta",
+                  "text": "Der Munkkiniemen uimaranta liegt im Naturschutzgebiet Laajalahti.",
+                  "category": "recreational",
+                  "coords": [
+                        24.856597,
+                        60.200678
+                  ]
+            },
+            {
+                  "name": "Westendin uimaranta",
+                  "text": "Der Westendin uimaranta liegt im Naturschutzgebiet Laajalahti.",
+                  "category": "recreational",
+                  "coords": [
+                        24.809951,
+                        60.16845
+                  ]
+            },
+            {
+                  "name": "Toppelundin uimaranta",
+                  "text": "Strand im Naturgebiet Laajalahti in der Nähe von Espoo.",
+                  "category": "recreational",
+                  "coords": [
+                        24.787495,
+                        60.156028
+                  ]
+            },
+            {
+                  "name": "Haukilahden uimaranta",
+                  "text": "Ein Strand an der Bucht Haukilahti in Espoo.",
+                  "category": "recreational",
+                  "coords": [
+                        24.781539,
+                        60.155633
+                  ]
+            },
+            {
+                  "name": "Karhusaaren uimaranta",
+                  "text": "Strand im Naturschutzgebiet Laajalahti.",
+                  "category": "recreational",
+                  "coords": [
+                        24.829752,
+                        60.166922
+                  ]
+            },
+            {
+                  "name": "Haukilahden uimaranta (Mellsten)",
+                  "text": "Haukilahden uimaranta ist ein Strand im Laajalahti-Reservat.",
+                  "category": "recreational",
+                  "coords": [
+                        24.773175,
+                        60.153707
+                  ]
+            },
+            {
+                  "name": "Toppelundin koirauimaranta",
+                  "text": "Hundestrand im Schutzgebiet Laajalahti.",
+                  "category": "recreational",
+                  "coords": [
+                        24.783949,
+                        60.156066
+                  ]
+            },
+            {
+                  "name": "Lehtisaaren uimaranta",
+                  "text": "Lehtisaaren uimaranta liegt im Laajalahti-Reservat.",
+                  "category": "recreational",
+                  "coords": [
+                        24.850503,
+                        60.174709
+                  ]
+            },
+            {
+                  "name": "Laajalahden uimaranta",
+                  "text": "Ein Strand am Naturschutzgebiet Laajalahti.",
+                  "category": "recreational",
+                  "coords": [
+                        24.829382,
+                        60.204236
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Munkkiniemen uimaranta",
+                  "text": "Munkkiniemen uimaranta a Laajalahti természetvédelmi területen található.",
+                  "category": "recreational",
+                  "coords": [
+                        24.856597,
+                        60.200678
+                  ]
+            },
+            {
+                  "name": "Westendin uimaranta",
+                  "text": "Westendin uimaranta a Laajalahti természetvédelmi területen található.",
+                  "category": "recreational",
+                  "coords": [
+                        24.809951,
+                        60.16845
+                  ]
+            },
+            {
+                  "name": "Toppelundin uimaranta",
+                  "text": "Strand a Laajalahti természetvédelmi területen, Espoo közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        24.787495,
+                        60.156028
+                  ]
+            },
+            {
+                  "name": "Haukilahden uimaranta",
+                  "text": "Strand a Haukilahti-öbölben, Espoo városában.",
+                  "category": "recreational",
+                  "coords": [
+                        24.781539,
+                        60.155633
+                  ]
+            },
+            {
+                  "name": "Karhusaaren uimaranta",
+                  "text": "Strand a Laajalahti természetvédelmi területen.",
+                  "category": "recreational",
+                  "coords": [
+                        24.829752,
+                        60.166922
+                  ]
+            },
+            {
+                  "name": "Haukilahden uimaranta (Mellsten)",
+                  "text": "Haukilahden uimaranta egy strand a Laajalahti Rezervátumban.",
+                  "category": "recreational",
+                  "coords": [
+                        24.773175,
+                        60.153707
+                  ]
+            },
+            {
+                  "name": "Toppelundin koirauimaranta",
+                  "text": "Kutyás strand a Laajalahti természetvédelmi területen.",
+                  "category": "recreational",
+                  "coords": [
+                        24.783949,
+                        60.156066
+                  ]
+            },
+            {
+                  "name": "Lehtisaaren uimaranta",
+                  "text": "A Lehtisaaren uimaranta a Laajalahti rezervátumban található.",
+                  "category": "recreational",
+                  "coords": [
+                        24.850503,
+                        60.174709
+                  ]
+            },
+            {
+                  "name": "Laajalahden uimaranta",
+                  "text": "Strand a Laajalahti természetvédelmi terület mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        24.829382,
+                        60.204236
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Munkkiniemen uimaranta",
+                  "text": "Munkkiniemen uimaranta se află în rezervația Laajalahti.",
+                  "category": "recreational",
+                  "coords": [
+                        24.856597,
+                        60.200678
+                  ]
+            },
+            {
+                  "name": "Westendin uimaranta",
+                  "text": "Westendin uimaranta se află în rezervația Laajalahti.",
+                  "category": "recreational",
+                  "coords": [
+                        24.809951,
+                        60.16845
+                  ]
+            },
+            {
+                  "name": "Toppelundin uimaranta",
+                  "text": "Plajă în rezervația naturală Laajalahti, lângă Espoo.",
+                  "category": "recreational",
+                  "coords": [
+                        24.787495,
+                        60.156028
+                  ]
+            },
+            {
+                  "name": "Haukilahden uimaranta",
+                  "text": "O plajă în golful Haukilahti din Espoo.",
+                  "category": "recreational",
+                  "coords": [
+                        24.781539,
+                        60.155633
+                  ]
+            },
+            {
+                  "name": "Karhusaaren uimaranta",
+                  "text": "Plajă în Rezervația Naturală Laajalahti.",
+                  "category": "recreational",
+                  "coords": [
+                        24.829752,
+                        60.166922
+                  ]
+            },
+            {
+                  "name": "Haukilahden uimaranta (Mellsten)",
+                  "text": "Haukilahden uimaranta este o plajă situată în Rezervația Laajalahti.",
+                  "category": "recreational",
+                  "coords": [
+                        24.773175,
+                        60.153707
+                  ]
+            },
+            {
+                  "name": "Toppelundin koirauimaranta",
+                  "text": "Plajă pentru câini în rezervația Laajalahti.",
+                  "category": "recreational",
+                  "coords": [
+                        24.783949,
+                        60.156066
+                  ]
+            },
+            {
+                  "name": "Lehtisaaren uimaranta",
+                  "text": "Lehtisaaren uimaranta este situată în rezervația Laajalahti.",
+                  "category": "recreational",
+                  "coords": [
+                        24.850503,
+                        60.174709
+                  ]
+            },
+            {
+                  "name": "Laajalahden uimaranta",
+                  "text": "O plajă lângă rezervația naturală Laajalahti.",
+                  "category": "recreational",
+                  "coords": [
+                        24.829382,
+                        60.204236
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Munkkiniemen uimaranta",
+                  "text": "Munkkiniemen uimaranta is located in the Laajalahti Reserve.",
+                  "category": "recreational",
+                  "coords": [
+                        24.856597,
+                        60.200678
+                  ]
+            },
+            {
+                  "name": "Westendin uimaranta",
+                  "text": "Westendin uimaranta is located in the Laajalahti Reserve.",
+                  "category": "recreational",
+                  "coords": [
+                        24.809951,
+                        60.16845
+                  ]
+            },
+            {
+                  "name": "Toppelundin uimaranta",
+                  "text": "Beach in the Laajalahti Nature Reserve near Espoo.",
+                  "category": "recreational",
+                  "coords": [
+                        24.787495,
+                        60.156028
+                  ]
+            },
+            {
+                  "name": "Haukilahden uimaranta",
+                  "text": "A beach in the Haukilahti bay in Espoo.",
+                  "category": "recreational",
+                  "coords": [
+                        24.781539,
+                        60.155633
+                  ]
+            },
+            {
+                  "name": "Karhusaaren uimaranta",
+                  "text": "Beach in Laajalahti Reserve.",
+                  "category": "recreational",
+                  "coords": [
+                        24.829752,
+                        60.166922
+                  ]
+            },
+            {
+                  "name": "Haukilahden uimaranta (Mellsten)",
+                  "text": "Haukilahden uimaranta is a beach in the Laajalahti Reserve.",
+                  "category": "recreational",
+                  "coords": [
+                        24.773175,
+                        60.153707
+                  ]
+            },
+            {
+                  "name": "Toppelundin koirauimaranta",
+                  "text": "Dog beach in the Laajalahti reserve.",
+                  "category": "recreational",
+                  "coords": [
+                        24.783949,
+                        60.156066
+                  ]
+            },
+            {
+                  "name": "Lehtisaaren uimaranta",
+                  "text": "Lehtisaaren uimaranta is located in the Laajalahti Reserve.",
+                  "category": "recreational",
+                  "coords": [
+                        24.850503,
+                        60.174709
+                  ]
+            },
+            {
+                  "name": "Laajalahden uimaranta",
+                  "text": "A beach by the Laajalahti nature reserve.",
+                  "category": "recreational",
+                  "coords": [
+                        24.829382,
+                        60.204236
+                  ]
+            }
+      ]
+},
     type: "wildlife",
     parent: "FI",
     name: { de: "Laajalahti Naturreservat", hu: "Laajalahti Természetvédelmi Terület", ro: "Rezervația Naturală Laajalahti", en: "Laajalahti Nature Reserve" },
@@ -723,7 +1479,196 @@ export const finlandLifeV2: POI[] = [
     image: "/poi-images/finland-liminganlahti-life-v2.webp",
   },
   {
-    id: "finland-heinola-bird-park-life-v2",
+    id: "finland-heinola-bird-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kylpylän uimaranta",
+                  "text": "Strand beim Heinola Vogelpark.",
+                  "category": "recreational",
+                  "coords": [
+                        26.024858,
+                        61.202343
+                  ]
+            },
+            {
+                  "name": "Kaivannon uimaranta",
+                  "text": "Strand beim Heinola Vogelpark.",
+                  "category": "recreational",
+                  "coords": [
+                        26.01754,
+                        61.213753
+                  ]
+            },
+            {
+                  "name": "Tähtiniemen uimaranta",
+                  "text": "Strand beim Heinola Vogelpark.",
+                  "category": "recreational",
+                  "coords": [
+                        26.008478,
+                        61.201285
+                  ]
+            },
+            {
+                  "name": "Myllyojan uimaranta",
+                  "text": "Strand beim Heinola Vogelpark.",
+                  "category": "recreational",
+                  "coords": [
+                        25.979545,
+                        61.165258
+                  ]
+            },
+            {
+                  "name": "Hevossaaren uimaranta",
+                  "text": "Strand beim Heinola Vogelpark.",
+                  "category": "recreational",
+                  "coords": [
+                        25.965712,
+                        61.213241
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kylpylän uimaranta",
+                  "text": "Strand a heinolai madárpark mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        26.024858,
+                        61.202343
+                  ]
+            },
+            {
+                  "name": "Kaivannon uimaranta",
+                  "text": "Strand a heinolai madárpark mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        26.01754,
+                        61.213753
+                  ]
+            },
+            {
+                  "name": "Tähtiniemen uimaranta",
+                  "text": "Strand a heinolai madárpark mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        26.008478,
+                        61.201285
+                  ]
+            },
+            {
+                  "name": "Myllyojan uimaranta",
+                  "text": "Strand a heinolai madárpark mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        25.979545,
+                        61.165258
+                  ]
+            },
+            {
+                  "name": "Hevossaaren uimaranta",
+                  "text": "Strand a heinolai madárpark mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        25.965712,
+                        61.213241
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kylpylän uimaranta",
+                  "text": "Plajă lângă Parcul de Păsări din Heinola.",
+                  "category": "recreational",
+                  "coords": [
+                        26.024858,
+                        61.202343
+                  ]
+            },
+            {
+                  "name": "Kaivannon uimaranta",
+                  "text": "Plajă lângă Parcul de Păsări din Heinola.",
+                  "category": "recreational",
+                  "coords": [
+                        26.01754,
+                        61.213753
+                  ]
+            },
+            {
+                  "name": "Tähtiniemen uimaranta",
+                  "text": "Plajă lângă Parcul de Păsări din Heinola.",
+                  "category": "recreational",
+                  "coords": [
+                        26.008478,
+                        61.201285
+                  ]
+            },
+            {
+                  "name": "Myllyojan uimaranta",
+                  "text": "Plajă lângă Parcul de Păsări din Heinola.",
+                  "category": "recreational",
+                  "coords": [
+                        25.979545,
+                        61.165258
+                  ]
+            },
+            {
+                  "name": "Hevossaaren uimaranta",
+                  "text": "Plajă lângă Parcul de Păsări din Heinola.",
+                  "category": "recreational",
+                  "coords": [
+                        25.965712,
+                        61.213241
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kylpylän uimaranta",
+                  "text": "Beach near Heinola Bird Park.",
+                  "category": "recreational",
+                  "coords": [
+                        26.024858,
+                        61.202343
+                  ]
+            },
+            {
+                  "name": "Kaivannon uimaranta",
+                  "text": "Beach near Heinola Bird Park.",
+                  "category": "recreational",
+                  "coords": [
+                        26.01754,
+                        61.213753
+                  ]
+            },
+            {
+                  "name": "Tähtiniemen uimaranta",
+                  "text": "Beach near Heinola Bird Park.",
+                  "category": "recreational",
+                  "coords": [
+                        26.008478,
+                        61.201285
+                  ]
+            },
+            {
+                  "name": "Myllyojan uimaranta",
+                  "text": "Beach near Heinola Bird Park.",
+                  "category": "recreational",
+                  "coords": [
+                        25.979545,
+                        61.165258
+                  ]
+            },
+            {
+                  "name": "Hevossaaren uimaranta",
+                  "text": "Beach near Heinola Bird Park.",
+                  "category": "recreational",
+                  "coords": [
+                        25.965712,
+                        61.213241
+                  ]
+            }
+      ]
+},
     type: "wildlife",
     parent: "FI",
     name: { de: "Heinola Vogelpark", hu: "Heinola Madárpark", ro: "Parcul de Păsări din Heinola", en: "Heinola Bird Park" },
@@ -768,7 +1713,52 @@ export const finlandLifeV2: POI[] = [
     image: "/poi-images/finland-heinola-bird-park-life-v2.webp",
   },
   {
-    id: "finland-botanical-garden-oulu-life-v2",
+    id: "finland-botanical-garden-oulu-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pateniemen uimapaikka",
+                  "text": "Pateniemen uimapaikka liegt nahe dem Botanischen Garten Oulu.",
+                  "category": "recreational",
+                  "coords": [
+                        25.388071,
+                        65.08129
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pateniemen uimapaikka",
+                  "text": "Pateniemen uimapaikka az Oului Botanikus Kert közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        25.388071,
+                        65.08129
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pateniemen uimapaikka",
+                  "text": "Pateniemen uimapaikka se află lângă Grădina Botanică din Oulu.",
+                  "category": "recreational",
+                  "coords": [
+                        25.388071,
+                        65.08129
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pateniemen uimapaikka",
+                  "text": "Pateniemen uimapaikka is located near the Oulu Botanical Garden.",
+                  "category": "recreational",
+                  "coords": [
+                        25.388071,
+                        65.08129
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "FI",
     name: { de: "Botanischer Garten Oulu", hu: "Oului Botanikus Kert", ro: "Grădina Botanică din Oulu", en: "Oulu Botanical Garden" },
@@ -813,7 +1803,52 @@ export const finlandLifeV2: POI[] = [
     image: "/poi-images/finland-botanical-garden-oulu-life-v2.webp",
   },
   {
-    id: "finland-kotka-sapokka-park-life-v2",
+    id: "finland-kotka-sapokka-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Santalahden ranta",
+                  "text": "Strand beim Sapokka-Park in Kotka.",
+                  "category": "recreational",
+                  "coords": [
+                        26.864405,
+                        60.436309
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Santalahden ranta",
+                  "text": "Strand a kotkai Sapokka parknál.",
+                  "category": "recreational",
+                  "coords": [
+                        26.864405,
+                        60.436309
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Santalahden ranta",
+                  "text": "Plajă lângă parcul Sapokka din Kotka.",
+                  "category": "recreational",
+                  "coords": [
+                        26.864405,
+                        60.436309
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Santalahden ranta",
+                  "text": "Beach by the Sapokka park in Kotka.",
+                  "category": "recreational",
+                  "coords": [
+                        26.864405,
+                        60.436309
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "FI",
     name: { de: "Sapokka Wasserpark", hu: "Sapokka Vízipark", ro: "Parcul Acvatic Sapokka", en: "Sapokka Water Park" },
@@ -858,7 +1893,88 @@ export const finlandLifeV2: POI[] = [
     image: "/poi-images/finland-kotka-sapokka-park-life-v2.webp",
   },
   {
-    id: "finland-nuuksio-national-park-life-v2",
+    id: "finland-nuuksio-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Siikajärven uimapaikka",
+                  "text": "Siikajärven uimapaikka liegt im Nuuksio-Nationalpark.",
+                  "category": "recreational",
+                  "coords": [
+                        24.516598,
+                        60.280459
+                  ]
+            },
+            {
+                  "name": "Lammaskallion uimaranta",
+                  "text": "Badestrand Lammaskallio im Nationalpark Nuuksio.",
+                  "category": "recreational",
+                  "coords": [
+                        24.425796,
+                        60.275869
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Siikajärven uimapaikka",
+                  "text": "Siikajärven uimapaikka a Nuuksio Nemzeti Parkban található.",
+                  "category": "recreational",
+                  "coords": [
+                        24.516598,
+                        60.280459
+                  ]
+            },
+            {
+                  "name": "Lammaskallion uimaranta",
+                  "text": "Lammaskallio strand a Nuuksio Nemzeti Parkban.",
+                  "category": "recreational",
+                  "coords": [
+                        24.425796,
+                        60.275869
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Siikajärven uimapaikka",
+                  "text": "Siikajärven uimapaikka se află în Parcul Național Nuuksio.",
+                  "category": "recreational",
+                  "coords": [
+                        24.516598,
+                        60.280459
+                  ]
+            },
+            {
+                  "name": "Lammaskallion uimaranta",
+                  "text": "Plaja Lammaskallio din Parcul Național Nuuksio.",
+                  "category": "recreational",
+                  "coords": [
+                        24.425796,
+                        60.275869
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Siikajärven uimapaikka",
+                  "text": "Siikajärven uimapaikka is in Nuuksio National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        24.516598,
+                        60.280459
+                  ]
+            },
+            {
+                  "name": "Lammaskallion uimaranta",
+                  "text": "Lammaskallio beach in Nuuksio National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        24.425796,
+                        60.275869
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "FI",
     name: { de: "Nuuksio Nationalpark", hu: "Nuuksio Nemzeti Park", ro: "Parcul Național Nuuksio", en: "Nuuksio National Park" },
@@ -903,7 +2019,52 @@ export const finlandLifeV2: POI[] = [
     image: "/poi-images/finland-nuuksio-national-park-life-v2.webp",
   },
   {
-    id: "finland-sipoonkorpi-life-v2",
+    id: "finland-sipoonkorpi-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Matarinpuiston uimaranta",
+                  "text": "Der Matarinpuiston uimaranta liegt bei Sipoonkorpi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.091659,
+                        60.332795
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Matarinpuiston uimaranta",
+                  "text": "Matarinpuiston uimaranta Sipoonkorpi közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        25.091659,
+                        60.332795
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Matarinpuiston uimaranta",
+                  "text": "Matarinpuiston uimaranta se află lângă Sipoonkorpi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.091659,
+                        60.332795
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Matarinpuiston uimaranta",
+                  "text": "Matarinpuiston uimaranta is near Sipoonkorpi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.091659,
+                        60.332795
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "FI",
     name: { de: "Sipoonkorpi Nationalpark", hu: "Sipoonkorpi Nemzeti Park", ro: "Parcul Național Sipoonkorpi", en: "Sipoonkorpi National Park" },

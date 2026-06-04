@@ -2363,7 +2363,88 @@ export const poiExtraDe2: POI[] = [
     
       "tr": ["Brocken, 1.141 m ile Kuzey Almanya'nın en yüksek noktasıdır.", "Nationalpark Harz, 24.700 hektarlık bir alanı kapsar.", "Rammelsberg madeni 1992'den beri UNESCO Dünya Mirası'dır.", "Harzer Schmalspurbahnen'in hat ağı yaklaşık 140 km'dir.", "Okertalsperre, 47 milyon m³ kapasiteye sahiptir.", "Harz'daki son yabani ayı 1718 yılında avlanmıştır."]}, image: "/poi-images/mnt-brocken-ni-extra.webp"},
       {
-    id: "river-weser-ni-extra",
+    id: "river-weser-ni-extra", "sights": {
+      "de": [
+            {
+                  "name": "Surfstrand Mardorf",
+                  "text": "Der Surfstrand Mardorf liegt am Steinhuder Meer bei Mardorf.",
+                  "category": "recreational",
+                  "coords": [
+                        9.34241,
+                        52.494212
+                  ]
+            },
+            {
+                  "name": "Badestrand Weiße Düne",
+                  "text": "Badestrand Weiße Düne an der Weser bei Nienburg.",
+                  "category": "recreational",
+                  "coords": [
+                        9.333369,
+                        52.493005
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Surfstrand Mardorf",
+                  "text": "A Surfstrand Mardorf a Steinhuder Meer-nél található.",
+                  "category": "recreational",
+                  "coords": [
+                        9.34241,
+                        52.494212
+                  ]
+            },
+            {
+                  "name": "Badestrand Weiße Düne",
+                  "text": "Badestrand Weiße Düne strand a Weser folyónál, Nienburg közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        9.333369,
+                        52.493005
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Surfstrand Mardorf",
+                  "text": "Plaja Surfstrand Mardorf este situată pe malul lacului Steinhuder Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        9.34241,
+                        52.494212
+                  ]
+            },
+            {
+                  "name": "Badestrand Weiße Düne",
+                  "text": "Plaja Badestrand Weiße Düne pe râul Weser lângă Nienburg.",
+                  "category": "recreational",
+                  "coords": [
+                        9.333369,
+                        52.493005
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Surfstrand Mardorf",
+                  "text": "Surfstrand Mardorf is located on Steinhuder Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        9.34241,
+                        52.494212
+                  ]
+            },
+            {
+                  "name": "Badestrand Weiße Düne",
+                  "text": "Badestrand Weiße Düne on the Weser river near Nienburg.",
+                  "category": "recreational",
+                  "coords": [
+                        9.333369,
+                        52.493005
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "DE-NI",
     coords: [9.3500, 52.5000],
@@ -3540,7 +3621,52 @@ export const poiExtraDe2: POI[] = [
 }
   },
   {
-    id: "island-norderney-extra",
+    id: "island-norderney-extra", "sights": {
+      "de": [
+            {
+                  "name": "Nordstrand",
+                  "text": "Der Nordstrand befindet sich auf der Insel Norderney.",
+                  "category": "recreational",
+                  "coords": [
+                        7.157326,
+                        53.715601
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nordstrand",
+                  "text": "A Nordstrand a Norderney szigeten található.",
+                  "category": "recreational",
+                  "coords": [
+                        7.157326,
+                        53.715601
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nordstrand",
+                  "text": "Plaja Nordstrand se află pe insula Norderney.",
+                  "category": "recreational",
+                  "coords": [
+                        7.157326,
+                        53.715601
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nordstrand",
+                  "text": "Nordstrand is located on the island of Norderney.",
+                  "category": "recreational",
+                  "coords": [
+                        7.157326,
+                        53.715601
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "DE-NI",
     coords: [7.1500, 53.7167],
@@ -6384,7 +6510,52 @@ export const poiExtraDe2: POI[] = [
     
       "tr": ["Yüzölçümü: yaklaşık 93,5 kilometrekare.", "1 Ekim 1990 tarihinde kurulmuştur.", "400 km'den fazla işaretli yürüyüş yolu vardır.", "Gökdoğan ve kara leylekler için koruma alanıdır.", "Alanın %75'i ormanlıktır.", "Çekya ile sınır ötesi iş birliği yapılmaktadır."]}, image: "/poi-images/forest-saechsische-schweiz-park-extra.webp"},
   {
-    id: "hist-moritzburg-extra",
+    id: "hist-moritzburg-extra", "sights": {
+      "de": [
+            {
+                  "name": "Strandbad Friedewald",
+                  "text": "Das Strandbad Friedewald liegt bei Moritzburg.",
+                  "category": "recreational",
+                  "coords": [
+                        13.665122,
+                        51.141512
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Strandbad Friedewald",
+                  "text": "A Friedewald strandfürdő Moritzburg közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        13.665122,
+                        51.141512
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Strandbad Friedewald",
+                  "text": "Ștrandul Friedewald se află lângă Moritzburg.",
+                  "category": "recreational",
+                  "coords": [
+                        13.665122,
+                        51.141512
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Strandbad Friedewald",
+                  "text": "The Friedewald beach area is located near Moritzburg.",
+                  "category": "recreational",
+                  "coords": [
+                        13.665122,
+                        51.141512
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "DE-SN",
     coords: [13.6797, 51.1581],

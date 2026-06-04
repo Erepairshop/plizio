@@ -273,7 +273,52 @@ export const bulgariaNatureV2: POI[] = [
     image: "/poi-images/bulgaria-batak-dam-nature-v2.webp",
   },
   {
-    id: "bulgaria-kamchia-river-nature-v2",
+    id: "bulgaria-kamchia-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shkorpilovtsi",
+                  "text": "Ein Strand am Fluss Kamchia am Schwarzen Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        27.895159,
+                        42.978491
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shkorpilovtsi",
+                  "text": "Strand a Kamchia folyónál a Fekete-tengeren.",
+                  "category": "recreational",
+                  "coords": [
+                        27.895159,
+                        42.978491
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shkorpilovtsi",
+                  "text": "O plajă la râul Kamchia la Marea Neagră.",
+                  "category": "recreational",
+                  "coords": [
+                        27.895159,
+                        42.978491
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shkorpilovtsi",
+                  "text": "A beach at the Kamchia River on the Black Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        27.895159,
+                        42.978491
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "BG",
     name: { de: "Kamtschija", hu: "Kamcsija", ro: "Kamcia", en: "Kamchia River" },

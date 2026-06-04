@@ -168,6 +168,24 @@ export const polandCitiesV2: POI[] = [
                         21.028056,
                         52.214722
                   ]
+            },
+            {
+                  "name": "Poniatówka",
+                  "text": "Poniatówka-Strand in Warschau.",
+                  "category": "recreational",
+                  "coords": [
+                        21.042015,
+                        52.236728
+                  ]
+            },
+            {
+                  "name": "Plaża Saska",
+                  "text": "Strand Saska in Warschau.",
+                  "category": "recreational",
+                  "coords": [
+                        21.049662,
+                        52.228123
+                  ]
             }
       ],
       "hu": [
@@ -289,6 +307,24 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         21.028056,
                         52.214722
+                  ]
+            },
+            {
+                  "name": "Poniatówka",
+                  "text": "Poniatówka strand Varsóban.",
+                  "category": "recreational",
+                  "coords": [
+                        21.042015,
+                        52.236728
+                  ]
+            },
+            {
+                  "name": "Plaża Saska",
+                  "text": "Saska strand Varsóban.",
+                  "category": "recreational",
+                  "coords": [
+                        21.049662,
+                        52.228123
                   ]
             }
       ],
@@ -412,6 +448,24 @@ export const polandCitiesV2: POI[] = [
                         21.028056,
                         52.214722
                   ]
+            },
+            {
+                  "name": "Poniatówka",
+                  "text": "Plaja Poniatówka din Varșovia.",
+                  "category": "recreational",
+                  "coords": [
+                        21.042015,
+                        52.236728
+                  ]
+            },
+            {
+                  "name": "Plaża Saska",
+                  "text": "Plaja Saska din Varșovia.",
+                  "category": "recreational",
+                  "coords": [
+                        21.049662,
+                        52.228123
+                  ]
             }
       ],
       "en": [
@@ -533,6 +587,24 @@ export const polandCitiesV2: POI[] = [
                   "coords": [
                         21.028056,
                         52.214722
+                  ]
+            },
+            {
+                  "name": "Poniatówka",
+                  "text": "Poniatówka beach in Warsaw.",
+                  "category": "recreational",
+                  "coords": [
+                        21.042015,
+                        52.236728
+                  ]
+            },
+            {
+                  "name": "Plaża Saska",
+                  "text": "Saska beach in Warsaw.",
+                  "category": "recreational",
+                  "coords": [
+                        21.049662,
+                        52.228123
                   ]
             }
       ]
@@ -674,7 +746,52 @@ export const polandCitiesV2: POI[] = [
       fr: ["Quatrième plus grande ville de Pologne", "Capitale historique de la Silésie", "Située sur l'Oder sur 12 îles", "Plus de 100 ponts, surnommée la « Venise polonaise »", "La place du Marché (Rynek) est l'une des plus grandes d'Europe", "La Halle du Centenaire est inscrite au patrimoine mondial de l'UNESCO", "Célèbre pour ses centaines de statues de nains", "Abrite le Panorama de Racławice", "Capitale européenne de la culture 2016", "L'île de la Cathédrale (Ostrów Tumski) est la partie la plus ancienne de la ville", "Siège de l'une des plus anciennes universités de la région", "Site important pour les entreprises d'informatique et de recherche"],
     }, image: "/poi-images/poland-wroclaw-cities-v2.webp"},
   {
-    id: "poland-poznan-cities-v2",
+    id: "poland-poznan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plaża Miejska Wilda",
+                  "text": "Städtischer Strand Wilda in Poznan.",
+                  "category": "recreational",
+                  "coords": [
+                        16.93821,
+                        52.391153
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plaża Miejska Wilda",
+                  "text": "Wilda városi strand Poznańban.",
+                  "category": "recreational",
+                  "coords": [
+                        16.93821,
+                        52.391153
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plaża Miejska Wilda",
+                  "text": "Plaja urbană Wilda din Poznań.",
+                  "category": "recreational",
+                  "coords": [
+                        16.93821,
+                        52.391153
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plaża Miejska Wilda",
+                  "text": "Wilda urban beach in Poznań.",
+                  "category": "recreational",
+                  "coords": [
+                        16.93821,
+                        52.391153
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "city",
     name: { de: "Posen", hu: "Poznań", ro: "Poznań", en: "Poznań"},
@@ -809,7 +926,52 @@ export const polandCitiesV2: POI[] = [
       fr: ["Capitale de la voïvodie de Poméranie occidentale", "Grand port maritime sur l'Oder", "Située près de la frontière allemande", "Plan de la ville inspiré de Paris", "Le château des ducs de Poméranie est un monument important", "La terrasse de Haken (Wały Chrobrego) est une célèbre promenade au bord de l'eau", "Siège de la Philharmonie de Szczecin, un bâtiment moderne primé", "Plus grande ville du nord-ouest de la Pologne", "Le Szczecin souterrain était un bunker de la protection civile de la guerre froide", "La cathédrale Saint-Jacques est l'une des plus grandes églises de Poméranie", "La ville a été lourdement endommagée pendant la Seconde Guerre mondiale", "Site important pour l'industrie navale"],
     }, image: "/poi-images/poland-szczecin-cities-v2.webp"},
   {
-    id: "poland-bydgoszcz-cities-v2",
+    id: "poland-bydgoszcz-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wakepark Bydgoszcz",
+                  "text": "Strand in Bydgoszcz am Wakepark.",
+                  "category": "recreational",
+                  "coords": [
+                        18.028876,
+                        53.162987
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wakepark Bydgoszcz",
+                  "text": "Strand Bydgoszczban, a Wakeparknál.",
+                  "category": "recreational",
+                  "coords": [
+                        18.028876,
+                        53.162987
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wakepark Bydgoszcz",
+                  "text": "Plajă în Bydgoszcz la Wakepark.",
+                  "category": "recreational",
+                  "coords": [
+                        18.028876,
+                        53.162987
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wakepark Bydgoszcz",
+                  "text": "Beach in Bydgoszcz at the Wakepark.",
+                  "category": "recreational",
+                  "coords": [
+                        18.028876,
+                        53.162987
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "city",
     name: { de: "Bromberg", hu: "Bydgoszcz", ro: "Bydgoszcz", en: "Bydgoszcz"},
@@ -1079,7 +1241,52 @@ export const polandCitiesV2: POI[] = [
       fr: ["Capitale spirituelle de la Pologne avec le monastère de Jasna Góra", "La Vierge Noire est l'icône la plus vénérée du pays", "Située dans le Jura de Cracovie-Częstochowa", "Visitée chaque année par plus de 4 millions de pèlerins", "L'avenue de la Sainte-Vierge-Marie relie la vieille ville au monastère", "Possède une longue tradition dans l'industrie métallurgique et textile"],
     }, image: "/poi-images/poland-czestochowa-cities-v2.webp"},
   {
-    id: "poland-radom-cities-v2",
+    id: "poland-radom-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kąpielisko Borki",
+                  "text": "Badeplatz Borki in Radom.",
+                  "category": "recreational",
+                  "coords": [
+                        21.117845,
+                        51.392829
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kąpielisko Borki",
+                  "text": "Borki fürdőhely Radomban.",
+                  "category": "recreational",
+                  "coords": [
+                        21.117845,
+                        51.392829
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kąpielisko Borki",
+                  "text": "Zona de scăldat Borki în Radom.",
+                  "category": "recreational",
+                  "coords": [
+                        21.117845,
+                        51.392829
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kąpielisko Borki",
+                  "text": "Bathing area Borki in Radom.",
+                  "category": "recreational",
+                  "coords": [
+                        21.117845,
+                        51.392829
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "city",
     name: { de: "Radom", hu: "Radom", ro: "Radom", en: "Radom"},
@@ -1259,7 +1466,52 @@ export const polandCitiesV2: POI[] = [
       fr: ["Située dans les montagnes de la Sainte-Croix, l'une des plus anciennes d'Europe", "Possède le palais des évêques de Cracovie, l'un des mieux conservés de Pologne", "Abrite cinq réserves naturelles géologiques, dont Kadzielnia", "Lieu du Salon international de l'industrie de la défense (MSPO)", "Site important pour l'industrie du ciment et du calcaire", "La rue Sienkiewicza est l'une des plus longues zones piétonnes de Pologne"],
     }, image: "/poi-images/poland-kielce-cities-v2.webp"},
   {
-    id: "poland-rzeszow-cities-v2",
+    id: "poland-rzeszow-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plaża miejska „Split”",
+                  "text": "Städtischer Strand „Split“ in Rzeszów.",
+                  "category": "recreational",
+                  "coords": [
+                        22.000237,
+                        50.017578
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plaża miejska „Split”",
+                  "text": "Városi strand „Split” Rzeszówban.",
+                  "category": "recreational",
+                  "coords": [
+                        22.000237,
+                        50.017578
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plaża miejska „Split”",
+                  "text": "Plaja orășenească „Split” din Rzeszów.",
+                  "category": "recreational",
+                  "coords": [
+                        22.000237,
+                        50.017578
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plaża miejska „Split”",
+                  "text": "Municipal beach named „Split” in Rzeszow.",
+                  "category": "recreational",
+                  "coords": [
+                        22.000237,
+                        50.017578
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "city",
     name: { de: "Reichshof", hu: "Rzeszów", ro: "Rzeszów", en: "Rzeszów"},
@@ -1400,7 +1652,232 @@ export const polandCitiesV2: POI[] = [
     },
   },
   {
-    id: "poland-olsztyn-cities-v2",
+    id: "poland-olsztyn-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Czarcie Wrota",
+                  "text": "Strand Czarcie Wrota in Olsztyn.",
+                  "category": "recreational",
+                  "coords": [
+                        20.40757,
+                        53.785074
+                  ]
+            },
+            {
+                  "name": "Zakręt",
+                  "text": "Strand Zakręt in Olsztyn.",
+                  "category": "recreational",
+                  "coords": [
+                        20.411656,
+                        53.790155
+                  ]
+            },
+            {
+                  "name": "Plaża Miejska nr 1",
+                  "text": "Städtischer Strand Nr. 1 in Olsztyn.",
+                  "category": "recreational",
+                  "coords": [
+                        20.448548,
+                        53.778078
+                  ]
+            },
+            {
+                  "name": "Plaża Miejska nr 2",
+                  "text": "Städtischer Strand Nr. 2 in Olsztyn.",
+                  "category": "recreational",
+                  "coords": [
+                        20.446659,
+                        53.776401
+                  ]
+            },
+            {
+                  "name": "Kąpielisko „PLAŻA MIEJSKA NR 3”",
+                  "text": "Städtischer Strand Nr. 3 in Olsztyn.",
+                  "category": "recreational",
+                  "coords": [
+                        20.444484,
+                        53.773769
+                  ]
+            },
+            {
+                  "name": "Plaża Trawiasta",
+                  "text": "Grasstrand in Olsztyn.",
+                  "category": "recreational",
+                  "coords": [
+                        20.526355,
+                        53.761252
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Czarcie Wrota",
+                  "text": "Czarcie Wrota strand Olsztynban.",
+                  "category": "recreational",
+                  "coords": [
+                        20.40757,
+                        53.785074
+                  ]
+            },
+            {
+                  "name": "Zakręt",
+                  "text": "Zakręt strand Olsztynban.",
+                  "category": "recreational",
+                  "coords": [
+                        20.411656,
+                        53.790155
+                  ]
+            },
+            {
+                  "name": "Plaża Miejska nr 1",
+                  "text": "1. számú városi strand Olsztynban.",
+                  "category": "recreational",
+                  "coords": [
+                        20.448548,
+                        53.778078
+                  ]
+            },
+            {
+                  "name": "Plaża Miejska nr 2",
+                  "text": "2. számú városi strand Olsztynban.",
+                  "category": "recreational",
+                  "coords": [
+                        20.446659,
+                        53.776401
+                  ]
+            },
+            {
+                  "name": "Kąpielisko „PLAŻA MIEJSKA NR 3”",
+                  "text": "3. számú városi strand Olsztynban.",
+                  "category": "recreational",
+                  "coords": [
+                        20.444484,
+                        53.773769
+                  ]
+            },
+            {
+                  "name": "Plaża Trawiasta",
+                  "text": "Füves strand Olsztynban.",
+                  "category": "recreational",
+                  "coords": [
+                        20.526355,
+                        53.761252
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Czarcie Wrota",
+                  "text": "Plaja Czarcie Wrota în Olsztyn.",
+                  "category": "recreational",
+                  "coords": [
+                        20.40757,
+                        53.785074
+                  ]
+            },
+            {
+                  "name": "Zakręt",
+                  "text": "Plaja Zakręt în Olsztyn.",
+                  "category": "recreational",
+                  "coords": [
+                        20.411656,
+                        53.790155
+                  ]
+            },
+            {
+                  "name": "Plaża Miejska nr 1",
+                  "text": "Plaja urbană nr. 1 din Olsztyn.",
+                  "category": "recreational",
+                  "coords": [
+                        20.448548,
+                        53.778078
+                  ]
+            },
+            {
+                  "name": "Plaża Miejska nr 2",
+                  "text": "Plaja urbană nr. 2 din Olsztyn.",
+                  "category": "recreational",
+                  "coords": [
+                        20.446659,
+                        53.776401
+                  ]
+            },
+            {
+                  "name": "Kąpielisko „PLAŻA MIEJSKA NR 3”",
+                  "text": "Plaja urbană nr. 3 din Olsztyn.",
+                  "category": "recreational",
+                  "coords": [
+                        20.444484,
+                        53.773769
+                  ]
+            },
+            {
+                  "name": "Plaża Trawiasta",
+                  "text": "Plajă cu iarbă în Olsztyn.",
+                  "category": "recreational",
+                  "coords": [
+                        20.526355,
+                        53.761252
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Czarcie Wrota",
+                  "text": "Czarcie Wrota beach in Olsztyn.",
+                  "category": "recreational",
+                  "coords": [
+                        20.40757,
+                        53.785074
+                  ]
+            },
+            {
+                  "name": "Zakręt",
+                  "text": "Zakręt beach in Olsztyn.",
+                  "category": "recreational",
+                  "coords": [
+                        20.411656,
+                        53.790155
+                  ]
+            },
+            {
+                  "name": "Plaża Miejska nr 1",
+                  "text": "Urban beach No. 1 in Olsztyn.",
+                  "category": "recreational",
+                  "coords": [
+                        20.448548,
+                        53.778078
+                  ]
+            },
+            {
+                  "name": "Plaża Miejska nr 2",
+                  "text": "Urban beach No. 2 in Olsztyn.",
+                  "category": "recreational",
+                  "coords": [
+                        20.446659,
+                        53.776401
+                  ]
+            },
+            {
+                  "name": "Kąpielisko „PLAŻA MIEJSKA NR 3”",
+                  "text": "Urban beach No. 3 in Olsztyn.",
+                  "category": "recreational",
+                  "coords": [
+                        20.444484,
+                        53.773769
+                  ]
+            },
+            {
+                  "name": "Plaża Trawiasta",
+                  "text": "Grass beach in Olsztyn.",
+                  "category": "recreational",
+                  "coords": [
+                        20.526355,
+                        53.761252
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "city",
     name: { de: "Allenstein", hu: "Olsztyn", ro: "Olsztyn", en: "Olsztyn"},
@@ -1682,7 +2159,52 @@ export const polandCitiesV2: POI[] = [
     },
   },
   {
-    id: "poland-opole-cities-v2",
+    id: "poland-opole-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kąpielisko Silesia",
+                  "text": "Strandbad Silesia in Opole.",
+                  "category": "recreational",
+                  "coords": [
+                        17.925262,
+                        50.695911
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kąpielisko Silesia",
+                  "text": "Silesia strand Opoleben.",
+                  "category": "recreational",
+                  "coords": [
+                        17.925262,
+                        50.695911
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kąpielisko Silesia",
+                  "text": "Plaja Silesia din Opole.",
+                  "category": "recreational",
+                  "coords": [
+                        17.925262,
+                        50.695911
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kąpielisko Silesia",
+                  "text": "Silesia beach in Opole.",
+                  "category": "recreational",
+                  "coords": [
+                        17.925262,
+                        50.695911
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "city",
     name: { de: "Oppeln", hu: "Opole", ro: "Opole", en: "Opole"},
@@ -2293,7 +2815,52 @@ export const polandCitiesV2: POI[] = [
     },
   },
   {
-    id: "poland-grudziadz-cities-v2",
+    id: "poland-grudziadz-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kąpielisko Plaża Tarpno",
+                  "text": "Strandbad Tarpno in Grudziądz.",
+                  "category": "recreational",
+                  "coords": [
+                        18.82515,
+                        53.492169
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kąpielisko Plaża Tarpno",
+                  "text": "Tarpno strand Grudziądzban.",
+                  "category": "recreational",
+                  "coords": [
+                        18.82515,
+                        53.492169
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kąpielisko Plaża Tarpno",
+                  "text": "Plaja Tarpno din Grudziądz.",
+                  "category": "recreational",
+                  "coords": [
+                        18.82515,
+                        53.492169
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kąpielisko Plaża Tarpno",
+                  "text": "Tarpno beach in Grudziądz.",
+                  "category": "recreational",
+                  "coords": [
+                        18.82515,
+                        53.492169
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "city",
     name: { de: "Graudenz", hu: "Grudziądz", ro: "Grudziądz", en: "Grudziądz"},
@@ -2575,7 +3142,52 @@ export const polandCitiesV2: POI[] = [
     },
   },
   {
-    id: "poland-myslowice-cities-v2",
+    id: "poland-myslowice-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hubertus Wake&Fun",
+                  "text": "Wassersport-Strandgelände in Mysłowice.",
+                  "category": "recreational",
+                  "coords": [
+                        19.123954,
+                        50.263869
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hubertus Wake&Fun",
+                  "text": "Vízi sportolási terület Mysłowicében.",
+                  "category": "recreational",
+                  "coords": [
+                        19.123954,
+                        50.263869
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hubertus Wake&Fun",
+                  "text": "Zonă de plajă pentru sporturi nautice în Mysłowice.",
+                  "category": "recreational",
+                  "coords": [
+                        19.123954,
+                        50.263869
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hubertus Wake&Fun",
+                  "text": "Beach area for water sports in Mysłowice.",
+                  "category": "recreational",
+                  "coords": [
+                        19.123954,
+                        50.263869
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "city",
     name: { de: "Myslowitz", hu: "Mysłowice", ro: "Mysłowice", en: "Mysłowice"},
@@ -2669,7 +3281,52 @@ export const polandCitiesV2: POI[] = [
     },
   },
   {
-    id: "poland-pila-cities-v2",
+    id: "poland-pila-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Piaszczyste",
+                  "text": "Strand Piaszczyste in Piła.",
+                  "category": "recreational",
+                  "coords": [
+                        16.710318,
+                        53.130733
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Piaszczyste",
+                  "text": "Piaszczyste strand Piłában.",
+                  "category": "recreational",
+                  "coords": [
+                        16.710318,
+                        53.130733
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Piaszczyste",
+                  "text": "Plaja Piaszczyste din Piła.",
+                  "category": "recreational",
+                  "coords": [
+                        16.710318,
+                        53.130733
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Piaszczyste",
+                  "text": "Piaszczyste beach in Piła.",
+                  "category": "recreational",
+                  "coords": [
+                        16.710318,
+                        53.130733
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "city",
     name: { de: "Schneidemühl", hu: "Piła", ro: "Piła", en: "Piła"},
@@ -2716,7 +3373,52 @@ export const polandCitiesV2: POI[] = [
     },
   },
   {
-    id: "poland-piotrkow-trybunalski-cities-v2",
+    id: "poland-piotrkow-trybunalski-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Słoneczko",
+                  "text": "Strand Słoneczko in Piotrków Trybunalski.",
+                  "category": "recreational",
+                  "coords": [
+                        19.727001,
+                        51.408741
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Słoneczko",
+                  "text": "Słoneczko strand Piotrków Trybunalskiban.",
+                  "category": "recreational",
+                  "coords": [
+                        19.727001,
+                        51.408741
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Słoneczko",
+                  "text": "Plaja Słoneczko din Piotrków Trybunalski.",
+                  "category": "recreational",
+                  "coords": [
+                        19.727001,
+                        51.408741
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Słoneczko",
+                  "text": "Słoneczko beach in Piotrków Trybunalski.",
+                  "category": "recreational",
+                  "coords": [
+                        19.727001,
+                        51.408741
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "city",
     name: { de: "Petrikau", hu: "Piotrków Trybunalski", ro: "Piotrków Trybunalski", en: "Piotrków Trybunalski"},
@@ -3186,7 +3888,52 @@ export const polandCitiesV2: POI[] = [
     },
   },
   {
-    id: "poland-pabianice-cities-v2",
+    id: "poland-pabianice-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Piaszczysta plaża na Lewitynie",
+                  "text": "Sandstrand in Lewityn, Pabianice.",
+                  "category": "recreational",
+                  "coords": [
+                        19.370789,
+                        51.649168
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Piaszczysta plaża na Lewitynie",
+                  "text": "Homokos strand Lewitynben, Pabianice városában.",
+                  "category": "recreational",
+                  "coords": [
+                        19.370789,
+                        51.649168
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Piaszczysta plaża na Lewitynie",
+                  "text": "Plajă cu nisip în Lewityn, Pabianice.",
+                  "category": "recreational",
+                  "coords": [
+                        19.370789,
+                        51.649168
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Piaszczysta plaża na Lewitynie",
+                  "text": "Sandy beach in Lewityn, Pabianice.",
+                  "category": "recreational",
+                  "coords": [
+                        19.370789,
+                        51.649168
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "city",
     name: { de: "Pabianice", hu: "Pabianice", ro: "Pabianice", en: "Pabianice"},
@@ -3703,7 +4450,52 @@ export const polandCitiesV2: POI[] = [
     },
   },
   {
-    id: "poland-swidnica-cities-v2",
+    id: "poland-swidnica-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tarasy do opalania",
+                  "text": "Sonnenterrassen in Swidnica.",
+                  "category": "recreational",
+                  "coords": [
+                        16.490102,
+                        50.832026
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tarasy do opalania",
+                  "text": "Napozóteraszok Swidnicában.",
+                  "category": "recreational",
+                  "coords": [
+                        16.490102,
+                        50.832026
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tarasy do opalania",
+                  "text": "Terase pentru plajă în Swidnica.",
+                  "category": "recreational",
+                  "coords": [
+                        16.490102,
+                        50.832026
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tarasy do opalania",
+                  "text": "Sun terraces in Swidnica.",
+                  "category": "recreational",
+                  "coords": [
+                        16.490102,
+                        50.832026
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "city",
     name: { de: "Schweidnitz", hu: "Świdnica", ro: "Świdnica", en: "Świdnica"},
@@ -3750,7 +4542,52 @@ export const polandCitiesV2: POI[] = [
     },
   },
   {
-    id: "poland-bedzin-cities-v2",
+    id: "poland-bedzin-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plaża miejska",
+                  "text": "Städtischer Strand in Bedzin.",
+                  "category": "recreational",
+                  "coords": [
+                        19.145748,
+                        50.330786
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plaża miejska",
+                  "text": "Városi strand Bedzinben.",
+                  "category": "recreational",
+                  "coords": [
+                        19.145748,
+                        50.330786
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plaża miejska",
+                  "text": "Plajă urbană în Będzin.",
+                  "category": "recreational",
+                  "coords": [
+                        19.145748,
+                        50.330786
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plaża miejska",
+                  "text": "Urban beach in Będzin.",
+                  "category": "recreational",
+                  "coords": [
+                        19.145748,
+                        50.330786
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "city",
     name: { de: "Bendzin", hu: "Będzin", ro: "Będzin", en: "Będzin"},
@@ -4736,7 +5573,160 @@ export const polandCitiesV2: POI[] = [
   }
 ,
   {
-    id: "poland-sopot-cities-v2",
+    id: "poland-sopot-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plaża strzeżona \"Jelitkowo\"",
+                  "text": "Überwachter Strand Jelitkowo in Sopot.",
+                  "category": "recreational",
+                  "coords": [
+                        18.59785,
+                        54.426354
+                  ]
+            },
+            {
+                  "name": "Plaża strzeżona \"Klipper Jelitkowo\"",
+                  "text": "Überwachter Strand Klipper Jelitkowo in Sopot.",
+                  "category": "recreational",
+                  "coords": [
+                        18.602277,
+                        54.423966
+                  ]
+            },
+            {
+                  "name": "Wejście 5",
+                  "text": "Strandzugang Nr. 5 in Sopot.",
+                  "category": "recreational",
+                  "coords": [
+                        18.561487,
+                        54.458536
+                  ]
+            },
+            {
+                  "name": "Plaża dla psów",
+                  "text": "Hundestrand in Sopot.",
+                  "category": "recreational",
+                  "coords": [
+                        18.562522,
+                        54.466979
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plaża strzeżona \"Jelitkowo\"",
+                  "text": "Jelitkowo őrzött strand Sopotban.",
+                  "category": "recreational",
+                  "coords": [
+                        18.59785,
+                        54.426354
+                  ]
+            },
+            {
+                  "name": "Plaża strzeżona \"Klipper Jelitkowo\"",
+                  "text": "Klipper Jelitkowo őrzött strand Sopotban.",
+                  "category": "recreational",
+                  "coords": [
+                        18.602277,
+                        54.423966
+                  ]
+            },
+            {
+                  "name": "Wejście 5",
+                  "text": "5. strandbejárat Sopotban.",
+                  "category": "recreational",
+                  "coords": [
+                        18.561487,
+                        54.458536
+                  ]
+            },
+            {
+                  "name": "Plaża dla psów",
+                  "text": "Kutyastrand Sopotban.",
+                  "category": "recreational",
+                  "coords": [
+                        18.562522,
+                        54.466979
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plaża strzeżona \"Jelitkowo\"",
+                  "text": "Plajă supravegheată Jelitkowo în Sopot.",
+                  "category": "recreational",
+                  "coords": [
+                        18.59785,
+                        54.426354
+                  ]
+            },
+            {
+                  "name": "Plaża strzeżona \"Klipper Jelitkowo\"",
+                  "text": "Plajă supravegheată Klipper Jelitkowo în Sopot.",
+                  "category": "recreational",
+                  "coords": [
+                        18.602277,
+                        54.423966
+                  ]
+            },
+            {
+                  "name": "Wejście 5",
+                  "text": "Intrarea pe plajă nr. 5 în Sopot.",
+                  "category": "recreational",
+                  "coords": [
+                        18.561487,
+                        54.458536
+                  ]
+            },
+            {
+                  "name": "Plaża dla psów",
+                  "text": "Plajă pentru câini în Sopot.",
+                  "category": "recreational",
+                  "coords": [
+                        18.562522,
+                        54.466979
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plaża strzeżona \"Jelitkowo\"",
+                  "text": "Lifeguarded beach Jelitkowo in Sopot.",
+                  "category": "recreational",
+                  "coords": [
+                        18.59785,
+                        54.426354
+                  ]
+            },
+            {
+                  "name": "Plaża strzeżona \"Klipper Jelitkowo\"",
+                  "text": "Lifeguarded beach Klipper Jelitkowo in Sopot.",
+                  "category": "recreational",
+                  "coords": [
+                        18.602277,
+                        54.423966
+                  ]
+            },
+            {
+                  "name": "Wejście 5",
+                  "text": "Beach entrance No. 5 in Sopot.",
+                  "category": "recreational",
+                  "coords": [
+                        18.561487,
+                        54.458536
+                  ]
+            },
+            {
+                  "name": "Plaża dla psów",
+                  "text": "Dog beach in Sopot.",
+                  "category": "recreational",
+                  "coords": [
+                        18.562522,
+                        54.466979
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PL",
     name: { de: "Sopot", hu: "Sopot", ro: "Sopot", en: "Sopot" },

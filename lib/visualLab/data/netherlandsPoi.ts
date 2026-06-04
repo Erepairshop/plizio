@@ -1174,7 +1174,196 @@ export const netherlandsCities: POI[] = [
     },
   },
   {
-    id: "NL-LM-ZAA", type: "landmark", parent: "NL-NH", coords: [4.82, 52.47],
+    id: "NL-LM-ZAA", "sights": {
+      "de": [
+            {
+                  "name": "Kuifeend",
+                  "text": "Strand Kuifeend bei Nl Lm Zaa.",
+                  "category": "recreational",
+                  "coords": [
+                        4.838526,
+                        52.464245
+                  ]
+            },
+            {
+                  "name": "Aalscholverstrand",
+                  "text": "Aalscholverstrand nahe Zaanstad.",
+                  "category": "recreational",
+                  "coords": [
+                        4.833724,
+                        52.461356
+                  ]
+            },
+            {
+                  "name": "Watersnip",
+                  "text": "Watersnip Strand nahe Zaanstad.",
+                  "category": "recreational",
+                  "coords": [
+                        4.833849,
+                        52.463461
+                  ]
+            },
+            {
+                  "name": "Fuut",
+                  "text": "Fuut Strand nahe Zaanstad.",
+                  "category": "recreational",
+                  "coords": [
+                        4.83126,
+                        52.462705
+                  ]
+            },
+            {
+                  "name": "Smient",
+                  "text": "Smient Strand nahe Zaanstad.",
+                  "category": "recreational",
+                  "coords": [
+                        4.831596,
+                        52.461558
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kuifeend",
+                  "text": "Kuifeend strand, Nl Lm Zaa közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        4.838526,
+                        52.464245
+                  ]
+            },
+            {
+                  "name": "Aalscholverstrand",
+                  "text": "Aalscholverstrand strand Zaanstad közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        4.833724,
+                        52.461356
+                  ]
+            },
+            {
+                  "name": "Watersnip",
+                  "text": "Watersnip strand Zaanstad közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        4.833849,
+                        52.463461
+                  ]
+            },
+            {
+                  "name": "Fuut",
+                  "text": "Fuut strand Zaanstad közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        4.83126,
+                        52.462705
+                  ]
+            },
+            {
+                  "name": "Smient",
+                  "text": "Smient strand Zaanstad közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        4.831596,
+                        52.461558
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kuifeend",
+                  "text": "Plaja Kuifeend, lângă Nl Lm Zaa.",
+                  "category": "recreational",
+                  "coords": [
+                        4.838526,
+                        52.464245
+                  ]
+            },
+            {
+                  "name": "Aalscholverstrand",
+                  "text": "Aalscholverstrand lângă Zaanstad.",
+                  "category": "recreational",
+                  "coords": [
+                        4.833724,
+                        52.461356
+                  ]
+            },
+            {
+                  "name": "Watersnip",
+                  "text": "Watersnip lângă Zaanstad.",
+                  "category": "recreational",
+                  "coords": [
+                        4.833849,
+                        52.463461
+                  ]
+            },
+            {
+                  "name": "Fuut",
+                  "text": "Fuut lângă Zaanstad.",
+                  "category": "recreational",
+                  "coords": [
+                        4.83126,
+                        52.462705
+                  ]
+            },
+            {
+                  "name": "Smient",
+                  "text": "Smient lângă Zaanstad.",
+                  "category": "recreational",
+                  "coords": [
+                        4.831596,
+                        52.461558
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kuifeend",
+                  "text": "Kuifeend beach near Nl Lm Zaa.",
+                  "category": "recreational",
+                  "coords": [
+                        4.838526,
+                        52.464245
+                  ]
+            },
+            {
+                  "name": "Aalscholverstrand",
+                  "text": "Aalscholverstrand near Zaanstad.",
+                  "category": "recreational",
+                  "coords": [
+                        4.833724,
+                        52.461356
+                  ]
+            },
+            {
+                  "name": "Watersnip",
+                  "text": "Watersnip near Zaanstad.",
+                  "category": "recreational",
+                  "coords": [
+                        4.833849,
+                        52.463461
+                  ]
+            },
+            {
+                  "name": "Fuut",
+                  "text": "Fuut near Zaanstad.",
+                  "category": "recreational",
+                  "coords": [
+                        4.83126,
+                        52.462705
+                  ]
+            },
+            {
+                  "name": "Smient",
+                  "text": "Smient near Zaanstad.",
+                  "category": "recreational",
+                  "coords": [
+                        4.831596,
+                        52.461558
+                  ]
+            }
+      ]
+}, type: "landmark", parent: "NL-NH", coords: [4.82, 52.47],
     name: { de: "Zaanse Schans", hu: "Zaanse Schans", ro: "Zaanse Schans", en: "Zaanse Schans" },
     image: "/geo-images/netherlands/zaanse-schans.webp",
   description: {
@@ -1338,7 +1527,52 @@ export const netherlandsCities: POI[] = [
     },
   },
   {
-    id: "NL-LM-ZUI", type: "landmark", parent: "NL", coords: [5.40, 52.60],
+    id: "NL-LM-ZUI", "sights": {
+      "de": [
+            {
+                  "name": "Havenstrand",
+                  "text": "Strand bei einem Hafenbereich, ein einfacher Erholungsort am Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        5.364032,
+                        52.58306
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Havenstrand",
+                  "text": "Kikötői strand, egyszerű vízi pihenőhely.",
+                  "category": "recreational",
+                  "coords": [
+                        5.364032,
+                        52.58306
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Havenstrand",
+                  "text": "Plajă lângă o zonă portuară, un loc simplu de relaxare pe malul apei.",
+                  "category": "recreational",
+                  "coords": [
+                        5.364032,
+                        52.58306
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Havenstrand",
+                  "text": "Beach near a harbor area, a simple recreational spot by the water.",
+                  "category": "recreational",
+                  "coords": [
+                        5.364032,
+                        52.58306
+                  ]
+            }
+      ]
+}, type: "landmark", parent: "NL", coords: [5.40, 52.60],
     name: { de: "Zuiderzee", hu: "Zuiderzee", ro: "Zuiderzee", en: "Zuiderzee" },
     image: "/geo-images/netherlands/zuiderzee.webp",
   description: {
@@ -1625,7 +1859,52 @@ export const netherlandsCities: POI[] = [
     },
   },
   {
-    id: "nl-s-hertogenbosch", type: "city", parent: "NL-NB", coords: [5.3037, 51.6977],
+    id: "nl-s-hertogenbosch", "sights": {
+      "de": [
+            {
+                  "name": "Engelermeer West",
+                  "text": "Engelermeer West bei 's-Hertogenbosch.",
+                  "category": "recreational",
+                  "coords": [
+                        5.245227,
+                        51.701958
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Engelermeer West",
+                  "text": "Engelermeer West 's-Hertogenbosch közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        5.245227,
+                        51.701958
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Engelermeer West",
+                  "text": "Engelermeer West lângă 's-Hertogenbosch.",
+                  "category": "recreational",
+                  "coords": [
+                        5.245227,
+                        51.701958
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Engelermeer West",
+                  "text": "Engelermeer West near 's-Hertogenbosch.",
+                  "category": "recreational",
+                  "coords": [
+                        5.245227,
+                        51.701958
+                  ]
+            }
+      ]
+}, type: "city", parent: "NL-NB", coords: [5.3037, 51.6977],
     name: { de: "'s-Hertogenbosch", hu: "'s-Hertogenbosch", ro: "'s-Hertogenbosch", en: "'s-Hertogenbosch" },
     image: "/geo-images/netherlands/s-hertogenbosch.webp",
     description: {
@@ -1707,7 +1986,52 @@ export const netherlandsCities: POI[] = [
     },
   },
   {
-    id: "nl-alkmaar", type: "city", parent: "NL-NH", coords: [4.7483, 52.6324],
+    id: "nl-alkmaar", "sights": {
+      "de": [
+            {
+                  "name": "Strand van Luna",
+                  "text": "Strand van Luna bei Alkmaar.",
+                  "category": "recreational",
+                  "coords": [
+                        4.797994,
+                        52.648833
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Strand van Luna",
+                  "text": "Strand van Luna strand Alkmaar mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        4.797994,
+                        52.648833
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Strand van Luna",
+                  "text": "Plaja Strand van Luna lângă Alkmaar.",
+                  "category": "recreational",
+                  "coords": [
+                        4.797994,
+                        52.648833
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Strand van Luna",
+                  "text": "Strand van Luna beach near Alkmaar.",
+                  "category": "recreational",
+                  "coords": [
+                        4.797994,
+                        52.648833
+                  ]
+            }
+      ]
+}, type: "city", parent: "NL-NH", coords: [4.7483, 52.6324],
     name: { de: "Alkmaar", hu: "Alkmaar", ro: "Alkmaar", en: "Alkmaar" },
     image: "/geo-images/netherlands/alkmaar.webp",
     description: {
@@ -1912,7 +2236,52 @@ export const netherlandsCities: POI[] = [
     },
   },
   {
-    id: "nl-peace-palace", type: "historical", parent: "NL-ZH", coords: [4.2908, 52.0866],
+    id: "nl-peace-palace", "sights": {
+      "de": [
+            {
+                  "name": "Naturistenstrand Westduinpark",
+                  "text": "FKK-Strand im Westduinpark, nahe Den Haag.",
+                  "category": "recreational",
+                  "coords": [
+                        4.234578,
+                        52.081052
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Naturistenstrand Westduinpark",
+                  "text": "Naturista strand a Westduinparkban, Hága közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        4.234578,
+                        52.081052
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Naturistenstrand Westduinpark",
+                  "text": "Plajă de nudiști în Westduinpark, lângă Haga.",
+                  "category": "recreational",
+                  "coords": [
+                        4.234578,
+                        52.081052
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Naturistenstrand Westduinpark",
+                  "text": "Naturist beach in Westduinpark, near The Hague.",
+                  "category": "recreational",
+                  "coords": [
+                        4.234578,
+                        52.081052
+                  ]
+            }
+      ]
+}, type: "historical", parent: "NL-ZH", coords: [4.2908, 52.0866],
     name: { de: "Friedenspalast", hu: "Békepalota", ro: "Palatul Păcii", en: "Peace Palace" },
     image: "/geo-images/netherlands/peace-palace.webp",
     description: {
@@ -1994,7 +2363,52 @@ export const netherlandsCities: POI[] = [
     },
   },
   {
-    id: "nl-biesbosch", type: "landmark", parent: "NL-NB", coords: [4.8000, 51.7500],
+    id: "nl-biesbosch", "sights": {
+      "de": [
+            {
+                  "name": "Gat van de kerksloot Biesbosch",
+                  "text": "Strand am Gat van de Kerksloot im Nationalpark Biesbosch.",
+                  "category": "recreational",
+                  "coords": [
+                        4.770454,
+                        51.724874
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gat van de kerksloot Biesbosch",
+                  "text": "Strand a Gat van de Kerkslootnál, a Biesbosch Nemzeti Parkban.",
+                  "category": "recreational",
+                  "coords": [
+                        4.770454,
+                        51.724874
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gat van de kerksloot Biesbosch",
+                  "text": "Plajă la Gat van de Kerksloot în Parcul Național Biesbosch.",
+                  "category": "recreational",
+                  "coords": [
+                        4.770454,
+                        51.724874
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gat van de kerksloot Biesbosch",
+                  "text": "Beach at Gat van de Kerksloot in Biesbosch National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        4.770454,
+                        51.724874
+                  ]
+            }
+      ]
+}, type: "landmark", parent: "NL-NB", coords: [4.8000, 51.7500],
     name: { de: "De Biesbosch", hu: "De Biesbosch", ro: "De Biesbosch", en: "De Biesbosch" },
     image: "/geo-images/netherlands/biesbosch.webp",
     description: {
@@ -2035,7 +2449,88 @@ export const netherlandsCities: POI[] = [
     },
   },
   {
-    id: "nl-dunes-kennemerland", type: "landmark", parent: "NL-NH", coords: [4.5500, 52.4500],
+    id: "nl-dunes-kennemerland", "sights": {
+      "de": [
+            {
+                  "name": "Kennemerstrand",
+                  "text": "Kennemerstrand in den Dünen von Kennemerland.",
+                  "category": "recreational",
+                  "coords": [
+                        4.558282,
+                        52.449817
+                  ]
+            },
+            {
+                  "name": "Bloemendaal aan Zee",
+                  "text": "Strand bei den Kennemer Dünen, bekannt für seine ausgedehnte Küstenlandschaft.",
+                  "category": "recreational",
+                  "coords": [
+                        4.560215,
+                        52.436434
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kennemerstrand",
+                  "text": "Kennemerstrand strand a Kennemerland dűnékben.",
+                  "category": "recreational",
+                  "coords": [
+                        4.558282,
+                        52.449817
+                  ]
+            },
+            {
+                  "name": "Bloemendaal aan Zee",
+                  "text": "Strand a Kennemer-dűnéknél, amely kiterjedt partvidékéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        4.560215,
+                        52.436434
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kennemerstrand",
+                  "text": "Plaja Kennemerstrand în dunele din Kennemerland.",
+                  "category": "recreational",
+                  "coords": [
+                        4.558282,
+                        52.449817
+                  ]
+            },
+            {
+                  "name": "Bloemendaal aan Zee",
+                  "text": "Plajă lângă Dunele Kennemer, cunoscută pentru peisajul său costier întins.",
+                  "category": "recreational",
+                  "coords": [
+                        4.560215,
+                        52.436434
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kennemerstrand",
+                  "text": "Kennemerstrand beach in the dunes of Kennemerland.",
+                  "category": "recreational",
+                  "coords": [
+                        4.558282,
+                        52.449817
+                  ]
+            },
+            {
+                  "name": "Bloemendaal aan Zee",
+                  "text": "Beach near the Kennemer Dunes, known for its extensive coastal landscape.",
+                  "category": "recreational",
+                  "coords": [
+                        4.560215,
+                        52.436434
+                  ]
+            }
+      ]
+}, type: "landmark", parent: "NL-NH", coords: [4.5500, 52.4500],
     name: { de: "Nationalpark Zuid-Kennemerland", hu: "Zuid-Kennemerland Nemzeti Park", ro: "Parcul Național Zuid-Kennemerland", en: "Zuid-Kennemerland National Park" },
     image: "/geo-images/netherlands/dunes-kennemerland.webp",
     description: {
@@ -2117,7 +2612,88 @@ export const netherlandsCities: POI[] = [
     },
   },
   {
-    id: "nl-vondelpark", type: "landmark", parent: "NL-NH", coords: [4.8686, 52.3580],
+    id: "nl-vondelpark", "sights": {
+      "de": [
+            {
+                  "name": "Nieuwe Meer, Noordoever",
+                  "text": "Strand am Nordufer des Nieuwe Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        4.814034,
+                        52.334166
+                  ]
+            },
+            {
+                  "name": "Sloterstrand",
+                  "text": "Sloterstrand bei Amsterdam.",
+                  "category": "recreational",
+                  "coords": [
+                        4.822976,
+                        52.371723
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nieuwe Meer, Noordoever",
+                  "text": "Strand a Nieuwe Meer északi partján.",
+                  "category": "recreational",
+                  "coords": [
+                        4.814034,
+                        52.334166
+                  ]
+            },
+            {
+                  "name": "Sloterstrand",
+                  "text": "Sloterstrand strand Amszterdam közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        4.822976,
+                        52.371723
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nieuwe Meer, Noordoever",
+                  "text": "Plajă pe malul nordic al Nieuwe Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        4.814034,
+                        52.334166
+                  ]
+            },
+            {
+                  "name": "Sloterstrand",
+                  "text": "Plaja Sloterstrand lângă Amsterdam.",
+                  "category": "recreational",
+                  "coords": [
+                        4.822976,
+                        52.371723
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nieuwe Meer, Noordoever",
+                  "text": "Beach on the northern shore of the Nieuwe Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        4.814034,
+                        52.334166
+                  ]
+            },
+            {
+                  "name": "Sloterstrand",
+                  "text": "Sloterstrand beach near Amsterdam.",
+                  "category": "recreational",
+                  "coords": [
+                        4.822976,
+                        52.371723
+                  ]
+            }
+      ]
+}, type: "landmark", parent: "NL-NH", coords: [4.8686, 52.3580],
     name: { de: "Vondelpark", hu: "Vondelpark", ro: "Vondelpark", en: "Vondelpark" },
     image: "/geo-images/netherlands/vondelpark.webp",
     description: {

@@ -363,7 +363,52 @@ export const netherlandsNatureV2: POI[] = [
     image: "/poi-images/netherlands-lauwersmeer-nature-v2.webp",
   },
   {
-    id: "netherlands-kennemer-duinen-nature-v2",
+    id: "netherlands-kennemer-duinen-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bloemendaal aan Zee",
+                  "text": "Strand im Naturschutzgebiet Kennemer Duinen, ideal für Naturbeobachtungen.",
+                  "category": "recreational",
+                  "coords": [
+                        4.559953,
+                        52.431116
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bloemendaal aan Zee",
+                  "text": "Strand a Kennemer Duinen természetvédelmi területen, ideális természetmegfigyelésre.",
+                  "category": "recreational",
+                  "coords": [
+                        4.559953,
+                        52.431116
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bloemendaal aan Zee",
+                  "text": "Plajă în rezervația naturală Kennemer Duinen, ideală pentru observarea naturii.",
+                  "category": "recreational",
+                  "coords": [
+                        4.559953,
+                        52.431116
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bloemendaal aan Zee",
+                  "text": "Beach in the Kennemer Duinen nature reserve, ideal for nature observation.",
+                  "category": "recreational",
+                  "coords": [
+                        4.559953,
+                        52.431116
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "NL",
     name: { de: "Kennemer Duinen", hu: "Kennemer Duinen", ro: "Kennemer Duinen", en: "Kennemer Duinen" },
@@ -543,7 +588,52 @@ export const netherlandsNatureV2: POI[] = [
     image: "/poi-images/netherlands-waterdunen-nature-v2.webp",
   },
   {
-    id: "netherlands-vlietlanden-nature-v2",
+    id: "netherlands-vlietlanden-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Surfstrand",
+                  "text": "Surfstrand bei Vlietlanden.",
+                  "category": "recreational",
+                  "coords": [
+                        4.458655,
+                        52.120849
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Surfstrand",
+                  "text": "Surfstrand Vlietlanden közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        4.458655,
+                        52.120849
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Surfstrand",
+                  "text": "Surfstrand lângă Vlietlanden.",
+                  "category": "recreational",
+                  "coords": [
+                        4.458655,
+                        52.120849
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Surfstrand",
+                  "text": "Surfstrand near Vlietlanden.",
+                  "category": "recreational",
+                  "coords": [
+                        4.458655,
+                        52.120849
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "NL",
     name: { de: "Vlietlanden", hu: "Vlietlanden", ro: "Vlietlanden", en: "Vlietlanden" },
@@ -588,7 +678,52 @@ export const netherlandsNatureV2: POI[] = [
     image: "/poi-images/netherlands-vlietlanden-nature-v2.webp",
   },
   {
-    id: "netherlands-oostelijk-vechtplassen-nature-v2",
+    id: "netherlands-oostelijk-vechtplassen-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vuntusstrand",
+                  "text": "Vuntusstrand in den Oostelijk Vechtplassen.",
+                  "category": "recreational",
+                  "coords": [
+                        5.081155,
+                        52.208513
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vuntusstrand",
+                  "text": "Vuntusstrand az Oostelijk Vechtplassen területén.",
+                  "category": "recreational",
+                  "coords": [
+                        5.081155,
+                        52.208513
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vuntusstrand",
+                  "text": "Vuntusstrand în Oostelijk Vechtplassen.",
+                  "category": "recreational",
+                  "coords": [
+                        5.081155,
+                        52.208513
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vuntusstrand",
+                  "text": "Vuntusstrand in the Oostelijk Vechtplassen.",
+                  "category": "recreational",
+                  "coords": [
+                        5.081155,
+                        52.208513
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "NL",
     name: { de: "Oostelijk Vechtplassen", hu: "Oostelijk Vechtplassen", ro: "Oostelijk Vechtplassen", en: "Oostelijk Vechtplassen" },
@@ -948,7 +1083,160 @@ export const netherlandsNatureV2: POI[] = [
     image: "/poi-images/netherlands-schoorlse-duinen-nature-v2.webp",
   },
   {
-    id: "netherlands-salentse-bos-nature-v2",
+    id: "netherlands-salentse-bos-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zuidstrand",
+                  "text": "Zuidstrand im Salentse Bos.",
+                  "category": "recreational",
+                  "coords": [
+                        5.529551,
+                        52.279044
+                  ]
+            },
+            {
+                  "name": "Noordstrand",
+                  "text": "Noordstrand im Salentse Bos.",
+                  "category": "recreational",
+                  "coords": [
+                        5.53381,
+                        52.286762
+                  ]
+            },
+            {
+                  "name": "Strand Nulde Zuid",
+                  "text": "Strand Nulde Zuid nahe Salentse Bos.",
+                  "category": "recreational",
+                  "coords": [
+                        5.529088,
+                        52.26495
+                  ]
+            },
+            {
+                  "name": "Strand Nulde Noord",
+                  "text": "Strand am Nulde Noord, in der Nähe des Salentse Bos.",
+                  "category": "recreational",
+                  "coords": [
+                        5.542697,
+                        52.281014
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zuidstrand",
+                  "text": "Zuidstrand a Salentse Bos-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        5.529551,
+                        52.279044
+                  ]
+            },
+            {
+                  "name": "Noordstrand",
+                  "text": "Noordstrand a Salentse Bos-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        5.53381,
+                        52.286762
+                  ]
+            },
+            {
+                  "name": "Strand Nulde Zuid",
+                  "text": "Strand Nulde Zuid strand Salentse Bos közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        5.529088,
+                        52.26495
+                  ]
+            },
+            {
+                  "name": "Strand Nulde Noord",
+                  "text": "Strand a Nulde Noordnál, a Salentse Bos közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        5.542697,
+                        52.281014
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zuidstrand",
+                  "text": "Plaja Zuidstrand în Salentse Bos.",
+                  "category": "recreational",
+                  "coords": [
+                        5.529551,
+                        52.279044
+                  ]
+            },
+            {
+                  "name": "Noordstrand",
+                  "text": "Plaja Noordstrand în Salentse Bos.",
+                  "category": "recreational",
+                  "coords": [
+                        5.53381,
+                        52.286762
+                  ]
+            },
+            {
+                  "name": "Strand Nulde Zuid",
+                  "text": "Plaja Strand Nulde Zuid lângă Salentse Bos.",
+                  "category": "recreational",
+                  "coords": [
+                        5.529088,
+                        52.26495
+                  ]
+            },
+            {
+                  "name": "Strand Nulde Noord",
+                  "text": "Plajă la Nulde Noord, lângă Salentse Bos.",
+                  "category": "recreational",
+                  "coords": [
+                        5.542697,
+                        52.281014
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zuidstrand",
+                  "text": "Zuidstrand in the Salentse Bos.",
+                  "category": "recreational",
+                  "coords": [
+                        5.529551,
+                        52.279044
+                  ]
+            },
+            {
+                  "name": "Noordstrand",
+                  "text": "Noordstrand in the Salentse Bos.",
+                  "category": "recreational",
+                  "coords": [
+                        5.53381,
+                        52.286762
+                  ]
+            },
+            {
+                  "name": "Strand Nulde Zuid",
+                  "text": "Strand Nulde Zuid near Salentse Bos.",
+                  "category": "recreational",
+                  "coords": [
+                        5.529088,
+                        52.26495
+                  ]
+            },
+            {
+                  "name": "Strand Nulde Noord",
+                  "text": "Beach at Nulde Noord, near the Salentse Bos.",
+                  "category": "recreational",
+                  "coords": [
+                        5.542697,
+                        52.281014
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "NL",
     name: { de: "Salentse Bos", hu: "Salentse Bos", ro: "Salentse Bos", en: "Salentse Bos" },

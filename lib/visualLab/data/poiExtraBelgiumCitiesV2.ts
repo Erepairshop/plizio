@@ -308,6 +308,393 @@ export const belgiumCitiesV2: POI[] = [
                         4.863485,
                         50.464089
                   ]
+            },
+            {
+                  "name": "Théâtre Royal de Namur",
+                  "text": "Das Théâtre Royal de Namur ist ein historisches Theater in der Stadt Namur.",
+                  "category": "cultural",
+                  "coords": [
+                        4.868159,
+                        50.464371
+                  ]
+            },
+            {
+                  "name": "Afrikanischer Museum von Namur",
+                  "text": "Das African museum of Namur ist ein Museum für afrikanische Geschichte und Kultur in Namur.",
+                  "category": "museum",
+                  "coords": [
+                        4.871396,
+                        50.466343
+                  ]
+            },
+            {
+                  "name": "Musée de l'Informatique Pionnière en Belgique",
+                  "text": "Das Musée de l'Informatique Pionnière en Belgique ist ein Museum in Namur, das der Geschichte der Informatik gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        4.835489,
+                        50.462807
+                  ]
+            },
+            {
+                  "name": "Théatre de Verdure",
+                  "text": "Théatre de Verdure ist ein Freilufttheater an der Zitadelle von Namur.",
+                  "category": "cultural",
+                  "coords": [
+                        4.856213,
+                        50.455923
+                  ]
+            },
+            {
+                  "name": "Halle al'Chair",
+                  "text": "Halle al'Chair ist ein historisches Gebäude und Museum in Namur.",
+                  "category": "museum",
+                  "coords": [
+                        4.868093,
+                        50.462179
+                  ]
+            },
+            {
+                  "name": "Élysette",
+                  "text": "Die Élysette ist ein bemerkenswertes Schloss und der offizielle Sitz der wallonischen Regierung in Namur.",
+                  "category": "castle",
+                  "coords": [
+                        4.869064,
+                        50.459179
+                  ]
+            },
+            {
+                  "name": "Tour d'Anhaive Donjon",
+                  "text": "Der Donjon Tour d'Anhaive ist ein historischer Burgturm in Namur, der einst zur Herrschaft Anhaive gehörte.",
+                  "category": "castle",
+                  "coords": [
+                        4.888629,
+                        50.462583
+                  ]
+            },
+            {
+                  "name": "Musée Provincial des Arts Anciens du Namurois",
+                  "text": "Das Musée Provincial des Arts Anciens du Namurois ist ein Museum in Namur, das sich der regionalen antiken Kunst widmet.",
+                  "category": "museum",
+                  "coords": [
+                        4.865355,
+                        50.46561
+                  ]
+            },
+            {
+                  "name": "Musée de la Citadelle",
+                  "text": "Das Musée de la Citadelle ist ein Museum in Namur, das Ausstellungen zur Geschichte der örtlichen Festung bietet.",
+                  "category": "museum",
+                  "coords": [
+                        4.860887,
+                        50.459034
+                  ]
+            },
+            {
+                  "name": "Espace muséal Nauticmen",
+                  "text": "Der Espace muséal Nauticmen ist ein musealer Raum in der Stadt Namur.",
+                  "category": "museum",
+                  "coords": [
+                        4.908434,
+                        50.465399
+                  ]
+            },
+            {
+                  "name": "Musée des Commandos - Caserne Sous-Lieutenant Thibaut",
+                  "text": "Das Musée des Commandos ist ein Militärmuseum in der Kaserne Sous-Lieutenant Thibaut in Namur.",
+                  "category": "museum",
+                  "coords": [
+                        4.818325,
+                        50.466434
+                  ]
+            },
+            {
+                  "name": "Château de Namur",
+                  "text": "Das Château de Namur ist ein bedeutendes Schloss in der Stadt Namur.",
+                  "category": "castle",
+                  "coords": [
+                        4.855535,
+                        50.454795
+                  ]
+            },
+            {
+                  "name": "Cercle de Wallonie",
+                  "text": "Der Cercle de Wallonie ist ein Schlossanwesen in der belgischen Stadt Namur.",
+                  "category": "castle",
+                  "coords": [
+                        4.849462,
+                        50.443757
+                  ]
+            },
+            {
+                  "name": "Centre d'Action Laïque",
+                  "text": "Das Centre d'Action Laïque befindet sich in einem schlossartigen Gebäude in Namur.",
+                  "category": "castle",
+                  "coords": [
+                        4.851368,
+                        50.471828
+                  ]
+            },
+            {
+                  "name": "Château d'Amée",
+                  "text": "Das Château d'Amée ist ein historisches Schloss in Namur.",
+                  "category": "castle",
+                  "coords": [
+                        4.864787,
+                        50.439018
+                  ]
+            },
+            {
+                  "name": "Château du Rond-Chêne",
+                  "text": "Das Château du Rond-Chêne ist ein historisches Schlossgebäude in der Stadt Namur.",
+                  "category": "castle",
+                  "coords": [
+                        4.872717,
+                        50.492326
+                  ]
+            },
+            {
+                  "name": "ACIS ASBL Accueil",
+                  "text": "ACIS ASBL Accueil befindet sich in einem Schlossgebäude in Namur.",
+                  "category": "castle",
+                  "coords": [
+                        4.858699,
+                        50.442929
+                  ]
+            },
+            {
+                  "name": "Villa Douxchamps",
+                  "text": "Villa Douxchamps ist ein Schloss in der Stadt Namur.",
+                  "category": "castle",
+                  "coords": [
+                        4.880902,
+                        50.469254
+                  ]
+            },
+            {
+                  "name": "Musée archéologique",
+                  "text": "Das Musée archéologique ist ein Museum in Namur.",
+                  "category": "museum",
+                  "coords": [
+                        4.861638,
+                        50.463068
+                  ]
+            },
+            {
+                  "name": "Château de Géronsart",
+                  "text": "Château de Géronsart ist ein Schloss in Namur.",
+                  "category": "castle",
+                  "coords": [
+                        4.885643,
+                        50.44755
+                  ]
+            },
+            {
+                  "name": "Théâtre Jardin Passion",
+                  "text": "Théâtre Jardin Passion ist ein Theater in der Stadt Namur.",
+                  "category": "cultural",
+                  "coords": [
+                        4.85768,
+                        50.471076
+                  ]
+            },
+            {
+                  "name": "Tumuli de Frizet",
+                  "text": "Tumuli de Frizet ist eine archäologische Stätte in Namur.",
+                  "category": "historical",
+                  "coords": [
+                        4.867303,
+                        50.4941
+                  ]
+            },
+            {
+                  "name": "Grand Manège",
+                  "text": "Die Namur Concert Hall ist ein Theater- und Veranstaltungsort in Namur.",
+                  "category": "cultural",
+                  "coords": [
+                        4.870035,
+                        50.466627
+                  ]
+            },
+            {
+                  "name": "Château de Saint-Marc",
+                  "text": "Château de Saint-Marc ist ein Schloss in der Stadt Namur.",
+                  "category": "castle",
+                  "coords": [
+                        4.852425,
+                        50.491542
+                  ]
+            },
+            {
+                  "name": "Château Bivort",
+                  "text": "Château Bivort ist ein Schloss in Namur.",
+                  "category": "castle",
+                  "coords": [
+                        4.876621,
+                        50.474657
+                  ]
+            },
+            {
+                  "name": "Parc Louise Marie",
+                  "text": "Parc Louise Marie ist ein öffentlicher Park in Namur, benannt nach der ersten Königin der Belgier.",
+                  "category": "park",
+                  "coords": [
+                        4.856387,
+                        50.466541
+                  ]
+            },
+            {
+                  "name": "Point de vue du Feu de Bouge",
+                  "text": "Point de vue du Feu de Bouge ist ein Aussichtspunkt in Namur.",
+                  "category": "natural",
+                  "coords": [
+                        4.890133,
+                        50.471204
+                  ]
+            },
+            {
+                  "name": "Galerie Rive Gauche",
+                  "text": "Die Galerie Rive Gauche ist ein Kunstzentrum in der Stadt Namur.",
+                  "category": "cultural",
+                  "coords": [
+                        4.864744,
+                        50.463622
+                  ]
+            },
+            {
+                  "name": "Nom de la Rose",
+                  "text": "Nom de la Rose ist ein lokales Kunstzentrum in Namur.",
+                  "category": "cultural",
+                  "coords": [
+                        4.858367,
+                        50.463515
+                  ]
+            },
+            {
+                  "name": "Gery Art Gallery",
+                  "text": "Die Gery Art Gallery ist eine Kunstgalerie in Namur.",
+                  "category": "museum",
+                  "coords": [
+                        4.865709,
+                        50.459249
+                  ]
+            },
+            {
+                  "name": "Le Banc Géant",
+                  "text": "Le Banc Géant ist eine Touristenattraktion in der Stadt Namur.",
+                  "category": "landmark",
+                  "coords": [
+                        4.870641,
+                        50.460331
+                  ]
+            },
+            {
+                  "name": "The New Artists",
+                  "text": "The New Artists ist eine Kunstgalerie in Namur.",
+                  "category": "museum",
+                  "coords": [
+                        4.870388,
+                        50.463517
+                  ]
+            },
+            {
+                  "name": "Porte de Bordial",
+                  "text": "Porte de Bordial ist ein historisches Stadttor in Namur.",
+                  "category": "fortress",
+                  "coords": [
+                        4.860736,
+                        50.461288
+                  ]
+            },
+            {
+                  "name": "Église Saints-Pierre-et-Paul",
+                  "text": "Die Église Saints-Pierre-et-Paul ist eine Kultstätte im Stadtteil Erpent von Namur.",
+                  "category": "religious",
+                  "coords": [
+                        4.906844,
+                        50.450935
+                  ]
+            },
+            {
+                  "name": "Pont de la Libération",
+                  "text": "Die Pont de la Libération ist eine Brücke in der Stadt Namur.",
+                  "category": "landmark",
+                  "coords": [
+                        4.854128,
+                        50.466602
+                  ]
+            },
+            {
+                  "name": "Viaduc de Beez",
+                  "text": "Das Viaduc de Beez ist eine bedeutende Brücke in Namur.",
+                  "category": "landmark",
+                  "coords": [
+                        4.916385,
+                        50.465863
+                  ]
+            },
+            {
+                  "name": "Pont du Luxembourg",
+                  "text": "Die Pont du Luxembourg ist eine bemerkenswerte Brücke in Namur.",
+                  "category": "landmark",
+                  "coords": [
+                        4.879489,
+                        50.464756
+                  ]
+            },
+            {
+                  "name": "Pont des Ardennes",
+                  "text": "Die Pont des Ardennes ist eine bekannte Brücke in Namur.",
+                  "category": "landmark",
+                  "coords": [
+                        4.874935,
+                        50.462667
+                  ]
+            },
+            {
+                  "name": "Église Saint-Sacrement",
+                  "text": "Die Église Saint-Sacrement ist ein anerkanntes Gotteshaus in der Stadt Namur.",
+                  "category": "religious",
+                  "coords": [
+                        4.867279,
+                        50.471719
+                  ]
+            },
+            {
+                  "name": "Pont des Grands Malades",
+                  "text": "Die Pont des Grands Malades ist ein wichtiges Brückenbauwerk in Namur.",
+                  "category": "landmark",
+                  "coords": [
+                        4.89919,
+                        50.4664
+                  ]
+            },
+            {
+                  "name": "Tour Marie Spilar",
+                  "text": "Die Tour Marie Spilar ist ein historischer Überrest eines Stadttors in Namur.",
+                  "category": "fortress",
+                  "coords": [
+                        4.868405,
+                        50.46338
+                  ]
+            },
+            {
+                  "name": "Tour Saint-Aubain",
+                  "text": "Die Tour Saint-Aubain ist ein markanter historischer Turm in Namur.",
+                  "category": "tower",
+                  "coords": [
+                        4.859314,
+                        50.464561
+                  ]
+            },
+            {
+                  "name": "Chapelle d'Hastimoulin",
+                  "text": "Die Chapelle d'Hastimoulin ist eine historische Kapelle in Namur.",
+                  "category": "religious",
+                  "coords": [
+                        4.85806,
+                        50.47316
+                  ]
             }
       ],
       "hu": [
@@ -389,6 +776,393 @@ export const belgiumCitiesV2: POI[] = [
                   "coords": [
                         4.863485,
                         50.464089
+                  ]
+            },
+            {
+                  "name": "Théâtre Royal de Namur",
+                  "text": "A Théâtre Royal de Namur egy történelmi színház Namur városában.",
+                  "category": "cultural",
+                  "coords": [
+                        4.868159,
+                        50.464371
+                  ]
+            },
+            {
+                  "name": "Musée Africain de Namur",
+                  "text": "Az African museum of Namur egy afrikai történelemnek és kultúrának szentelt múzeum Namurban.",
+                  "category": "museum",
+                  "coords": [
+                        4.871396,
+                        50.466343
+                  ]
+            },
+            {
+                  "name": "Musée de l'Informatique Pionnière en Belgique",
+                  "text": "A Musée de l'Informatique Pionnière en Belgique egy számítástechnika történetét bemutató múzeum Namurban.",
+                  "category": "museum",
+                  "coords": [
+                        4.835489,
+                        50.462807
+                  ]
+            },
+            {
+                  "name": "Théatre de Verdure",
+                  "text": "A Théatre de Verdure egy szabadtéri színház Namur fellegvárában.",
+                  "category": "cultural",
+                  "coords": [
+                        4.856213,
+                        50.455923
+                  ]
+            },
+            {
+                  "name": "Halle al'Chair",
+                  "text": "A Halle al'Chair egy történelmi épület és múzeum Namurban.",
+                  "category": "museum",
+                  "coords": [
+                        4.868093,
+                        50.462179
+                  ]
+            },
+            {
+                  "name": "Élysette",
+                  "text": "Az Élysette egy figyelemre méltó kastély és a vallon kormány hivatalos rezidenciája Namurban.",
+                  "category": "castle",
+                  "coords": [
+                        4.869064,
+                        50.459179
+                  ]
+            },
+            {
+                  "name": "Tour d'Anhaive Donjon",
+                  "text": "A Tour d'Anhaive Donjon egy történelmi vártorony Namurban, amely egykor az Anhaive-i uradalom része volt.",
+                  "category": "castle",
+                  "coords": [
+                        4.888629,
+                        50.462583
+                  ]
+            },
+            {
+                  "name": "Musée Provincial des Arts Anciens du Namurois",
+                  "text": "A Musée Provincial des Arts Anciens du Namurois egy regionális ősi művészetnek szentelt múzeum Namurban.",
+                  "category": "museum",
+                  "coords": [
+                        4.865355,
+                        50.46561
+                  ]
+            },
+            {
+                  "name": "Musée de la Citadelle",
+                  "text": "A Musée de la Citadelle egy múzeum Namurban, amely a helyi fellegvár történelméhez kapcsolódó kiállításokat kínál.",
+                  "category": "museum",
+                  "coords": [
+                        4.860887,
+                        50.459034
+                  ]
+            },
+            {
+                  "name": "Espace muséal Nauticmen",
+                  "text": "Az Espace muséal Nauticmen egy múzeumi tér Namur városában.",
+                  "category": "museum",
+                  "coords": [
+                        4.908434,
+                        50.465399
+                  ]
+            },
+            {
+                  "name": "Musée des Commandos - Caserne Sous-Lieutenant Thibaut",
+                  "text": "A Musée des Commandos egy katonai múzeum Namurban, amely a Sous-Lieutenant Thibaut laktanyában kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        4.818325,
+                        50.466434
+                  ]
+            },
+            {
+                  "name": "Château de Namur",
+                  "text": "A Château de Namur egy jelentős kastély Namur városában.",
+                  "category": "castle",
+                  "coords": [
+                        4.855535,
+                        50.454795
+                  ]
+            },
+            {
+                  "name": "Cercle de Wallonie",
+                  "text": "A Cercle de Wallonie egy kastélybirtok a belgiumi Namur városában.",
+                  "category": "castle",
+                  "coords": [
+                        4.849462,
+                        50.443757
+                  ]
+            },
+            {
+                  "name": "Centre d'Action Laïque",
+                  "text": "A Centre d'Action Laïque egy kastély típusú épületben található Namurban.",
+                  "category": "castle",
+                  "coords": [
+                        4.851368,
+                        50.471828
+                  ]
+            },
+            {
+                  "name": "Château d'Amée",
+                  "text": "A Château d'Amée egy történelmi kastély Namurban.",
+                  "category": "castle",
+                  "coords": [
+                        4.864787,
+                        50.439018
+                  ]
+            },
+            {
+                  "name": "Château du Rond-Chêne",
+                  "text": "A Château du Rond-Chêne egy történelmi kastélyépület Namur városában.",
+                  "category": "castle",
+                  "coords": [
+                        4.872717,
+                        50.492326
+                  ]
+            },
+            {
+                  "name": "ACIS ASBL Accueil",
+                  "text": "Az ACIS ASBL Accueil egy kastélyépületben kapott helyet Namurban.",
+                  "category": "castle",
+                  "coords": [
+                        4.858699,
+                        50.442929
+                  ]
+            },
+            {
+                  "name": "Villa Douxchamps",
+                  "text": "A Villa Douxchamps egy kastély Namur városában.",
+                  "category": "castle",
+                  "coords": [
+                        4.880902,
+                        50.469254
+                  ]
+            },
+            {
+                  "name": "Musée archéologique",
+                  "text": "A Musée archéologique egy múzeum Namur városában.",
+                  "category": "museum",
+                  "coords": [
+                        4.861638,
+                        50.463068
+                  ]
+            },
+            {
+                  "name": "Château de Géronsart",
+                  "text": "A Château de Géronsart egy kastély Namur városában.",
+                  "category": "castle",
+                  "coords": [
+                        4.885643,
+                        50.44755
+                  ]
+            },
+            {
+                  "name": "Théâtre Jardin Passion",
+                  "text": "A Théâtre Jardin Passion egy színház Namur városában.",
+                  "category": "cultural",
+                  "coords": [
+                        4.85768,
+                        50.471076
+                  ]
+            },
+            {
+                  "name": "Tumuli de Frizet",
+                  "text": "A Tumuli de Frizet egy régészeti lelőhely Namur városában.",
+                  "category": "historical",
+                  "coords": [
+                        4.867303,
+                        50.4941
+                  ]
+            },
+            {
+                  "name": "Grand Manège",
+                  "text": "A Namur Concert Hall egy színház és rendezvényközpont Namur városában.",
+                  "category": "cultural",
+                  "coords": [
+                        4.870035,
+                        50.466627
+                  ]
+            },
+            {
+                  "name": "Château de Saint-Marc",
+                  "text": "A Château de Saint-Marc egy kastély Namur városában.",
+                  "category": "castle",
+                  "coords": [
+                        4.852425,
+                        50.491542
+                  ]
+            },
+            {
+                  "name": "Château Bivort",
+                  "text": "A Château Bivort egy kastély Namur városában.",
+                  "category": "castle",
+                  "coords": [
+                        4.876621,
+                        50.474657
+                  ]
+            },
+            {
+                  "name": "Parc Louise Marie",
+                  "text": "A Parc Louise Marie egy nyilvános park Namur városában, amelyet a belgák első királynéjáról neveztek el.",
+                  "category": "park",
+                  "coords": [
+                        4.856387,
+                        50.466541
+                  ]
+            },
+            {
+                  "name": "Point de vue du Feu de Bouge",
+                  "text": "A Point de vue du Feu de Bouge egy kilátópont Namur városában.",
+                  "category": "natural",
+                  "coords": [
+                        4.890133,
+                        50.471204
+                  ]
+            },
+            {
+                  "name": "Galerie Rive Gauche",
+                  "text": "A Galerie Rive Gauche egy művészeti központ Namur városában.",
+                  "category": "cultural",
+                  "coords": [
+                        4.864744,
+                        50.463622
+                  ]
+            },
+            {
+                  "name": "Nom de la Rose",
+                  "text": "A Nom de la Rose egy helyi művészeti központ Namur városában.",
+                  "category": "cultural",
+                  "coords": [
+                        4.858367,
+                        50.463515
+                  ]
+            },
+            {
+                  "name": "Gery Art Gallery",
+                  "text": "A Gery Art Gallery egy művészeti galéria Namur városában.",
+                  "category": "museum",
+                  "coords": [
+                        4.865709,
+                        50.459249
+                  ]
+            },
+            {
+                  "name": "Le Banc Géant",
+                  "text": "A Le Banc Géant egy turisztikai látványosság Namur városában.",
+                  "category": "landmark",
+                  "coords": [
+                        4.870641,
+                        50.460331
+                  ]
+            },
+            {
+                  "name": "The New Artists",
+                  "text": "A The New Artists egy művészeti galéria Namur városában.",
+                  "category": "museum",
+                  "coords": [
+                        4.870388,
+                        50.463517
+                  ]
+            },
+            {
+                  "name": "Porte de Bordial",
+                  "text": "A Porte de Bordial egy történelmi városkapu Namur városában.",
+                  "category": "fortress",
+                  "coords": [
+                        4.860736,
+                        50.461288
+                  ]
+            },
+            {
+                  "name": "Église Saints-Pierre-et-Paul",
+                  "text": "Az Église Saints-Pierre-et-Paul egy imahely Namur Erpent nevű részén.",
+                  "category": "religious",
+                  "coords": [
+                        4.906844,
+                        50.450935
+                  ]
+            },
+            {
+                  "name": "Pont de la Libération",
+                  "text": "A Pont de la Libération egy híd Namur városában.",
+                  "category": "landmark",
+                  "coords": [
+                        4.854128,
+                        50.466602
+                  ]
+            },
+            {
+                  "name": "Viaduc de Beez",
+                  "text": "A Viaduc de Beez egy jelentős híd Namur városában.",
+                  "category": "landmark",
+                  "coords": [
+                        4.916385,
+                        50.465863
+                  ]
+            },
+            {
+                  "name": "Pont du Luxembourg",
+                  "text": "A Pont du Luxembourg egy figyelemre méltó híd Namur városában.",
+                  "category": "landmark",
+                  "coords": [
+                        4.879489,
+                        50.464756
+                  ]
+            },
+            {
+                  "name": "Pont des Ardennes",
+                  "text": "A Pont des Ardennes egy ismert híd Namur városában.",
+                  "category": "landmark",
+                  "coords": [
+                        4.874935,
+                        50.462667
+                  ]
+            },
+            {
+                  "name": "Église Saint-Sacrement",
+                  "text": "Az Église Saint-Sacrement egy elismert templom Namur városában.",
+                  "category": "religious",
+                  "coords": [
+                        4.867279,
+                        50.471719
+                  ]
+            },
+            {
+                  "name": "Pont des Grands Malades",
+                  "text": "A Pont des Grands Malades egy fontos hídépítmény Namur városában.",
+                  "category": "landmark",
+                  "coords": [
+                        4.89919,
+                        50.4664
+                  ]
+            },
+            {
+                  "name": "Tour Marie Spilar",
+                  "text": "A Tour Marie Spilar egy történelmi városkapu maradványa Namur városában.",
+                  "category": "fortress",
+                  "coords": [
+                        4.868405,
+                        50.46338
+                  ]
+            },
+            {
+                  "name": "Tour Saint-Aubain",
+                  "text": "A Tour Saint-Aubain egy kiemelkedő történelmi torony Namur városában.",
+                  "category": "tower",
+                  "coords": [
+                        4.859314,
+                        50.464561
+                  ]
+            },
+            {
+                  "name": "Chapelle d'Hastimoulin",
+                  "text": "A Chapelle d'Hastimoulin egy történelmi kápolna Namur városában.",
+                  "category": "religious",
+                  "coords": [
+                        4.85806,
+                        50.47316
                   ]
             }
       ],
@@ -472,6 +1246,393 @@ export const belgiumCitiesV2: POI[] = [
                         4.863485,
                         50.464089
                   ]
+            },
+            {
+                  "name": "Théâtre Royal de Namur",
+                  "text": "Théâtre Royal de Namur este un teatru istoric situat în orașul Namur.",
+                  "category": "cultural",
+                  "coords": [
+                        4.868159,
+                        50.464371
+                  ]
+            },
+            {
+                  "name": "Musée Africain de Namur",
+                  "text": "African museum of Namur este un muzeu dedicat istoriei și culturii africane situat în Namur.",
+                  "category": "museum",
+                  "coords": [
+                        4.871396,
+                        50.466343
+                  ]
+            },
+            {
+                  "name": "Musée de l'Informatique Pionnière en Belgique",
+                  "text": "Musée de l'Informatique Pionnière en Belgique este un muzeu din Namur dedicat istoriei calculatoarelor.",
+                  "category": "museum",
+                  "coords": [
+                        4.835489,
+                        50.462807
+                  ]
+            },
+            {
+                  "name": "Théatre de Verdure",
+                  "text": "Théatre de Verdure este un teatru în aer liber situat la Cetatea Namur.",
+                  "category": "cultural",
+                  "coords": [
+                        4.856213,
+                        50.455923
+                  ]
+            },
+            {
+                  "name": "Halle al'Chair",
+                  "text": "Halle al'Chair este o clădire istorică și un muzeu situat în Namur.",
+                  "category": "museum",
+                  "coords": [
+                        4.868093,
+                        50.462179
+                  ]
+            },
+            {
+                  "name": "Élysette",
+                  "text": "Élysette este un castel notabil și reședința oficială a Guvernului Valon din Namur.",
+                  "category": "castle",
+                  "coords": [
+                        4.869064,
+                        50.459179
+                  ]
+            },
+            {
+                  "name": "Tour d'Anhaive Donjon",
+                  "text": "Donjonul Tour d'Anhaive este un turn istoric de castel din Namur, care a făcut parte cândva din domeniul Anhaive.",
+                  "category": "castle",
+                  "coords": [
+                        4.888629,
+                        50.462583
+                  ]
+            },
+            {
+                  "name": "Musée Provincial des Arts Anciens du Namurois",
+                  "text": "Musée Provincial des Arts Anciens du Namurois este un muzeu din Namur dedicat artelor antice regionale.",
+                  "category": "museum",
+                  "coords": [
+                        4.865355,
+                        50.46561
+                  ]
+            },
+            {
+                  "name": "Musée de la Citadelle",
+                  "text": "Musée de la Citadelle este un muzeu din Namur ce oferă expoziții legate de fortăreața locală.",
+                  "category": "museum",
+                  "coords": [
+                        4.860887,
+                        50.459034
+                  ]
+            },
+            {
+                  "name": "Espace muséal Nauticmen",
+                  "text": "Espace muséal Nauticmen este un spațiu muzeal situat în orașul Namur.",
+                  "category": "museum",
+                  "coords": [
+                        4.908434,
+                        50.465399
+                  ]
+            },
+            {
+                  "name": "Musée des Commandos - Caserne Sous-Lieutenant Thibaut",
+                  "text": "Musée des Commandos este un muzeu militar situat la cazarma Sous-Lieutenant Thibaut din Namur.",
+                  "category": "museum",
+                  "coords": [
+                        4.818325,
+                        50.466434
+                  ]
+            },
+            {
+                  "name": "Château de Namur",
+                  "text": "Château de Namur este un castel important din orașul Namur.",
+                  "category": "castle",
+                  "coords": [
+                        4.855535,
+                        50.454795
+                  ]
+            },
+            {
+                  "name": "Cercle de Wallonie",
+                  "text": "Cercle de Wallonie este o proprietate de tip castel din orașul Namur.",
+                  "category": "castle",
+                  "coords": [
+                        4.849462,
+                        50.443757
+                  ]
+            },
+            {
+                  "name": "Centre d'Action Laïque",
+                  "text": "Centre d'Action Laïque este găzduit într-o clădire de tip castel din Namur.",
+                  "category": "castle",
+                  "coords": [
+                        4.851368,
+                        50.471828
+                  ]
+            },
+            {
+                  "name": "Château d'Amée",
+                  "text": "Château d'Amée este un castel istoric situat în Namur.",
+                  "category": "castle",
+                  "coords": [
+                        4.864787,
+                        50.439018
+                  ]
+            },
+            {
+                  "name": "Château du Rond-Chêne",
+                  "text": "Château du Rond-Chêne este un edificiu istoric de tip castel din orașul Namur.",
+                  "category": "castle",
+                  "coords": [
+                        4.872717,
+                        50.492326
+                  ]
+            },
+            {
+                  "name": "ACIS ASBL Accueil",
+                  "text": "ACIS ASBL Accueil funcționează într-o clădire tip castel din Namur.",
+                  "category": "castle",
+                  "coords": [
+                        4.858699,
+                        50.442929
+                  ]
+            },
+            {
+                  "name": "Villa Douxchamps",
+                  "text": "Villa Douxchamps este un castel situat în orașul Namur.",
+                  "category": "castle",
+                  "coords": [
+                        4.880902,
+                        50.469254
+                  ]
+            },
+            {
+                  "name": "Musée archéologique",
+                  "text": "Musée archéologique este un muzeu situat în Namur.",
+                  "category": "museum",
+                  "coords": [
+                        4.861638,
+                        50.463068
+                  ]
+            },
+            {
+                  "name": "Château de Géronsart",
+                  "text": "Château de Géronsart este un castel situat în Namur.",
+                  "category": "castle",
+                  "coords": [
+                        4.885643,
+                        50.44755
+                  ]
+            },
+            {
+                  "name": "Théâtre Jardin Passion",
+                  "text": "Théâtre Jardin Passion este un teatru din orașul Namur.",
+                  "category": "cultural",
+                  "coords": [
+                        4.85768,
+                        50.471076
+                  ]
+            },
+            {
+                  "name": "Tumuli de Frizet",
+                  "text": "Tumuli de Frizet este un sit arheologic situat în Namur.",
+                  "category": "historical",
+                  "coords": [
+                        4.867303,
+                        50.4941
+                  ]
+            },
+            {
+                  "name": "Grand Manège",
+                  "text": "Namur Concert Hall este un teatru și o sală de spectacole în Namur.",
+                  "category": "cultural",
+                  "coords": [
+                        4.870035,
+                        50.466627
+                  ]
+            },
+            {
+                  "name": "Château de Saint-Marc",
+                  "text": "Château de Saint-Marc este un castel situat în orașul Namur.",
+                  "category": "castle",
+                  "coords": [
+                        4.852425,
+                        50.491542
+                  ]
+            },
+            {
+                  "name": "Château Bivort",
+                  "text": "Château Bivort este un castel situat în Namur.",
+                  "category": "castle",
+                  "coords": [
+                        4.876621,
+                        50.474657
+                  ]
+            },
+            {
+                  "name": "Parc Louise Marie",
+                  "text": "Parc Louise Marie este un parc public din Namur, numit după prima regină a belgienilor.",
+                  "category": "park",
+                  "coords": [
+                        4.856387,
+                        50.466541
+                  ]
+            },
+            {
+                  "name": "Point de vue du Feu de Bouge",
+                  "text": "Point de vue du Feu de Bouge este un punct de belvedere în Namur.",
+                  "category": "natural",
+                  "coords": [
+                        4.890133,
+                        50.471204
+                  ]
+            },
+            {
+                  "name": "Galerie Rive Gauche",
+                  "text": "Galerie Rive Gauche este un centru de artă situat în orașul Namur.",
+                  "category": "cultural",
+                  "coords": [
+                        4.864744,
+                        50.463622
+                  ]
+            },
+            {
+                  "name": "Nom de la Rose",
+                  "text": "Nom de la Rose este un centru de artă local din Namur.",
+                  "category": "cultural",
+                  "coords": [
+                        4.858367,
+                        50.463515
+                  ]
+            },
+            {
+                  "name": "Gery Art Gallery",
+                  "text": "Gery Art Gallery este o galerie de artă situată în Namur.",
+                  "category": "museum",
+                  "coords": [
+                        4.865709,
+                        50.459249
+                  ]
+            },
+            {
+                  "name": "Le Banc Géant",
+                  "text": "Le Banc Géant este o atracție turistică din orașul Namur.",
+                  "category": "landmark",
+                  "coords": [
+                        4.870641,
+                        50.460331
+                  ]
+            },
+            {
+                  "name": "The New Artists",
+                  "text": "The New Artists este o galerie de artă situată în Namur.",
+                  "category": "museum",
+                  "coords": [
+                        4.870388,
+                        50.463517
+                  ]
+            },
+            {
+                  "name": "Porte de Bordial",
+                  "text": "Porte de Bordial este o poartă istorică a orașului Namur.",
+                  "category": "fortress",
+                  "coords": [
+                        4.860736,
+                        50.461288
+                  ]
+            },
+            {
+                  "name": "Église Saints-Pierre-et-Paul",
+                  "text": "Église Saints-Pierre-et-Paul este un lăcaș de cult situat în zona Erpent din Namur.",
+                  "category": "religious",
+                  "coords": [
+                        4.906844,
+                        50.450935
+                  ]
+            },
+            {
+                  "name": "Pont de la Libération",
+                  "text": "Pont de la Libération este un pod situat în orașul Namur.",
+                  "category": "landmark",
+                  "coords": [
+                        4.854128,
+                        50.466602
+                  ]
+            },
+            {
+                  "name": "Viaduc de Beez",
+                  "text": "Viaduc de Beez este un pod important situat în Namur.",
+                  "category": "landmark",
+                  "coords": [
+                        4.916385,
+                        50.465863
+                  ]
+            },
+            {
+                  "name": "Pont du Luxembourg",
+                  "text": "Pont du Luxembourg este un pod remarcabil situat în orașul Namur.",
+                  "category": "landmark",
+                  "coords": [
+                        4.879489,
+                        50.464756
+                  ]
+            },
+            {
+                  "name": "Pont des Ardennes",
+                  "text": "Pont des Ardennes este un pod bine cunoscut din Namur.",
+                  "category": "landmark",
+                  "coords": [
+                        4.874935,
+                        50.462667
+                  ]
+            },
+            {
+                  "name": "Église Saint-Sacrement",
+                  "text": "Église Saint-Sacrement este un lăcaș de cult recunoscut situat în orașul Namur.",
+                  "category": "religious",
+                  "coords": [
+                        4.867279,
+                        50.471719
+                  ]
+            },
+            {
+                  "name": "Pont des Grands Malades",
+                  "text": "Pont des Grands Malades este o structură de pod importantă din Namur.",
+                  "category": "landmark",
+                  "coords": [
+                        4.89919,
+                        50.4664
+                  ]
+            },
+            {
+                  "name": "Tour Marie Spilar",
+                  "text": "Tour Marie Spilar este o rămășiță istorică a unei porți a orașului în Namur.",
+                  "category": "fortress",
+                  "coords": [
+                        4.868405,
+                        50.46338
+                  ]
+            },
+            {
+                  "name": "Tour Saint-Aubain",
+                  "text": "Tour Saint-Aubain este un turn istoric remarcabil din Namur.",
+                  "category": "tower",
+                  "coords": [
+                        4.859314,
+                        50.464561
+                  ]
+            },
+            {
+                  "name": "Chapelle d'Hastimoulin",
+                  "text": "Chapelle d'Hastimoulin este o capelă istorică din Namur.",
+                  "category": "religious",
+                  "coords": [
+                        4.85806,
+                        50.47316
+                  ]
             }
       ],
       "en": [
@@ -553,6 +1714,393 @@ export const belgiumCitiesV2: POI[] = [
                   "coords": [
                         4.863485,
                         50.464089
+                  ]
+            },
+            {
+                  "name": "Théâtre Royal de Namur",
+                  "text": "The Théâtre Royal de Namur is a historic theatre located in the city of Namur.",
+                  "category": "cultural",
+                  "coords": [
+                        4.868159,
+                        50.464371
+                  ]
+            },
+            {
+                  "name": "African museum of Namur",
+                  "text": "The African museum of Namur is a museum dedicated to African history and culture located in Namur.",
+                  "category": "museum",
+                  "coords": [
+                        4.871396,
+                        50.466343
+                  ]
+            },
+            {
+                  "name": "Musée de l'Informatique Pionnière en Belgique",
+                  "text": "The Musée de l'Informatique Pionnière en Belgique is a museum in Namur dedicated to the history of computing.",
+                  "category": "museum",
+                  "coords": [
+                        4.835489,
+                        50.462807
+                  ]
+            },
+            {
+                  "name": "Théatre de Verdure",
+                  "text": "Théatre de Verdure is an open-air theatre situated at the Citadel of Namur.",
+                  "category": "cultural",
+                  "coords": [
+                        4.856213,
+                        50.455923
+                  ]
+            },
+            {
+                  "name": "Halle al'Chair",
+                  "text": "Halle al'Chair is a historic building and museum located in Namur.",
+                  "category": "museum",
+                  "coords": [
+                        4.868093,
+                        50.462179
+                  ]
+            },
+            {
+                  "name": "Élysette",
+                  "text": "The Élysette is a notable castle and the official residence of the Walloon Government in Namur.",
+                  "category": "castle",
+                  "coords": [
+                        4.869064,
+                        50.459179
+                  ]
+            },
+            {
+                  "name": "Tour d'Anhaive Donjon",
+                  "text": "The Tour d'Anhaive Donjon is a historic castle tower in Namur that was once part of the Anhaive seigneury.",
+                  "category": "castle",
+                  "coords": [
+                        4.888629,
+                        50.462583
+                  ]
+            },
+            {
+                  "name": "Musée Provincial des Arts Anciens du Namurois",
+                  "text": "The Musée Provincial des Arts Anciens du Namurois is a museum in Namur dedicated to regional ancient arts.",
+                  "category": "museum",
+                  "coords": [
+                        4.865355,
+                        50.46561
+                  ]
+            },
+            {
+                  "name": "Musée de la Citadelle",
+                  "text": "The Musée de la Citadelle is a museum in Namur that offers exhibits related to the local citadel.",
+                  "category": "museum",
+                  "coords": [
+                        4.860887,
+                        50.459034
+                  ]
+            },
+            {
+                  "name": "Espace muséal Nauticmen",
+                  "text": "The Espace muséal Nauticmen is a museum space situated in the city of Namur.",
+                  "category": "museum",
+                  "coords": [
+                        4.908434,
+                        50.465399
+                  ]
+            },
+            {
+                  "name": "Musée des Commandos - Caserne Sous-Lieutenant Thibaut",
+                  "text": "The Musée des Commandos is a military museum located at the Sous-Lieutenant Thibaut barracks in Namur.",
+                  "category": "museum",
+                  "coords": [
+                        4.818325,
+                        50.466434
+                  ]
+            },
+            {
+                  "name": "Château de Namur",
+                  "text": "The Château de Namur is a notable castle located in the city of Namur.",
+                  "category": "castle",
+                  "coords": [
+                        4.855535,
+                        50.454795
+                  ]
+            },
+            {
+                  "name": "Cercle de Wallonie",
+                  "text": "The Cercle de Wallonie is a castle property located in the city of Namur.",
+                  "category": "castle",
+                  "coords": [
+                        4.849462,
+                        50.443757
+                  ]
+            },
+            {
+                  "name": "Centre d'Action Laïque",
+                  "text": "The Centre d'Action Laïque is situated in a castle-type building in Namur.",
+                  "category": "castle",
+                  "coords": [
+                        4.851368,
+                        50.471828
+                  ]
+            },
+            {
+                  "name": "Château d'Amée",
+                  "text": "The Château d'Amée is a historical castle located in Namur.",
+                  "category": "castle",
+                  "coords": [
+                        4.864787,
+                        50.439018
+                  ]
+            },
+            {
+                  "name": "Château du Rond-Chêne",
+                  "text": "The Château du Rond-Chêne is a historical castle building situated in the city of Namur.",
+                  "category": "castle",
+                  "coords": [
+                        4.872717,
+                        50.492326
+                  ]
+            },
+            {
+                  "name": "ACIS ASBL Accueil",
+                  "text": "ACIS ASBL Accueil is located in a castle building in Namur.",
+                  "category": "castle",
+                  "coords": [
+                        4.858699,
+                        50.442929
+                  ]
+            },
+            {
+                  "name": "Villa Douxchamps",
+                  "text": "Villa Douxchamps is a castle located in the city of Namur.",
+                  "category": "castle",
+                  "coords": [
+                        4.880902,
+                        50.469254
+                  ]
+            },
+            {
+                  "name": "Musée archéologique",
+                  "text": "The Musée archéologique is a museum situated in Namur.",
+                  "category": "museum",
+                  "coords": [
+                        4.861638,
+                        50.463068
+                  ]
+            },
+            {
+                  "name": "Château de Géronsart",
+                  "text": "Château de Géronsart is a castle located in Namur.",
+                  "category": "castle",
+                  "coords": [
+                        4.885643,
+                        50.44755
+                  ]
+            },
+            {
+                  "name": "Théâtre Jardin Passion",
+                  "text": "Théâtre Jardin Passion is a theatre venue in the city of Namur.",
+                  "category": "cultural",
+                  "coords": [
+                        4.85768,
+                        50.471076
+                  ]
+            },
+            {
+                  "name": "Tumuli de Frizet",
+                  "text": "Tumuli de Frizet is an archaeological site located in Namur.",
+                  "category": "historical",
+                  "coords": [
+                        4.867303,
+                        50.4941
+                  ]
+            },
+            {
+                  "name": "Namur Concert Hall",
+                  "text": "Namur Concert Hall is a theatre and performance venue in Namur.",
+                  "category": "cultural",
+                  "coords": [
+                        4.870035,
+                        50.466627
+                  ]
+            },
+            {
+                  "name": "Château de Saint-Marc",
+                  "text": "Château de Saint-Marc is a castle located in the city of Namur.",
+                  "category": "castle",
+                  "coords": [
+                        4.852425,
+                        50.491542
+                  ]
+            },
+            {
+                  "name": "Château Bivort",
+                  "text": "Château Bivort is a castle situated in Namur.",
+                  "category": "castle",
+                  "coords": [
+                        4.876621,
+                        50.474657
+                  ]
+            },
+            {
+                  "name": "Parc Louise Marie",
+                  "text": "Parc Louise Marie is a public park in Namur, named after the first Queen of the Belgians.",
+                  "category": "park",
+                  "coords": [
+                        4.856387,
+                        50.466541
+                  ]
+            },
+            {
+                  "name": "Point de vue du Feu de Bouge",
+                  "text": "Point de vue du Feu de Bouge is a scenic viewpoint in Namur.",
+                  "category": "natural",
+                  "coords": [
+                        4.890133,
+                        50.471204
+                  ]
+            },
+            {
+                  "name": "Galerie Rive Gauche",
+                  "text": "Galerie Rive Gauche is an arts centre located in the city of Namur.",
+                  "category": "cultural",
+                  "coords": [
+                        4.864744,
+                        50.463622
+                  ]
+            },
+            {
+                  "name": "Nom de la Rose",
+                  "text": "Nom de la Rose is a local arts centre in Namur.",
+                  "category": "cultural",
+                  "coords": [
+                        4.858367,
+                        50.463515
+                  ]
+            },
+            {
+                  "name": "Gery Art Gallery",
+                  "text": "Gery Art Gallery is an art gallery located in Namur.",
+                  "category": "museum",
+                  "coords": [
+                        4.865709,
+                        50.459249
+                  ]
+            },
+            {
+                  "name": "Le Banc Géant",
+                  "text": "Le Banc Géant is a tourist attraction in the city of Namur.",
+                  "category": "landmark",
+                  "coords": [
+                        4.870641,
+                        50.460331
+                  ]
+            },
+            {
+                  "name": "The New Artists",
+                  "text": "The New Artists is an art gallery situated in Namur.",
+                  "category": "museum",
+                  "coords": [
+                        4.870388,
+                        50.463517
+                  ]
+            },
+            {
+                  "name": "Porte de Bordial",
+                  "text": "Porte de Bordial is a historical city gate in Namur.",
+                  "category": "fortress",
+                  "coords": [
+                        4.860736,
+                        50.461288
+                  ]
+            },
+            {
+                  "name": "Église Saints-Pierre-et-Paul",
+                  "text": "Église Saints-Pierre-et-Paul is a place of worship located in the Erpent area of Namur.",
+                  "category": "religious",
+                  "coords": [
+                        4.906844,
+                        50.450935
+                  ]
+            },
+            {
+                  "name": "Pont de la Libération",
+                  "text": "The Pont de la Libération is a bridge located in the city of Namur.",
+                  "category": "landmark",
+                  "coords": [
+                        4.854128,
+                        50.466602
+                  ]
+            },
+            {
+                  "name": "Viaduc de Beez",
+                  "text": "The Viaduc de Beez is a prominent bridge located in Namur.",
+                  "category": "landmark",
+                  "coords": [
+                        4.916385,
+                        50.465863
+                  ]
+            },
+            {
+                  "name": "Pont du Luxembourg",
+                  "text": "The Pont du Luxembourg is a notable bridge located in the city of Namur.",
+                  "category": "landmark",
+                  "coords": [
+                        4.879489,
+                        50.464756
+                  ]
+            },
+            {
+                  "name": "Pont des Ardennes",
+                  "text": "The Pont des Ardennes is a well-known bridge connecting parts of Namur.",
+                  "category": "landmark",
+                  "coords": [
+                        4.874935,
+                        50.462667
+                  ]
+            },
+            {
+                  "name": "Église Saint-Sacrement",
+                  "text": "Église Saint-Sacrement is a recognized place of worship located in the city of Namur.",
+                  "category": "religious",
+                  "coords": [
+                        4.867279,
+                        50.471719
+                  ]
+            },
+            {
+                  "name": "Pont des Grands Malades",
+                  "text": "The Pont des Grands Malades is a significant bridge structure located in Namur.",
+                  "category": "landmark",
+                  "coords": [
+                        4.89919,
+                        50.4664
+                  ]
+            },
+            {
+                  "name": "Tour Marie Spilar",
+                  "text": "Tour Marie Spilar is a historic remnant of a city gate in Namur.",
+                  "category": "fortress",
+                  "coords": [
+                        4.868405,
+                        50.46338
+                  ]
+            },
+            {
+                  "name": "Tour Saint-Aubain",
+                  "text": "Tour Saint-Aubain is a prominent historic tower located in Namur.",
+                  "category": "tower",
+                  "coords": [
+                        4.859314,
+                        50.464561
+                  ]
+            },
+            {
+                  "name": "Chapelle d'Hastimoulin",
+                  "text": "Chapelle d'Hastimoulin is a historic chapel located in Namur.",
+                  "category": "religious",
+                  "coords": [
+                        4.85806,
+                        50.47316
                   ]
             }
       ]
@@ -2518,7 +4066,952 @@ imageHint: "Geraardsbergen Muur climb view",
     },
     image: "/poi-images/belgium-geraardsbergen-cities-v2.webp",
 },  {
-    id: "belgium-knokke-heist-cities-v2",
+    id: "belgium-knokke-heist-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "HEY",
+                  "text": "Das HEY ist ein Museum in Knokke-Heist.",
+                  "category": "museum",
+                  "coords": [
+                        3.24528,
+                        51.337479
+                  ]
+            },
+            {
+                  "name": "Hoge vuurtoren van Heist",
+                  "text": "Der hohe Leuchtturm von Heist ist ein markantes Bauwerk in Knokke-Heist.",
+                  "category": "landmark",
+                  "coords": [
+                        3.230383,
+                        51.337565
+                  ]
+            },
+            {
+                  "name": "Sashul",
+                  "text": "Sashul ist ein Naturschutzgebiet in Knokke-Heist.",
+                  "category": "natural",
+                  "coords": [
+                        3.22849,
+                        51.335691
+                  ]
+            },
+            {
+                  "name": "Tobruk (Zwinduinen en -polders)",
+                  "text": "Tobruk ist Teil des Naturschutzgebiets Zwinduinen en -polders in Knokke-Heist.",
+                  "category": "natural",
+                  "coords": [
+                        3.337552,
+                        51.358846
+                  ]
+            },
+            {
+                  "name": "For Freedom Museum",
+                  "text": "Das For Freedom Museum in Knokke-Heist widmet sich der Geschichte des Zweiten Weltkriegs.",
+                  "category": "museum",
+                  "coords": [
+                        3.252138,
+                        51.313477
+                  ]
+            },
+            {
+                  "name": "Fort Sint-Pol",
+                  "text": "Fort Sint-Pol ist eine historische Befestigungsanlage in Knokke-Heist.",
+                  "category": "fortress",
+                  "coords": [
+                        3.324669,
+                        51.349572
+                  ]
+            },
+            {
+                  "name": "Baai van Heist",
+                  "text": "Die Baai van Heist ist ein geschütztes Naturschutzgebiet in Knokke-Heist.",
+                  "category": "natural",
+                  "coords": [
+                        3.230326,
+                        51.343752
+                  ]
+            },
+            {
+                  "name": "AlbertStrand",
+                  "text": "Der AlbertStrand ist ein beliebter Strandabschnitt in Knokke-Heist.",
+                  "category": "recreational",
+                  "coords": [
+                        3.250934,
+                        51.344362
+                  ]
+            },
+            {
+                  "name": "Laguna Beach",
+                  "text": "Laguna Beach ist ein Strandbereich in Knokke-Heist.",
+                  "category": "recreational",
+                  "coords": [
+                        3.257298,
+                        51.335181
+                  ]
+            },
+            {
+                  "name": "Peiremuzee",
+                  "text": "Das Peiremuzee ist ein Museum in Knokke-Heist.",
+                  "category": "museum",
+                  "coords": [
+                        3.292818,
+                        51.341451
+                  ]
+            },
+            {
+                  "name": "Molen van Siska",
+                  "text": "Die Molen van Siska ist eine historische Windmühle in Knokke-Heist.",
+                  "category": "landmark",
+                  "coords": [
+                        3.324279,
+                        51.346062
+                  ]
+            },
+            {
+                  "name": "Kalfmolen",
+                  "text": "Die Kalfmolen ist eine Windmühle in Knokke-Heist.",
+                  "category": "landmark",
+                  "coords": [
+                        3.315228,
+                        51.338719
+                  ]
+            },
+            {
+                  "name": "Oude Molen",
+                  "text": "Die Oude Molen ist eine historische Windmühle in Knokke-Heist.",
+                  "category": "landmark",
+                  "coords": [
+                        3.308487,
+                        51.346123
+                  ]
+            },
+            {
+                  "name": "Directeur-Generaal Willemspark",
+                  "text": "Der Directeur-Generaal Willemspark ist eine öffentliche Parkanlage in Knokke-Heist.",
+                  "category": "park",
+                  "coords": [
+                        3.251874,
+                        51.341473
+                  ]
+            },
+            {
+                  "name": "Mulier Mulier",
+                  "text": "Mulier Mulier ist eine Kunstgalerie in Knokke-Heist.",
+                  "category": "museum",
+                  "coords": [
+                        3.306079,
+                        51.356824
+                  ]
+            },
+            {
+                  "name": "Victoria",
+                  "text": "Victoria ist eine Kunstgalerie in Knokke-Heist.",
+                  "category": "museum",
+                  "coords": [
+                        3.243143,
+                        51.34177
+                  ]
+            },
+            {
+                  "name": "Horus Gallery",
+                  "text": "Die Horus Gallery ist eine Kunstgalerie in Knokke-Heist.",
+                  "category": "museum",
+                  "coords": [
+                        3.294309,
+                        51.354453
+                  ]
+            },
+            {
+                  "name": "Early Birds Art Gallery",
+                  "text": "Die Early Birds Art Gallery ist eine Kunstgalerie in Knokke-Heist.",
+                  "category": "museum",
+                  "coords": [
+                        3.295793,
+                        51.354773
+                  ]
+            },
+            {
+                  "name": "Dominicanenkerk",
+                  "text": "Die Dominicanenkerk ist ein Gotteshaus in Knokke-Heist.",
+                  "category": "religious",
+                  "coords": [
+                        3.30579,
+                        51.352686
+                  ]
+            },
+            {
+                  "name": "Sint-Vincentiuskerk",
+                  "text": "Die Sint-Vincentiuskerk ist ein Gotteshaus in Knokke-Heist.",
+                  "category": "religious",
+                  "coords": [
+                        3.250402,
+                        51.315178
+                  ]
+            },
+            {
+                  "name": "Sint-Niklaaskerk",
+                  "text": "Die Sint-Niklaaskerk ist eine Kirche in Westkapelle bei Knokke-Heist.",
+                  "category": "religious",
+                  "coords": [
+                        3.302842,
+                        51.314483
+                  ]
+            },
+            {
+                  "name": "Onbevlekt Hart van Maria- en Margaretakerk",
+                  "text": "Diese Kirche ist ein Gotteshaus in Knokke-Heist.",
+                  "category": "religious",
+                  "coords": [
+                        3.28628,
+                        51.341857
+                  ]
+            },
+            {
+                  "name": "Heilig Hartkerk",
+                  "text": "Die Heilig Hartkerk ist ein Gotteshaus in Knokke-Heist.",
+                  "category": "religious",
+                  "coords": [
+                        3.291632,
+                        51.351106
+                  ]
+            },
+            {
+                  "name": "Heilige Familiekerk",
+                  "text": "Die Heilige Familiekerk ist ein Gotteshaus in Knokke-Heist.",
+                  "category": "religious",
+                  "coords": [
+                        3.260684,
+                        51.340297
+                  ]
+            },
+            {
+                  "name": "Sint-Antonius-Abtkerk",
+                  "text": "Die Sint-Antonius-Abtkerk ist ein Gotteshaus in Knokke-Heist.",
+                  "category": "religious",
+                  "coords": [
+                        3.235874,
+                        51.339419
+                  ]
+            },
+            {
+                  "name": "Kristus-Koningkapel",
+                  "text": "Die Kristus-Koningkapel ist ein Gotteshaus in Knokke-Heist.",
+                  "category": "religious",
+                  "coords": [
+                        3.262155,
+                        51.342618
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "HEY",
+                  "text": "A HEY egy múzeum Knokke-Heistben.",
+                  "category": "museum",
+                  "coords": [
+                        3.24528,
+                        51.337479
+                  ]
+            },
+            {
+                  "name": "Hoge vuurtoren van Heist",
+                  "text": "A Heist-i magas világítótorony egy jellegzetes építmény Knokke-Heistben.",
+                  "category": "landmark",
+                  "coords": [
+                        3.230383,
+                        51.337565
+                  ]
+            },
+            {
+                  "name": "Sashul",
+                  "text": "A Sashul egy természetvédelmi terület Knokke-Heistben.",
+                  "category": "natural",
+                  "coords": [
+                        3.22849,
+                        51.335691
+                  ]
+            },
+            {
+                  "name": "Tobruk (Zwinduinen en -polders)",
+                  "text": "A Tobruk a Zwinduinen en -polders természetvédelmi terület része Knokke-Heistben.",
+                  "category": "natural",
+                  "coords": [
+                        3.337552,
+                        51.358846
+                  ]
+            },
+            {
+                  "name": "For Freedom Museum",
+                  "text": "A knokke-heisti For Freedom Múzeum a második világháború történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        3.252138,
+                        51.313477
+                  ]
+            },
+            {
+                  "name": "Fort Sint-Pol",
+                  "text": "A Fort Sint-Pol egy történelmi erődítmény Knokke-Heist városában.",
+                  "category": "fortress",
+                  "coords": [
+                        3.324669,
+                        51.349572
+                  ]
+            },
+            {
+                  "name": "Baai van Heist",
+                  "text": "A Baai van Heist egy védett természetvédelmi terület Knokke-Heistnél.",
+                  "category": "natural",
+                  "coords": [
+                        3.230326,
+                        51.343752
+                  ]
+            },
+            {
+                  "name": "AlbertStrand",
+                  "text": "Az AlbertStrand egy népszerű partszakasz Knokke-Heist városában.",
+                  "category": "recreational",
+                  "coords": [
+                        3.250934,
+                        51.344362
+                  ]
+            },
+            {
+                  "name": "Laguna Beach",
+                  "text": "A Laguna Beach egy partszakasz Knokke-Heistnél.",
+                  "category": "recreational",
+                  "coords": [
+                        3.257298,
+                        51.335181
+                  ]
+            },
+            {
+                  "name": "Peiremuzee",
+                  "text": "A Peiremuzee egy múzeum Knokke-Heist városában.",
+                  "category": "museum",
+                  "coords": [
+                        3.292818,
+                        51.341451
+                  ]
+            },
+            {
+                  "name": "Molen van Siska",
+                  "text": "A Molen van Siska egy történelmi szélmalom Knokke-Heist városában.",
+                  "category": "landmark",
+                  "coords": [
+                        3.324279,
+                        51.346062
+                  ]
+            },
+            {
+                  "name": "Kalfmolen",
+                  "text": "A Kalfmolen egy szélmalom Knokke-Heistnél.",
+                  "category": "landmark",
+                  "coords": [
+                        3.315228,
+                        51.338719
+                  ]
+            },
+            {
+                  "name": "Oude Molen",
+                  "text": "Az Oude Molen egy történelmi szélmalom Knokke-Heist városában.",
+                  "category": "landmark",
+                  "coords": [
+                        3.308487,
+                        51.346123
+                  ]
+            },
+            {
+                  "name": "Directeur-Generaal Willemspark",
+                  "text": "A Directeur-Generaal Willemspark egy nyilvános park Knokke-Heist városában.",
+                  "category": "park",
+                  "coords": [
+                        3.251874,
+                        51.341473
+                  ]
+            },
+            {
+                  "name": "Mulier Mulier",
+                  "text": "A Mulier Mulier egy művészeti galéria Knokke-Heist városában.",
+                  "category": "museum",
+                  "coords": [
+                        3.306079,
+                        51.356824
+                  ]
+            },
+            {
+                  "name": "Victoria",
+                  "text": "A Victoria egy művészeti galéria Knokke-Heist városában.",
+                  "category": "museum",
+                  "coords": [
+                        3.243143,
+                        51.34177
+                  ]
+            },
+            {
+                  "name": "Horus Gallery",
+                  "text": "A Horus Gallery egy művészeti galéria Knokke-Heistben.",
+                  "category": "museum",
+                  "coords": [
+                        3.294309,
+                        51.354453
+                  ]
+            },
+            {
+                  "name": "Early Birds Art Gallery",
+                  "text": "Az Early Birds Art Gallery egy művészeti galéria Knokke-Heistben.",
+                  "category": "museum",
+                  "coords": [
+                        3.295793,
+                        51.354773
+                  ]
+            },
+            {
+                  "name": "Dominicanenkerk",
+                  "text": "A Dominicanenkerk egy templom Knokke-Heistben.",
+                  "category": "religious",
+                  "coords": [
+                        3.30579,
+                        51.352686
+                  ]
+            },
+            {
+                  "name": "Sint-Vincentiuskerk",
+                  "text": "A Sint-Vincentiuskerk egy templom Knokke-Heistben.",
+                  "category": "religious",
+                  "coords": [
+                        3.250402,
+                        51.315178
+                  ]
+            },
+            {
+                  "name": "Sint-Niklaaskerk",
+                  "text": "A Sint-Niklaaskerk egy templom a Knokke-Heist melletti Westkapellében.",
+                  "category": "religious",
+                  "coords": [
+                        3.302842,
+                        51.314483
+                  ]
+            },
+            {
+                  "name": "Onbevlekt Hart van Maria- en Margaretakerk",
+                  "text": "Ez a templom egy istentiszteleti hely Knokke-Heistben.",
+                  "category": "religious",
+                  "coords": [
+                        3.28628,
+                        51.341857
+                  ]
+            },
+            {
+                  "name": "Heilig Hartkerk",
+                  "text": "A Heilig Hartkerk egy templom Knokke-Heistben.",
+                  "category": "religious",
+                  "coords": [
+                        3.291632,
+                        51.351106
+                  ]
+            },
+            {
+                  "name": "Heilige Familiekerk",
+                  "text": "A Heilige Familiekerk egy templom Knokke-Heistben.",
+                  "category": "religious",
+                  "coords": [
+                        3.260684,
+                        51.340297
+                  ]
+            },
+            {
+                  "name": "Sint-Antonius-Abtkerk",
+                  "text": "A Sint-Antonius-Abtkerk egy templom Knokke-Heistben.",
+                  "category": "religious",
+                  "coords": [
+                        3.235874,
+                        51.339419
+                  ]
+            },
+            {
+                  "name": "Kristus-Koningkapel",
+                  "text": "A Kristus-Koningkapel egy kápolna Knokke-Heistben.",
+                  "category": "religious",
+                  "coords": [
+                        3.262155,
+                        51.342618
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "HEY",
+                  "text": "HEY este un muzeu din Knokke-Heist.",
+                  "category": "museum",
+                  "coords": [
+                        3.24528,
+                        51.337479
+                  ]
+            },
+            {
+                  "name": "Hoge vuurtoren van Heist",
+                  "text": "Farul înalt din Heist este o structură distinctivă din Knokke-Heist.",
+                  "category": "landmark",
+                  "coords": [
+                        3.230383,
+                        51.337565
+                  ]
+            },
+            {
+                  "name": "Sashul",
+                  "text": "Sashul este o rezervație naturală din Knokke-Heist.",
+                  "category": "natural",
+                  "coords": [
+                        3.22849,
+                        51.335691
+                  ]
+            },
+            {
+                  "name": "Tobruk (Zwinduinen en -polders)",
+                  "text": "Tobruk face parte din rezervația naturală Zwinduinen en -polders din Knokke-Heist.",
+                  "category": "natural",
+                  "coords": [
+                        3.337552,
+                        51.358846
+                  ]
+            },
+            {
+                  "name": "For Freedom Museum",
+                  "text": "Muzeul For Freedom din Knokke-Heist este dedicat istoriei celui de-al Doilea Război Mondial.",
+                  "category": "museum",
+                  "coords": [
+                        3.252138,
+                        51.313477
+                  ]
+            },
+            {
+                  "name": "Fort Sint-Pol",
+                  "text": "Fort Sint-Pol este o fortificație istorică situată în Knokke-Heist.",
+                  "category": "fortress",
+                  "coords": [
+                        3.324669,
+                        51.349572
+                  ]
+            },
+            {
+                  "name": "Baai van Heist",
+                  "text": "Baai van Heist este o rezervație naturală protejată din Knokke-Heist.",
+                  "category": "natural",
+                  "coords": [
+                        3.230326,
+                        51.343752
+                  ]
+            },
+            {
+                  "name": "AlbertStrand",
+                  "text": "AlbertStrand este o porțiune de plajă populară din Knokke-Heist.",
+                  "category": "recreational",
+                  "coords": [
+                        3.250934,
+                        51.344362
+                  ]
+            },
+            {
+                  "name": "Laguna Beach",
+                  "text": "Laguna Beach este o zonă de plajă în Knokke-Heist.",
+                  "category": "recreational",
+                  "coords": [
+                        3.257298,
+                        51.335181
+                  ]
+            },
+            {
+                  "name": "Peiremuzee",
+                  "text": "Peiremuzee este un muzeu situat în Knokke-Heist.",
+                  "category": "museum",
+                  "coords": [
+                        3.292818,
+                        51.341451
+                  ]
+            },
+            {
+                  "name": "Molen van Siska",
+                  "text": "Molen van Siska este o moară de vânt istorică din Knokke-Heist.",
+                  "category": "landmark",
+                  "coords": [
+                        3.324279,
+                        51.346062
+                  ]
+            },
+            {
+                  "name": "Kalfmolen",
+                  "text": "Kalfmolen este o moară de vânt din Knokke-Heist.",
+                  "category": "landmark",
+                  "coords": [
+                        3.315228,
+                        51.338719
+                  ]
+            },
+            {
+                  "name": "Oude Molen",
+                  "text": "Oude Molen este o moară de vânt istorică din Knokke-Heist.",
+                  "category": "landmark",
+                  "coords": [
+                        3.308487,
+                        51.346123
+                  ]
+            },
+            {
+                  "name": "Directeur-Generaal Willemspark",
+                  "text": "Directeur-Generaal Willemspark este un parc public din Knokke-Heist.",
+                  "category": "park",
+                  "coords": [
+                        3.251874,
+                        51.341473
+                  ]
+            },
+            {
+                  "name": "Mulier Mulier",
+                  "text": "Mulier Mulier este o galerie de artă din Knokke-Heist.",
+                  "category": "museum",
+                  "coords": [
+                        3.306079,
+                        51.356824
+                  ]
+            },
+            {
+                  "name": "Victoria",
+                  "text": "Victoria este o galerie de artă situată în Knokke-Heist.",
+                  "category": "museum",
+                  "coords": [
+                        3.243143,
+                        51.34177
+                  ]
+            },
+            {
+                  "name": "Horus Gallery",
+                  "text": "Horus Gallery este o galerie de artă din Knokke-Heist.",
+                  "category": "museum",
+                  "coords": [
+                        3.294309,
+                        51.354453
+                  ]
+            },
+            {
+                  "name": "Early Birds Art Gallery",
+                  "text": "Early Birds Art Gallery este o galerie de artă din Knokke-Heist.",
+                  "category": "museum",
+                  "coords": [
+                        3.295793,
+                        51.354773
+                  ]
+            },
+            {
+                  "name": "Dominicanenkerk",
+                  "text": "Dominicanenkerk este un lăcaș de cult din Knokke-Heist.",
+                  "category": "religious",
+                  "coords": [
+                        3.30579,
+                        51.352686
+                  ]
+            },
+            {
+                  "name": "Sint-Vincentiuskerk",
+                  "text": "Sint-Vincentiuskerk este un lăcaș de cult din Knokke-Heist.",
+                  "category": "religious",
+                  "coords": [
+                        3.250402,
+                        51.315178
+                  ]
+            },
+            {
+                  "name": "Sint-Niklaaskerk",
+                  "text": "Sint-Niklaaskerk este o biserică din Westkapelle, lângă Knokke-Heist.",
+                  "category": "religious",
+                  "coords": [
+                        3.302842,
+                        51.314483
+                  ]
+            },
+            {
+                  "name": "Onbevlekt Hart van Maria- en Margaretakerk",
+                  "text": "Această biserică este un lăcaș de cult din Knokke-Heist.",
+                  "category": "religious",
+                  "coords": [
+                        3.28628,
+                        51.341857
+                  ]
+            },
+            {
+                  "name": "Heilig Hartkerk",
+                  "text": "Heilig Hartkerk este un lăcaș de cult din Knokke-Heist.",
+                  "category": "religious",
+                  "coords": [
+                        3.291632,
+                        51.351106
+                  ]
+            },
+            {
+                  "name": "Heilige Familiekerk",
+                  "text": "Heilige Familiekerk este un lăcaș de cult din Knokke-Heist.",
+                  "category": "religious",
+                  "coords": [
+                        3.260684,
+                        51.340297
+                  ]
+            },
+            {
+                  "name": "Sint-Antonius-Abtkerk",
+                  "text": "Sint-Antonius-Abtkerk este un lăcaș de cult din Knokke-Heist.",
+                  "category": "religious",
+                  "coords": [
+                        3.235874,
+                        51.339419
+                  ]
+            },
+            {
+                  "name": "Kristus-Koningkapel",
+                  "text": "Kristus-Koningkapel este un lăcaș de cult din Knokke-Heist.",
+                  "category": "religious",
+                  "coords": [
+                        3.262155,
+                        51.342618
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "HEY",
+                  "text": "HEY is a museum in Knokke-Heist.",
+                  "category": "museum",
+                  "coords": [
+                        3.24528,
+                        51.337479
+                  ]
+            },
+            {
+                  "name": "Hoge vuurtoren van Heist",
+                  "text": "The high lighthouse of Heist is a landmark in Knokke-Heist.",
+                  "category": "landmark",
+                  "coords": [
+                        3.230383,
+                        51.337565
+                  ]
+            },
+            {
+                  "name": "Sashul",
+                  "text": "Sashul is a nature reserve in Knokke-Heist.",
+                  "category": "natural",
+                  "coords": [
+                        3.22849,
+                        51.335691
+                  ]
+            },
+            {
+                  "name": "Tobruk (Zwinduinen en -polders)",
+                  "text": "Tobruk is part of the Zwinduinen en -polders nature reserve in Knokke-Heist.",
+                  "category": "natural",
+                  "coords": [
+                        3.337552,
+                        51.358846
+                  ]
+            },
+            {
+                  "name": "For Freedom Museum",
+                  "text": "The For Freedom Museum in Knokke-Heist is dedicated to the history of the Second World War.",
+                  "category": "museum",
+                  "coords": [
+                        3.252138,
+                        51.313477
+                  ]
+            },
+            {
+                  "name": "Fort Sint-Pol",
+                  "text": "Fort Sint-Pol is a historic fortification located in Knokke-Heist.",
+                  "category": "fortress",
+                  "coords": [
+                        3.324669,
+                        51.349572
+                  ]
+            },
+            {
+                  "name": "Baai van Heist",
+                  "text": "Baai van Heist is a protected nature reserve in Knokke-Heist.",
+                  "category": "natural",
+                  "coords": [
+                        3.230326,
+                        51.343752
+                  ]
+            },
+            {
+                  "name": "AlbertStrand",
+                  "text": "AlbertStrand is a popular beach area in Knokke-Heist.",
+                  "category": "recreational",
+                  "coords": [
+                        3.250934,
+                        51.344362
+                  ]
+            },
+            {
+                  "name": "Laguna Beach",
+                  "text": "Laguna Beach is a beach area in Knokke-Heist.",
+                  "category": "recreational",
+                  "coords": [
+                        3.257298,
+                        51.335181
+                  ]
+            },
+            {
+                  "name": "Peiremuzee",
+                  "text": "Peiremuzee is a museum located in Knokke-Heist.",
+                  "category": "museum",
+                  "coords": [
+                        3.292818,
+                        51.341451
+                  ]
+            },
+            {
+                  "name": "Molen van Siska",
+                  "text": "Molen van Siska is a historic windmill in Knokke-Heist.",
+                  "category": "landmark",
+                  "coords": [
+                        3.324279,
+                        51.346062
+                  ]
+            },
+            {
+                  "name": "Kalfmolen",
+                  "text": "Kalfmolen is a windmill in Knokke-Heist.",
+                  "category": "landmark",
+                  "coords": [
+                        3.315228,
+                        51.338719
+                  ]
+            },
+            {
+                  "name": "Oude Molen",
+                  "text": "Oude Molen is a historic windmill in Knokke-Heist.",
+                  "category": "landmark",
+                  "coords": [
+                        3.308487,
+                        51.346123
+                  ]
+            },
+            {
+                  "name": "Directeur-Generaal Willemspark",
+                  "text": "Directeur-Generaal Willemspark is a public park in Knokke-Heist.",
+                  "category": "park",
+                  "coords": [
+                        3.251874,
+                        51.341473
+                  ]
+            },
+            {
+                  "name": "Mulier Mulier",
+                  "text": "Mulier Mulier is an art gallery in Knokke-Heist.",
+                  "category": "museum",
+                  "coords": [
+                        3.306079,
+                        51.356824
+                  ]
+            },
+            {
+                  "name": "Victoria",
+                  "text": "Victoria is an art gallery located in Knokke-Heist.",
+                  "category": "museum",
+                  "coords": [
+                        3.243143,
+                        51.34177
+                  ]
+            },
+            {
+                  "name": "Horus Gallery",
+                  "text": "Horus Gallery is an art gallery in Knokke-Heist.",
+                  "category": "museum",
+                  "coords": [
+                        3.294309,
+                        51.354453
+                  ]
+            },
+            {
+                  "name": "Early Birds Art Gallery",
+                  "text": "Early Birds Art Gallery is an art gallery in Knokke-Heist.",
+                  "category": "museum",
+                  "coords": [
+                        3.295793,
+                        51.354773
+                  ]
+            },
+            {
+                  "name": "Dominicanenkerk",
+                  "text": "Dominicanenkerk is a place of worship in Knokke-Heist.",
+                  "category": "religious",
+                  "coords": [
+                        3.30579,
+                        51.352686
+                  ]
+            },
+            {
+                  "name": "Sint-Vincentiuskerk",
+                  "text": "Sint-Vincentiuskerk is a place of worship in Knokke-Heist.",
+                  "category": "religious",
+                  "coords": [
+                        3.250402,
+                        51.315178
+                  ]
+            },
+            {
+                  "name": "Sint-Niklaaskerk",
+                  "text": "Sint-Niklaaskerk is a church in Westkapelle near Knokke-Heist.",
+                  "category": "religious",
+                  "coords": [
+                        3.302842,
+                        51.314483
+                  ]
+            },
+            {
+                  "name": "Onbevlekt Hart van Maria- en Margaretakerk",
+                  "text": "This church is a place of worship in Knokke-Heist.",
+                  "category": "religious",
+                  "coords": [
+                        3.28628,
+                        51.341857
+                  ]
+            },
+            {
+                  "name": "Heilig Hartkerk",
+                  "text": "Heilig Hartkerk is a place of worship in Knokke-Heist.",
+                  "category": "religious",
+                  "coords": [
+                        3.291632,
+                        51.351106
+                  ]
+            },
+            {
+                  "name": "Heilige Familiekerk",
+                  "text": "Heilige Familiekerk is a place of worship in Knokke-Heist.",
+                  "category": "religious",
+                  "coords": [
+                        3.260684,
+                        51.340297
+                  ]
+            },
+            {
+                  "name": "Sint-Antonius-Abtkerk",
+                  "text": "Sint-Antonius-Abtkerk is a place of worship in Knokke-Heist.",
+                  "category": "religious",
+                  "coords": [
+                        3.235874,
+                        51.339419
+                  ]
+            },
+            {
+                  "name": "Kristus-Koningkapel",
+                  "text": "Kristus-Koningkapel is a place of worship in Knokke-Heist.",
+                  "category": "religious",
+                  "coords": [
+                        3.262155,
+                        51.342618
+                  ]
+            }
+      ]
+},
     parent: "BE",
     type: "town",
     name: { de: "Knokke-Heist", hu: "Knokke-Heist", ro: "Knokke-Heist", en: "Knokke-Heist"},

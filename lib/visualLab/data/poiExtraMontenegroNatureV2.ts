@@ -453,7 +453,52 @@ export const montenegroNatureV2: POI[] = [
     image: "/poi-images/montenegro-rijeka-lim-nature-v2.webp",
   },
   {
-    id: "montenegro-otok-sveti-nikola-nature-v2",
+    id: "montenegro-otok-sveti-nikola-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Laguna beach",
+                  "text": "Laguna beach befindet sich auf der Insel Sveti Nikola.",
+                  "category": "recreational",
+                  "coords": [
+                        18.85014,
+                        42.269341
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Laguna beach",
+                  "text": "A Laguna beach a Sveti Nikola-szigeten található.",
+                  "category": "recreational",
+                  "coords": [
+                        18.85014,
+                        42.269341
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Laguna beach",
+                  "text": "Laguna beach se află pe insula Sveti Nikola.",
+                  "category": "recreational",
+                  "coords": [
+                        18.85014,
+                        42.269341
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Laguna beach",
+                  "text": "Laguna beach is located on the island of Sveti Nikola.",
+                  "category": "recreational",
+                  "coords": [
+                        18.85014,
+                        42.269341
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "ME",
     name: { de: "Insel Sveti Nikola", hu: "Sveti Nikola-sziget", ro: "Insula Sveti Nikola", en: "Sveti Nikola Island" },
@@ -813,7 +858,52 @@ export const montenegroNatureV2: POI[] = [
     image: "/poi-images/montenegro-kanjon-mrtvica-nature-v2.webp",
   },
   {
-    id: "montenegro-otok-mamula-nature-v2",
+    id: "montenegro-otok-mamula-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dobrec",
+                  "text": "Dobrec ist ein Strand bei der Insel Mamula.",
+                  "category": "recreational",
+                  "coords": [
+                        18.559028,
+                        42.412447
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dobrec",
+                  "text": "Dobrec egy strand a Mamula-szigetnél.",
+                  "category": "recreational",
+                  "coords": [
+                        18.559028,
+                        42.412447
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dobrec",
+                  "text": "Dobrec este o plajă lângă insula Mamula.",
+                  "category": "recreational",
+                  "coords": [
+                        18.559028,
+                        42.412447
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dobrec",
+                  "text": "Dobrec is a beach by Mamula island.",
+                  "category": "recreational",
+                  "coords": [
+                        18.559028,
+                        42.412447
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "ME",
     name: { de: "Insel Mamula", hu: "Mamula-sziget", ro: "Insula Mamula", en: "Mamula Island" },

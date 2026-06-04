@@ -273,7 +273,52 @@ export const latviaHistoryV2: POI[] = [
     image: "/poi-images/latvia-mezotne-palace-history-v2.webp",
   },
   {
-    id: "latvia-vilaka-castle-ruins-history-v2",
+    id: "latvia-vilaka-castle-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Viļakas pilsētas pludmale",
+                  "text": "Der Stadtstrand von Viļaka liegt bei den alten Burgruinen.",
+                  "category": "recreational",
+                  "coords": [
+                        27.683489,
+                        57.188856
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Viļakas pilsētas pludmale",
+                  "text": "Viļaka városi strandja az ókori várromok mellett található.",
+                  "category": "recreational",
+                  "coords": [
+                        27.683489,
+                        57.188856
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Viļakas pilsētas pludmale",
+                  "text": "Plaja urbană din Viļaka este situată lângă ruinele vechiului castel.",
+                  "category": "recreational",
+                  "coords": [
+                        27.683489,
+                        57.188856
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Viļakas pilsētas pludmale",
+                  "text": "The city beach of Viļaka is located by the old castle ruins.",
+                  "category": "recreational",
+                  "coords": [
+                        27.683489,
+                        57.188856
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "LV",
     name: { de: "Burgruine Viļaka", hu: "Viļaka várrom", ro: "Ruinele castelului Viļaka", en: "Viļaka Castle Ruins" },
@@ -363,7 +408,52 @@ export const latviaHistoryV2: POI[] = [
     image: "/poi-images/latvia-seda-historical-settlement-history-v2.webp",
   },
   {
-    id: "latvia-kraslava-manor-history-v2",
+    id: "latvia-kraslava-manor-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zelta pludmale",
+                  "text": "Der sogenannte Goldstrand befindet sich bei der Anlage des Gutes Krāslava.",
+                  "category": "recreational",
+                  "coords": [
+                        27.15289,
+                        55.895674
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zelta pludmale",
+                  "text": "Az úgynevezett Aranystrand a Krāslava kastély területén található.",
+                  "category": "recreational",
+                  "coords": [
+                        27.15289,
+                        55.895674
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zelta pludmale",
+                  "text": "Așa-numita Plajă de Aur este situată pe domeniul conacului Krāslava.",
+                  "category": "recreational",
+                  "coords": [
+                        27.15289,
+                        55.895674
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zelta pludmale",
+                  "text": "The so-called Gold Beach is located at the Krāslava Manor estate.",
+                  "category": "recreational",
+                  "coords": [
+                        27.15289,
+                        55.895674
+                  ]
+            }
+      ]
+},
     type: "palace",
     parent: "LV",
     name: { de: "Schloss Krāslava", hu: "Krāslava kastély", ro: "Palatul Krāslava", en: "Krāslava Palace" },

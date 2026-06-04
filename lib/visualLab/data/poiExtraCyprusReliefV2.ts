@@ -498,7 +498,160 @@ export const cyprusReliefV2: POI[] = [
     image: "/poi-images/cyprus-pentadaktylos-peak-relief-v2.webp",
   },
   {
-    id: "cyprus-akkapeli-peak-relief-v2",
+    id: "cyprus-akkapeli-peak-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Güzelyalı Beach",
+                  "text": "Strand in der Nähe von Akkapeli.",
+                  "category": "recreational",
+                  "coords": [
+                        33.089188,
+                        35.353271
+                  ]
+            },
+            {
+                  "name": "Sardunya Beach",
+                  "text": "Strand in der Nähe von Akkapeli.",
+                  "category": "recreational",
+                  "coords": [
+                        33.137319,
+                        35.359817
+                  ]
+            },
+            {
+                  "name": "Camelot Beach",
+                  "text": "Strand in der Nähe von Akkapeli.",
+                  "category": "recreational",
+                  "coords": [
+                        33.193905,
+                        35.356806
+                  ]
+            },
+            {
+                  "name": "The Cabin Beach",
+                  "text": "Strand in der Nähe von Akkapeli.",
+                  "category": "recreational",
+                  "coords": [
+                        33.169553,
+                        35.351456
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Güzelyalı Beach",
+                  "text": "Strand Akkapeli közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        33.089188,
+                        35.353271
+                  ]
+            },
+            {
+                  "name": "Sardunya Beach",
+                  "text": "Strand Akkapeli közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        33.137319,
+                        35.359817
+                  ]
+            },
+            {
+                  "name": "Camelot Beach",
+                  "text": "Strand Akkapeli közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        33.193905,
+                        35.356806
+                  ]
+            },
+            {
+                  "name": "The Cabin Beach",
+                  "text": "Strand Akkapeli közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        33.169553,
+                        35.351456
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Güzelyalı Beach",
+                  "text": "Plajă lângă Akkapeli.",
+                  "category": "recreational",
+                  "coords": [
+                        33.089188,
+                        35.353271
+                  ]
+            },
+            {
+                  "name": "Sardunya Beach",
+                  "text": "Plajă lângă Akkapeli.",
+                  "category": "recreational",
+                  "coords": [
+                        33.137319,
+                        35.359817
+                  ]
+            },
+            {
+                  "name": "Camelot Beach",
+                  "text": "Plajă lângă Akkapeli.",
+                  "category": "recreational",
+                  "coords": [
+                        33.193905,
+                        35.356806
+                  ]
+            },
+            {
+                  "name": "The Cabin Beach",
+                  "text": "Plajă lângă Akkapeli.",
+                  "category": "recreational",
+                  "coords": [
+                        33.169553,
+                        35.351456
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Güzelyalı Beach",
+                  "text": "Beach near Akkapeli.",
+                  "category": "recreational",
+                  "coords": [
+                        33.089188,
+                        35.353271
+                  ]
+            },
+            {
+                  "name": "Sardunya Beach",
+                  "text": "Beach near Akkapeli.",
+                  "category": "recreational",
+                  "coords": [
+                        33.137319,
+                        35.359817
+                  ]
+            },
+            {
+                  "name": "Camelot Beach",
+                  "text": "Beach near Akkapeli.",
+                  "category": "recreational",
+                  "coords": [
+                        33.193905,
+                        35.356806
+                  ]
+            },
+            {
+                  "name": "The Cabin Beach",
+                  "text": "Beach near Akkapeli.",
+                  "category": "recreational",
+                  "coords": [
+                        33.169553,
+                        35.351456
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "CY",
     name: { de: "Akkapeli Gipfel", hu: "Akkapeli-csúcs", ro: "Vârful Akkapeli", en: "Akkapeli Peak" },
@@ -543,7 +696,160 @@ export const cyprusReliefV2: POI[] = [
     image: "/poi-images/cyprus-akkapeli-peak-relief-v2.webp",
   },
   {
-    id: "cyprus-yaila-plateau-relief-v2",
+    id: "cyprus-yaila-plateau-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Alagadi 2",
+                  "text": "Strand in der Nähe des Yaila-Plateaus.",
+                  "category": "recreational",
+                  "coords": [
+                        33.484957,
+                        35.332938
+                  ]
+            },
+            {
+                  "name": "Alagadi Beach 3",
+                  "text": "Strand in der Nähe des Yaila-Plateaus.",
+                  "category": "recreational",
+                  "coords": [
+                        33.492196,
+                        35.335312
+                  ]
+            },
+            {
+                  "name": "Korenium beach",
+                  "text": "Korenium Beach liegt am Yaila-Plateau.",
+                  "category": "recreational",
+                  "coords": [
+                        33.508955,
+                        35.337783
+                  ]
+            },
+            {
+                  "name": "Alagadi Beach 1",
+                  "text": "Alagadi-Strand 1 nahe dem Yaila-Plateau.",
+                  "category": "recreational",
+                  "coords": [
+                        33.479619,
+                        35.332141
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Alagadi 2",
+                  "text": "Strand a Yaila-fennsík közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        33.484957,
+                        35.332938
+                  ]
+            },
+            {
+                  "name": "Alagadi Beach 3",
+                  "text": "Strand a Yaila-fennsík közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        33.492196,
+                        35.335312
+                  ]
+            },
+            {
+                  "name": "Korenium beach",
+                  "text": "Korenium Beach a Yaila-fennsík közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        33.508955,
+                        35.337783
+                  ]
+            },
+            {
+                  "name": "Alagadi Beach 1",
+                  "text": "Alagadi-part 1 a Yaila-fennsík közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        33.479619,
+                        35.332141
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Alagadi 2",
+                  "text": "Plajă lângă Platoul Yaila.",
+                  "category": "recreational",
+                  "coords": [
+                        33.484957,
+                        35.332938
+                  ]
+            },
+            {
+                  "name": "Alagadi Beach 3",
+                  "text": "Plajă lângă Platoul Yaila.",
+                  "category": "recreational",
+                  "coords": [
+                        33.492196,
+                        35.335312
+                  ]
+            },
+            {
+                  "name": "Korenium beach",
+                  "text": "Korenium Beach este situată lângă platoul Yaila.",
+                  "category": "recreational",
+                  "coords": [
+                        33.508955,
+                        35.337783
+                  ]
+            },
+            {
+                  "name": "Alagadi Beach 1",
+                  "text": "Plaja Alagadi 1 lângă platoul Yaila.",
+                  "category": "recreational",
+                  "coords": [
+                        33.479619,
+                        35.332141
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Alagadi 2",
+                  "text": "Beach near the Yaila plateau.",
+                  "category": "recreational",
+                  "coords": [
+                        33.484957,
+                        35.332938
+                  ]
+            },
+            {
+                  "name": "Alagadi Beach 3",
+                  "text": "Beach near the Yaila plateau.",
+                  "category": "recreational",
+                  "coords": [
+                        33.492196,
+                        35.335312
+                  ]
+            },
+            {
+                  "name": "Korenium beach",
+                  "text": "Korenium Beach is located near the Yaila Plateau.",
+                  "category": "recreational",
+                  "coords": [
+                        33.508955,
+                        35.337783
+                  ]
+            },
+            {
+                  "name": "Alagadi Beach 1",
+                  "text": "Alagadi Beach 1 near the Yaila Plateau.",
+                  "category": "recreational",
+                  "coords": [
+                        33.479619,
+                        35.332141
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CY",
     name: { de: "Yaila Plateau", hu: "Yaila-fennsík", ro: "Podișul Yaila", en: "Yaila Plateau" },
@@ -588,7 +894,52 @@ export const cyprusReliefV2: POI[] = [
     image: "/poi-images/cyprus-yaila-plateau-relief-v2.webp",
   },
   {
-    id: "cyprus-kormakitis-peninsula-relief-v2",
+    id: "cyprus-kormakitis-peninsula-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sandouka Beach",
+                  "text": "Sandouka Beach liegt auf der Halbinsel Kormakitis.",
+                  "category": "recreational",
+                  "coords": [
+                        32.988824,
+                        35.370325
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sandouka Beach",
+                  "text": "A Sandouka strand a Kormakitis-félszigeten található.",
+                  "category": "recreational",
+                  "coords": [
+                        32.988824,
+                        35.370325
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sandouka Beach",
+                  "text": "Plaja Sandouka este situată pe peninsula Kormakitis.",
+                  "category": "recreational",
+                  "coords": [
+                        32.988824,
+                        35.370325
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sandouka Beach",
+                  "text": "Sandouka beach is situated on the Kormakitis Peninsula.",
+                  "category": "recreational",
+                  "coords": [
+                        32.988824,
+                        35.370325
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CY",
     name: { de: "Kormakitis Halbinsel", hu: "Kormakitis-félsziget", ro: "Peninsula Kormakitis", en: "Kormakitis Peninsula" },
@@ -1443,7 +1794,52 @@ export const cyprusReliefV2: POI[] = [
     image: "/poi-images/cyprus-serrachis-valley-relief-v2.webp",
   },
   {
-    id: "cyprus-akamas-highlands-relief-v2",
+    id: "cyprus-akamas-highlands-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "North Lara Beach",
+                  "text": "North Lara-Strand im Hochland von Akamas.",
+                  "category": "recreational",
+                  "coords": [
+                        32.313492,
+                        34.96314
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "North Lara Beach",
+                  "text": "North Lara-part az Akamas-felföldön.",
+                  "category": "recreational",
+                  "coords": [
+                        32.313492,
+                        34.96314
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "North Lara Beach",
+                  "text": "Plaja North Lara pe platoul Akamas.",
+                  "category": "recreational",
+                  "coords": [
+                        32.313492,
+                        34.96314
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "North Lara Beach",
+                  "text": "North Lara beach in the Akamas highlands.",
+                  "category": "recreational",
+                  "coords": [
+                        32.313492,
+                        34.96314
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CY",
     name: { de: "Akamas Hochland", hu: "Akamas-felvidék", ro: "Podișul Akamas", en: "Akamas Highlands" },

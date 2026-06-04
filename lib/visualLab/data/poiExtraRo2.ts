@@ -54,7 +54,88 @@ export const poiExtraRo2: POI[] = [
       fr: ["Petrobrazi est l'une des raffineries de pétrole les plus modernes d'Europe du Sud-Est.", "Le site appartient majoritairement au groupe OMV Petrom.", "Environ 4,5 millions de tonnes de pétrole brut y sont traitées chaque année.", "La raffinerie est un producteur majeur d'essence, de diesel et de kérosène.", "Des investissements massifs ont été réalisés dans les unités de désulfuration.", "Petrobrazi dispose de ses propres raccordements ferroviaires et pipelines.", "L'exploitation respecte les normes environnementales strictes de l'UE.", "L'usine est un moteur économique central pour le județ de Prahova."],
     }, image: "/poi-images/industry-petrobrazi-extra.webp"},
   {
-    id: "port-constanta-south-extra",
+    id: "port-constanta-south-extra", "sights": {
+      "de": [
+            {
+                  "name": "Plaja Agigea Nord",
+                  "text": "Strand nahe dem Hafen von Constanța.",
+                  "category": "recreational",
+                  "coords": [
+                        28.643419,
+                        44.083796
+                  ]
+            },
+            {
+                  "name": "Plaja Agigea Sud",
+                  "text": "Strand nahe dem Hafen von Constanța.",
+                  "category": "recreational",
+                  "coords": [
+                        28.641361,
+                        44.08246
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plaja Agigea Nord",
+                  "text": "Strand a konstancai kikötő közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        28.643419,
+                        44.083796
+                  ]
+            },
+            {
+                  "name": "Plaja Agigea Sud",
+                  "text": "Strand a konstancai kikötő közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        28.641361,
+                        44.08246
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plaja Agigea Nord",
+                  "text": "Plajă lângă portul Constanța.",
+                  "category": "recreational",
+                  "coords": [
+                        28.643419,
+                        44.083796
+                  ]
+            },
+            {
+                  "name": "Plaja Agigea Sud",
+                  "text": "Plajă lângă portul Constanța.",
+                  "category": "recreational",
+                  "coords": [
+                        28.641361,
+                        44.08246
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plaja Agigea Nord",
+                  "text": "Beach near the port of Constanța.",
+                  "category": "recreational",
+                  "coords": [
+                        28.643419,
+                        44.083796
+                  ]
+            },
+            {
+                  "name": "Plaja Agigea Sud",
+                  "text": "Beach near the port of Constanța.",
+                  "category": "recreational",
+                  "coords": [
+                        28.641361,
+                        44.08246
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "RO-CT",
     coords: [28.63, 44.10],
@@ -1333,7 +1414,88 @@ export const poiExtraRo2: POI[] = [
       fr: ["Damen Galați est le fleuron de l'industrie navale roumaine.", "Le chantier fabrique des navires hautement spécialisés pour des clients du monde entier.", "Certains des navires militaires les plus avancés pour l'OTAN ont été construits à Galați.", "Le site possède l'une des plus grandes cales sèches du bas Danube.", "Le chantier fait partie du groupe international Damen Shipyards Group.", "Plus de 2 000 spécialistes sont directement employés au chantier.", "Le plus grand yacht privé construit en Roumanie a été achevé à Galați.", "Le chantier utilise les logiciels de conception et de fabrication 3D les plus modernes."],
     }, image: "/poi-images/industry-damen-galati-extra.webp"},
   {
-    id: "industry-vard-braila-extra",
+    id: "industry-vard-braila-extra", "sights": {
+      "de": [
+            {
+                  "name": "Plaja Lacu Sarat",
+                  "text": "Strand am Lacu Sărat bei Brăila.",
+                  "category": "recreational",
+                  "coords": [
+                        27.915649,
+                        45.216565
+                  ]
+            },
+            {
+                  "name": "Alma Health and Fun",
+                  "text": "Freizeitbereich bei Brăila.",
+                  "category": "recreational",
+                  "coords": [
+                        27.918469,
+                        45.216892
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plaja Lacu Sarat",
+                  "text": "Strand a Lacu Sărat-nál, Brăila közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        27.915649,
+                        45.216565
+                  ]
+            },
+            {
+                  "name": "Alma Health and Fun",
+                  "text": "Szabadidőpark Brăila közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        27.918469,
+                        45.216892
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plaja Lacu Sarat",
+                  "text": "Plajă la Lacu Sărat, lângă Brăila.",
+                  "category": "recreational",
+                  "coords": [
+                        27.915649,
+                        45.216565
+                  ]
+            },
+            {
+                  "name": "Alma Health and Fun",
+                  "text": "Zonă de agrement lângă Brăila.",
+                  "category": "recreational",
+                  "coords": [
+                        27.918469,
+                        45.216892
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plaja Lacu Sarat",
+                  "text": "Beach at Lacu Sărat near Brăila.",
+                  "category": "recreational",
+                  "coords": [
+                        27.915649,
+                        45.216565
+                  ]
+            },
+            {
+                  "name": "Alma Health and Fun",
+                  "text": "Recreational area near Brăila.",
+                  "category": "recreational",
+                  "coords": [
+                        27.918469,
+                        45.216892
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "RO-BR",
     coords: [27.95, 45.25],
@@ -1384,7 +1546,52 @@ export const poiExtraRo2: POI[] = [
       fr: ["Vard Brăila appartient au célèbre groupe norvégien Vard.", "Le chantier est spécialisé dans les coques complexes pour navires spéciaux.", "Des coques pour navires de croisière d'expédition de luxe y sont fabriquées.", "Le site bénéficie de l'accès direct au Danube et à la mer Noire.", "Vard est le principal employeur industriel de Brăila.", "Le chantier collabore étroitement avec les sites partenaires en Norvège.", "Des technologies de soudage et de traitement de l'acier modernes y sont utilisées.", "Le chantier s'engage pour des procédés de production plus respectueux de l'environnement."],
     }, image: "/poi-images/industry-vard-braila-extra.webp"},
   {
-    id: "industry-vard-tulcea-extra",
+    id: "industry-vard-tulcea-extra", "sights": {
+      "de": [
+            {
+                  "name": "Plaja Ciuperca",
+                  "text": "Strand bei Tulcea am Ufer.",
+                  "category": "recreational",
+                  "coords": [
+                        28.782255,
+                        45.181924
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plaja Ciuperca",
+                  "text": "Strand Tulceánál, a folyóparton.",
+                  "category": "recreational",
+                  "coords": [
+                        28.782255,
+                        45.181924
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plaja Ciuperca",
+                  "text": "Plajă lângă Tulcea, pe malul apei.",
+                  "category": "recreational",
+                  "coords": [
+                        28.782255,
+                        45.181924
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plaja Ciuperca",
+                  "text": "Beach near Tulcea by the water.",
+                  "category": "recreational",
+                  "coords": [
+                        28.782255,
+                        45.181924
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "RO-TL",
     coords: [28.78, 45.18],
@@ -2714,7 +2921,88 @@ export const poiExtraRo2: POI[] = [
       fr: ["Sibiu a ouvert en 1929 le premier jardin zoologique de Roumanie.", "Le parc est situé au cœur de la réserve naturelle de la forêt de Dumbrava.", "Un imposant chêne de 600 ans se dresse juste à l'entrée du zoo.", "Un grand lac au sein du parc permet de faire des balades en barque.", "Le zoo abrite des espèces rares comme des tigres blancs et des jaguars.", "La proximité immédiate du musée Astra rend le site très attractif.", "Il dispose de vastes aires de jeux et d'offres pédagogiques pour les enfants.", "Le zoo est réputé pour ses programmes de reproduction réussis pour certaines espèces."],
     }, image: "/poi-images/animal-habitat-sibiu-zoo-extra.webp"},
   {
-    id: "animal-habitat-dolphinarium-ct-extra",
+    id: "animal-habitat-dolphinarium-ct-extra", "sights": {
+      "de": [
+            {
+                  "name": "Plaja Tataia",
+                  "text": "Strand nahe dem Delfinarium in Constanța.",
+                  "category": "recreational",
+                  "coords": [
+                        28.654571,
+                        44.205939
+                  ]
+            },
+            {
+                  "name": "Plaja Trei Papuci",
+                  "text": "Strand nahe dem Delfinarium in Constanța.",
+                  "category": "recreational",
+                  "coords": [
+                        28.657678,
+                        44.195547
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plaja Tataia",
+                  "text": "Strand a konstancai delfinárium közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        28.654571,
+                        44.205939
+                  ]
+            },
+            {
+                  "name": "Plaja Trei Papuci",
+                  "text": "Strand a konstancai delfinárium közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        28.657678,
+                        44.195547
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plaja Tataia",
+                  "text": "Plajă lângă Delfinariul din Constanța.",
+                  "category": "recreational",
+                  "coords": [
+                        28.654571,
+                        44.205939
+                  ]
+            },
+            {
+                  "name": "Plaja Trei Papuci",
+                  "text": "Plajă lângă Delfinariul din Constanța.",
+                  "category": "recreational",
+                  "coords": [
+                        28.657678,
+                        44.195547
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plaja Tataia",
+                  "text": "Beach near the Dolphinarium in Constanța.",
+                  "category": "recreational",
+                  "coords": [
+                        28.654571,
+                        44.205939
+                  ]
+            },
+            {
+                  "name": "Plaja Trei Papuci",
+                  "text": "Beach near the Dolphinarium in Constanța.",
+                  "category": "recreational",
+                  "coords": [
+                        28.657678,
+                        44.195547
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "RO-CT",
     coords: [28.64, 44.21],
@@ -3590,7 +3878,88 @@ export const poiExtraRo2: POI[] = [
       fr: ["L'Aquapark Nymphaea s'étend sur une surface totale d'environ 7 hectares.", "Il dispose de 10 toboggans aquatiques passionnants avec différents niveaux de difficulté.", "L'établissement utilise l'eau thermale naturelle de la région pour ses bassins.", "Il y a 15 bassins intérieurs et extérieurs différents pour tous les âges.", "L'espace bien-être comprend des saunas, des bains turcs et des salles de massage.", "Un restaurant moderne et plusieurs bars assurent la restauration des clients.", "Le parc propose également des installations sportives telles que des terrains de beach-volley et de football.", "Grâce à une technique de filtrage moderne, l'eau répond aux normes d'hygiène les plus strictes."],
     }, image: "/poi-images/kid-landmark-nymphaea-bh-extra.webp"},
   {
-    id: "kid-landmark-aqua-magic-ct-extra",
+    id: "kid-landmark-aqua-magic-ct-extra", "sights": {
+      "de": [
+            {
+                  "name": "Plaja Delta",
+                  "text": "Strand bei Constanța.",
+                  "category": "recreational",
+                  "coords": [
+                        28.631817,
+                        44.226093
+                  ]
+            },
+            {
+                  "name": "White Beach",
+                  "text": "Strand bei Constanța.",
+                  "category": "recreational",
+                  "coords": [
+                        28.632568,
+                        44.224712
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plaja Delta",
+                  "text": "Strand Konstanca közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        28.631817,
+                        44.226093
+                  ]
+            },
+            {
+                  "name": "White Beach",
+                  "text": "Strand Konstanca közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        28.632568,
+                        44.224712
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plaja Delta",
+                  "text": "Plajă situată în zona Constanța.",
+                  "category": "recreational",
+                  "coords": [
+                        28.631817,
+                        44.226093
+                  ]
+            },
+            {
+                  "name": "White Beach",
+                  "text": "Plajă situată în zona Constanța.",
+                  "category": "recreational",
+                  "coords": [
+                        28.632568,
+                        44.224712
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plaja Delta",
+                  "text": "Beach in the Constanța area.",
+                  "category": "recreational",
+                  "coords": [
+                        28.631817,
+                        44.226093
+                  ]
+            },
+            {
+                  "name": "White Beach",
+                  "text": "Beach in the Constanța area.",
+                  "category": "recreational",
+                  "coords": [
+                        28.632568,
+                        44.224712
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "RO-CT",
     coords: [28.62, 44.22],
@@ -4107,7 +4476,52 @@ export const poiExtraRo2: POI[] = [
       fr: ["Le lac Mostiștea est l'un des plus grands plans d'eau intérieurs du sud de la Valachie.", "Il est réputé pour ses excellentes conditions de pêche sportive aux poissons carnassiers.", "Le lac fait partie d'une chaîne de lacs anthropiques le long de la rivière du même nom.", "Il sert de réservoir d'eau stratégique pour l'irrigation dans la steppe du Bărăgan.", "De nombreux oiseaux migrateurs utilisent le plan d'eau comme halte sur leur route vers le sud.", "Les abords du lac sont caractérisés par une flore riche et typique de la steppe.", "Le lac revêt une grande importance pour l'économie de la pêche locale dans la région.", "À proximité se trouvent des traces archéologiques d'anciens établissements de l'âge du bronze."],
     }, image: "/poi-images/lake-mostistea-extra.webp"},
     {
-    id: "lake-sinoe-extra",
+    id: "lake-sinoe-extra", "sights": {
+      "de": [
+            {
+                  "name": "Plaja Chituc",
+                  "text": "Strand am Sinoe-See.",
+                  "category": "recreational",
+                  "coords": [
+                        28.841599,
+                        44.497506
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plaja Chituc",
+                  "text": "Strand a Sinoe-tónál.",
+                  "category": "recreational",
+                  "coords": [
+                        28.841599,
+                        44.497506
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plaja Chituc",
+                  "text": "Plajă la lacul Sinoe.",
+                  "category": "recreational",
+                  "coords": [
+                        28.841599,
+                        44.497506
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plaja Chituc",
+                  "text": "Beach at Lake Sinoe.",
+                  "category": "recreational",
+                  "coords": [
+                        28.841599,
+                        44.497506
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "RO-CT",
     coords: [28.80, 44.50],
@@ -4158,7 +4572,88 @@ export const poiExtraRo2: POI[] = [
       fr: ["Le lac Sinoe est réputé pour son emplacement juste à côté des ruines d'Histria.", "C'est un lac d'eau saumâtre dont la salinité varie selon la connexion avec la mer.", "Le lac fait partie de la réserve de biosphère du delta du Danube, classée au patrimoine mondial de l'UNESCO.", "Il sert de quartier d'hivernage important pour la rare bernache à cou roux.", "La profondeur de l'eau du lac est très faible et dépasse rarement les deux mètres.", "Le lac est séparé de la mer Noire par des dunes de sable et des cordons littoraux.", "Dans l'Antiquité, la zone était un golfe navigable qui permettait l'accès à Histria.", "La faune piscicole est composée d'un mélange d'espèces d'eau douce et d'eau de mer."],
     }, image: "/poi-images/lake-sinoe-extra.webp"},
   {
-    id: "lake-techirghiol-extra",
+    id: "lake-techirghiol-extra", "sights": {
+      "de": [
+            {
+                  "name": "Citadel",
+                  "text": "Strand am Techirghiol-See.",
+                  "category": "recreational",
+                  "coords": [
+                        28.643395,
+                        44.051062
+                  ]
+            },
+            {
+                  "name": "Plaja Șincai",
+                  "text": "Strand am Techirghiol-See, berühmt für seinen Heilschlamm.",
+                  "category": "recreational",
+                  "coords": [
+                        28.621084,
+                        44.057625
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Citadel",
+                  "text": "Strand a Techirghiol-tónál.",
+                  "category": "recreational",
+                  "coords": [
+                        28.643395,
+                        44.051062
+                  ]
+            },
+            {
+                  "name": "Plaja Șincai",
+                  "text": "Strand a Techirghiol-tónál, amely gyógyiszapjáról híres.",
+                  "category": "recreational",
+                  "coords": [
+                        28.621084,
+                        44.057625
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Citadel",
+                  "text": "Plajă situată la Lacul Techirghiol.",
+                  "category": "recreational",
+                  "coords": [
+                        28.643395,
+                        44.051062
+                  ]
+            },
+            {
+                  "name": "Plaja Șincai",
+                  "text": "Plajă la lacul Techirghiol, renumită pentru nămolul terapeutic.",
+                  "category": "recreational",
+                  "coords": [
+                        28.621084,
+                        44.057625
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Citadel",
+                  "text": "Beach located at Lake Techirghiol.",
+                  "category": "recreational",
+                  "coords": [
+                        28.643395,
+                        44.051062
+                  ]
+            },
+            {
+                  "name": "Plaja Șincai",
+                  "text": "Beach at Lake Techirghiol, famous for its therapeutic mud.",
+                  "category": "recreational",
+                  "coords": [
+                        28.621084,
+                        44.057625
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "RO-CT",
     coords: [28.63, 44.05],

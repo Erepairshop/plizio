@@ -768,7 +768,88 @@ export const irelandReliefV2: POI[] = [
     image: "/poi-images/ireland-mount-eric-relief-v2.webp",
   },
   {
-    id: "ireland-slieve-more-relief-v2",
+    id: "ireland-slieve-more-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Doogort Beach",
+                  "text": "Doogort Beach liegt bei Slieve More.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.023435,
+                        54.012577
+                  ]
+            },
+            {
+                  "name": "Trá Ghob na hAirde",
+                  "text": "Trá Ghob na hAirde liegt bei Slieve More.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.979435,
+                        54.022947
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Doogort Beach",
+                  "text": "A Doogort Beach a Slieve More közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.023435,
+                        54.012577
+                  ]
+            },
+            {
+                  "name": "Trá Ghob na hAirde",
+                  "text": "A Trá Ghob na hAirde a Slieve More közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.979435,
+                        54.022947
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Doogort Beach",
+                  "text": "Doogort Beach este situată lângă Slieve More.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.023435,
+                        54.012577
+                  ]
+            },
+            {
+                  "name": "Trá Ghob na hAirde",
+                  "text": "Trá Ghob na hAirde este situată lângă Slieve More.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.979435,
+                        54.022947
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Doogort Beach",
+                  "text": "Doogort Beach is located near Slieve More.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.023435,
+                        54.012577
+                  ]
+            },
+            {
+                  "name": "Trá Ghob na hAirde",
+                  "text": "Trá Ghob na hAirde is located near Slieve More.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.979435,
+                        54.022947
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IE",
     name: { de: "Slieve More", hu: "Slieve More", ro: "Slieve More", en: "Slievemore" },

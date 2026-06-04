@@ -48,7 +48,52 @@ export const cyprusLandmarksV2: POI[] = [
     image: "/poi-images/cyprus-alaas-mosque-landmarks-v2.webp",
   },
   {
-    id: "cyprus-panagia-angeloktisti-landmarks-v2",
+    id: "cyprus-panagia-angeloktisti-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Faros Beach",
+                  "text": "Faros Beach liegt bei der Kirche Panagia Angeloktisti.",
+                  "category": "recreational",
+                  "coords": [
+                        33.60404,
+                        34.819436
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Faros Beach",
+                  "text": "Faros Beach a Panagia Angeloktisti templom közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        33.60404,
+                        34.819436
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Faros Beach",
+                  "text": "Faros Beach este lângă biserica Panagia Angeloktisti.",
+                  "category": "recreational",
+                  "coords": [
+                        33.60404,
+                        34.819436
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Faros Beach",
+                  "text": "Faros Beach is near the Panagia Angeloktisti church.",
+                  "category": "recreational",
+                  "coords": [
+                        33.60404,
+                        34.819436
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "CY",
     name: { de: "Kirche Panagia Angeloktisti", hu: "Panagia Angeloktisti-templom", ro: "Biserica Panagia Angeloktisti", en: "Panagia Angeloktisti Church" },
@@ -138,7 +183,52 @@ export const cyprusLandmarksV2: POI[] = [
     image: "/poi-images/cyprus-agios-georgios-pegeia-landmarks-v2.webp",
   },
   {
-    id: "cyprus-fatih-mosque-larnaca-landmarks-v2",
+    id: "cyprus-fatih-mosque-larnaca-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Phinikoudes",
+                  "text": "Phinikoudes ist ein Strand bei Larnaca.",
+                  "category": "recreational",
+                  "coords": [
+                        33.638679,
+                        34.912897
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Phinikoudes",
+                  "text": "A Phinikoudes egy strand Larnaca közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        33.638679,
+                        34.912897
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Phinikoudes",
+                  "text": "Phinikoudes este o plajă lângă Larnaca.",
+                  "category": "recreational",
+                  "coords": [
+                        33.638679,
+                        34.912897
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Phinikoudes",
+                  "text": "Phinikoudes is a beach near Larnaca.",
+                  "category": "recreational",
+                  "coords": [
+                        33.638679,
+                        34.912897
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CY",
     name: { de: "Fatih Moschee Larnaka", hu: "Fatih-mecset Larnaka", ro: "Moscheea Fatih Larnaca", en: "Fatih Mosque Larnaca" },
@@ -273,7 +363,52 @@ export const cyprusLandmarksV2: POI[] = [
     image: "/poi-images/cyprus-agios-sozomenos-ruins-landmarks-v2.webp",
   },
   {
-    id: "cyprus-agios-andronikos-church-landmarks-v2",
+    id: "cyprus-agios-andronikos-church-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Glapsides Beach",
+                  "text": "Glapsides Beach ist ein Strand bei der Kirche Agios Andronikos.",
+                  "category": "recreational",
+                  "coords": [
+                        33.915624,
+                        35.160188
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Glapsides Beach",
+                  "text": "Glapsides Beach egy strand az Agios Andronikos templom közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        33.915624,
+                        35.160188
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Glapsides Beach",
+                  "text": "Glapsides Beach este o plajă lângă biserica Agios Andronikos.",
+                  "category": "recreational",
+                  "coords": [
+                        33.915624,
+                        35.160188
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Glapsides Beach",
+                  "text": "Glapsides Beach is a beach near the Agios Andronikos church.",
+                  "category": "recreational",
+                  "coords": [
+                        33.915624,
+                        35.160188
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "CY",
     name: { de: "Kirche Agios Andronikos", hu: "Agios Andronikos-templom", ro: "Biserica Agios Andronikos", en: "Agios Andronikos Church" },

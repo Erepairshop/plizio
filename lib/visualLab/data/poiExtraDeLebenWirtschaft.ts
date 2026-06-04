@@ -130,7 +130,52 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       fr: ["Ouvert en 1959 sur un ancien terrain forestier.", "Comprend une vaste superficie d'environ 57 hectares.", "Abrite environ 50 espèces différentes d'animaux sauvages européens.", "Récompensé par la médaille d'État bavaroise pour la protection de l'environnement.", "Le sentier circulaire fait environ 4 kilomètres de long et est accessible.", "Spectacles de vol quotidiens de rapaces avec des aigles, des faucons et des hiboux."],
     }, image: "/poi-images/animal-habitat-wildpark-poing-extra.webp"},
   {
-    id: "kid-landmark-botanischer-garten-berlin-extra",
+    id: "kid-landmark-botanischer-garten-berlin-extra", "sights": {
+      "de": [
+            {
+                  "name": "Hundebadestelle Grunewaldsee",
+                  "text": "Der Grunewaldsee ist eine beliebte Badestelle für Hunde in Berlin.",
+                  "category": "recreational",
+                  "coords": [
+                        13.26488,
+                        52.470973
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hundebadestelle Grunewaldsee",
+                  "text": "A Grunewaldsee egy népszerű kutyás fürdőhely Berlinben.",
+                  "category": "recreational",
+                  "coords": [
+                        13.26488,
+                        52.470973
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hundebadestelle Grunewaldsee",
+                  "text": "Grunewaldsee este o zonă de îmbăiere populară pentru câini în Berlin.",
+                  "category": "recreational",
+                  "coords": [
+                        13.26488,
+                        52.470973
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hundebadestelle Grunewaldsee",
+                  "text": "Grunewaldsee is a popular dog swimming spot in Berlin.",
+                  "category": "recreational",
+                  "coords": [
+                        13.26488,
+                        52.470973
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "DE-BE",
     coords: [13.303, 52.454],
@@ -466,7 +511,124 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       fr: ["Superficie de 16 hectares dans la région des lacs du Mecklembourg", "Ouverture en 2006 par l'organisation VIER PFOTEN", "Plus grand centre de protection des ours d'Europe occidentale", "Accueille jusqu'à 20 ours bruns issus de mauvaises conditions de détention", "Comprend des enclos forestiers naturels avec étangs et prairies", "Le sentier des visiteurs mesure environ 2 kilomètres"],
     }, image: "/poi-images/animal-habitat-baerenwald-mueritz-extra.webp"},
   {
-    id: "kid-landmark-ozeaneum-stralsund-extra",
+    id: "kid-landmark-ozeaneum-stralsund-extra", "sights": {
+      "de": [
+            {
+                  "name": "Freibad Stralsund",
+                  "text": "Das Freibad Stralsund liegt nahe dem Ozeaneum.",
+                  "category": "recreational",
+                  "coords": [
+                        13.083862,
+                        54.329813
+                  ]
+            },
+            {
+                  "name": "Strand Altefähr",
+                  "text": "Strand Altefähr mit Blick auf Stralsund.",
+                  "category": "recreational",
+                  "coords": [
+                        13.119747,
+                        54.330466
+                  ]
+            },
+            {
+                  "name": "Schwemmi",
+                  "text": "Strand in der Nähe des Ozeaneums Stralsund.",
+                  "category": "recreational",
+                  "coords": [
+                        13.118486,
+                        54.313182
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Freibad Stralsund",
+                  "text": "A Freibad Stralsund az Ozeaneum közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        13.083862,
+                        54.329813
+                  ]
+            },
+            {
+                  "name": "Strand Altefähr",
+                  "text": "Strand Altefähr kilátással Stralsundra.",
+                  "category": "recreational",
+                  "coords": [
+                        13.119747,
+                        54.330466
+                  ]
+            },
+            {
+                  "name": "Schwemmi",
+                  "text": "Strand a stralsundi Ozeaneum közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        13.118486,
+                        54.313182
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Freibad Stralsund",
+                  "text": "Plaja Freibad Stralsund se află aproape de Ozeaneum.",
+                  "category": "recreational",
+                  "coords": [
+                        13.083862,
+                        54.329813
+                  ]
+            },
+            {
+                  "name": "Strand Altefähr",
+                  "text": "Plaja Altefähr cu vedere spre Stralsund.",
+                  "category": "recreational",
+                  "coords": [
+                        13.119747,
+                        54.330466
+                  ]
+            },
+            {
+                  "name": "Schwemmi",
+                  "text": "O plajă lângă Ozeaneum Stralsund.",
+                  "category": "recreational",
+                  "coords": [
+                        13.118486,
+                        54.313182
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Freibad Stralsund",
+                  "text": "Freibad Stralsund is located near the Ozeaneum.",
+                  "category": "recreational",
+                  "coords": [
+                        13.083862,
+                        54.329813
+                  ]
+            },
+            {
+                  "name": "Strand Altefähr",
+                  "text": "Altefähr beach with views of Stralsund.",
+                  "category": "recreational",
+                  "coords": [
+                        13.119747,
+                        54.330466
+                  ]
+            },
+            {
+                  "name": "Schwemmi",
+                  "text": "A beach near the Ozeaneum Stralsund.",
+                  "category": "recreational",
+                  "coords": [
+                        13.118486,
+                        54.313182
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "DE-MV",
     coords: [13.097, 54.316],
@@ -676,7 +838,52 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       fr: ["Ouvert en 1971 par la famille Schneider.", "La superficie totale du parc est d'environ 40 hectares.", "Le grand huit 'Expedition GeForce' atteint 120 km/h.", "Appartient depuis 2010 au groupe belge Plopsa.", "Environ 800 000 personnes visitent le parc chaque année.", "Abrite l'une des plus grandes scènes de spectacle de ski nautique d'Europe."],
     }, image: "/poi-images/kid-landmark-holiday-park-extra.webp"},
   {
-    id: "animal-habitat-eifelpark-extra",
+    id: "animal-habitat-eifelpark-extra", "sights": {
+      "de": [
+            {
+                  "name": "Sandstrand Piratensee",
+                  "text": "Der Sandstrand Piratensee liegt im Eifelpark.",
+                  "category": "recreational",
+                  "coords": [
+                        6.613119,
+                        49.962825
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sandstrand Piratensee",
+                  "text": "A Sandstrand Piratensee az Eifelparkban található.",
+                  "category": "recreational",
+                  "coords": [
+                        6.613119,
+                        49.962825
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sandstrand Piratensee",
+                  "text": "Sandstrand Piratensee este situat în Eifelpark.",
+                  "category": "recreational",
+                  "coords": [
+                        6.613119,
+                        49.962825
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sandstrand Piratensee",
+                  "text": "Sandstrand Piratensee is located in the Eifelpark.",
+                  "category": "recreational",
+                  "coords": [
+                        6.613119,
+                        49.962825
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "DE-RP",
     coords: [6.621, 50.001],
@@ -928,7 +1135,124 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       fr: ["Ouvert en 1952 dans le nord de la Saxe-Anhalt.", "La superficie du parc est d'environ 6 hectares au bord du lac de Stendal.", "Abrite environ 500 animaux de près de 75 espèces différentes.", "L'accent est mis sur la préservation des races rares d'animaux domestiques.", "Le zoo accueille environ 80 000 visiteurs par an.", "Dispose d'un centre d'éducation moderne pour la protection de la nature."],
     }, image: "/poi-images/animal-habitat-tiergarten-stendal-extra.webp"},
   {
-    id: "kid-landmark-elbauenpark-extra",
+    id: "kid-landmark-elbauenpark-extra", "sights": {
+      "de": [
+            {
+                  "name": "cable island",
+                  "text": "Cable Island ist ein Freizeitbereich im Elbauenpark.",
+                  "category": "recreational",
+                  "coords": [
+                        11.638871,
+                        52.175917
+                  ]
+            },
+            {
+                  "name": "Naherholungszentrum Neustädter See - FKK-Strand",
+                  "text": "FKK-Strand am Neustädter See bei Magdeburg.",
+                  "category": "recreational",
+                  "coords": [
+                        11.648742,
+                        52.177032
+                  ]
+            },
+            {
+                  "name": "Naherholungszentrum Neustädter See",
+                  "text": "Badestrand am Neustädter See im Magdeburger Elbauenpark.",
+                  "category": "recreational",
+                  "coords": [
+                        11.647786,
+                        52.174124
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "cable island",
+                  "text": "A Cable Island egy szabadidős terület az Elbauenparkban.",
+                  "category": "recreational",
+                  "coords": [
+                        11.638871,
+                        52.175917
+                  ]
+            },
+            {
+                  "name": "Naherholungszentrum Neustädter See - FKK-Strand",
+                  "text": "FKK-strand a Neustädter See-nél, Magdeburg közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        11.648742,
+                        52.177032
+                  ]
+            },
+            {
+                  "name": "Naherholungszentrum Neustädter See",
+                  "text": "Fürdőstrand a Neustädter See-nél, a magdeburgi Elbauenparkban.",
+                  "category": "recreational",
+                  "coords": [
+                        11.647786,
+                        52.174124
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "cable island",
+                  "text": "Cable Island este o zonă de agrement în Elbauenpark.",
+                  "category": "recreational",
+                  "coords": [
+                        11.638871,
+                        52.175917
+                  ]
+            },
+            {
+                  "name": "Naherholungszentrum Neustädter See - FKK-Strand",
+                  "text": "Plajă de nudiști la Neustädter See lângă Magdeburg.",
+                  "category": "recreational",
+                  "coords": [
+                        11.648742,
+                        52.177032
+                  ]
+            },
+            {
+                  "name": "Naherholungszentrum Neustädter See",
+                  "text": "Plajă la lacul Neustädter din Parcul Elbauen, Magdeburg.",
+                  "category": "recreational",
+                  "coords": [
+                        11.647786,
+                        52.174124
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "cable island",
+                  "text": "Cable Island is a leisure area in the Elbauenpark.",
+                  "category": "recreational",
+                  "coords": [
+                        11.638871,
+                        52.175917
+                  ]
+            },
+            {
+                  "name": "Naherholungszentrum Neustädter See - FKK-Strand",
+                  "text": "Nudist beach at Neustädter See near Magdeburg.",
+                  "category": "recreational",
+                  "coords": [
+                        11.648742,
+                        52.177032
+                  ]
+            },
+            {
+                  "name": "Naherholungszentrum Neustädter See",
+                  "text": "Bathing beach at Neustädter See in Magdeburg's Elbauenpark.",
+                  "category": "recreational",
+                  "coords": [
+                        11.647786,
+                        52.174124
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "DE-ST",
     coords: [11.670, 52.138],
@@ -1352,7 +1676,196 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       fr: ["Exemple mondial de premier plan d'usine connectée numériquement.", "Produit environ 17 millions de composants Simatic par an.", "Atteint un taux de qualité exceptionnel de 99,9988 %.", "La production est automatisée à environ 75 % par des robots et des machines.", "Distinguée plusieurs fois comme 'Usine de l'année' et 'Global Lighthouse'.", "Fondée en 1989 comme site d'électronique dans le Haut-Palatinat."],
     }, image: "/poi-images/industry-siemens-amberg-extra.webp"},
   {
-    id: "industry-siemensstadt-extra",
+    id: "industry-siemensstadt-extra", "sights": {
+      "de": [
+            {
+                  "name": "Kiesgrube",
+                  "text": "Kiesgrube in der Nähe von Berlin-Siemensstadt.",
+                  "category": "recreational",
+                  "coords": [
+                        13.283863,
+                        52.569132
+                  ]
+            },
+            {
+                  "name": "Strandbad Jungfernheide",
+                  "text": "Strandbad in Berlin-Siemensstadt.",
+                  "category": "recreational",
+                  "coords": [
+                        13.275165,
+                        52.54392
+                  ]
+            },
+            {
+                  "name": "Reiswerder Strand",
+                  "text": "Strand auf der Insel Reiswerder bei Berlin-Siemensstadt.",
+                  "category": "recreational",
+                  "coords": [
+                        13.256154,
+                        52.568338
+                  ]
+            },
+            {
+                  "name": "Arbeiter Strand",
+                  "text": "Strandbereich bei Berlin-Siemensstadt.",
+                  "category": "recreational",
+                  "coords": [
+                        13.243776,
+                        52.575531
+                  ]
+            },
+            {
+                  "name": "Kleiner Strand",
+                  "text": "Der Kleine Strand befindet sich bei der Siemensstadt.",
+                  "category": "recreational",
+                  "coords": [
+                        13.238515,
+                        52.570492
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kiesgrube",
+                  "text": "Kavicsbánya Berlin-Siemensstadt közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        13.283863,
+                        52.569132
+                  ]
+            },
+            {
+                  "name": "Strandbad Jungfernheide",
+                  "text": "Strandfürdő Berlin-Siemensstadtban.",
+                  "category": "recreational",
+                  "coords": [
+                        13.275165,
+                        52.54392
+                  ]
+            },
+            {
+                  "name": "Reiswerder Strand",
+                  "text": "Strand a Reiswerder-szigeten Berlin-Siemensstadt mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        13.256154,
+                        52.568338
+                  ]
+            },
+            {
+                  "name": "Arbeiter Strand",
+                  "text": "Strandterület Berlin-Siemensstadt közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        13.243776,
+                        52.575531
+                  ]
+            },
+            {
+                  "name": "Kleiner Strand",
+                  "text": "A Kleiner Strand a Siemensstadt közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        13.238515,
+                        52.570492
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kiesgrube",
+                  "text": "Groapă de pietriș lângă Berlin-Siemensstadt.",
+                  "category": "recreational",
+                  "coords": [
+                        13.283863,
+                        52.569132
+                  ]
+            },
+            {
+                  "name": "Strandbad Jungfernheide",
+                  "text": "Ștrand în Berlin-Siemensstadt.",
+                  "category": "recreational",
+                  "coords": [
+                        13.275165,
+                        52.54392
+                  ]
+            },
+            {
+                  "name": "Reiswerder Strand",
+                  "text": "Plajă pe insula Reiswerder lângă Berlin-Siemensstadt.",
+                  "category": "recreational",
+                  "coords": [
+                        13.256154,
+                        52.568338
+                  ]
+            },
+            {
+                  "name": "Arbeiter Strand",
+                  "text": "Zonă de plajă lângă Berlin-Siemensstadt.",
+                  "category": "recreational",
+                  "coords": [
+                        13.243776,
+                        52.575531
+                  ]
+            },
+            {
+                  "name": "Kleiner Strand",
+                  "text": "Kleiner Strand este situat lângă Siemensstadt.",
+                  "category": "recreational",
+                  "coords": [
+                        13.238515,
+                        52.570492
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kiesgrube",
+                  "text": "Gravel pit near Berlin-Siemensstadt.",
+                  "category": "recreational",
+                  "coords": [
+                        13.283863,
+                        52.569132
+                  ]
+            },
+            {
+                  "name": "Strandbad Jungfernheide",
+                  "text": "Beach resort in Berlin-Siemensstadt.",
+                  "category": "recreational",
+                  "coords": [
+                        13.275165,
+                        52.54392
+                  ]
+            },
+            {
+                  "name": "Reiswerder Strand",
+                  "text": "Beach on the island of Reiswerder near Berlin-Siemensstadt.",
+                  "category": "recreational",
+                  "coords": [
+                        13.256154,
+                        52.568338
+                  ]
+            },
+            {
+                  "name": "Arbeiter Strand",
+                  "text": "Beach area near Berlin-Siemensstadt.",
+                  "category": "recreational",
+                  "coords": [
+                        13.243776,
+                        52.575531
+                  ]
+            },
+            {
+                  "name": "Kleiner Strand",
+                  "text": "Kleiner Strand is located near Siemensstadt.",
+                  "category": "recreational",
+                  "coords": [
+                        13.238515,
+                        52.570492
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "DE-BE",
     coords: [13.273, 52.540],
@@ -1401,7 +1914,124 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       fr: ["Quartier historique de Berlin créé à partir de 1897 pour les employés de Siemens.", "Le projet 'Siemensstadt Square' couvre une superficie de 76 hectares.", "Environ 20 000 personnes travaillent aujourd'hui dans le secteur de Siemensstadt.", "Abritait autrefois le plus grand hall d'appareillage électrique au monde.", "Le réaménagement prévoit environ 2 700 nouveaux logements dans le quartier.", "Centre pour les technologies d'avenir comme la transition énergétique et l'Industrie 4.0."],
     }, image: "/poi-images/industry-siemensstadt-extra.webp"},
   {
-    id: "industry-tesla-brandenburg-extra",
+    id: "industry-tesla-brandenburg-extra", "sights": {
+      "de": [
+            {
+                  "name": "Werlsee Nordstrand",
+                  "text": "Nordstrand am Werlsee in der Nähe der Tesla-Werke.",
+                  "category": "recreational",
+                  "coords": [
+                        13.808399,
+                        52.424028
+                  ]
+            },
+            {
+                  "name": "Strand am Peetzsee",
+                  "text": "Strand am Peetzsee in der Nähe der Tesla-Werke.",
+                  "category": "recreational",
+                  "coords": [
+                        13.83703,
+                        52.422787
+                  ]
+            },
+            {
+                  "name": "Werlsee Südstrand",
+                  "text": "Der Werlsee Südstrand liegt nahe der Tesla-Region in Brandenburg.",
+                  "category": "recreational",
+                  "coords": [
+                        13.817365,
+                        52.418344
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Werlsee Nordstrand",
+                  "text": "Nordstrand strand a Werlseenél, a Tesla-gyár közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        13.808399,
+                        52.424028
+                  ]
+            },
+            {
+                  "name": "Strand am Peetzsee",
+                  "text": "Strand a Peetzseenél, a Tesla-gyár közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        13.83703,
+                        52.422787
+                  ]
+            },
+            {
+                  "name": "Werlsee Südstrand",
+                  "text": "A Werlsee Südstrand a brandenburgi Tesla-régió közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        13.817365,
+                        52.418344
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Werlsee Nordstrand",
+                  "text": "Plaja Nordstrand la lacul Werlsee lângă fabricile Tesla.",
+                  "category": "recreational",
+                  "coords": [
+                        13.808399,
+                        52.424028
+                  ]
+            },
+            {
+                  "name": "Strand am Peetzsee",
+                  "text": "Plajă la lacul Peetzsee lângă fabricile Tesla.",
+                  "category": "recreational",
+                  "coords": [
+                        13.83703,
+                        52.422787
+                  ]
+            },
+            {
+                  "name": "Werlsee Südstrand",
+                  "text": "Werlsee Südstrand se află lângă regiunea Tesla din Brandenburg.",
+                  "category": "recreational",
+                  "coords": [
+                        13.817365,
+                        52.418344
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Werlsee Nordstrand",
+                  "text": "Nordstrand beach at Werlsee near the Tesla plants.",
+                  "category": "recreational",
+                  "coords": [
+                        13.808399,
+                        52.424028
+                  ]
+            },
+            {
+                  "name": "Strand am Peetzsee",
+                  "text": "Beach at Peetzsee near the Tesla plants.",
+                  "category": "recreational",
+                  "coords": [
+                        13.83703,
+                        52.422787
+                  ]
+            },
+            {
+                  "name": "Werlsee Südstrand",
+                  "text": "Werlsee Südstrand is located near the Tesla region in Brandenburg.",
+                  "category": "recreational",
+                  "coords": [
+                        13.817365,
+                        52.418344
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "DE-BB",
     coords: [13.791, 52.391],
@@ -1494,7 +2124,52 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
     image: "/poi-images/industry-pck-schwedt-extra.webp",
   },
   {
-    id: "industry-mercedes-bremen-extra",
+    id: "industry-mercedes-bremen-extra", "sights": {
+      "de": [
+            {
+                  "name": "Die Komplette Palette",
+                  "text": "Die Komplette Palette am Bremer Weserufer.",
+                  "category": "recreational",
+                  "coords": [
+                        8.875469,
+                        53.049457
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Die Komplette Palette",
+                  "text": "Die Komplette Palette a brémai Weser-parton.",
+                  "category": "recreational",
+                  "coords": [
+                        8.875469,
+                        53.049457
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Die Komplette Palette",
+                  "text": "Die Komplette Palette pe malul râului Weser din Bremen.",
+                  "category": "recreational",
+                  "coords": [
+                        8.875469,
+                        53.049457
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Die Komplette Palette",
+                  "text": "Die Komplette Palette on the Weser riverbank in Bremen.",
+                  "category": "recreational",
+                  "coords": [
+                        8.875469,
+                        53.049457
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "DE-HB",
     coords: [8.918, 53.067],
@@ -1883,7 +2558,52 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       fr: ["Siège de Bayer AG, fondée en 1863 à Wuppertal-Barmen.", "L'usine de Leverkusen couvre une superficie d'environ 480 hectares.", "Fait partie de l'ensemble Chempark avec environ 27 000 employés au total.", "Possède avec la Croix Bayer un emblème lumineux mondialement connu.", "Site central pour la recherche de nouveaux médicaments.", "Infrastructure trimodale propre avec raccordement direct au port rhénan."],
     }, image: "/poi-images/industry-bayer-leverkusen-extra.webp"},
   {
-    id: "industry-ford-koeln-extra",
+    id: "industry-ford-koeln-extra", "sights": {
+      "de": [
+            {
+                  "name": "Blackfoot Beach",
+                  "text": "Der Blackfoot Beach befindet sich bei Köln.",
+                  "category": "recreational",
+                  "coords": [
+                        6.920763,
+                        51.021109
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Blackfoot Beach",
+                  "text": "A Blackfoot Beach Köln mellett található.",
+                  "category": "recreational",
+                  "coords": [
+                        6.920763,
+                        51.021109
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Blackfoot Beach",
+                  "text": "Plaja Blackfoot se află lângă Köln.",
+                  "category": "recreational",
+                  "coords": [
+                        6.920763,
+                        51.021109
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Blackfoot Beach",
+                  "text": "Blackfoot Beach is located near Cologne.",
+                  "category": "recreational",
+                  "coords": [
+                        6.920763,
+                        51.021109
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "DE-NW",
     coords: [6.953, 51.017],
@@ -2268,7 +2988,52 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       fr: ["Fondation du site en 1915 pendant la Première Guerre Mondiale.", "Plus grand fabricant d'ammoniac et d'urée de toute l'Allemagne.", "Producteur important d'AdBlue pour les moteurs diesel modernes.", "Le site de l'usine à Wittenberg-Piesteritz s'étend sur environ 220 hectares.", "Possède son propre centre de recherche en agrotechnique.", "Alimentation en chauffage urbain pour env. 10 000 foyers grâce à la chaleur résiduelle."],
     }, image: "/poi-images/industry-skw-piesteritz-extra.webp"},
   {
-    id: "industry-tkms-kiel-extra",
+    id: "industry-tkms-kiel-extra", "sights": {
+      "de": [
+            {
+                  "name": "Hasselfelder Strand",
+                  "text": "Der Hasselfelder Strand ist ein Badeplatz in Kiel.",
+                  "category": "recreational",
+                  "coords": [
+                        10.175366,
+                        54.343741
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hasselfelder Strand",
+                  "text": "A Hasselfelder Strand egy fürdőhely Kielben.",
+                  "category": "recreational",
+                  "coords": [
+                        10.175366,
+                        54.343741
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hasselfelder Strand",
+                  "text": "Hasselfelder Strand este un loc de scăldat în Kiel.",
+                  "category": "recreational",
+                  "coords": [
+                        10.175366,
+                        54.343741
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hasselfelder Strand",
+                  "text": "Hasselfelder Strand is a swimming spot in Kiel.",
+                  "category": "recreational",
+                  "coords": [
+                        10.175366,
+                        54.343741
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "DE-SH",
     coords: [10.155, 54.316],

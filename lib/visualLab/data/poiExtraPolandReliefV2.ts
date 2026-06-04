@@ -48,7 +48,52 @@ export const polandReliefV2: POI[] = [
       fr: ["La longueur totale de la chaîne est d'environ 78 kilomètres", "À peine un cinquième de la superficie du massif se trouve en Pologne", "Les sommets des Hautes Tatras sont formés de granit cristallin massif", "L'UNESCO l'a déclarée réserve de biosphère transfrontalière en 1992", "La région connaît en moyenne 200 jours de précipitations par an", "Les vallées ont été façonnées en forme de U par les glaciers durant l'ère glaciaire", "Le point culminant de la Pologne est le mont Rysy à 2499 mètres"],
     }, image: "/poi-images/poland-tatra-mountains-relief-v2.webp"},
     {
-    id: "poland-bieszczady-mountains-relief-v2",
+    id: "poland-bieszczady-mountains-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wetlina",
+                  "text": "Strandbereich am Fluss Wetlina im Bieszczady-Gebirge.",
+                  "category": "recreational",
+                  "coords": [
+                        22.482564,
+                        49.142369
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wetlina",
+                  "text": "Strand a Wetlina folyó mentén, a Bieszczady-hegységben.",
+                  "category": "recreational",
+                  "coords": [
+                        22.482564,
+                        49.142369
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wetlina",
+                  "text": "Zonă de plajă pe râul Wetlina în Munții Bieszczady.",
+                  "category": "recreational",
+                  "coords": [
+                        22.482564,
+                        49.142369
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wetlina",
+                  "text": "Beach area along the Wetlina river in the Bieszczady Mountains.",
+                  "category": "recreational",
+                  "coords": [
+                        22.482564,
+                        49.142369
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "mountain",
     name: { de: "Bieszczady-Gebirge", hu: "Bieszczady-hegység", ro: "Munții Bieszczady", en: "Bieszczady Mountains"},
@@ -544,7 +589,52 @@ export const polandReliefV2: POI[] = [
       fr: ["La superficie du bassin s'étend sur environ 15 000 kilomètres carrés", "Son altitude varie généralement entre 150 et 250 mètres au-dessus du niveau de la mer", "Le confluent de la Vistule et du San constitue l'axe hydrographique de la région", "Le centre de l'extraction du soufre s'est développé autour de la ville de Tarnobrzeg", "Les vestiges de la forêt de Sandomierz sont principalement composés de pins sylvestres et de chênes", "D'importants travaux de drainage des marais ont été effectués dans la région au XIXe siècle", "Les dunes de sable le long des vallées fluviales atteignent par endroits 10 à 15 mètres de haut"],
     }, image: "/poi-images/poland-sandomierz-basin-relief-v2.webp"},
   {
-    id: "poland-masurian-lake-district-relief-v2",
+    id: "poland-masurian-lake-district-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plaża wiejska",
+                  "text": "Ländlicher Strand in der Masurischen Seenplatte.",
+                  "category": "recreational",
+                  "coords": [
+                        21.490858,
+                        53.802307
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plaża wiejska",
+                  "text": "Falusi strand a Mazuri-tóvidéken.",
+                  "category": "recreational",
+                  "coords": [
+                        21.490858,
+                        53.802307
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plaża wiejska",
+                  "text": "Plajă rurală în regiunea lacurilor Mazuriene.",
+                  "category": "recreational",
+                  "coords": [
+                        21.490858,
+                        53.802307
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plaża wiejska",
+                  "text": "Rural beach in the Masurian Lake District.",
+                  "category": "recreational",
+                  "coords": [
+                        21.490858,
+                        53.802307
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "lake",
     name: { de: "Masurische Seenplatte", hu: "Mazuri-tóhátság", ro: "Regiunea Lacurilor Mazuriene", en: "Masurian Lake District"},
@@ -1177,7 +1267,52 @@ export const polandReliefV2: POI[] = [
     image: "/poi-images/poland-wielkopolska-lowland-relief-v2.webp",
   },
   {
-    id: "poland-kaszubian-lake-district-relief-v2",
+    id: "poland-kaszubian-lake-district-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kozia Góra",
+                  "text": "Strand an der Kozia Góra in der Kaschubischen Seenplatte.",
+                  "category": "recreational",
+                  "coords": [
+                        17.964889,
+                        54.232965
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kozia Góra",
+                  "text": "Strand a Kozia Góránál, a Kasub-tóvidéken.",
+                  "category": "recreational",
+                  "coords": [
+                        17.964889,
+                        54.232965
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kozia Góra",
+                  "text": "Plajă la Kozia Góra în regiunea lacustră Cașubia.",
+                  "category": "recreational",
+                  "coords": [
+                        17.964889,
+                        54.232965
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kozia Góra",
+                  "text": "Beach at Kozia Góra in the Kashubian Lake District.",
+                  "category": "recreational",
+                  "coords": [
+                        17.964889,
+                        54.232965
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "PL",
     name: { de: "Kaschubische Seenplatte", hu: "Kasubiai-tóvidék", ro: "Regiunea Lacustră Cașubiană", en: "Kashubian Lake District" },

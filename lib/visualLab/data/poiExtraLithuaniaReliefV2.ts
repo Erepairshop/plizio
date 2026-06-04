@@ -1107,7 +1107,52 @@ imageHint: "Birute hill with chapel Palanga Lithuania",
     },
     image: "/poi-images/lithuania-birute-hill-relief-v2.webp",
 },  {
-    id: "lithuania-ginuciai-hill-relief-v2",
+    id: "lithuania-ginuciai-hill-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ginučių vandens malūno paplūdimys",
+                  "text": "Badestelle am Wassermühle Ginučiai, gelegen bei Ginuciai Hill.",
+                  "category": "recreational",
+                  "coords": [
+                        25.994645,
+                        55.385602
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ginučių vandens malūno paplūdimys",
+                  "text": "Fürdőhely a Ginučiai vízimalomnál, Ginuciai Hill közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        25.994645,
+                        55.385602
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ginučių vandens malūno paplūdimys",
+                  "text": "Loc de scăldat la moara de apă Ginučiai, situat lângă Ginuciai Hill.",
+                  "category": "recreational",
+                  "coords": [
+                        25.994645,
+                        55.385602
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ginučių vandens malūno paplūdimys",
+                  "text": "Swimming spot at Ginučiai water mill, located near Ginuciai Hill.",
+                  "category": "recreational",
+                  "coords": [
+                        25.994645,
+                        55.385602
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "peak",
     name: { de: "Ginučiai-Burgberg", hu: "Ginučiai-várhegy", ro: "Dealul Ginučiai", en: "Ginučiai Hill Fort"},
@@ -1786,7 +1831,52 @@ imageHint: "Dyburiai river loop view Minija Lithuania",
     image: "/poi-images/lithuania-musa-nemunelis-valley-relief-v2.webp",
   },
   {
-    id: "lithuania-sesupe-valley-relief-v2",
+    id: "lithuania-sesupe-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Marijampolės nudistų paplūdimys",
+                  "text": "FKK-Strand von Marijampolė im Šešupė-Tal.",
+                  "category": "recreational",
+                  "coords": [
+                        23.348408,
+                        54.521068
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Marijampolės nudistų paplūdimys",
+                  "text": "Marijampolė nudista strand a Šešupė-völgyben.",
+                  "category": "recreational",
+                  "coords": [
+                        23.348408,
+                        54.521068
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Marijampolės nudistų paplūdimys",
+                  "text": "Plaja de nudiști din Marijampolė în valea Šešupė.",
+                  "category": "recreational",
+                  "coords": [
+                        23.348408,
+                        54.521068
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Marijampolės nudistų paplūdimys",
+                  "text": "Marijampolė nudist beach in Šešupė Valley.",
+                  "category": "recreational",
+                  "coords": [
+                        23.348408,
+                        54.521068
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "LT",
     name: { de: "Šešupė-Tal", hu: "Šešupė-völgy", ro: "Valea Šešupė", en: "Šešupė Valley" },

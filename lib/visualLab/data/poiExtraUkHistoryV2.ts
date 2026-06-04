@@ -371,7 +371,52 @@ imageHint: "Iron Bridge Shropshire across River Severn",
     },
     image: "/poi-images/uk-iron-bridge-history-v2.webp",
 },  {
-    id: "uk-skara-brae-history-v2",
+    id: "uk-skara-brae-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sand Geo",
+                  "text": "Strand bei Skara Brae.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.349029,
+                        59.091046
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sand Geo",
+                  "text": "Strand Skara Brae mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.349029,
+                        59.091046
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sand Geo",
+                  "text": "Plajă lângă Skara Brae.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.349029,
+                        59.091046
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sand Geo",
+                  "text": "Beach near Skara Brae.",
+                  "category": "recreational",
+                  "coords": [
+                        -3.349029,
+                        59.091046
+                  ]
+            }
+      ]
+},
     parent: "GB",
     type: "ruins",
     name: { de: "Skara Brae", hu: "Skara Brae", ro: "Skara Brae", en: "Skara Brae"},
@@ -786,7 +831,52 @@ imageHint: "St Paul's Church and Jarrow monastery ruins",
     },
     image: "/poi-images/uk-jarrow-monastery-history-v2.webp",
 },  {
-    id: "uk-caernarfon-castle-history-v2",
+    id: "uk-caernarfon-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Traeth Abermenai",
+                  "text": "Traeth Abermenai bei Caernarfon.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.3399,
+                        53.137803
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Traeth Abermenai",
+                  "text": "Traeth Abermenai strand Caernarfon közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.3399,
+                        53.137803
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Traeth Abermenai",
+                  "text": "Traeth Abermenai lângă Caernarfon.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.3399,
+                        53.137803
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Traeth Abermenai",
+                  "text": "Traeth Abermenai near Caernarfon.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.3399,
+                        53.137803
+                  ]
+            }
+      ]
+},
     parent: "GB",
     type: "castle",
     name: { de: "Burg Caernarfon", hu: "Caernarfoni vár", ro: "Castelul Caernarfon", en: "Caernarfon Castle"},
@@ -1198,7 +1288,88 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
     image: "/poi-images/uk-culloden-clava-cairns-history-v2.webp",
   },
   {
-    id: "uk-lindisfarne-priory-history-v2",
+    id: "uk-lindisfarne-priory-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sandeel Beds",
+                  "text": "Ein flacher Strandbereich nahe der historischen Priory.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.818405,
+                        55.664303
+                  ]
+            },
+            {
+                  "name": "Goswick Sands",
+                  "text": "Küstenstrand bei der Lindisfarne Priory.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.864244,
+                        55.697397
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sandeel Beds",
+                  "text": "Lapos strandszakasz a történelmi apátság közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.818405,
+                        55.664303
+                  ]
+            },
+            {
+                  "name": "Goswick Sands",
+                  "text": "Parti strand a Lindisfarne Priory közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.864244,
+                        55.697397
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sandeel Beds",
+                  "text": "O zonă plată de plajă lângă prioratul istoric.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.818405,
+                        55.664303
+                  ]
+            },
+            {
+                  "name": "Goswick Sands",
+                  "text": "Plajă lângă Lindisfarne Priory.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.864244,
+                        55.697397
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sandeel Beds",
+                  "text": "A shallow beach area near the historic priory.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.818405,
+                        55.664303
+                  ]
+            },
+            {
+                  "name": "Goswick Sands",
+                  "text": "Coastal beach near Lindisfarne Priory.",
+                  "category": "recreational",
+                  "coords": [
+                        -1.864244,
+                        55.697397
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "GB",
     name: { de: "Lindisfarne Priorat", hu: "Lindisfarne-i apátság", ro: "Prioratul Lindisfarne", en: "Lindisfarne Priory" },
@@ -1423,7 +1594,52 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
     image: "/poi-images/uk-porchester-castle-history-v2.webp",
   },
   {
-    id: "uk-fishbourne-roman-palace-history-v2",
+    id: "uk-fishbourne-roman-palace-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bosham Foreshore",
+                  "text": "Ein Küstenbereich nahe dem Fishbourne Roman Palace.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.866857,
+                        50.817159
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bosham Foreshore",
+                  "text": "Partszakasz a Fishbourne Roman Palace közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.866857,
+                        50.817159
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bosham Foreshore",
+                  "text": "O zonă de coastă în apropierea palatului roman Fishbourne.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.866857,
+                        50.817159
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bosham Foreshore",
+                  "text": "A shoreline near Fishbourne Roman Palace.",
+                  "category": "recreational",
+                  "coords": [
+                        -0.866857,
+                        50.817159
+                  ]
+            }
+      ]
+},
     type: "palace",
     parent: "GB",
     name: { de: "Fishbourne Römischer Palast", hu: "Fishbourne-i római palota", ro: "Palatul roman Fishbourne", en: "Fishbourne Roman Palace" },
@@ -1963,7 +2179,160 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
     image: "/poi-images/uk-beaumaris-castle-history-v2.webp",
   },
   {
-    id: "uk-harlech-castle-history-v2",
+    id: "uk-harlech-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Morfa Harlech",
+                  "text": "Der Strand Morfa Harlech liegt nahe der historischen Burg Harlech.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.144188,
+                        52.880769
+                  ]
+            },
+            {
+                  "name": "Traeth Llandanwg Beach",
+                  "text": "Traeth Llandanwg Strand in der Nähe von Harlech Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.126738,
+                        52.833549
+                  ]
+            },
+            {
+                  "name": "Traeth Harlech",
+                  "text": "Ein historisch geprägter Sandstrand unterhalb des Schlosses Harlech.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.142818,
+                        52.877947
+                  ]
+            },
+            {
+                  "name": "Llandanwg Beach",
+                  "text": "Llandanwg Beach befindet sich in der Nähe von Harlech Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.12541,
+                        52.835841
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Morfa Harlech",
+                  "text": "A Morfa Harlech strand Harlech vára közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.144188,
+                        52.880769
+                  ]
+            },
+            {
+                  "name": "Traeth Llandanwg Beach",
+                  "text": "Traeth Llandanwg strand Harlech Castle közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.126738,
+                        52.833549
+                  ]
+            },
+            {
+                  "name": "Traeth Harlech",
+                  "text": "Történelmi hangulatú homokos strand a Harlech-kastély alatt.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.142818,
+                        52.877947
+                  ]
+            },
+            {
+                  "name": "Llandanwg Beach",
+                  "text": "A Llandanwg Beach a Harlech kastély közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.12541,
+                        52.835841
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Morfa Harlech",
+                  "text": "Plaja Morfa Harlech este situată în apropierea castelului Harlech.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.144188,
+                        52.880769
+                  ]
+            },
+            {
+                  "name": "Traeth Llandanwg Beach",
+                  "text": "Plaja Traeth Llandanwg lângă Harlech Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.126738,
+                        52.833549
+                  ]
+            },
+            {
+                  "name": "Traeth Harlech",
+                  "text": "O plajă cu nisip cu atmosferă istorică sub castelul Harlech.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.142818,
+                        52.877947
+                  ]
+            },
+            {
+                  "name": "Llandanwg Beach",
+                  "text": "Llandanwg Beach se află în apropierea castelului Harlech.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.12541,
+                        52.835841
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Morfa Harlech",
+                  "text": "Morfa Harlech beach is located near the historic Harlech Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.144188,
+                        52.880769
+                  ]
+            },
+            {
+                  "name": "Traeth Llandanwg Beach",
+                  "text": "Traeth Llandanwg beach near Harlech Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.126738,
+                        52.833549
+                  ]
+            },
+            {
+                  "name": "Traeth Harlech",
+                  "text": "A scenic sandy beach located below Harlech Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.142818,
+                        52.877947
+                  ]
+            },
+            {
+                  "name": "Llandanwg Beach",
+                  "text": "Llandanwg Beach is located near Harlech Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        -4.12541,
+                        52.835841
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "GB",
     name: { de: "Harlech Burg", hu: "Harlech-i vár", ro: "Castelul Harlech", en: "Harlech Castle" },
@@ -2053,7 +2422,52 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
     image: "/poi-images/uk-bodiam-castle-history-v2.webp",
   },
   {
-    id: "uk-chepstow-castle-history-v2",
+    id: "uk-chepstow-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fossil Beach",
+                  "text": "Ein Strand nahe der Burg Chepstow.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.642569,
+                        51.634756
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fossil Beach",
+                  "text": "Strand a Chepstow vár közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.642569,
+                        51.634756
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fossil Beach",
+                  "text": "O plajă lângă castelul Chepstow.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.642569,
+                        51.634756
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fossil Beach",
+                  "text": "A beach near Chepstow Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        -2.642569,
+                        51.634756
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "GB",
     name: { de: "Chepstow Burg", hu: "Chepstow-i vár", ro: "Castelul Chepstow", en: "Chepstow Castle" },

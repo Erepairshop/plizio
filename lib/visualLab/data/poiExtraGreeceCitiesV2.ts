@@ -511,7 +511,1132 @@ imageHint: "Ancient Theater of Larissa in city center",
     },
     image: "/poi-images/greece-larissa-cities-v2.webp",
 },  {
-    id: "greece-volos-cities-v2",
+    id: "greece-volos-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Μουσείο Πλινθοκεραμοποιίας",
+                  "text": "Industriemuseum in Volos, das die Geschichte der Ziegelherstellung präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        22.932093,
+                        39.365256
+                  ]
+            },
+            {
+                  "name": "Άναυρος",
+                  "text": "Strand in Volos.",
+                  "category": "recreational",
+                  "coords": [
+                        22.96271,
+                        39.350097
+                  ]
+            },
+            {
+                  "name": "Θέατρο \"Παλιάς Ηλεκτρικής\"",
+                  "text": "Das Theater \"Palias Ilektrikis\" ist ein städtisches Theater in Volos.",
+                  "category": "cultural",
+                  "coords": [
+                        22.948229,
+                        39.365475
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικός χώρος Γορίτσας",
+                  "text": "Goritsa ist eine archäologische Stätte in Volos.",
+                  "category": "historical",
+                  "coords": [
+                        22.980637,
+                        39.3561
+                  ]
+            },
+            {
+                  "name": "Δημοτικό Θέατρο Νέας Ιωνίας",
+                  "text": "Das Städtische Theater von Nea Ionia befindet sich in Volos.",
+                  "category": "cultural",
+                  "coords": [
+                        22.934886,
+                        39.379939
+                  ]
+            },
+            {
+                  "name": "Εντομολογικό Mουσείο",
+                  "text": "Das Entomologische Museum in Volos beherbergt Insektensammlungen.",
+                  "category": "museum",
+                  "coords": [
+                        22.946227,
+                        39.37419
+                  ]
+            },
+            {
+                  "name": "Μουσείο Φυσικής Ιστορίας",
+                  "text": "Das Naturkundemuseum in Volos zeigt naturgeschichtliche Exponate.",
+                  "category": "museum",
+                  "coords": [
+                        22.936428,
+                        39.370033
+                  ]
+            },
+            {
+                  "name": "Λαογραφικό Μουσείο Κίτσου Μακρή",
+                  "text": "Das Kitsos Makris Volkskundemuseum in Volos widmet sich der lokalen Tradition.",
+                  "category": "museum",
+                  "coords": [
+                        22.961432,
+                        39.357206
+                  ]
+            },
+            {
+                  "name": "Μουσείο Θεόφιλου (οικία Κοντού)",
+                  "text": "Das Theophilos-Museum in Volos befindet sich im Haus Kontos.",
+                  "category": "museum",
+                  "coords": [
+                        22.975701,
+                        39.383067
+                  ]
+            },
+            {
+                  "name": "Κάστρο Παλαιών",
+                  "text": "Die Burg von Palia ist ein historisches Bauwerk in Volos.",
+                  "category": "castle",
+                  "coords": [
+                        22.933295,
+                        39.365027
+                  ]
+            },
+            {
+                  "name": "Οχύρωση Λόφου Επισκοπής",
+                  "text": "Die Befestigungsanlage von Episkopi befindet sich in Volos.",
+                  "category": "castle",
+                  "coords": [
+                        22.981109,
+                        39.375318
+                  ]
+            },
+            {
+                  "name": "Μουσείο Εθνικής Αντίστασης",
+                  "text": "Das Museum des Nationalen Widerstands in Volos erinnert an historische Ereignisse.",
+                  "category": "museum",
+                  "coords": [
+                        22.932639,
+                        39.373391
+                  ]
+            },
+            {
+                  "name": "ΠΙνακοθήκη Χρυσούλας Ζιώγα",
+                  "text": "Die Chrysoula Zioga Kunstgalerie ist ein Museum in Volos.",
+                  "category": "museum",
+                  "coords": [
+                        22.957757,
+                        39.358868
+                  ]
+            },
+            {
+                  "name": "Θερινό Δημοτικό Θέτρο Μελίνα Μερκούρη",
+                  "text": "Das Melina Mercouri Sommertheater ist eine Bühne in Volos.",
+                  "category": "cultural",
+                  "coords": [
+                        22.939792,
+                        39.363139
+                  ]
+            },
+            {
+                  "name": "Αρχαίο Παλάτι Δημητριάδας",
+                  "text": "Die archäologische Stätte Palast von Demetrias ist ein historischer Ort in Volos.",
+                  "category": "historical",
+                  "coords": [
+                        22.93272,
+                        39.342757
+                  ]
+            },
+            {
+                  "name": "Αρχαίο Θέατρο Δημητριάδας",
+                  "text": "Das antike Theater von Demetrias ist eine bedeutende archäologische Stätte in Volos.",
+                  "category": "historical",
+                  "coords": [
+                        22.924342,
+                        39.343453
+                  ]
+            },
+            {
+                  "name": "Θεατράκι Πολυτεχνικής Σχολής",
+                  "text": "Das Theater der Polytechnischen Schule ist ein Veranstaltungsort in Volos.",
+                  "category": "cultural",
+                  "coords": [
+                        22.930237,
+                        39.359493
+                  ]
+            },
+            {
+                  "name": "Αθανασάκειο Αρχαιολογικό Μουσείο",
+                  "text": "Das Athanasakeion Archäologische Museum beherbergt bedeutende Funde aus der Region Volos.",
+                  "category": "museum",
+                  "coords": [
+                        22.961191,
+                        39.351716
+                  ]
+            },
+            {
+                  "name": "Μουσείο Πόλης Βόλου",
+                  "text": "Das Stadtmuseum Volos dokumentiert die Geschichte der Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        22.935724,
+                        39.363987
+                  ]
+            },
+            {
+                  "name": "Μουσείο Μεταξουργείου Αφών Ετμεκτζόγλου",
+                  "text": "Das Seidenmuseum Ekmektzoglou in Volos zeigt die Industriegeschichte der Region.",
+                  "category": "museum",
+                  "coords": [
+                        22.938721,
+                        39.371966
+                  ]
+            },
+            {
+                  "name": "Πλατεία Ντε Κίρικο",
+                  "text": "Der De-Chirico-Platz ist ein öffentlicher Raum in Volos.",
+                  "category": "cultural",
+                  "coords": [
+                        22.942418,
+                        39.36252
+                  ]
+            },
+            {
+                  "name": "θεατράκι του Αναύρου",
+                  "text": "Das kleine Theater von Anavros ist eine Freilichtbühne in Volos.",
+                  "category": "cultural",
+                  "coords": [
+                        22.959917,
+                        39.350775
+                  ]
+            },
+            {
+                  "name": "Παλαιοχριστιανική Βασιλική Α΄ της Δαμοκρατίας",
+                  "text": "Die frühchristliche Basilika von Damokratia ist ein archäologischer Ort in Volos.",
+                  "category": "historical",
+                  "coords": [
+                        22.929901,
+                        39.345132
+                  ]
+            },
+            {
+                  "name": "Αργώ",
+                  "text": "Das Argo-Denkmal erinnert an das berühmte Schiff der Argonauten in Volos.",
+                  "category": "historical",
+                  "coords": [
+                        22.944959,
+                        39.359838
+                  ]
+            },
+            {
+                  "name": "Αρχαία Πηγάδια - Δεξαμενές Νερού",
+                  "text": "Historische Attraktion in Volos, die antike Brunnen und Wasserbecken umfasst.",
+                  "category": "landmark",
+                  "coords": [
+                        22.975518,
+                        39.354382
+                  ]
+            },
+            {
+                  "name": "Εργαστήρια Εικαστικών Τεχνών Δήμου Βόλου",
+                  "text": "Ein Zentrum für bildende Kunst in Volos mit vielfältigen kreativen Angeboten.",
+                  "category": "cultural",
+                  "coords": [
+                        22.962903,
+                        39.368178
+                  ]
+            },
+            {
+                  "name": "Triple Gauge Railway",
+                  "text": "Eine besondere Attraktion in Volos, bekannt für ihre historische Eisenbahntechnik.",
+                  "category": "landmark",
+                  "coords": [
+                        22.955384,
+                        39.356107
+                  ]
+            },
+            {
+                  "name": "ΙΩΝΕΣ | Πολιτιστική Εστία Μικρασιατών Νέας Ιωνίας Μαγνησίας",
+                  "text": "Kulturelles Zentrum für Kleinasiaten in Nea Ionia, Volos.",
+                  "category": "landmark",
+                  "coords": [
+                        22.931977,
+                        39.37473
+                  ]
+            },
+            {
+                  "name": "Β' Κέντρο Δημιουργικής Απασχόλησης Παιδιών",
+                  "text": "Ein Zentrum für kreative Kinderbetreuung und Freizeitaktivitäten in Volos.",
+                  "category": "cultural",
+                  "coords": [
+                        22.952387,
+                        39.372043
+                  ]
+            },
+            {
+                  "name": "Πολιτιστικός Οργανισμός Ν. Ιωνίας - Τμήμα Ζωγραφικής-Κεραμικής",
+                  "text": "Zentrum für Malerei und Keramik in Nea Ionia, Volos.",
+                  "category": "cultural",
+                  "coords": [
+                        22.931067,
+                        39.370735
+                  ]
+            },
+            {
+                  "name": "Άγιος Νικόλαος",
+                  "text": "Die St.-Nikolaus-Kirche ist ein bedeutendes Gotteshaus in Volos.",
+                  "category": "religious",
+                  "coords": [
+                        22.949476,
+                        39.360614
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Μουσείο Πλινθοκεραμοποιίας",
+                  "text": "Ipari múzeum Volosban, amely a tégla- és cserépgyártás történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        22.932093,
+                        39.365256
+                  ]
+            },
+            {
+                  "name": "Άναυρος",
+                  "text": "Strand Volosban.",
+                  "category": "recreational",
+                  "coords": [
+                        22.96271,
+                        39.350097
+                  ]
+            },
+            {
+                  "name": "Θέατρο \"Παλιάς Ηλεκτρικής\"",
+                  "text": "A \"Palias Ilektrikis\" színház egy városi színház Volosban.",
+                  "category": "cultural",
+                  "coords": [
+                        22.948229,
+                        39.365475
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικός χώρος Γορίτσας",
+                  "text": "Goritsa egy régészeti lelőhely Volosban.",
+                  "category": "historical",
+                  "coords": [
+                        22.980637,
+                        39.3561
+                  ]
+            },
+            {
+                  "name": "Δημοτικό Θέατρο Νέας Ιωνίας",
+                  "text": "A Nea Ionia Városi Színház Volosban található.",
+                  "category": "cultural",
+                  "coords": [
+                        22.934886,
+                        39.379939
+                  ]
+            },
+            {
+                  "name": "Εντομολογικό Mουσείο",
+                  "text": "A volosi Rovartani Múzeum rovargyűjteményeknek ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        22.946227,
+                        39.37419
+                  ]
+            },
+            {
+                  "name": "Μουσείο Φυσικής Ιστορίας",
+                  "text": "A volosi Természettudományi Múzeum természettudományi kiállításokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        22.936428,
+                        39.370033
+                  ]
+            },
+            {
+                  "name": "Λαογραφικό Μουσείο Κίτσου Μακρή",
+                  "text": "A volosi Kitsos Makris Néprajzi Múzeum a helyi hagyományoknak szentelődik.",
+                  "category": "museum",
+                  "coords": [
+                        22.961432,
+                        39.357206
+                  ]
+            },
+            {
+                  "name": "Μουσείο Θεόφιλου (οικία Κοντού)",
+                  "text": "A volosi Theophilos Múzeum a Kontos-házban található.",
+                  "category": "museum",
+                  "coords": [
+                        22.975701,
+                        39.383067
+                  ]
+            },
+            {
+                  "name": "Κάστρο Παλαιών",
+                  "text": "A Palia-vár egy történelmi építmény Volosban.",
+                  "category": "castle",
+                  "coords": [
+                        22.933295,
+                        39.365027
+                  ]
+            },
+            {
+                  "name": "Οχύρωση Λόφου Επισκοπής",
+                  "text": "Az Episkopi erődítmény Volosban található.",
+                  "category": "castle",
+                  "coords": [
+                        22.981109,
+                        39.375318
+                  ]
+            },
+            {
+                  "name": "Μουσείο Εθνικής Αντίστασης",
+                  "text": "A volosi Nemzeti Ellenállási Múzeum történelmi eseményekre emlékezik.",
+                  "category": "museum",
+                  "coords": [
+                        22.932639,
+                        39.373391
+                  ]
+            },
+            {
+                  "name": "ΠΙνακοθήκη Χρυσούλας Ζιώγα",
+                  "text": "A Chrysoula Zioga Művészeti Galéria egy múzeum Volosban.",
+                  "category": "museum",
+                  "coords": [
+                        22.957757,
+                        39.358868
+                  ]
+            },
+            {
+                  "name": "Θερινό Δημοτικό Θέτρο Μελίνα Μερκούρη",
+                  "text": "A Melina Mercouri Nyári Színház egy színpad Volosban.",
+                  "category": "cultural",
+                  "coords": [
+                        22.939792,
+                        39.363139
+                  ]
+            },
+            {
+                  "name": "Αρχαίο Παλάτι Δημητριάδας",
+                  "text": "A demetriaszi palota régészeti lelőhelye egy történelmi helyszín Volosban.",
+                  "category": "historical",
+                  "coords": [
+                        22.93272,
+                        39.342757
+                  ]
+            },
+            {
+                  "name": "Αρχαίο Θέατρο Δημητριάδας",
+                  "text": "A demetriaszi ókori színház egy jelentős régészeti lelőhely Volosban.",
+                  "category": "historical",
+                  "coords": [
+                        22.924342,
+                        39.343453
+                  ]
+            },
+            {
+                  "name": "Θεατράκι Πολυτεχνικής Σχολής",
+                  "text": "A Műszaki Iskola kis színháza egy rendezvényhelyszín Volosban.",
+                  "category": "cultural",
+                  "coords": [
+                        22.930237,
+                        39.359493
+                  ]
+            },
+            {
+                  "name": "Αθανασάκειο Αρχαιολογικό Μουσείο",
+                  "text": "Az Athanasakeion Régészeti Múzeum jelentős leleteket őriz a Volos régióból.",
+                  "category": "museum",
+                  "coords": [
+                        22.961191,
+                        39.351716
+                  ]
+            },
+            {
+                  "name": "Μουσείο Πόλης Βόλου",
+                  "text": "A Volos Városi Múzeum a város történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        22.935724,
+                        39.363987
+                  ]
+            },
+            {
+                  "name": "Μουσείο Μεταξουργείου Αφών Ετμεκτζόγλου",
+                  "text": "A volosi Ekmektzoglou Selyemmúzeum a régió ipartörténetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        22.938721,
+                        39.371966
+                  ]
+            },
+            {
+                  "name": "Πλατεία Ντε Κίρικο",
+                  "text": "A De Chirico tér egy közösségi tér Volosban.",
+                  "category": "cultural",
+                  "coords": [
+                        22.942418,
+                        39.36252
+                  ]
+            },
+            {
+                  "name": "θεατράκι του Αναύρου",
+                  "text": "Az Anavros kis színház egy szabadtéri színpad Volosban.",
+                  "category": "cultural",
+                  "coords": [
+                        22.959917,
+                        39.350775
+                  ]
+            },
+            {
+                  "name": "Παλαιοχριστιανική Βασιλική Α΄ της Δαμοκρατίας",
+                  "text": "A damokratiai ókeresztény bazilika egy régészeti helyszín Volosban.",
+                  "category": "historical",
+                  "coords": [
+                        22.929901,
+                        39.345132
+                  ]
+            },
+            {
+                  "name": "Αργώ",
+                  "text": "Az Argo-emlékmű az argonauták híres hajójára emlékeztet Volosban.",
+                  "category": "historical",
+                  "coords": [
+                        22.944959,
+                        39.359838
+                  ]
+            },
+            {
+                  "name": "Αρχαία Πηγάδια - Δεξαμενές Νερού",
+                  "text": "Történelmi látnivaló Volosban, amely az ókori kutakat és víztárolókat foglalja magában.",
+                  "category": "landmark",
+                  "coords": [
+                        22.975518,
+                        39.354382
+                  ]
+            },
+            {
+                  "name": "Εργαστήρια Εικαστικών Τεχνών Δήμου Βόλου",
+                  "text": "Képzőművészeti központ Volosban, különféle kreatív programokkal.",
+                  "category": "cultural",
+                  "coords": [
+                        22.962903,
+                        39.368178
+                  ]
+            },
+            {
+                  "name": "Triple Gauge Railway",
+                  "text": "Különleges látnivaló Volosban, amely a vasúti technika történetével kapcsolatos.",
+                  "category": "landmark",
+                  "coords": [
+                        22.955384,
+                        39.356107
+                  ]
+            },
+            {
+                  "name": "ΙΩΝΕΣ | Πολιτιστική Εστία Μικρασιατών Νέας Ιωνίας Μαγνησίας",
+                  "text": "Kulturális központ a kisázsiaiak számára Nea Ioniában, Volosban.",
+                  "category": "landmark",
+                  "coords": [
+                        22.931977,
+                        39.37473
+                  ]
+            },
+            {
+                  "name": "Β' Κέντρο Δημιουργικής Απασχόλησης Παιδιών",
+                  "text": "Központ gyermekek kreatív fejlesztésére és foglalkoztatására Volosban.",
+                  "category": "cultural",
+                  "coords": [
+                        22.952387,
+                        39.372043
+                  ]
+            },
+            {
+                  "name": "Πολιτιστικός Οργανισμός Ν. Ιωνίας - Τμήμα Ζωγραφικής-Κεραμικής",
+                  "text": "Festészeti és kerámia központ Nea Ioniában, Volosban.",
+                  "category": "cultural",
+                  "coords": [
+                        22.931067,
+                        39.370735
+                  ]
+            },
+            {
+                  "name": "Άγιος Νικόλαος",
+                  "text": "A Szent Miklós-templom egy jelentős vallási helyszín Volosban.",
+                  "category": "religious",
+                  "coords": [
+                        22.949476,
+                        39.360614
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Μουσείο Πλινθοκεραμοποιίας",
+                  "text": "Muzeu industrial în Volos, prezentând istoria producției de cărămidă și țiglă.",
+                  "category": "museum",
+                  "coords": [
+                        22.932093,
+                        39.365256
+                  ]
+            },
+            {
+                  "name": "Άναυρος",
+                  "text": "Plajă în Volos.",
+                  "category": "recreational",
+                  "coords": [
+                        22.96271,
+                        39.350097
+                  ]
+            },
+            {
+                  "name": "Θέατρο \"Παλιάς Ηλεκτρικής\"",
+                  "text": "Teatrul \"Palias Ilektrikis\" este un teatru municipal din Volos.",
+                  "category": "cultural",
+                  "coords": [
+                        22.948229,
+                        39.365475
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικός χώρος Γορίτσας",
+                  "text": "Goritsa este un sit arheologic din Volos.",
+                  "category": "historical",
+                  "coords": [
+                        22.980637,
+                        39.3561
+                  ]
+            },
+            {
+                  "name": "Δημοτικό Θέατρο Νέας Ιωνίας",
+                  "text": "Teatrul Municipal din Nea Ionia este situat în Volos.",
+                  "category": "cultural",
+                  "coords": [
+                        22.934886,
+                        39.379939
+                  ]
+            },
+            {
+                  "name": "Εντομολογικό Mουσείο",
+                  "text": "Muzeul Entomologic din Volos găzduiește colecții de insecte.",
+                  "category": "museum",
+                  "coords": [
+                        22.946227,
+                        39.37419
+                  ]
+            },
+            {
+                  "name": "Μουσείο Φυσικής Ιστορίας",
+                  "text": "Muzeul de Istorie Naturală din Volos prezintă exponate de istorie naturală.",
+                  "category": "museum",
+                  "coords": [
+                        22.936428,
+                        39.370033
+                  ]
+            },
+            {
+                  "name": "Λαογραφικό Μουσείο Κίτσου Μακρή",
+                  "text": "Muzeul de Etnografie Kitsos Makris din Volos este dedicat tradițiilor locale.",
+                  "category": "museum",
+                  "coords": [
+                        22.961432,
+                        39.357206
+                  ]
+            },
+            {
+                  "name": "Μουσείο Θεόφιλου (οικία Κοντού)",
+                  "text": "Muzeul Theophilos din Volos este situat în casa Kontos.",
+                  "category": "museum",
+                  "coords": [
+                        22.975701,
+                        39.383067
+                  ]
+            },
+            {
+                  "name": "Κάστρο Παλαιών",
+                  "text": "Castelul din Palia este o structură istorică din Volos.",
+                  "category": "castle",
+                  "coords": [
+                        22.933295,
+                        39.365027
+                  ]
+            },
+            {
+                  "name": "Οχύρωση Λόφου Επισκοπής",
+                  "text": "Fortificația Episkopi este situată în Volos.",
+                  "category": "castle",
+                  "coords": [
+                        22.981109,
+                        39.375318
+                  ]
+            },
+            {
+                  "name": "Μουσείο Εθνικής Αντίστασης",
+                  "text": "Muzeul Rezistenței Naționale din Volos comemorează evenimente istorice.",
+                  "category": "museum",
+                  "coords": [
+                        22.932639,
+                        39.373391
+                  ]
+            },
+            {
+                  "name": "ΠΙνακοθήκη Χρυσούλας Ζιώγα",
+                  "text": "Galeria de Artă Chrysoula Zioga este un muzeu din Volos.",
+                  "category": "museum",
+                  "coords": [
+                        22.957757,
+                        39.358868
+                  ]
+            },
+            {
+                  "name": "Θερινό Δημοτικό Θέτρο Μελίνα Μερκούρη",
+                  "text": "Teatrul de Vară Melina Mercouri este o scenă în Volos.",
+                  "category": "cultural",
+                  "coords": [
+                        22.939792,
+                        39.363139
+                  ]
+            },
+            {
+                  "name": "Αρχαίο Παλάτι Δημητριάδας",
+                  "text": "Situl arheologic Palatul din Demetrias este un loc istoric din Volos.",
+                  "category": "historical",
+                  "coords": [
+                        22.93272,
+                        39.342757
+                  ]
+            },
+            {
+                  "name": "Αρχαίο Θέατρο Δημητριάδας",
+                  "text": "Teatrul antic din Demetrias este un sit arheologic important din Volos.",
+                  "category": "historical",
+                  "coords": [
+                        22.924342,
+                        39.343453
+                  ]
+            },
+            {
+                  "name": "Θεατράκι Πολυτεχνικής Σχολής",
+                  "text": "Teatrul Școlii Politehnice este un spațiu de evenimente din Volos.",
+                  "category": "cultural",
+                  "coords": [
+                        22.930237,
+                        39.359493
+                  ]
+            },
+            {
+                  "name": "Αθανασάκειο Αρχαιολογικό Μουσείο",
+                  "text": "Muzeul Arheologic Athanasakeion găzduiește descoperiri importante din regiunea Volos.",
+                  "category": "museum",
+                  "coords": [
+                        22.961191,
+                        39.351716
+                  ]
+            },
+            {
+                  "name": "Μουσείο Πόλης Βόλου",
+                  "text": "Muzeul Orașului Volos documentează istoria orașului.",
+                  "category": "museum",
+                  "coords": [
+                        22.935724,
+                        39.363987
+                  ]
+            },
+            {
+                  "name": "Μουσείο Μεταξουργείου Αφών Ετμεκτζόγλου",
+                  "text": "Muzeul Mătăsii Ekmektzoglou din Volos prezintă istoria industrială a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        22.938721,
+                        39.371966
+                  ]
+            },
+            {
+                  "name": "Πλατεία Ντε Κίρικο",
+                  "text": "Piața De Chirico este un spațiu public din Volos.",
+                  "category": "cultural",
+                  "coords": [
+                        22.942418,
+                        39.36252
+                  ]
+            },
+            {
+                  "name": "θεατράκι του Αναύρου",
+                  "text": "Teatrul mic din Anavros este o scenă în aer liber din Volos.",
+                  "category": "cultural",
+                  "coords": [
+                        22.959917,
+                        39.350775
+                  ]
+            },
+            {
+                  "name": "Παλαιοχριστιανική Βασιλική Α΄ της Δαμοκρατίας",
+                  "text": "Bazilica paleocreștină din Damokratia este un sit arheologic din Volos.",
+                  "category": "historical",
+                  "coords": [
+                        22.929901,
+                        39.345132
+                  ]
+            },
+            {
+                  "name": "Αργώ",
+                  "text": "Monumentul Argo amintește de celebra navă a argonauților din Volos.",
+                  "category": "historical",
+                  "coords": [
+                        22.944959,
+                        39.359838
+                  ]
+            },
+            {
+                  "name": "Αρχαία Πηγάδια - Δεξαμενές Νερού",
+                  "text": "Atracție istorică în Volos, incluzând fântâni și bazine de apă antice.",
+                  "category": "landmark",
+                  "coords": [
+                        22.975518,
+                        39.354382
+                  ]
+            },
+            {
+                  "name": "Εργαστήρια Εικαστικών Τεχνών Δήμου Βόλου",
+                  "text": "Centru de arte vizuale în Volos, oferind diverse activități creative.",
+                  "category": "cultural",
+                  "coords": [
+                        22.962903,
+                        39.368178
+                  ]
+            },
+            {
+                  "name": "Triple Gauge Railway",
+                  "text": "O atracție specială în Volos, cunoscută pentru tehnica feroviară istorică.",
+                  "category": "landmark",
+                  "coords": [
+                        22.955384,
+                        39.356107
+                  ]
+            },
+            {
+                  "name": "ΙΩΝΕΣ | Πολιτιστική Εστία Μικρασιατών Νέας Ιωνίας Μαγνησίας",
+                  "text": "Centru cultural pentru comunitatea din Asia Mică în Nea Ionia, Volos.",
+                  "category": "landmark",
+                  "coords": [
+                        22.931977,
+                        39.37473
+                  ]
+            },
+            {
+                  "name": "Β' Κέντρο Δημιουργικής Απασχόλησης Παιδιών",
+                  "text": "Centru pentru dezvoltarea creativă și ocuparea timpului liber pentru copii în Volos.",
+                  "category": "cultural",
+                  "coords": [
+                        22.952387,
+                        39.372043
+                  ]
+            },
+            {
+                  "name": "Πολιτιστικός Οργανισμός Ν. Ιωνίας - Τμήμα Ζωγραφικής-Κεραμικής",
+                  "text": "Centru de pictură și ceramică în Nea Ionia, Volos.",
+                  "category": "cultural",
+                  "coords": [
+                        22.931067,
+                        39.370735
+                  ]
+            },
+            {
+                  "name": "Άγιος Νικόλαος",
+                  "text": "Biserica Sfântul Nicolae este un lăcaș de cult important în Volos.",
+                  "category": "religious",
+                  "coords": [
+                        22.949476,
+                        39.360614
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rooftile and Brickworks Museum",
+                  "text": "Industrial museum in Volos, showcasing the history of brick and tile production.",
+                  "category": "museum",
+                  "coords": [
+                        22.932093,
+                        39.365256
+                  ]
+            },
+            {
+                  "name": "Άναυρος",
+                  "text": "Beach in Volos.",
+                  "category": "recreational",
+                  "coords": [
+                        22.96271,
+                        39.350097
+                  ]
+            },
+            {
+                  "name": "Θέατρο \"Παλιάς Ηλεκτρικής\"",
+                  "text": "The \"Palias Ilektrikis\" theatre is a municipal theatre in Volos.",
+                  "category": "cultural",
+                  "coords": [
+                        22.948229,
+                        39.365475
+                  ]
+            },
+            {
+                  "name": "Goritsa archaeological site",
+                  "text": "Goritsa is an archaeological site in Volos.",
+                  "category": "historical",
+                  "coords": [
+                        22.980637,
+                        39.3561
+                  ]
+            },
+            {
+                  "name": "Δημοτικό Θέατρο Νέας Ιωνίας",
+                  "text": "The Municipal Theatre of Nea Ionia is located in Volos.",
+                  "category": "cultural",
+                  "coords": [
+                        22.934886,
+                        39.379939
+                  ]
+            },
+            {
+                  "name": "Εντομολογικό Mουσείο",
+                  "text": "The Entomological Museum in Volos houses insect collections.",
+                  "category": "museum",
+                  "coords": [
+                        22.946227,
+                        39.37419
+                  ]
+            },
+            {
+                  "name": "Μουσείο Φυσικής Ιστορίας",
+                  "text": "The Natural History Museum in Volos displays natural history exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        22.936428,
+                        39.370033
+                  ]
+            },
+            {
+                  "name": "Λαογραφικό Μουσείο Κίτσου Μακρή",
+                  "text": "The Kitsos Makris Folklore Museum in Volos is dedicated to local traditions.",
+                  "category": "museum",
+                  "coords": [
+                        22.961432,
+                        39.357206
+                  ]
+            },
+            {
+                  "name": "Μουσείο Θεόφιλου (οικία Κοντού)",
+                  "text": "The Theophilos Museum in Volos is housed in the Kontos house.",
+                  "category": "museum",
+                  "coords": [
+                        22.975701,
+                        39.383067
+                  ]
+            },
+            {
+                  "name": "Castle of Palia",
+                  "text": "The Castle of Palia is a historic structure in Volos.",
+                  "category": "castle",
+                  "coords": [
+                        22.933295,
+                        39.365027
+                  ]
+            },
+            {
+                  "name": "Fortification of Episkopi",
+                  "text": "The Episkopi fortification is located in Volos.",
+                  "category": "castle",
+                  "coords": [
+                        22.981109,
+                        39.375318
+                  ]
+            },
+            {
+                  "name": "Μουσείο Εθνικής Αντίστασης",
+                  "text": "The National Resistance Museum in Volos commemorates historical events.",
+                  "category": "museum",
+                  "coords": [
+                        22.932639,
+                        39.373391
+                  ]
+            },
+            {
+                  "name": "ΠΙνακοθήκη Χρυσούλας Ζιώγα",
+                  "text": "The Chrysoula Zioga Art Gallery is a museum in Volos.",
+                  "category": "museum",
+                  "coords": [
+                        22.957757,
+                        39.358868
+                  ]
+            },
+            {
+                  "name": "Θερινό Δημοτικό Θέτρο Μελίνα Μερκούρη",
+                  "text": "The Melina Mercouri Summer Theatre is a venue in Volos.",
+                  "category": "cultural",
+                  "coords": [
+                        22.939792,
+                        39.363139
+                  ]
+            },
+            {
+                  "name": "Αρχαίο Παλάτι Δημητριάδας",
+                  "text": "The archaeological site Palace of Demetrias is a historical location in Volos.",
+                  "category": "historical",
+                  "coords": [
+                        22.93272,
+                        39.342757
+                  ]
+            },
+            {
+                  "name": "Ancient Theater of Demetrias",
+                  "text": "The Ancient Theater of Demetrias is a significant archaeological site in Volos.",
+                  "category": "historical",
+                  "coords": [
+                        22.924342,
+                        39.343453
+                  ]
+            },
+            {
+                  "name": "Θεατράκι Πολυτεχνικής Σχολής",
+                  "text": "The Polytechnic School Theatre is a venue in Volos.",
+                  "category": "cultural",
+                  "coords": [
+                        22.930237,
+                        39.359493
+                  ]
+            },
+            {
+                  "name": "Αθανασάκειο Αρχαιολογικό Μουσείο",
+                  "text": "The Athanasakeion Archaeological Museum houses significant finds from the Volos region.",
+                  "category": "museum",
+                  "coords": [
+                        22.961191,
+                        39.351716
+                  ]
+            },
+            {
+                  "name": "Volos City Museum",
+                  "text": "The Volos City Museum documents the history of the city.",
+                  "category": "museum",
+                  "coords": [
+                        22.935724,
+                        39.363987
+                  ]
+            },
+            {
+                  "name": "Μουσείο Μεταξουργείου Αφών Ετμεκτζόγλου",
+                  "text": "The Ekmektzoglou Silk Museum in Volos displays the region's industrial history.",
+                  "category": "museum",
+                  "coords": [
+                        22.938721,
+                        39.371966
+                  ]
+            },
+            {
+                  "name": "Πλατεία Ντε Κίρικο",
+                  "text": "De Chirico Square is a public space in Volos.",
+                  "category": "cultural",
+                  "coords": [
+                        22.942418,
+                        39.36252
+                  ]
+            },
+            {
+                  "name": "θεατράκι του Αναύρου",
+                  "text": "The small theater of Anavros is an outdoor stage in Volos.",
+                  "category": "cultural",
+                  "coords": [
+                        22.959917,
+                        39.350775
+                  ]
+            },
+            {
+                  "name": "Παλαιοχριστιανική Βασιλική Α΄ της Δαμοκρατίας",
+                  "text": "The early Christian Basilica of Damokratia is an archaeological site in Volos.",
+                  "category": "historical",
+                  "coords": [
+                        22.929901,
+                        39.345132
+                  ]
+            },
+            {
+                  "name": "Αργώ",
+                  "text": "The Argo monument commemorates the famous ship of the Argonauts in Volos.",
+                  "category": "historical",
+                  "coords": [
+                        22.944959,
+                        39.359838
+                  ]
+            },
+            {
+                  "name": "Ancient Wells - Water Tanks",
+                  "text": "Historical attraction in Volos featuring ancient wells and water tanks.",
+                  "category": "landmark",
+                  "coords": [
+                        22.975518,
+                        39.354382
+                  ]
+            },
+            {
+                  "name": "Εργαστήρια Εικαστικών Τεχνών Δήμου Βόλου",
+                  "text": "Visual arts centre in Volos offering various creative activities.",
+                  "category": "cultural",
+                  "coords": [
+                        22.962903,
+                        39.368178
+                  ]
+            },
+            {
+                  "name": "Triple Gauge Railway",
+                  "text": "A unique attraction in Volos known for its historic railway technology.",
+                  "category": "landmark",
+                  "coords": [
+                        22.955384,
+                        39.356107
+                  ]
+            },
+            {
+                  "name": "ΙΩΝΕΣ | Πολιτιστική Εστία Μικρασιατών Νέας Ιωνίας Μαγνησίας",
+                  "text": "Cultural centre for the Asia Minor community in Nea Ionia, Volos.",
+                  "category": "landmark",
+                  "coords": [
+                        22.931977,
+                        39.37473
+                  ]
+            },
+            {
+                  "name": "Β' Κέντρο Δημιουργικής Απασχόλησης Παιδιών",
+                  "text": "Centre for creative childcare and recreational activities in Volos.",
+                  "category": "cultural",
+                  "coords": [
+                        22.952387,
+                        39.372043
+                  ]
+            },
+            {
+                  "name": "Πολιτιστικός Οργανισμός Ν. Ιωνίας - Τμήμα Ζωγραφικής-Κεραμικής",
+                  "text": "Centre for painting and ceramics in Nea Ionia, Volos.",
+                  "category": "cultural",
+                  "coords": [
+                        22.931067,
+                        39.370735
+                  ]
+            },
+            {
+                  "name": "St Nicholas Church",
+                  "text": "St Nicholas Church is a prominent place of worship in Volos.",
+                  "category": "religious",
+                  "coords": [
+                        22.949476,
+                        39.360614
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "port",
     name: { de: "Volos", hu: "Vólosz", ro: "Volos", en: "Volos"},
@@ -2885,7 +4010,160 @@ imageHint: "Chania Venetian harbor and lighthouse",
     },
   },
   {
-    id: "greece-ierapetra-cities-v2",
+    id: "greece-ierapetra-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Agia Fotia",
+                  "text": "Agia Fotia ist ein bekannter Strand in Ierapetra, der für seine malerische Bucht geschätzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        25.876349,
+                        35.021918
+                  ]
+            },
+            {
+                  "name": "Kakkos",
+                  "text": "Kakkos ist ein schöner Strand in Ierapetra.",
+                  "category": "recreational",
+                  "coords": [
+                        25.839982,
+                        35.011101
+                  ]
+            },
+            {
+                  "name": "Paralia Tis Grias To Pidima",
+                  "text": "Paralia Tis Grias To Pidima ist ein markanter Strand in Ierapetra.",
+                  "category": "recreational",
+                  "coords": [
+                        25.8982,
+                        35.0283
+                  ]
+            },
+            {
+                  "name": "Mare blue Crete",
+                  "text": "Mare blue Crete ist ein Strandabschnitt in der Nähe von Ierapetra.",
+                  "category": "recreational",
+                  "coords": [
+                        25.835134,
+                        35.0099
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Agia Fotia",
+                  "text": "Az Agia Fotia egy ismert strand Ierapetra városában, mely festői öbléről híres.",
+                  "category": "recreational",
+                  "coords": [
+                        25.876349,
+                        35.021918
+                  ]
+            },
+            {
+                  "name": "Kakkos",
+                  "text": "A Kakkos egy szép strand Ierapetra területén.",
+                  "category": "recreational",
+                  "coords": [
+                        25.839982,
+                        35.011101
+                  ]
+            },
+            {
+                  "name": "Paralia Tis Grias To Pidima",
+                  "text": "A Paralia Tis Grias To Pidima egy jellegzetes strand Ierapetra városában.",
+                  "category": "recreational",
+                  "coords": [
+                        25.8982,
+                        35.0283
+                  ]
+            },
+            {
+                  "name": "Mare blue Crete",
+                  "text": "A Mare blue Crete egy strandszakasz Ierapetra közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        25.835134,
+                        35.0099
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Agia Fotia",
+                  "text": "Agia Fotia este o plajă cunoscută în Ierapetra, apreciată pentru golful său pitoresc.",
+                  "category": "recreational",
+                  "coords": [
+                        25.876349,
+                        35.021918
+                  ]
+            },
+            {
+                  "name": "Kakkos",
+                  "text": "Kakkos este o plajă frumoasă situată în Ierapetra.",
+                  "category": "recreational",
+                  "coords": [
+                        25.839982,
+                        35.011101
+                  ]
+            },
+            {
+                  "name": "Paralia Tis Grias To Pidima",
+                  "text": "Paralia Tis Grias To Pidima este o plajă distinctivă în Ierapetra.",
+                  "category": "recreational",
+                  "coords": [
+                        25.8982,
+                        35.0283
+                  ]
+            },
+            {
+                  "name": "Mare blue Crete",
+                  "text": "Mare blue Crete este o zonă de plajă în apropiere de Ierapetra.",
+                  "category": "recreational",
+                  "coords": [
+                        25.835134,
+                        35.0099
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Agia Fotia",
+                  "text": "Agia Fotia is a well-known beach in Ierapetra, recognized for its picturesque bay.",
+                  "category": "recreational",
+                  "coords": [
+                        25.876349,
+                        35.021918
+                  ]
+            },
+            {
+                  "name": "Kakkos",
+                  "text": "Kakkos is a beautiful beach situated in Ierapetra.",
+                  "category": "recreational",
+                  "coords": [
+                        25.839982,
+                        35.011101
+                  ]
+            },
+            {
+                  "name": "Paralia Tis Grias To Pidima",
+                  "text": "Paralia Tis Grias To Pidima is a distinctive beach located in Ierapetra.",
+                  "category": "recreational",
+                  "coords": [
+                        25.8982,
+                        35.0283
+                  ]
+            },
+            {
+                  "name": "Mare blue Crete",
+                  "text": "Mare blue Crete is a beach area near Ierapetra.",
+                  "category": "recreational",
+                  "coords": [
+                        25.835134,
+                        35.0099
+                  ]
+            }
+      ]
+},
     parent: "GR",
     type: "city",
     name: { de: "Ierapetra", hu: "Ierápetra", ro: "Ierapetra", en: "Ierapetra"},
@@ -3067,7 +4345,340 @@ imageHint: "Chania Venetian harbor and lighthouse",
     image: "/poi-images/greece-naoussa-cities-v2.webp",
   },
   {
-    id: "greece-salamina-cities-v2",
+    id: "greece-salamina-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Paralia Agiou Nikolaou",
+                  "text": "Paralia Agiou Nikolaou ist ein Strand auf der Insel Salamina.",
+                  "category": "recreational",
+                  "coords": [
+                        23.462222,
+                        37.879484
+                  ]
+            },
+            {
+                  "name": "Paralia Peramatos",
+                  "text": "Paralia Peramatos ist ein Strand am Meer in Salamina.",
+                  "category": "recreational",
+                  "coords": [
+                        23.556164,
+                        37.965585
+                  ]
+            },
+            {
+                  "name": "Dimitrani",
+                  "text": "Dimitrani ist ein Strand in Salamina.",
+                  "category": "recreational",
+                  "coords": [
+                        23.494182,
+                        37.900724
+                  ]
+            },
+            {
+                  "name": "Charoupias",
+                  "text": "Charoupias ist ein Strand in Salamina.",
+                  "category": "recreational",
+                  "coords": [
+                        23.513685,
+                        37.903695
+                  ]
+            },
+            {
+                  "name": "Porto Fino",
+                  "text": "Porto Fino ist ein Küstenstrand in Salamina.",
+                  "category": "recreational",
+                  "coords": [
+                        23.514758,
+                        37.905001
+                  ]
+            },
+            {
+                  "name": "Ntoulapi",
+                  "text": "Ntoulapi ist ein Strand in der Gegend von Salamina.",
+                  "category": "recreational",
+                  "coords": [
+                        23.512831,
+                        37.901232
+                  ]
+            },
+            {
+                  "name": "Perani",
+                  "text": "Perani ist ein Strand am Meer in Salamina.",
+                  "category": "recreational",
+                  "coords": [
+                        23.485124,
+                        37.897359
+                  ]
+            },
+            {
+                  "name": "Kyriza",
+                  "text": "Kyriza ist ein Strandziel in Salamina.",
+                  "category": "recreational",
+                  "coords": [
+                        23.489278,
+                        37.900235
+                  ]
+            },
+            {
+                  "name": "Kaki Vigla",
+                  "text": "Kaki Vigla ist ein Strand in der Stadt Salamina.",
+                  "category": "recreational",
+                  "coords": [
+                        23.512317,
+                        37.912803
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Paralia Agiou Nikolaou",
+                  "text": "Paralia Agiou Nikolaou egy strand Salamina szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        23.462222,
+                        37.879484
+                  ]
+            },
+            {
+                  "name": "Paralia Peramatos",
+                  "text": "Paralia Peramatos egy tengerparti hely Salaminában.",
+                  "category": "recreational",
+                  "coords": [
+                        23.556164,
+                        37.965585
+                  ]
+            },
+            {
+                  "name": "Dimitrani",
+                  "text": "Dimitrani egy strand Salamina területén.",
+                  "category": "recreational",
+                  "coords": [
+                        23.494182,
+                        37.900724
+                  ]
+            },
+            {
+                  "name": "Charoupias",
+                  "text": "Charoupias egy strand Salaminában.",
+                  "category": "recreational",
+                  "coords": [
+                        23.513685,
+                        37.903695
+                  ]
+            },
+            {
+                  "name": "Porto Fino",
+                  "text": "Porto Fino egy tengerparti strand Salaminában.",
+                  "category": "recreational",
+                  "coords": [
+                        23.514758,
+                        37.905001
+                  ]
+            },
+            {
+                  "name": "Ntoulapi",
+                  "text": "Ntoulapi egy strand Salamina térségében.",
+                  "category": "recreational",
+                  "coords": [
+                        23.512831,
+                        37.901232
+                  ]
+            },
+            {
+                  "name": "Perani",
+                  "text": "Perani egy tengerparti strand Salaminában.",
+                  "category": "recreational",
+                  "coords": [
+                        23.485124,
+                        37.897359
+                  ]
+            },
+            {
+                  "name": "Kyriza",
+                  "text": "Kyriza egy strand Salamina területén.",
+                  "category": "recreational",
+                  "coords": [
+                        23.489278,
+                        37.900235
+                  ]
+            },
+            {
+                  "name": "Kaki Vigla",
+                  "text": "Kaki Vigla egy strand Salamina városában.",
+                  "category": "recreational",
+                  "coords": [
+                        23.512317,
+                        37.912803
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Paralia Agiou Nikolaou",
+                  "text": "Paralia Agiou Nikolaou este o plajă situată pe insula Salamina.",
+                  "category": "recreational",
+                  "coords": [
+                        23.462222,
+                        37.879484
+                  ]
+            },
+            {
+                  "name": "Paralia Peramatos",
+                  "text": "Paralia Peramatos este un loc la malul mării situat în Salamina.",
+                  "category": "recreational",
+                  "coords": [
+                        23.556164,
+                        37.965585
+                  ]
+            },
+            {
+                  "name": "Dimitrani",
+                  "text": "Dimitrani este o plajă aflată în Salamina.",
+                  "category": "recreational",
+                  "coords": [
+                        23.494182,
+                        37.900724
+                  ]
+            },
+            {
+                  "name": "Charoupias",
+                  "text": "Charoupias este o plajă situată în Salamina.",
+                  "category": "recreational",
+                  "coords": [
+                        23.513685,
+                        37.903695
+                  ]
+            },
+            {
+                  "name": "Porto Fino",
+                  "text": "Porto Fino este o plajă de coastă situată în Salamina.",
+                  "category": "recreational",
+                  "coords": [
+                        23.514758,
+                        37.905001
+                  ]
+            },
+            {
+                  "name": "Ntoulapi",
+                  "text": "Ntoulapi este o plajă aflată în zona Salamina.",
+                  "category": "recreational",
+                  "coords": [
+                        23.512831,
+                        37.901232
+                  ]
+            },
+            {
+                  "name": "Perani",
+                  "text": "Perani este o plajă la malul mării situată în Salamina.",
+                  "category": "recreational",
+                  "coords": [
+                        23.485124,
+                        37.897359
+                  ]
+            },
+            {
+                  "name": "Kyriza",
+                  "text": "Kyriza este o destinație de plajă aflată în Salamina.",
+                  "category": "recreational",
+                  "coords": [
+                        23.489278,
+                        37.900235
+                  ]
+            },
+            {
+                  "name": "Kaki Vigla",
+                  "text": "Kaki Vigla este o plajă situată în orașul Salamina.",
+                  "category": "recreational",
+                  "coords": [
+                        23.512317,
+                        37.912803
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Paralia Agiou Nikolaou",
+                  "text": "Paralia Agiou Nikolaou is a beach located on the island of Salamina.",
+                  "category": "recreational",
+                  "coords": [
+                        23.462222,
+                        37.879484
+                  ]
+            },
+            {
+                  "name": "Paralia Peramatos",
+                  "text": "Paralia Peramatos is a seaside spot located in Salamina.",
+                  "category": "recreational",
+                  "coords": [
+                        23.556164,
+                        37.965585
+                  ]
+            },
+            {
+                  "name": "Dimitrani",
+                  "text": "Dimitrani is a beach located in Salamina.",
+                  "category": "recreational",
+                  "coords": [
+                        23.494182,
+                        37.900724
+                  ]
+            },
+            {
+                  "name": "Charoupias",
+                  "text": "Charoupias is a beach situated in Salamina.",
+                  "category": "recreational",
+                  "coords": [
+                        23.513685,
+                        37.903695
+                  ]
+            },
+            {
+                  "name": "Porto Fino",
+                  "text": "Porto Fino is a coastal beach located in Salamina.",
+                  "category": "recreational",
+                  "coords": [
+                        23.514758,
+                        37.905001
+                  ]
+            },
+            {
+                  "name": "Ntoulapi",
+                  "text": "Ntoulapi is a beach found in the area of Salamina.",
+                  "category": "recreational",
+                  "coords": [
+                        23.512831,
+                        37.901232
+                  ]
+            },
+            {
+                  "name": "Perani",
+                  "text": "Perani is a seaside beach located in Salamina.",
+                  "category": "recreational",
+                  "coords": [
+                        23.485124,
+                        37.897359
+                  ]
+            },
+            {
+                  "name": "Kyriza",
+                  "text": "Kyriza is a beach destination located in Salamina.",
+                  "category": "recreational",
+                  "coords": [
+                        23.489278,
+                        37.900235
+                  ]
+            },
+            {
+                  "name": "Kaki Vigla",
+                  "text": "Kaki Vigla is a beach located in the city of Salamina.",
+                  "category": "recreational",
+                  "coords": [
+                        23.512317,
+                        37.912803
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GR",
     name: { de: "Salamina", hu: "Szalamína", ro: "Salamina", en: "Salamina" },
@@ -3338,7 +4949,232 @@ imageHint: "Chania Venetian harbor and lighthouse",
     image: "/poi-images/greece-sofades-cities-v2.webp",
   },
   {
-    id: "greece-neanemoudania-cities-v2",
+    id: "greece-neanemoudania-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lagoon",
+                  "text": "Lagoon ist ein wunderschöner Strandort in Nea Moudania.",
+                  "category": "recreational",
+                  "coords": [
+                        23.332155,
+                        40.213758
+                  ]
+            },
+            {
+                  "name": "Portes Beach",
+                  "text": "Portes Beach ist ein Strandbereich in Nea Moudania.",
+                  "category": "recreational",
+                  "coords": [
+                        23.315593,
+                        40.217322
+                  ]
+            },
+            {
+                  "name": "Plagia-Flogita Beach",
+                  "text": "Plagia-Flogita Beach ist ein Küstenabschnitt in Nea Moudania.",
+                  "category": "recreational",
+                  "coords": [
+                        23.213397,
+                        40.254921
+                  ]
+            },
+            {
+                  "name": "agjio mama",
+                  "text": "Agjio mama ist ein Strand in der Nähe von Nea Moudania.",
+                  "category": "recreational",
+                  "coords": [
+                        23.358468,
+                        40.248353
+                  ]
+            },
+            {
+                  "name": "Pomegranate Spa Hotel",
+                  "text": "Der Strand am Pomegranate Spa Hotel bietet Zugang zur Küste in Nea Moudania.",
+                  "category": "recreational",
+                  "coords": [
+                        23.321448,
+                        40.206775
+                  ]
+            },
+            {
+                  "name": "Portes Beach Hotel",
+                  "text": "Das Portes Beach Hotel verfügt über einen Strandbereich in Nea Moudania.",
+                  "category": "recreational",
+                  "coords": [
+                        23.319264,
+                        40.21401
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lagoon",
+                  "text": "A Lagoon egy gyönyörű tengerparti hely Nea Moudaniában.",
+                  "category": "recreational",
+                  "coords": [
+                        23.332155,
+                        40.213758
+                  ]
+            },
+            {
+                  "name": "Portes Beach",
+                  "text": "A Portes Beach egy strand Nea Moudania városában.",
+                  "category": "recreational",
+                  "coords": [
+                        23.315593,
+                        40.217322
+                  ]
+            },
+            {
+                  "name": "Plagia-Flogita Beach",
+                  "text": "A Plagia-Flogita Beach egy tengerparti szakasz Nea Moudania közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        23.213397,
+                        40.254921
+                  ]
+            },
+            {
+                  "name": "agjio mama",
+                  "text": "Az agjio mama egy strand Nea Moudania közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        23.358468,
+                        40.248353
+                  ]
+            },
+            {
+                  "name": "Pomegranate Spa Hotel",
+                  "text": "A Pomegranate Spa Hotel strandja parti hozzáférést biztosít Nea Moudaniában.",
+                  "category": "recreational",
+                  "coords": [
+                        23.321448,
+                        40.206775
+                  ]
+            },
+            {
+                  "name": "Portes Beach Hotel",
+                  "text": "A Portes Beach Hotel egy tengerparti résszel rendelkezik Nea Moudaniában.",
+                  "category": "recreational",
+                  "coords": [
+                        23.319264,
+                        40.21401
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lagoon",
+                  "text": "Lagoon este o locație frumoasă de plajă în Nea Moudania.",
+                  "category": "recreational",
+                  "coords": [
+                        23.332155,
+                        40.213758
+                  ]
+            },
+            {
+                  "name": "Portes Beach",
+                  "text": "Portes Beach este o plajă situată în Nea Moudania.",
+                  "category": "recreational",
+                  "coords": [
+                        23.315593,
+                        40.217322
+                  ]
+            },
+            {
+                  "name": "Plagia-Flogita Beach",
+                  "text": "Plagia-Flogita Beach este o porțiune de coastă în Nea Moudania.",
+                  "category": "recreational",
+                  "coords": [
+                        23.213397,
+                        40.254921
+                  ]
+            },
+            {
+                  "name": "agjio mama",
+                  "text": "Agjio mama este o plajă aflată lângă Nea Moudania.",
+                  "category": "recreational",
+                  "coords": [
+                        23.358468,
+                        40.248353
+                  ]
+            },
+            {
+                  "name": "Pomegranate Spa Hotel",
+                  "text": "Plaja de la Pomegranate Spa Hotel oferă acces la coastă în Nea Moudania.",
+                  "category": "recreational",
+                  "coords": [
+                        23.321448,
+                        40.206775
+                  ]
+            },
+            {
+                  "name": "Portes Beach Hotel",
+                  "text": "Portes Beach Hotel dispune de o zonă de plajă în Nea Moudania.",
+                  "category": "recreational",
+                  "coords": [
+                        23.319264,
+                        40.21401
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lagoon",
+                  "text": "Lagoon is a beautiful beach location in Nea Moudania.",
+                  "category": "recreational",
+                  "coords": [
+                        23.332155,
+                        40.213758
+                  ]
+            },
+            {
+                  "name": "Portes Beach",
+                  "text": "Portes Beach is a beach area located in Nea Moudania.",
+                  "category": "recreational",
+                  "coords": [
+                        23.315593,
+                        40.217322
+                  ]
+            },
+            {
+                  "name": "Plagia-Flogita Beach",
+                  "text": "Plagia-Flogita Beach is a sandy coastline situated in Nea Moudania.",
+                  "category": "recreational",
+                  "coords": [
+                        23.213397,
+                        40.254921
+                  ]
+            },
+            {
+                  "name": "agjio mama",
+                  "text": "Agjio mama is a beach located near Nea Moudania.",
+                  "category": "recreational",
+                  "coords": [
+                        23.358468,
+                        40.248353
+                  ]
+            },
+            {
+                  "name": "Pomegranate Spa Hotel",
+                  "text": "The beach at Pomegranate Spa Hotel offers coastal access in Nea Moudania.",
+                  "category": "recreational",
+                  "coords": [
+                        23.321448,
+                        40.206775
+                  ]
+            },
+            {
+                  "name": "Portes Beach Hotel",
+                  "text": "Portes Beach Hotel features a beachfront area in Nea Moudania.",
+                  "category": "recreational",
+                  "coords": [
+                        23.319264,
+                        40.21401
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GR",
     name: { de: "Nea Moudania", hu: "Nea Moudania", ro: "Nea Moudania", en: "Nea Moudania" },
@@ -3788,7 +5624,160 @@ imageHint: "Chania Venetian harbor and lighthouse",
     image: "/poi-images/greece-lefkimmi-cities-v2.webp",
   },
   {
-    id: "greece-oropou-cities-v2",
+    id: "greece-oropou-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Akrotiri Beach",
+                  "text": "Akrotiri Beach ist ein malerischer Küstenort in Oropos.",
+                  "category": "recreational",
+                  "coords": [
+                        23.764083,
+                        38.337054
+                  ]
+            },
+            {
+                  "name": "Agios Konstantinos Beach",
+                  "text": "Agios Konstantinos Beach ist ein angenehmer Sandstrand in Oropos.",
+                  "category": "recreational",
+                  "coords": [
+                        23.777942,
+                        38.331889
+                  ]
+            },
+            {
+                  "name": "Saint Paraskevi Beach",
+                  "text": "Saint Paraskevi Beach bietet ein entspannendes Meereserlebnis in Oropos.",
+                  "category": "recreational",
+                  "coords": [
+                        23.752334,
+                        38.336061
+                  ]
+            },
+            {
+                  "name": "Paralia Agrilezas",
+                  "text": "Paralia Agrilezas ist eine lokale Strandattraktion in Oropos.",
+                  "category": "recreational",
+                  "coords": [
+                        23.689208,
+                        38.339828
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Akrotiri Beach",
+                  "text": "Az Akrotiri Beach egy festői tengerparti hely Oropószban.",
+                  "category": "recreational",
+                  "coords": [
+                        23.764083,
+                        38.337054
+                  ]
+            },
+            {
+                  "name": "Agios Konstantinos Beach",
+                  "text": "Az Agios Konstantinos Beach egy kellemes homokos partszakasz Oropószban.",
+                  "category": "recreational",
+                  "coords": [
+                        23.777942,
+                        38.331889
+                  ]
+            },
+            {
+                  "name": "Saint Paraskevi Beach",
+                  "text": "A Saint Paraskevi Beach pihentető tengerparti élményt kínál Oropószban.",
+                  "category": "recreational",
+                  "coords": [
+                        23.752334,
+                        38.336061
+                  ]
+            },
+            {
+                  "name": "Paralia Agrilezas",
+                  "text": "A Paralia Agrilezas egy helyi tengerparti látványosság Oropószban.",
+                  "category": "recreational",
+                  "coords": [
+                        23.689208,
+                        38.339828
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Akrotiri Beach",
+                  "text": "Akrotiri Beach este un loc de coastă pitoresc situat în Oropos.",
+                  "category": "recreational",
+                  "coords": [
+                        23.764083,
+                        38.337054
+                  ]
+            },
+            {
+                  "name": "Agios Konstantinos Beach",
+                  "text": "Agios Konstantinos Beach este o întindere plăcută de nisip în Oropos.",
+                  "category": "recreational",
+                  "coords": [
+                        23.777942,
+                        38.331889
+                  ]
+            },
+            {
+                  "name": "Saint Paraskevi Beach",
+                  "text": "Saint Paraskevi Beach oferă o experiență relaxantă pe litoral în Oropos.",
+                  "category": "recreational",
+                  "coords": [
+                        23.752334,
+                        38.336061
+                  ]
+            },
+            {
+                  "name": "Paralia Agrilezas",
+                  "text": "Paralia Agrilezas este o atracție locală de plajă situată în Oropos.",
+                  "category": "recreational",
+                  "coords": [
+                        23.689208,
+                        38.339828
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Akrotiri Beach",
+                  "text": "Akrotiri Beach is a scenic coastal spot located in Oropos.",
+                  "category": "recreational",
+                  "coords": [
+                        23.764083,
+                        38.337054
+                  ]
+            },
+            {
+                  "name": "Agios Konstantinos Beach",
+                  "text": "Agios Konstantinos Beach is a pleasant sandy stretch in Oropos.",
+                  "category": "recreational",
+                  "coords": [
+                        23.777942,
+                        38.331889
+                  ]
+            },
+            {
+                  "name": "Saint Paraskevi Beach",
+                  "text": "Saint Paraskevi Beach offers a relaxing seaside experience in Oropos.",
+                  "category": "recreational",
+                  "coords": [
+                        23.752334,
+                        38.336061
+                  ]
+            },
+            {
+                  "name": "Paralia Agrilezas",
+                  "text": "Paralia Agrilezas is a local beach attraction situated in Oropos.",
+                  "category": "recreational",
+                  "coords": [
+                        23.689208,
+                        38.339828
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GR",
     name: { de: "Skala Oropou", hu: "Skála Óropú", ro: "Skala Oropou", en: "Skala Oropou" },
@@ -4013,7 +6002,52 @@ imageHint: "Chania Venetian harbor and lighthouse",
     image: "/poi-images/greece-metsovo-cities-v2.webp",
   },
   {
-    id: "greece-amfilochia-cities-v2",
+    id: "greece-amfilochia-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Paralia Amfilochias",
+                  "text": "Paralia Amfilochias ist ein lokaler Strand, der Zugang zum Meer in Amphilohia bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        21.174976,
+                        38.867765
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Paralia Amfilochias",
+                  "text": "A Paralia Amfilochias egy helyi tengerparti strand, amely hozzáférést biztosít a tengerhez Amphilohia városában.",
+                  "category": "recreational",
+                  "coords": [
+                        21.174976,
+                        38.867765
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Paralia Amfilochias",
+                  "text": "Paralia Amfilochias este o plajă de coastă locală care oferă acces la mare în Amphilohia.",
+                  "category": "recreational",
+                  "coords": [
+                        21.174976,
+                        38.867765
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Paralia Amfilochias",
+                  "text": "Paralia Amfilochias is a local coastal beach providing access to the sea in Amphilohia.",
+                  "category": "recreational",
+                  "coords": [
+                        21.174976,
+                        38.867765
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GR",
     name: { de: "Amfilochia", hu: "Amfilohía", ro: "Amfilochia", en: "Amfilochia" },
@@ -4148,7 +6182,232 @@ imageHint: "Chania Venetian harbor and lighthouse",
     image: "/poi-images/greece-messini-cities-v2.webp",
   },
   {
-    id: "greece-patmos-cities-v2",
+    id: "greece-patmos-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Saint Theologos Beach",
+                  "text": "Saint Theologos Beach ist ein Strandabschnitt auf der Insel Patmos.",
+                  "category": "recreational",
+                  "coords": [
+                        26.543387,
+                        37.326105
+                  ]
+            },
+            {
+                  "name": "Sapsila",
+                  "text": "Sapsila ist ein Strandbereich auf Patmos.",
+                  "category": "recreational",
+                  "coords": [
+                        26.560898,
+                        37.311557
+                  ]
+            },
+            {
+                  "name": "Aspri",
+                  "text": "Aspri ist ein Strand auf der Insel Patmos.",
+                  "category": "recreational",
+                  "coords": [
+                        26.555874,
+                        37.326832
+                  ]
+            },
+            {
+                  "name": "Psili Ammos",
+                  "text": "Psili Ammos ist ein bekannter Sandstrand auf Patmos.",
+                  "category": "recreational",
+                  "coords": [
+                        26.545636,
+                        37.278312
+                  ]
+            },
+            {
+                  "name": "Livadi Kalogiron Beach",
+                  "text": "Livadi Kalogiron Beach ist ein Küstenabschnitt auf Patmos.",
+                  "category": "recreational",
+                  "coords": [
+                        26.562044,
+                        37.370152
+                  ]
+            },
+            {
+                  "name": "Paralia Xoxlakas",
+                  "text": "Paralia Xoxlakas ist ein Strand auf der Insel Patmos.",
+                  "category": "recreational",
+                  "coords": [
+                        26.538093,
+                        37.320679
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Saint Theologos Beach",
+                  "text": "A Saint Theologos Beach egy partszakasz Patmosz szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        26.543387,
+                        37.326105
+                  ]
+            },
+            {
+                  "name": "Sapsila",
+                  "text": "Sapsila egy strand Patmosz szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        26.560898,
+                        37.311557
+                  ]
+            },
+            {
+                  "name": "Aspri",
+                  "text": "Aspri egy part Patmosz szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        26.555874,
+                        37.326832
+                  ]
+            },
+            {
+                  "name": "Psili Ammos",
+                  "text": "A Psili Ammos egy ismert homokos strand Patmosz szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        26.545636,
+                        37.278312
+                  ]
+            },
+            {
+                  "name": "Livadi Kalogiron Beach",
+                  "text": "A Livadi Kalogiron Beach egy tengerparti rész Patmosz szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        26.562044,
+                        37.370152
+                  ]
+            },
+            {
+                  "name": "Paralia Xoxlakas",
+                  "text": "A Paralia Xoxlakas egy strand Patmosz szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        26.538093,
+                        37.320679
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Saint Theologos Beach",
+                  "text": "Saint Theologos Beach este un loc de coastă situat pe insula Patmos.",
+                  "category": "recreational",
+                  "coords": [
+                        26.543387,
+                        37.326105
+                  ]
+            },
+            {
+                  "name": "Sapsila",
+                  "text": "Sapsila este o plajă situată pe Patmos.",
+                  "category": "recreational",
+                  "coords": [
+                        26.560898,
+                        37.311557
+                  ]
+            },
+            {
+                  "name": "Aspri",
+                  "text": "Aspri este o plajă aflată pe insula Patmos.",
+                  "category": "recreational",
+                  "coords": [
+                        26.555874,
+                        37.326832
+                  ]
+            },
+            {
+                  "name": "Psili Ammos",
+                  "text": "Psili Ammos este o plajă de nisip cunoscută, situată pe Patmos.",
+                  "category": "recreational",
+                  "coords": [
+                        26.545636,
+                        37.278312
+                  ]
+            },
+            {
+                  "name": "Livadi Kalogiron Beach",
+                  "text": "Livadi Kalogiron Beach este o fâșie de coastă pe Patmos.",
+                  "category": "recreational",
+                  "coords": [
+                        26.562044,
+                        37.370152
+                  ]
+            },
+            {
+                  "name": "Paralia Xoxlakas",
+                  "text": "Paralia Xoxlakas este o plajă situată pe insula Patmos.",
+                  "category": "recreational",
+                  "coords": [
+                        26.538093,
+                        37.320679
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Saint Theologos Beach",
+                  "text": "Saint Theologos Beach is a coastal spot found on the island of Patmos.",
+                  "category": "recreational",
+                  "coords": [
+                        26.543387,
+                        37.326105
+                  ]
+            },
+            {
+                  "name": "Sapsila",
+                  "text": "Sapsila is a beach area located on Patmos.",
+                  "category": "recreational",
+                  "coords": [
+                        26.560898,
+                        37.311557
+                  ]
+            },
+            {
+                  "name": "Aspri",
+                  "text": "Aspri is a beach situated on the island of Patmos.",
+                  "category": "recreational",
+                  "coords": [
+                        26.555874,
+                        37.326832
+                  ]
+            },
+            {
+                  "name": "Psili Ammos",
+                  "text": "Psili Ammos is a well-known sandy beach located on Patmos.",
+                  "category": "recreational",
+                  "coords": [
+                        26.545636,
+                        37.278312
+                  ]
+            },
+            {
+                  "name": "Livadi Kalogiron Beach",
+                  "text": "Livadi Kalogiron Beach is a coastal stretch on Patmos.",
+                  "category": "recreational",
+                  "coords": [
+                        26.562044,
+                        37.370152
+                  ]
+            },
+            {
+                  "name": "Paralia Xoxlakas",
+                  "text": "Paralia Xoxlakas is a beach located on the island of Patmos.",
+                  "category": "recreational",
+                  "coords": [
+                        26.538093,
+                        37.320679
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GR",
     name: { de: "Patmos Stadt", hu: "Pátmosz város", ro: "Patmos", en: "Patmos Town" },
@@ -4868,7 +7127,196 @@ imageHint: "Chania Venetian harbor and lighthouse",
     image: "/poi-images/greece-kimolos-town-cities-v2.webp",
   },
   {
-    id: "greece-sikinos-town-cities-v2",
+    id: "greece-sikinos-town-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dialiskari",
+                  "text": "Dialiskari ist ein Strand in Sikinos.",
+                  "category": "recreational",
+                  "coords": [
+                        25.155853,
+                        36.686831
+                  ]
+            },
+            {
+                  "name": "Aghios Georgios",
+                  "text": "Aghios Georgios ist ein Strand in Sikinos.",
+                  "category": "recreational",
+                  "coords": [
+                        25.166388,
+                        36.693583
+                  ]
+            },
+            {
+                  "name": "Malta",
+                  "text": "Malta ist ein Strand in Sikinos.",
+                  "category": "recreational",
+                  "coords": [
+                        25.175582,
+                        36.708607
+                  ]
+            },
+            {
+                  "name": "Aghios Panteleimonas",
+                  "text": "Aghios Panteleimonas ist ein Strand in Sikinos.",
+                  "category": "recreational",
+                  "coords": [
+                        25.122646,
+                        36.659418
+                  ]
+            },
+            {
+                  "name": "Santorineika",
+                  "text": "Santorineika ist ein Strand in Sikinos.",
+                  "category": "recreational",
+                  "coords": [
+                        25.110795,
+                        36.652202
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dialiskari",
+                  "text": "A Dialiskari egy strand Sikinos területén.",
+                  "category": "recreational",
+                  "coords": [
+                        25.155853,
+                        36.686831
+                  ]
+            },
+            {
+                  "name": "Aghios Georgios",
+                  "text": "Az Aghios Georgios egy strand Sikinos területén.",
+                  "category": "recreational",
+                  "coords": [
+                        25.166388,
+                        36.693583
+                  ]
+            },
+            {
+                  "name": "Malta",
+                  "text": "A Malta egy strand Sikinos területén.",
+                  "category": "recreational",
+                  "coords": [
+                        25.175582,
+                        36.708607
+                  ]
+            },
+            {
+                  "name": "Aghios Panteleimonas",
+                  "text": "Az Aghios Panteleimonas egy strand Sikinos területén.",
+                  "category": "recreational",
+                  "coords": [
+                        25.122646,
+                        36.659418
+                  ]
+            },
+            {
+                  "name": "Santorineika",
+                  "text": "A Santorineika egy strand Sikinos területén.",
+                  "category": "recreational",
+                  "coords": [
+                        25.110795,
+                        36.652202
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dialiskari",
+                  "text": "Dialiskari este o plajă situată în Sikinos.",
+                  "category": "recreational",
+                  "coords": [
+                        25.155853,
+                        36.686831
+                  ]
+            },
+            {
+                  "name": "Aghios Georgios",
+                  "text": "Aghios Georgios este o plajă situată în Sikinos.",
+                  "category": "recreational",
+                  "coords": [
+                        25.166388,
+                        36.693583
+                  ]
+            },
+            {
+                  "name": "Malta",
+                  "text": "Malta este o plajă situată în Sikinos.",
+                  "category": "recreational",
+                  "coords": [
+                        25.175582,
+                        36.708607
+                  ]
+            },
+            {
+                  "name": "Aghios Panteleimonas",
+                  "text": "Aghios Panteleimonas este o plajă situată în Sikinos.",
+                  "category": "recreational",
+                  "coords": [
+                        25.122646,
+                        36.659418
+                  ]
+            },
+            {
+                  "name": "Santorineika",
+                  "text": "Santorineika este o plajă situată în Sikinos.",
+                  "category": "recreational",
+                  "coords": [
+                        25.110795,
+                        36.652202
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dialiskari",
+                  "text": "Dialiskari is a beach located in Sikinos.",
+                  "category": "recreational",
+                  "coords": [
+                        25.155853,
+                        36.686831
+                  ]
+            },
+            {
+                  "name": "Aghios Georgios",
+                  "text": "Aghios Georgios is a beach located in Sikinos.",
+                  "category": "recreational",
+                  "coords": [
+                        25.166388,
+                        36.693583
+                  ]
+            },
+            {
+                  "name": "Malta",
+                  "text": "Malta is a beach located in Sikinos.",
+                  "category": "recreational",
+                  "coords": [
+                        25.175582,
+                        36.708607
+                  ]
+            },
+            {
+                  "name": "Aghios Panteleimonas",
+                  "text": "Aghios Panteleimonas is a beach located in Sikinos.",
+                  "category": "recreational",
+                  "coords": [
+                        25.122646,
+                        36.659418
+                  ]
+            },
+            {
+                  "name": "Santorineika",
+                  "text": "Santorineika is a beach located in Sikinos.",
+                  "category": "recreational",
+                  "coords": [
+                        25.110795,
+                        36.652202
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GR",
     name: { de: "Sikinos Stadt", hu: "Szíkinojsz város", ro: "Sikinos Town", en: "Sikinos Town" },
@@ -4913,7 +7361,376 @@ imageHint: "Chania Venetian harbor and lighthouse",
     image: "/poi-images/greece-sikinos-town-cities-v2.webp",
   },
   {
-    id: "greece-folegandros-town-cities-v2",
+    id: "greece-folegandros-town-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Latinaki",
+                  "text": "Latinaki ist ein ruhiger Strand auf der Insel Folegandros.",
+                  "category": "recreational",
+                  "coords": [
+                        24.951058,
+                        36.610949
+                  ]
+            },
+            {
+                  "name": "Agios Nikolaos",
+                  "text": "Agios Nikolaos ist ein beliebter Strandbereich in Folegandros.",
+                  "category": "recreational",
+                  "coords": [
+                        24.884701,
+                        36.630281
+                  ]
+            },
+            {
+                  "name": "Agios Georgios",
+                  "text": "Agios Georgios ist ein Strandziel an der Küste von Folegandros.",
+                  "category": "recreational",
+                  "coords": [
+                        24.859904,
+                        36.664665
+                  ]
+            },
+            {
+                  "name": "Galifos",
+                  "text": "Galifos ist ein ruhiger Strand in der Region Folegandros.",
+                  "category": "recreational",
+                  "coords": [
+                        24.889529,
+                        36.631206
+                  ]
+            },
+            {
+                  "name": "Fira beach",
+                  "text": "Fira beach ist ein entspannender Ort am Meer in Folegandros.",
+                  "category": "recreational",
+                  "coords": [
+                        24.895436,
+                        36.628315
+                  ]
+            },
+            {
+                  "name": "Livadaki",
+                  "text": "Livadaki ist ein malerischer Strand an der Küste von Folegandros.",
+                  "category": "recreational",
+                  "coords": [
+                        24.859506,
+                        36.636606
+                  ]
+            },
+            {
+                  "name": "Abeli",
+                  "text": "Abeli ist ein Naturstrand in der Gegend von Folegandros.",
+                  "category": "recreational",
+                  "coords": [
+                        24.84581,
+                        36.650166
+                  ]
+            },
+            {
+                  "name": "Vitsentzou",
+                  "text": "Vitsentzou ist ein Strandabschnitt an der Küste von Folegandros.",
+                  "category": "recreational",
+                  "coords": [
+                        24.951311,
+                        36.610011
+                  ]
+            },
+            {
+                  "name": "Paralia Voreina",
+                  "text": "Paralia Voreina ist ein Strandziel auf der Insel Folegandros.",
+                  "category": "recreational",
+                  "coords": [
+                        24.907483,
+                        36.633503
+                  ]
+            },
+            {
+                  "name": "Paralia Ligaria",
+                  "text": "Paralia Ligaria ist ein malerischer Strand in Folegandros.",
+                  "category": "recreational",
+                  "coords": [
+                        24.856033,
+                        36.664405
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Latinaki",
+                  "text": "A Latinaki egy békés strand Folegandrosz szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        24.951058,
+                        36.610949
+                  ]
+            },
+            {
+                  "name": "Agios Nikolaos",
+                  "text": "Az Agios Nikolaos egy népszerű strand Folegandrosz területén.",
+                  "category": "recreational",
+                  "coords": [
+                        24.884701,
+                        36.630281
+                  ]
+            },
+            {
+                  "name": "Agios Georgios",
+                  "text": "Az Agios Georgios egy tengerparti strand Folegandrosz területén.",
+                  "category": "recreational",
+                  "coords": [
+                        24.859904,
+                        36.664665
+                  ]
+            },
+            {
+                  "name": "Galifos",
+                  "text": "A Galifos egy csendes strand Folegandrosz régiójában.",
+                  "category": "recreational",
+                  "coords": [
+                        24.889529,
+                        36.631206
+                  ]
+            },
+            {
+                  "name": "Fira beach",
+                  "text": "A Fira beach egy pihentető tengerparti hely Folegandrosz területén.",
+                  "category": "recreational",
+                  "coords": [
+                        24.895436,
+                        36.628315
+                  ]
+            },
+            {
+                  "name": "Livadaki",
+                  "text": "A Livadaki egy festői strand Folegandrosz partja mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        24.859506,
+                        36.636606
+                  ]
+            },
+            {
+                  "name": "Abeli",
+                  "text": "Az Abeli egy természetes strand Folegandrosz területén.",
+                  "category": "recreational",
+                  "coords": [
+                        24.84581,
+                        36.650166
+                  ]
+            },
+            {
+                  "name": "Vitsentzou",
+                  "text": "A Vitsentzou egy tengerparti strand Folegandrosz területén.",
+                  "category": "recreational",
+                  "coords": [
+                        24.951311,
+                        36.610011
+                  ]
+            },
+            {
+                  "name": "Paralia Voreina",
+                  "text": "A Paralia Voreina egy strand Folegandrosz szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        24.907483,
+                        36.633503
+                  ]
+            },
+            {
+                  "name": "Paralia Ligaria",
+                  "text": "A Paralia Ligaria egy festői strand Folegandrosz városában.",
+                  "category": "recreational",
+                  "coords": [
+                        24.856033,
+                        36.664405
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Latinaki",
+                  "text": "Latinaki este o plajă liniștită situată pe insula Folegandros.",
+                  "category": "recreational",
+                  "coords": [
+                        24.951058,
+                        36.610949
+                  ]
+            },
+            {
+                  "name": "Agios Nikolaos",
+                  "text": "Agios Nikolaos este o zonă de plajă populară situată în Folegandros.",
+                  "category": "recreational",
+                  "coords": [
+                        24.884701,
+                        36.630281
+                  ]
+            },
+            {
+                  "name": "Agios Georgios",
+                  "text": "Agios Georgios este o destinație de plajă pe coasta din Folegandros.",
+                  "category": "recreational",
+                  "coords": [
+                        24.859904,
+                        36.664665
+                  ]
+            },
+            {
+                  "name": "Galifos",
+                  "text": "Galifos este o plajă liniștită aflată în regiunea Folegandros.",
+                  "category": "recreational",
+                  "coords": [
+                        24.889529,
+                        36.631206
+                  ]
+            },
+            {
+                  "name": "Fira beach",
+                  "text": "Fira beach este un loc de relaxare la malul mării situat în Folegandros.",
+                  "category": "recreational",
+                  "coords": [
+                        24.895436,
+                        36.628315
+                  ]
+            },
+            {
+                  "name": "Livadaki",
+                  "text": "Livadaki este o plajă pitorească situată de-a lungul coastei din Folegandros.",
+                  "category": "recreational",
+                  "coords": [
+                        24.859506,
+                        36.636606
+                  ]
+            },
+            {
+                  "name": "Abeli",
+                  "text": "Abeli este o plajă naturală situată în zona Folegandros.",
+                  "category": "recreational",
+                  "coords": [
+                        24.84581,
+                        36.650166
+                  ]
+            },
+            {
+                  "name": "Vitsentzou",
+                  "text": "Vitsentzou este un punct de plajă pe coasta din Folegandros.",
+                  "category": "recreational",
+                  "coords": [
+                        24.951311,
+                        36.610011
+                  ]
+            },
+            {
+                  "name": "Paralia Voreina",
+                  "text": "Paralia Voreina este o destinație de plajă situată pe insula Folegandros.",
+                  "category": "recreational",
+                  "coords": [
+                        24.907483,
+                        36.633503
+                  ]
+            },
+            {
+                  "name": "Paralia Ligaria",
+                  "text": "Paralia Ligaria este o plajă pitorească situată în Folegandros.",
+                  "category": "recreational",
+                  "coords": [
+                        24.856033,
+                        36.664405
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Latinaki",
+                  "text": "Latinaki is a peaceful beach located on the island of Folegandros.",
+                  "category": "recreational",
+                  "coords": [
+                        24.951058,
+                        36.610949
+                  ]
+            },
+            {
+                  "name": "Agios Nikolaos",
+                  "text": "Agios Nikolaos is a popular beach area situated in Folegandros.",
+                  "category": "recreational",
+                  "coords": [
+                        24.884701,
+                        36.630281
+                  ]
+            },
+            {
+                  "name": "Agios Georgios",
+                  "text": "Agios Georgios is a coastal beach destination located in Folegandros.",
+                  "category": "recreational",
+                  "coords": [
+                        24.859904,
+                        36.664665
+                  ]
+            },
+            {
+                  "name": "Galifos",
+                  "text": "Galifos is a quiet beach found in the region of Folegandros.",
+                  "category": "recreational",
+                  "coords": [
+                        24.889529,
+                        36.631206
+                  ]
+            },
+            {
+                  "name": "Fira beach",
+                  "text": "Fira beach is a relaxing seaside spot located in Folegandros.",
+                  "category": "recreational",
+                  "coords": [
+                        24.895436,
+                        36.628315
+                  ]
+            },
+            {
+                  "name": "Livadaki",
+                  "text": "Livadaki is a scenic beach located along the coast of Folegandros.",
+                  "category": "recreational",
+                  "coords": [
+                        24.859506,
+                        36.636606
+                  ]
+            },
+            {
+                  "name": "Abeli",
+                  "text": "Abeli is a natural beach situated in the area of Folegandros.",
+                  "category": "recreational",
+                  "coords": [
+                        24.84581,
+                        36.650166
+                  ]
+            },
+            {
+                  "name": "Vitsentzou",
+                  "text": "Vitsentzou is a coastal beach spot located in Folegandros.",
+                  "category": "recreational",
+                  "coords": [
+                        24.951311,
+                        36.610011
+                  ]
+            },
+            {
+                  "name": "Paralia Voreina",
+                  "text": "Paralia Voreina is a beach destination situated on the island of Folegandros.",
+                  "category": "recreational",
+                  "coords": [
+                        24.907483,
+                        36.633503
+                  ]
+            },
+            {
+                  "name": "Paralia Ligaria",
+                  "text": "Paralia Ligaria is a picturesque beach located in Folegandros.",
+                  "category": "recreational",
+                  "coords": [
+                        24.856033,
+                        36.664405
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GR",
     name: { de: "Folegandros Stadt", hu: "Folegandrosz város", ro: "Folegandros Town", en: "Folegandros Town" },
@@ -4958,7 +7775,556 @@ imageHint: "Chania Venetian harbor and lighthouse",
     image: "/poi-images/greece-folegandros-town-cities-v2.webp",
   },
   {
-    id: "greece-anafi-town-cities-v2",
+    id: "greece-anafi-town-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ronkounas beach",
+                  "text": "Ronkounas ist ein langer Sandstrand auf der Insel Anafi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.795917,
+                        36.347405
+                  ]
+            },
+            {
+                  "name": "Kleisidi beach",
+                  "text": "Kleisidi ist ein Küstenort auf Anafi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.776936,
+                        36.34458
+                  ]
+            },
+            {
+                  "name": "Katsouni",
+                  "text": "Katsouni ist ein Strand auf der Insel Anafi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.780673,
+                        36.344199
+                  ]
+            },
+            {
+                  "name": "Kalagkathi",
+                  "text": "Kalagkathi ist ein Strand auf Anafi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.747276,
+                        36.381982
+                  ]
+            },
+            {
+                  "name": "Prasies",
+                  "text": "Prasies ist ein entspannender Strand in Anafi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.82412,
+                        36.354541
+                  ]
+            },
+            {
+                  "name": "Agioi Anargyroi",
+                  "text": "Agioi Anargyroi ist ein Küstenstrand in Anafi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.816519,
+                        36.353581
+                  ]
+            },
+            {
+                  "name": "Megas Potamos",
+                  "text": "Megas Potamos ist ein malerischer Strand in Anafi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.810847,
+                        36.352133
+                  ]
+            },
+            {
+                  "name": "Flamourou",
+                  "text": "Flamourou bietet eine natürliche Strandumgebung in Anafi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.783274,
+                        36.344855
+                  ]
+            },
+            {
+                  "name": "Livoskopos",
+                  "text": "Livoskopos ist ein ruhiges Strandziel in Anafi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.776758,
+                        36.395003
+                  ]
+            },
+            {
+                  "name": "Xetrypiti",
+                  "text": "Xetrypiti ist ein friedlicher Strand an der Küste von Anafi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.771468,
+                        36.344475
+                  ]
+            },
+            {
+                  "name": "Exo Roukounas",
+                  "text": "Exo Roukounas ist ein beliebter Strand in Anafi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.788485,
+                        36.345189
+                  ]
+            },
+            {
+                  "name": "Mikros Roukounas",
+                  "text": "Mikros Roukounas ist ein kleinerer Strandabschnitt in Anafi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.792237,
+                        36.345662
+                  ]
+            },
+            {
+                  "name": "Katalimatsa",
+                  "text": "Katalimatsa ist ein Küstenstrand in Anafi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.799515,
+                        36.348599
+                  ]
+            },
+            {
+                  "name": "Prassa",
+                  "text": "Prassa ist ein abgelegenes Strandziel in Anafi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.741184,
+                        36.378671
+                  ]
+            },
+            {
+                  "name": "Vagia",
+                  "text": "Vagia ist ein Strand in der Umgebung von Anafi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.734699,
+                        36.371371
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ronkounas beach",
+                  "text": "A Ronkounas egy hosszú homokos strand Anafi szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        25.795917,
+                        36.347405
+                  ]
+            },
+            {
+                  "name": "Kleisidi beach",
+                  "text": "A Kleisidi strand egy tengerparti hely Anafi szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        25.776936,
+                        36.34458
+                  ]
+            },
+            {
+                  "name": "Katsouni",
+                  "text": "A Katsouni egy strand Anafi szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        25.780673,
+                        36.344199
+                  ]
+            },
+            {
+                  "name": "Kalagkathi",
+                  "text": "A Kalagkathi egy strand Anafi szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        25.747276,
+                        36.381982
+                  ]
+            },
+            {
+                  "name": "Prasies",
+                  "text": "Prasies egy pihentető strand Anafi területén.",
+                  "category": "recreational",
+                  "coords": [
+                        25.82412,
+                        36.354541
+                  ]
+            },
+            {
+                  "name": "Agioi Anargyroi",
+                  "text": "Agioi Anargyroi egy tengerparti strand Anafi területén.",
+                  "category": "recreational",
+                  "coords": [
+                        25.816519,
+                        36.353581
+                  ]
+            },
+            {
+                  "name": "Megas Potamos",
+                  "text": "Megas Potamos egy festői strand Anafi területén.",
+                  "category": "recreational",
+                  "coords": [
+                        25.810847,
+                        36.352133
+                  ]
+            },
+            {
+                  "name": "Flamourou",
+                  "text": "Flamourou egy természetes strandkörnyezetet kínál Anafi területén.",
+                  "category": "recreational",
+                  "coords": [
+                        25.783274,
+                        36.344855
+                  ]
+            },
+            {
+                  "name": "Livoskopos",
+                  "text": "Livoskopos egy csendes strand úti cél Anafi területén.",
+                  "category": "recreational",
+                  "coords": [
+                        25.776758,
+                        36.395003
+                  ]
+            },
+            {
+                  "name": "Xetrypiti",
+                  "text": "Xetrypiti egy békés strand Anafi partjainál.",
+                  "category": "recreational",
+                  "coords": [
+                        25.771468,
+                        36.344475
+                  ]
+            },
+            {
+                  "name": "Exo Roukounas",
+                  "text": "Exo Roukounas egy népszerű strand Anafi területén.",
+                  "category": "recreational",
+                  "coords": [
+                        25.788485,
+                        36.345189
+                  ]
+            },
+            {
+                  "name": "Mikros Roukounas",
+                  "text": "Mikros Roukounas egy kisebb strandrész Anafi területén.",
+                  "category": "recreational",
+                  "coords": [
+                        25.792237,
+                        36.345662
+                  ]
+            },
+            {
+                  "name": "Katalimatsa",
+                  "text": "Katalimatsa egy tengerparti strandhelyszín Anafi területén.",
+                  "category": "recreational",
+                  "coords": [
+                        25.799515,
+                        36.348599
+                  ]
+            },
+            {
+                  "name": "Prassa",
+                  "text": "Prassa egy eldugott strand úti cél Anafi területén.",
+                  "category": "recreational",
+                  "coords": [
+                        25.741184,
+                        36.378671
+                  ]
+            },
+            {
+                  "name": "Vagia",
+                  "text": "Vagia egy strand Anafi környékén.",
+                  "category": "recreational",
+                  "coords": [
+                        25.734699,
+                        36.371371
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ronkounas beach",
+                  "text": "Plaja Ronkounas este o plajă lungă cu nisip de pe insula Anafi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.795917,
+                        36.347405
+                  ]
+            },
+            {
+                  "name": "Kleisidi beach",
+                  "text": "Plaja Kleisidi este o locație de coastă pe Anafi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.776936,
+                        36.34458
+                  ]
+            },
+            {
+                  "name": "Katsouni",
+                  "text": "Katsouni este o plajă situată pe insula Anafi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.780673,
+                        36.344199
+                  ]
+            },
+            {
+                  "name": "Kalagkathi",
+                  "text": "Kalagkathi este o plajă situată pe Anafi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.747276,
+                        36.381982
+                  ]
+            },
+            {
+                  "name": "Prasies",
+                  "text": "Prasies este o plajă situată în Anafi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.82412,
+                        36.354541
+                  ]
+            },
+            {
+                  "name": "Agioi Anargyroi",
+                  "text": "Agioi Anargyroi este o zonă de plajă pe coasta din Anafi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.816519,
+                        36.353581
+                  ]
+            },
+            {
+                  "name": "Megas Potamos",
+                  "text": "Megas Potamos este o plajă pitorească situată în Anafi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.810847,
+                        36.352133
+                  ]
+            },
+            {
+                  "name": "Flamourou",
+                  "text": "Flamourou oferă un mediu natural de plajă în Anafi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.783274,
+                        36.344855
+                  ]
+            },
+            {
+                  "name": "Livoskopos",
+                  "text": "Livoskopos este o destinație liniștită de plajă situată în Anafi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.776758,
+                        36.395003
+                  ]
+            },
+            {
+                  "name": "Xetrypiti",
+                  "text": "Xetrypiti este o plajă liniștită aflată pe coasta din Anafi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.771468,
+                        36.344475
+                  ]
+            },
+            {
+                  "name": "Exo Roukounas",
+                  "text": "Exo Roukounas este o plajă populară situată în Anafi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.788485,
+                        36.345189
+                  ]
+            },
+            {
+                  "name": "Mikros Roukounas",
+                  "text": "Mikros Roukounas este o porțiune de plajă mai mică din Anafi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.792237,
+                        36.345662
+                  ]
+            },
+            {
+                  "name": "Katalimatsa",
+                  "text": "Katalimatsa este o plajă de coastă situată în Anafi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.799515,
+                        36.348599
+                  ]
+            },
+            {
+                  "name": "Prassa",
+                  "text": "Prassa este o destinație de plajă retrasă din Anafi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.741184,
+                        36.378671
+                  ]
+            },
+            {
+                  "name": "Vagia",
+                  "text": "Vagia este o plajă situată în zona Anafi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.734699,
+                        36.371371
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ronkounas beach",
+                  "text": "Ronkounas beach is a long sandy beach on the island of Anafi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.795917,
+                        36.347405
+                  ]
+            },
+            {
+                  "name": "Kleisidi beach",
+                  "text": "Kleisidi beach is a coastal spot on Anafi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.776936,
+                        36.34458
+                  ]
+            },
+            {
+                  "name": "Katsouni",
+                  "text": "Katsouni is a beach located on the island of Anafi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.780673,
+                        36.344199
+                  ]
+            },
+            {
+                  "name": "Kalagkathi",
+                  "text": "Kalagkathi is a beach situated on Anafi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.747276,
+                        36.381982
+                  ]
+            },
+            {
+                  "name": "Prasies",
+                  "text": "Prasies is a relaxing beach located in Anafi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.82412,
+                        36.354541
+                  ]
+            },
+            {
+                  "name": "Agioi Anargyroi",
+                  "text": "Agioi Anargyroi is a coastal beach area in Anafi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.816519,
+                        36.353581
+                  ]
+            },
+            {
+                  "name": "Megas Potamos",
+                  "text": "Megas Potamos is a scenic beach situated in Anafi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.810847,
+                        36.352133
+                  ]
+            },
+            {
+                  "name": "Flamourou",
+                  "text": "Flamourou offers a natural beach environment in Anafi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.783274,
+                        36.344855
+                  ]
+            },
+            {
+                  "name": "Livoskopos",
+                  "text": "Livoskopos is a quiet beach destination located in Anafi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.776758,
+                        36.395003
+                  ]
+            },
+            {
+                  "name": "Xetrypiti",
+                  "text": "Xetrypiti is a peaceful beach found along the coast of Anafi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.771468,
+                        36.344475
+                  ]
+            },
+            {
+                  "name": "Exo Roukounas",
+                  "text": "Exo Roukounas is a popular beach located in Anafi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.788485,
+                        36.345189
+                  ]
+            },
+            {
+                  "name": "Mikros Roukounas",
+                  "text": "Mikros Roukounas is a smaller beach section adjacent to the main coast in Anafi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.792237,
+                        36.345662
+                  ]
+            },
+            {
+                  "name": "Katalimatsa",
+                  "text": "Katalimatsa is a coastal beach spot located in Anafi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.799515,
+                        36.348599
+                  ]
+            },
+            {
+                  "name": "Prassa",
+                  "text": "Prassa is a secluded beach destination in Anafi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.741184,
+                        36.378671
+                  ]
+            },
+            {
+                  "name": "Vagia",
+                  "text": "Vagia is a beach located in the area of Anafi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.734699,
+                        36.371371
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GR",
     name: { de: "Anafi Stadt", hu: "Anafi város", ro: "Anafi Town", en: "Anafi Town" },
@@ -5048,7 +8414,160 @@ imageHint: "Chania Venetian harbor and lighthouse",
     image: "/poi-images/greece-ios-town-cities-v2.webp",
   },
   {
-    id: "greece-donousa-town-cities-v2",
+    id: "greece-donousa-town-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Livadi",
+                  "text": "Livadi ist ein Strand in Donousa.",
+                  "category": "recreational",
+                  "coords": [
+                        25.822406,
+                        37.091974
+                  ]
+            },
+            {
+                  "name": "Stavros",
+                  "text": "Stavros ist ein Strand in Donousa, nahe der Hauptsiedlung.",
+                  "category": "recreational",
+                  "coords": [
+                        25.796167,
+                        37.099746
+                  ]
+            },
+            {
+                  "name": "Kedros",
+                  "text": "Kedros ist ein Strand in der Stadt Donousa.",
+                  "category": "recreational",
+                  "coords": [
+                        25.803706,
+                        37.097656
+                  ]
+            },
+            {
+                  "name": "Limenari",
+                  "text": "Limenari ist ein wunderschöner Strand in der Gegend von Donousa.",
+                  "category": "recreational",
+                  "coords": [
+                        25.81372,
+                        37.091321
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Livadi",
+                  "text": "Livadi egy strand Donousa területén.",
+                  "category": "recreational",
+                  "coords": [
+                        25.822406,
+                        37.091974
+                  ]
+            },
+            {
+                  "name": "Stavros",
+                  "text": "Stavros egy strand Donousa területén, a fő település közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        25.796167,
+                        37.099746
+                  ]
+            },
+            {
+                  "name": "Kedros",
+                  "text": "Kedros egy strand Donousa városában.",
+                  "category": "recreational",
+                  "coords": [
+                        25.803706,
+                        37.097656
+                  ]
+            },
+            {
+                  "name": "Limenari",
+                  "text": "Limenari egy gyönyörű strand Donousa környékén.",
+                  "category": "recreational",
+                  "coords": [
+                        25.81372,
+                        37.091321
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Livadi",
+                  "text": "Livadi este o plajă situată în Donousa.",
+                  "category": "recreational",
+                  "coords": [
+                        25.822406,
+                        37.091974
+                  ]
+            },
+            {
+                  "name": "Stavros",
+                  "text": "Stavros este o plajă din Donousa, aproape de așezarea principală.",
+                  "category": "recreational",
+                  "coords": [
+                        25.796167,
+                        37.099746
+                  ]
+            },
+            {
+                  "name": "Kedros",
+                  "text": "Kedros este o plajă situată în orașul Donousa.",
+                  "category": "recreational",
+                  "coords": [
+                        25.803706,
+                        37.097656
+                  ]
+            },
+            {
+                  "name": "Limenari",
+                  "text": "Limenari este o plajă frumoasă în zona Donousa.",
+                  "category": "recreational",
+                  "coords": [
+                        25.81372,
+                        37.091321
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Livadi",
+                  "text": "Livadi is a beach located in Donousa.",
+                  "category": "recreational",
+                  "coords": [
+                        25.822406,
+                        37.091974
+                  ]
+            },
+            {
+                  "name": "Stavros",
+                  "text": "Stavros is a beach in Donousa, located near the main settlement.",
+                  "category": "recreational",
+                  "coords": [
+                        25.796167,
+                        37.099746
+                  ]
+            },
+            {
+                  "name": "Kedros",
+                  "text": "Kedros is a beach located in the city of Donousa.",
+                  "category": "recreational",
+                  "coords": [
+                        25.803706,
+                        37.097656
+                  ]
+            },
+            {
+                  "name": "Limenari",
+                  "text": "Limenari is a beautiful beach in the area of Donousa.",
+                  "category": "recreational",
+                  "coords": [
+                        25.81372,
+                        37.091321
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GR",
     name: { de: "Donousa Stadt", hu: "Donúszza város", ro: "Donousa Town", en: "Donousa Town" },
@@ -5093,7 +8612,340 @@ imageHint: "Chania Venetian harbor and lighthouse",
     image: "/poi-images/greece-donousa-town-cities-v2.webp",
   },
   {
-    id: "greece-koufonisia-town-cities-v2",
+    id: "greece-koufonisia-town-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ammos",
+                  "text": "Ammos ist ein Strand in Naxos And The Lesser Cyclades.",
+                  "category": "recreational",
+                  "coords": [
+                        25.602308,
+                        36.931673
+                  ]
+            },
+            {
+                  "name": "Foinikas",
+                  "text": "Foinikas ist ein Strand in Naxos And The Lesser Cyclades.",
+                  "category": "recreational",
+                  "coords": [
+                        25.613723,
+                        36.934191
+                  ]
+            },
+            {
+                  "name": "Pori",
+                  "text": "Pori ist ein Strand in Naxos And The Lesser Cyclades.",
+                  "category": "recreational",
+                  "coords": [
+                        25.621903,
+                        36.944874
+                  ]
+            },
+            {
+                  "name": "Fanos",
+                  "text": "Fanos ist ein Strand in Naxos And The Lesser Cyclades.",
+                  "category": "recreational",
+                  "coords": [
+                        25.616388,
+                        36.936037
+                  ]
+            },
+            {
+                  "name": "Italida",
+                  "text": "Italida ist ein Strand in Naxos And The Lesser Cyclades.",
+                  "category": "recreational",
+                  "coords": [
+                        25.619875,
+                        36.936513
+                  ]
+            },
+            {
+                  "name": "Limni beach",
+                  "text": "Limni beach ist ein Strand in Naxos And The Lesser Cyclades.",
+                  "category": "recreational",
+                  "coords": [
+                        25.610699,
+                        36.931587
+                  ]
+            },
+            {
+                  "name": "Loutro beach",
+                  "text": "Loutro beach ist ein Strand in Naxos And The Lesser Cyclades.",
+                  "category": "recreational",
+                  "coords": [
+                        25.596221,
+                        36.931586
+                  ]
+            },
+            {
+                  "name": "Panormos",
+                  "text": "Panormos ist ein Strand in Naxos And The Lesser Cyclades.",
+                  "category": "recreational",
+                  "coords": [
+                        25.538706,
+                        36.95854
+                  ]
+            },
+            {
+                  "name": "Paralia Kleido",
+                  "text": "Paralia Kleido ist ein Strand in Naxos And The Lesser Cyclades.",
+                  "category": "recreational",
+                  "coords": [
+                        25.559867,
+                        36.987022
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ammos",
+                  "text": "Az Ammos egy strand Naxos And The Lesser Cyclades területén.",
+                  "category": "recreational",
+                  "coords": [
+                        25.602308,
+                        36.931673
+                  ]
+            },
+            {
+                  "name": "Foinikas",
+                  "text": "A Foinikas egy strand Naxos And The Lesser Cyclades területén.",
+                  "category": "recreational",
+                  "coords": [
+                        25.613723,
+                        36.934191
+                  ]
+            },
+            {
+                  "name": "Pori",
+                  "text": "A Pori egy strand Naxos And The Lesser Cyclades területén.",
+                  "category": "recreational",
+                  "coords": [
+                        25.621903,
+                        36.944874
+                  ]
+            },
+            {
+                  "name": "Fanos",
+                  "text": "A Fanos egy strand Naxos And The Lesser Cyclades területén.",
+                  "category": "recreational",
+                  "coords": [
+                        25.616388,
+                        36.936037
+                  ]
+            },
+            {
+                  "name": "Italida",
+                  "text": "Az Italida egy strand Naxos And The Lesser Cyclades területén.",
+                  "category": "recreational",
+                  "coords": [
+                        25.619875,
+                        36.936513
+                  ]
+            },
+            {
+                  "name": "Limni beach",
+                  "text": "A Limni beach egy strand Naxos And The Lesser Cyclades területén.",
+                  "category": "recreational",
+                  "coords": [
+                        25.610699,
+                        36.931587
+                  ]
+            },
+            {
+                  "name": "Loutro beach",
+                  "text": "A Loutro beach egy strand Naxos And The Lesser Cyclades területén.",
+                  "category": "recreational",
+                  "coords": [
+                        25.596221,
+                        36.931586
+                  ]
+            },
+            {
+                  "name": "Panormos",
+                  "text": "A Panormos egy strand Naxos And The Lesser Cyclades területén.",
+                  "category": "recreational",
+                  "coords": [
+                        25.538706,
+                        36.95854
+                  ]
+            },
+            {
+                  "name": "Paralia Kleido",
+                  "text": "A Paralia Kleido egy strand Naxos And The Lesser Cyclades területén.",
+                  "category": "recreational",
+                  "coords": [
+                        25.559867,
+                        36.987022
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ammos",
+                  "text": "Ammos este o plajă în Naxos And The Lesser Cyclades.",
+                  "category": "recreational",
+                  "coords": [
+                        25.602308,
+                        36.931673
+                  ]
+            },
+            {
+                  "name": "Foinikas",
+                  "text": "Foinikas este o plajă în Naxos And The Lesser Cyclades.",
+                  "category": "recreational",
+                  "coords": [
+                        25.613723,
+                        36.934191
+                  ]
+            },
+            {
+                  "name": "Pori",
+                  "text": "Pori este o plajă în Naxos And The Lesser Cyclades.",
+                  "category": "recreational",
+                  "coords": [
+                        25.621903,
+                        36.944874
+                  ]
+            },
+            {
+                  "name": "Fanos",
+                  "text": "Fanos este o plajă în Naxos And The Lesser Cyclades.",
+                  "category": "recreational",
+                  "coords": [
+                        25.616388,
+                        36.936037
+                  ]
+            },
+            {
+                  "name": "Italida",
+                  "text": "Italida este o plajă în Naxos And The Lesser Cyclades.",
+                  "category": "recreational",
+                  "coords": [
+                        25.619875,
+                        36.936513
+                  ]
+            },
+            {
+                  "name": "Limni beach",
+                  "text": "Limni beach este o plajă în Naxos And The Lesser Cyclades.",
+                  "category": "recreational",
+                  "coords": [
+                        25.610699,
+                        36.931587
+                  ]
+            },
+            {
+                  "name": "Loutro beach",
+                  "text": "Loutro beach este o plajă în Naxos And The Lesser Cyclades.",
+                  "category": "recreational",
+                  "coords": [
+                        25.596221,
+                        36.931586
+                  ]
+            },
+            {
+                  "name": "Panormos",
+                  "text": "Panormos este o plajă în Naxos And The Lesser Cyclades.",
+                  "category": "recreational",
+                  "coords": [
+                        25.538706,
+                        36.95854
+                  ]
+            },
+            {
+                  "name": "Paralia Kleido",
+                  "text": "Paralia Kleido este o plajă în Naxos And The Lesser Cyclades.",
+                  "category": "recreational",
+                  "coords": [
+                        25.559867,
+                        36.987022
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ammos",
+                  "text": "Ammos is a beach situated in Naxos And The Lesser Cyclades.",
+                  "category": "recreational",
+                  "coords": [
+                        25.602308,
+                        36.931673
+                  ]
+            },
+            {
+                  "name": "Foinikas",
+                  "text": "Foinikas is a beach situated in Naxos And The Lesser Cyclades.",
+                  "category": "recreational",
+                  "coords": [
+                        25.613723,
+                        36.934191
+                  ]
+            },
+            {
+                  "name": "Pori",
+                  "text": "Pori is a beach situated in Naxos And The Lesser Cyclades.",
+                  "category": "recreational",
+                  "coords": [
+                        25.621903,
+                        36.944874
+                  ]
+            },
+            {
+                  "name": "Fanos",
+                  "text": "Fanos is a beach situated in Naxos And The Lesser Cyclades.",
+                  "category": "recreational",
+                  "coords": [
+                        25.616388,
+                        36.936037
+                  ]
+            },
+            {
+                  "name": "Italida",
+                  "text": "Italida is a beach situated in Naxos And The Lesser Cyclades.",
+                  "category": "recreational",
+                  "coords": [
+                        25.619875,
+                        36.936513
+                  ]
+            },
+            {
+                  "name": "Limni beach",
+                  "text": "Limni beach is a beach situated in Naxos And The Lesser Cyclades.",
+                  "category": "recreational",
+                  "coords": [
+                        25.610699,
+                        36.931587
+                  ]
+            },
+            {
+                  "name": "Loutro beach",
+                  "text": "Loutro beach is a beach situated in Naxos And The Lesser Cyclades.",
+                  "category": "recreational",
+                  "coords": [
+                        25.596221,
+                        36.931586
+                  ]
+            },
+            {
+                  "name": "Panormos",
+                  "text": "Panormos is a beach situated in Naxos And The Lesser Cyclades.",
+                  "category": "recreational",
+                  "coords": [
+                        25.538706,
+                        36.95854
+                  ]
+            },
+            {
+                  "name": "Paralia Kleido",
+                  "text": "Paralia Kleido is a beach situated in Naxos And The Lesser Cyclades.",
+                  "category": "recreational",
+                  "coords": [
+                        25.559867,
+                        36.987022
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GR",
     name: { de: "Koufonisia Stadt", hu: "Kufoníszia város", ro: "Koufonisia Town", en: "Koufonisia Town" },

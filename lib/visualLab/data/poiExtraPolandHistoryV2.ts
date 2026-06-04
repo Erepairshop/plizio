@@ -93,7 +93,124 @@ export const polandHistoryV2: POI[] = [
       fr: ["Date du début de l'âge du fer, vers 738 av. J.-C.", "Appartient à la culture lusacienne.", "Découvert en 1933 par un instituteur local.", "Situé sur une presqu'île du lac Biskupin.", "L'établissement d'origine a été construit en bois de chêne et de pin.", "Entouré d'un rempart de 500 mètres de long.", "L'établissement comptait plus de 100 maisons disposées en rangées.", "Population estimée : 600 à 800 personnes.", "Surnommé la « Pompéi polonaise » en raison de sa conservation.", "Un festival annuel d'archéologie y a lieu.", "La découverte fut une sensation pour l'archéologie polonaise.", "Les rues étaient pavées de madriers de bois."],
     }, image: "/poi-images/poland-biskupin-settlement-history-v2.webp"},
   {
-    id: "poland-westerplatte-history-v2",
+    id: "poland-westerplatte-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plaża strzeżona \"Molo Brzeźno\"",
+                  "text": "Überwachter Strand Molo Brzeźno bei Westerplatte.",
+                  "category": "recreational",
+                  "coords": [
+                        18.626158,
+                        54.413378
+                  ]
+            },
+            {
+                  "name": "Plaża strzeżona \"Dom Zdrojowy Brzeźno\"",
+                  "text": "Überwachter Strand am Dom Zdrojowy in Brzeźno, nahe Westerplatte.",
+                  "category": "recreational",
+                  "coords": [
+                        18.639215,
+                        54.409315
+                  ]
+            },
+            {
+                  "name": "Plaża dla psów",
+                  "text": "Hundestrand bei Westerplatte.",
+                  "category": "recreational",
+                  "coords": [
+                        18.65173,
+                        54.408161
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plaża strzeżona \"Molo Brzeźno\"",
+                  "text": "Molo Brzeźno őrzött strand Westerplatte közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.626158,
+                        54.413378
+                  ]
+            },
+            {
+                  "name": "Plaża strzeżona \"Dom Zdrojowy Brzeźno\"",
+                  "text": "A Brzeźno-i Dom Zdrojowy őrzött strandja, Westerplatte közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.639215,
+                        54.409315
+                  ]
+            },
+            {
+                  "name": "Plaża dla psów",
+                  "text": "Kutyastrand Westerplatténál.",
+                  "category": "recreational",
+                  "coords": [
+                        18.65173,
+                        54.408161
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plaża strzeżona \"Molo Brzeźno\"",
+                  "text": "Plajă supravegheată Molo Brzeźno lângă Westerplatte.",
+                  "category": "recreational",
+                  "coords": [
+                        18.626158,
+                        54.413378
+                  ]
+            },
+            {
+                  "name": "Plaża strzeżona \"Dom Zdrojowy Brzeźno\"",
+                  "text": "Plajă supravegheată la Dom Zdrojowy în Brzeźno, lângă Westerplatte.",
+                  "category": "recreational",
+                  "coords": [
+                        18.639215,
+                        54.409315
+                  ]
+            },
+            {
+                  "name": "Plaża dla psów",
+                  "text": "Plajă pentru câini lângă Westerplatte.",
+                  "category": "recreational",
+                  "coords": [
+                        18.65173,
+                        54.408161
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plaża strzeżona \"Molo Brzeźno\"",
+                  "text": "Lifeguarded beach Molo Brzeźno near Westerplatte.",
+                  "category": "recreational",
+                  "coords": [
+                        18.626158,
+                        54.413378
+                  ]
+            },
+            {
+                  "name": "Plaża strzeżona \"Dom Zdrojowy Brzeźno\"",
+                  "text": "Lifeguarded beach at the Dom Zdrojowy in Brzeźno, near Westerplatte.",
+                  "category": "recreational",
+                  "coords": [
+                        18.639215,
+                        54.409315
+                  ]
+            },
+            {
+                  "name": "Plaża dla psów",
+                  "text": "Dog beach near Westerplatte.",
+                  "category": "recreational",
+                  "coords": [
+                        18.65173,
+                        54.408161
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "monument",
     name: { de: "Westerplatte Denkmal", hu: "Westerplatte-emlékmű", ro: "Monumentul de la Westerplatte", en: "Westerplatte Memorial"},
@@ -318,7 +435,124 @@ export const polandHistoryV2: POI[] = [
       fr: ["Premier quartier général de Hitler sur le front de l'Est.", "En service de juin 1941 à novembre 1944.", "Hitler y a passé plus de 800 jours.", "Situé près de Kętrzyn (anciennement Rastenburg) dans l'actuelle Pologne.", "Le complexe comprenait environ 80 bâtiments et bunkers.", "Lieu de l'attentat du 20 juillet 1944 par Stauffenberg.", "Les bunkers avaient des murs en béton armé allant jusqu'à 8 mètres d'épaisseur.", "Les Allemands en retraite ont dynamité le complexe en janvier 1945.", "Le nom fait référence au surnom de Hitler, 'Loup'.", "Le camouflage était crucial, avec des filets et des arbres artificiels.", "Possédait sa propre gare et deux aérodromes.", "Aujourd'hui une attraction touristique avec un hôtel et un restaurant sur place."],
     }, image: "/poi-images/poland-wolfs-lair-history-v2.webp"},
   {
-    id: "poland-wilanow-palace-history-v2",
+    id: "poland-wilanow-palace-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plaża Jeziorko Czerniakowskie",
+                  "text": "Strand am Jeziorko Czerniakowskie nahe Wilanow Palace.",
+                  "category": "recreational",
+                  "coords": [
+                        21.072183,
+                        52.188297
+                  ]
+            },
+            {
+                  "name": "Plaża Romantyczna",
+                  "text": "Romantischer Strand bei Schloss Wilanow.",
+                  "category": "recreational",
+                  "coords": [
+                        21.139883,
+                        52.171183
+                  ]
+            },
+            {
+                  "name": "Plaża Kopa Cwila",
+                  "text": "Strand am Wilanów-Palast.",
+                  "category": "recreational",
+                  "coords": [
+                        21.023783,
+                        52.163457
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plaża Jeziorko Czerniakowskie",
+                  "text": "Strand a Jeziorko Czerniakowskie tónál, a Wilanów-palota közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        21.072183,
+                        52.188297
+                  ]
+            },
+            {
+                  "name": "Plaża Romantyczna",
+                  "text": "Romantikus strand a Wilanów-palota mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        21.139883,
+                        52.171183
+                  ]
+            },
+            {
+                  "name": "Plaża Kopa Cwila",
+                  "text": "Strand a Wilanów-palotánál.",
+                  "category": "recreational",
+                  "coords": [
+                        21.023783,
+                        52.163457
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plaża Jeziorko Czerniakowskie",
+                  "text": "Plajă pe lacul Jeziorko Czerniakowskie lângă Palatul Wilanów.",
+                  "category": "recreational",
+                  "coords": [
+                        21.072183,
+                        52.188297
+                  ]
+            },
+            {
+                  "name": "Plaża Romantyczna",
+                  "text": "Plaja Romantică lângă palatul Wilanów.",
+                  "category": "recreational",
+                  "coords": [
+                        21.139883,
+                        52.171183
+                  ]
+            },
+            {
+                  "name": "Plaża Kopa Cwila",
+                  "text": "Plajă la Palatul Wilanów.",
+                  "category": "recreational",
+                  "coords": [
+                        21.023783,
+                        52.163457
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plaża Jeziorko Czerniakowskie",
+                  "text": "Beach at Jeziorko Czerniakowskie near Wilanow Palace.",
+                  "category": "recreational",
+                  "coords": [
+                        21.072183,
+                        52.188297
+                  ]
+            },
+            {
+                  "name": "Plaża Romantyczna",
+                  "text": "Romantic beach near Wilanow Palace.",
+                  "category": "recreational",
+                  "coords": [
+                        21.139883,
+                        52.171183
+                  ]
+            },
+            {
+                  "name": "Plaża Kopa Cwila",
+                  "text": "Beach at Wilanow Palace.",
+                  "category": "recreational",
+                  "coords": [
+                        21.023783,
+                        52.163457
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "palace",
     name: { de: "Schloss Wilanów", hu: "Wilanówi palota", ro: "Palatul Wilanów", en: "Wilanów Palace"},
@@ -588,7 +822,52 @@ export const polandHistoryV2: POI[] = [
       fr: [],
     }, image: "/poi-images/poland-ksiaz-castle-history-v2.webp"},
   {
-    id: "poland-ostrow-lednicki-history-v2",
+    id: "poland-ostrow-lednicki-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kąpielisko Niestrzeżone Dziekanowice",
+                  "text": "Unbewachtes Strandbad in Dziekanowice bei Ostrów Lednicki.",
+                  "category": "recreational",
+                  "coords": [
+                        17.384809,
+                        52.5244
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kąpielisko Niestrzeżone Dziekanowice",
+                  "text": "Nem őrzött strand Dziekanowicében, az Ostrów Lednicki közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        17.384809,
+                        52.5244
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kąpielisko Niestrzeżone Dziekanowice",
+                  "text": "Plajă nesupravegheată în Dziekanowice lângă Ostrów Lednicki.",
+                  "category": "recreational",
+                  "coords": [
+                        17.384809,
+                        52.5244
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kąpielisko Niestrzeżone Dziekanowice",
+                  "text": "Unsupervised beach in Dziekanowice near Ostrów Lednicki.",
+                  "category": "recreational",
+                  "coords": [
+                        17.384809,
+                        52.5244
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "ruins",
     name: { de: "Ostrów Lednicki", hu: "Ostrów Lednicki", ro: "Ostrów Lednicki", en: "Ostrów Lednicki"},
@@ -678,7 +957,52 @@ export const polandHistoryV2: POI[] = [
       fr: [],
     }, image: "/poi-images/poland-gniezno-cathedral-history-v2.webp"},
   {
-    id: "poland-torun-old-town-history-v2",
+    id: "poland-torun-old-town-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plaża Miejska - Błonia Nadwiślańskie",
+                  "text": "Städtischer Strand Błonia Nadwiślańskie bei der Altstadt von Torun.",
+                  "category": "recreational",
+                  "coords": [
+                        18.595462,
+                        53.006183
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plaża Miejska - Błonia Nadwiślańskie",
+                  "text": "Błonia Nadwiślańskie városi strand a toruńi óváros mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        18.595462,
+                        53.006183
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plaża Miejska - Błonia Nadwiślańskie",
+                  "text": "Plaja urbană Błonia Nadwiślańskie lângă orașul vechi din Toruń.",
+                  "category": "recreational",
+                  "coords": [
+                        18.595462,
+                        53.006183
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plaża Miejska - Błonia Nadwiślańskie",
+                  "text": "Błonia Nadwiślańskie urban beach near Torun Old Town.",
+                  "category": "recreational",
+                  "coords": [
+                        18.595462,
+                        53.006183
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "town",
     name: { de: "Altstadt von Toruń", hu: "Toruń óvárosa", ro: "Orașul vechi Toruń", en: "Toruń Old Town"},
@@ -1128,7 +1452,52 @@ export const polandHistoryV2: POI[] = [
       fr: [],
     }, image: "/poi-images/poland-chelmno-old-town-history-v2.webp"},
   {
-    id: "poland-tyniec-abbey-history-v2",
+    id: "poland-tyniec-abbey-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kryspinów Plaża Naturystyczna",
+                  "text": "Naturistenstrand bei Tyniec Abbey.",
+                  "category": "recreational",
+                  "coords": [
+                        19.788308,
+                        50.055349
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kryspinów Plaża Naturystyczna",
+                  "text": "Naturista strand a Tyniec apátság közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        19.788308,
+                        50.055349
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kryspinów Plaża Naturystyczna",
+                  "text": "Plajă de nudiști lângă Abația Tyniec.",
+                  "category": "recreational",
+                  "coords": [
+                        19.788308,
+                        50.055349
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kryspinów Plaża Naturystyczna",
+                  "text": "Naturist beach near Tyniec Abbey.",
+                  "category": "recreational",
+                  "coords": [
+                        19.788308,
+                        50.055349
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "church",
     name: { de: "Abtei Tyniec", hu: "Tynieci apátság", ro: "Abația Tyniec", en: "Tyniec Abbey"},
@@ -1310,7 +1679,52 @@ export const polandHistoryV2: POI[] = [
     image: "/poi-images/poland-kalisz-archaeological-reserve-history-v2.webp",
   },
   {
-    id: "poland-kruszwica-mouse-tower-history-v2",
+    id: "poland-kruszwica-mouse-tower-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dzikus",
+                  "text": "Naturbelassener Strand nahe dem Mausturm in Kruszwica.",
+                  "category": "recreational",
+                  "coords": [
+                        18.3346,
+                        52.665623
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dzikus",
+                  "text": "Természetes strand a kruszwicai Egértorony közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.3346,
+                        52.665623
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dzikus",
+                  "text": "Plajă sălbatică lângă Turnul Șoarecilor din Kruszwica.",
+                  "category": "recreational",
+                  "coords": [
+                        18.3346,
+                        52.665623
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dzikus",
+                  "text": "Unspoiled beach near the Mouse Tower in Kruszwica.",
+                  "category": "recreational",
+                  "coords": [
+                        18.3346,
+                        52.665623
+                  ]
+            }
+      ]
+},
     type: "tower",
     parent: "PL",
     name: { de: "Mäuseturm von Kruszwica", hu: "Kruszwica Egértorony", ro: "Turnul Șoarecilor din Kruszwica", en: "Mouse Tower of Kruszwica" },
@@ -1805,7 +2219,52 @@ export const polandHistoryV2: POI[] = [
     image: "/poi-images/poland-leczyca-royal-castle-history-v2.webp",
   },
   {
-    id: "poland-plock-cathedral-history-v2",
+    id: "poland-plock-cathedral-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plaża Sobótka",
+                  "text": "Strand Sobótka bei der Kathedrale von Plock.",
+                  "category": "recreational",
+                  "coords": [
+                        19.672834,
+                        52.546364
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plaża Sobótka",
+                  "text": "Sobótka strand a płocki székesegyház mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        19.672834,
+                        52.546364
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plaża Sobótka",
+                  "text": "Plaja Sobótka lângă catedrala din Płock.",
+                  "category": "recreational",
+                  "coords": [
+                        19.672834,
+                        52.546364
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plaża Sobótka",
+                  "text": "Sobótka beach near Płock Cathedral.",
+                  "category": "recreational",
+                  "coords": [
+                        19.672834,
+                        52.546364
+                  ]
+            }
+      ]
+},
     type: "cathedral",
     parent: "PL",
     name: { de: "Kathedrale von Płock", hu: "Płocki székesegyház", ro: "Catedrala din Płock", en: "Płock Cathedral" },
@@ -1985,7 +2444,52 @@ export const polandHistoryV2: POI[] = [
     image: "/poi-images/poland-koscian-basilica-history-v2.webp",
   },
   {
-    id: "poland-krasiczyn-park-history-v2",
+    id: "poland-krasiczyn-park-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plaża Ostrów",
+                  "text": "Strand im Park von Krasiczyn.",
+                  "category": "recreational",
+                  "coords": [
+                        22.69522,
+                        49.790069
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plaża Ostrów",
+                  "text": "Strand a Krasiczyn-parkban.",
+                  "category": "recreational",
+                  "coords": [
+                        22.69522,
+                        49.790069
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plaża Ostrów",
+                  "text": "Plajă în parcul din Krasiczyn.",
+                  "category": "recreational",
+                  "coords": [
+                        22.69522,
+                        49.790069
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plaża Ostrów",
+                  "text": "Beach in the park of Krasiczyn.",
+                  "category": "recreational",
+                  "coords": [
+                        22.69522,
+                        49.790069
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "PL",
     name: { de: "Park von Krasiczyn", hu: "Krasiczyni park", ro: "Parcul din Krasiczyn", en: "Krasiczyn Park" },
@@ -2030,7 +2534,52 @@ export const polandHistoryV2: POI[] = [
     image: "/poi-images/poland-krasiczyn-park-history-v2.webp",
   },
   {
-    id: "poland-tarnobrzeg-castle-history-v2",
+    id: "poland-tarnobrzeg-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plaża Jezioro Tarnobrzeskie",
+                  "text": "Strand am Tarnobrzeskie-See nahe dem Schloss Tarnobrzeg.",
+                  "category": "recreational",
+                  "coords": [
+                        21.646529,
+                        50.553038
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plaża Jezioro Tarnobrzeskie",
+                  "text": "Strand a Tarnobrzeskie-tónál, a Tarnobrzegi kastély közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        21.646529,
+                        50.553038
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plaża Jezioro Tarnobrzeskie",
+                  "text": "Plajă pe lacul Tarnobrzeskie lângă Castelul Tarnobrzeg.",
+                  "category": "recreational",
+                  "coords": [
+                        21.646529,
+                        50.553038
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plaża Jezioro Tarnobrzeskie",
+                  "text": "Beach at Tarnobrzeg Lake near Tarnobrzeg Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        21.646529,
+                        50.553038
+                  ]
+            }
+      ]
+},
     type: "palace",
     parent: "PL",
     name: { de: "Schloss Tarnowski in Tarnobrzeg", hu: "Tarnobrzegi Tarnowski-kastély", ro: "Castelul Tarnowski din Tarnobrzeg", en: "Tarnowski Castle in Tarnobrzeg" },
@@ -2885,7 +3434,52 @@ export const polandHistoryV2: POI[] = [
     image: "/poi-images/poland-tarnow-cathedral-history-v2.webp",
   },
   {
-    id: "poland-nysa-fortifications-history-v2",
+    id: "poland-nysa-fortifications-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "AKWA Marina Nysa",
+                  "text": "Strand an der AKWA Marina in Nysa.",
+                  "category": "recreational",
+                  "coords": [
+                        17.283489,
+                        50.473833
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "AKWA Marina Nysa",
+                  "text": "Strand az AKWA Marina mellett, Nysa.",
+                  "category": "recreational",
+                  "coords": [
+                        17.283489,
+                        50.473833
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "AKWA Marina Nysa",
+                  "text": "Plajă la AKWA Marina din Nysa.",
+                  "category": "recreational",
+                  "coords": [
+                        17.283489,
+                        50.473833
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "AKWA Marina Nysa",
+                  "text": "Beach at the AKWA Marina in Nysa.",
+                  "category": "recreational",
+                  "coords": [
+                        17.283489,
+                        50.473833
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "PL",
     name: { de: "Festungswerke von Nysa", hu: "Nysa erődítményei", ro: "Fortificațiile din Nysa", en: "Nysa Fortifications" },

@@ -48,7 +48,124 @@ export const montenegroAllPoi: POI[] = [
     },
   },
   {
-    id: "me-bay-kotor",
+    id: "me-bay-kotor", "sights": {
+      "de": [
+            {
+                  "name": "Svetionik",
+                  "text": "Der Strand Svetionik liegt in der Bucht von Kotor.",
+                  "category": "recreational",
+                  "coords": [
+                        18.676056,
+                        42.460082
+                  ]
+            },
+            {
+                  "name": "Велики Јомац",
+                  "text": "Veliki Jomac ist ein Strand in der Bucht von Kotor.",
+                  "category": "recreational",
+                  "coords": [
+                        18.648408,
+                        42.410131
+                  ]
+            },
+            {
+                  "name": "Мали Јомац",
+                  "text": "Mali Jomac liegt in der Bucht von Kotor.",
+                  "category": "recreational",
+                  "coords": [
+                        18.650458,
+                        42.40928
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Svetionik",
+                  "text": "A Svetionik strand a Kotori-öbölben található.",
+                  "category": "recreational",
+                  "coords": [
+                        18.676056,
+                        42.460082
+                  ]
+            },
+            {
+                  "name": "Велики Јомац",
+                  "text": "Veliki Jomac egy strand a Kotori-öbölben.",
+                  "category": "recreational",
+                  "coords": [
+                        18.648408,
+                        42.410131
+                  ]
+            },
+            {
+                  "name": "Мали Јомац",
+                  "text": "Mali Jomac a Kotori-öbölben található.",
+                  "category": "recreational",
+                  "coords": [
+                        18.650458,
+                        42.40928
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Svetionik",
+                  "text": "Plaja Svetionik este situată în Golful Kotor.",
+                  "category": "recreational",
+                  "coords": [
+                        18.676056,
+                        42.460082
+                  ]
+            },
+            {
+                  "name": "Велики Јомац",
+                  "text": "Veliki Jomac este o plajă în Golful Kotor.",
+                  "category": "recreational",
+                  "coords": [
+                        18.648408,
+                        42.410131
+                  ]
+            },
+            {
+                  "name": "Мали Јомац",
+                  "text": "Mali Jomac este situat în Golful Kotor.",
+                  "category": "recreational",
+                  "coords": [
+                        18.650458,
+                        42.40928
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Svetionik",
+                  "text": "Svetionik beach is located in the Bay of Kotor.",
+                  "category": "recreational",
+                  "coords": [
+                        18.676056,
+                        42.460082
+                  ]
+            },
+            {
+                  "name": "Велики Јомац",
+                  "text": "Veliki Jomac is a beach in the Bay of Kotor.",
+                  "category": "recreational",
+                  "coords": [
+                        18.648408,
+                        42.410131
+                  ]
+            },
+            {
+                  "name": "Мали Јомац",
+                  "text": "Mali Jomac is located in the Bay of Kotor.",
+                  "category": "recreational",
+                  "coords": [
+                        18.650458,
+                        42.40928
+                  ]
+            }
+      ]
+},
     name: { de: "Bucht von Kotor", hu: "Kotori-öböl", ro: "Golful Kotor", en: "Bay of Kotor" },
     type: "sea",
     coords: [18.6667, 42.4333],
@@ -134,7 +251,52 @@ export const montenegroAllPoi: POI[] = [
     },
   },
   {
-    id: "me-ada-bojana",
+    id: "me-ada-bojana", "sights": {
+      "de": [
+            {
+                  "name": "Nudistička plaža Ada Bojana",
+                  "text": "Der Nudistenstrand Ada Bojana befindet sich auf Ada Bojana.",
+                  "category": "recreational",
+                  "coords": [
+                        19.3417,
+                        41.863216
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nudistička plaža Ada Bojana",
+                  "text": "Ada Bojana nudista strandja Ada Bojanán található.",
+                  "category": "recreational",
+                  "coords": [
+                        19.3417,
+                        41.863216
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nudistička plaža Ada Bojana",
+                  "text": "Plaja nudiștilor Ada Bojana este situată pe Ada Bojana.",
+                  "category": "recreational",
+                  "coords": [
+                        19.3417,
+                        41.863216
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nudistička plaža Ada Bojana",
+                  "text": "The Ada Bojana nudist beach is located on Ada Bojana.",
+                  "category": "recreational",
+                  "coords": [
+                        19.3417,
+                        41.863216
+                  ]
+            }
+      ]
+},
     name: { de: "Ada Bojana", hu: "Ada Bojana", ro: "Ada Bojana", en: "Ada Bojana" },
     type: "island",
     coords: [19.3486, 41.8617],
@@ -439,7 +601,196 @@ export const montenegroAllPoi: POI[] = [
   // REGIONAL POIS (2 per region)
   // ME-001: Herceg Novi
   {
-    id: "me-001-kanli-kula",
+    id: "me-001-kanli-kula", "sights": {
+      "de": [
+            {
+                  "name": "Savina",
+                  "text": "Savina Strand in der Nähe von Kanli Kula.",
+                  "category": "recreational",
+                  "coords": [
+                        18.553461,
+                        42.450072
+                  ]
+            },
+            {
+                  "name": "Mala Ćorovića",
+                  "text": "Mala Ćorovića Strand in der Nähe von Kanli Kula.",
+                  "category": "recreational",
+                  "coords": [
+                        18.549287,
+                        42.449574
+                  ]
+            },
+            {
+                  "name": "Lalovina",
+                  "text": "Der Strand Lalovina liegt bei der Kanli Kula.",
+                  "category": "recreational",
+                  "coords": [
+                        18.566389,
+                        42.453119
+                  ]
+            },
+            {
+                  "name": "Plaža Sidro",
+                  "text": "Der Strand Plaža Sidro liegt bei der Kanli Kula.",
+                  "category": "recreational",
+                  "coords": [
+                        18.563729,
+                        42.454107
+                  ]
+            },
+            {
+                  "name": "Lazure",
+                  "text": "Der Strand Lazure liegt bei der historischen Kanli Kula Festung.",
+                  "category": "recreational",
+                  "coords": [
+                        18.559274,
+                        42.452597
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Savina",
+                  "text": "Savina strand Kanli Kula közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.553461,
+                        42.450072
+                  ]
+            },
+            {
+                  "name": "Mala Ćorovića",
+                  "text": "Mala Ćorovića strand Kanli Kula közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.549287,
+                        42.449574
+                  ]
+            },
+            {
+                  "name": "Lalovina",
+                  "text": "A Lalovina strand a Kanli Kula közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        18.566389,
+                        42.453119
+                  ]
+            },
+            {
+                  "name": "Plaža Sidro",
+                  "text": "A Plaža Sidro strand a Kanli Kula közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        18.563729,
+                        42.454107
+                  ]
+            },
+            {
+                  "name": "Lazure",
+                  "text": "A Lazure strand a történelmi Kanli Kula erőd közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        18.559274,
+                        42.452597
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Savina",
+                  "text": "Plaja Savina lângă Kanli Kula.",
+                  "category": "recreational",
+                  "coords": [
+                        18.553461,
+                        42.450072
+                  ]
+            },
+            {
+                  "name": "Mala Ćorovića",
+                  "text": "Plaja Mala Ćorovića lângă Kanli Kula.",
+                  "category": "recreational",
+                  "coords": [
+                        18.549287,
+                        42.449574
+                  ]
+            },
+            {
+                  "name": "Lalovina",
+                  "text": "Plaja Lalovina se află în apropierea Cetății Kanli Kula.",
+                  "category": "recreational",
+                  "coords": [
+                        18.566389,
+                        42.453119
+                  ]
+            },
+            {
+                  "name": "Plaža Sidro",
+                  "text": "Plaja Plaža Sidro se află în apropierea Cetății Kanli Kula.",
+                  "category": "recreational",
+                  "coords": [
+                        18.563729,
+                        42.454107
+                  ]
+            },
+            {
+                  "name": "Lazure",
+                  "text": "Plaja Lazure se află lângă fortăreața istorică Kanli Kula.",
+                  "category": "recreational",
+                  "coords": [
+                        18.559274,
+                        42.452597
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Savina",
+                  "text": "Savina beach near Kanli Kula.",
+                  "category": "recreational",
+                  "coords": [
+                        18.553461,
+                        42.450072
+                  ]
+            },
+            {
+                  "name": "Mala Ćorovića",
+                  "text": "Mala Ćorovića beach near Kanli Kula.",
+                  "category": "recreational",
+                  "coords": [
+                        18.549287,
+                        42.449574
+                  ]
+            },
+            {
+                  "name": "Lalovina",
+                  "text": "Lalovina Beach is located near the Kanli Kula.",
+                  "category": "recreational",
+                  "coords": [
+                        18.566389,
+                        42.453119
+                  ]
+            },
+            {
+                  "name": "Plaža Sidro",
+                  "text": "Plaža Sidro is located near the Kanli Kula.",
+                  "category": "recreational",
+                  "coords": [
+                        18.563729,
+                        42.454107
+                  ]
+            },
+            {
+                  "name": "Lazure",
+                  "text": "Lazure beach is located near the historic Kanli Kula fortress.",
+                  "category": "recreational",
+                  "coords": [
+                        18.559274,
+                        42.452597
+                  ]
+            }
+      ]
+},
     name: { de: "Kanli Kula", hu: "Kanli Kula", ro: "Kanli Kula", en: "Kanli Kula" },
     type: "historical",
     coords: [18.5390, 42.4545],
@@ -571,7 +922,88 @@ export const montenegroAllPoi: POI[] = [
   },
   // ME-003: Berane
   {
-    id: "me-003-city",
+    id: "me-003-city", "sights": {
+      "de": [
+            {
+                  "name": "Gradska plaža",
+                  "text": "Der Stadtstrand von 003 City bietet einfachen Zugang zum Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        19.876781,
+                        42.845982
+                  ]
+            },
+            {
+                  "name": "Plaža Mreže",
+                  "text": "Plaža Mreže ist ein Strand in 003 City.",
+                  "category": "recreational",
+                  "coords": [
+                        19.871919,
+                        42.834079
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gradska plaža",
+                  "text": "003 City városi strandja könnyű hozzáférést biztosít a vízhez.",
+                  "category": "recreational",
+                  "coords": [
+                        19.876781,
+                        42.845982
+                  ]
+            },
+            {
+                  "name": "Plaža Mreže",
+                  "text": "A Plaža Mreže egy strand 003 City területén.",
+                  "category": "recreational",
+                  "coords": [
+                        19.871919,
+                        42.834079
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gradska plaža",
+                  "text": "Plaja orașului 003 City oferă acces facil la apă.",
+                  "category": "recreational",
+                  "coords": [
+                        19.876781,
+                        42.845982
+                  ]
+            },
+            {
+                  "name": "Plaža Mreže",
+                  "text": "Plaža Mreže este o plajă situată în 003 City.",
+                  "category": "recreational",
+                  "coords": [
+                        19.871919,
+                        42.834079
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gradska plaža",
+                  "text": "The city beach of 003 City offers easy access to the water.",
+                  "category": "recreational",
+                  "coords": [
+                        19.876781,
+                        42.845982
+                  ]
+            },
+            {
+                  "name": "Plaža Mreže",
+                  "text": "Plaža Mreže is a beach located in 003 City.",
+                  "category": "recreational",
+                  "coords": [
+                        19.871919,
+                        42.834079
+                  ]
+            }
+      ]
+},
     name: { de: "Berane", hu: "Berane", ro: "Berane", en: "Berane" },
     type: "city",
     coords: [19.8733, 42.8425],
@@ -1189,7 +1621,52 @@ export const montenegroAllPoi: POI[] = [
   },
   // ME-012: Podgorica
   {
-    id: "me-012-millennium",
+    id: "me-012-millennium", "sights": {
+      "de": [
+            {
+                  "name": "Plaža Labud",
+                  "text": "Plaža Labud liegt nahe dem Millennium-Gebiet.",
+                  "category": "recreational",
+                  "coords": [
+                        19.258101,
+                        42.443568
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plaža Labud",
+                  "text": "A Plaža Labud a Millennium térség közelében fekszik.",
+                  "category": "recreational",
+                  "coords": [
+                        19.258101,
+                        42.443568
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plaža Labud",
+                  "text": "Plaža Labud se află lângă zona Millennium.",
+                  "category": "recreational",
+                  "coords": [
+                        19.258101,
+                        42.443568
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plaža Labud",
+                  "text": "Plaža Labud is located near the Millennium area.",
+                  "category": "recreational",
+                  "coords": [
+                        19.258101,
+                        42.443568
+                  ]
+            }
+      ]
+},
     name: { de: "Millennium-Brücke", hu: "Milenijum híd", ro: "Podul Mileniului", en: "Millennium Bridge" },
     type: "landmark",
     coords: [19.2589, 42.4450],
@@ -1236,7 +1713,88 @@ export const montenegroAllPoi: POI[] = [
   // ME-015: Budva
   // ME-016: Tivat
   {
-    id: "me-016-porto-montenegro",
+    id: "me-016-porto-montenegro", "sights": {
+      "de": [
+            {
+                  "name": "Ponta Seljanovo",
+                  "text": "Ponta Seljanovo befindet sich nahe Porto Montenegro.",
+                  "category": "recreational",
+                  "coords": [
+                        18.685266,
+                        42.439269
+                  ]
+            },
+            {
+                  "name": "Vaikiki",
+                  "text": "Vaikiki ist ein Strand nahe Porto Montenegro.",
+                  "category": "recreational",
+                  "coords": [
+                        18.686445,
+                        42.441112
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ponta Seljanovo",
+                  "text": "Ponta Seljanovo a Porto Montenegro közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        18.685266,
+                        42.439269
+                  ]
+            },
+            {
+                  "name": "Vaikiki",
+                  "text": "Vaikiki egy strand Porto Montenegro közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.686445,
+                        42.441112
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ponta Seljanovo",
+                  "text": "Ponta Seljanovo se află lângă Porto Montenegro.",
+                  "category": "recreational",
+                  "coords": [
+                        18.685266,
+                        42.439269
+                  ]
+            },
+            {
+                  "name": "Vaikiki",
+                  "text": "Vaikiki este o plajă situată lângă Porto Montenegro.",
+                  "category": "recreational",
+                  "coords": [
+                        18.686445,
+                        42.441112
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ponta Seljanovo",
+                  "text": "Ponta Seljanovo is located near Porto Montenegro.",
+                  "category": "recreational",
+                  "coords": [
+                        18.685266,
+                        42.439269
+                  ]
+            },
+            {
+                  "name": "Vaikiki",
+                  "text": "Vaikiki is a beach near Porto Montenegro.",
+                  "category": "recreational",
+                  "coords": [
+                        18.686445,
+                        42.441112
+                  ]
+            }
+      ]
+},
     name: { de: "Porto Montenegro", hu: "Porto Montenegro", ro: "Porto Montenegro", en: "Porto Montenegro" },
     type: "landmark",
     coords: [18.6917, 42.4333],

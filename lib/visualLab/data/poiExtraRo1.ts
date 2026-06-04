@@ -4870,6 +4870,24 @@ export const poiExtraRo1: POI[] = [
                         27.318481,
                         44.194257
                   ]
+            },
+            {
+                  "name": "Plaja Tineretului",
+                  "text": "Strand in Călărași.",
+                  "category": "recreational",
+                  "coords": [
+                        27.325457,
+                        44.181002
+                  ]
+            },
+            {
+                  "name": "Plaja Mare",
+                  "text": "Strand bei Călărași am Ufer.",
+                  "category": "recreational",
+                  "coords": [
+                        27.330477,
+                        44.187153
+                  ]
             }
       ],
       "hu": [
@@ -4891,6 +4909,24 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         27.318481,
                         44.194257
+                  ]
+            },
+            {
+                  "name": "Plaja Tineretului",
+                  "text": "Strand Călărași településen.",
+                  "category": "recreational",
+                  "coords": [
+                        27.325457,
+                        44.181002
+                  ]
+            },
+            {
+                  "name": "Plaja Mare",
+                  "text": "Strand Călărași közelében, a folyóparton.",
+                  "category": "recreational",
+                  "coords": [
+                        27.330477,
+                        44.187153
                   ]
             }
       ],
@@ -4914,6 +4950,24 @@ export const poiExtraRo1: POI[] = [
                         27.318481,
                         44.194257
                   ]
+            },
+            {
+                  "name": "Plaja Tineretului",
+                  "text": "Plajă situată în municipiul Călărași.",
+                  "category": "recreational",
+                  "coords": [
+                        27.325457,
+                        44.181002
+                  ]
+            },
+            {
+                  "name": "Plaja Mare",
+                  "text": "Plajă lângă Călărași, pe malul apei.",
+                  "category": "recreational",
+                  "coords": [
+                        27.330477,
+                        44.187153
+                  ]
             }
       ],
       "en": [
@@ -4935,6 +4989,24 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         27.318481,
                         44.194257
+                  ]
+            },
+            {
+                  "name": "Plaja Tineretului",
+                  "text": "Beach located in the municipality of Călărași.",
+                  "category": "recreational",
+                  "coords": [
+                        27.325457,
+                        44.181002
+                  ]
+            },
+            {
+                  "name": "Plaja Mare",
+                  "text": "Beach near Călărași by the water.",
+                  "category": "recreational",
+                  "coords": [
+                        27.330477,
+                        44.187153
                   ]
             }
       ]
@@ -5800,6 +5872,60 @@ export const poiExtraRo1: POI[] = [
                         28.582881,
                         43.815291
                   ]
+            },
+            {
+                  "name": "Plaja Corsa",
+                  "text": "Plaja Corsa ist ein Strand in Mangalia.",
+                  "category": "recreational",
+                  "coords": [
+                        28.586609,
+                        43.812828
+                  ]
+            },
+            {
+                  "name": "Plaja Eminescu",
+                  "text": "Plaja Eminescu ist ein Strand in Mangalia.",
+                  "category": "recreational",
+                  "coords": [
+                        28.588172,
+                        43.8148
+                  ]
+            },
+            {
+                  "name": "Plaja Cupidon",
+                  "text": "Plaja Cupidon ist ein Strand in Mangalia.",
+                  "category": "recreational",
+                  "coords": [
+                        28.590537,
+                        43.826472
+                  ]
+            },
+            {
+                  "name": "Plaja Diana",
+                  "text": "Strand in Mangalia am Schwarzen Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        28.589435,
+                        43.823704
+                  ]
+            },
+            {
+                  "name": "Plaja Mangalia",
+                  "text": "Strand in Mangalia am Schwarzen Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        28.587682,
+                        43.812032
+                  ]
+            },
+            {
+                  "name": "Plaja Farul Genovez",
+                  "text": "Strand bei Mangalia, in der Nähe des genuesischen Leuchtturms.",
+                  "category": "recreational",
+                  "coords": [
+                        28.589106,
+                        43.808894
+                  ]
             }
       ],
       "hu": [
@@ -5851,6 +5977,60 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         28.582881,
                         43.815291
+                  ]
+            },
+            {
+                  "name": "Plaja Corsa",
+                  "text": "A Plaja Corsa egy strand Mangalián.",
+                  "category": "recreational",
+                  "coords": [
+                        28.586609,
+                        43.812828
+                  ]
+            },
+            {
+                  "name": "Plaja Eminescu",
+                  "text": "A Plaja Eminescu egy strand Mangalián.",
+                  "category": "recreational",
+                  "coords": [
+                        28.588172,
+                        43.8148
+                  ]
+            },
+            {
+                  "name": "Plaja Cupidon",
+                  "text": "A Plaja Cupidon egy strand Mangalián.",
+                  "category": "recreational",
+                  "coords": [
+                        28.590537,
+                        43.826472
+                  ]
+            },
+            {
+                  "name": "Plaja Diana",
+                  "text": "Strand Mangalia településen, a Fekete-tenger partján.",
+                  "category": "recreational",
+                  "coords": [
+                        28.589435,
+                        43.823704
+                  ]
+            },
+            {
+                  "name": "Plaja Mangalia",
+                  "text": "Strand Mangalia településen, a Fekete-tenger partján.",
+                  "category": "recreational",
+                  "coords": [
+                        28.587682,
+                        43.812032
+                  ]
+            },
+            {
+                  "name": "Plaja Farul Genovez",
+                  "text": "Strand Mangáliánál, a genovai világítótorony közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        28.589106,
+                        43.808894
                   ]
             }
       ],
@@ -5904,6 +6084,60 @@ export const poiExtraRo1: POI[] = [
                         28.582881,
                         43.815291
                   ]
+            },
+            {
+                  "name": "Plaja Corsa",
+                  "text": "Plaja Corsa este o plajă situată în Mangalia.",
+                  "category": "recreational",
+                  "coords": [
+                        28.586609,
+                        43.812828
+                  ]
+            },
+            {
+                  "name": "Plaja Eminescu",
+                  "text": "Plaja Eminescu este o plajă situată în Mangalia.",
+                  "category": "recreational",
+                  "coords": [
+                        28.588172,
+                        43.8148
+                  ]
+            },
+            {
+                  "name": "Plaja Cupidon",
+                  "text": "Plaja Cupidon este o plajă situată în Mangalia.",
+                  "category": "recreational",
+                  "coords": [
+                        28.590537,
+                        43.826472
+                  ]
+            },
+            {
+                  "name": "Plaja Diana",
+                  "text": "Plajă situată în municipiul Mangalia, la Marea Neagră.",
+                  "category": "recreational",
+                  "coords": [
+                        28.589435,
+                        43.823704
+                  ]
+            },
+            {
+                  "name": "Plaja Mangalia",
+                  "text": "Plajă situată în municipiul Mangalia, la Marea Neagră.",
+                  "category": "recreational",
+                  "coords": [
+                        28.587682,
+                        43.812032
+                  ]
+            },
+            {
+                  "name": "Plaja Farul Genovez",
+                  "text": "Plajă lângă Mangalia, în apropierea farului genovez.",
+                  "category": "recreational",
+                  "coords": [
+                        28.589106,
+                        43.808894
+                  ]
             }
       ],
       "en": [
@@ -5955,6 +6189,60 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         28.582881,
                         43.815291
+                  ]
+            },
+            {
+                  "name": "Plaja Corsa",
+                  "text": "Plaja Corsa is a beach in Mangalia.",
+                  "category": "recreational",
+                  "coords": [
+                        28.586609,
+                        43.812828
+                  ]
+            },
+            {
+                  "name": "Plaja Eminescu",
+                  "text": "Plaja Eminescu is a beach in Mangalia.",
+                  "category": "recreational",
+                  "coords": [
+                        28.588172,
+                        43.8148
+                  ]
+            },
+            {
+                  "name": "Plaja Cupidon",
+                  "text": "Plaja Cupidon is a beach in Mangalia.",
+                  "category": "recreational",
+                  "coords": [
+                        28.590537,
+                        43.826472
+                  ]
+            },
+            {
+                  "name": "Plaja Diana",
+                  "text": "Beach located in the municipality of Mangalia on the Black Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        28.589435,
+                        43.823704
+                  ]
+            },
+            {
+                  "name": "Plaja Mangalia",
+                  "text": "Beach located in the municipality of Mangalia on the Black Sea.",
+                  "category": "recreational",
+                  "coords": [
+                        28.587682,
+                        43.812032
+                  ]
+            },
+            {
+                  "name": "Plaja Farul Genovez",
+                  "text": "Beach near Mangalia, close to the Genoese lighthouse.",
+                  "category": "recreational",
+                  "coords": [
+                        28.589106,
+                        43.808894
                   ]
             }
       ]
@@ -6240,6 +6528,78 @@ export const poiExtraRo1: POI[] = [
                         28.660708,
                         44.338437
                   ]
+            },
+            {
+                  "name": "Playa del Mar",
+                  "text": "Playa del Mar ist ein Strand in Navodari.",
+                  "category": "recreational",
+                  "coords": [
+                        28.628211,
+                        44.304635
+                  ]
+            },
+            {
+                  "name": "Loca",
+                  "text": "Loca ist ein Strand in Navodari.",
+                  "category": "recreational",
+                  "coords": [
+                        28.635417,
+                        44.319493
+                  ]
+            },
+            {
+                  "name": "Panoralis",
+                  "text": "Panoralis ist ein Strand in Navodari.",
+                  "category": "recreational",
+                  "coords": [
+                        28.629588,
+                        44.308057
+                  ]
+            },
+            {
+                  "name": "DM",
+                  "text": "DM ist ein Strand in Navodari.",
+                  "category": "recreational",
+                  "coords": [
+                        28.631518,
+                        44.312035
+                  ]
+            },
+            {
+                  "name": "Kanoa",
+                  "text": "Kanoa ist ein Strand in Navodari.",
+                  "category": "recreational",
+                  "coords": [
+                        28.637586,
+                        44.323338
+                  ]
+            },
+            {
+                  "name": "Oneiro",
+                  "text": "Oneiro ist ein Strand in Navodari.",
+                  "category": "recreational",
+                  "coords": [
+                        28.627446,
+                        44.302743
+                  ]
+            },
+            {
+                  "name": "Dizzy",
+                  "text": "Dizzy ist ein Strand in Navodari.",
+                  "category": "recreational",
+                  "coords": [
+                        28.632687,
+                        44.314347
+                  ]
+            },
+            {
+                  "name": "Signature",
+                  "text": "Strand in Năvodari am Schwarzen Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        28.630423,
+                        44.309814
+                  ]
             }
       ],
       "hu": [
@@ -6271,6 +6631,78 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         28.660708,
                         44.338437
+                  ]
+            },
+            {
+                  "name": "Playa del Mar",
+                  "text": "A Playa del Mar egy strand Năvodari településen.",
+                  "category": "recreational",
+                  "coords": [
+                        28.628211,
+                        44.304635
+                  ]
+            },
+            {
+                  "name": "Loca",
+                  "text": "A Loca egy strand Năvodari településen.",
+                  "category": "recreational",
+                  "coords": [
+                        28.635417,
+                        44.319493
+                  ]
+            },
+            {
+                  "name": "Panoralis",
+                  "text": "A Panoralis egy strand Năvodari településen.",
+                  "category": "recreational",
+                  "coords": [
+                        28.629588,
+                        44.308057
+                  ]
+            },
+            {
+                  "name": "DM",
+                  "text": "A DM egy strand Năvodari településen.",
+                  "category": "recreational",
+                  "coords": [
+                        28.631518,
+                        44.312035
+                  ]
+            },
+            {
+                  "name": "Kanoa",
+                  "text": "A Kanoa egy strand Năvodari településen.",
+                  "category": "recreational",
+                  "coords": [
+                        28.637586,
+                        44.323338
+                  ]
+            },
+            {
+                  "name": "Oneiro",
+                  "text": "Az Oneiro egy strand Năvodari településen.",
+                  "category": "recreational",
+                  "coords": [
+                        28.627446,
+                        44.302743
+                  ]
+            },
+            {
+                  "name": "Dizzy",
+                  "text": "A Dizzy egy strand Năvodari településen.",
+                  "category": "recreational",
+                  "coords": [
+                        28.632687,
+                        44.314347
+                  ]
+            },
+            {
+                  "name": "Signature",
+                  "text": "Strand Năvodari településen, a Fekete-tenger partján.",
+                  "category": "recreational",
+                  "coords": [
+                        28.630423,
+                        44.309814
                   ]
             }
       ],
@@ -6304,6 +6736,78 @@ export const poiExtraRo1: POI[] = [
                         28.660708,
                         44.338437
                   ]
+            },
+            {
+                  "name": "Playa del Mar",
+                  "text": "Playa del Mar este o plajă situată în Năvodari.",
+                  "category": "recreational",
+                  "coords": [
+                        28.628211,
+                        44.304635
+                  ]
+            },
+            {
+                  "name": "Loca",
+                  "text": "Loca este o plajă situată în Năvodari.",
+                  "category": "recreational",
+                  "coords": [
+                        28.635417,
+                        44.319493
+                  ]
+            },
+            {
+                  "name": "Panoralis",
+                  "text": "Panoralis este o plajă situată în Năvodari.",
+                  "category": "recreational",
+                  "coords": [
+                        28.629588,
+                        44.308057
+                  ]
+            },
+            {
+                  "name": "DM",
+                  "text": "DM este o plajă situată în Năvodari.",
+                  "category": "recreational",
+                  "coords": [
+                        28.631518,
+                        44.312035
+                  ]
+            },
+            {
+                  "name": "Kanoa",
+                  "text": "Kanoa este o plajă situată în Năvodari.",
+                  "category": "recreational",
+                  "coords": [
+                        28.637586,
+                        44.323338
+                  ]
+            },
+            {
+                  "name": "Oneiro",
+                  "text": "Oneiro este o plajă situată în Năvodari.",
+                  "category": "recreational",
+                  "coords": [
+                        28.627446,
+                        44.302743
+                  ]
+            },
+            {
+                  "name": "Dizzy",
+                  "text": "Dizzy este o plajă situată în Năvodari.",
+                  "category": "recreational",
+                  "coords": [
+                        28.632687,
+                        44.314347
+                  ]
+            },
+            {
+                  "name": "Signature",
+                  "text": "Plajă situată în Năvodari, pe litoralul Mării Negre.",
+                  "category": "recreational",
+                  "coords": [
+                        28.630423,
+                        44.309814
+                  ]
             }
       ],
       "en": [
@@ -6335,6 +6839,78 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         28.660708,
                         44.338437
+                  ]
+            },
+            {
+                  "name": "Playa del Mar",
+                  "text": "Playa del Mar is a beach in Năvodari.",
+                  "category": "recreational",
+                  "coords": [
+                        28.628211,
+                        44.304635
+                  ]
+            },
+            {
+                  "name": "Loca",
+                  "text": "Loca is a beach in Năvodari.",
+                  "category": "recreational",
+                  "coords": [
+                        28.635417,
+                        44.319493
+                  ]
+            },
+            {
+                  "name": "Panoralis",
+                  "text": "Panoralis is a beach in Năvodari.",
+                  "category": "recreational",
+                  "coords": [
+                        28.629588,
+                        44.308057
+                  ]
+            },
+            {
+                  "name": "DM",
+                  "text": "DM is a beach in Năvodari.",
+                  "category": "recreational",
+                  "coords": [
+                        28.631518,
+                        44.312035
+                  ]
+            },
+            {
+                  "name": "Kanoa",
+                  "text": "Kanoa is a beach in Năvodari.",
+                  "category": "recreational",
+                  "coords": [
+                        28.637586,
+                        44.323338
+                  ]
+            },
+            {
+                  "name": "Oneiro",
+                  "text": "Oneiro is a beach in Năvodari.",
+                  "category": "recreational",
+                  "coords": [
+                        28.627446,
+                        44.302743
+                  ]
+            },
+            {
+                  "name": "Dizzy",
+                  "text": "Dizzy is a beach in Năvodari.",
+                  "category": "recreational",
+                  "coords": [
+                        28.632687,
+                        44.314347
+                  ]
+            },
+            {
+                  "name": "Signature",
+                  "text": "Beach located in Năvodari on the Black Sea coast.",
+                  "category": "recreational",
+                  "coords": [
+                        28.630423,
+                        44.309814
                   ]
             }
       ]
@@ -7275,6 +7851,24 @@ export const poiExtraRo1: POI[] = [
                         22.945535,
                         44.016147
                   ]
+            },
+            {
+                  "name": "Plaja Bașcov Calafat",
+                  "text": "Strand bei Calafat am Ufer der Donau.",
+                  "category": "recreational",
+                  "coords": [
+                        22.972309,
+                        44.003009
+                  ]
+            },
+            {
+                  "name": "Plaja Debarcader",
+                  "text": "Strand bei Calafat am Ufer der Donau.",
+                  "category": "recreational",
+                  "coords": [
+                        22.93783,
+                        43.999139
+                  ]
             }
       ],
       "hu": [
@@ -7296,6 +7890,24 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         22.945535,
                         44.016147
+                  ]
+            },
+            {
+                  "name": "Plaja Bașcov Calafat",
+                  "text": "Strand Calafatnál, a Duna partján.",
+                  "category": "recreational",
+                  "coords": [
+                        22.972309,
+                        44.003009
+                  ]
+            },
+            {
+                  "name": "Plaja Debarcader",
+                  "text": "Strand Calafatnál, a Duna partján.",
+                  "category": "recreational",
+                  "coords": [
+                        22.93783,
+                        43.999139
                   ]
             }
       ],
@@ -7319,6 +7931,24 @@ export const poiExtraRo1: POI[] = [
                         22.945535,
                         44.016147
                   ]
+            },
+            {
+                  "name": "Plaja Bașcov Calafat",
+                  "text": "Plajă lângă Calafat, pe malul Dunării.",
+                  "category": "recreational",
+                  "coords": [
+                        22.972309,
+                        44.003009
+                  ]
+            },
+            {
+                  "name": "Plaja Debarcader",
+                  "text": "Plajă lângă Calafat, pe malul Dunării.",
+                  "category": "recreational",
+                  "coords": [
+                        22.93783,
+                        43.999139
+                  ]
             }
       ],
       "en": [
@@ -7340,6 +7970,24 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         22.945535,
                         44.016147
+                  ]
+            },
+            {
+                  "name": "Plaja Bașcov Calafat",
+                  "text": "Beach near Calafat on the banks of the Danube.",
+                  "category": "recreational",
+                  "coords": [
+                        22.972309,
+                        44.003009
+                  ]
+            },
+            {
+                  "name": "Plaja Debarcader",
+                  "text": "Beach near Calafat on the banks of the Danube.",
+                  "category": "recreational",
+                  "coords": [
+                        22.93783,
+                        43.999139
                   ]
             }
       ]
@@ -7925,6 +8573,15 @@ export const poiExtraRo1: POI[] = [
                         25.756648,
                         44.446256
                   ]
+            },
+            {
+                  "name": "Sumerkiss Ogrezeni",
+                  "text": "Strand bei Bolintin-Vale.",
+                  "category": "recreational",
+                  "coords": [
+                        25.774741,
+                        44.429366
+                  ]
             }
       ],
       "hu": [
@@ -7946,6 +8603,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         25.756648,
                         44.446256
+                  ]
+            },
+            {
+                  "name": "Sumerkiss Ogrezeni",
+                  "text": "Strand Bolintin-Vale közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        25.774741,
+                        44.429366
                   ]
             }
       ],
@@ -7969,6 +8635,15 @@ export const poiExtraRo1: POI[] = [
                         25.756648,
                         44.446256
                   ]
+            },
+            {
+                  "name": "Sumerkiss Ogrezeni",
+                  "text": "Plajă situată în apropiere de Bolintin-Vale.",
+                  "category": "recreational",
+                  "coords": [
+                        25.774741,
+                        44.429366
+                  ]
             }
       ],
       "en": [
@@ -7990,6 +8665,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         25.756648,
                         44.446256
+                  ]
+            },
+            {
+                  "name": "Sumerkiss Ogrezeni",
+                  "text": "Beach near Bolintin-Vale.",
+                  "category": "recreational",
+                  "coords": [
+                        25.774741,
+                        44.429366
                   ]
             }
       ]
@@ -13101,6 +13785,15 @@ export const poiExtraRo1: POI[] = [
                         24.512262,
                         43.771414
                   ]
+            },
+            {
+                  "name": "Plaja Celei",
+                  "text": "Ein Strand in der Nähe von Corabia.",
+                  "category": "recreational",
+                  "coords": [
+                        24.470405,
+                        43.756776
+                  ]
             }
       ],
       "hu": [
@@ -13132,6 +13825,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         24.512262,
                         43.771414
+                  ]
+            },
+            {
+                  "name": "Plaja Celei",
+                  "text": "Strand Korabia közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        24.470405,
+                        43.756776
                   ]
             }
       ],
@@ -13165,6 +13867,15 @@ export const poiExtraRo1: POI[] = [
                         24.512262,
                         43.771414
                   ]
+            },
+            {
+                  "name": "Plaja Celei",
+                  "text": "O plajă lângă Corabia.",
+                  "category": "recreational",
+                  "coords": [
+                        24.470405,
+                        43.756776
+                  ]
             }
       ],
       "en": [
@@ -13196,6 +13907,15 @@ export const poiExtraRo1: POI[] = [
                   "coords": [
                         24.512262,
                         43.771414
+                  ]
+            },
+            {
+                  "name": "Plaja Celei",
+                  "text": "A beach near Corabia.",
+                  "category": "recreational",
+                  "coords": [
+                        24.470405,
+                        43.756776
                   ]
             }
       ]

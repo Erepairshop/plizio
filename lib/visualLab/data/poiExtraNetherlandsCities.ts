@@ -11,7 +11,52 @@ export const poiExtraNetherlandsCities: POI[] = [
 
     // 30 Industry/Port/Agriculture
     {
-        id: "port-maasvlakte-2-extra",
+        id: "port-maasvlakte-2-extra", "sights": {
+      "de": [
+            {
+                  "name": "Hoek van Holland",
+                  "text": "Strand in Hoek van Holland bei Port Maasvlakte 2.",
+                  "category": "recreational",
+                  "coords": [
+                        4.10808,
+                        51.990984
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hoek van Holland",
+                  "text": "Strand Hoek van Holland-ban, a Port Maasvlakte 2 közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        4.10808,
+                        51.990984
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hoek van Holland",
+                  "text": "Plajă în Hoek van Holland, lângă Port Maasvlakte 2.",
+                  "category": "recreational",
+                  "coords": [
+                        4.10808,
+                        51.990984
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hoek van Holland",
+                  "text": "Beach in Hoek van Holland near Port Maasvlakte 2.",
+                  "category": "recreational",
+                  "coords": [
+                        4.10808,
+                        51.990984
+                  ]
+            }
+      ]
+},
         type: "port",
         parent: "NL-ZH",
         coords: [4.05, 51.98],
