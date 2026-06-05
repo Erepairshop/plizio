@@ -1317,6 +1317,78 @@ function renderSightRadius(poi: POI, lang: Lang): string {
   </section>`;
 }
 
+// Collapsible "Praktische Infos" card for CITY POIs: live weather (on first
+// open), Feiertag watch (Nager.Date), nearby-radius filter (moved in from the
+// sights section) and the city-tips pack (public/data/city-tips/<id>.json).
+// Where this card renders, the standalone weather widget + the sights-section
+// radius filter are dropped (user decision 2026-06-05).
+function renderInfoCard(poi: POI, lang: Lang, countryId: string): string {
+  if ((poi as any).type !== "city") return "";
+  const pc = (poi as { coords?: unknown }).coords as number[] | undefined;
+  if (!Array.isArray(pc) || pc.length !== 2 || typeof pc[0] !== "number" || typeof pc[1] !== "number") return "";
+  const [plng, plat] = pc;
+  const iso2 = slugs.countryIso2(countryId) || "";
+  const T: Partial<Record<Lang, any>> = {
+    de: { title: "Praktische Infos", wx: "Wetter — 5 Tage", near: "In der Umgebung", tips: "Tipps", gastro: "Gastro", shop: "Shopping", quiet: "Ruhige Orte", fei: "Feiertag", feiWarn: "Feiertag — viele Geschäfte können geschlossen sein!" },
+    hu: { title: "Praktikus infók", wx: "Időjárás — 5 nap", near: "A környéken", tips: "Tippek", gastro: "Gasztro", shop: "Shopping", quiet: "Nyugis helyek", fei: "Ünnepnap", feiWarn: "ünnepnap — sok üzlet zárva lehet!" },
+    ro: { title: "Informații practice", wx: "Vremea — 5 zile", near: "În împrejurimi", tips: "Sfaturi", gastro: "Gastro", shop: "Cumpărături", quiet: "Locuri liniștite", fei: "Sărbătoare", feiWarn: "sărbătoare legală — multe magazine pot fi închise!" },
+    en: { title: "Practical info", wx: "Weather — 5 days", near: "Nearby", tips: "Tips", gastro: "Food", shop: "Shopping", quiet: "Quiet spots", fei: "Holiday", feiWarn: "public holiday — many shops may be closed!" },
+    fr: { title: "Infos pratiques", wx: "Météo — 5 jours", near: "Aux alentours", tips: "Conseils", gastro: "Gastro", shop: "Shopping", quiet: "Coins calmes", fei: "Jour férié", feiWarn: "jour férié — de nombreux magasins peuvent être fermés !" },
+    tr: { title: "Pratik bilgiler", wx: "Hava — 5 gün", near: "Çevrede", tips: "İpuçları", gastro: "Yeme-içme", shop: "Alışveriş", quiet: "Sakin yerler", fei: "Tatil", feiWarn: "resmî tatil — birçok dükkân kapalı olabilir!" },
+    hr: { title: "Praktične informacije", wx: "Vrijeme — 5 dana", near: "U okolici", tips: "Savjeti", gastro: "Gastro", shop: "Kupovina", quiet: "Mirna mjesta", fei: "Blagdan", feiWarn: "blagdan — mnoge trgovine mogu biti zatvorene!" },
+  };
+  const t = T[lang] || T.en;
+  // City-tips sidecar (build-time bake). Cities WITH itinerary already show
+  // picks in the PlizioGo widget — the tips block here is the no-itinerary fill.
+  let tipsHtml = "";
+  try {
+    const tp = path.resolve(process.cwd(), "public", "data", "city-tips", `${poi.id}.json`);
+    if (fs.existsSync(tp)) {
+      const ct = JSON.parse(fs.readFileSync(tp, "utf-8"));
+      const L = (o: any) => (o && (o[lang] || o.en)) || [];
+      const tipLis = L(ct.tips).map((x: string) => `<li>${escapeHtml(x)}</li>`).join("");
+      const picks = (arr: any[], emoji: string) => arr.map((p: any) =>
+        `<div class="plz-ic-pick"><span>${emoji}</span><div><b>${escapeHtml(String(p.name || ""))}</b><p>${escapeHtml(String(p.tip || ""))}</p></div></div>`).join("");
+      tipsHtml = `
+  <div class="plz-ic-sec"><h4>💡 ${escapeHtml(t.tips)}</h4><ul class="plz-ic-tips">${tipLis}</ul></div>
+  <div class="plz-ic-sec"><h4>🍽 ${escapeHtml(t.gastro)}</h4>${picks(L(ct.gastro_picks), "🍽")}</div>
+  <div class="plz-ic-sec"><h4>🛍 ${escapeHtml(t.shop)} · 🧘 ${escapeHtml(t.quiet)}</h4>${picks(L(ct.shopping_picks), "🛍")}${picks(L(ct.quiet_picks), "🧘")}</div>`;
+    }
+  } catch {}
+  const radiusHtml = renderSightRadius(poi, lang);
+  // SEO: keyword-os, városneves cím (h2-ként a summary-ban); a baked tips-szöveg
+  // a zárt details-ben is teljes értékűen indexelődik (DOM-ban van).
+  const cityName = (poi.name as any)?.[lang] || (poi.name as any)?.en || poi.id;
+  return `<details class="plz-icard" id="plzIcard" data-lat="${plat.toFixed(5)}" data-lng="${plng.toFixed(5)}" data-iso="${escapeHtml(iso2)}" data-lang="${lang}">
+  <summary><span class="plz-ic-ico">ℹ️</span><h2 class="plz-ic-h">${escapeHtml(t.title)} — ${escapeHtml(cityName)}</h2><span class="plz-ic-arrow">▾</span></summary>
+  <div class="plz-ic-body">
+    <div class="plz-ic-sec"><h4>🌤 ${escapeHtml(t.wx)}</h4><div class="plz-ic-wx" id="plzIcWx"><span class="plz-sgr-spin"></span></div><div class="plz-ic-fei" id="plzIcFei" hidden></div></div>
+    <div class="plz-ic-sec"><h4>📍 ${escapeHtml(t.near)}</h4>${radiusHtml}</div>
+    ${tipsHtml}
+  </div>
+</details>
+<script>(function(){var el=document.getElementById('plzIcard');if(!el)return;var loaded=false;
+el.addEventListener('toggle',function(){if(!el.open||loaded)return;loaded=true;
+var lat=el.dataset.lat,lng=el.dataset.lng,iso=el.dataset.iso,lang=el.dataset.lang;
+var IC={0:"☀️",1:"🌤",2:"⛅",3:"☁️",45:"🌫",48:"🌫",51:"🌦",53:"🌦",55:"🌧",61:"🌦",63:"🌧",65:"🌧",71:"🌨",73:"🌨",75:"❄️",80:"🌦",81:"🌧",82:"⛈",95:"⛈",96:"⛈",99:"⛈"};
+var DAYS={de:['So','Mo','Di','Mi','Do','Fr','Sa'],hu:['V','H','K','Sze','Cs','P','Szo'],ro:['Du','Lu','Ma','Mi','Jo','Vi','Sâ'],en:['Sun','Mon','Tue','Wed','Thu','Fri','Sat']};
+var D=DAYS[lang]||DAYS.en;
+fetch('https://api.open-meteo.com/v1/forecast?latitude='+lat+'&longitude='+lng+'&daily=weather_code,temperature_2m_max,temperature_2m_min&timezone=auto&forecast_days=5')
+.then(function(r){return r.json()}).then(function(j){
+  document.getElementById('plzIcWx').innerHTML=j.daily.time.map(function(tm,i){var d=new Date(tm);
+    return '<div class="plz-ic-wd"><div class="d">'+D[d.getDay()]+' '+d.getDate()+'.</div><div class="i">'+(IC[j.daily.weather_code[i]]||'🌡')+'</div><div class="t">'+Math.round(j.daily.temperature_2m_max[i])+'° <small>'+Math.round(j.daily.temperature_2m_min[i])+'°</small></div></div>';
+  }).join('');}).catch(function(){var w=document.getElementById('plzIcWx');if(w)w.innerHTML='';});
+if(iso){fetch('https://date.nager.at/api/v3/PublicHolidays/'+(new Date()).getFullYear()+'/'+iso)
+.then(function(r){return r.ok?r.json():[]}).then(function(hs){
+  var now=new Date();var today=new Date(now.toDateString());var lim=new Date(now.getTime()+5*86400000);
+  for(var i=0;i<hs.length;i++){var d=new Date(hs[i].date);
+    if(d>=today&&d<=lim){var f=document.getElementById('plzIcFei');f.hidden=false;
+      f.innerHTML='🎌 <b>'+hs[i].date.slice(5)+': '+hs[i].localName+'</b> — '+${JSON.stringify(t.feiWarn)};break;}}
+}).catch(function(){});}
+try{if(window.umami&&window.umami.track)window.umami.track('infocard_open',{});}catch(e){}
+});})();</script>`;
+}
+
 function renderCityItinerary(poi: POI, lang: Lang): string {
   const tier = (poi as { tier?: number }).tier ?? 2;
   const data = loadItinerary(poi.id, tier);
@@ -2086,6 +2158,10 @@ function renderHtml(poi: POI, lang: Lang): string | null {
 <script>(function(){var el=document.getElementById('plz-weather');if(!el)return;var lat=el.dataset.lat,lon=el.dataset.lon,lang=el.dataset.lang;var ICON=function(c){if(c===0)return'☀️';if(c<=2)return'🌤️';if(c===3)return'☁️';if(c>=45&&c<=48)return'🌫️';if(c>=51&&c<=57)return'🌦️';if(c>=61&&c<=67)return'🌧️';if(c>=71&&c<=77)return'🌨️';if(c>=80&&c<=82)return'🌧️';if(c>=85&&c<=86)return'🌨️';if(c>=95)return'⛈️';return'🌡️';};var DAYS={de:['So','Mo','Di','Mi','Do','Fr','Sa'],hu:['V','H','K','Sze','Cs','P','Szo'],ro:['Du','Lu','Ma','Mi','Jo','Vi','Sâ'],en:['Sun','Mon','Tue','Wed','Thu','Fri','Sat']};var CP={de:{now:'Aktuell',forecast:'5-Tage-Vorhersage'},hu:{now:'Most',forecast:'5 napos előrejelzés'},ro:{now:'Acum',forecast:'Prognoză 5 zile'},en:{now:'Now',forecast:'5-day forecast'}};var c=CP[lang]||CP.en;var d=DAYS[lang]||DAYS.en;fetch('https://api.open-meteo.com/v1/forecast?latitude='+lat+'&longitude='+lon+'&current=temperature_2m,weather_code&daily=temperature_2m_max,temperature_2m_min,weather_code&forecast_days=5&timezone=auto').then(function(r){return r.json();}).then(function(j){var html='';if(j.current){html+='<div class="plz-weather-now"><span class="plz-weather-icon">'+ICON(j.current.weather_code)+'</span><div><span class="plz-weather-label">'+c.now+'</span><strong>'+Math.round(j.current.temperature_2m)+'°C</strong></div></div>';}if(j.daily){html+='<div class="plz-weather-forecast"><span class="plz-weather-label">'+c.forecast+'</span><ul>';for(var i=0;i<j.daily.time.length;i++){var dt=new Date(j.daily.time[i]);html+='<li><span>'+d[dt.getDay()]+'</span><span>'+ICON(j.daily.weather_code[i])+'</span><strong>'+Math.round(j.daily.temperature_2m_max[i])+'°</strong><span class="plz-tmin">'+Math.round(j.daily.temperature_2m_min[i])+'°</span></li>';}html+='</ul></div>';}el.innerHTML=html;}).catch(function(){el.style.display='none';});})();</script>`
     : "";
 
+  // City info-card: replaces the weather widget + the sights-section radius
+  // filter on city POIs (everything moves into the collapsible card).
+  const infoCardHtml = renderInfoCard(poi, lang, countryId);
+
   // Water-temperature widget (Open-Meteo Marine API, client-side fetch — auto-hides if inland).
   // Same lat/lon as weather. Marine API returns null SST for inland coords → script hides element.
   const marineCopy: Partial<Record<Lang, { now: string; forecast: string; loading: string }>> = {
@@ -2485,7 +2561,7 @@ ready();})();</script>
   ${renderTabNav(lang, { hasItin: true, hasSights: sightsArr.length > 0 || nearbyArr.length > 0, hasNews: !!newsHtml, hasInfo: factsArr.length > 0 || geoItems.length > 0 || historyHtml })}
   <div class="plz-hero-grid" id="sec-overview">
     <div class="plz-hero-grid-main">${heroHtml}${heroSvHtml}${flagBtnHtml}</div>
-    <div class="plz-hero-grid-side">${weatherHtml}${marineHtml}${officialLinksHtml}${yearlyHtml}${newsHtml}</div>
+    <div class="plz-hero-grid-side">${infoCardHtml || weatherHtml}${marineHtml}${officialLinksHtml}${yearlyHtml}${newsHtml}</div>
   </div>
   ${renderVisitInfo(poi, lang)}
   ${descText ? `<section><p class="poi-lead-paragraph">${escapeHtml(descText)}</p></section>` : ""}
@@ -2502,7 +2578,7 @@ ready();})();</script>
   <div id="sec-itin">${renderCityItinerary(poi, lang)}</div>
   <div id="sec-sights">
   ${sightsHtml}
-  ${renderSightRadius(poi, lang)}
+  ${infoCardHtml ? "" : renderSightRadius(poi, lang)}
   ${nearbyHtml}
   </div>
   ${renderFAQ(poi, lang) || faqHtml}
@@ -2540,6 +2616,27 @@ a.plz-sgr-nm:hover{text-decoration:underline}
 .plz-sgr-load{padding:1.2rem;text-align:center;color:#ffffff90;grid-column:1/-1}
 .plz-sgr-spin{display:inline-block;width:26px;height:26px;border-radius:50%;border:3px solid #ffffff25;border-top-color:#3b82f6;animation:plzsgrspin .8s linear infinite}
 @keyframes plzsgrspin{to{transform:rotate(360deg)}}
+.plz-icard{background:linear-gradient(170deg,#101b33,#0c1426);border:1px solid rgba(120,180,255,.28);border-radius:14px;overflow:hidden;margin-bottom:12px}
+.plz-icard summary{display:flex;align-items:center;gap:8px;padding:11px 14px;cursor:pointer;list-style:none;font-weight:800;font-size:.95rem;-webkit-tap-highlight-color:transparent}
+.plz-icard summary::-webkit-details-marker{display:none}
+.plz-ic-h{margin:0;font-size:.95rem;font-weight:800;display:inline}
+.plz-ic-ico{font-size:1.05rem}
+.plz-ic-arrow{margin-left:auto;color:#7fb0ff;transition:transform .2s}
+.plz-icard[open] .plz-ic-arrow{transform:rotate(180deg)}
+.plz-ic-body{padding:0 14px 12px}
+.plz-ic-sec{padding:8px 0;border-top:1px solid #ffffff0d}
+.plz-ic-sec h4{margin:0 0 6px;font-size:.7rem;text-transform:uppercase;letter-spacing:.07em;color:#7fb0ff}
+.plz-ic-wx{display:flex;gap:5px;overflow-x:auto}
+.plz-ic-wd{flex:1;min-width:50px;background:#ffffff0a;border-radius:9px;padding:6px 3px;text-align:center}
+.plz-ic-wd .d{font-size:.6rem;color:#9fc4ff}.plz-ic-wd .i{font-size:1.05rem;margin:2px 0}
+.plz-ic-wd .t{font-size:.72rem;font-weight:700}.plz-ic-wd .t small{color:#9fb4d8;font-weight:400}
+.plz-ic-fei{background:#3b2407;border:1px solid #b4690e88;border-radius:9px;padding:7px 9px;font-size:.78rem;margin-top:8px}
+.plz-ic-fei b{color:#fbbf24}
+.plz-ic-tips{margin:0;padding-left:17px;font-size:.8rem;color:#d7e4fb}.plz-ic-tips li{margin:3px 0}
+.plz-ic-pick{display:flex;gap:7px;padding:4px 0;font-size:.81rem}
+.plz-ic-pick p{margin:1px 0 0;color:#bcd0ee;font-size:.74rem}
+.plz-icard .plz-sgr{margin-top:0}.plz-icard .plz-sgr h2{display:none}
+.plz-icard .plz-sgr-list{max-height:300px}
 .plz-lightbox{position:fixed;inset:0;background:rgba(2,6,12,.92);display:none;align-items:center;justify-content:center;z-index:9999;padding:env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left);-webkit-tap-highlight-color:transparent}
 .plz-lightbox.open{display:flex}
 .plz-lightbox img{max-width:min(95vw,1400px);max-height:min(90vh,1400px);width:auto;height:auto;object-fit:contain;border-radius:8px;box-shadow:0 8px 40px rgba(0,0,0,.6)}
