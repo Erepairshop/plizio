@@ -1328,6 +1328,7 @@ function renderCityItinerary(poi: POI, lang: Lang): string {
     const visibleBtns: string[] = [`<a class="plz-itin-nav" href="${gmaps}" target="_blank" rel="nofollow noopener">🧭 ${navLabel}</a>`];
     if (wiki) visibleBtns.push(`<a class="plz-itin-link" href="${wiki}" target="_blank" rel="noopener" title="Wikipedia">📚</a>`);
     if (links.street_view) visibleBtns.push(`<a class="plz-itin-link" href="${links.street_view}" target="_blank" rel="nofollow noopener" title="Street View">👁️</a>`);
+    else if (typeof lat === "number" && typeof lon === "number" && SV_OK[svKey(lat, lon)]) visibleBtns.push(`<a class="plz-itin-link plz-itin-sv" href="https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=${lat},${lon}" target="_blank" rel="nofollow noopener" title="Street View" aria-label="Street View">${SV_PEGMAN_SVG}</a>`);
     // Hidden behind <details>: Place [nofollow], OSM [dofollow], Tickets [sponsored], TripAdvisor [sponsored]
     const moreBtns: string[] = [];
     if (links.gmaps_place) moreBtns.push(`<a class="plz-itin-link" href="${links.gmaps_place}" target="_blank" rel="nofollow noopener" title="GMaps Place">📍</a>`);
@@ -2284,6 +2285,20 @@ function renderHtml(poi: POI, lang: Lang): string | null {
       + `<script>(function(){try{var s=location.search;if(s.indexOf('flag=1')>=0)localStorage.setItem('plzflag','1');if(s.indexOf('flag=0')>=0)localStorage.removeItem('plzflag');if(localStorage.getItem('plzflag')!=='1')return;}catch(e){return;}var POI=${JSON.stringify(poi.id)},LANG=${JSON.stringify(lang)};document.body.classList.add('plz-flagmode');function flag(img,el){try{if(window.umami&&window.umami.track)window.umami.track('bad_image',{poi:POI,img:img||'',lang:LANG});}catch(e){}if(el){el.classList.add('plz-flagged');}}var b=document.querySelector('.plz-imgflag');if(b){b.hidden=false;b.addEventListener('click',function(){flag('hero',null);b.textContent='\\u2713';b.disabled=true;b.classList.add('done');});}document.addEventListener('click',function(e){var t=e.target&&e.target.closest?e.target.closest('.plz-sight-img-btn'):null;if(!t)return;e.preventDefault();e.stopPropagation();flag(t.getAttribute('data-plzimg'),t);},true);})();</script>`
     : "";
 
+  // Hero Street View button — POI center coords (same [lng,lat] convention),
+  // gated by the SV metadata sidecar. Overlay badge on the hero's corner.
+  let heroSvHtml = "";
+  {
+    const pc = (poi as { coords?: unknown }).coords as number[] | undefined;
+    if (Array.isArray(pc) && pc.length === 2 && typeof pc[0] === "number" && typeof pc[1] === "number") {
+      const [plng, plat] = pc;
+      if (SV_OK[svKey(plat, plng)]) {
+        const u = `https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=${plat.toFixed(6)},${plng.toFixed(6)}`;
+        heroSvHtml = `<a class="plz-hero-sv" href="${u}" target="_blank" rel="nofollow noopener" title="Street View" aria-label="Street View">${SV_PEGMAN_SVG}</a>`;
+      }
+    }
+  }
+
   // Coat of arms (city/region badge)
   const coa = (poi as { coa?: string }).coa;
   const coaLabel: Partial<Record<Lang, string>> = { de: "Wappen", hu: "címer", ro: "stema", en: "coat of arms", fr: "blason", tr: "arması", hr: "grb" };
@@ -2404,7 +2419,7 @@ ready();})();</script>
   ${renderStatsChips(poi, lang, richness, sightsArr.length, nearbyArr.length)}
   ${renderTabNav(lang, { hasItin: true, hasSights: sightsArr.length > 0 || nearbyArr.length > 0, hasNews: !!newsHtml, hasInfo: factsArr.length > 0 || geoItems.length > 0 || historyHtml })}
   <div class="plz-hero-grid" id="sec-overview">
-    <div class="plz-hero-grid-main">${heroHtml}${flagBtnHtml}</div>
+    <div class="plz-hero-grid-main">${heroHtml}${heroSvHtml}${flagBtnHtml}</div>
     <div class="plz-hero-grid-side">${weatherHtml}${marineHtml}${officialLinksHtml}${yearlyHtml}${newsHtml}</div>
   </div>
   ${renderVisitInfo(poi, lang)}
@@ -2440,6 +2455,11 @@ ready();})();</script>
 .plz-sight-sv{display:inline-flex;align-items:center;justify-content:center;width:24px;height:24px;margin-left:8px;vertical-align:-5px;border-radius:50%;background:#fbbc04;color:#fff;box-shadow:0 1px 3px rgba(0,0,0,.35);transition:transform .15s,box-shadow .15s}
 .plz-sight-sv:hover{transform:scale(1.18);box-shadow:0 2px 8px rgba(251,188,4,.6);background:#f9ab00}
 .plz-sight-sv svg{display:block}
+.plz-hero-sv{position:absolute;right:10px;bottom:10px;z-index:5;display:inline-flex;align-items:center;justify-content:center;width:38px;height:38px;border-radius:50%;background:#fbbc04;color:#fff;box-shadow:0 2px 6px rgba(0,0,0,.45);transition:transform .15s,box-shadow .15s}
+.plz-hero-sv:hover{transform:scale(1.12);box-shadow:0 3px 10px rgba(251,188,4,.65);background:#f9ab00}
+.plz-hero-sv svg{display:block;width:22px;height:22px}
+.plz-itin-sv{display:inline-flex;align-items:center;justify-content:center;width:22px;height:22px;border-radius:50%;background:#fbbc04;color:#fff}
+.plz-itin-sv svg{display:block;width:13px;height:13px}
 .plz-lightbox{position:fixed;inset:0;background:rgba(2,6,12,.92);display:none;align-items:center;justify-content:center;z-index:9999;padding:env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left);-webkit-tap-highlight-color:transparent}
 .plz-lightbox.open{display:flex}
 .plz-lightbox img{max-width:min(95vw,1400px);max-height:min(90vh,1400px);width:auto;height:auto;object-fit:contain;border-radius:8px;box-shadow:0 8px 40px rgba(0,0,0,.6)}

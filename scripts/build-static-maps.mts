@@ -578,7 +578,15 @@ const GROUP_LABELS: Record<Grp, Record<Lang, string>> = {
   other:    { de:"Sonst.", hu:"Egyéb",      ro:"Altele",    en:"Other" },
 };
 
-type SlimPoi = { id:string; type:string; grp:Grp; cx:number; cy:number; name:any; urls?:Record<string,string>; img?:string; desc?:any; facts?:any };
+type SlimPoi = { id:string; type:string; grp:Grp; cx:number; cy:number; name:any; urls?:Record<string,string>; img?:string; desc?:any; facts?:any; sv?:string };
+
+// Street View availability sidecar (built by the VPS metadata sweep):
+// {"lat,lng"@4dp: 1}. When the POI center is covered, the mapcard gets a pegman link.
+const SV_PATH = path.join(process.cwd(), "public", "data", "sight-sv.json");
+let SV_OK: Record<string, 1> = {};
+if (fs.existsSync(SV_PATH)) {
+  try { SV_OK = JSON.parse(fs.readFileSync(SV_PATH, "utf8")); } catch {}
+}
 
 // Load the pre-built POI id → URL per lang index (built by build-poi-url-index.mts).
 const URL_INDEX_PATH = path.join(process.cwd(), "public", "data", "_poi-url-index.json");
@@ -668,10 +676,14 @@ function slimPoi(p: any, proj: (lon:number,lat:number)=>[number,number], W:numbe
     }
   }
   const img = typeof p.image === "string" ? p.image : lookupFallbackImage(p.id);
+  // Street View flag: store the pegman viewpoint ("lat,lng") when covered.
+  const svk = `${lat.toFixed(4)},${lon.toFixed(4)}`;
+  const sv = SV_OK[svk] ? svk : undefined;
   return {
     id: p.id, type: t, grp: groupOf(t),
     cx: +cx.toFixed(1), cy: +cy.toFixed(1),
     name,
+    ...(sv ? { sv } : {}),
     ...(img ? { img } : {}),
     ...(Object.keys(desc).length ? { desc } : {}),
     ...(Object.keys(facts).length ? { facts } : {}),
@@ -950,6 +962,9 @@ header .langs{display:flex;gap:.25rem}
 .mapcard .mc-desc{font-size:.76rem;color:#cfe0ff;line-height:1.4;margin:0 0 9px;display:none}
 .mapcard .mc-desc.show{display:block}
 .mapcard .mc-more{display:inline-block;background:linear-gradient(135deg,#3b82f6,#2563eb);color:#fff;text-decoration:none;font-weight:700;font-size:.78rem;padding:.42rem .75rem;border-radius:8px}
+.mapcard .mc-sv{align-items:center;justify-content:center;width:28px;height:28px;margin-left:7px;vertical-align:-8px;border-radius:50%;background:#fbbc04;color:#fff;box-shadow:0 1px 3px rgba(0,0,0,.4)}
+.mapcard .mc-sv:hover{background:#f9ab00}
+.mapcard .mc-sv svg{display:block}
 .mapcard .mc-x{position:absolute;top:5px;right:5px;width:24px;height:24px;border-radius:50%;background:rgba(0,0,0,.5);border:none;color:#fff;font-size:.95rem;cursor:pointer;z-index:2;display:flex;align-items:center;justify-content:center;line-height:1;padding:0}
 .burst{position:fixed;inset:0;z-index:15;pointer-events:none;display:none}
 .burst.open{display:block}
@@ -1027,6 +1042,7 @@ header .langs{display:flex;gap:.25rem}
     <div class="mc-name" id="mcName"></div>
     <p class="mc-desc" id="mcDesc"></p>
     <a class="mc-more" id="mcMore" href="#">${more} →</a>
+    <a class="mc-sv" id="mcSv" href="#" target="_blank" rel="nofollow noopener" title="Street View" aria-label="Street View" style="display:none"><svg viewBox="0 0 24 24" width="14" height="14" fill="currentColor" aria-hidden="true"><circle cx="12" cy="6" r="3.1"/><path d="M12 9.8c-2 0-3.4 1.1-3.4 2.6v3l1.5.6.5 5h2.8l.5-5 1.5-.6v-3c0-1.5-1.4-2.6-3.4-2.6z"/></svg></a>
   </div>
 </div>
 <div class="burst" id="burst"><svg class="burst-svg" id="burstSvg"></svg><div class="burst-dots" id="burstDots"></div></div>
@@ -1035,10 +1051,11 @@ const LANG=${JSON.stringify(lang)},W=${W},H=${H};
 try{localStorage.setItem('plizio_language',LANG)}catch(e){}
 const CLUSTERS=${JSON.stringify(multiClusters.map(cl => cl.pois.map(p => ({id:p.id, name:p.name[lang]||p.name.en||p.id, grp:p.grp, url:p.urls?.[lang]||null, cx:p.cx, cy:p.cy}))))};
 const SEARCH_EXTRA=${JSON.stringify(SEARCH_EXTRA_JS)};
-const POI_CARD=${JSON.stringify(Object.fromEntries(pois.filter(p => p.img || (p.desc && p.desc[lang]) || (p.facts && p.facts[lang])).map(p => [p.id, {
+const POI_CARD=${JSON.stringify(Object.fromEntries(pois.filter(p => p.img || p.sv || (p.desc && p.desc[lang]) || (p.facts && p.facts[lang])).map(p => [p.id, {
   i: p.img || undefined,
   s: (p.desc && p.desc[lang]) || undefined,
   f: (p.facts && p.facts[lang]) || undefined,
+  v: p.sv || undefined,
 }])))};
 const svg=document.getElementById('svg'),stage=document.getElementById('stage');
 const gR=document.getElementById('gR'),gL=document.getElementById('gL'),gP=document.getElementById('gP'),gC=document.getElementById('gC');
@@ -1098,6 +1115,8 @@ function fillCard(d){
   if(c.i){img.style.backgroundImage='url("'+c.i.replace(/"/g,'\\"')+'")';img.classList.add('has')}else{img.classList.remove('has');img.style.backgroundImage=''}
   const ds=mapcard.querySelector('.mc-desc');
   if(c.s){ds.textContent=c.s;ds.classList.add('show')}else{ds.textContent='';ds.classList.remove('show')}
+  const sv=document.getElementById('mcSv');
+  if(c.v){sv.href='https://www.google.com/maps/@?api=1&map_action=pano&viewpoint='+c.v;sv.style.display='inline-flex'}else{sv.style.display='none'}
 }
 function openPopup(el){
   closePopup();
